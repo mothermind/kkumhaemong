@@ -1,0 +1,40 @@
+{
+  "nav": {
+    "home": "Home",
+    "categories": "Categories",
+    "search": "Search",
+    "searchPlaceholder": "Search dream meanings..."
+  },
+  "home": {
+    "title": "Korean Dream Interpretation - 꿈해몽",
+    "subtitle": "Complete Guide to Korean Dream Meanings",
+    "description": "Discover the meaning of your dreams through traditional Korean dream interpretation (꿈해몽). From pig dreams to snake dreams, find what your dream means.",
+    "browseCategories": "Browse Categories",
+    "popularDreams": "Popular Dreams",
+    "allCategories": "All Categories"
+  },
+  "dream": {
+    "auspicious": "Auspicious (길몽)",
+    "inauspicious": "Inauspicious (흉몽)",
+    "neutral": "Neutral",
+    "variations": "Dream Variations",
+    "culturalContext": "Cultural Context",
+    "faq": "Frequently Asked Questions",
+    "relatedDreams": "Related Dreams",
+    "shareTitle": "Share"
+  },
+  "category": {
+    "allSymbols": "All Symbols",
+    "symbolCount": "{count} dreams",
+    "browseAll": "Browse All"
+  },
+  "footer": {
+    "description": "Your guide to Korean dream interpretation",
+    "copyright": "© {year} Kkumhaemong. All rights reserved.",
+    "disclaimer": "Dream interpretations are for reference only and do not constitute real-world advice."
+  },
+  "language": {
+    "toggle": "한국어",
+    "current": "English"
+  }
+}

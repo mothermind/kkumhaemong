@@ -1,0 +1,40 @@
+{
+  "nav": {
+    "home": "홈",
+    "categories": "카테고리",
+    "search": "검색",
+    "searchPlaceholder": "꿈을 검색하세요..."
+  },
+  "home": {
+    "title": "꿈해몽 - 모든 꿈의 의미를 찾아보세요",
+    "subtitle": "한국 전통 꿈해몽 완벽 정리",
+    "description": "돼지꿈, 뱀꿈, 이빨빠지는꿈 등 모든 꿈해몽을 길몽·흉몽 구분과 함께 상세히 알려드립니다.",
+    "browseCategories": "카테고리 둘러보기",
+    "popularDreams": "인기 꿈해몽",
+    "allCategories": "전체 카테고리"
+  },
+  "dream": {
+    "auspicious": "길몽",
+    "inauspicious": "흉몽",
+    "neutral": "중립",
+    "variations": "상황별 해몽",
+    "culturalContext": "문화적 배경",
+    "faq": "자주 묻는 질문",
+    "relatedDreams": "관련 꿈해몽",
+    "shareTitle": "공유하기"
+  },
+  "category": {
+    "allSymbols": "전체 목록",
+    "symbolCount": "{count}개의 꿈",
+    "browseAll": "전체 보기"
+  },
+  "footer": {
+    "description": "한국 전통 꿈해몽 전문 사이트",
+    "copyright": "© {year} 꿈해몽. All rights reserved.",
+    "disclaimer": "꿈해몽은 참고용이며, 실제 상황에 대한 조언이 아닙니다."
+  },
+  "language": {
+    "toggle": "English",
+    "current": "한국어"
+  }
+}
