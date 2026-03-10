@@ -12,7 +12,7 @@ export function DreamFAQ({ id, heading, faqs }: Props) {
 
   return (
     <section id={id} className="mt-12 scroll-mt-20">
-      <h2 className="font-serif-ko mb-5 text-[22px] font-semibold tracking-tight text-white">{heading}</h2>
+      <h2 className="mb-5 text-[22px] font-semibold tracking-tight text-white">{heading}</h2>
       <div className="divide-y divide-white/10">
         {faqs.map((faq, i) => (
           <div key={i}>

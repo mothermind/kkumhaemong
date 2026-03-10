@@ -1,10 +1,10 @@
 import Image from "next/image";
 import { MarkdownBody } from "./MarkdownBody";
 
-const TYPE_META = {
-  auspicious: { label: "길몽", labelEn: "Auspicious", color: "text-emerald-400", tag: "bg-emerald-400/10 text-emerald-400" },
-  inauspicious: { label: "흉몽", labelEn: "Inauspicious", color: "text-red-400", tag: "bg-red-400/10 text-red-400" },
-  neutral: { label: "중립", labelEn: "Neutral", color: "text-gray-300", tag: "bg-white/5 text-gray-400" },
+const TYPE_COLOR = {
+  auspicious: "text-emerald-400",
+  inauspicious: "text-red-400",
+  neutral: "text-gray-300",
 } as const;
 
 type Props = {
@@ -13,21 +13,14 @@ type Props = {
   body: string;
   type: string;
   image?: string;
-  locale?: string;
 };
 
-export function DreamSection({ id, heading, body, type, image, locale }: Props) {
-  const meta = TYPE_META[type as keyof typeof TYPE_META] ?? TYPE_META.neutral;
-  const tagLabel = locale === "en" ? meta.labelEn : meta.label;
+export function DreamSection({ id, heading, body, type, image }: Props) {
+  const color = TYPE_COLOR[type as keyof typeof TYPE_COLOR] ?? TYPE_COLOR.neutral;
 
   return (
     <section id={id} className="mt-[72px] scroll-mt-20">
-      {/* Type tag */}
-      <span className={`inline-block mb-3 rounded-full px-3 py-[0.28rem] text-xs font-semibold tracking-wide ${meta.tag}`}>
-        {tagLabel}
-      </span>
-      {/* Section heading */}
-      <h2 className={`font-serif-ko mb-5 text-[22px] font-semibold leading-snug tracking-tight ${meta.color}`}>
+      <h2 className={`mb-5 text-[22px] font-semibold leading-snug tracking-tight ${color}`}>
         {heading}
       </h2>
       {image && (

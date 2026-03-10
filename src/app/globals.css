@@ -80,11 +80,6 @@ body {
   overflow-wrap: break-word;
 }
 
-/* Serif heading utility — 명조체 feel */
-.font-serif-ko {
-  font-family: "Noto Serif KR", "KoPub Batang", Georgia, serif;
-}
-
 /* Smooth font rendering */
 * {
   -webkit-font-smoothing: antialiased;
