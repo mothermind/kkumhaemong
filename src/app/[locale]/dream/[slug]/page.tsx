@@ -139,20 +139,20 @@ export default async function DreamPage({ params }: Props) {
           }))}
         />
 
-        <section id={culturalId} className="mt-14 scroll-mt-20">
-          <span className="inline-block mb-2 rounded-full px-2.5 py-0.5 text-xs font-semibold tracking-wide bg-white/5 text-gray-500">
+        <section id={culturalId} className="mt-[72px] scroll-mt-20">
+          <span className="inline-block mb-3 rounded-full px-3 py-[0.28rem] text-xs font-semibold tracking-wide bg-white/5 text-gray-500">
             {locale === "ko" ? "문화적 배경" : "Cultural Context"}
           </span>
-          <h2 className="font-serif-ko mb-5 text-2xl font-semibold text-white">{t("culturalContext")}</h2>
+          <h2 className="font-serif-ko mb-5 text-[22px] font-semibold tracking-tight text-white">{t("culturalContext")}</h2>
           <MarkdownBody className="text-gray-400 leading-8">{c.culturalContext}</MarkdownBody>
         </section>
 
         {c.westernContext && (
-          <section id={westernId} className="mt-14 scroll-mt-20">
-            <span className="inline-block mb-2 rounded-full px-2.5 py-0.5 text-xs font-semibold tracking-wide bg-white/5 text-gray-500">
+          <section id={westernId} className="mt-[72px] scroll-mt-20">
+            <span className="inline-block mb-3 rounded-full px-3 py-[0.28rem] text-xs font-semibold tracking-wide bg-white/5 text-gray-500">
               {locale === "ko" ? "심리학적 해석" : "Psychology"}
             </span>
-            <h2 className="font-serif-ko mb-5 text-2xl font-semibold text-white">
+            <h2 className="font-serif-ko mb-5 text-[22px] font-semibold tracking-tight text-white">
               {locale === "ko" ? "서양 심리학적 해석" : "Western Psychological Perspectives"}
             </h2>
             <MarkdownBody className="text-gray-400 leading-8">{c.westernContext}</MarkdownBody>

@@ -19,7 +19,7 @@ export function MarkdownBody({ children, className = "" }: Props) {
       <ReactMarkdown
         components={{
           p: ({ children }) => (
-            <p className="mb-3 leading-relaxed last:mb-0">{children}</p>
+            <p className="mb-[1.05rem] last:mb-0">{children}</p>
           ),
           strong: ({ children }) => (
             <strong className="font-semibold">{children}</strong>

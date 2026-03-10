@@ -21,13 +21,13 @@ export function DreamSection({ id, heading, body, type, image, locale }: Props) 
   const tagLabel = locale === "en" ? meta.labelEn : meta.label;
 
   return (
-    <section id={id} className="mt-14 scroll-mt-20">
+    <section id={id} className="mt-[72px] scroll-mt-20">
       {/* Type tag */}
-      <span className={`inline-block mb-2 rounded-full px-2.5 py-0.5 text-xs font-semibold tracking-wide ${meta.tag}`}>
+      <span className={`inline-block mb-3 rounded-full px-3 py-[0.28rem] text-xs font-semibold tracking-wide ${meta.tag}`}>
         {tagLabel}
       </span>
       {/* Section heading */}
-      <h2 className={`font-serif-ko mb-5 text-2xl font-semibold leading-snug ${meta.color}`}>
+      <h2 className={`font-serif-ko mb-5 text-[22px] font-semibold leading-snug tracking-tight ${meta.color}`}>
         {heading}
       </h2>
       {image && (

@@ -2960,5 +2960,238 @@
       "description": "Verify build passes"
     },
     "tool_use_id": "toolu_014YehzMX2KvfydqMn6yjSwP"
+  },
+  {
+    "session_id": "b7a569c0-281f-4a4c-bcdc-58ed3ca0de5e",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/b7a569c0-281f-4a4c-bcdc-58ed3ca0de5e.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/app/globals.css",
+      "old_string": "@import url(\"https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&family=Noto+Serif+KR:wght@400;600;700&display=swap\");\n@import \"tailwindcss\" source(\"../\");",
+      "new_string": "@import \"tailwindcss\" source(\"../\");\n\n@font-face {\n  font-family: 'Pretendard';\n  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/pretendard@1.0/Pretendard-Thin.woff2') format('woff2');\n  font-weight: 100;\n  font-display: swap;\n}\n@font-face {\n  font-family: 'Pretendard';\n  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/pretendard@1.0/Pretendard-ExtraLight.woff2') format('woff2');\n  font-weight: 200;\n  font-display: swap;\n}\n@font-face {\n  font-family: 'Pretendard';\n  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/pretendard@1.0/Pretendard-Light.woff2') format('woff2');\n  font-weight: 300;\n  font-display: swap;\n}\n@font-face {\n  font-family: 'Pretendard';\n  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/pretendard@1.0/Pretendard-Regular.woff2') format('woff2');\n  font-weight: 400;\n  font-display: swap;\n}\n@font-face {\n  font-family: 'Pretendard';\n  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/pretendard@1.0/Pretendard-Medium.woff2') format('woff2');\n  font-weight: 500;\n  font-display: swap;\n}\n@font-face {\n  font-family: 'Pretendard';\n  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/pretendard@1.0/Pretendard-SemiBold.woff2') format('woff2');\n  font-weight: 600;\n  font-display: swap;\n}\n@font-face {\n  font-family: 'Pretendard';\n  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/pretendard@1.0/Pretendard-Bold.woff2') format('woff2');\n  font-weight: 700;\n  font-display: swap;\n}\n@font-face {\n  font-family: 'Pretendard';\n  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/pretendard@1.0/Pretendard-ExtraBold.woff2') format('woff2');\n  font-weight: 800;\n  font-display: swap;\n}\n@font-face {\n  font-family: 'Pretendard';\n  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/pretendard@1.0/Pretendard-Black.woff2') format('woff2');\n  font-weight: 900;\n  font-display: swap;\n}",
+      "replace_all": false
+    },
+    "tool_use_id": "toolu_015A3sxaMixzN1K2DHsVHnFP"
+  },
+  {
+    "session_id": "b7a569c0-281f-4a4c-bcdc-58ed3ca0de5e",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/b7a569c0-281f-4a4c-bcdc-58ed3ca0de5e.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/app/globals.css",
+      "old_string": "/* Korean locale: Noto Sans KR */\n:lang(ko) {\n  word-break: keep-all;\n  overflow-wrap: break-word;\n  font-family: \"Noto Sans KR\", sans-serif;\n}\n\n/* English locale: system sans-serif */\n:lang(en) {\n  font-family: ui-sans-serif, system-ui, -apple-system, sans-serif;\n}",
+      "new_string": "body {\n  font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, sans-serif;\n}\n\n:lang(ko) {\n  word-break: keep-all;\n  overflow-wrap: break-word;\n}",
+      "replace_all": false
+    },
+    "tool_use_id": "toolu_01HZksezh2dmtrpyVfEDRcio"
+  },
+  {
+    "session_id": "b7a569c0-281f-4a4c-bcdc-58ed3ca0de5e",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/b7a569c0-281f-4a4c-bcdc-58ed3ca0de5e.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Read",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/app/globals.css"
+    },
+    "tool_use_id": "toolu_01BnhhNHv3anULmnKW8BVMqK"
+  },
+  {
+    "session_id": "b7a569c0-281f-4a4c-bcdc-58ed3ca0de5e",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/b7a569c0-281f-4a4c-bcdc-58ed3ca0de5e.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/app/globals.css",
+      "old_string": "body {\n  background: var(--background);\n  color: var(--foreground);\n}\n\nbody {\n  font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, sans-serif;\n}",
+      "new_string": "body {\n  background: var(--background);\n  color: var(--foreground);\n  font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, sans-serif;\n}",
+      "replace_all": false
+    },
+    "tool_use_id": "toolu_01N5xJiCh88axTro7Yjv8cp8"
+  },
+  {
+    "session_id": "b7a569c0-281f-4a4c-bcdc-58ed3ca0de5e",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/b7a569c0-281f-4a4c-bcdc-58ed3ca0de5e.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/app/globals.css",
+      "old_string": "/* Serif heading utility */\n.font-serif-ko {\n  font-family: \"Noto Serif KR\", Georgia, \"Times New Roman\", serif;\n}",
+      "new_string": "/* Serif heading utility \u2014 \uba85\uc870\uccb4 feel */\n.font-serif-ko {\n  font-family: \"Noto Serif KR\", \"KoPub Batang\", Georgia, serif;\n}",
+      "replace_all": false
+    },
+    "tool_use_id": "toolu_013eCbQucPd9gvscmJm3WaP4"
+  },
+  {
+    "session_id": "b7a569c0-281f-4a4c-bcdc-58ed3ca0de5e",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/b7a569c0-281f-4a4c-bcdc-58ed3ca0de5e.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Bash",
+    "tool_input": {
+      "command": "npm run build 2>&1 | tail -10",
+      "timeout": 60000,
+      "description": "Verify build passes"
+    },
+    "tool_use_id": "toolu_01DfQpUNwKVJ4Kqt2o6ebTZ2"
+  },
+  {
+    "session_id": "b7a569c0-281f-4a4c-bcdc-58ed3ca0de5e",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/b7a569c0-281f-4a4c-bcdc-58ed3ca0de5e.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/app/globals.css",
+      "old_string": "body {\n  background: var(--background);\n  color: var(--foreground);\n  font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, sans-serif;\n}",
+      "new_string": "body {\n  background: var(--background);\n  color: var(--foreground);\n  font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, sans-serif;\n  font-size: 17px;\n  line-height: 1.92;\n}",
+      "replace_all": false
+    },
+    "tool_use_id": "toolu_01ST2sz9G4euPS7kwVZGVQd7"
+  },
+  {
+    "session_id": "b7a569c0-281f-4a4c-bcdc-58ed3ca0de5e",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/b7a569c0-281f-4a4c-bcdc-58ed3ca0de5e.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/components/dream/MarkdownBody.tsx",
+      "old_string": "            <p className=\"mb-3 leading-relaxed last:mb-0\">{children}</p>",
+      "new_string": "            <p className=\"mb-[1.05rem] last:mb-0\">{children}</p>",
+      "replace_all": false
+    },
+    "tool_use_id": "toolu_01EJfciD1eqCNdVyVmVxAgBn"
+  },
+  {
+    "session_id": "b7a569c0-281f-4a4c-bcdc-58ed3ca0de5e",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/b7a569c0-281f-4a4c-bcdc-58ed3ca0de5e.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/components/dream/DreamHero.tsx",
+      "old_string": "      <h1 className=\"font-serif-ko mb-5 text-3xl font-bold leading-snug text-white sm:text-4xl\">",
+      "new_string": "      <h1 className=\"font-serif-ko mb-5 text-3xl font-bold leading-snug tracking-tight text-white sm:text-4xl\">",
+      "replace_all": false
+    },
+    "tool_use_id": "toolu_01HcLQnnBFqbx6CurjzUHeEK"
+  },
+  {
+    "session_id": "b7a569c0-281f-4a4c-bcdc-58ed3ca0de5e",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/b7a569c0-281f-4a4c-bcdc-58ed3ca0de5e.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/components/dream/DreamSection.tsx",
+      "old_string": "    <section id={id} className=\"mt-14 scroll-mt-20\">\n      {/* Type tag */}\n      <span className={`inline-block mb-2 rounded-full px-2.5 py-0.5 text-xs font-semibold tracking-wide ${meta.tag}`}>\n        {tagLabel}\n      </span>\n      {/* Section heading */}\n      <h2 className={`font-serif-ko mb-5 text-2xl font-semibold leading-snug ${meta.color}`}>",
+      "new_string": "    <section id={id} className=\"mt-[72px] scroll-mt-20\">\n      {/* Type tag */}\n      <span className={`inline-block mb-3 rounded-full px-3 py-[0.28rem] text-xs font-semibold tracking-wide ${meta.tag}`}>\n        {tagLabel}\n      </span>\n      {/* Section heading */}\n      <h2 className={`font-serif-ko mb-5 text-[22px] font-semibold leading-snug tracking-tight ${meta.color}`}>",
+      "replace_all": false
+    },
+    "tool_use_id": "toolu_01GzHMRqFrMgmHp8AbA6RsxP"
+  },
+  {
+    "session_id": "b7a569c0-281f-4a4c-bcdc-58ed3ca0de5e",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/b7a569c0-281f-4a4c-bcdc-58ed3ca0de5e.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/components/dream/DreamVariations.tsx",
+      "old_string": "    <section id={id} className=\"mt-14 scroll-mt-20\">\n      {/* Section label */}\n      <span className=\"inline-block mb-2 rounded-full px-2.5 py-0.5 text-xs font-semibold tracking-wide bg-white/5 text-gray-500\">\n        \uc0c1\ud669\ubcc4 \ud574\ubabd\n      </span>\n      <h2 className=\"font-serif-ko mb-8 text-2xl font-semibold text-white\">{heading}</h2>\n      <div className=\"space-y-8\">\n        {variations.map((v, i) => (\n          <div key={i} className=\"border-l border-white/10 pl-5\">\n            <h3 className=\"mb-2 text-base font-semibold text-gray-200\">{v.heading}</h3>\n            <MarkdownBody className=\"text-gray-500 leading-7 text-sm\">{v.body}</MarkdownBody>\n          </div>\n        ))}",
+      "new_string": "    <section id={id} className=\"mt-[72px] scroll-mt-20\">\n      {/* Section label */}\n      <span className=\"inline-block mb-3 rounded-full px-3 py-[0.28rem] text-xs font-semibold tracking-wide bg-white/5 text-gray-500\">\n        \uc0c1\ud669\ubcc4 \ud574\ubabd\n      </span>\n      <h2 className=\"font-serif-ko mb-8 text-[22px] font-semibold tracking-tight text-white\">{heading}</h2>\n      <div className=\"space-y-8\">\n        {variations.map((v, i) => (\n          <div key={i} className=\"mt-8 border-l-[2.5px] border-white/20 pl-5\">\n            <h3 className=\"mb-2 text-[17px] font-semibold text-gray-200\">{v.heading}</h3>\n            <MarkdownBody className=\"text-gray-500 leading-7 text-sm\">{v.body}</MarkdownBody>\n          </div>\n        ))}",
+      "replace_all": false
+    },
+    "tool_use_id": "toolu_01XZ1uZwu5FAiiCdXEGPYJzZ"
+  },
+  {
+    "session_id": "b7a569c0-281f-4a4c-bcdc-58ed3ca0de5e",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/b7a569c0-281f-4a4c-bcdc-58ed3ca0de5e.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/components/dream/DreamFAQ.tsx",
+      "old_string": "              className=\"flex w-full items-center justify-between py-4 text-left text-sm font-medium text-gray-200 hover:text-white\"",
+      "new_string": "              className=\"flex w-full items-center justify-between py-[1.15rem] text-left text-sm font-medium text-gray-200 hover:text-white\"",
+      "replace_all": false
+    },
+    "tool_use_id": "toolu_01MMn4hNwsmeTm7s6ouTdEDw"
+  },
+  {
+    "session_id": "b7a569c0-281f-4a4c-bcdc-58ed3ca0de5e",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/b7a569c0-281f-4a4c-bcdc-58ed3ca0de5e.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/components/dream/DreamFAQ.tsx",
+      "old_string": "      <h2 className=\"font-serif-ko mb-5 text-2xl font-semibold text-white\">{heading}</h2>",
+      "new_string": "      <h2 className=\"font-serif-ko mb-5 text-[22px] font-semibold tracking-tight text-white\">{heading}</h2>",
+      "replace_all": false
+    },
+    "tool_use_id": "toolu_01S9NdLcxMq2T5J2VADuxA4n"
+  },
+  {
+    "session_id": "b7a569c0-281f-4a4c-bcdc-58ed3ca0de5e",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/b7a569c0-281f-4a4c-bcdc-58ed3ca0de5e.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Write",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/components/dream/TableOfContents.tsx",
+      "content": "type TocItem = { id: string; label: string };\ntype Props = { items: TocItem[]; locale: string };\n\nexport function TableOfContents({ items, locale }: Props) {\n  if (!items.length) return null;\n\n  return (\n    <nav className=\"mb-10 rounded-xl border border-white/10 bg-white/[0.03] px-6 py-5\">\n      <p className=\"mb-4 text-xs font-semibold uppercase tracking-wide text-gray-500\">\n        {locale === \"ko\" ? \"\ubaa9\ucc28\" : \"Contents\"}\n      </p>\n      <ol className=\"space-y-[0.3rem]\">\n        {items.map((item, i) => (\n          <li key={item.id} className=\"flex items-baseline gap-3\">\n            <span className=\"w-5 shrink-0 text-right text-xs text-gray-600\">{i + 1}</span>\n            <a\n              href={`#${item.id}`}\n              className=\"text-sm leading-relaxed text-gray-400 transition-colors hover:text-white\"\n            >\n              {item.label}\n            </a>\n          </li>\n        ))}\n      </ol>\n    </nav>\n  );\n}\n"
+    },
+    "tool_use_id": "toolu_012DJxLGSpSNNGMdt9yPeYKY"
+  },
+  {
+    "session_id": "b7a569c0-281f-4a4c-bcdc-58ed3ca0de5e",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/b7a569c0-281f-4a4c-bcdc-58ed3ca0de5e.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/app/[locale]/dream/[slug]/page.tsx",
+      "old_string": "        <section id={culturalId} className=\"mt-14 scroll-mt-20\">\n          <span className=\"inline-block mb-2 rounded-full px-2.5 py-0.5 text-xs font-semibold tracking-wide bg-white/5 text-gray-500\">\n            {locale === \"ko\" ? \"\ubb38\ud654\uc801 \ubc30\uacbd\" : \"Cultural Context\"}\n          </span>\n          <h2 className=\"font-serif-ko mb-5 text-2xl font-semibold text-white\">{t(\"culturalContext\")}</h2>\n          <MarkdownBody className=\"text-gray-400 leading-8\">{c.culturalContext}</MarkdownBody>\n        </section>\n\n        {c.westernContext && (\n          <section id={westernId} className=\"mt-14 scroll-mt-20\">\n            <span className=\"inline-block mb-2 rounded-full px-2.5 py-0.5 text-xs font-semibold tracking-wide bg-white/5 text-gray-500\">\n              {locale === \"ko\" ? \"\uc2ec\ub9ac\ud559\uc801 \ud574\uc11d\" : \"Psychology\"}\n            </span>\n            <h2 className=\"font-serif-ko mb-5 text-2xl font-semibold text-white\">\n              {locale === \"ko\" ? \"\uc11c\uc591 \uc2ec\ub9ac\ud559\uc801 \ud574\uc11d\" : \"Western Psychological Perspectives\"}\n            </h2>\n            <MarkdownBody className=\"text-gray-400 leading-8\">{c.westernContext}</MarkdownBody>\n          </section>\n        )}",
+      "new_string": "        <section id={culturalId} className=\"mt-[72px] scroll-mt-20\">\n          <span className=\"inline-block mb-3 rounded-full px-3 py-[0.28rem] text-xs font-semibold tracking-wide bg-white/5 text-gray-500\">\n            {locale === \"ko\" ? \"\ubb38\ud654\uc801 \ubc30\uacbd\" : \"Cultural Context\"}\n          </span>\n          <h2 className=\"font-serif-ko mb-5 text-[22px] font-semibold tracking-tight text-white\">{t(\"culturalContext\")}</h2>\n          <MarkdownBody className=\"text-gray-400 leading-8\">{c.culturalContext}</MarkdownBody>\n        </section>\n\n        {c.westernContext && (\n          <section id={westernId} className=\"mt-[72px] scroll-mt-20\">\n            <span className=\"inline-block mb-3 rounded-full px-3 py-[0.28rem] text-xs font-semibold tracking-wide bg-white/5 text-gray-500\">\n              {locale === \"ko\" ? \"\uc2ec\ub9ac\ud559\uc801 \ud574\uc11d\" : \"Psychology\"}\n            </span>\n            <h2 className=\"font-serif-ko mb-5 text-[22px] font-semibold tracking-tight text-white\">\n              {locale === \"ko\" ? \"\uc11c\uc591 \uc2ec\ub9ac\ud559\uc801 \ud574\uc11d\" : \"Western Psychological Perspectives\"}\n            </h2>\n            <MarkdownBody className=\"text-gray-400 leading-8\">{c.westernContext}</MarkdownBody>\n          </section>\n        )}",
+      "replace_all": false
+    },
+    "tool_use_id": "toolu_014Wbk3Kfs5c7DjRSqX95n3a"
+  },
+  {
+    "session_id": "b7a569c0-281f-4a4c-bcdc-58ed3ca0de5e",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/b7a569c0-281f-4a4c-bcdc-58ed3ca0de5e.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Bash",
+    "tool_input": {
+      "command": "npm run build 2>&1 | tail -10",
+      "timeout": 60000,
+      "description": "Verify build passes"
+    },
+    "tool_use_id": "toolu_01NHVkNSP7dC74gV3Gs1qadk"
   }
 ]

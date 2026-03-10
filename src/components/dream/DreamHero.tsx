@@ -27,7 +27,7 @@ export function DreamHero({ title, intro, heroImage, locale: _locale }: Props) {
         <div className="mb-8 w-full rounded-2xl bg-white/5 aspect-square sm:aspect-video" />
       )}
 
-      <h1 className="font-serif-ko mb-5 text-3xl font-bold leading-snug text-white sm:text-4xl">
+      <h1 className="font-serif-ko mb-5 text-3xl font-bold leading-snug tracking-tight text-white sm:text-4xl">
         {title}
       </h1>
 

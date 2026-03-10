@@ -1265,5 +1265,32 @@
     "hook_event_name": "Stop",
     "stop_hook_active": false,
     "last_assistant_message": "Pretendard isn't in that folder \u2014 those are all MADE Tommy Soft variants. You might be thinking of a different location. Want me to:\n\n1. **Download Pretendard** from the official CDN and self-host it in `public/fonts/`, or\n2. **Use MADE Tommy Soft** instead (it's already there \u2014 could be a nice branded choice for the site logo/headings)?"
+  },
+  {
+    "session_id": "b7a569c0-281f-4a4c-bcdc-58ed3ca0de5e",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/b7a569c0-281f-4a4c-bcdc-58ed3ca0de5e.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "last_assistant_message": "Done. Pretendard is now the site-wide body font (all 9 weights loaded via CDN, `font-display: swap` so text is immediately visible). The serif headings (`font-serif-ko`) still use Noto Serif KR as the \uba85\uc870\uccb4 layer for h1/h2 titles."
+  },
+  {
+    "session_id": "b7a569c0-281f-4a4c-bcdc-58ed3ca0de5e",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/b7a569c0-281f-4a4c-bcdc-58ed3ca0de5e.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "last_assistant_message": "All applied. Summary of what changed:\n\n| What | Change |\n|---|---|\n| Base font | 17px, `line-height: 1.92` in globals |\n| H1 | `tracking-tight` (-0.025em) |\n| H2 | `text-[22px]` + `tracking-tight`, consistent across all sections |\n| H3 (variations) | `text-[17px]` + `border-l-[2.5px] border-white/20 pl-5` left-border accent |\n| Paragraph gap | `mb-[1.05rem]` |\n| Section gap | `mt-[72px]` everywhere |\n| Badges | `px-3 py-[0.28rem]` \u2014 more breathing room |\n| FAQ rows | `py-[1.15rem]` |\n| TOC box | `px-6 py-5` + subtle `bg-white/[0.03]` + `space-y-[0.3rem]` item spacing |"
+  },
+  {
+    "session_id": "b7a569c0-281f-4a4c-bcdc-58ed3ca0de5e",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/b7a569c0-281f-4a4c-bcdc-58ed3ca0de5e.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "last_assistant_message": "That's an H3 \u2014 it's a variation sub-heading inside the \"\uc0c1\ud669\ubcc4 \ud574\ubabd\" (H2) section.\n\nCurrently it renders as `text-[17px] font-semibold text-gray-200` with a left-border accent in `DreamVariations`. Does it look right visually, or is the hierarchy unclear?"
   }
 ]
