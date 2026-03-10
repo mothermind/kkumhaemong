@@ -21,6 +21,12 @@ body {
 :lang(ko) {
   word-break: keep-all;
   overflow-wrap: break-word;
+  font-family: var(--typeface-korean), sans-serif;
+}
+
+/* English locale: Geist */
+:lang(en) {
+  font-family: var(--typeface-latin), sans-serif;
 }
 
 /* Smooth font rendering */

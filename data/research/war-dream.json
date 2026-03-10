@@ -1,0 +1,204 @@
+{
+  "symbol": {
+    "korean": "전쟁 꿈",
+    "english": "Dream of war",
+    "slug": "war-dream"
+  },
+  "summary": {
+    "korean": "전쟁 꿈은 경쟁, 갈등, 변화를 상징하며, 승리나 패배 등 꿈의 결과에 따라 길몽과 흉몽이 뚜렷이 갈리는 강렬한 예지몽으로 해석됩니다.",
+    "english": "A war dream is a powerful omen symbolizing competition, inner conflict, and transformation — interpreted as auspicious or inauspicious based on whether the dreamer wins, survives, or flees."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "전쟁에서 승리하거나 적을 물리치는 꿈은 대표적인 길몽으로, 소원 성취와 사업 성공을 암시합니다. 추진 중이던 일이 순조롭게 풀리고 목표에 한층 가까워지게 되며, 시험 합격이나 승진 등 실질적인 성과로 이어질 수 있습니다. 전쟁터에서 부상을 입는 꿈도 뜻밖의 칭찬과 인정을 받게 됨을 나타내는 길몽입니다.",
+      "english": "Winning a war or defeating enemies in a dream is a classic auspicious sign, foretelling the fulfillment of wishes and success in business or career. Progress on long-running plans accelerates, and concrete gains such as exam success or job promotion may follow. Even being injured in battle is auspicious — it predicts recognition and praise from others.",
+      "context": "전쟁에서의 승리, 전투 중 부상, 적진 점령, 전사하는 장면 등"
+    },
+    {
+      "type": "흉몽",
+      "korean": "전쟁에서 패배하거나 도망치는 꿈은 흉몽으로, 진행 중인 일의 실패나 계획 좌절을 예고합니다. 전쟁을 피해 피난 가는 꿈은 질병 또는 가족 관계의 위기를 암시하며, 전쟁이 점점 격렬해지는 꿈은 문제가 복잡해져 해결이 어려워질 것임을 나타냅니다. 전쟁에서 적에게 숨거나 고립되는 장면은 대인관계의 고립이나 사회적 압박을 상징합니다.",
+      "english": "Dreams of losing a war or fleeing from battle are inauspicious, signaling failure in ongoing plans or projects. Escaping as a refugee warns of illness or family crisis, while an escalating war suggests a problem growing too complex to resolve. Hiding from enemies on the battlefield reflects social isolation or mounting pressure in waking life.",
+      "context": "전쟁 패배, 피난, 도망, 숨기, 전쟁의 격화 등"
+    },
+    {
+      "type": "neutral",
+      "korean": "전쟁을 멀리서 목격하거나 전장을 관망하는 꿈은 중립적 해몽으로, 현재 자신이 처한 갈등 상황이나 내면의 불안을 반영합니다. 이 꿈은 미래를 예고하기보다는 꿈꾸는 사람의 심리 상태 — 스트레스, 결정 앞의 두려움, 변화에 대한 불안 — 를 그대로 드러내는 경우가 많습니다. 전쟁 포로가 되는 꿈은 상황에 따라 청탁 성취나 기관 소속을 뜻하는 중립적 의미를 가집니다.",
+      "english": "Watching a war unfold from a distance, or being an observer on the battlefield, reflects the dreamer's current psychological state — unresolved stress, anxiety about a pending decision, or fear of change — rather than foretelling a specific outcome. Becoming a prisoner of war is interpreted neutrally: it may mean a request will be granted, or that the dreamer is joining an institution or organization.",
+      "context": "전쟁 목격, 관망, 포로가 되는 꿈 등 결과가 명확하지 않은 경우"
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "전쟁에서 승리하는 꿈",
+      "keyword_en": "Winning a war dream",
+      "interpretation_ko": "추진 중인 일이 성공하고 소원이 이루어지는 길몽입니다. 사업가라면 큰 계약이나 성과를, 수험생이라면 합격을 암시합니다.",
+      "interpretation_en": "A classic auspicious dream signaling success in ongoing endeavors and fulfillment of wishes. For business people, a major deal; for students, an exam pass."
+    },
+    {
+      "keyword_ko": "전쟁에서 패배하는 꿈",
+      "keyword_en": "Losing a war dream",
+      "interpretation_ko": "현재 진행하는 계획이나 사업이 실패할 수 있음을 경고하는 흉몽입니다. 경쟁 상황에서 특히 주의가 필요합니다.",
+      "interpretation_en": "A warning sign that current plans or projects may fail. Be especially cautious in competitive situations."
+    },
+    {
+      "keyword_ko": "전쟁 피난 가는 꿈",
+      "keyword_en": "Evacuating / fleeing war dream",
+      "interpretation_ko": "자신이나 가족의 건강에 적신호가 켜지거나, 예상치 못한 위기가 찾아올 수 있는 흉몽입니다. 피난길을 헤매는 꿈은 앞날에 대한 혼란과 불안을 나타냅니다.",
+      "interpretation_en": "An inauspicious sign warning of health problems for oneself or a family member, or an unexpected crisis. Getting lost while evacuating reflects confusion and uncertainty about the future."
+    },
+    {
+      "keyword_ko": "전쟁터에서 죽는 꿈",
+      "keyword_en": "Dying in battle dream",
+      "interpretation_ko": "역설적인 길몽입니다. 전장에서 전사하는 꿈은 낡은 자아를 벗고 새롭게 태어남을 상징하며, 분투 끝에 사업 성공이나 신분 상승이 이루어질 것을 예고합니다.",
+      "interpretation_en": "A paradoxical auspicious dream. Dying in combat symbolizes shedding the old self and being reborn. It foretells success in business or a significant rise in social status after great effort."
+    },
+    {
+      "keyword_ko": "핵전쟁 꿈",
+      "keyword_en": "Nuclear war dream",
+      "interpretation_ko": "극단적인 파괴와 그 뒤에 오는 재생을 상징하는 꿈입니다. 삶의 어느 측면이 근본적으로 무너지고 완전히 새로운 시작이 찾아올 수 있음을 암시하며, 꿈에서 두려움보다 해방감을 느꼈다면 현실의 중압감에서 벗어나고 싶은 심리를 반영합니다.",
+      "interpretation_en": "Symbolizes catastrophic destruction followed by radical renewal. Something in life may need to end completely before a fresh start. If the dream brought relief rather than fear, it reflects a desire to escape crushing pressures in waking life."
+    },
+    {
+      "keyword_ko": "내전(내란) 꿈",
+      "keyword_en": "Civil war / internal conflict dream",
+      "interpretation_ko": "마음속 이성과 감성, 신념과 현실 사이의 내적 분열을 상징합니다. 중요한 결정 앞에서 양쪽으로 갈등하는 심리 상태를 반영하며, 내면의 화해가 필요한 시기를 알려줍니다.",
+      "interpretation_en": "Symbolizes an internal division — head versus heart, logic versus intuition, faith versus practicality. Reflects a deep inner conflict before a major decision and signals the need for psychological reconciliation."
+    },
+    {
+      "keyword_ko": "전쟁에서 부상당하는 꿈",
+      "keyword_en": "Getting wounded in war dream",
+      "interpretation_ko": "길몽으로, 주변 사람들로부터 칭찬과 인정을 받게 됨을 나타냅니다. 노력의 결실이 드러나 사회적 평판이 높아질 징조입니다.",
+      "interpretation_en": "Auspicious — predicts receiving praise and recognition from others. Your efforts will become visible and your social reputation will grow."
+    },
+    {
+      "keyword_ko": "전쟁에서 포로가 되는 꿈",
+      "keyword_en": "Becoming a prisoner of war dream",
+      "interpretation_ko": "청탁하거나 부탁한 일이 뜻대로 이루어질 것을 암시하는 중립적 꿈입니다. 수험생에게는 합격의 징조로, 일반인에게는 새로운 소속이나 계약 성사를 의미할 수 있습니다.",
+      "interpretation_en": "A neutral dream suggesting a request or petition will be granted. For students, it hints at exam success; for others, it may indicate joining a new organization or closing a contract."
+    },
+    {
+      "keyword_ko": "적진을 점령하는 꿈",
+      "keyword_en": "Capturing enemy territory dream",
+      "interpretation_ko": "계획이 순조롭게 진행되고 경쟁에서 이기거나 원하는 것을 손에 넣게 되는 길몽입니다. 연애에서도 원하는 상대를 만나게 될 수 있습니다.",
+      "interpretation_en": "An auspicious dream of smooth progress, winning competitions, and achieving goals. In romantic contexts, it may predict meeting or winning over a desired partner."
+    },
+    {
+      "keyword_ko": "전쟁을 멀리서 목격하는 꿈",
+      "keyword_en": "Watching war from a distance dream",
+      "interpretation_ko": "현재 자신이 어떤 갈등이나 분쟁에서 무력감을 느끼고 있음을 나타냅니다. 상황을 바꾸고 싶지만 직접 개입하기 어려운 심리를 반영합니다.",
+      "interpretation_en": "Reflects a sense of powerlessness in the face of ongoing conflict in waking life. Represents wanting to change a situation but feeling unable to intervene directly."
+    },
+    {
+      "keyword_ko": "군대가 이동하는 꿈",
+      "keyword_en": "Seeing troops mobilize dream",
+      "interpretation_ko": "대규모 사업 개시나 중요한 발표, 계획의 본격적인 진행을 예고하는 길몽입니다.",
+      "interpretation_en": "A good omen foretelling the launch of a major venture, an important announcement, or the full-scale start of a long-planned project."
+    }
+  ],
+  "culturalContext": {
+    "korean": "한국인에게 전쟁 꿈은 단순한 상징 이상의 무게를 지닙니다. 6·25 전쟁(한국전쟁, 1950–1953)은 아직 공식적으로 끝나지 않은 분단의 상처로, 전쟁 꿈은 세대를 초월한 집단적 불안과 연결됩니다. 전통 꿈해몽에서 전쟁은 경쟁, 시비, 생업의 고통, 직장 갈등을 상징하며, 이는 삶의 치열한 국면을 전쟁에 빗대는 한국적 세계관을 반영합니다. 전통적으로 '적과 싸워 이기는 꿈'은 현실에서의 장애물 극복과 성공을 예고하는 대표적인 길몽으로 여겨져 왔으며, 죽음조차 새로운 탄생의 예조로 보는 역설적 해석이 꿈해몽 문화에 깊이 자리합니다. 남북한 모두 이데올로기가 갈렸어도 해몽 문화만은 공유하고 있어, 꿈해몽은 분단을 넘는 한민족의 공통된 정서적 유산입니다.",
+    "english": "For Koreans, war dreams carry a cultural weight beyond pure symbolism. The Korean War (6·25, 1950–1953) has never formally ended, and the unresolved division of the peninsula creates a deep collective anxiety that surfaces in the national dreamscape. In traditional Korean dream interpretation, war symbolizes competition, disputes, hardship in livelihood, and workplace conflict — projecting life's fierce struggles onto the metaphor of battle. 'Winning against an enemy' has long been considered a premier auspicious dream, predicting the overcoming of real-life obstacles and success. Paradoxically, dying in battle is also auspicious — shedding old skin, rebirth. Notably, both South and North Koreans share the same dream interpretation culture (해몽) despite their ideological divide, making it a powerful common cultural heritage across the DMZ."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트는 1차 세계대전 이후 전쟁 트라우마를 겪은 병사들의 꿈을 연구하면서, 전쟁 악몽이 기존의 '소망 충족' 이론에 맞지 않음을 발견했어요. 이 꿈들은 상징적 변환 없이 실제 전장의 공포를 그대로 반복 재현하며, 의식이 처리하지 못한 극단적 공포가 수면 중에 반복적으로 분출되는 현상으로 이해했습니다. 전쟁 꿈에는 억압된 공격성과 사회 통제에 대한 저항이 담겨 있다고도 해석했어요.",
+      "english": "Freud studied the war nightmares of WWI combat veterans and found them paradoxical — unlike ordinary dreams that fulfill wishes through symbolism, these dreams replayed actual battlefield horrors without transformation. He understood them as the unconscious mind's inability to process overwhelming trauma: the soldier's conscious mind suppressed the terror during waking hours, but sleep offered no such protection. Freud also interpreted war imagery in non-traumatic dreams as expressions of repressed aggression and resistance to social control."
+    },
+    "jungian": {
+      "korean": "융은 1차 세계대전이 발발하기 전 자신이 유럽 전역이 피로 물드는 반복적인 꿈을 꿨다고 기록했으며, 이를 집단 무의식의 선지적 활성화로 해석했어요. 전쟁 꿈을 개인의 내면에서 의식과 무의식이 충돌하는 개성화(individuation) 과정의 상징으로 보았으며, 전쟁 속 적은 자신이 억압한 '그림자(Shadow)' — 인정하기 싫은 내면의 어두운 측면 — 를 나타낸다고 했습니다.",
+      "english": "Jung recorded that before WWI, he experienced repeated visions and dreams of Europe drowning in blood — which he later interpreted as the collective unconscious awakening in premonition. He saw war dreams as symbols of the individuation process: the inner battle between consciousness and the unconscious. The enemy in a war dream represents the 'Shadow' — the repressed, darker aspects of the self that the dreamer refuses to acknowledge."
+    },
+    "modern": {
+      "korean": "현대 심리학은 전쟁 꿈을 주로 PTSD(외상 후 스트레스 장애)와 연결 지어 연구해요. 실제 전쟁 경험이 없어도 미디어나 집단 기억을 통해 전쟁 이미지를 흡수한 사람들이 전쟁 꿈을 꾸는 경우가 많으며, 독일 대학생들의 연구에서는 수십 년이 지난 후에도 2차 세계대전 이미지가 꿈에 등장한다는 사실이 밝혀졌어요. 전쟁 꿈은 뇌가 갈등, 스트레스, 위협 상황을 처리하고 정서적으로 통합하는 방식의 하나로 이해됩니다.",
+      "english": "Modern psychology primarily links war dreams to PTSD (post-traumatic stress disorder) in combat veterans, but research shows they extend far beyond direct participants. Studies of German university students found that WWII imagery still appeared in their dreams decades after the war, demonstrating the multigenerational transmission of collective trauma. War dreams are understood as the brain's mechanism for processing stress, conflict, and perceived threat — a form of emotional integration during sleep."
+    },
+    "crossCultural": {
+      "korean": "전쟁 꿈은 동서양을 막론하고 보편적으로 나타나지만, 해석 방식은 문화마다 다릅니다. 서양에서는 주로 내면의 갈등이나 심리적 투쟁으로 보는 반면, 한국을 포함한 동아시아 문화권에서는 현실의 경쟁과 성패를 예고하는 예지몽으로 해석하는 경향이 강합니다. 영적 전통에서는 전쟁 꿈을 선악의 우주적 투쟁, 또는 영혼이 더 높은 차원으로 진화하는 과정으로 이해하기도 해요.",
+      "english": "War dreams appear universally across cultures, but interpretations diverge sharply. Western psychological traditions read them as reflections of inner conflict or unprocessed anxiety, while East Asian traditions — including Korean 꿈해몽 — tend to interpret them as omens about real-world competition and outcomes. Spiritual traditions worldwide view war dreams as representing the cosmic battle between good and evil, or the soul's journey through transformative struggle toward a higher state of being."
+    }
+  },
+  "relatedSymbols": [
+    "fighting-dream",
+    "punching-dream",
+    "being-chased-dream",
+    "running-dream",
+    "escaping-dream",
+    "hiding-dream",
+    "killing-someone-dream",
+    "arguing-dream",
+    "being-hit-dream",
+    "dying-dream"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "전쟁 꿈 해몽",
+      "전쟁꿈 의미",
+      "전쟁 나는 꿈",
+      "전쟁에서 승리하는 꿈",
+      "전쟁에서 패배하는 꿈",
+      "전쟁 피난 가는 꿈",
+      "전쟁터에서 죽는 꿈",
+      "핵전쟁 꿈 해몽",
+      "내전 꿈 해몽",
+      "전쟁 포로 꿈",
+      "전쟁 꿈 길몽",
+      "전쟁 꿈 흉몽",
+      "전쟁꿈 해석",
+      "싸움 전쟁 꿈 해몽",
+      "군대 전쟁 꿈"
+    ],
+    "english": [
+      "war dream meaning",
+      "dream about war interpretation",
+      "winning a war dream",
+      "losing a war dream",
+      "nuclear war dream meaning",
+      "civil war dream meaning",
+      "Korean dream interpretation war",
+      "dreaming of being in battle",
+      "war dream auspicious",
+      "fleeing war dream meaning",
+      "dying in war dream meaning",
+      "soldier dream interpretation"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "전쟁 꿈은 길몽인가요, 흉몽인가요?",
+      "answer_ko": "전쟁 꿈은 꿈의 결과에 따라 길몽과 흉몽이 나뉩니다. 전쟁에서 승리하거나 적을 물리치면 길몽으로 목표 달성과 성공을 암시하고, 패배하거나 도망치면 흉몽으로 계획 실패나 건강 이상을 경고합니다. 전장에서 죽는 꿈도 역설적으로 길몽에 해당합니다.",
+      "question_en": "Is a war dream auspicious or inauspicious?",
+      "answer_en": "It depends on the outcome. Winning a war is auspicious, predicting success and goal achievement; losing or fleeing is inauspicious, warning of project failure or health issues. Paradoxically, dying in battle is also considered auspicious in Korean dream interpretation, symbolizing rebirth and new success."
+    },
+    {
+      "question_ko": "전쟁에서 죽는 꿈을 꿨는데 나쁜 꿈인가요?",
+      "answer_ko": "오히려 길몽입니다. 전통 꿈해몽에서 전장에서 전사하는 꿈은 낡은 자아를 버리고 새롭게 태어나는 상징으로, 오랜 노력 끝에 사업 성공이나 신분 상승이 이루어질 것을 예고합니다. 죽음이 끝이 아닌 새 출발의 징조인 셈입니다.",
+      "question_en": "I dreamed of dying in a war — is that a bad sign?",
+      "answer_en": "Not at all — it's actually auspicious. In Korean dream tradition, dying in battle symbolizes shedding an old identity and being reborn. It foretells success in business or a significant rise in status after a period of hard effort. Death here represents a new beginning, not an ending."
+    },
+    {
+      "question_ko": "전쟁 피난 가는 꿈은 무슨 의미인가요?",
+      "answer_ko": "피난 가는 꿈은 흉몽으로 분류됩니다. 자신이나 가족이 질병에 노출될 위험이 있거나, 진행 중인 일이 예상치 못한 장애를 만나 중단될 수 있음을 암시합니다. 길을 잃으며 피난하는 꿈은 앞날에 대한 혼란과 불안감을 나타냅니다.",
+      "question_en": "What does it mean to dream of evacuating from a war?",
+      "answer_en": "Fleeing war as a refugee is an inauspicious dream. It warns that you or a family member may face a health issue, or that an ongoing plan could be derailed by an unexpected obstacle. Getting lost during the evacuation reflects confusion and anxiety about what lies ahead."
+    },
+    {
+      "question_ko": "핵전쟁 꿈을 꿨는데 어떤 의미인가요?",
+      "answer_ko": "핵전쟁 꿈은 삶의 어떤 측면이 근본적으로 무너지고 완전히 새로운 시작이 찾아올 것을 암시하는 극단적 변화의 상징입니다. 꿈에서 두려움보다 해방감을 느꼈다면 현재의 압박감과 중압감에서 벗어나고 싶은 심리를 반영하는 경우가 많습니다.",
+      "question_en": "What does a nuclear war dream mean?",
+      "answer_en": "A nuclear war dream symbolizes radical, total transformation — something in your life may need to collapse completely before a genuine new beginning can emerge. If you felt relief or even peace during the dream, it likely reflects a deep wish to escape the crushing pressures of your current situation."
+    },
+    {
+      "question_ko": "전쟁 꿈은 실제 전쟁이 일어날 징조인가요?",
+      "answer_ko": "전통 꿈해몽에서 전쟁 꿈은 실제 전쟁을 예고하는 것이 아니라, 꿈꾸는 사람의 현실 속 경쟁·갈등·성패를 상징적으로 표현합니다. 직장에서의 경쟁, 사업의 도전, 대인관계의 갈등 등이 전쟁의 이미지로 나타나는 경우가 대부분입니다.",
+      "question_en": "Does dreaming of war predict an actual war?",
+      "answer_en": "In Korean dream tradition, a war dream almost never predicts literal warfare. Instead, it symbolically represents competition, conflict, and high-stakes outcomes in the dreamer's real life — rivalries at work, business challenges, or interpersonal disputes. The battlefield is a metaphor for life's fierce struggles."
+    },
+    {
+      "question_ko": "전쟁 포로가 되는 꿈은 무슨 의미인가요?",
+      "answer_ko": "전쟁 포로가 되는 꿈은 중립적 또는 긍정적 해몽이 가능합니다. 청탁하거나 부탁한 일이 뜻대로 이루어질 수 있음을 나타내며, 수험생에게는 합격, 구직자에게는 취업, 일반인에게는 새로운 소속이나 계약 체결을 암시하기도 합니다.",
+      "question_en": "What does it mean to be taken prisoner in a war dream?",
+      "answer_en": "Becoming a prisoner of war in a dream is interpreted neutrally or even positively. It suggests that a request or petition will be granted. For students, it hints at passing an exam; for job seekers, it may predict successful employment; for others, it may represent joining a new organization or signing a contract."
+    }
+  ]
+}

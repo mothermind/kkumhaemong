@@ -1,0 +1,203 @@
+{
+  "symbol": {
+    "korean": "물을 마시는 꿈",
+    "english": "Dream of drinking water",
+    "slug": "drinking-water-dream"
+  },
+  "summary": {
+    "korean": "물을 마시는 꿈은 대체로 길몽으로, 생명력의 보충, 재물 유입, 건강 회복, 정신적 정화를 상징해요. 마시는 물의 상태(맑음/흐림)와 상황에 따라 구체적인 의미가 달라져요.",
+    "english": "Dreaming of drinking water is generally an auspicious sign, symbolizing replenishment of vital energy, incoming wealth, restored health, and spiritual purification. The meaning varies by the condition of the water (clear or murky) and the circumstances of the dream."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "맑고 깨끗한 물을 시원하게 마시는 꿈은 대표적인 길몽이에요. 재물운이 들어오고, 건강이 호전되며, 오래 기다리던 기회나 소식이 찾아온다는 신호예요. 특히 정화수나 약수처럼 특별한 물을 마시는 꿈은 신의 은총이나 귀인의 도움을 받을 징조로 해석해요. 사업을 하는 사람에게는 새로운 거래처나 자금 흐름이 원활해지는 시기가 올 것임을 암시하기도 해요.",
+      "english": "Drinking clear, refreshing water in a dream is a classic auspicious omen. It signals incoming wealth, improved health, and long-awaited opportunities or good news. Drinking specially sacred water — such as spring water (약수) or ritual water (정화수) — is interpreted as receiving divine blessing or the help of a benefactor. For those in business, it can foreshadow smooth cash flow and new partnerships.",
+      "context": "길몽 — 맑은 물, 시원한 물, 약수, 정화수를 마시는 경우"
+    },
+    {
+      "type": "흉몽",
+      "korean": "흙탕물, 오염된 물, 냄새나는 물을 마시는 꿈은 흉몽으로 해석돼요. 건강 악화, 금전적 손실, 사기나 배신을 당할 수 있다는 경고로 읽히기도 해요. 또한 물을 마시려 해도 마실 수 없거나 물이 목을 넘어가지 않는 꿈은 진행 중인 일이 막히거나 뜻대로 풀리지 않을 것임을 시사해요. 바닷물이나 짠 물을 마시는 꿈은 인간관계에서의 갈등이나 억울한 상황을 상징하기도 해요.",
+      "english": "Drinking muddy, contaminated, or foul-smelling water is an inauspicious omen, warning of declining health, financial loss, or the risk of being deceived or betrayed. A dream in which you try but fail to drink water — or the water cannot pass your throat — suggests that ongoing plans will be blocked or frustrated. Drinking seawater or bitter-tasting water can symbolize conflict in relationships or a feeling of being wronged.",
+      "context": "흉몽 — 흙탕물, 오염된 물, 마시지 못하는 꿈, 바닷물을 마시는 경우"
+    },
+    {
+      "type": "neutral",
+      "korean": "보통 물을 마시는 꿈은 꿈속 감정과 상황에 따라 중립적으로 해석되기도 해요. 갈증을 느끼며 물을 찾는 꿈은 현재 삶에서 무언가가 결핍되어 있다는 신호일 수 있어요. 정서적으로 고갈된 상태이거나, 현실에서 특정 욕구가 충족되지 않고 있다는 내면의 메시지로 볼 수 있어요. 꿈이 끝날 때 갈증이 해소되었는지 여부가 중요한 해석 포인트예요.",
+      "english": "Some drinking-water dreams are neutral, acting as reflections of the dreamer's emotional and physical state. Searching for water while feeling thirsty may indicate a lack or unmet need in waking life — emotional depletion, creative stagnation, or unfulfilled desire. The key interpretive question is whether the thirst was satisfied by the end of the dream.",
+      "context": "중립 — 갈증 해소 여부, 꿈속 감정 상태에 따른 해석"
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "맑은 물을 마시는 꿈",
+      "keyword_en": "drinking clear water dream",
+      "interpretation_ko": "맑고 투명한 물을 마시는 꿈은 건강 회복, 정신적 명료함, 재물운 상승을 뜻하는 전형적인 길몽이에요. 몸과 마음이 정화되고, 앞날이 밝게 열린다는 긍정적인 신호로 받아들이세요.",
+      "interpretation_en": "Drinking clear, transparent water is a classic auspicious dream, symbolizing restored health, mental clarity, and rising financial fortune. It is a positive signal that mind and body are being purified and that the future is opening up brightly."
+    },
+    {
+      "keyword_ko": "흙탕물이나 오염된 물을 마시는 꿈",
+      "keyword_en": "drinking dirty or muddy water dream",
+      "interpretation_ko": "오염된 물이나 흙탕물을 마시는 꿈은 건강에 이상이 생기거나, 금전 거래에서 손해를 볼 수 있다는 경고예요. 주변 사람에게 속거나 배신당할 가능성이 있으니 중요한 계약이나 투자에 주의하세요.",
+      "interpretation_en": "Drinking dirty or muddy water is a warning dream indicating potential health issues or financial losses. It may also signal the risk of being deceived or betrayed, so exercise caution in important contracts or investments."
+    },
+    {
+      "keyword_ko": "약수를 마시는 꿈",
+      "keyword_en": "drinking spring water dream",
+      "interpretation_ko": "산속 약수터에서 솟아나는 맑은 약수를 마시는 꿈은 매우 길한 꿈이에요. 병이 낫거나 오랜 소원이 이루어지는 신호로, 귀인의 도움이나 신의 은총이 따를 것을 암시해요. 임신을 원하는 사람에게는 태몽과 연결되기도 해요.",
+      "interpretation_en": "Drinking clear spring water (약수) gushing from a mountain source is a highly auspicious dream. It signals healing from illness, the fulfillment of a long-held wish, and the blessing of divine favor or a benefactor's help. For those hoping for pregnancy, it may even be connected to conception dreams."
+    },
+    {
+      "keyword_ko": "정화수를 마시는 꿈",
+      "keyword_en": "drinking ritual purification water dream",
+      "interpretation_ko": "제사나 무속 의례에서 쓰이는 정화수를 마시는 꿈은 신령의 보호와 가족의 평안을 상징해요. 조상이나 신령이 꿈을 통해 축복을 전한다고 해석하는 무속적 관점에서 매우 귀한 꿈으로 여겨져요.",
+      "interpretation_en": "Drinking 정화수 (ritually pure water used in shamanic rites or ancestor ceremonies) symbolizes divine protection and family well-being. In Korean shamanistic interpretation, this is considered a rare and blessed dream in which ancestors or spirits convey their blessings."
+    },
+    {
+      "keyword_ko": "물을 끝없이 마시는 꿈",
+      "keyword_en": "drinking water endlessly dream",
+      "interpretation_ko": "아무리 마셔도 갈증이 해소되지 않고 끝없이 물을 마시는 꿈은 현실에서의 강한 결핍감이나 욕구 불만을 반영해요. 정서적 공허함, 인정 욕구, 또는 지속적인 스트레스의 신호일 수 있어요. 내면의 소리에 귀 기울여 보세요.",
+      "interpretation_en": "Drinking water endlessly without satisfying your thirst reflects a strong sense of lack or unmet desire in waking life. It may indicate emotional emptiness, a need for recognition, or prolonged stress. The dream calls attention to unmet psychological or emotional needs."
+    },
+    {
+      "keyword_ko": "바닷물을 마시는 꿈",
+      "keyword_en": "drinking seawater dream",
+      "interpretation_ko": "짠 바닷물을 마시는 꿈은 고난과 역경, 억울한 상황이 생길 수 있음을 경고해요. 인간관계에서 갈등이 생기거나, 기대했던 일이 뜻대로 풀리지 않을 가능성이 있어요. 감정적으로 힘든 시기가 예고되는 꿈이에요.",
+      "interpretation_en": "Drinking salty seawater warns of hardship, injustice, or difficult circumstances ahead. Conflicts in relationships or disappointment in something you anticipated may follow. This dream foreshadows an emotionally challenging period."
+    },
+    {
+      "keyword_ko": "냉수를 마시는 꿈",
+      "keyword_en": "drinking cold water dream",
+      "interpretation_ko": "차갑고 시원한 냉수를 마시는 꿈은 더위나 갈증이 해소되듯 현실의 고민이나 문제가 시원하게 해결될 것임을 암시해요. 특히 여름철이나 극심한 스트레스 상황에서 이 꿈을 꾼다면 곧 상황이 호전된다는 긍정적 신호예요.",
+      "interpretation_en": "Drinking cold, refreshing water suggests that your current worries or problems will be resolved — just as cool water quenches thirst. Particularly if dreamed during periods of intense stress, this is a positive signal that circumstances will soon improve."
+    },
+    {
+      "keyword_ko": "뜨거운 물을 마시는 꿈",
+      "keyword_en": "drinking hot water dream",
+      "interpretation_ko": "뜨거운 물을 마시는 꿈은 성급하게 결정을 내리거나 감정적으로 격해진 상황에서 무언가를 시도하다 낭패를 볼 수 있다는 경고예요. 중요한 일은 충분히 식히고 냉정하게 판단하라는 조언의 꿈이에요.",
+      "interpretation_en": "Drinking hot water warns that rushing into decisions or acting impulsively in an emotionally heated state may lead to a setback. The dream advises cooling down and making important choices with a calm, clear head."
+    },
+    {
+      "keyword_ko": "물을 마시지 못하는 꿈",
+      "keyword_en": "unable to drink water dream",
+      "interpretation_ko": "물을 마시려 해도 마실 수 없거나 물이 사라지는 꿈은 추진 중인 계획이나 바라던 일이 제대로 진행되지 않을 것임을 나타내요. 기회가 눈앞에 있지만 잡지 못하는 상황이 펼쳐질 수 있어요. 인내심을 갖고 때를 기다리는 것이 필요해요.",
+      "interpretation_en": "Being unable to drink water — whether it disappears, is withheld, or cannot pass your lips — suggests that plans in progress or desired outcomes will not materialize as hoped. Opportunities may appear just out of reach. The dream advises patience and waiting for the right timing."
+    },
+    {
+      "keyword_ko": "누군가와 함께 물을 마시는 꿈",
+      "keyword_en": "drinking water with someone dream",
+      "interpretation_ko": "다른 사람과 함께 물을 나눠 마시는 꿈은 인간관계의 조화, 협력, 유대감을 상징해요. 좋아하는 사람과 함께 물을 마시는 꿈이라면 그 사람과의 관계가 깊어질 것을 암시하기도 해요.",
+      "interpretation_en": "Sharing water with another person in a dream symbolizes harmony, cooperation, and a deepening bond in relationships. If the companion is someone you care about romantically, the dream may hint at growing closeness with that person."
+    },
+    {
+      "keyword_ko": "폭포수나 흐르는 물을 마시는 꿈",
+      "keyword_en": "drinking waterfall or flowing river water dream",
+      "interpretation_ko": "폭포나 흐르는 강물에서 물을 받아 마시는 꿈은 강한 생명력의 유입, 기운의 충전, 큰 행운이 물밀 듯이 찾아오는 것을 상징해요. 사업이나 학업에서 큰 성취를 이룰 수 있는 시기가 올 것임을 예고해요.",
+      "interpretation_en": "Drinking from a flowing waterfall or river symbolizes a powerful influx of vitality, renewed energy, and surging good fortune. This dream forecasts a period of significant achievement in business or academic pursuits."
+    }
+  ],
+  "culturalContext": {
+    "korean": "한국 무속 문화에서 물은 생명과 정화의 근원이에요. 새벽 정화수(井華水)는 무당과 일반 가정 모두에서 신령께 올리는 가장 신성한 제물로, 순수함과 정성의 상징이었어요. 약수(藥水)는 병을 고치는 신성한 물로 여겨졌으며, 산신이나 용신이 내려준 선물로 믿어졌어요. 꿈에서 이런 성스러운 물을 마신다는 것은 신령과의 연결, 보호, 축복을 받는 행위로 해석해왔어요. 또한 한국 민간 신앙에서 물은 재물과도 연결돼요 — 풍수지리에서 물이 고이는 곳은 재물이 쌓이는 곳이라 믿었기 때문에, 물을 마시는 꿈도 재물의 유입으로 해석하는 전통이 생겨났어요. 이빨빠지는 꿈이나 돼지꿈과 마찬가지로 물 꿈도 한국 민간 꿈해몽의 주요 상징 중 하나로, 대체로 생명력·재생·정화·풍요의 흐름을 상징해요.",
+    "english": "In Korean shamanic culture, water is the primal source of life and purification. 정화수 (井華水, morning ritual water drawn at dawn) was the most sacred offering made to spirits — both by shamans (무당) and ordinary households — symbolizing purity and sincerity. 약수 (medicinal spring water) was revered as divinely healing water, believed to be a gift from mountain gods (산신) or dragon gods (용신). Dreaming of drinking such sacred waters has long been interpreted as receiving connection, protection, and blessing from divine spirits. Water is also linked to wealth in Korean folk belief: in geomancy (풍수지리), places where water accumulates are considered sites where fortune gathers — giving rise to the tradition of interpreting water-drinking dreams as an omen of incoming prosperity. Like dreams of teeth falling out or pigs, water dreams are among the most significant symbols in Korean folk dream interpretation, broadly symbolizing vitality, renewal, purification, and the flow of abundance."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트의 관점에서 물은 자궁과 탄생을 상징하며, 무의식적 욕구와 억압된 감정의 표현이에요. 물을 마시는 꿈은 구강기적 욕구 충족이나 양육받고 싶은 심리적 갈망과 연결될 수 있어요. 또한 갈증이라는 신체적 긴장을 해소하려는 본능적 충동이 꿈으로 표출된 것으로 보기도 해요.",
+      "english": "From a Freudian perspective, water symbolizes the womb and birth, representing unconscious drives and suppressed emotions. Dreaming of drinking water may connect to oral-stage gratification or a psychological yearning to be nurtured. Freud would also view it as the dream mind's attempt to resolve the bodily tension of thirst through wish fulfillment."
+    },
+    "jungian": {
+      "korean": "융의 분석심리학에서 물은 집단 무의식과 정신의 심층을 상징해요. 물을 마시는 행위는 자기 자신의 내면, 즉 그림자나 아니마/아니무스와의 통합을 시도하는 과정일 수 있어요. 맑은 물을 마시는 꿈은 자아와 무의식의 조화로운 합일, 내면의 치유를 나타내며, 흙탕물은 아직 정화되지 않은 심리적 콤플렉스를 상징할 수 있어요.",
+      "english": "In Jungian analytical psychology, water symbolizes the collective unconscious and the depths of the psyche. Drinking water in a dream may represent an attempt to integrate aspects of the self — such as the shadow or anima/animus. Drinking clear water signals harmonious union of the ego and unconscious and inner healing; drinking murky water may symbolize unresolved psychological complexes not yet brought to consciousness."
+    },
+    "modern": {
+      "korean": "현대 심리학과 수면 연구에서는 물을 마시는 꿈이 실제 수면 중 탈수 상태나 신체적 갈증을 반영하는 경우가 많다고 봐요. 또한 생활 속 스트레스, 감정적 소진, 또는 창의적 에너지가 고갈된 상태에서 '충전'이 필요하다는 무의식적 신호로 해석되기도 해요. 물의 흐름과 상태는 현재 정신 건강 상태를 가늠하는 투영 지표로 활용되기도 해요.",
+      "english": "Modern psychology and sleep research note that drinking water in dreams often directly reflects actual dehydration or physical thirst during sleep. Beyond physiology, the dream is interpreted as an unconscious signal of the need for 'recharging' — from emotional exhaustion, chronic stress, or depleted creative energy. The condition and flow of water in the dream serve as a projective indicator of the dreamer's current mental health state."
+    },
+    "crossCultural": {
+      "korean": "물은 전 세계 문화권에서 생명, 정화, 변형의 보편적 상징이에요. 이슬람 문화에서 꿈에서 깨끗한 물을 마시는 것은 건강과 번영을 의미하고, 힌두 전통에서는 성스러운 강가 강물을 마시는 꿈이 영적 해탈의 징조로 여겨져요. 중국의 꿈해몽 전통에서도 맑은 물을 마시는 꿈은 운이 트이고 재물이 들어온다는 길몽으로 해석해요. 이처럼 맑은 물을 마시는 꿈의 길조 해석은 동서양을 막론한 보편적 상징성을 지니고 있어요.",
+      "english": "Water is a universal symbol of life, purification, and transformation across world cultures. In Islamic tradition, drinking clean water in a dream signifies health and prosperity. In Hindu belief, dreaming of drinking the sacred Ganges water is seen as an omen of spiritual liberation. In Chinese dream interpretation, drinking clear water is also a classic auspicious omen of improving fortune and incoming wealth. The auspicious reading of drinking clear water in dreams transcends cultural boundaries, reflecting a deep and universal symbolic resonance."
+    }
+  },
+  "relatedSymbols": [
+    "drinking-alcohol-dream",
+    "swimming-dream",
+    "falling-into-water-dream",
+    "rain-dream",
+    "river-dream",
+    "ocean-sea-dream",
+    "waterfall-dream",
+    "flood-dream",
+    "well-dream",
+    "spring-water-dream"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "물을 마시는 꿈",
+      "물 마시는 꿈 해몽",
+      "꿈에서 물 마시기",
+      "맑은 물 마시는 꿈",
+      "흙탕물 마시는 꿈",
+      "약수 마시는 꿈",
+      "정화수 꿈",
+      "꿈에 물 마시면",
+      "물 꿈 길몽",
+      "물 꿈 해석",
+      "냉수 마시는 꿈",
+      "물을 못 마시는 꿈",
+      "폭포수 마시는 꿈",
+      "바닷물 마시는 꿈",
+      "갈증 꿈 해몽"
+    ],
+    "english": [
+      "drinking water dream meaning",
+      "dream of drinking water",
+      "drinking clear water dream interpretation",
+      "drinking dirty water dream",
+      "spring water dream",
+      "water dream symbolism",
+      "drinking water dream auspicious",
+      "thirst in dream meaning",
+      "Korean dream water meaning",
+      "unable to drink water dream",
+      "drinking cold water dream"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "물을 마시는 꿈은 길몽인가요, 흉몽인가요?",
+      "answer_ko": "물을 마시는 꿈은 마시는 물의 상태에 따라 달라요. 맑고 깨끗한 물을 시원하게 마시는 꿈은 재물운 상승, 건강 회복, 좋은 소식을 암시하는 길몽이에요. 반면 흙탕물이나 오염된 물을 마시는 꿈은 건강 악화나 금전적 손실을 경고하는 흉몽으로 해석해요.",
+      "question_en": "Is dreaming of drinking water a good or bad omen?",
+      "answer_en": "It depends on the condition of the water. Drinking clear, refreshing water is a good omen (길몽), signaling improved fortune, health, and good news. Drinking muddy or contaminated water is an inauspicious omen (흉몽), warning of health decline or financial loss."
+    },
+    {
+      "question_ko": "약수를 마시는 꿈은 어떤 의미인가요?",
+      "answer_ko": "산속 약수터의 맑은 약수를 마시는 꿈은 매우 좋은 꿈이에요. 오랜 병이 낫거나, 소원이 이루어지거나, 귀인의 도움을 받는 등 큰 행운이 찾아올 것을 암시해요. 한국 무속에서 약수는 신령의 선물로 여겨지기 때문에 이 꿈은 신의 가호를 받는 것으로 해석해요.",
+      "question_en": "What does it mean to dream of drinking spring water (약수)?",
+      "answer_en": "Dreaming of drinking clear spring water (약수) from a mountain source is highly auspicious. It foretells the healing of illness, the fulfillment of a wish, or the arrival of help from a benefactor. In Korean shamanism, spring water is seen as a divine gift, so this dream is interpreted as receiving the blessing and protection of the spirits."
+    },
+    {
+      "question_ko": "꿈에서 물을 마시고 싶은데 마실 수 없는 경우는 무슨 의미인가요?",
+      "answer_ko": "물을 마시려 해도 마실 수 없는 꿈은 현재 추진 중인 일이 뜻대로 풀리지 않거나, 기회가 눈앞에 있지만 잡지 못하는 상황이 생길 수 있음을 암시해요. 인내심을 갖고 타이밍을 기다리거나, 다른 방법을 모색해 보는 것이 좋아요.",
+      "question_en": "What does it mean if I want to drink water in my dream but cannot?",
+      "answer_en": "Being unable to drink water in a dream suggests that plans in progress may not unfold as hoped, or that an opportunity may appear just out of reach. The dream advises patience and either waiting for the right timing or reconsidering your approach."
+    },
+    {
+      "question_ko": "물을 끝없이 마시는 꿈은 왜 꾸는 건가요?",
+      "answer_ko": "아무리 마셔도 갈증이 해소되지 않는 꿈은 현실에서 충족되지 않은 깊은 욕구나 결핍감을 반영해요. 정서적 공허함, 반복되는 스트레스, 또는 인정받고 싶은 욕구가 강할 때 이런 꿈을 꾸는 경우가 많아요. 내면의 필요에 귀 기울이고 휴식과 돌봄이 필요하다는 신호예요.",
+      "question_en": "Why do I dream of drinking water endlessly without quenching my thirst?",
+      "answer_en": "Endless, unsatisfied thirst in a dream reflects deep unfulfilled needs or a sense of lack in waking life. It is commonly associated with emotional emptiness, chronic stress, or a strong desire for recognition or connection. The dream is a signal to listen to your inner needs and prioritize rest and self-care."
+    },
+    {
+      "question_ko": "바닷물이나 짠 물을 마시는 꿈은 무슨 의미인가요?",
+      "answer_ko": "짠 바닷물을 마시는 꿈은 감정적으로 고통스러운 상황이나 인간관계의 갈등, 억울한 상황을 상징해요. 바닷물은 아무리 마셔도 갈증을 해소할 수 없어 오히려 탈수를 일으키듯, 소모적이고 해결되지 않는 문제에 에너지를 쏟고 있다는 경고이기도 해요.",
+      "question_en": "What does it mean to drink seawater or saltwater in a dream?",
+      "answer_en": "Drinking seawater or saltwater symbolizes emotional pain, interpersonal conflict, or feelings of injustice. Just as seawater deepens thirst rather than quenching it, this dream warns that you may be expending energy on a draining, unresolvable situation."
+    },
+    {
+      "question_ko": "정화수를 마시는 꿈은 어떤 의미인가요?",
+      "answer_ko": "새벽에 길어온 정화수를 마시는 꿈은 한국 무속 전통에서 매우 신성한 꿈으로 여겨요. 조상이나 신령이 꿈을 통해 직접 찾아와 축복을 내려주는 것으로 해석하며, 가족의 평안과 앞날의 번영을 예고하는 꿈이에요.",
+      "question_en": "What does it mean to drink 정화수 (ritual purification water) in a dream?",
+      "answer_en": "In Korean shamanistic tradition, dreaming of drinking 정화수 (pure water drawn at dawn for offerings) is considered a highly sacred dream. It is interpreted as a direct visitation and blessing from ancestors or divine spirits, foretelling peace within the family and prosperity ahead."
+    }
+  ]
+}

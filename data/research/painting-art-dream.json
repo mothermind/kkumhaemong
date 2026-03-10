@@ -1,0 +1,247 @@
+{
+  "symbol": {
+    "korean": "그림 그리는 꿈",
+    "english": "Dream of Painting",
+    "slug": "painting-art-dream"
+  },
+  "summary": {
+    "korean": "그림 그리는 꿈은 내면의 창의력과 자기표현 욕구를 반영하며, 그림의 완성도와 색감에 따라 현실에서의 성취, 대인관계, 심리 상태를 암시하는 꿈입니다.",
+    "english": "Dreaming of painting reflects inner creativity and the desire for self-expression, with the quality and colors of the artwork signaling real-world achievements, relationships, or emotional well-being depending on the dream's context."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "그림을 능숙하게 잘 그리는 꿈은 창의력이 활짝 꽃피고 원하는 목표를 성취하게 된다는 길몽입니다. 직장이나 학업에서 탁월한 성과를 내고 주변 사람들에게 널리 이름을 알리게 될 것을 암시합니다.",
+      "english": "Dreaming of painting skillfully and beautifully is an auspicious sign that your creativity is flourishing and your desired goals are within reach. It suggests outstanding achievements at work or in studies, and gaining wide recognition from those around you.",
+      "context": "skill_and_achievement"
+    },
+    {
+      "type": "길몽",
+      "korean": "밝고 화려한 색깔로 그림을 그리는 꿈은 매우 좋은 길몽입니다. 현재 심리 상태가 건강하고 긍정적임을 보여주며, 앞으로 희망찬 미래와 좋은 일들이 연이어 찾아올 것을 예고합니다.",
+      "english": "Painting with bright, vibrant colors in a dream is a strongly auspicious omen indicating a healthy and positive mental state. It foretells a hopeful future filled with good fortune and positive events on the horizon.",
+      "context": "bright_colors"
+    },
+    {
+      "type": "길몽",
+      "korean": "여러 사람과 함께 그림을 그리는 꿈은 대인관계가 크게 넓어지고 새로운 인맥이 형성될 것을 알려주는 길몽입니다. 기존의 지인과 더욱 돈독한 관계를 쌓거나 협력 관계가 발전할 수 있음을 의미합니다.",
+      "english": "Dreaming of painting together with others signals an expansion of your social circle and the formation of valuable new connections. It indicates deepening of existing relationships or the emergence of fruitful collaborative partnerships.",
+      "context": "collaborative_painting"
+    },
+    {
+      "type": "길몽",
+      "korean": "풍경화를 그리는 꿈은 현실에서 평온과 안정을 찾게 된다는 징조입니다. 계획하던 일들이 순조롭게 진행되고, 마음속에 여유와 균형이 찾아오며 치유와 회복의 시간이 올 것을 뜻합니다.",
+      "english": "Dreaming of painting a landscape is a sign that you will find peace and stability in waking life. Plans in progress will unfold smoothly, and a period of emotional balance, healing, and renewal is approaching.",
+      "context": "landscape_painting"
+    },
+    {
+      "type": "길몽",
+      "korean": "초상화를 그리는 꿈은 그 인물에 대한 깊은 관심을 반영하며, 새로운 인연이나 연인과의 관계가 빠르게 발전할 것을 암시하는 길몽입니다. 모르는 사람의 초상화라면 훌륭한 협력자나 새로운 인연이 나타날 수 있습니다.",
+      "english": "Painting a portrait in a dream reflects deep interest in that person and signals the rapid development of a new or existing romantic relationship. If the portrait subject is a stranger, it suggests a promising collaborator or meaningful new connection will appear.",
+      "context": "portrait_painting"
+    },
+    {
+      "type": "길몽",
+      "korean": "꽃이나 식물을 그림으로 그리는 꿈은 귀인이 나타나거나 기쁜 가정 행사가 이어질 것을 예고하는 좋은 꿈입니다. 풍요롭고 화목한 가정생활을 암시하기도 합니다.",
+      "english": "Dreaming of painting flowers or plants foretells the arrival of a helpful benefactor or a joyful family occasion. It also suggests a prosperous and harmonious home life ahead.",
+      "context": "flower_painting"
+    },
+    {
+      "type": "길몽",
+      "korean": "벽화나 담장에 커다란 그림을 그리는 꿈은 오래도록 남을 업적을 남기거나 세상에 자신의 이름을 크게 알리게 될 것을 뜻하는 큰 길몽입니다.",
+      "english": "Dreaming of painting a large mural on a wall or fence is a powerful auspicious omen indicating that you will leave a lasting legacy or achieve wide, enduring recognition in the world.",
+      "context": "mural_painting"
+    },
+    {
+      "type": "흉몽",
+      "korean": "그림을 제대로 그리지 못하거나 마음에 들지 않는 꿈은 현재 자신의 능력에 대한 불안감과 자신감 부족을 반영합니다. 원하는 대로 일이 잘 풀리지 않거나 계획이 어그러질 수 있음을 암시합니다.",
+      "english": "Dreaming of failing to paint properly or being dissatisfied with the result reflects anxiety about your abilities and lack of confidence. It suggests that plans may not unfold as desired or that circumstances may get in the way of your goals.",
+      "context": "failed_painting"
+    },
+    {
+      "type": "흉몽",
+      "korean": "칙칙하고 어두운 색깔로 그림을 그리는 꿈은 내면에 부정적인 감정과 스트레스가 쌓여 있음을 경고합니다. 무기력감과 우울함이 심해질 수 있으니 마음을 돌볼 필요가 있습니다.",
+      "english": "Dreaming of painting with dark, dull colors is a warning that negative emotions and stress are accumulating within you. It signals growing fatigue and depression, indicating the need for emotional self-care.",
+      "context": "dark_colors"
+    },
+    {
+      "type": "흉몽",
+      "korean": "자기 자신의 초상화(자화상)를 그리는 꿈은 현재 깊은 우울감이나 고독함을 느끼고 있다는 심리적 신호입니다. 내면의 감정 상태를 점검하고 주변의 지지를 구하는 것이 필요할 때입니다.",
+      "english": "Dreaming of painting your own portrait (a self-portrait) is a psychological signal that you are experiencing deep depression or loneliness. It indicates the need to examine your emotional state and seek support from those around you.",
+      "context": "self_portrait"
+    },
+    {
+      "type": "흉몽",
+      "korean": "그림이 찢어지거나 손상되는 꿈은 그동안의 노력이 헛되이 돌아가거나 예기치 못한 실패가 찾아올 수 있음을 경고하는 흉몽입니다. 중요한 계획을 신중하게 점검할 필요가 있습니다.",
+      "english": "Dreaming of a painting tearing or being damaged is a warning that past efforts may prove fruitless or unexpected failures may arise. It signals the need to carefully review important plans before proceeding.",
+      "context": "damaged_painting"
+    },
+    {
+      "type": "흉몽",
+      "korean": "그림에서 지우개로 지우거나 색을 덧칠해 망치는 꿈은 직장이나 사업에서 상황이 나빠지거나 과거의 실수가 발목을 잡을 수 있음을 뜻합니다.",
+      "english": "Dreaming of erasing or overpainting and ruining a picture signals deterioration in professional or business matters, or that past mistakes may come back to hinder current progress.",
+      "context": "ruined_painting"
+    },
+    {
+      "type": "neutral",
+      "korean": "그림을 그리다가 멈추거나 완성하지 못하는 꿈은 현재 진행 중인 일이나 계획이 아직 미완성 상태임을 반영합니다. 서두르지 말고 한 단계씩 꼼꼼히 진행하라는 내면의 메시지일 수 있습니다.",
+      "english": "Dreaming of stopping mid-painting or leaving a canvas unfinished reflects the incomplete state of a current project or plan. It may be an inner message to slow down and proceed step by step with care rather than rushing.",
+      "context": "unfinished_painting"
+    },
+    {
+      "type": "neutral",
+      "korean": "추상화나 낙서를 그리는 꿈은 내면의 감정이 복잡하게 뒤엉켜 있음을 보여주는 꿈입니다. 무언가 표현하고 싶지만 아직 명확히 정리되지 않은 심리 상태를 반영합니다.",
+      "english": "Dreaming of painting abstracts or scribbling reflects a complex, tangled emotional inner world. It represents a psychological state where you desire to express something but have not yet fully clarified what it is.",
+      "context": "abstract_scribble"
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "아름다운 그림을 그리는 꿈",
+      "keyword_en": "Dreaming of painting a beautiful picture",
+      "interpretation_ko": "아름다운 그림을 완성하는 꿈은 창의적 영감이 충만하고 긍정적인 변화가 다가온다는 신호입니다. 현실에서 목표를 달성하고 주변으로부터 인정받게 되며, 심리적으로 안정되고 만족스러운 시기가 찾아올 것을 예고합니다.",
+      "interpretation_en": "Completing a beautiful painting in a dream signals overflowing creative inspiration and the approach of positive change. In waking life, it foretells achievement of goals and recognition from others, along with a period of psychological stability and satisfaction."
+    },
+    {
+      "keyword_ko": "초상화를 그리는 꿈",
+      "keyword_en": "Dreaming of painting a portrait",
+      "interpretation_ko": "초상화를 그리는 꿈은 그 대상에 대한 깊은 관심이나 애정을 상징합니다. 아는 사람을 그린다면 그 관계가 빠르게 발전하거나 새로운 국면을 맞이할 수 있고, 모르는 얼굴이라면 새로운 인연이나 협력자가 등장할 조짐입니다.",
+      "interpretation_en": "Painting a portrait symbolizes deep interest or affection toward the subject. If the subject is known to you, the relationship may develop quickly or enter a new phase. If the face is a stranger's, it is a sign that a new meaningful connection or collaborator is about to appear."
+    },
+    {
+      "keyword_ko": "풍경화를 그리는 꿈",
+      "keyword_en": "Dreaming of painting a landscape",
+      "interpretation_ko": "자연 풍경이나 아름다운 경치를 그림으로 그리는 꿈은 현실에서 평온과 안정, 삶의 균형을 찾게 된다는 길조입니다. 계획 중인 사업이나 일이 순조롭게 흘러가고, 마음에 여유와 치유의 시간이 찾아올 것을 암시합니다.",
+      "interpretation_en": "Painting a natural landscape or scenic view in a dream is an auspicious sign of finding peace, stability, and life balance in reality. Projects in progress will proceed smoothly, and a period of emotional ease and healing is on its way."
+    },
+    {
+      "keyword_ko": "벽화를 그리는 꿈",
+      "keyword_en": "Dreaming of painting a mural",
+      "interpretation_ko": "벽이나 담장에 대형 그림을 그리는 꿈은 세상에 이름을 남길 큰 업적이나 오래도록 기억될 성과를 이루게 됨을 예고하는 강력한 길몽입니다. 사회적 영향력과 명성이 크게 확대될 것을 암시합니다.",
+      "interpretation_en": "Dreaming of painting a large mural on a wall is a powerful auspicious omen foretelling a significant achievement or lasting legacy that will be remembered by many. It signals a major expansion of social influence and reputation."
+    },
+    {
+      "keyword_ko": "그림이 완성되지 않는 꿈",
+      "keyword_en": "Dreaming of an unfinished or incomplete painting",
+      "interpretation_ko": "그림이 끝내 완성되지 않는 꿈은 현재 진행 중인 일이나 관계가 아직 미완성 상태임을 반영합니다. 조급함을 버리고 한 단계씩 차분히 접근하라는 내면의 경고이며, 완벽주의에 대한 불안이 표면으로 드러난 심리몽일 수 있습니다.",
+      "interpretation_en": "Dreaming of a painting that cannot be completed reflects the unfinished state of a current project or relationship. It is an inner warning to release impatience and approach things step by step calmly. It may also be a psychological dream revealing anxiety about perfectionism."
+    },
+    {
+      "keyword_ko": "밝은 색으로 그림을 그리는 꿈",
+      "keyword_en": "Dreaming of painting with bright, vivid colors",
+      "interpretation_ko": "밝고 화려한 색깔로 그림을 그리는 꿈은 심리 상태가 건강하고 미래에 대한 희망이 충만하다는 매우 좋은 길몽입니다. 기쁜 소식, 행운, 또는 오랫동안 기다려온 일의 성사를 예고합니다.",
+      "interpretation_en": "Dreaming of painting with bright and vivid colors is a strongly auspicious omen indicating a healthy mental state and abundant hope for the future. It foretells good news, good fortune, or the successful completion of something long awaited."
+    },
+    {
+      "keyword_ko": "어두운 색으로 그림을 그리는 꿈",
+      "keyword_en": "Dreaming of painting with dark or dull colors",
+      "interpretation_ko": "칙칙하고 어두운 색으로 그림을 그리는 꿈은 내면에 우울함과 스트레스가 쌓여 있음을 경고하는 심리몽입니다. 일상의 활력이 떨어지고 부정적인 감정이 심화될 수 있으니 감정을 솔직히 돌아볼 시간이 필요합니다.",
+      "interpretation_en": "Dreaming of painting with dark, dull colors is a psychological warning dream indicating accumulated depression and stress within. Vitality in daily life may be declining and negative emotions intensifying, signaling the need to honestly reflect on and tend to your inner emotional state."
+    },
+    {
+      "keyword_ko": "그림에 동물이나 용이 등장하는 꿈",
+      "keyword_en": "Dreaming of painting animals or a dragon",
+      "interpretation_ko": "호랑이나 용처럼 강한 동물을 그림에 담는 꿈은 막강한 영향력을 얻고 주변의 의견을 쉽게 이끌어 갈 수 있게 된다는 길몽입니다. 가정의 화목과 경제적 풍요를 예고하기도 합니다.",
+      "interpretation_en": "Dreaming of painting powerful animals such as a tiger or dragon is an auspicious omen indicating the acquisition of great influence and the ability to lead and persuade others easily. It also foretells family harmony and economic abundance."
+    },
+    {
+      "keyword_ko": "여러 명이 함께 그림을 그리는 꿈",
+      "keyword_en": "Dreaming of painting together with others",
+      "interpretation_ko": "여러 사람이 함께 그림을 그리는 꿈은 인간관계가 넓어지고 협력과 공동 작업의 좋은 기회가 찾아올 것을 알리는 길몽입니다. 새로운 인맥 형성이나 팀 프로젝트의 성공을 예고합니다.",
+      "interpretation_en": "Dreaming of painting together with multiple people is an auspicious sign that your social connections will expand and favorable opportunities for collaboration and joint endeavors are coming. It foretells the formation of new networks or the success of a team project."
+    }
+  ],
+  "culturalContext": {
+    "korean": "한국 문화에서 그림은 단순한 예술 작품을 넘어 소망과 기원을 담는 주술적 대상으로 여겨져 왔습니다. 조선시대의 민화(民畵)는 백성들이 복(福), 장수(壽), 부귀(富貴)를 기원하며 그린 그림으로, 일상 공간을 꾸미고 나쁜 기운을 물리치는 '벽사진경(辟邪進慶)'의 의미를 지녔습니다. 꿈속에서 그림을 그리는 행위는 이러한 전통의 맥락에서 내면의 소망이 현실로 발현되기를 바라는 무의식의 표현으로 해석되었습니다. 또한 조선 화가 안견의 '몽유도원도(夢遊桃源圖)'처럼 꿈속의 이상 세계를 그림으로 옮기는 전통은, 꿈과 예술이 불가분의 관계임을 보여주는 한국 문화의 중요한 유산입니다. 꿈속에서 아름다운 그림을 완성하는 것은 이상 세계에 대한 동경과 현실에서의 성취 욕구가 결합된 길몽으로 받아들여졌습니다.",
+    "english": "In Korean culture, paintings have long been regarded not merely as art objects but as vessels of wishes and prayers with quasi-magical significance. The folk paintings known as Minhwa, which flourished during the Joseon Dynasty, were created by common people to invoke blessings — longevity, wealth, and good fortune — while also warding off evil spirits through a practice called Byeoksa Jingyeong (辟邪進慶). In this cultural tradition, dreaming of painting carries the unconscious wish for inner desires to manifest in the waking world. The famous painting Mongyudowondo (夢遊桃源圖) by Joseon painter An Gyeon, which depicts an idealized dreamworld of blossoming peach groves, illustrates the deep cultural connection between dreams and visual art in Korea. Completing a beautiful painting in a dream has traditionally been interpreted as an auspicious sign where longing for an ideal world merges with the drive for real-world achievement."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트 심리학의 관점에서 꿈속에서 그림을 그리는 행위는 '승화(sublimation)'의 고전적인 예로 해석돼요. 억압된 본능적 충동, 특히 리비도적 에너지가 사회적으로 용인되는 창의적 행위로 전환되는 과정을 상징합니다. 그림이 완성되면 욕구가 성공적으로 발산된 것이고, 그림을 망친다면 억압된 갈등이 여전히 해소되지 못했음을 뜻해요. 그림의 내용과 색깔은 꿈꾸는 이의 숨겨진 욕망과 두려움을 반영하는 상징으로 분석됩니다.",
+      "english": "From a Freudian perspective, the act of painting in a dream is a classic example of sublimation — the process by which repressed instinctual drives, particularly libidinal energy, are channeled into socially accepted creative activity. A successfully completed painting represents the successful discharge of pent-up desires, while a ruined one suggests unresolved inner conflict. The subject matter and colors of the painted image are analyzed as symbols directly reflecting the dreamer's hidden wishes and fears."
+    },
+    "jungian": {
+      "korean": "융 심리학에서 꿈속 그림 그리기는 '개성화(individuation)' 과정의 핵심적인 표현이에요. 그림을 그리는 행위는 무의식 속 원형적 에너지를 의식의 세계로 끌어내는 '적극적 상상(active imagination)' 기법과 본질적으로 같은 역할을 합니다. 융은 실제로 환자들에게 그림을 그리도록 권장하며 그 상징을 분석했는데, 꿈속의 그림은 자기(Self), 그림자(Shadow), 아니마/아니무스(Anima/Animus)와 같은 원형적 이미지가 시각화된 것으로 해석돼요. 그림을 완성하는 꿈은 자아와 무의식의 통합이 이루어지고 있음을 뜻합니다.",
+      "english": "In Jungian psychology, painting in a dream is a core expression of the individuation process — the lifelong journey toward psychological wholeness. The act of painting functions essentially like active imagination, a technique Jung developed to bring unconscious archetypal energies into conscious awareness. Jung himself encouraged patients to paint and analyzed the resulting images as visual manifestations of archetypes such as the Self, Shadow, and Anima/Animus. Completing a painting in a dream signals that integration of the conscious ego with unconscious contents is actively underway."
+    },
+    "modern": {
+      "korean": "현대 심리학과 예술치료(art therapy)에서는 꿈속의 그림 그리기를 감정 처리와 자기 치유의 상징으로 봐요. 인지행동치료(CBT) 관점에서는 그림을 잘 그리는 꿈이 높은 자기효능감(self-efficacy)을 반영하고, 그림을 망치는 꿈은 실패에 대한 인지적 왜곡이나 완벽주의 성향을 드러낸다고 해석합니다. 색깔 심리학적으로는 밝은 색은 낙관성, 어두운 색은 억압된 슬픔을 상징해요. 전반적으로 이 꿈은 자기표현 욕구와 정체성 탐색의 심리적 과정을 잘 보여줍니다.",
+      "english": "In modern psychology and art therapy, painting in a dream is understood as a symbol of emotional processing and self-healing. From a cognitive-behavioral perspective, dreaming of painting well reflects high self-efficacy, while dreaming of a ruined painting reveals cognitive distortions around failure or perfectionistic tendencies. Color psychology interprets bright colors as optimism and suppressed joy, while dark colors signal grief or emotional suppression. Overall, this dream type clearly represents the psychological drive for self-expression and the ongoing exploration of personal identity."
+    },
+    "crossCultural": {
+      "korean": "문화권을 막론하고 꿈속의 그림 그리기는 자기표현과 창조적 생명력의 상징으로 공통되게 해석돼요. 중국 전통 해몽에서 그림 그리는 꿈은 명성과 재물 획득의 예조로 여겨졌고, 일본의 꿈 해석에서도 예술적 행위는 정신적 성숙과 사회적 성공을 암시합니다. 서양의 꿈 사전에서는 '내면의 예술가(inner artist)'를 깨우는 신호로 해석하며, 이는 한국 해몽의 창의적 성취 의미와 맥을 같이 합니다. 전 세계적으로 그림 그리는 꿈은 현실을 새롭게 재창조하려는 인간 보편의 욕구를 담고 있습니다.",
+      "english": "Across cultures, dreaming of painting is universally interpreted as a symbol of self-expression and creative vitality. In Chinese traditional dream interpretation, painting dreams were regarded as omens of gaining fame and wealth. In Japanese dream interpretation, artistic acts in dreams suggest spiritual maturity and social success. Western dream dictionaries interpret it as a signal awakening the 'inner artist,' which aligns closely with the Korean interpretation of creative achievement and fulfillment. Globally, the painting dream encapsulates a universal human desire to reimagine and remake one's reality."
+    }
+  },
+  "relatedSymbols": [
+    "writing-dream",
+    "music-playing-dream",
+    "dancing-dream",
+    "reading-dream",
+    "building-creating-dream",
+    "photography-dream",
+    "acting-performing-dream"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "그림 그리는 꿈해몽",
+      "그림 그리는 꿈 의미",
+      "그림 꿈해몽",
+      "초상화 그리는 꿈",
+      "풍경화 그리는 꿈",
+      "벽화 그리는 꿈",
+      "그림 완성 꿈",
+      "그림 망치는 꿈",
+      "색칠하는 꿈 해몽",
+      "그림 그리는 꿈 길몽",
+      "그림 그리는 꿈 흉몽",
+      "예술 관련 꿈해몽",
+      "그림 선물 받는 꿈",
+      "함께 그림 그리는 꿈"
+    ],
+    "english": [
+      "dream of painting meaning",
+      "painting dream interpretation",
+      "dream about drawing a picture",
+      "painting portrait dream",
+      "landscape painting dream",
+      "mural painting dream",
+      "unfinished painting dream",
+      "colorful painting dream spiritual meaning",
+      "art dream symbolism",
+      "Korean dream interpretation painting"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "그림을 잘 그리는 꿈은 좋은 꿈인가요?",
+      "answer_ko": "네, 그림을 능숙하게 잘 그리는 꿈은 대표적인 길몽입니다. 이 꿈은 창의력이 최고조에 달하고 현실에서 목표를 성취하게 된다는 신호로, 직장·학업·사업에서 탁월한 성과를 내고 주변의 인정을 받게 될 것을 암시합니다.",
+      "question_en": "Is dreaming of painting well considered a good dream?",
+      "answer_en": "Yes, dreaming of painting skillfully is a classic auspicious dream. It signals that your creativity is at its peak and that you are on the path to achieving real-world goals. It suggests outstanding performance and recognition in work, studies, or business."
+    },
+    {
+      "question_ko": "그림이 완성되지 않는 꿈은 무슨 의미인가요?",
+      "answer_ko": "그림이 끝내 완성되지 않는 꿈은 현재 진행 중인 일이나 계획이 아직 미완성 상태임을 반영합니다. 완벽주의에 대한 불안이나 성급하게 결과를 바라는 심리가 드러난 꿈으로, 한 단계씩 차분히 나아가라는 내면의 메시지로 해석됩니다.",
+      "answer_en": "Dreaming of an unfinished painting reflects the incomplete state of a current project or goal. It often reveals anxiety about perfectionism or the impatient desire for quick results, and is interpreted as an inner message to proceed steadily one step at a time."
+    },
+    {
+      "question_ko": "어두운 색으로 그림을 그리는 꿈은 나쁜 꿈인가요?",
+      "answer_ko": "어두운 색으로 그림을 그리는 꿈은 현재 심리 상태가 우울하거나 스트레스가 심하다는 경고 신호입니다. 당장 나쁜 일이 일어난다기보다는, 자신의 감정을 솔직하게 돌아보고 감정 회복에 힘써야 할 때임을 알려주는 심리몽에 가깝습니다.",
+      "answer_en": "Dreaming of painting with dark colors is a warning signal that your current psychological state involves depression or significant stress. Rather than predicting an immediate negative event, it is more of a psychological dream telling you it is time to honestly examine your emotions and focus on emotional recovery."
+    },
+    {
+      "question_ko": "풍경화를 그리는 꿈은 어떤 의미인가요?",
+      "answer_ko": "자연이나 아름다운 경치를 그리는 꿈은 현실에서 평온과 균형을 찾게 될 징조입니다. 계획 중인 일들이 순조롭게 진행되고, 마음에 치유와 여유의 시간이 찾아오며, 삶의 안정이 회복될 것을 예고하는 길몽입니다.",
+      "answer_en": "Dreaming of painting a natural landscape or scenic view is a sign that you will find peace and balance in real life. It is an auspicious dream foretelling that ongoing plans will proceed smoothly, a period of healing and emotional ease is coming, and life stability will be restored."
+    },
+    {
+      "question_ko": "초상화를 그리는 꿈은 어떻게 해석하나요?",
+      "answer_ko": "초상화를 그리는 꿈은 그 대상에 대한 깊은 관심과 애정을 반영합니다. 아는 사람을 그린다면 그 관계가 더욱 발전하거나 연인 관계로 이어질 수 있고, 낯선 사람을 그린다면 새로운 소중한 인연이나 협력자가 나타날 것을 암시하는 길몽입니다.",
+      "answer_en": "Dreaming of painting a portrait reflects deep interest and affection toward the subject. If the subject is someone you know, the relationship may deepen significantly or develop into romance. If the subject is a stranger, it is an auspicious sign that a new meaningful connection or important collaborator is about to enter your life."
+    },
+    {
+      "question_ko": "그림을 그리는 꿈은 전반적으로 좋은 꿈인가요, 나쁜 꿈인가요?",
+      "answer_ko": "그림 그리는 꿈은 전반적으로 길몽에 속하는 경우가 많습니다. 그림을 잘 완성하거나 밝은 색으로 그리는 꿈은 길몽이고, 그림을 망치거나 어두운 색으로 그리는 꿈은 심리적 경고 신호가 됩니다. 꿈에서 느낀 감정과 그림의 완성도, 색감을 함께 살펴보는 것이 정확한 해몽의 핵심입니다.",
+      "answer_en": "Painting dreams are generally considered auspicious more often than not. Dreaming of painting well or using bright colors is auspicious, while ruining a painting or using dark colors serves as a psychological warning. The key to accurate interpretation lies in examining the emotions felt during the dream alongside the quality and colors of the painting."
+    }
+  ]
+}

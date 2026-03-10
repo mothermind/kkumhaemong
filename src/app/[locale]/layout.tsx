@@ -11,12 +11,12 @@ import { Footer } from "@/components/layout/Footer";
 
 const geist = Geist({
   subsets: ["latin"],
-  variable: "--font-latin",
+  variable: "--typeface-latin",
 });
 
 const notoSansKR = Noto_Sans_KR({
   weight: ["400", "500", "700"],
-  variable: "--font-korean",
+  variable: "--typeface-korean",
   preload: false,
   display: "swap",
 });
@@ -45,11 +45,7 @@ export default async function LocaleLayout({
       lang={locale}
       className={`${geist.variable} ${notoSansKR.variable}`}
     >
-      <body
-        className={`min-h-screen bg-background text-foreground ${
-          locale === "ko" ? "font-[family-name:var(--font-korean)]" : "font-[family-name:var(--font-latin)]"
-        }`}
-      >
+      <body className="min-h-screen bg-background text-foreground">
         <NextIntlClientProvider messages={messages}>
           <Header locale={locale as Locale} />
           <main className="flex-1">{children}</main>

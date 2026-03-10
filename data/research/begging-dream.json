@@ -1,0 +1,199 @@
+{
+  "symbol": {
+    "korean": "구걸하는 꿈",
+    "english": "Dream of begging",
+    "slug": "begging-dream"
+  },
+  "summary": {
+    "korean": "구걸하는 꿈은 한국 민속 해몽에서 역상(逆象)의 원리가 강하게 작용하는 꿈으로, 겉으로는 가난과 결핍을 상징하지만 실제로는 근심 해소, 재물 획득, 새로운 인연을 예고하는 길몽으로 자주 해석됩니다.",
+    "english": "Dreams of begging carry strong reverse-symbolism in Korean folk tradition — what appears to show poverty and lack often signals the resolution of worries, unexpected financial gain, and meaningful new connections in waking life."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "자신이 구걸하는 꿈은 역상의 원리에 따라 현실에서 오히려 재물운이 열리고 오래 쌓인 근심과 걱정이 일거에 해소될 것을 암시합니다. 특히 구걸을 하여 음식이나 돈을 받았다면, 숨겨진 기회가 손에 들어오거나 오랜 병고에서 회복되는 좋은 신호로 봅니다. 거지에게 직접 음식이나 돈을 베푸는 꿈은 더욱 강한 길징으로, 심신의 고통이 사라지고 건강과 재운이 함께 호전됨을 예고합니다.",
+      "english": "By the principle of reverse symbolism (역상), dreaming that you yourself are begging often foretells an opening of financial fortune and the swift resolution of long-accumulated worries. Receiving food or money while begging signals a hidden opportunity coming your way or recovery from prolonged illness. Giving food or money to a beggar in a dream is an even stronger auspicious sign, heralding relief from physical and emotional suffering along with improved health and wealth.",
+      "context": "역상(逆象) — 꿈에서 빈곤이나 결핍의 상황은 현실에서 풍요와 해소로 뒤바뀌는 한국 꿈해몽의 핵심 원리. 거지가 나타나는 꿈 전반이 길몽으로 해석되는 배경에 해당."
+    },
+    {
+      "type": "흉몽",
+      "korean": "거지를 문 밖으로 내쫓거나 차갑게 외면하는 꿈은 스스로 들어오는 운을 발로 걷어차는 행위로 해석됩니다. 이 경우 가까운 미래에 기회를 놓치거나 인간관계에서 단절이 생길 수 있으며, 심리적으로는 내면의 도움 요청을 억압하고 있음을 나타냅니다. 자신이 구걸하는 꿈인데도 아무것도 받지 못하고 거절당하는 꿈은 현실에서의 소외감, 자존감 저하, 또는 해결되지 않는 재정 문제를 암시하기도 합니다.",
+      "english": "Chasing a beggar away or coldly ignoring them in a dream is interpreted as literally kicking away incoming fortune. This may signal missed opportunities and relational ruptures in the near future. Psychologically, it reflects a suppression of one's own need for help. Begging and receiving nothing — being turned away — can symbolize feelings of social exclusion, diminished self-worth, or unresolved financial pressures in waking life.",
+      "context": "거절과 배척 모티프 — 도움을 거부하거나 거지를 쫓아내는 행위는 운기(運氣)를 막는 상징. 심리몽으로도 볼 때 현실 불안의 투영."
+    },
+    {
+      "type": "neutral",
+      "korean": "거지가 꿈속에 나타나 무언가를 달라고 구걸하는 장면은 꿈꾸는 사람이 주변 가족이나 배우자로부터 충분한 사랑과 인정을 받지 못하고 있다는 심리적 갈증을 나타내는 심리몽일 수 있습니다. 또한 동병상련의 처지에 있는 친구나 조력자를 만나게 될 징조, 혹은 자신의 도움이 필요한 사람이 나타날 것임을 예고하기도 합니다. 길몽이나 흉몽이라기보다 현재 자신의 감정 상태와 인간관계를 돌아보라는 내면의 메시지로 읽힙니다.",
+      "english": "A neutral reading of begging dreams sees them as psychological mirrors: a stranger begging you in a dream may reflect an emotional hunger for affection and recognition from those closest to you. It can also herald a meeting with a kindred spirit going through similar struggles, or signal that someone in your life will soon need your support. Rather than predicting fortune or misfortune, this reading treats the dream as the unconscious mind's invitation to reflect on your emotional needs and relationships.",
+      "context": "심리몽(心理夢) 해석 — 상징이 외부 운세를 예언하기보다 내면의 정서 상태를 투영하는 경우. 현대 심리학적 해석과 연결되는 중립적 관점."
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "내가 직접 구걸하는 꿈",
+      "keyword_en": "dreaming of begging yourself",
+      "interpretation_ko": "역상의 원리로 현실에서 오히려 재물운이 열리거나 오랜 걱정이 해소될 좋은 조짐입니다. 꿈속의 비참함이 클수록 현실에서의 반전도 크다고 봅니다.",
+      "interpretation_en": "By the principle of reverse symbolism, this dream often predicts a surge in financial fortune or the resolution of persistent worries. The more vivid the hardship in the dream, the greater the real-life reversal is said to be."
+    },
+    {
+      "keyword_ko": "거지에게 음식을 주는 꿈",
+      "keyword_en": "giving food to a beggar in a dream",
+      "interpretation_ko": "오래된 걱정과 근심이 사라지고, 앓던 병이 낫게 될 것을 예고하는 강한 길몽입니다. 베풂의 행위가 현실에서 좋은 기운을 불러들입니다.",
+      "interpretation_en": "A strongly auspicious sign: worries dissolve and illness gives way to recovery. The act of giving in the dream is believed to invite positive energy into waking life."
+    },
+    {
+      "keyword_ko": "거지에게 돈을 주는 꿈",
+      "keyword_en": "giving money to a beggar in a dream",
+      "interpretation_ko": "재물이 나가는 듯 보이지만 역상으로 오히려 예상치 못한 수입이나 횡재가 생길 수 있는 길징입니다. 사업운이나 투자운이 좋아지는 신호이기도 합니다.",
+      "interpretation_en": "Though money leaves your hands in the dream, this is a positive omen by reverse symbolism — unexpected income or a windfall may follow. It can also signal improving fortunes in business or investments."
+    },
+    {
+      "keyword_ko": "구걸하는데 음식이 아닌 물건을 받는 꿈",
+      "keyword_en": "receiving an object (not food) while begging",
+      "interpretation_ko": "다른 사람의 근심이나 짐을 대신 떠맡게 될 가능성을 암시합니다. 가까운 사람이 부탁이나 고민을 털어놓을 수 있으니 마음의 여유를 준비하는 것이 좋습니다.",
+      "interpretation_en": "This variation suggests you may find yourself shouldering someone else's burdens or worries. A close person may soon ask for your help or confide a problem — prepare yourself emotionally to support them."
+    },
+    {
+      "keyword_ko": "거지가 집 안으로 들어오는 꿈",
+      "keyword_en": "a beggar entering your home in a dream",
+      "interpretation_ko": "집 안으로 거지가 들어오는 꿈은 행운이 집 안에 깃드는 것을 의미하는 매우 좋은 길몽입니다. 애정운이 상승하거나 그동안 짝사랑하던 상대와 인연이 맺어질 수 있습니다.",
+      "interpretation_en": "An excellent omen: a beggar entering your home symbolizes good fortune entering your life. Romantic luck improves significantly — you may finally connect with someone you have long admired."
+    },
+    {
+      "keyword_ko": "거지를 쫓아내거나 거절하는 꿈",
+      "keyword_en": "chasing away or refusing a beggar in a dream",
+      "interpretation_ko": "들어오려는 행운을 스스로 내치는 것으로 해석됩니다. 가까운 기회를 놓치거나 인간관계에서 단절이 생길 수 있으며, 앞으로 근심이 늘 수 있다는 경고의 꿈입니다.",
+      "interpretation_en": "Interpreted as turning away incoming fortune with your own hands. You may miss an opportunity or experience a rupture in an important relationship. This dream carries a gentle warning to stay open and receptive."
+    },
+    {
+      "keyword_ko": "거지와 함께 걷거나 동행하는 꿈",
+      "keyword_en": "walking alongside a beggar in a dream",
+      "interpretation_ko": "외롭거나 고립된 처지에 있는 사람과 함께 일하거나 공동 작업을 하게 될 것을 예고합니다. 또는 개선이 필요한 힘든 일을 맡게 될 수 있음을 암시합니다.",
+      "interpretation_en": "This dream foretells collaboration with someone isolated or going through a difficult period. Alternatively, it may signal that you will be assigned a challenging task that requires patience and effort to improve."
+    },
+    {
+      "keyword_ko": "음식을 구걸하는 꿈",
+      "keyword_en": "begging for food in a dream",
+      "interpretation_ko": "기본적인 필요나 정서적 충족에 대한 갈망을 상징합니다. 현실에서 정신적 혹은 감정적 허기를 느끼고 있다는 내면의 신호일 수 있으며, 건강을 돌보라는 경고이기도 합니다.",
+      "interpretation_en": "Symbolizes a longing for basic sustenance — physical, emotional, or spiritual. This dream often signals that you are emotionally depleted in waking life and need nourishment: rest, connection, or meaningful purpose."
+    },
+    {
+      "keyword_ko": "돈을 구걸하는 꿈",
+      "keyword_en": "begging for money in a dream",
+      "interpretation_ko": "재정적 불안감이나 현실에서의 경제적 압박감이 꿈에 투영된 것일 수 있습니다. 역상으로 보면 오히려 예상치 못한 재물 소식이 들어올 전조이기도 합니다.",
+      "interpretation_en": "May reflect financial anxiety or real economic pressure seeping into your dreamscape. Through the lens of reverse symbolism, it can also foreshadow unexpected good financial news or a sudden relief from money-related stress."
+    },
+    {
+      "keyword_ko": "모르는 사람이 나에게 구걸하는 꿈",
+      "keyword_en": "a stranger begging from you in a dream",
+      "interpretation_ko": "자신의 도움이 필요한 사람이 가까운 시일 내에 나타날 것을 예고합니다. 또는 꿈꾸는 자신이 주변으로부터 충분한 관심과 애정을 받지 못한다는 심리적 결핍을 반영하기도 합니다.",
+      "interpretation_en": "Foretells the arrival of someone who will need your help. On a psychological level, it can also reflect your own unspoken desire for more attention and warmth from those around you."
+    },
+    {
+      "keyword_ko": "가족이나 아는 사람이 구걸하는 꿈",
+      "keyword_en": "a family member or acquaintance begging in a dream",
+      "interpretation_ko": "해당 인물이 현실에서 어려움에 처해 있거나 도움을 필요로 하고 있을 수 있습니다. 무의식이 그 사람의 상황을 감지하고 꿈으로 알려주는 것일 수 있으니, 꿈에서 본 인물의 안부를 확인해보는 것이 좋습니다.",
+      "interpretation_en": "Suggests that the person you dreamed of may be struggling or in need of support in real life. The unconscious mind may be picking up on subtle cues about their situation — consider checking in on them."
+    }
+  ],
+  "culturalContext": {
+    "korean": "한국 민속에서 거지(걸인)는 단순한 빈곤층이 아니라 복잡한 상징적 의미를 지닌 존재였습니다. 불교 문화권의 영향으로 탁발승(托鉢僧)의 이미지가 거지 관념과 중첩되어, 문 앞에 나타난 거지를 함부로 대하면 덕(德)을 잃는다는 믿음이 폭넓게 퍼져 있었습니다. 민간 설화에는 초라한 걸인의 모습으로 나타난 신령이나 보살이 따뜻한 대접을 받으면 복을 내린다는 이야기가 반복적으로 등장하며, 이는 '문전복신(門前福神)' 신앙과도 연결됩니다. 한국의 꿈해몽에서 역상(逆象)의 원리, 즉 꿈속의 나쁜 상황이 현실에서 좋은 결과로 이어진다는 관념은 거지 꿈에서 특히 두드러지게 나타납니다. 거지꿈을 길몽으로 보는 전통은 이 역상의 원리와 함께 베풂이 복을 부른다는 한국 특유의 가치관이 결합된 결과입니다. 또한 조선시대 사회에서 극도의 빈곤은 양반 문화의 허위의식에 대한 전복적 상징이기도 했으며, 거지를 주인공으로 한 설화들은 종종 재물보다 덕이 높은 사람이 결국 복을 얻는다는 도덕적 교훈을 담고 있습니다.",
+    "english": "In Korean folk culture, the beggar (걸인) carried rich symbolic meaning beyond mere poverty. Influenced by Buddhist traditions of monastic alms-giving (탁발), a widespread belief held that mistreating a beggar at one's door would cause a loss of virtue and fortune. Folk tales repeatedly feature divine spirits or bodhisattvas disguised as ragged beggars who bestow blessings on those who treat them with warmth — a motif connected to the belief in 'gate blessing deities' (문전복신). The principle of reverse symbolism (역상) is especially pronounced in Korean beggar dream lore: a dream showing poverty and destitution is understood to predict real-world abundance and relief. This tradition combines the reverse-symbolism framework with a distinctly Korean moral value — that generosity and open-heartedness attract fortune. During the Joseon period, extreme poverty in storytelling also served as a subversive symbol against the false pretensions of the ruling class, with tales of beggars who ultimately prosper because of their virtue rather than their wealth."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트적 관점에서 꿈속의 구걸 행위는 유아기의 구강기적(口腔期的) 의존 욕구가 억압되지 않고 수면 중에 표면으로 떠오른 것으로 해석됩니다. 누군가에게 무언가를 구하고 받으려는 욕망은 초기 양육 관계에서 충족되지 않은 사랑과 돌봄에 대한 무의식적 갈망을 반영하며, 성인이 된 뒤에도 타인의 인정과 지지에 대한 과도한 의존으로 나타날 수 있습니다.",
+      "english": "From a Freudian perspective, begging in dreams represents the resurfacing of unresolved oral-stage dependency needs during sleep. The urge to seek and receive from another person reflects an unconscious longing for the nurturing and unconditional love that may have been insufficiently met in early childhood caregiving relationships, potentially manifesting in adult life as an excessive need for approval and emotional support from others."
+    },
+    "jungian": {
+      "korean": "융 심리학에서 꿈속의 거지는 흔히 '그림자(Shadow)' 원형의 현현(顯現)으로 해석됩니다. 자기충족적이고 독립적인 페르소나(persona)를 유지하고 싶은 자아가 의식에서 억압해 온 취약함, 의존성, 도움을 요청할 용기 등이 거지의 모습으로 꿈에 나타납니다. 이 꿈은 억압된 자기 부분과 의식적으로 대면하고 통합하라는 무의식의 초대입니다.",
+      "english": "In Jungian psychology, the beggar in dreams frequently represents a manifestation of the Shadow archetype — those aspects of the self that the ego has repressed in its effort to maintain a persona of self-sufficiency and strength. Vulnerability, dependency, and the courage to ask for help emerge as the beggar figure, and the dream serves as the unconscious mind's invitation to consciously confront and integrate these disowned parts of the psyche."
+    },
+    "modern": {
+      "korean": "현대 심리학은 구걸하는 꿈을 충족되지 않은 심리적 욕구의 표출로 봅니다. 소속감, 인정, 정서적 친밀감에 대한 욕구가 현실에서 충분히 채워지지 않을 때 이러한 꿈이 나타날 수 있습니다. 반면 이 꿈이 도움을 구하는 데 대한 수치심이나 두려움을 직면하게 하고 자기 개방성과 겸손함을 촉진하는 성장의 계기로 작용할 수도 있다고 봅니다.",
+      "english": "Modern psychology interprets begging dreams as expressions of unmet psychological needs — for belonging, recognition, or emotional intimacy that waking life has not adequately provided. Contemporary therapists also note a constructive dimension: the dream can serve as a catalyst for growth by confronting the dreamer's shame or fear around asking for help, encouraging greater self-disclosure, humility, and openness to receiving support from others."
+    },
+    "crossCultural": {
+      "korean": "문화권을 넘어 구걸하는 꿈은 보편적으로 취약성과 상호의존의 주제를 건드립니다. 불교 전통에서 탁발은 겸손과 무집착의 수행이자 공동체의 상호 의존을 상징하는 신성한 행위이며, 꿈속의 구걸도 자아를 내려놓고 타인과 연결되려는 영적 움직임으로 읽힐 수 있습니다. 아프리카 및 중동 일부 문화권에서도 꿈속에서 가난한 자에게 베푸는 행위는 현실의 복을 끌어오는 길징으로 여겨지며, 이는 한국의 역상 해석과 공명합니다.",
+      "english": "Across cultures, begging dreams touch on universal themes of vulnerability and interdependence. In Buddhist traditions, alms-giving (탁발) is a sacred practice of humility and non-attachment — a recognition of communal interdependence — and begging in dreams can similarly be read as a spiritual movement toward releasing the ego and embracing connection. In parts of Africa and the Middle East, dreaming of giving to the poor is likewise considered auspicious, resonating with the Korean reverse-symbolism interpretation that apparent lack in a dream foretells real-world abundance."
+    }
+  },
+  "relatedSymbols": [
+    "poverty-dream",
+    "receiving-gift-dream",
+    "stealing-dream",
+    "gambling-dream",
+    "money-dream",
+    "helping-someone-dream",
+    "homeless-dream",
+    "charity-dream"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "구걸하는 꿈",
+      "거지 꿈해몽",
+      "구걸 꿈 해석",
+      "빌어먹는 꿈",
+      "동냥하는 꿈",
+      "거지에게 돈 주는 꿈",
+      "거지에게 밥 주는 꿈",
+      "거지가 집에 들어오는 꿈",
+      "거지 되는 꿈 해몽",
+      "거지 쫓아내는 꿈",
+      "구걸하는 꿈 길몽",
+      "거지꿈 의미",
+      "노숙자 꿈해몽",
+      "가난한 사람 꿈"
+    ],
+    "english": [
+      "dream about begging",
+      "begging dream meaning",
+      "beggar dream interpretation",
+      "dream of giving to beggar",
+      "becoming a beggar dream",
+      "dream begging for money meaning",
+      "dream begging for food",
+      "Korean dream beggar symbolism",
+      "beggar entering house dream",
+      "chasing away beggar dream meaning"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "구걸하는 꿈은 길몽인가요, 흉몽인가요?",
+      "answer_ko": "한국 민속 해몽에서 구걸하는 꿈은 역상(逆象)의 원리에 따라 대부분 길몽으로 해석됩니다. 꿈에서 가난하고 비참한 상황이 펼쳐질수록 현실에서는 오히려 재물운이 좋아지고 오랜 근심이 해소되는 좋은 신호로 봅니다. 단, 거지를 냉정하게 거절하거나 쫓아내는 꿈은 들어오는 운을 스스로 막는 흉조가 될 수 있습니다.",
+      "question_en": "Is dreaming of begging a lucky or unlucky dream?",
+      "answer_en": "In Korean folk dream interpretation, begging dreams are generally considered auspicious (길몽) due to the principle of reverse symbolism (역상). The more destitute the scenario in the dream, the greater the predicted improvement in fortune and relief from worries in waking life. The exception is chasing a beggar away or refusing them — this is read as a warning that you may be pushing away incoming luck."
+    },
+    {
+      "question_ko": "거지에게 음식이나 돈을 주는 꿈은 무슨 의미인가요?",
+      "answer_ko": "거지에게 음식이나 돈을 베푸는 꿈은 매우 강한 길몽입니다. 오래 쌓인 걱정과 근심이 사라지고, 앓던 병이 낫게 되거나 예상치 못한 재물이 들어오는 것을 예고합니다. 현실에서의 베풂과 나눔의 가치관이 꿈속에서도 복을 부르는 행위로 나타난다고 봅니다.",
+      "question_en": "What does it mean to give food or money to a beggar in a dream?",
+      "answer_en": "Giving food or money to a beggar is one of the most auspicious variations of this dream. It predicts the dissolution of long-held worries, recovery from illness, or the arrival of unexpected wealth. In Korean dream tradition, the act of generosity in the dream is believed to attract real-world blessings and good fortune."
+    },
+    {
+      "question_ko": "거지가 내 집 안으로 들어오는 꿈은 어떻게 해석하나요?",
+      "answer_ko": "거지가 집 안으로 들어오는 꿈은 집 안에 행운이 깃드는 매우 좋은 징조입니다. 재물운이 상승하고, 애정운도 함께 좋아져 짝사랑하던 상대와 인연이 맺어지거나 새로운 연인을 만날 가능성이 높아집니다. 불청객처럼 보이는 거지가 사실은 복을 가져오는 존재라는 역설적인 해석입니다.",
+      "question_en": "What does it mean when a beggar enters my home in a dream?",
+      "answer_en": "A beggar entering your home is interpreted as fortune literally walking through your door — a very positive omen. Expect improvements in both finances and romantic life: a long-admired person may finally reciprocate, or a new relationship may blossom. This dream exemplifies the paradoxical Korean folk wisdom that an unwelcome-seeming figure can be a carrier of blessings."
+    },
+    {
+      "question_ko": "꿈에서 내가 직접 구걸을 하면 현실에서도 가난해지나요?",
+      "answer_ko": "아닙니다. 한국 해몽의 역상(逆象) 원리에 따르면 꿈에서 구걸하는 것은 현실에서 가난해진다는 예언이 아닙니다. 오히려 그 반대로, 재물운이 열리거나 오랜 경제적 고민이 해소될 좋은 신호로 해석되는 경우가 많습니다. 꿈속의 비참함이 크면 클수록 현실에서의 반전도 크다고 여깁니다.",
+      "question_en": "If I dream that I am begging, does it mean I will become poor in real life?",
+      "answer_en": "Not at all. According to the Korean principle of reverse symbolism (역상), dreaming of begging is not a prediction of poverty — quite the opposite. It is frequently interpreted as a sign that financial fortune is opening up or that long-standing economic worries are about to be resolved. The greater the hardship depicted in the dream, the greater the predicted real-world reversal is believed to be."
+    },
+    {
+      "question_ko": "거지를 쫓아내는 꿈은 왜 나쁜가요?",
+      "answer_ko": "한국 민속에서는 문 앞에 나타난 거지를 함부로 대하면 복을 잃는다는 믿음이 있었습니다. 이는 불교의 탁발승 문화, 그리고 신령이나 보살이 거지의 모습으로 나타난다는 설화 전통과 연결됩니다. 꿈에서 거지를 쫓아내는 것은 스스로 들어오는 행운을 내치는 행위로 해석되어, 기회 상실이나 인간관계 단절의 징조로 볼 수 있습니다.",
+      "question_en": "Why is chasing a beggar away in a dream considered a bad sign?",
+      "answer_en": "Korean folk belief holds that mistreating a beggar at one's door invites the loss of blessings — a belief rooted in Buddhist alms-giving traditions and folk tales where spirits or bodhisattvas appear in the guise of beggars. In a dream context, chasing a beggar away is interpreted as turning away incoming fortune with your own hands, potentially signaling missed opportunities or a rupture in an important relationship."
+    },
+    {
+      "question_ko": "심리학적으로 구걸하는 꿈은 무엇을 의미하나요?",
+      "answer_ko": "현대 심리학에서 구걸하는 꿈은 충족되지 않은 감정적 욕구 — 인정, 사랑, 소속감에 대한 갈망 — 을 반영하는 것으로 봅니다. 융의 분석 심리학에서는 자아가 억압해 온 취약함과 의존성이 그림자(Shadow)의 형태로 꿈에 나타난 것으로 해석합니다. 이 꿈은 자신의 필요를 솔직하게 인정하고 타인에게 도움을 구하는 용기를 내라는 내면의 메시지일 수 있습니다.",
+      "question_en": "What does a begging dream mean from a psychological perspective?",
+      "answer_en": "Modern psychology reads begging dreams as reflections of unmet emotional needs — a longing for recognition, love, or a sense of belonging that waking life has not fully satisfied. In Jungian terms, the beggar figure represents the Shadow: the vulnerabilities and dependencies the ego has suppressed. Rather than a warning, this dream can be a meaningful invitation to acknowledge your own needs honestly and find the courage to ask for support from others."
+    }
+  ]
+}

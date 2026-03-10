@@ -1,0 +1,30 @@
+{
+  "slug": "flying-dream",
+  "hero": {
+    "path": "/images/dreams/flying-dream/hero.png",
+    "alt_ko": "하늘을 나는 꿈 - 안개 낀 산 사이를 자유롭게 비상하는 실루엣",
+    "alt_en": "Flying dream - a silhouette soaring freely through misty mountain clouds",
+    "prompt": "A silhouette soaring freely through misty mountain clouds, arms outstretched, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike atmosphere, muted indigo and sky blue palette, golden sunrise glow below, no text",
+    "aspectRatio": "16:9"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/flying-dream/auspicious.png",
+      "alt_ko": "길몽 - 황금빛 여명을 향해 구름 위로 솟아오르는 인물",
+      "alt_en": "Auspicious omen - a figure rising toward golden light above the clouds",
+      "prompt": "A lone figure rising toward golden light above the clouds, soft watercolor ink-wash, Korean traditional painting style, warm golden dawn palette, spring cherry blossom mist, sense of freedom and fortune, no text",
+      "aspectRatio": "4:3"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/flying-dream/inauspicious.png",
+      "alt_ko": "흉몽 - 폭풍 구름에서 추락하는 실루엣",
+      "alt_en": "Inauspicious omen - a silhouette falling from dark storm clouds",
+      "prompt": "A silhouette falling from dark storm clouds, soft ink-wash illustration, Korean traditional painting aesthetic, deep indigo and stormy grey palette, turbulent wind-swept strokes, ominous but dreamlike atmosphere, no text",
+      "aspectRatio": "4:3"
+    }
+  ],
+  "generatedAt": "2026-03-10T05:43:00Z",
+  "provider": "imagen-4.0-generate-001"
+}

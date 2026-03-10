@@ -74,11 +74,12 @@ When invoked, you must follow these steps:
    source /Users/llnormll/WorkSpace/my-fortune-site/.env 2>/dev/null || true
    GOOGLE_API_KEY="${GOOGLE_API_KEY:-$(grep GOOGLE_API_KEY /Users/llnormll/WorkSpace/my-fortune-site/.env | cut -d= -f2 | tr -d '\"' | tr -d \"'\")}"
 
-   # Primary model: Imagen 4 Fast (cheapest). Fallback: imagen-4.0-generate-001
-   MODEL="imagen-4.0-fast-generate-001"
+   # Use Imagen 4 via the Vertex-style predict endpoint (generateImages returns 404)
+   # Model: imagen-4.0-generate-001 (confirmed working)
+   MODEL="imagen-4.0-generate-001"
 
    RESPONSE=$(curl -s -X POST \
-     "https://generativelanguage.googleapis.com/v1beta/models/${MODEL}:generateImages?key=${GOOGLE_API_KEY}" \
+     "https://generativelanguage.googleapis.com/v1beta/models/${MODEL}:predict?key=${GOOGLE_API_KEY}" \
      -H "Content-Type: application/json" \
      -d "{\"instances\": [{\"prompt\": \"PROMPT_HERE\"}], \"parameters\": {\"sampleCount\": 1, \"aspectRatio\": \"16:9\"}}")
 
