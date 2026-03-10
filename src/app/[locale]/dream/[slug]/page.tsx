@@ -8,6 +8,7 @@ import { DreamSection } from "@/components/dream/DreamSection";
 import { DreamVariations } from "@/components/dream/DreamVariations";
 import { DreamFAQ } from "@/components/dream/DreamFAQ";
 import { RelatedDreams } from "@/components/dream/RelatedDreams";
+import { MarkdownBody } from "@/components/dream/MarkdownBody";
 import type { Locale } from "@/i18n/routing";
 
 type Props = {
@@ -116,8 +117,27 @@ export default async function DreamPage({ params }: Props) {
         {/* Cultural context */}
         <section className="mt-10">
           <h2 className="mb-3 text-xl font-semibold">{t("culturalContext")}</h2>
-          <p className="leading-relaxed text-gray-700">{c.culturalContext}</p>
+          <MarkdownBody className="text-gray-700">{c.culturalContext}</MarkdownBody>
         </section>
+
+        {/* Western psychological context */}
+        {c.westernContext && (
+          <section className="mt-10">
+            <h2 className="mb-3 text-xl font-semibold">
+              {locale === "ko" ? "서양 심리학적 해석" : "Western Psychological Perspectives"}
+            </h2>
+            <div className="rounded-xl border border-indigo-100 bg-indigo-50 p-5">
+              <MarkdownBody className="text-gray-800">{c.westernContext}</MarkdownBody>
+            </div>
+          </section>
+        )}
+
+        {/* Conclusion */}
+        {c.conclusion && (
+          <section className="mt-10">
+            <MarkdownBody className="text-gray-600 italic border-t pt-6">{c.conclusion}</MarkdownBody>
+          </section>
+        )}
 
         {/* FAQ */}
         <DreamFAQ heading={t("faq")} faqs={c.faqs} />

@@ -341,7 +341,7 @@ All hooks are minimal — logging + security only, no TTS, no external API calls
 
 ## Open Decisions
 
-- [ ] Domain name (`kkumhaemong.com` recommended)
+- [x] ~~Domain name~~ → **kkumhaemong.com** purchased ✅
 - [ ] Image storage: `public/images/` (small scale) vs Cloudflare R2 (production scale)
 - [ ] Image generation provider: DALL-E 3 vs Replicate/SD
 - [ ] Ad slot implementation: replace placeholder divs with real AdSense + Kakao AdFit units
@@ -349,6 +349,28 @@ All hooks are minimal — logging + security only, no TTS, no external API calls
 - [ ] CI/CD pipeline for batch content generation
 - [ ] Rename `src/middleware.ts` → `src/proxy.ts` (Next.js 16 deprecation)
 - [ ] Cloudflare KV migration for content data (when `data/` directory grows too large for the Worker bundle)
+
+## Competitive Landscape
+
+### Primary Competitor: kkumhaemong.co.kr
+WordPress blog, 217+ pages, `.co.kr` domain (Naver advantage from domain age/region signal).
+
+**Their weaknesses = our differentiators:**
+
+| Factor | kkumhaemong.co.kr | kkumhaemong.com (us) |
+|--------|-------------------|----------------------|
+| Structure | Blog-style, all uncategorized | Category taxonomy, clean URL routing |
+| Language | Korean only | Korean + English (hreflang) |
+| SEO | Basic WordPress | Next.js metadata API, JSON-LD, sitemap |
+| Cross-linking | None | Related dreams, category grids, internal links |
+| Content depth | Single generic interpretation | 길몽/흉몽/neutral + variations + FAQ + cultural + western psychology |
+| International reach | None | Google-targeted `/en/dream/[slug]` pages |
+| UX | Generic OceanWP theme | Custom mobile-first design, Core Web Vitals priority |
+| Religious bias | Heavy (Buddhist/Christian content skew) | Balanced folk tradition + secular psychology |
+
+**Strategy:** Their 217 pages prove the niche has traffic. We win on depth-per-article (variations + FAQ + westernContext) which dominates long-tail queries, and on international reach which they have zero presence in. The `.co.kr` may outrank us on Naver initially due to domain age, but structured content + internal linking + English coverage should close the gap fast.
+
+---
 
 ## Resolved Decisions
 

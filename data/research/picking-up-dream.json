@@ -1,0 +1,266 @@
+{
+  "symbol": {
+    "korean": "줍는 꿈",
+    "english": "Dream of Picking Something Up",
+    "slug": "picking-up-dream"
+  },
+  "summary": {
+    "korean": "줍는 꿈은 무엇을 줍느냐, 어디서 줍느냐, 줍고 난 뒤 감정이 어떠했느냐에 따라 길몽과 흉몽이 크게 갈리며, 대체로 가치 있는 것을 줍는 꿈은 예기치 못한 재물운과 새로운 기회를 상징하는 길몽으로 풀이됩니다.",
+    "english": "Dreams of picking something up are primarily interpreted through what is found, where it is found, and the emotional quality of the act — generally, picking up something valuable signals unexpected fortune and new opportunities, while picking up damaged or dirty items may carry cautionary meanings."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "길에서 큰 돈(지폐 다발)을 줍는 꿈은 대표적인 길몽으로, 예상치 못한 횡재나 사업적 기회가 찾아올 것임을 암시합니다. 승진, 계약 성공, 보너스, 로또 등 금전적 이익이 따를 수 있습니다.",
+      "english": "Picking up a large sum of paper bills on the road is a classic auspicious dream, foretelling unexpected windfall, business opportunities, promotion, or significant financial gains such as bonuses or lottery prizes.",
+      "context": "돈 줍는 꿈 — 큰 금액, 새 지폐"
+    },
+    {
+      "type": "길몽",
+      "korean": "금반지, 금목걸이, 금괴 등 금으로 된 귀중품을 줍는 꿈은 횡재수와 재물 증가를 의미합니다. 사업이 번창하고 새로운 인연이나 기회가 찾아올 수 있습니다.",
+      "english": "Picking up gold jewelry, a gold ring, or gold ingots signals significant wealth accumulation, a booming business, and the arrival of valuable new connections or opportunities.",
+      "context": "금 줍는 꿈 — 금반지, 금목걸이, 금괴"
+    },
+    {
+      "type": "길몽",
+      "korean": "보석이나 반지를 줍는 꿈은 연애운과 재물운이 동시에 상승하는 신호입니다. 새로운 인연이 시작되거나 기존 관계가 더욱 깊어질 수 있습니다.",
+      "english": "Picking up gemstones or rings points to a rise in both romantic luck and financial fortune, suggesting a new love interest or a deepening of an existing relationship alongside material gains.",
+      "context": "보석·반지 줍는 꿈"
+    },
+    {
+      "type": "길몽",
+      "korean": "산속이나 들판에서 알밤, 도토리, 열매 등을 줍는 꿈은 태몽으로 풀이되거나 재물이 들어올 조짐으로 봅니다. 특히 알밤을 많이 줍는 꿈은 아들 태몽으로 해석되기도 합니다.",
+      "english": "Picking up chestnuts, acorns, or other fruits in the mountains or fields can be interpreted as a conception dream (태몽) or a sign that wealth and resources are on their way. Picking many chestnuts is especially associated with conceiving a son.",
+      "context": "알밤·열매 줍는 꿈 — 태몽, 재물"
+    },
+    {
+      "type": "길몽",
+      "korean": "특이하거나 예쁜 돌멩이를 줍는 꿈은 생각지도 못한 상황에서 금전적 이익이나 행운이 찾아올 것을 의미합니다. 특히 반짝이거나 색이 독특한 돌은 횡재수로 풀이됩니다.",
+      "english": "Picking up an unusual or beautiful stone signals an unexpected financial windfall. A sparkling or vividly colored stone is especially associated with coming into surprise money.",
+      "context": "특이한 돌 줍는 꿈 — 횡재수"
+    },
+    {
+      "type": "길몽",
+      "korean": "신발을 줍는 꿈은 손아랫사람이나 후배와 관련된 경사스러운 일이 생길 것을 의미하며, 새 신발을 줍는 꿈은 새로운 시작이나 여행, 기회를 암시합니다.",
+      "english": "Picking up shoes suggests a joyful event involving a younger person or subordinate. Finding new shoes specifically hints at a fresh start, a journey, or the arrival of a new opportunity.",
+      "context": "신발 줍는 꿈 — 경사, 새 시작"
+    },
+    {
+      "type": "길몽",
+      "korean": "길에서 지갑이나 돈다발을 줍는 꿈은 재물운이 최상에 달한 신호로, 금전적 이익뿐 아니라 명예와 책임이 함께 따라오는 시기임을 암시합니다.",
+      "english": "Finding a wallet or a bundle of cash on the road is one of the strongest fortune-related dreams, indicating not only financial gain but also growing prestige and responsibility — a prime time for business expansion, promotions, or major contracts.",
+      "context": "지갑·돈다발 줍는 꿈 — 재물운 최상"
+    },
+    {
+      "type": "흉몽",
+      "korean": "녹슬거나 더러워진 동전을 줍는 꿈은 가까운 사람에게 슬픈 일이 생기거나 기대했던 이익이 실망으로 끝날 수 있음을 경고합니다.",
+      "english": "Picking up rusty or dirty coins warns of sorrow involving a close person, or that anticipated gains may turn into disappointment.",
+      "context": "녹슨 동전 줍는 꿈 — 슬픔, 실망"
+    },
+    {
+      "type": "흉몽",
+      "korean": "돈을 줍자마자 잃어버리는 꿈은 재물운이 들어오더라도 그것을 지키기 어려울 수 있음을 경고합니다. 투자나 계약, 인간관계에서 신중한 판단이 필요합니다.",
+      "english": "Picking up money only to immediately lose it is a cautionary dream — it warns that even if financial opportunities arise, you may struggle to hold onto them. Exercise care in investments, contracts, and relationships.",
+      "context": "돈 줍고 잃어버리는 꿈 — 경고"
+    },
+    {
+      "type": "흉몽",
+      "korean": "길을 걷다가 쓰레기나 오물을 줍는 꿈은 정신적 피로, 인간관계의 갈등, 혹은 의도치 않게 남의 짐이나 문제를 떠안게 될 상황을 암시합니다.",
+      "english": "Picking up trash or filthy objects while walking suggests mental exhaustion, interpersonal conflicts, or being burdened with someone else's problems against your will.",
+      "context": "쓰레기·오물 줍는 꿈 — 정신적 피로"
+    },
+    {
+      "type": "neutral",
+      "korean": "작은 동전 여러 개를 줍는 꿈은 한 번의 큰 행운보다는 소소한 이득이 꾸준히 쌓이는 흐름을 나타냅니다. 노력한 만큼 차근차근 결실을 맺는 시기를 암시합니다.",
+      "english": "Picking up multiple small coins represents a steady accumulation of modest gains rather than one big windfall — a period when consistent effort gradually pays off.",
+      "context": "소액 동전 여러 개 — 꾸준한 소득"
+    },
+    {
+      "type": "neutral",
+      "korean": "낯선 물건을 줍는 꿈은 예상치 못한 정보나 새로운 아이디어를 접하게 될 것을 암시하며, 그것이 자신에게 유익할지 해로울지는 꿈속 감정과 물건의 상태에 따라 달라집니다.",
+      "english": "Picking up an unfamiliar object suggests you will come across unexpected information or a new idea. Whether it proves beneficial or harmful depends on the emotional tone of the dream and the condition of the object.",
+      "context": "낯선 물건 줍는 꿈 — 정보·아이디어"
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "돈 줍는 꿈",
+      "keyword_en": "Dream of picking up money",
+      "interpretation_ko": "금액이 클수록 길몽으로, 큰 지폐를 줍는 꿈은 횡재·승진·사업 성공을 암시합니다. 소액 동전은 소소한 이득의 반복을 의미하며, 돈을 줍고 기분이 좋았다면 길몽, 불안하거나 죄책감이 들었다면 경고성 꿈으로 봅니다.",
+      "interpretation_en": "The larger the amount, the more auspicious the dream. Picking up large bills signals windfall, promotion, or business success. Small coins represent modest but steady gains. A positive emotional tone confirms a lucky dream; anxiety or guilt suggests a warning."
+    },
+    {
+      "keyword_ko": "금 줍는 꿈",
+      "keyword_en": "Dream of picking up gold",
+      "interpretation_ko": "금반지, 금목걸이, 금괴 등 금으로 된 것을 줍는 꿈은 재물 증가와 횡재수를 상징하는 강력한 길몽입니다. 개인의 능력이나 재능이 인정받고 새로운 기회와 인연이 찾아올 것을 암시합니다.",
+      "interpretation_en": "Picking up gold items — rings, necklaces, ingots — is a powerful auspicious dream symbolizing wealth accumulation, windfall, and recognition of one's talents or abilities. New opportunities and meaningful connections are on the horizon."
+    },
+    {
+      "keyword_ko": "동전 줍는 꿈",
+      "keyword_en": "Dream of picking up coins",
+      "interpretation_ko": "많은 양의 동전을 줍는 꿈은 복권 당첨 가능성을 포함한 행운을 암시합니다. 녹슨 동전이라면 흉몽으로 슬픈 일이나 실망스러운 결과를 경고합니다.",
+      "interpretation_en": "Picking up many coins hints at luck including possible lottery winnings. Rusty or dirty coins, however, are inauspicious, warning of sorrow or disappointing outcomes."
+    },
+    {
+      "keyword_ko": "지갑 줍는 꿈",
+      "keyword_en": "Dream of picking up a wallet",
+      "interpretation_ko": "가득 찬 지갑을 줍는 꿈은 재물운이 절정에 달한 길몽으로, 사업 확장이나 승진, 중요한 계약이 성사될 가능성을 나타냅니다. 빈 지갑이나 망가진 지갑은 재정적 손실이나 연애 실패를 경고합니다.",
+      "interpretation_en": "Finding a full wallet is a top-tier auspicious dream indicating peak financial fortune, business expansion, promotion, or a major contract. An empty or damaged wallet warns of financial loss or romantic failure."
+    },
+    {
+      "keyword_ko": "보석 줍는 꿈",
+      "keyword_en": "Dream of picking up jewels",
+      "interpretation_ko": "다이아몬드, 루비, 에메랄드 등 보석을 줍는 꿈은 재물운과 연애운이 함께 상승하는 신호입니다. 새로운 인연의 시작이나 기존 관계의 심화를 예고합니다.",
+      "interpretation_en": "Picking up gemstones signals a simultaneous rise in financial fortune and romantic luck, heralding new love or a deepening of existing relationships alongside material gains."
+    },
+    {
+      "keyword_ko": "알밤 줍는 꿈",
+      "keyword_en": "Dream of picking up chestnuts",
+      "interpretation_ko": "알밤이나 도토리를 줍는 꿈은 태몽으로 풀이되는 경우가 많으며, 특히 알밤을 많이 주우면 아들 태몽으로 해석됩니다. 재물이 생기거나 좋은 소식이 들어올 조짐이기도 합니다.",
+      "interpretation_en": "Picking up chestnuts or acorns is often interpreted as a conception dream (태몽), with large quantities associated with conceiving a son. It can also signal incoming wealth or good news."
+    },
+    {
+      "keyword_ko": "뱀 줍는 꿈",
+      "keyword_en": "Dream of picking up a snake",
+      "interpretation_ko": "뱀을 직접 손으로 줍거나 잡는 꿈은 강력한 길몽으로, 재물운과 권력의 획득을 상징합니다. 특히 금색이나 노란색 뱀을 줍는 꿈은 뜻밖의 큰 재물을 암시합니다.",
+      "interpretation_en": "Picking up or catching a snake with bare hands is a powerful auspicious dream symbolizing financial gain and the acquisition of power or authority. Picking up a golden or yellow snake specifically hints at an unexpected large windfall."
+    },
+    {
+      "keyword_ko": "똥 줍는 꿈",
+      "keyword_en": "Dream of picking up feces",
+      "interpretation_ko": "꿈에서 똥은 재물을 상징합니다. 똥을 줍거나 만지는 꿈은 현실에서 많은 재물이 들어올 것을 암시하는 강력한 길몽으로 풀이됩니다. 더럽다고 피하지 않는 자세가 오히려 재물을 끌어당기는 것으로 해석됩니다.",
+      "interpretation_en": "In Korean dream lore, feces symbolize wealth. Picking up or handling feces in a dream is interpreted as a strongly auspicious sign that substantial financial gains are coming in real life — the willingness to engage with the unpleasant is seen as drawing wealth toward you."
+    },
+    {
+      "keyword_ko": "아기 줍는 꿈",
+      "keyword_en": "Dream of picking up a baby",
+      "interpretation_ko": "아기를 줍는 꿈은 예상치 못한 책임이나 새로운 시작을 의미하며, 태몽으로 풀이되기도 합니다. 아기를 기쁘게 안는 꿈은 새로운 프로젝트나 관계의 시작을 암시하는 길몽입니다.",
+      "interpretation_en": "Picking up a baby in a dream can signal unexpected responsibilities or a new beginning, and is sometimes read as a conception dream. Joyfully holding the baby is auspicious, suggesting the beginning of a rewarding new project or relationship."
+    },
+    {
+      "keyword_ko": "신발 줍는 꿈",
+      "keyword_en": "Dream of picking up shoes",
+      "interpretation_ko": "신발을 줍는 꿈은 손아랫사람이나 후배와 관련된 경사로운 일이나 도움을 받을 기회를 암시합니다. 새 신발을 줍는 꿈은 새로운 방향 또는 기회의 시작을 의미합니다.",
+      "interpretation_en": "Picking up shoes hints at a joyful event or an opportunity to be helped by someone younger. Finding new shoes points to the start of a new direction or opportunity in life."
+    },
+    {
+      "keyword_ko": "돌 줍는 꿈",
+      "keyword_en": "Dream of picking up a stone",
+      "interpretation_ko": "특이하거나 아름다운 돌을 줍는 꿈은 생각지도 못한 상황에서 금전적 횡재나 행운이 찾아올 것을 암시합니다. 평범한 돌이라면 의미가 약하며, 반짝이거나 크기가 큰 돌일수록 길몽의 강도가 높아집니다.",
+      "interpretation_en": "Picking up an unusual or beautiful stone heralds an unexpected financial windfall. An ordinary stone carries little significance, but a sparkling or large stone strongly indicates good fortune."
+    },
+    {
+      "keyword_ko": "쓰레기 줍는 꿈",
+      "keyword_en": "Dream of picking up trash",
+      "interpretation_ko": "쓰레기나 오물을 줍는 꿈은 정신적 피로와 인간관계의 갈등을 나타내거나, 타인의 문제를 떠안게 될 상황을 경고합니다. 자신이 원치 않는 부담을 지게 될 수 있음을 암시합니다.",
+      "interpretation_en": "Picking up trash or garbage warns of mental fatigue, interpersonal friction, or being saddled with burdens that belong to others. It advises caution about taking on obligations you haven't willingly chosen."
+    },
+    {
+      "keyword_ko": "복권 줍는 꿈",
+      "keyword_en": "Dream of picking up a lottery ticket",
+      "interpretation_ko": "복권이나 당첨권을 줍는 꿈은 예상치 못한 행운이 갑자기 찾아올 것을 암시하는 강력한 길몽입니다. 재물운이 크게 상승하는 시기임을 나타냅니다.",
+      "interpretation_en": "Picking up a lottery ticket or winning ticket in a dream is a strongly auspicious sign that unexpected good fortune is about to arrive suddenly — financial luck is peaking."
+    }
+  ],
+  "culturalContext": {
+    "korean": "한국의 전통 꿈 해몽에서 '줍다'라는 행위는 노력 없이 가치 있는 것을 얻는 행위, 즉 복(福)이 저절로 찾아오는 것으로 해석됩니다. 이는 한국인의 복에 대한 전통적 관념과 연결됩니다. 특히 금, 돈, 귀중품을 줍는 꿈은 재물이 하늘로부터 내려오는 복으로 여겨졌으며, 점복(占卜) 문화가 일상과 깊이 연결된 조선 시대부터 꿈은 미래를 예시하는 중요한 신호로 받아들여졌습니다. 줍는 꿈의 해몽은 대상에 따라 세분화되어 있는데, 이는 한국인들이 꿈의 상징을 얼마나 정교하게 분류하고 해석해 왔는지를 보여주는 사례입니다. 불교의 인과론적 사고와 무속 신앙에서 비롯된 '꿈은 현실과 반대'라는 관념도 영향을 미쳐, 더러운 것(예: 똥)을 줍는 꿈조차 재물의 징조로 해석하는 독특한 문화적 맥락이 형성되어 있습니다.",
+    "english": "In Korean traditional dream interpretation, the act of 'picking up' represents receiving value without explicit effort — fortune arriving of its own accord. This connects to the Korean cultural concept of 복 (bok), divine blessing or luck. Dreaming of picking up gold, money, or precious objects was seen as a sign of heaven-sent wealth, and from the Joseon period onward, when divination was deeply embedded in daily life, dreams were treated as significant omens of the future. The elaborate categorization of picking-up dreams — differentiated by what is found, where, and in what condition — reflects the sophisticated symbolic language Koreans developed around dream interpretation. Notably, a cultural belief rooted in Buddhist causality and shamanic tradition holds that dreams can mean the opposite of their surface appearance, which is why picking up something unpleasant like feces is interpreted as a powerful omen of incoming wealth."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트적 관점에서 줍는 꿈은 억눌린 욕망이나 충족되지 않은 필요가 무의식 속에서 표출되는 것으로 해석할 수 있어요. 특히 돈이나 귀중품을 줍는 행위는 권력, 안전, 자아 충족에 대한 근원적 욕구를 상징할 수 있습니다. 더러운 물건을 줍는 꿈은 사회적으로 억압된 욕망이 상징적 형태로 나타나는 것일 수 있어요.",
+      "english": "From a Freudian perspective, picking up objects in dreams may express repressed desires or unmet needs surfacing from the unconscious. Picking up money or valuables can symbolize a drive for power, security, or ego fulfillment. Picking up something dirty may represent socially suppressed urges manifesting in symbolic form."
+    },
+    "jungian": {
+      "korean": "융 심리학에서 줍는 꿈은 자아가 무의식으로부터 잃어버린 자기 자신의 일부(그림자 또는 아니마/아니무스)를 발견하고 통합하는 과정을 상징할 수 있어요. 귀중품을 줍는 행위는 개인의 잠재력이나 미개발된 재능을 의식적으로 인식하게 되는 개성화 과정의 일부로 볼 수 있습니다.",
+      "english": "In Jungian psychology, picking up objects in a dream may symbolize the ego's discovery and integration of lost aspects of the self — the shadow, anima, or animus — rising from the unconscious. Finding something valuable can represent becoming consciously aware of untapped potential or undeveloped talents, as part of the individuation process."
+    },
+    "modern": {
+      "korean": "현대 심리학적 관점에서 줍는 꿈은 현실에서의 경제적 불안감, 기회를 놓칠 것에 대한 두려움(FOMO), 또는 현재 삶에서 무언가 부족하다는 감각이 꿈으로 투영된 것일 수 있어요. 꿈속 감정이 기쁨이냐 불안이냐에 따라 꿈꾼 사람의 심리적 상태를 파악하는 데 활용될 수 있습니다.",
+      "english": "From a modern psychological standpoint, dreams of picking things up may reflect real-world financial anxiety, fear of missing opportunities, or a felt sense of lack in one's current life. The emotional quality of the dream — joy versus anxiety — provides insight into the dreamer's psychological state and may indicate areas requiring attention in waking life."
+    },
+    "crossCultural": {
+      "korean": "줍는 꿈의 해석은 문화권마다 다양해요. 서구권에서는 우연히 귀중품을 줍는 꿈을 행운의 징조로 보는 경우가 많으며, 중국 전통에서도 돈이나 금을 줍는 꿈은 재물운의 상승으로 해석됩니다. 반면 일부 문화권에서는 길에서 물건을 줍는 행위가 나쁜 기운을 끌어오는 것으로 경고되기도 합니다.",
+      "english": "The interpretation of picking-up dreams varies across cultures. In many Western traditions, stumbling upon valuables in a dream is seen as a positive omen of luck. Chinese dream lore similarly reads finding money or gold as a sign of rising financial fortune. However, in some other cultural contexts, picking up objects from the ground in a dream is a warning against drawing in negative energy or taking on burdens that do not belong to you."
+    }
+  },
+  "relatedSymbols": [
+    "money-dream",
+    "gold-dream",
+    "lottery-dream",
+    "wallet-dream",
+    "treasure-dream",
+    "feces-dream",
+    "snake-dream",
+    "jewel-dream",
+    "baby-dream",
+    "chestnut-dream"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "줍는 꿈 해몽",
+      "줍는 꿈 길몽 흉몽",
+      "돈 줍는 꿈",
+      "금 줍는 꿈 해몽",
+      "동전 줍는 꿈 해몽",
+      "지갑 줍는 꿈 해몽",
+      "보석 줍는 꿈 해몽",
+      "알밤 줍는 꿈 해몽",
+      "뱀 줍는 꿈 해몽",
+      "똥 줍는 꿈 해몽",
+      "아기 줍는 꿈 해몽",
+      "복권 줍는 꿈 해몽",
+      "돌 줍는 꿈 해몽",
+      "쓰레기 줍는 꿈 해몽",
+      "물건 줍는 꿈 의미"
+    ],
+    "english": [
+      "dream of picking up money",
+      "picking up gold dream meaning",
+      "dream of finding money on the ground",
+      "picking up coins dream interpretation",
+      "dream of finding a wallet",
+      "picking up jewels dream meaning",
+      "Korean dream interpretation picking up",
+      "finding valuables dream meaning"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "돈을 줍는 꿈은 길몽인가요, 흉몽인가요?",
+      "answer_ko": "돈을 줍는 꿈은 일반적으로 길몽으로 해석됩니다. 특히 큰 금액의 지폐나 지갑을 줍는 꿈은 횡재, 승진, 사업 성공 등 금전적 행운을 암시합니다. 다만 녹슨 동전을 줍거나 줍자마자 잃어버리는 꿈은 경고성 꿈으로, 재물이 들어와도 지키기 어려울 수 있음을 의미합니다.",
+      "question_en": "Is dreaming of picking up money a good or bad omen?",
+      "answer_en": "Picking up money in a dream is generally considered auspicious. Finding large bills or a wallet signals financial windfalls, promotions, or business success. However, picking up rusty coins or immediately losing the money you found are cautionary signs, warning that any gains may be difficult to hold onto."
+    },
+    {
+      "question_ko": "금을 줍는 꿈은 어떤 의미인가요?",
+      "answer_ko": "금반지, 금목걸이, 금괴 등 금으로 된 것을 줍는 꿈은 재물 증가와 횡재수를 상징하는 강력한 길몽입니다. 개인의 능력이 인정받고, 새로운 기회와 인연이 찾아올 것을 암시합니다.",
+      "question_en": "What does it mean to dream of picking up gold?",
+      "answer_en": "Picking up gold items — rings, necklaces, or ingots — is a powerfully auspicious dream symbolizing wealth accumulation, unexpected financial gains, and recognition of your abilities. New opportunities and meaningful connections are likely approaching."
+    },
+    {
+      "question_ko": "똥을 줍는 꿈이 왜 길몽으로 해석되나요?",
+      "answer_ko": "한국 꿈 해몽에서 똥은 재물을 상징합니다. 꿈과 현실이 반대로 이루어진다는 전통적 믿음에 따라, 더럽고 불쾌한 것을 기꺼이 줍는 꿈은 현실에서 큰 재물이 들어올 것을 암시하는 강력한 길몽으로 풀이됩니다.",
+      "question_en": "Why is picking up feces in a dream considered a good omen?",
+      "answer_en": "In Korean dream interpretation, feces symbolize wealth and material gain. Based on the traditional belief that dreams often manifest as the opposite in reality, willingly picking up something unpleasant like feces is read as a powerful sign that substantial financial wealth is coming your way."
+    },
+    {
+      "question_ko": "알밤을 줍는 꿈은 태몽인가요?",
+      "answer_ko": "알밤이나 도토리를 줍는 꿈은 태몽으로 풀이되는 경우가 많습니다. 특히 알밤을 많이 줍는 꿈은 전통적으로 아들 태몽으로 해석됩니다. 태몽이 아니더라도 재물이 생기거나 좋은 소식이 들어올 조짐으로 봅니다.",
+      "question_en": "Is picking up chestnuts in a dream a pregnancy omen?",
+      "answer_en": "Yes, picking up chestnuts or acorns is frequently interpreted as a conception dream (태몽). Collecting many chestnuts is traditionally associated with conceiving a son. Even outside of a pregnancy context, this dream signals incoming wealth or positive news."
+    },
+    {
+      "question_ko": "쓰레기를 줍는 꿈은 어떤 의미인가요?",
+      "answer_ko": "쓰레기나 오물을 줍는 꿈은 흉몽에 가깝습니다. 정신적 피로, 인간관계의 갈등, 혹은 자신이 원치 않는 타인의 부담이나 문제를 떠안게 될 상황을 경고하는 꿈으로 해석됩니다.",
+      "question_en": "What does it mean to pick up garbage in a dream?",
+      "answer_en": "Picking up trash or garbage leans toward an inauspicious interpretation. It warns of mental fatigue, interpersonal conflicts, or the risk of being burdened with problems or responsibilities that rightfully belong to someone else."
+    },
+    {
+      "question_ko": "줍는 꿈에서 감정은 왜 중요한가요?",
+      "answer_ko": "꿈속 감정은 줍는 꿈의 해석에서 매우 중요한 단서입니다. 기쁨과 설렘을 느끼며 무언가를 줍는 꿈은 길몽으로, 불안감·죄책감·두려움을 느끼며 줍는 꿈은 경고성 꿈이나 흉몽으로 해석됩니다. 같은 물건을 줍더라도 꿈속 감정이 다르면 해석이 정반대가 될 수 있습니다.",
+      "question_en": "Why does emotion matter in picking-up dreams?",
+      "answer_en": "The emotional tone of the dream is a crucial interpretive clue. Picking something up with joy and excitement confirms it as an auspicious dream, while feelings of anxiety, guilt, or fear shift the interpretation toward a cautionary or inauspicious meaning. The same object found under different emotional circumstances can yield completely opposite interpretations."
+    }
+  ]
+}

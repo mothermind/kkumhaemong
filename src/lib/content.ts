@@ -39,6 +39,8 @@ export type LocaleContent = {
   sections: ContentSection[];
   variations: ContentVariation[];
   culturalContext: string;
+  /** Bilingual western psychology section (Freud/Jung/modern/cross-cultural). Markdown string. */
+  westernContext?: string;
   faqs: ContentFAQ[];
   conclusion: string;
 };

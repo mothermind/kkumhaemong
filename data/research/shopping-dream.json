@@ -1,0 +1,315 @@
+{
+  "symbol": {
+    "korean": "쇼핑하는 꿈",
+    "english": "Dream of Shopping",
+    "slug": "shopping-dream"
+  },
+  "summary": {
+    "korean": "쇼핑하는 꿈은 새로운 기회와 욕망의 충족, 자아 표현의 의지를 상징하며, 꿈 속 감정과 상황에 따라 행운과 번영 또는 주의가 필요한 신호로 해석됩니다.",
+    "english": "A shopping dream symbolizes new opportunities, the fulfillment of desires, and the will for self-expression; it can signal incoming good fortune and prosperity or serve as a cautionary message depending on the emotions and circumstances within the dream."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "원하는 물건을 마음껏 구입하는 꿈은 앞으로의 행운과 성과가 기대대로 이루어질 것을 예고합니다. 노력이 결실을 맺고 소원이 성취되는 시기가 다가오고 있음을 의미합니다.",
+      "english": "Freely purchasing desired items in a dream foretells that your upcoming fortune and achievements will exceed expectations. It signals that efforts are about to bear fruit and that a period of wish fulfillment is approaching.",
+      "context": "원하는 것을 모두 살 수 있는 꿈 — 소원 성취, 재물운 상승"
+    },
+    {
+      "type": "길몽",
+      "korean": "백화점에서 쇼핑하는 꿈은 숨겨진 재능과 능력이 새로운 프로젝트나 취미를 통해 발현되고, 예상치 못한 성공과 인정을 받게 될 것을 암시합니다.",
+      "english": "Shopping in a department store in a dream suggests that hidden talents and abilities will emerge through new projects or hobbies, leading to unexpected success and recognition.",
+      "context": "백화점 쇼핑 꿈 — 재능 발현, 사회적 성공"
+    },
+    {
+      "type": "길몽",
+      "korean": "화려하고 새로운 옷을 구입하는 꿈은 행동력이 높아져 직업적 성공과 연애 모두에서 좋은 결과를 거두거나 주변 사람들의 이목을 집중시키게 될 것을 예고합니다.",
+      "english": "Buying bright, new clothes in a dream foretells increased initiative and positive outcomes in both professional endeavors and romantic relationships, with others taking notice of your presence.",
+      "context": "화려한 새 옷 구입 꿈 — 행동력 상승, 연애·사업 성공"
+    },
+    {
+      "type": "길몽",
+      "korean": "비싼 옷을 구입하는 꿈은 사회적 지위가 높은 사람들과 인연이 생기고, 본인의 사회적 위치도 상승하게 될 것을 상징합니다.",
+      "english": "Dreaming of buying expensive clothing symbolizes forming connections with people of high social standing and a corresponding rise in your own social position.",
+      "context": "명품·고가 옷 구입 꿈 — 귀인 등장, 사회적 지위 상승"
+    },
+    {
+      "type": "길몽",
+      "korean": "친구들과 함께 쇼핑하는 꿈은 주변과의 관계가 원만하고 만족스러운 사교적 시간이 기다리고 있음을 의미합니다.",
+      "english": "Dreaming of shopping with friends indicates harmonious relationships and satisfying social experiences on the horizon.",
+      "context": "친구와 쇼핑 꿈 — 대인관계 호조, 즐거운 사교"
+    },
+    {
+      "type": "길몽",
+      "korean": "마트나 슈퍼마켓에서 쇼핑하는 꿈은 다양한 기회와 풍요로운 재물운, 행운이 여러 방면에서 찾아올 것을 암시합니다.",
+      "english": "Dreaming of shopping in a supermarket or mart suggests that numerous opportunities, abundant wealth, and good fortune are approaching from multiple directions.",
+      "context": "슈퍼마켓 쇼핑 꿈 — 풍요, 다양한 기회"
+    },
+    {
+      "type": "흉몽",
+      "korean": "시장에서 쇼핑하는 꿈은 주변의 배신이나 험담의 표적이 될 수 있음을 경고합니다. 언행에 각별히 주의해야 할 시기임을 알립니다.",
+      "english": "Shopping at a market in a dream warns of the risk of betrayal from those around you or becoming the target of gossip. It signals a period requiring extra caution in your words and actions.",
+      "context": "시장 쇼핑 꿈 — 배신·험담 경고"
+    },
+    {
+      "type": "흉몽",
+      "korean": "쇼핑 중에 물건을 잃어버리는 꿈은 그동안의 노력과 성과를 잃을 위험이 있음을 경고하며, 재정적 안정성에도 주의가 필요함을 나타냅니다.",
+      "english": "Losing items while shopping in a dream warns of the danger of losing accumulated efforts and achievements, and signals the need for caution regarding financial stability.",
+      "context": "쇼핑 중 분실 꿈 — 재물 손실 경고"
+    },
+    {
+      "type": "흉몽",
+      "korean": "원하는 물건을 아무리 찾아도 찾지 못하거나 빈 가게만 보이는 꿈은 현재 바라는 것이 충족되지 않고 기회가 쉽게 오지 않음을 뜻합니다.",
+      "english": "Searching for desired items without success, or seeing only empty stores in a dream, indicates that current wishes may go unfulfilled and opportunities will not arrive easily.",
+      "context": "빈 가게·원하는 물건 못 찾는 꿈 — 기회 부재, 욕구 미충족"
+    },
+    {
+      "type": "흉몽",
+      "korean": "배우자와 함께 쇼핑하는 꿈은 소중한 물건을 잃거나 재정적 손실을 입을 수 있음을 경고합니다.",
+      "english": "Dreaming of shopping with your spouse warns of potential loss of valued possessions or financial setbacks.",
+      "context": "배우자와 쇼핑 꿈 — 재산 손실 경고"
+    },
+    {
+      "type": "흉몽",
+      "korean": "쇼핑 후 후회하는 꿈은 현재 높은 스트레스와 불안감이 쌓여 있음을 반영하며, 자신의 선택에 대한 불확신을 나타냅니다.",
+      "english": "Dreaming of regretting a purchase reflects high levels of accumulated stress and anxiety, and signals uncertainty about your own choices and decisions.",
+      "context": "구매 후 후회 꿈 — 스트레스, 결정 불안"
+    },
+    {
+      "type": "neutral",
+      "korean": "쇼핑을 하고 싶지만 원하는 물건을 구체적으로 찾지 못하는 꿈은 연애나 대인관계에서 스트레스가 쌓여 있음을 나타냅니다.",
+      "english": "Dreaming of wanting to shop but being unable to find a specific desired item reflects accumulated stress in romantic or interpersonal relationships.",
+      "context": "원하는 물건 찾지 못하는 꿈 — 연애·관계 스트레스"
+    },
+    {
+      "type": "neutral",
+      "korean": "윈도우 쇼핑(구경만 하는 꿈)은 대인관계에서의 오해 가능성을 경고하며, 직접적인 행동 없이 관망하는 자신의 현재 상태를 반영합니다.",
+      "english": "Window shopping without buying anything in a dream warns of potential misunderstandings in interpersonal relationships and reflects a current state of observing without taking direct action.",
+      "context": "윈도우 쇼핑 꿈 — 관계 오해 경고, 관망 심리"
+    },
+    {
+      "type": "neutral",
+      "korean": "부모님과 쇼핑하는 꿈은 아직 독립이 완전하지 않음을 나타내며, 점진적으로 자립심을 키워야 할 필요성을 암시합니다.",
+      "english": "Shopping with parents in a dream indicates incomplete independence and suggests the need to gradually cultivate greater self-reliance.",
+      "context": "부모님과 쇼핑 꿈 — 독립심 과제"
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "백화점에서 쇼핑하는 꿈",
+      "keyword_en": "Shopping at a department store",
+      "interpretation_ko": "숨겨진 재능이 발현되고 예상치 못한 성공을 거두게 됩니다. 싱글이라면 연애운이 상승하고 연인이 있다면 관계가 한 단계 깊어질 수 있습니다.",
+      "interpretation_en": "Hidden talents emerge and unexpected success arrives. Singles see a rise in romantic prospects; those in relationships can expect a deeper connection."
+    },
+    {
+      "keyword_ko": "마트(슈퍼마켓)에서 쇼핑하는 꿈",
+      "keyword_en": "Shopping at a supermarket or mart",
+      "interpretation_ko": "다양한 방면에서 기회와 재물운이 찾아옵니다. 선택지가 많아지는 풍요로운 시기를 예고합니다.",
+      "interpretation_en": "Opportunities and wealth arrive from many directions. It heralds an abundant period with many options to choose from."
+    },
+    {
+      "keyword_ko": "옷 사는 꿈 (새 옷 구입)",
+      "keyword_en": "Buying new clothes",
+      "interpretation_ko": "자아 표현 욕구와 변화의 의지가 높아져 있습니다. 화려한 새 옷이라면 주변의 이목을 끌고 연애와 직업 모두에서 좋은 성과를 거두게 됩니다.",
+      "interpretation_en": "Desire for self-expression and motivation for change are heightened. Buying bright new clothes signals that you will attract attention and achieve success in both romance and work."
+    },
+    {
+      "keyword_ko": "비싼 옷·명품을 사는 꿈",
+      "keyword_en": "Buying expensive or luxury clothing",
+      "interpretation_ko": "사회적으로 지위가 높은 인물과의 인연이 생기거나 자신의 사회적 위치가 상승할 것을 예고합니다.",
+      "interpretation_en": "Foretells forming a connection with a person of high social status or a rise in your own social standing."
+    },
+    {
+      "keyword_ko": "어두운 색 옷을 사는 꿈",
+      "keyword_en": "Buying dark-colored clothes",
+      "interpretation_ko": "대인관계에서 실수를 하거나 부정적인 평가를 받을 수 있음을 경고합니다. 언행에 신중함이 필요한 시기입니다.",
+      "interpretation_en": "Warns of potential interpersonal mistakes or receiving negative feedback. A period requiring careful and considered words and actions."
+    },
+    {
+      "keyword_ko": "바지를 사는 꿈",
+      "keyword_en": "Buying pants or trousers",
+      "interpretation_ko": "현재 진행 중인 일에 추진력이 생기거나 막혀 있던 상황이 해결될 것을 예고합니다.",
+      "interpretation_en": "Foretells gaining momentum in current projects or the resolution of previously stalled situations."
+    },
+    {
+      "keyword_ko": "코트·외투를 사는 꿈",
+      "keyword_en": "Buying a coat or outerwear",
+      "interpretation_ko": "집안의 걱정거리가 해소되고 좋은 소식이 가정에 찾아올 것을 암시합니다.",
+      "interpretation_en": "Suggests that household worries will be resolved and good news will arrive for the family."
+    },
+    {
+      "keyword_ko": "가방을 사는 꿈",
+      "keyword_en": "Buying a bag",
+      "interpretation_ko": "재정 상황이 개선되거나 예상치 못한 수입이 생길 것을 암시합니다.",
+      "interpretation_en": "Suggests an improvement in financial circumstances or the arrival of unexpected income."
+    },
+    {
+      "keyword_ko": "악세서리·반지·보석을 사는 꿈",
+      "keyword_en": "Buying accessories, rings, or jewelry",
+      "interpretation_ko": "연애운과 결혼운이 상승하며, 이미 연인이 있는 경우 관계가 안정되고 결혼으로 이어질 수 있음을 암시합니다.",
+      "interpretation_en": "Romantic and marital luck rises. For those already in a relationship, it suggests stability and the potential for the relationship to progress toward marriage."
+    },
+    {
+      "keyword_ko": "신발을 사는 꿈",
+      "keyword_en": "Buying shoes",
+      "interpretation_ko": "새로운 시작이나 진학·취업 등 중요한 첫걸음이 성공적으로 이루어질 것을 예고합니다.",
+      "interpretation_en": "Foretells that a new beginning or an important first step — such as an entrance exam or new job — will be completed successfully."
+    },
+    {
+      "keyword_ko": "시계를 사는 꿈",
+      "keyword_en": "Buying a watch",
+      "interpretation_ko": "새로운 조력자나 협력자가 나타나 현재의 목표를 이루는 데 큰 도움을 줄 것을 암시합니다.",
+      "interpretation_en": "Suggests that a new supporter or collaborator will appear and provide significant help in achieving current goals."
+    },
+    {
+      "keyword_ko": "책을 사는 꿈",
+      "keyword_en": "Buying books",
+      "interpretation_ko": "직업적 성장이나 학업 성취가 이루어질 것을 예고하며, 지식 추구와 자기 계발에 좋은 시기임을 나타냅니다.",
+      "interpretation_en": "Foretells career advancement or academic achievement, indicating a favorable period for pursuing knowledge and self-improvement."
+    },
+    {
+      "keyword_ko": "꽃을 사는 꿈",
+      "keyword_en": "Buying flowers",
+      "interpretation_ko": "직업적 명예나 승진의 기회가 찾아올 것을 암시하는 길몽입니다.",
+      "interpretation_en": "An auspicious dream suggesting that professional honor or a promotion opportunity is on its way."
+    },
+    {
+      "keyword_ko": "친구와 함께 쇼핑하는 꿈",
+      "keyword_en": "Shopping with friends",
+      "interpretation_ko": "대인관계가 원만하고 즐거운 사교적 시간을 경험하게 될 것을 의미합니다.",
+      "interpretation_en": "Indicates harmonious interpersonal relationships and upcoming enjoyable social experiences."
+    },
+    {
+      "keyword_ko": "배우자와 함께 쇼핑하는 꿈",
+      "keyword_en": "Shopping with a spouse or partner",
+      "interpretation_ko": "소중한 무언가를 잃거나 재정적 손실을 입을 수 있음을 경고하는 흉몽으로, 큰 지출에 주의가 필요합니다.",
+      "interpretation_en": "A cautionary dream warning of potential loss of something valued or financial setbacks; exercise caution with large expenditures."
+    },
+    {
+      "keyword_ko": "해외에서 쇼핑하는 꿈",
+      "keyword_en": "Shopping abroad or in a foreign country",
+      "interpretation_ko": "새로운 환경과 경험에 대한 강한 욕구를 반영하며, 새로운 분야에 도전할 기회가 찾아올 것임을 암시합니다.",
+      "interpretation_en": "Reflects a strong desire for new environments and experiences, and suggests that an opportunity to challenge yourself in a new field will soon arrive."
+    },
+    {
+      "keyword_ko": "과소비·충동구매하는 꿈",
+      "keyword_en": "Overspending or impulse shopping",
+      "interpretation_ko": "현실에서 억압된 욕망이나 스트레스가 표출된 꿈으로, 충동적인 결정을 내리지 않도록 주의해야 할 시기임을 경고합니다.",
+      "interpretation_en": "Reflects suppressed desires or stress in waking life, and warns of a period requiring caution against impulsive decisions."
+    },
+    {
+      "keyword_ko": "윈도우 쇼핑(구경만 하는 꿈)",
+      "keyword_en": "Window shopping without buying",
+      "interpretation_ko": "대인관계에서 오해나 마찰이 생길 수 있음을 경고하며, 관망만 하고 행동에 옮기지 못하는 현재 심리 상태를 반영합니다.",
+      "interpretation_en": "Warns of potential misunderstandings or friction in relationships, and reflects a current psychological state of observing without being able to act."
+    },
+    {
+      "keyword_ko": "원하는 물건을 못 사는 꿈",
+      "keyword_en": "Being unable to afford or find desired items",
+      "interpretation_ko": "현재의 목표가 달성하기에 너무 높게 설정되어 있거나, 연애·대인관계에서 스트레스가 쌓여 있음을 나타냅니다.",
+      "interpretation_en": "Indicates that current goals may be set too high for easy attainment, or reflects accumulated stress in romantic or interpersonal relationships."
+    },
+    {
+      "keyword_ko": "식료품을 사는 꿈",
+      "keyword_en": "Grocery shopping",
+      "interpretation_ko": "가정의 안정과 풍요를 상징하며, 가족과의 관계가 돈독해지고 평화로운 시간이 찾아올 것을 예고합니다.",
+      "interpretation_en": "Symbolizes domestic stability and abundance, foretelling a strengthening of family bonds and a period of peace at home."
+    }
+  ],
+  "culturalContext": {
+    "korean": "한국의 꿈해몽에서 쇼핑하는 꿈은 단순한 물질적 욕망을 넘어, 기회의 포착과 운의 흐름을 읽는 지표로 여겨집니다. 한국 전통 해몽에서 '사다'라는 행위는 인연을 '얻는 것'과 같은 의미로 쓰이기도 했으며, 물건을 구입하는 행위는 새로운 인연, 직업, 혹은 재물의 유입을 상징했습니다. 특히 백화점이나 큰 시장과 같이 풍요로운 공간에서의 쇼핑 꿈은 사회적 성공과 자아실현의 욕망을 반영합니다. 구입하는 물건의 종류에 따라 각각 연애운, 재물운, 직업운을 구체적으로 예측하는 세밀한 해석 체계가 발달해 있으며, 이는 한국인이 꿈을 일상적 운세 판단의 중요한 도구로 삼아왔음을 보여줍니다.",
+    "english": "In Korean dream interpretation, shopping dreams are seen as indicators that go beyond mere material desire — they are viewed as signals for seizing opportunities and reading the flow of fortune. In traditional Korean dream lore, the act of 'buying' carried a similar meaning to 'gaining a connection,' and the act of purchasing an item symbolized the arrival of new relationships, careers, or wealth. Shopping in an abundant space such as a department store or large market reflects desires for social success and self-realization. A detailed interpretive system has evolved in which the specific item purchased predicts distinct aspects of fortune — romantic luck, financial luck, or career luck — demonstrating how Koreans have long used dreams as an important tool for everyday divination."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트의 관점에서 쇼핑하는 꿈은 억압된 욕망과 충족되지 못한 소원이 꿈을 통해 표출된 것으로 해석해요. 물건을 고르고 사는 행위는 통제와 만족에 대한 무의식적 욕구를 반영하며, 충동구매 장면은 쾌락 원칙이 현실 원칙보다 우세해진 심리 상태를 나타낼 수 있어요. 특히 고가의 물건을 구입하는 꿈은 자아 과시와 성적 매력에 대한 잠재적 욕망의 표현으로 볼 수 있어요.",
+      "english": "From a Freudian perspective, shopping dreams represent repressed desires and unfulfilled wishes expressing themselves through the unconscious. The act of selecting and purchasing items reflects an unconscious need for control and gratification, while scenes of impulse buying may indicate a psychological state where the pleasure principle overrides the reality principle. Dreams of buying expensive goods in particular can be seen as expressions of latent desires for self-display and sexual attraction."
+    },
+    "jungian": {
+      "korean": "융의 분석심리학에서 쇼핑하는 꿈은 자기(Self) 실현의 과정으로 해석해요. 백화점이나 시장은 집단 무의식 속의 가능성의 공간, 즉 다양한 자아의 측면들이 진열된 장소를 상징해요. 물건을 선택하는 행위는 개인이 어떤 자아상을 받아들이거나 거부하는지를 나타내며, 페르소나(사회적 가면)와 진정한 자아 사이의 갈등이 쇼핑 상황으로 투영될 수 있어요.",
+      "english": "In Jungian analytical psychology, shopping dreams are interpreted as part of the individuation process — the journey toward realization of the Self. A department store or market symbolizes a space of possibilities within the collective unconscious, a place where various aspects of the psyche are on display. The act of choosing items reflects which aspects of the self the dreamer is accepting or rejecting, and the tension between the persona (social mask) and the authentic self can be projected into the shopping scenario."
+    },
+    "modern": {
+      "korean": "현대 심리학에서는 쇼핑하는 꿈을 낮 동안 경험한 소비 관련 스트레스, 의사결정 피로, 또는 자기 보상 욕구의 반영으로 해석해요. 온라인 쇼핑이 일상화된 현대에서 이 꿈은 정보 과부하와 선택 스트레스를 처리하는 뇌의 방식일 수 있어요. 물건을 사지 못하거나 잃어버리는 꿈은 통제감의 상실이나 현실적 불안과 연결될 수 있어요.",
+      "english": "Modern psychology interprets shopping dreams as reflections of consumption-related stress experienced during the day, decision fatigue, or a desire for self-reward. In the contemporary era where online shopping has become routine, such dreams may represent the brain's way of processing information overload and the stress of endless choices. Dreams of being unable to buy or of losing items may be linked to a sense of lost control or real-world anxiety."
+    },
+    "crossCultural": {
+      "korean": "쇼핑하는 꿈의 의미는 문화권마다 다르게 해석될 수 있어요. 서양에서는 물질주의적 욕망이나 소비 문화에 대한 무의식적 반응으로 볼 때가 많고, 동양 특히 한국에서는 새로운 인연과 기회를 '얻는 것'의 상징으로 보다 긍정적으로 해석하는 경향이 있어요. 많은 문화권에서 시장이나 장터는 사람들이 모이고 운명이 교차하는 공간으로 여겨지며, 이 공간에서의 꿈은 사회적 관계와 운의 흐름을 암시하는 것으로 공통적으로 해석되기도 해요.",
+      "english": "The meaning of shopping dreams can vary across cultures. In Western contexts, they are often viewed as an unconscious response to materialistic desires or consumer culture, while in East Asian cultures — particularly Korea — they tend to be interpreted more positively as symbols of 'gaining' new connections and opportunities. Across many cultures, markets and bazaars are seen as spaces where people gather and fates intersect, and dreams set in these places are commonly interpreted as hints about social relationships and the flow of fortune."
+    }
+  },
+  "relatedSymbols": [
+    "money-dream",
+    "market-dream",
+    "clothes-dream",
+    "bag-dream",
+    "jewelry-dream",
+    "department-store-dream",
+    "losing-things-dream",
+    "travel-dream",
+    "gift-dream"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "쇼핑하는 꿈",
+      "쇼핑 꿈해몽",
+      "물건 사는 꿈",
+      "물건 사는 꿈 해몽",
+      "백화점 꿈해몽",
+      "옷 사는 꿈 해몽",
+      "마트 쇼핑 꿈",
+      "쇼핑 꿈 길몽",
+      "쇼핑 꿈 흉몽",
+      "구입하는 꿈 해몽",
+      "시장 쇼핑 꿈 해몽",
+      "명품 사는 꿈",
+      "충동구매 꿈 해몽",
+      "윈도우쇼핑 꿈 의미"
+    ],
+    "english": [
+      "shopping dream meaning",
+      "dream of buying things",
+      "dream interpretation shopping",
+      "department store dream meaning",
+      "buying clothes in a dream",
+      "Korean dream shopping",
+      "shopping dream good luck",
+      "dream about spending money",
+      "window shopping dream interpretation",
+      "grocery shopping dream meaning"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "쇼핑하는 꿈은 길몽인가요, 흉몽인가요?",
+      "answer_ko": "쇼핑하는 꿈은 꿈 속의 감정과 상황에 따라 길몽이 되기도 하고 흉몽이 되기도 해요. 원하는 물건을 즐겁게 구입하는 꿈은 소원 성취와 행운을 예고하는 길몽인 반면, 쇼핑 중에 물건을 잃어버리거나 원하는 것을 전혀 찾지 못하는 꿈은 주의가 필요한 신호로 해석돼요.",
+      "question_en": "Is a shopping dream considered auspicious or inauspicious?",
+      "answer_en": "A shopping dream can be either auspicious or inauspicious depending on the emotions and circumstances within the dream. Happily purchasing desired items is interpreted as a good omen signaling wish fulfillment and incoming luck, while losing items while shopping or being unable to find what you want is taken as a cautionary signal."
+    },
+    {
+      "question_ko": "백화점에서 쇼핑하는 꿈은 무슨 의미인가요?",
+      "answer_ko": "백화점에서 쇼핑하는 꿈은 숨겨진 재능과 능력이 발현되고 예상치 못한 성공을 거두게 될 것을 암시해요. 또한 연애운이 상승하는 시기를 나타내기도 하며, 싱글이라면 좋은 인연을 만날 가능성이 높아지고 있음을 의미해요.",
+      "answer_en": "Dreaming of shopping in a department store suggests that hidden talents and abilities are about to emerge, leading to unexpected success. It also signals a period of rising romantic luck — singles may find that the chances of meeting a meaningful connection are increasing."
+    },
+    {
+      "question_ko": "옷을 사는 꿈은 어떻게 해석하나요?",
+      "answer_ko": "옷을 사는 꿈은 자아 표현 욕구와 변화의 의지를 반영해요. 화려하고 새로운 옷을 사는 꿈은 연애와 직업 모두에서 좋은 성과를 예고하는 길몽이에요. 반면 어두운 색의 옷을 사는 꿈은 대인관계에서 실수나 오해가 생길 수 있으니 언행에 주의하라는 신호예요.",
+      "answer_en": "Dreams of buying clothes reflect desires for self-expression and a will toward change. Buying bright, new clothes is an auspicious dream foretelling positive outcomes in both romance and career. However, buying dark-colored clothes warns that interpersonal mistakes or misunderstandings may occur, signaling a need for caution in your words and actions."
+    },
+    {
+      "question_ko": "쇼핑 중에 물건을 잃어버리는 꿈은 무슨 뜻인가요?",
+      "answer_ko": "쇼핑 중 물건을 잃어버리는 꿈은 그동안 쌓아온 노력과 성과가 위태로워질 수 있음을 경고하는 흉몽이에요. 재정적 손실이나 중요한 기회를 놓칠 가능성을 나타내므로, 중요한 결정을 서두르지 말고 신중하게 행동하는 것이 좋아요.",
+      "answer_en": "Losing items while shopping is an inauspicious dream that warns of the potential jeopardizing of accumulated efforts and achievements. It indicates a risk of financial loss or missing an important opportunity, so it is advisable to avoid rushing important decisions and to act with care."
+    },
+    {
+      "question_ko": "원하는 물건을 살 돈이 없는 꿈은 어떤 의미인가요?",
+      "answer_ko": "원하는 물건을 살 돈이 부족한 꿈은 현재 목표를 달성하기에 자원이나 준비가 부족함을 나타내거나, 목표 자체가 너무 높게 설정되어 있음을 암시해요. 현실적인 목표 재설정이나 준비를 충분히 한 후에 도전하는 것이 도움이 될 수 있는 시기예요.",
+      "answer_en": "Dreaming of not having enough money to buy desired items suggests that current resources or preparation are insufficient to reach your goals, or that the goals themselves are set too high. This may be a good time to realistically reassess your objectives or ensure sufficient preparation before making your next move."
+    },
+    {
+      "question_ko": "쇼핑하는 꿈을 자주 꾸는 이유는 무엇인가요?",
+      "answer_ko": "쇼핑하는 꿈을 자주 꾼다면 현재 무언가를 간절히 원하거나 변화를 원하는 마음이 강한 상태일 수 있어요. 현대 심리학적으로는 온라인 쇼핑 등 소비와 관련된 일상적 스트레스나 의사결정 피로가 꿈에 반영된 것일 수도 있어요. 또한 자신을 보상해 주고 싶은 욕구가 높아진 시기임을 나타낼 수도 있어요.",
+      "answer_en": "Frequently dreaming about shopping may indicate that you are currently in a state of strong desire for something or a deep wish for change. From a modern psychological perspective, it may reflect everyday stress related to consumption — such as online shopping — or decision fatigue. It can also signal a period when your need for self-reward and gratification is particularly heightened."
+    }
+  ]
+}

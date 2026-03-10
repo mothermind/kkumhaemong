@@ -1,0 +1,242 @@
+{
+  "symbol": {
+    "korean": "싸우는 꿈",
+    "english": "Dream of fighting",
+    "slug": "fighting-dream"
+  },
+  "summary": {
+    "korean": "싸우는 꿈은 한국 전통 해몽에서 현실과 반대로 해석되는 경우가 많으며, 상대방·방식·결과에 따라 문제 해결·재물 증가·관계 회복을 암시하는 길몽이 될 수도 있고, 근심·건강 이상·손재수를 경고하는 흉몽이 될 수도 있는 복합적인 꿈이에요.",
+    "english": "In Korean dream interpretation, fighting dreams are often understood as opposites of their literal meaning — depending on who you fight, how you fight, and who wins, the dream can be auspicious (signaling resolution of troubles, financial gain, or strengthened relationships) or inauspicious (warning of anxiety, health issues, or financial loss)."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "꿈속에서 낯선 사람이 시비를 걸어와 싸움이 벌어지는 꿈은 대표적인 길몽이에요. 그동안 골머리를 썩여왔던 어려운 문제가 순탄하게 해결되고, 뜻밖의 조력자가 나타나 도움을 받게 될 것을 암시해요.",
+      "english": "Dreaming of a stranger picking a fight with you is considered highly auspicious. It signals that a long-standing difficult problem will resolve smoothly and that an unexpected helper will appear to assist you.",
+      "context": "모르는 사람과의 싸움 — 문제 해결·조력자 등장"
+    },
+    {
+      "type": "길몽",
+      "korean": "꿈속에서 상대방과 서로 치고받으며 몸싸움을 하는 꿈은 현실에서 그 상대와 친밀한 관계가 형성되거나, 동업 파트너라면 공동 사업으로 큰 재물이 생길 것을 암시하는 길몽이에요.",
+      "english": "Dreaming of trading blows physically with someone indicates that a close, cooperative relationship with that person will develop in reality. If the opponent is a business partner, it foretells significant financial gain from a shared venture.",
+      "context": "몸싸움·주먹질 — 관계 친밀화·재물 증가"
+    },
+    {
+      "type": "길몽",
+      "korean": "싸움에서 이기는 꿈은 현실에서 어려운 상황에 처해 있더라도 회복력과 인내심으로 이를 극복하고 목표를 달성할 수 있다는 긍정적인 신호예요. 계획한 일이 성공적으로 마무리될 것을 암시해요.",
+      "english": "Winning a fight in a dream is a positive omen indicating resilience and perseverance. It suggests that planned endeavors will succeed and that you will overcome real-life difficulties through determination.",
+      "context": "싸움에서 이기는 꿈 — 성공·목표 달성"
+    },
+    {
+      "type": "길몽",
+      "korean": "부부나 연인과 꿈속에서 크게 싸우는 것은 현실과 반대로 해석하는 대표적인 꿈이에요. 가정이 더욱 화목해지고 두 사람의 사랑이 깊어질 것을 암시하는 길몽이에요.",
+      "english": "Dreaming of a big fight with a spouse or romantic partner is one of the classic 'opposite meaning' dreams in Korean interpretation. It actually foretells deeper affection and greater domestic harmony.",
+      "context": "배우자·연인과 싸우는 꿈 — 가정 화목·애정 심화"
+    },
+    {
+      "type": "길몽",
+      "korean": "형제자매와 심하게 몸싸움을 하는 꿈은 현재 어렵게 꼬여 있는 문제들이 해결되고 가족 관계가 화목해질 것을 암시하는 길몽이에요. 골머리를 썩이던 문제가 해결되어 평화를 되찾을 신호예요.",
+      "english": "Dreaming of an intense physical fight with siblings signals that currently tangled problems will be resolved and family relationships will become harmonious — a classic reversal dream in Korean folk belief.",
+      "context": "형제자매와 싸우는 꿈 — 문제 해결·가족 화합"
+    },
+    {
+      "type": "길몽",
+      "korean": "꿈속에서 싸움을 걸어오는 상대를 무시하고 자신의 길을 가는 꿈은 타인의 간섭을 극복하고 자신의 뜻대로 일을 추진할 수 있는 배포와 주체성이 있음을 나타내는 길몽이에요.",
+      "english": "Dreaming that you ignore someone picking a fight and continue on your own path signals that you will overcome interference and proceed confidently with your own plans — a sign of strong self-determination.",
+      "context": "싸움 거는 자 무시 — 자주성·뜻대로 진행"
+    },
+    {
+      "type": "흉몽",
+      "korean": "꿈속에서 몸싸움 없이 말로만 싸우거나 욕설을 주고받는 꿈은 흉몽이에요. 현실에서 근심·걱정거리가 생기거나 건강이 나빠질 수 있음을 경고해요.",
+      "english": "Dreaming of a purely verbal fight or exchange of insults — without physical confrontation — is inauspicious. It warns of emerging worries, disputes, or deteriorating health in real life.",
+      "context": "말싸움·욕설 — 근심·건강 이상 경고"
+    },
+    {
+      "type": "흉몽",
+      "korean": "꿈속에서 싸움에 지는 꿈은 일반적으로 나쁜 신호예요. 현실에서 나쁜 일이 생기거나, 잘못된 판단으로 인한 재산 손실, 또는 뜻대로 되지 않는 상황이 이어질 수 있음을 암시해요.",
+      "english": "Losing a fight in a dream is generally a bad omen. It may indicate upcoming misfortune, financial loss from poor decisions, or a period where things do not go as planned.",
+      "context": "싸움에서 지는 꿈 — 손재수·불운 경고"
+    },
+    {
+      "type": "흉몽",
+      "korean": "꿈속에서 부모님과 싸우는 꿈은 흉몽으로 분류돼요. 가정에 좋지 않은 일이 생기거나, 예상치 못한 사건·사고가 발생할 수 있음을 암시해요.",
+      "english": "Dreaming of fighting with parents is classified as inauspicious, warning of potential misfortune within the family or unexpected incidents that may cause distress.",
+      "context": "부모님과 싸우는 꿈 — 가정 불화·사건 경고"
+    },
+    {
+      "type": "흉몽",
+      "korean": "꿈속에서 동행하던 상대방이 갑자기 화를 내며 싸움이 벌어지는 꿈은 본인이 제멋대로 행동하고 있음을 경고하며, 예기치 않은 손해가 발생할 수 있음을 암시해요.",
+      "english": "Dreaming that a companion suddenly becomes angry and starts a fight warns that you may be behaving recklessly or selfishly, and that unexpected losses could follow.",
+      "context": "동행자가 화내며 싸움 — 경솔한 행동·손해 경고"
+    },
+    {
+      "type": "neutral",
+      "korean": "꿈속에서 멀리서 다른 사람들이 싸우는 것을 구경하는 꿈은 중립적이에요. 타인 간의 갈등에서 자신을 거리를 두고 바라보는 심리를 반영하거나, 주변 상황에 주의를 기울이라는 신호일 수 있어요.",
+      "english": "Watching others fight from a distance in a dream is a neutral sign. It may reflect your tendency to observe rather than engage in conflict, or serve as a warning to be cautious of situations around you.",
+      "context": "싸움 구경 — 관찰자 심리·주변 경계"
+    },
+    {
+      "type": "neutral",
+      "korean": "꿈속에서 싸우다가 친구로부터 충고를 듣는 꿈은 현실에서 각성하고 고쳐야 할 점이 있거나, 스스로 가책을 받을 만한 행동을 하고 있음을 내면이 경고하는 꿈이에요.",
+      "english": "Dreaming of fighting and then receiving advice from a friend signals that you may need to reflect on and correct your own behavior — the unconscious mind's way of pointing out areas for self-improvement.",
+      "context": "싸우다 충고 받음 — 자기 반성·각성 촉구"
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "모르는 사람과 싸우는 꿈",
+      "keyword_en": "Fighting a stranger in a dream",
+      "interpretation_ko": "낯선 사람과 싸우는 꿈은 대표적인 길몽이에요. 오랫동안 골머리를 썩여왔던 어려운 문제가 순탄하게 해결될 것을 암시하며, 전혀 예상치 못한 곳에서 조력자가 나타나 도움을 줄 수 있어요.",
+      "interpretation_en": "Fighting a stranger is one of the most auspicious fighting dreams. It signals that a stubborn, long-standing problem will resolve smoothly and an unexpected ally will appear to help you."
+    },
+    {
+      "keyword_ko": "아는 사람과 싸우는 꿈",
+      "keyword_en": "Fighting an acquaintance in a dream",
+      "interpretation_ko": "아는 사람과 싸우는 꿈은 현실에서 그 사람과의 관계가 개선될 것을 암시하는 길몽이에요. 좋은 소식이 오거나 서로 간의 갈등이 해소될 신호예요.",
+      "interpretation_en": "Fighting with someone you know is generally auspicious, signaling that your relationship with that person will improve. Good news or resolution of existing tension between you is indicated."
+    },
+    {
+      "keyword_ko": "가족과 싸우는 꿈",
+      "keyword_en": "Fighting with family in a dream",
+      "interpretation_ko": "가족과 싸우는 꿈은 현실과 반대로 해석해요. 형제자매와 심하게 싸울수록 꼬여 있던 문제가 풀리고 가족 간 화목이 회복될 것을 암시해요. 다만 부모님과 싸우는 꿈은 예외적으로 가정에 좋지 않은 일이 생길 수 있어 주의가 필요해요.",
+      "interpretation_en": "Fighting with family is typically interpreted in reverse. Intense fights with siblings signal resolution of tangled problems and restored family harmony. An exception is fighting with parents, which can warn of misfortune within the household."
+    },
+    {
+      "keyword_ko": "친구와 싸우는 꿈",
+      "keyword_en": "Fighting with a friend in a dream",
+      "interpretation_ko": "친구와 싸우는 꿈은 현실에서 두 사람 사이의 갈등이 해소될 것을 암시하며, 솔직하게 감정을 표현하라는 신호이기도 해요. 적극적으로 맞서는 꿈일수록 관계가 좋아질 길조예요. 다만 말싸움만 하는 꿈이라면 우정에 소원함이 생길 수 있어요.",
+      "interpretation_en": "Fighting with a friend often signals that tension between you will resolve. The more actively you engage in the dream fight, the better the real-world outcome for the friendship. Pure verbal arguments without physical engagement can warn of a growing distance."
+    },
+    {
+      "keyword_ko": "싸움에서 이기는 꿈",
+      "keyword_en": "Winning a fight in a dream",
+      "interpretation_ko": "싸움에서 이기는 꿈은 현실에서 목표를 달성하고 어려운 상황을 극복할 수 있다는 긍정적인 신호예요. 계획하거나 추진 중인 일이 성공적으로 마무리될 것을 암시하는 길몽이에요.",
+      "interpretation_en": "Winning a fight in a dream is a strong positive omen, indicating you will overcome real-life difficulties and achieve your goals. Plans currently underway are likely to succeed."
+    },
+    {
+      "keyword_ko": "싸움에서 지는 꿈",
+      "keyword_en": "Losing a fight in a dream",
+      "interpretation_ko": "싸움에서 지는 꿈은 흉몽으로, 현실에서 좋지 않은 일이 생기거나 잘못된 결정으로 인한 재산 손실을 암시해요. 중요한 결정이나 투자를 앞두고 있다면 신중하게 검토하는 것이 좋아요.",
+      "interpretation_en": "Losing a fight is an inauspicious omen, warning of setbacks or financial loss caused by poor decisions. Exercise caution with major decisions or investments if you have this dream."
+    },
+    {
+      "keyword_ko": "여러 명과 싸우는 꿈",
+      "keyword_en": "Fighting multiple people in a dream",
+      "interpretation_ko": "여러 명을 상대로 싸우는 꿈은 현실에서 많은 어려움이나 복잡한 상황에 직면해 있음을 나타내요. 이를 극복하면 강한 성취감과 함께 좋은 결과를 얻을 수 있음을 암시하기도 해요.",
+      "interpretation_en": "Fighting multiple opponents at once reflects facing numerous challenges or complex situations in reality. Successfully holding your own in the dream suggests you have the strength to navigate these difficulties."
+    },
+    {
+      "keyword_ko": "동물과 싸우는 꿈",
+      "keyword_en": "Fighting an animal in a dream",
+      "interpretation_ko": "동물과 싸우는 꿈은 강한 적이나 장애물과 맞서는 것을 상징해요. 곰이나 악어 같은 강력한 동물을 물리치는 꿈이라면 현실에서도 강력한 경쟁자나 어려움을 이겨낼 가능성이 높다는 것을 암시해요. 반면 싸움에서 지면 큰 어려움을 암시해요.",
+      "interpretation_en": "Fighting an animal symbolizes confronting powerful enemies or obstacles. Defeating a formidable animal (such as a bear or crocodile) suggests you will overcome strong opponents in reality. Losing to the animal warns of significant hardship ahead."
+    },
+    {
+      "keyword_ko": "귀신과 싸우는 꿈",
+      "keyword_en": "Fighting a ghost or spirit in a dream",
+      "interpretation_ko": "귀신이나 저승사자와 싸워 이기는 꿈은 큰 위기나 어려움을 극복하고 원하는 것을 달성할 수 있음을 암시하는 강력한 길몽이에요. 내면의 두려움이나 억압된 감정을 극복하는 것을 상징하기도 해요.",
+      "interpretation_en": "Winning a fight against a ghost or supernatural being is a powerful auspicious omen in Korean folk belief, indicating the dreamer will overcome a major crisis and achieve their desired goal. It also symbolizes conquering inner fears."
+    }
+  ],
+  "culturalContext": {
+    "korean": "한국 전통 해몽에서 싸우는 꿈은 '역몽(逆夢)'의 대표적인 사례로 꼽혀요. 즉, 꿈에서 나쁜 일이 일어날수록 현실에서는 오히려 좋은 일이 생긴다는 사고방식이에요. 이는 음양의 조화라는 동양 철학적 세계관에서 비롯된 것으로, 꿈과 현실이 서로 반대 방향으로 작용한다는 믿음에 기반해요. 특히 가족 간의 싸움 꿈은 집안의 화목을 예고하는 길몽으로 해석되는 경우가 많으며, 전통적으로 꿈에서의 몸싸움은 현실에서의 협력·재물·인연의 강화를 의미했어요. 반면 말싸움은 현실의 분쟁이나 구설수를 경고하는 흉몽으로 여겨졌어요. 또한 싸우는 꿈에서 피가 나오는 것은 서양 해석과 달리 한국 전통에서는 재물이 들어오는 길몽으로 받아들여지기도 해요. 이처럼 싸우는 꿈은 단순히 갈등을 예고하는 것이 아니라, 내면의 에너지와 현실 상황에 따라 다양하게 해석되는 풍부한 꿈 상징이에요.",
+    "english": "In Korean traditional dream interpretation (해몽), fighting dreams are a prime example of the 'reverse dream' (역몽) principle — the idea that bad events in a dream often predict positive outcomes in reality. This stems from the East Asian philosophical framework of yin-yang balance, which holds that dreams and waking life operate as mirrors of each other, with opposites canceling out. Notably, physical altercations in dreams are traditionally linked to strengthened alliances, financial gain, and deepened relationships, while purely verbal fights (말싸움) are seen as warnings of real-world disputes or gossip. Seeing blood during a fight dream is also considered auspicious in Korean folk belief — a reversal of the Western interpretation. The emotional intensity and outcome of the dream fight carry significant weight: winning signals real-world success, while losing warns of setbacks. This nuanced, context-dependent reading of fighting dreams reflects the deep interpretive richness of Korean 해몽 culture."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트의 정신분석학적 관점에서 싸우는 꿈은 '이드(id)'의 억압된 공격 충동이 꿈이라는 안전한 공간을 통해 표출되는 것으로 해석해요. 꿈속의 싸움 상대는 종종 자아가 의식적으로 인정하기 꺼리는 권위적 인물이나 내면의 욕망을 투영한 대상일 수 있어요. 프로이트는 꿈을 '소원 성취(wish fulfillment)'의 매개체로 보았기 때문에, 싸우는 꿈은 현실에서 표현하지 못한 분노나 지배 욕구가 꿈을 통해 해소되는 과정으로 이해할 수 있어요.",
+      "english": "From a Freudian psychoanalytic perspective, fighting dreams represent the eruption of repressed aggressive impulses from the id into the relatively safe space of the dream. The opponent in the fight often symbolizes a projected authority figure or a desire the ego consciously refuses to acknowledge. Since Freud viewed dreams as vehicles of wish fulfillment, a fighting dream can be understood as the unconscious releasing pent-up anger or a suppressed drive for dominance that the dreamer cannot express in waking life."
+    },
+    "jungian": {
+      "korean": "융의 분석심리학에서 꿈속의 싸움은 자아(ego)와 그림자(Shadow) 원형 사이의 내적 갈등을 상징해요. 그림자는 자신이 받아들이기 어려운 성격의 어두운 측면을 담고 있으며, 꿈속에서 싸우는 상대방으로 종종 나타나요. 융은 이 갈등을 억누를 것이 아니라 의식화하여 통합하는 '개성화(individuation)' 과정이 필요하다고 보았어요. 따라서 싸우는 꿈은 내면의 분열된 부분과 화해하고 더 완전한 자아로 성장하라는 무의식의 초대로 해석할 수 있어요.",
+      "english": "In Jungian analytical psychology, a fighting dream symbolizes an active conflict between the ego and the Shadow archetype — the part of the psyche containing traits the conscious self finds unacceptable or embarrassing. The opponent in the dream frequently embodies this shadow material. Rather than suppressing the conflict, Jung held that the path to psychological health requires confronting and integrating the shadow through the process of individuation. A fighting dream, therefore, can be read as the unconscious inviting the dreamer to reconcile with a rejected aspect of the self and grow toward greater wholeness."
+    },
+    "modern": {
+      "korean": "현대 신경과학과 수면 연구에 따르면 싸우는 꿈은 주로 REM 수면 중 편도체(amygdala)가 활성화될 때 나타나며, 이는 뇌가 각성 상태에서 겪은 위협이나 갈등 경험을 처리하고 정서를 조절하는 과정의 일부예요. 매튜 워커(Matthew Walker)를 비롯한 수면 연구자들은 REM 수면을 '감정적 야간 치료(overnight therapy)'로 부르며, 갈등적인 꿈이 낮 동안 쌓인 스트레스와 감정적 기억을 재처리하는 데 중요한 역할을 한다고 밝혔어요. 또한 싸우는 꿈의 빈도는 현실 생활의 스트레스 수준, 대인 갈등, 또는 외상 후 스트레스(PTSD)와 유의미한 상관관계를 보여요.",
+      "english": "Modern neuroscience and sleep research show that fighting dreams occur predominantly during REM sleep, when the amygdala — the brain's emotional processing hub — is highly active. Researchers including Matthew Walker describe REM sleep as a form of 'overnight emotional therapy,' during which the brain reprocesses stressful or conflictual experiences and strips them of their emotional charge. Fighting dreams are thus understood as the brain's adaptive mechanism for regulating interpersonal stress, unresolved tension, and emotionally loaded memories. Notably, higher frequency of fighting dreams is significantly associated with elevated daytime stress levels, interpersonal conflict, and conditions such as post-traumatic stress disorder (PTSD)."
+    },
+    "crossCultural": {
+      "korean": "한국 전통 해몽이 싸우는 꿈을 역몽의 원리로 길흉을 판별하는 데 중점을 둔다면, 서양 심리학은 꿈의 예언적 의미보다 꿈꾸는 사람의 내면 심리 상태와 억압된 감정을 읽는 도구로 접근해요. 두 전통 모두 싸우는 꿈을 단순한 우연이 아닌, 개인의 심리와 삶의 상황을 반영하는 의미 있는 신호로 여긴다는 점에서 공통된 전제를 공유해요.",
+      "english": "While Korean traditional dream interpretation focuses on determining auspiciousness through the 'reverse dream' (역몽) principle, Western psychology approaches fighting dreams primarily as a window into the dreamer's inner psychological state and repressed emotions rather than as predictors of external events. Both traditions share the foundational assumption that fighting dreams are not random noise, but meaningful signals that reflect the dreamer's personal psychology and life circumstances."
+    }
+  },
+  "relatedSymbols": [
+    "punching-dream",
+    "being-hit-dream",
+    "arguing-dream",
+    "blood-dream",
+    "enemy-dream",
+    "winning-dream"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "싸우는 꿈",
+      "싸우는 꿈 해몽",
+      "싸움 꿈 해몽",
+      "싸움 꿈 길몽 흉몽",
+      "꿈에서 싸우는 것",
+      "싸우는 꿈 의미",
+      "싸움에서 이기는 꿈 해몽",
+      "싸움에서 지는 꿈 해몽",
+      "모르는 사람과 싸우는 꿈",
+      "가족과 싸우는 꿈 해몽",
+      "친구와 싸우는 꿈 해몽",
+      "연인과 싸우는 꿈 해몽",
+      "동물과 싸우는 꿈 해몽",
+      "싸우는 꿈 좋은 꿈",
+      "몸싸움 꿈 해몽",
+      "말싸움 꿈 해몽"
+    ],
+    "english": [
+      "fighting dream meaning",
+      "dream of fighting interpretation",
+      "fighting dream Korean meaning",
+      "winning a fight dream",
+      "losing a fight dream",
+      "fighting stranger in dream",
+      "fighting family in dream",
+      "fighting friend dream meaning",
+      "fighting animal dream",
+      "Korean dream interpretation fighting",
+      "what does fighting in a dream mean"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "싸우는 꿈이 무조건 나쁜 꿈인가요?",
+      "answer_ko": "아니에요. 싸우는 꿈은 한국 전통 해몽에서 '역몽'의 대표적인 예로, 오히려 길몽인 경우가 많아요. 낯선 사람이나 아는 사람과 몸싸움을 하거나 싸움에서 이기는 꿈은 문제 해결, 재물 증가, 관계 개선을 암시해요. 다만 말싸움만 하거나 싸움에서 지는 꿈은 주의가 필요해요.",
+      "answer_en": "Not at all. In Korean dream interpretation, fighting dreams are a classic example of the 'reverse dream' principle and are often considered auspicious. Physical fights, winning a fight, or fighting a stranger tend to predict positive outcomes like problem resolution and financial gain. However, purely verbal fights or losing a fight are cautionary signs.",
+      "question_en": "Are fighting dreams always bad omens?"
+    },
+    {
+      "question_ko": "싸움에서 이기는 꿈과 지는 꿈의 차이가 뭔가요?",
+      "answer_ko": "싸움에서 이기는 꿈은 현실에서 목표를 달성하고 어려운 상황을 이겨낼 수 있다는 길몽이에요. 반면 싸움에서 지는 꿈은 잘못된 결정이나 재산 손실 같은 불운을 경고하는 흉몽이에요. 중요한 결정 전에 이런 꿈을 꿨다면 신중하게 행동하는 것이 좋아요.",
+      "answer_en": "Winning a fight in a dream is auspicious — it signals you will overcome real-life difficulties and achieve your goals. Losing a fight is inauspicious, warning of potential financial loss or poor decisions. If you dream of losing before making an important decision, it is wise to proceed with extra caution.",
+      "question_en": "What is the difference between winning and losing a fight in a dream?"
+    },
+    {
+      "question_ko": "가족과 싸우는 꿈은 어떤 의미인가요?",
+      "answer_ko": "가족과 싸우는 꿈은 대부분 역몽으로 길몽이에요. 특히 형제자매와 심하게 싸우는 꿈은 현재 꼬여 있던 문제들이 해결되고 가족이 화목해질 것을 암시해요. 단, 부모님과 싸우는 꿈은 가정에 안 좋은 일이 생길 수 있어 주의가 필요해요.",
+      "answer_en": "Fighting with family members is generally interpreted as a reverse dream and is auspicious. An intense fight with siblings signals that complicated problems will resolve and family harmony will be restored. Fighting with parents, however, is an exception and may warn of upcoming family hardship.",
+      "question_en": "What does it mean to fight with family members in a dream?"
+    },
+    {
+      "question_ko": "모르는 사람과 싸우는 꿈은 무슨 뜻인가요?",
+      "answer_ko": "모르는 낯선 사람이 시비를 걸어와 싸우는 꿈은 대표적인 길몽이에요. 오랫동안 해결하지 못했던 어려운 문제가 순탄하게 풀리고, 전혀 예상하지 못한 조력자가 나타나 도움을 줄 것을 암시해요.",
+      "answer_en": "Dreaming of a stranger picking a fight with you is one of the most auspicious fighting dream scenarios. It foretells that a stubborn, long-running problem will finally resolve smoothly, and that an unexpected helper will appear when you need it most.",
+      "question_en": "What does fighting a stranger in a dream mean?"
+    },
+    {
+      "question_ko": "연인이나 배우자와 싸우는 꿈이 나쁜 뜻인가요?",
+      "answer_ko": "아니에요, 오히려 반대예요. 연인이나 배우자와 크게 싸우는 꿈은 현실에서 두 사람의 사랑이 더 깊어지고 가정이 화목해질 것을 암시하는 길몽이에요. 다만 헐뜯으며 욕설을 주고받는 말싸움이라면 두 사람의 건강에 주의하라는 신호일 수 있어요.",
+      "answer_en": "Quite the opposite — fighting with a romantic partner or spouse in a dream is considered auspicious in Korean interpretation. It foretells that your love will deepen and home life will become more harmonious. The exception is if the fight involves insults and verbal abuse, which can be a warning about health for both parties.",
+      "question_en": "Is dreaming of fighting with a romantic partner or spouse a bad sign?"
+    },
+    {
+      "question_ko": "동물과 싸우는 꿈은 어떻게 해석하나요?",
+      "answer_ko": "동물과 싸우는 꿈은 현실에서 강한 장애물이나 경쟁자를 상징해요. 곰이나 악어처럼 강력한 동물을 꿈속에서 물리쳤다면 현실에서도 강력한 적이나 어려움을 이겨낼 가능성이 높아요. 반면 동물에게 지는 꿈은 큰 시련이 올 수 있음을 경고해요.",
+      "answer_en": "Fighting an animal in a dream symbolizes confronting powerful obstacles or rivals in real life. Defeating a formidable animal like a bear or crocodile is auspicious, suggesting you will overcome strong opponents. Losing to the animal, however, warns of significant hardship ahead.",
+      "question_en": "How should I interpret a dream about fighting an animal?"
+    }
+  ]
+}

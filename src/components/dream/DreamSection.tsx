@@ -1,4 +1,5 @@
 import Image from "next/image";
+import { MarkdownBody } from "./MarkdownBody";
 
 const TYPE_STYLES = {
   auspicious: "border-l-4 border-emerald-400 bg-emerald-50",
@@ -22,7 +23,6 @@ export function DreamSection({ heading, body, type, image }: Props) {
       <h2 className="mb-3 text-xl font-semibold">{heading}</h2>
       <div className={`rounded-xl p-5 ${style}`}>
         {image && (
-          /* Section images: 3:2 source, displayed at 3:2 — works naturally on all screens */
           <div className="relative mb-4 w-full overflow-hidden rounded-lg aspect-[3/2]">
             <Image
               src={image}
@@ -33,7 +33,7 @@ export function DreamSection({ heading, body, type, image }: Props) {
             />
           </div>
         )}
-        <p className="leading-relaxed text-gray-800">{body}</p>
+        <MarkdownBody className="text-gray-800">{body}</MarkdownBody>
       </div>
     </section>
   );

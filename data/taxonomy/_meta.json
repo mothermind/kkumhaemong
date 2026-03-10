@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "generatedAt": "2026-03-10T12:00:00.000Z",
-  "totalSymbols": 2000,
+  "totalSymbols": 1962,
   "categories": [
     {
       "id": "animals",
@@ -9,7 +9,41 @@
       "english": "Animals",
       "slug": "animals",
       "symbolCount": 236,
-      "subcategories": ["snake", "pig", "dog", "cat", "tiger", "dragon", "fish", "horse", "cow", "bird", "turtle", "rabbit", "frog", "elephant", "lion", "bear", "deer", "monkey", "wolf", "fox", "whale", "dolphin", "shark", "mouse", "crocodile", "bat", "sea-creatures", "reptile", "sheep", "goat", "mammal", "marine", "other"]
+      "subcategories": [
+        "snake",
+        "pig",
+        "dog",
+        "cat",
+        "tiger",
+        "dragon",
+        "fish",
+        "horse",
+        "cow",
+        "bird",
+        "turtle",
+        "rabbit",
+        "frog",
+        "elephant",
+        "lion",
+        "bear",
+        "deer",
+        "monkey",
+        "wolf",
+        "fox",
+        "whale",
+        "dolphin",
+        "shark",
+        "mouse",
+        "crocodile",
+        "bat",
+        "sea-creatures",
+        "reptile",
+        "sheep",
+        "goat",
+        "mammal",
+        "marine",
+        "other"
+      ]
     },
     {
       "id": "body",
@@ -17,15 +51,65 @@
       "english": "Body",
       "slug": "body",
       "symbolCount": 201,
-      "subcategories": ["teeth", "hair", "blood", "hand", "eye", "foot", "leg", "face", "body-state", "excretion", "ear", "nose", "mouth", "belly", "back", "chest", "head", "skin", "nail", "shoulder", "arm"]
+      "subcategories": [
+        "teeth",
+        "hair",
+        "blood",
+        "hand",
+        "eye",
+        "foot",
+        "leg",
+        "face",
+        "body-state",
+        "excretion",
+        "ear",
+        "nose",
+        "mouth",
+        "belly",
+        "back",
+        "chest",
+        "head",
+        "skin",
+        "nail",
+        "shoulder",
+        "arm"
+      ]
     },
     {
       "id": "actions",
       "korean": "행동/행위",
       "english": "Actions",
       "slug": "actions",
-      "symbolCount": 200,
-      "subcategories": ["flying", "falling", "movement", "chase", "conflict", "water-action", "eating", "performance", "emotion-action", "driving", "crime", "school", "daily", "romance", "birth", "work", "finding", "giving", "ceremony", "communication", "creative", "outdoor", "destruction", "spiritual", "competition", "leisure", "relationship"]
+      "symbolCount": 162,
+      "subcategories": [
+        "flying",
+        "falling",
+        "movement",
+        "chase",
+        "conflict",
+        "water-action",
+        "eating",
+        "performance",
+        "emotion-action",
+        "driving",
+        "crime",
+        "school",
+        "daily",
+        "romance",
+        "birth",
+        "work",
+        "finding",
+        "giving",
+        "ceremony",
+        "communication",
+        "creative",
+        "outdoor",
+        "destruction",
+        "spiritual",
+        "competition",
+        "leisure",
+        "relationship"
+      ]
     },
     {
       "id": "people",
@@ -33,7 +117,30 @@
       "english": "People",
       "slug": "people",
       "symbolCount": 185,
-      "subcategories": ["deceased", "baby", "romance", "famous", "friends", "stranger", "family", "work", "authority", "profession", "spiritual", "groups", "age", "condition", "wedding", "criminal", "fantasy", "general", "group", "mythical", "crime", "special"]
+      "subcategories": [
+        "deceased",
+        "baby",
+        "romance",
+        "famous",
+        "friends",
+        "stranger",
+        "family",
+        "work",
+        "authority",
+        "profession",
+        "spiritual",
+        "groups",
+        "age",
+        "condition",
+        "wedding",
+        "criminal",
+        "fantasy",
+        "general",
+        "group",
+        "mythical",
+        "crime",
+        "special"
+      ]
     },
     {
       "id": "pregnancy",
@@ -41,7 +148,17 @@
       "english": "Pregnancy & Taemong",
       "slug": "pregnancy",
       "symbolCount": 89,
-      "subcategories": ["pregnancy", "taemong", "taemong-animal", "taemong-fruit", "taemong-celestial", "taemong-nature", "taemong-object", "taemong-food", "taemong-gender"]
+      "subcategories": [
+        "pregnancy",
+        "taemong",
+        "taemong-animal",
+        "taemong-fruit",
+        "taemong-celestial",
+        "taemong-nature",
+        "taemong-object",
+        "taemong-food",
+        "taemong-gender"
+      ]
     },
     {
       "id": "objects",
@@ -49,7 +166,26 @@
       "english": "Objects",
       "slug": "objects",
       "symbolCount": 78,
-      "subcategories": ["weapon", "household", "electronic", "tool", "stationery", "accessory", "daily", "media", "furniture", "medical", "instrument", "symbol", "toy", "container", "light", "sound", "containment", "vehicle"]
+      "subcategories": [
+        "weapon",
+        "household",
+        "electronic",
+        "tool",
+        "stationery",
+        "accessory",
+        "daily",
+        "media",
+        "furniture",
+        "medical",
+        "instrument",
+        "symbol",
+        "toy",
+        "container",
+        "light",
+        "sound",
+        "containment",
+        "vehicle"
+      ]
     },
     {
       "id": "food",
@@ -57,7 +193,19 @@
       "english": "Food & Drink",
       "slug": "food",
       "symbolCount": 76,
-      "subcategories": ["general", "grain", "meat", "fruit", "vegetable", "korean", "dessert", "drink", "nut", "staple", "seasoning"]
+      "subcategories": [
+        "general",
+        "grain",
+        "meat",
+        "fruit",
+        "vegetable",
+        "korean",
+        "dessert",
+        "drink",
+        "nut",
+        "staple",
+        "seasoning"
+      ]
     },
     {
       "id": "places",
@@ -65,7 +213,27 @@
       "english": "Places",
       "slug": "places",
       "symbolCount": 75,
-      "subcategories": ["house", "school", "institution", "work", "shop", "building", "infrastructure", "path", "outdoor", "transport", "historic", "historical", "lodging", "death", "entertainment", "abroad", "nature", "leisure", "space"]
+      "subcategories": [
+        "house",
+        "school",
+        "institution",
+        "work",
+        "shop",
+        "building",
+        "infrastructure",
+        "path",
+        "outdoor",
+        "transport",
+        "historic",
+        "historical",
+        "lodging",
+        "death",
+        "entertainment",
+        "abroad",
+        "nature",
+        "leisure",
+        "space"
+      ]
     },
     {
       "id": "money",
@@ -73,7 +241,15 @@
       "english": "Money & Wealth",
       "slug": "money",
       "symbolCount": 74,
-      "subcategories": ["money", "treasure", "gambling", "income", "loss", "jewelry", "trade"]
+      "subcategories": [
+        "money",
+        "treasure",
+        "gambling",
+        "income",
+        "loss",
+        "jewelry",
+        "trade"
+      ]
     },
     {
       "id": "death",
@@ -81,7 +257,15 @@
       "english": "Death & Funeral",
       "slug": "death",
       "symbolCount": 73,
-      "subcategories": ["self-death", "others-death", "funeral", "resurrection", "violence", "afterlife", "spiritual"]
+      "subcategories": [
+        "self-death",
+        "others-death",
+        "funeral",
+        "resurrection",
+        "violence",
+        "afterlife",
+        "spiritual"
+      ]
     },
     {
       "id": "water",
@@ -89,7 +273,21 @@
       "english": "Water",
       "slug": "water",
       "symbolCount": 68,
-      "subcategories": ["water", "flood", "sea", "river", "lake", "waterfall", "rain", "pool", "well", "ice", "spring", "boat", "rescue"]
+      "subcategories": [
+        "water",
+        "flood",
+        "sea",
+        "river",
+        "lake",
+        "waterfall",
+        "rain",
+        "pool",
+        "well",
+        "ice",
+        "spring",
+        "boat",
+        "rescue"
+      ]
     },
     {
       "id": "nature",
@@ -97,7 +295,25 @@
       "english": "Nature",
       "slug": "nature",
       "symbolCount": 63,
-      "subcategories": ["mountain", "disaster", "forest", "field", "cave", "island", "desert", "garden", "beach", "earth", "rock", "sky", "pond", "wetland", "spring", "plant", "water"]
+      "subcategories": [
+        "mountain",
+        "disaster",
+        "forest",
+        "field",
+        "cave",
+        "island",
+        "desert",
+        "garden",
+        "beach",
+        "earth",
+        "rock",
+        "sky",
+        "pond",
+        "wetland",
+        "spring",
+        "plant",
+        "water"
+      ]
     },
     {
       "id": "fire",
@@ -105,7 +321,17 @@
       "english": "Fire",
       "slug": "fire",
       "symbolCount": 52,
-      "subcategories": ["fire", "light", "smoke", "explosion", "injury", "aftermath", "volcano", "lightning", "rescue"]
+      "subcategories": [
+        "fire",
+        "light",
+        "smoke",
+        "explosion",
+        "injury",
+        "aftermath",
+        "volcano",
+        "lightning",
+        "rescue"
+      ]
     },
     {
       "id": "emotions",
@@ -113,7 +339,13 @@
       "english": "Emotions",
       "slug": "emotions",
       "symbolCount": 52,
-      "subcategories": ["negative", "positive", "neutral", "bittersweet", "intense"]
+      "subcategories": [
+        "negative",
+        "positive",
+        "neutral",
+        "bittersweet",
+        "intense"
+      ]
     },
     {
       "id": "disasters",
@@ -121,7 +353,17 @@
       "english": "Disasters & Accidents",
       "slug": "disasters",
       "symbolCount": 52,
-      "subcategories": ["general", "natural", "fire", "accident", "structural", "entrapment", "rescue", "utility", "war"]
+      "subcategories": [
+        "general",
+        "natural",
+        "fire",
+        "accident",
+        "structural",
+        "entrapment",
+        "rescue",
+        "utility",
+        "war"
+      ]
     },
     {
       "id": "celestial",
@@ -129,7 +371,15 @@
       "english": "Celestial & Space",
       "slug": "celestial",
       "symbolCount": 48,
-      "subcategories": ["sun", "moon", "star", "eclipse", "planet", "space", "apocalypse"]
+      "subcategories": [
+        "sun",
+        "moon",
+        "star",
+        "eclipse",
+        "planet",
+        "space",
+        "apocalypse"
+      ]
     },
     {
       "id": "transportation",
@@ -137,7 +387,18 @@
       "english": "Transportation",
       "slug": "transportation",
       "symbolCount": 48,
-      "subcategories": ["car", "public", "rail", "air", "sea", "personal", "emergency", "accident", "land", "vertical"]
+      "subcategories": [
+        "car",
+        "public",
+        "rail",
+        "air",
+        "sea",
+        "personal",
+        "emergency",
+        "accident",
+        "land",
+        "vertical"
+      ]
     },
     {
       "id": "marriage",
@@ -145,7 +406,13 @@
       "english": "Marriage & Love",
       "slug": "marriage",
       "symbolCount": 48,
-      "subcategories": ["wedding", "romance", "breakup", "infidelity", "emotion"]
+      "subcategories": [
+        "wedding",
+        "romance",
+        "breakup",
+        "infidelity",
+        "emotion"
+      ]
     },
     {
       "id": "colors",
@@ -153,7 +420,15 @@
       "english": "Colors",
       "slug": "colors",
       "symbolCount": 41,
-      "subcategories": ["warm", "cool", "neutral", "metallic", "multi", "shade", "bright"]
+      "subcategories": [
+        "warm",
+        "cool",
+        "neutral",
+        "metallic",
+        "multi",
+        "shade",
+        "bright"
+      ]
     },
     {
       "id": "insects",
@@ -161,7 +436,17 @@
       "english": "Insects & Bugs",
       "slug": "insects",
       "symbolCount": 41,
-      "subcategories": ["spider", "bee", "butterfly", "bug", "ant", "worm", "dragonfly", "arachnid", "parasite"]
+      "subcategories": [
+        "spider",
+        "bee",
+        "butterfly",
+        "bug",
+        "ant",
+        "worm",
+        "dragonfly",
+        "arachnid",
+        "parasite"
+      ]
     },
     {
       "id": "clothing",
@@ -169,7 +454,17 @@
       "english": "Clothing",
       "slug": "clothing",
       "symbolCount": 41,
-      "subcategories": ["general", "color", "shoes", "accessory", "special", "undergarment", "formal", "outerwear", "casual"]
+      "subcategories": [
+        "general",
+        "color",
+        "shoes",
+        "accessory",
+        "special",
+        "undergarment",
+        "formal",
+        "outerwear",
+        "casual"
+      ]
     },
     {
       "id": "numbers",
@@ -177,7 +472,13 @@
       "english": "Numbers",
       "slug": "numbers",
       "symbolCount": 41,
-      "subcategories": ["general", "digit", "lottery", "large", "time"]
+      "subcategories": [
+        "general",
+        "digit",
+        "lottery",
+        "large",
+        "time"
+      ]
     },
     {
       "id": "weather",
@@ -185,7 +486,21 @@
       "english": "Weather",
       "slug": "weather",
       "symbolCount": 40,
-      "subcategories": ["rain", "snow", "storm", "rainbow", "sunny", "fog", "wind", "temperature", "moisture", "cold", "season", "special", "hot"]
+      "subcategories": [
+        "rain",
+        "snow",
+        "storm",
+        "rainbow",
+        "sunny",
+        "fog",
+        "wind",
+        "temperature",
+        "moisture",
+        "cold",
+        "season",
+        "special",
+        "hot"
+      ]
     },
     {
       "id": "plants",
@@ -193,7 +508,15 @@
       "english": "Plants & Flowers",
       "slug": "plants",
       "symbolCount": 39,
-      "subcategories": ["flower", "tree", "plant", "fungi", "leaf", "field", "seed"]
+      "subcategories": [
+        "flower",
+        "tree",
+        "plant",
+        "fungi",
+        "leaf",
+        "field",
+        "seed"
+      ]
     },
     {
       "id": "spirits",
@@ -201,7 +524,19 @@
       "english": "Spirits & Supernatural",
       "slug": "spirits",
       "symbolCount": 39,
-      "subcategories": ["ghost", "deity", "angel", "demon", "folk", "sacred-place", "afterlife", "undead", "ritual", "sacred-object", "soul"]
+      "subcategories": [
+        "ghost",
+        "deity",
+        "angel",
+        "demon",
+        "folk",
+        "sacred-place",
+        "afterlife",
+        "undead",
+        "ritual",
+        "sacred-object",
+        "soul"
+      ]
     }
   ]
 }

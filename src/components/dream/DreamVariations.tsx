@@ -1,3 +1,5 @@
+import { MarkdownBody } from "./MarkdownBody";
+
 type Variation = {
   keyword: string;
   heading: string;
@@ -21,7 +23,7 @@ export function DreamVariations({ heading, variations }: Props) {
             <h3 className="mb-2 text-base font-semibold text-indigo-700">
               {v.heading}
             </h3>
-            <p className="leading-relaxed text-gray-700">{v.body}</p>
+            <MarkdownBody className="text-gray-700">{v.body}</MarkdownBody>
           </div>
         ))}
       </div>

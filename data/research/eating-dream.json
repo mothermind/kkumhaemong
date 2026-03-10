@@ -1,0 +1,226 @@
+{
+  "symbol": {
+    "korean": "먹는 꿈",
+    "english": "Dream of eating",
+    "slug": "eating-dream"
+  },
+  "summary": {
+    "korean": "먹는 꿈은 전통적으로 재물과 풍요를 상징하는 길몽으로, 무엇을 어떻게 먹었느냐에 따라 재물운·건강운·대인운이 달라지는 한국 꿈해몽의 핵심 상징 중 하나예요.",
+    "english": "In Korean dream interpretation, eating dreams traditionally symbolize wealth and abundance, with the specific food, taste, and circumstances determining whether the omen points to financial gain, health, or relationship fortune."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "맛있고 배부르게 먹는 꿈은 재물운과 생활 안정의 상승을 예고해요. 따뜻하고 맛있는 밥이나 음식을 배불리 먹었다면 경제적으로 풍족해지고 근심 걱정 없는 안정적인 삶이 이어질 것을 암시해요. 현재의 노력이 결실을 맺으며 원하는 일이 순조롭게 풀린다는 신호예요.",
+      "english": "Dreaming of eating delicious food to satisfaction is a strong wealth omen. Eating warm, tasty rice or food until full suggests coming financial stability and a worry-free life. It signals that current efforts will bear fruit and plans will progress smoothly.",
+      "context": "재물운 상승, 생활 안정, 목표 달성의 길몽. 배부름은 충족과 성취의 상징."
+    },
+    {
+      "type": "길몽",
+      "korean": "잔치 음식이나 뷔페처럼 풍성한 음식을 먹는 꿈은 예상치 못한 횡재수나 사업 번창을 예고하는 강한 길몽이에요. 고급 음식이나 다채로운 반찬을 즐기는 꿈은 명예운 상승이나 사회적 지위 향상으로 이어질 수 있어요.",
+      "english": "Eating at a feast or buffet in a dream is a powerful lucky omen, signaling unexpected windfalls or flourishing business. Eating high-quality, varied dishes suggests rising social status and honor.",
+      "context": "잔치·뷔페 음식은 대박 재물운과 사업 번창의 강력한 길몽."
+    },
+    {
+      "type": "길몽",
+      "korean": "여럿이 함께 음식을 나누어 먹는 꿈은 대인관계가 좋아지고 협력이 성공으로 이어질 것을 알려줘요. 식당에서 음식이 맛있고 분위기가 좋았다면 진행 중인 일이 순탄하게 풀릴 가능성이 높아요. 가족과 함께하는 화목한 식사 꿈은 가정의 안정과 경제적 풍요를 상징해요.",
+      "english": "Sharing a meal with others foretells improved relationships and successful cooperation. A pleasant restaurant dream with good food suggests ongoing matters will go smoothly. Eating peacefully with family symbolizes household stability and financial prosperity.",
+      "context": "함께 식사 = 대인운 상승, 협력 성공, 가정 안정의 길몽."
+    },
+    {
+      "type": "길몽",
+      "korean": "싱싱한 과일이나 채소를 먹는 꿈은 건강운 상승과 활력 회복을 암시해요. 과일의 빛깔이 고울수록 행운의 크기도 커진다고 전해져요. 노력의 결실을 맺거나 기대하지 않던 좋은 소식이 찾아올 징조예요.",
+      "english": "Eating fresh fruit or vegetables in a dream signals improving health and renewed vitality. The brighter and more beautiful the fruit, the greater the incoming fortune. It foretells reaping the rewards of past efforts or receiving unexpected good news.",
+      "context": "신선한 과일·채소 = 건강운 상승, 노력의 결실, 좋은 소식."
+    },
+    {
+      "type": "흉몽",
+      "korean": "상하거나 썩은 음식을 먹는 꿈은 건강 악화나 질병 발생을 경고하는 흉몽이에요. 믿었던 일이 실망으로 돌아오거나 소소한 손실이 생길 수 있어요. 음식의 상태가 나쁠수록 건강과 사업 모두 주의가 필요해요.",
+      "english": "Eating spoiled or rotten food in a dream is an inauspicious omen warning of health deterioration or illness. It may also indicate disappointment in something trusted or minor financial losses. The worse the food's condition, the greater the caution needed.",
+      "context": "썩은 음식 = 건강 위험, 실망, 손실 경고의 흉몽."
+    },
+    {
+      "type": "흉몽",
+      "korean": "먹다가 토하는 꿈은 감당하기 어려운 일을 맡아 큰 손실을 볼 수 있다는 경고예요. 밥을 먹다가 도로 토하는 꿈은 재물이나 기회를 얻었다가 잃게 될 수 있음을 암시해요. 다만 토한 후 기분이 상쾌했다면 스트레스 해소와 건강 회복의 징조로 보기도 해요.",
+      "english": "Vomiting after eating in a dream warns of taking on more than you can handle, risking serious losses. It suggests that wealth or opportunity gained may soon be lost. However, if you felt relieved after vomiting, it can indicate stress release and health recovery.",
+      "context": "먹다 토하는 꿈 = 과부하 경고, 재물 손실 위험. 단 개운감이 있으면 해소의 길몽."
+    },
+    {
+      "type": "흉몽",
+      "korean": "혼자 쓸쓸하게 식사하는 꿈은 고독과 소외감을 상징하며, 인간관계에 문제가 생길 수 있다는 경고예요. 음식이 맛없게 느껴졌다면 현실에서 외로움이나 고립감을 느끼고 있음을 반영해요. 대인관계를 돌아보고 주변 사람들과 소통을 늘리라는 신호로 해석해요.",
+      "english": "Eating alone sadly or in a gloomy atmosphere symbolizes loneliness and isolation, and may warn of coming relationship troubles. If the food tasted bad, it reflects feelings of loneliness or disconnection in waking life. This dream encourages reaching out to others.",
+      "context": "혼자 쓸쓸히 먹는 꿈 = 고독, 대인관계 위험 경고."
+    },
+    {
+      "type": "neutral",
+      "korean": "과식하는 꿈은 현실에서 여러 일을 동시에 이루고 싶은 욕망이 커지고 있음을 반영해요. 행동 에너지가 넘치는 상태이므로 적극적으로 나서면 좋은 결과를 기대할 수 있어요. 다만 지나치면 욕심이나 자기 조절 부재를 경고하기도 해요.",
+      "english": "Overeating in a dream reflects a strong drive to accomplish many things at once. With abundant action-oriented energy, proactive effort can yield good results. However, extreme overindulgence may also warn of greed or lack of self-control.",
+      "context": "과식 = 넘치는 욕망과 행동력. 상황에 따라 길몽 또는 자기 경계 신호."
+    },
+    {
+      "type": "neutral",
+      "korean": "먹어도 배가 차지 않는 꿈은 아무리 노력해도 결과가 신통치 않을 수 있음을 암시해요. 채워지지 않는 갈망이나 미해결 욕구를 상징하는 경우가 많아요. 반면 꿈속에서 잘 먹고 배가 든든했다면 사업이나 투자에서 좋은 수익이 날 것을 암시해요.",
+      "english": "Dreaming of eating but never feeling full suggests that efforts may not yield satisfying results. It often symbolizes unmet desires or lingering needs. Conversely, feeling satisfyingly full after eating is a positive omen for business or investment returns.",
+      "context": "배 안 부른 꿈 = 미충족 욕구, 노력 대비 결과 부진 경고."
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "맛있게 먹는 꿈",
+      "keyword_en": "dreaming of eating delicious food",
+      "interpretation_ko": "맛있고 흡족하게 먹는 꿈은 재물운 상승과 생활 안정을 예고하는 길몽이에요. 현재 삶이 순조롭고 자신감이 넘치는 상태임을 반영하며, 실질적인 재물 이득으로 이어질 가능성이 높아요.",
+      "interpretation_en": "Eating with great satisfaction is an auspicious dream indicating rising wealth and life stability. It reflects a confident, flourishing state in waking life and often precedes tangible financial gains."
+    },
+    {
+      "keyword_ko": "많이 먹는 꿈 (과식하는 꿈)",
+      "keyword_en": "dreaming of eating a lot / overeating",
+      "interpretation_ko": "꿈속에서 과식하는 것은 다양한 일을 동시에 이루고 싶은 강한 욕망과 넘치는 행동 에너지를 나타내요. 적극적으로 행동하면 좋은 결과를 낼 수 있어요. 다만 통제력 부족을 경고하는 경우도 있으니 균형이 중요해요.",
+      "interpretation_en": "Overeating in a dream signals powerful ambition and abundant drive. Taking proactive action can lead to good results. However, extreme excess may also point to a need for greater self-control and balance."
+    },
+    {
+      "keyword_ko": "혼자 먹는 꿈",
+      "keyword_en": "dreaming of eating alone",
+      "interpretation_ko": "혼자 식사하는 꿈은 고독·소외감·독립심을 상징해요. 맛있게 먹었다면 자립심이 강하고 혼자서도 잘 해나가는 사람임을 나타내고, 맛없이 먹었다면 현실의 외로움이나 인간관계 문제를 경고해요.",
+      "interpretation_en": "Eating alone in a dream symbolizes independence, solitude, or isolation. If the food was delicious, it reflects strong self-reliance. If tasteless or uncomfortable, it warns of loneliness or relationship difficulties in waking life."
+    },
+    {
+      "keyword_ko": "함께 먹는 꿈 (여럿이 식사하는 꿈)",
+      "keyword_en": "dreaming of eating with others",
+      "interpretation_ko": "여럿이 함께 음식을 나누어 먹는 꿈은 대인관계 개선과 협력을 통한 성공을 예고해요. 식당에서 이성과 함께하는 식사 꿈은 로맨틱한 인연이나 혼담의 암시가 될 수 있어요.",
+      "interpretation_en": "Sharing a meal with multiple people foretells improved relationships and success through cooperation. Dining with a romantic interest or unfamiliar person of the opposite sex may hint at budding romance or even marriage prospects."
+    },
+    {
+      "keyword_ko": "이상한 것을 먹는 꿈",
+      "keyword_en": "dreaming of eating strange or unusual things",
+      "interpretation_ko": "꿈속에서 먹어서는 안 될 것이나 이상한 것을 먹는 꿈은 금기를 어기려는 심리적 충동이나 억눌린 욕구를 반영해요. 흙이나 벌레처럼 불결한 것을 먹는 꿈은 건강에 이상이 생길 수 있음을 경고하는 경우도 있어요. 똥을 먹는 꿈만은 예외적으로 뜻밖의 재물을 암시하는 길몽으로 전해져요.",
+      "interpretation_en": "Eating strange or forbidden things in a dream reflects suppressed desires or a psychological urge to break rules. Eating unclean things like dirt or insects can warn of health concerns. Notably, dreaming of eating feces is a well-known exception — an auspicious omen for unexpected wealth in Korean folk tradition."
+    },
+    {
+      "keyword_ko": "먹다가 토하는 꿈",
+      "keyword_en": "dreaming of vomiting after eating",
+      "interpretation_ko": "음식을 먹다가 토하는 꿈은 감당하기 어려운 일을 맡다가 큰 손실을 볼 수 있다는 경고예요. 재물이나 기회를 잡았다가 다시 잃게 될 수 있음을 암시해요. 단, 토한 후 기분이 홀가분하고 개운했다면 스트레스가 해소되고 건강이 좋아질 징조로 보기도 해요.",
+      "interpretation_en": "Vomiting after eating warns of overextending yourself and risking significant loss. It suggests that something gained — wealth or opportunity — may be lost again. However, feeling refreshed after vomiting is a positive sign of stress relief and health recovery."
+    },
+    {
+      "keyword_ko": "먹어도 배가 안 부른 꿈",
+      "keyword_en": "dreaming of eating but never feeling full",
+      "interpretation_ko": "아무리 먹어도 배가 부르지 않는 꿈은 아무리 노력해도 결과가 잘 나오지 않을 수 있음을 암시해요. 충족되지 않는 욕구나 공허함을 상징하기도 해요. 꿈속에서 결국 배가 든든해졌다면 고생 끝에 좋은 결실을 얻을 수 있다는 희망의 메시지예요.",
+      "interpretation_en": "Never feeling full despite eating much signals that efforts may not produce proportional results. It symbolizes unmet needs or emotional emptiness. If you eventually do feel full by the dream's end, it offers a hopeful message that perseverance will ultimately be rewarded."
+    },
+    {
+      "keyword_ko": "잔치 음식 먹는 꿈",
+      "keyword_en": "dreaming of eating at a feast or banquet",
+      "interpretation_ko": "잔치나 뷔페에서 풍성한 음식을 먹는 꿈은 예상치 못한 횡재수나 사업 번창을 암시하는 강한 길몽이에요. 명예운 상승, 귀인의 도움, 또는 인생을 바꿀 기회가 찾아올 수 있어요.",
+      "interpretation_en": "Eating abundantly at a feast or buffet is a powerful lucky omen suggesting unexpected windfalls or booming business. It may also indicate rising social status, support from influential people, or a life-changing opportunity."
+    },
+    {
+      "keyword_ko": "썩은 음식 먹는 꿈",
+      "keyword_en": "dreaming of eating spoiled or rotten food",
+      "interpretation_ko": "상하거나 썩은 음식을 먹는 꿈은 건강 악화나 질병의 발생을 경고하는 대표적인 흉몽이에요. 믿었던 사람이나 일에서 실망을 겪거나 소소한 재물 손실이 따를 수 있어요. 건강 검진을 받거나 주변 인간관계를 점검해볼 필요가 있어요.",
+      "interpretation_en": "Eating spoiled or rotten food is one of the clearest inauspicious eating dreams, warning of health deterioration or illness. It may also point to disappointment from trusted people or minor financial setbacks. A health check-up or relationship review is advisable."
+    },
+    {
+      "keyword_ko": "밥을 맛있게 먹는 꿈",
+      "keyword_en": "dreaming of eating rice with satisfaction",
+      "interpretation_ko": "따뜻한 쌀밥을 맛있고 배부르게 먹는 꿈은 경제적 안정과 마음의 평화를 예고하는 길몽이에요. 밥은 한국인에게 생명력과 생활의 근원을 상징하므로, 밥을 잘 먹는 꿈은 삶의 기반이 튼튼해진다는 의미를 담고 있어요.",
+      "interpretation_en": "Eating warm, satisfying rice in a dream is an auspicious omen of economic stability and peace of mind. In Korean culture, rice symbolizes the foundation of life and vitality, so eating rice well in a dream signals a strong, stable foundation for daily life."
+    }
+  ],
+  "culturalContext": {
+    "korean": "한국 전통에서 음식은 단순한 영양 섭취를 넘어 복(福), 재물, 풍요, 그리고 공동체의 결속을 상징해요. 예로부터 '밥이 보약'이라는 말이 있을 만큼 밥 한 그릇에는 건강과 삶의 기반이 담겨 있다고 여겼어요. 민간 꿈해몽에서 먹는 꿈은 일반적으로 재물과 풍요의 길몽으로 받아들여졌으며, 음식을 풍성하게 먹을수록 더 큰 재물이 들어온다고 해석됐어요. 특히 잔치 음식을 나누어 먹는 꿈은 공동체적 행복과 경사를 상징하고, 가족과 함께하는 식사 꿈은 가정의 화목과 번영을 예고하는 것으로 여겨졌어요. 반면 혼자 쓸쓸히 먹거나 맛없는 음식을 억지로 먹는 꿈은 어려움이나 외로움의 암시로 풀이되었어요. 음식의 종류도 중요한데, 고기는 풍요와 건강, 쌀밥은 생명력과 안정, 과일은 노력의 결실을 상징했어요. 한국의 태몽 문화에서도 신선한 과일이나 음식을 받거나 먹는 꿈은 귀한 자녀를 얻을 길조로 여겨졌어요.",
+    "english": "In Korean tradition, food carries meaning far beyond nutrition — it symbolizes fortune (복, bok), wealth, abundance, and communal bonds. The saying 'rice is the best medicine' (밥이 보약) reflects how deeply a bowl of rice is associated with health and the foundations of life. In folk dream interpretation, eating dreams have long been considered auspicious omens for wealth and prosperity: the more abundantly one eats in a dream, the greater the fortune expected. Sharing festive food (잔치 음식) symbolizes communal joy and celebration, while eating peacefully with family foretells household harmony and prosperity. Eating alone unhappily or forcing down tasteless food, however, was interpreted as a warning of hardship or isolation. The type of food also matters: meat symbolizes abundance and health, rice represents vitality and stability, and fruit represents the fruits of one's labor. In Korean taemong (pregnancy dream) culture, receiving or eating fresh fruit and food is considered a propitious sign for conceiving a precious child."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트의 관점에서 먹는 꿈은 구강기(oral stage)의 욕구와 깊이 연결되어 있어요. 음식은 사랑, 안전, 모성적 돌봄의 대리물로 해석될 수 있으며, 과식하는 꿈은 채워지지 않는 감정적 공백이나 억압된 욕구가 표출되는 것으로 볼 수 있어요. 먹고 싶지만 먹지 못하는 꿈은 좌절된 욕망이나 무의식적 결핍감을 반영해요.",
+      "english": "From a Freudian perspective, eating dreams are linked to oral-stage desires — food serves as a proxy for love, security, and maternal nurturing. Overeating in a dream may express unfulfilled emotional needs or suppressed drives surfacing through the unconscious. Dreams of wanting to eat but being unable reflect frustrated desires and unconscious feelings of deprivation."
+    },
+    "jungian": {
+      "korean": "융의 분석심리학에서 음식을 먹는 행위는 외부 세계의 경험을 내면으로 통합하는 과정, 즉 동화(assimilation)를 상징해요. 먹는 꿈은 새로운 지식, 감정, 또는 삶의 경험을 자기 자신의 일부로 받아들이는 심리적 과정을 나타낼 수 있어요. 잔치에서 여럿이 함께 먹는 꿈은 집단 무의식 속의 공동체 원형과 연결되며 사회적 통합을 상징해요.",
+      "english": "In Jungian psychology, the act of eating in a dream symbolizes assimilation — the process of integrating external experiences into the self. Eating dreams can represent psychologically absorbing new knowledge, emotions, or life experiences. Eating communally at a feast connects to the collective unconscious archetype of community and social integration."
+    },
+    "modern": {
+      "korean": "현대 심리학에서는 먹는 꿈을 현실의 스트레스, 감정적 배고픔, 또는 통제에 대한 욕구와 연결지어요. 배가 고플 때 먹는 꿈을 꾸는 경우도 있지만, 반복적으로 나타나는 음식 꿈은 감정적 허기나 삶의 불만족을 반영할 수 있어요. 식이 장애나 신체 이미지와 관련한 불안이 있을 때도 먹는 꿈이 자주 나타날 수 있어요.",
+      "english": "Modern psychology links eating dreams to real-life stress, emotional hunger, or a desire for control. While physical hunger can trigger food dreams, recurring eating dreams may reflect emotional dissatisfaction or unmet needs in waking life. Anxiety around body image or eating behaviors can also surface through food-related dreams."
+    },
+    "crossCultural": {
+      "korean": "동서양 모두에서 먹는 꿈은 기본적인 생존 본능과 욕망을 반영해요. 성경에서 잔치는 신의 은혜와 풍요를 상징하고, 인도 전통에서 음식 꿈은 카르마의 충족을 나타내기도 해요. 중국 전통에서도 먹는 꿈은 대체로 재물운의 길몽으로 해석되어 한국의 해몽 전통과 맥락을 같이 해요. 이처럼 먹는 꿈은 문화권에 관계없이 충족·풍요·소망의 상징으로 공통적으로 해석돼요.",
+      "english": "Across cultures, eating dreams reflect fundamental survival instincts and desires. In the Bible, feasts symbolize divine grace and abundance; in Indian tradition, food dreams can indicate karmic fulfillment. Chinese tradition similarly interprets eating dreams as auspicious omens for wealth, aligning closely with Korean folk interpretation. Universally, eating dreams tend to symbolize fulfillment, abundance, and the satisfaction of deep wishes."
+    }
+  },
+  "relatedSymbols": [
+    "cooking-dream",
+    "rice-dream",
+    "meat-dream",
+    "fruit-dream",
+    "feast-dream",
+    "vomiting-dream"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "먹는 꿈",
+      "먹는 꿈 해몽",
+      "음식 먹는 꿈 해몽",
+      "밥 먹는 꿈 해몽",
+      "맛있게 먹는 꿈",
+      "많이 먹는 꿈 해몽",
+      "혼자 먹는 꿈",
+      "함께 먹는 꿈",
+      "먹다 토하는 꿈",
+      "배 안 부른 꿈 해몽",
+      "잔치 음식 먹는 꿈",
+      "썩은 음식 먹는 꿈",
+      "이상한 것 먹는 꿈",
+      "과식하는 꿈 해몽"
+    ],
+    "english": [
+      "eating dream meaning",
+      "dream of eating food interpretation",
+      "eating alone in dream",
+      "eating delicious food dream",
+      "overeating dream meaning",
+      "vomiting after eating dream",
+      "never full in dream meaning",
+      "feast dream interpretation",
+      "Korean dream eating symbolism"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "먹는 꿈은 길몽인가요 흉몽인가요?",
+      "answer_ko": "먹는 꿈은 대체로 길몽으로 여겨져요. 맛있고 배부르게 먹는 꿈은 재물운 상승과 생활 안정을 예고해요. 다만 썩은 음식을 먹거나, 먹다가 토하거나, 혼자 쓸쓸히 맛없게 먹는 꿈은 흉몽으로 해석될 수 있어요. 음식의 맛·상태·함께하는 사람이 해몽의 핵심이에요.",
+      "question_en": "Is dreaming of eating a lucky or unlucky dream?",
+      "answer_en": "Eating dreams are generally considered auspicious in Korean folk tradition. Eating delicious food to satisfaction signals rising wealth and life stability. However, eating spoiled food, vomiting after eating, or eating alone in a gloomy atmosphere are interpreted as inauspicious. The key factors are the food's taste and condition, and who you are eating with."
+    },
+    {
+      "question_ko": "맛있게 먹는 꿈은 무슨 의미인가요?",
+      "answer_ko": "꿈에서 맛있게 먹는 것은 재물운 상승과 현실의 만족감을 상징하는 강한 길몽이에요. 따뜻하고 맛있는 밥을 배부르게 먹는 꿈은 경제적 풍요와 근심 걱정 없는 안정적인 생활이 이어질 것을 암시해요.",
+      "question_en": "What does it mean to dream of eating delicious food?",
+      "answer_en": "Eating delicious food in a dream is a strong lucky omen symbolizing rising wealth and real-life satisfaction. Specifically, eating warm and tasty rice until full suggests economic abundance and a stable, worry-free life is ahead."
+    },
+    {
+      "question_ko": "혼자 밥 먹는 꿈은 어떤 의미인가요?",
+      "answer_ko": "혼자 식사하는 꿈은 독립심을 반영하기도 하지만, 상황에 따라 다르게 해석돼요. 맛있게 혼자 먹었다면 자립심이 강한 것이고, 쓸쓸하거나 맛없게 먹었다면 현실에서 외로움이나 인간관계 문제가 생길 수 있음을 경고해요.",
+      "question_en": "What does it mean to dream of eating alone?",
+      "answer_en": "Eating alone in a dream reflects independence, but its meaning depends on context. If the meal was enjoyable, it signals strong self-reliance. If the atmosphere was gloomy or the food tasteless, it warns of loneliness or potential relationship difficulties in waking life."
+    },
+    {
+      "question_ko": "먹다가 토하는 꿈을 꿨는데 흉몽인가요?",
+      "answer_ko": "먹다가 토하는 꿈은 대부분 감당하기 어려운 일을 맡거나 재물을 얻었다가 잃을 수 있다는 경고 꿈이에요. 하지만 토한 후에 기분이 개운하고 홀가분했다면 오히려 스트레스 해소와 건강 회복의 길조로 해석할 수 있어요.",
+      "question_en": "I dreamed of vomiting after eating — is that a bad omen?",
+      "answer_en": "Vomiting after eating is generally a cautionary dream, warning you may be taking on more than you can handle or that gained wealth or opportunity could slip away. However, if you felt relieved and refreshed afterward in the dream, it can be reinterpreted as a positive sign of stress release and health recovery."
+    },
+    {
+      "question_ko": "잔치 음식을 먹는 꿈은 어떤 의미인가요?",
+      "answer_ko": "잔치나 뷔페처럼 풍성한 음식을 먹는 꿈은 예상치 못한 횡재나 사업 번창을 예고하는 강한 길몽이에요. 명예운 상승이나 귀인의 도움, 또는 인생을 바꿀 기회가 찾아올 수 있다는 긍정적인 신호예요.",
+      "question_en": "What does it mean to dream of eating at a feast or banquet?",
+      "answer_en": "Eating abundantly at a feast or buffet is one of the strongest lucky eating dreams in Korean tradition. It signals unexpected windfalls, flourishing business, or a major life-changing opportunity. Rising social honor and support from influential people are also common interpretations."
+    },
+    {
+      "question_ko": "먹어도 배가 차지 않는 꿈은 무슨 뜻인가요?",
+      "answer_ko": "아무리 먹어도 배가 부르지 않는 꿈은 노력 대비 결과가 잘 나오지 않거나, 충족되지 않는 욕구와 공허함을 상징해요. 만약 꿈 마지막에 배가 든든해졌다면, 고생 끝에 좋은 결실을 맺을 수 있다는 희망의 메시지로 해석해요.",
+      "question_en": "What does it mean when I eat and eat in my dream but never feel full?",
+      "answer_en": "Eating without ever feeling satisfied in a dream symbolizes unmet desires, emotional emptiness, or efforts that may not produce proportional rewards. If you eventually felt full by the end of the dream, it carries a hopeful message that persistence will ultimately bring the fulfillment you seek."
+    }
+  ]
+}

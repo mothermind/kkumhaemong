@@ -1,0 +1,254 @@
+{
+  "symbol": {
+    "korean": "땅을 파는 꿈",
+    "english": "Dream of Digging",
+    "slug": "digging-dream"
+  },
+  "summary": {
+    "korean": "땅을 파는 꿈은 대체로 자신의 능력 개발, 숨겨진 재물·기회의 발견, 새로운 터전 마련을 상징하는 길몽이지만, 파는 도구나 상황에 따라 손실이나 갈등을 예고하기도 합니다.",
+    "english": "Dreaming of digging is generally an auspicious omen symbolizing self-development, the discovery of hidden wealth or opportunity, and laying new foundations, though the specific tool, location, and outcome can shift the meaning toward loss or conflict."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "땅을 파서 물건이나 보물이 나오는 꿈은 예상치 못한 재물과 이득이 생길 것을 알립니다. 노력이 결실을 맺고 뜻밖의 기회가 찾아오는 시기임을 예고합니다.",
+      "english": "Digging and unearthing objects or treasure signals unexpected financial gain and windfall. It heralds a period when effort bears fruit and unforeseen opportunities arrive.",
+      "context": "땅에서 물건이 나오는 상황"
+    },
+    {
+      "type": "길몽",
+      "korean": "땅을 열심히 파는 꿈은 자신의 능력을 개발하고 인정받게 됨을 뜻합니다. 시험 합격, 승진, 사회적 좋은 평가로 이어질 가능성이 높습니다.",
+      "english": "Digging diligently in a dream signifies developing and gaining recognition for one's abilities, with strong prospects for passing exams, earning promotions, or receiving positive social evaluation.",
+      "context": "일반적인 땅 파기 꿈"
+    },
+    {
+      "type": "길몽",
+      "korean": "자신을 묻기 위해 땅을 파는 꿈은 집을 새로 장만하거나 새 직장을 얻게 될 징조이며, 실제로 자신을 묻었다면 재산이 크게 늘어날 전조입니다.",
+      "english": "Digging a hole to bury yourself foretells acquiring a new home or finding a new job. If you succeeded in burying yourself in the dream, it is an even stronger omen of significant wealth accumulation.",
+      "context": "자신을 묻기 위해 땅을 파는 꿈"
+    },
+    {
+      "type": "길몽",
+      "korean": "포크레인이나 중장비로 땅을 파는 꿈은 큰 프로젝트의 초석을 다지는 것을 상징합니다. 목표를 이루기 위해 새로운 일을 배우고 경험하며 단단한 기반을 쌓아갈 것을 예고합니다.",
+      "english": "Digging with an excavator or heavy machinery symbolizes laying the foundation for a major project. It predicts a period of learning new skills and building a solid base to achieve one's goals.",
+      "context": "중장비로 땅을 파는 꿈"
+    },
+    {
+      "type": "길몽",
+      "korean": "땅을 파다가 맑은 샘물이 솟아오르는 꿈은 사업의 성공이나 안정적인 재물 흐름을 예고하는 매우 좋은 꿈입니다.",
+      "english": "Digging and striking clear spring water is an excellent omen predicting business success and a stable, abundant flow of prosperity.",
+      "context": "물이 나오는 꿈"
+    },
+    {
+      "type": "길몽",
+      "korean": "무덤을 파헤치거나 파고 관을 내리는 꿈은 새로운 직장을 얻거나 새집을 구입하게 될 것을 암시합니다.",
+      "english": "Digging open or excavating a grave — or lowering a coffin into a freshly dug grave — suggests obtaining new employment or purchasing a new home.",
+      "context": "무덤을 파는 꿈"
+    },
+    {
+      "type": "흉몽",
+      "korean": "삽이나 장비로 땅을 함부로 파내는 꿈은 재산이 줄어들거나 가정에 불화가 생길 것을 경고합니다.",
+      "english": "Recklessly digging the ground with a shovel or tools warns of diminishing assets or discord and conflict within the household.",
+      "context": "삽으로 무분별하게 파는 꿈"
+    },
+    {
+      "type": "흉몽",
+      "korean": "논밭을 파는 꿈은 권리를 상실하거나 잘못된 판단으로 남 좋은 일만 하고 자신은 손해를 보게 될 것을 암시합니다. 대출 상환이나 손해 상황이 생길 수 있습니다.",
+      "english": "Digging up a rice field or farmland implies losing rights or making poor judgments that benefit others at your own expense, including potential loan repayments or financial setbacks.",
+      "context": "논밭을 파는 꿈"
+    },
+    {
+      "type": "흉몽",
+      "korean": "함정을 파거나 다른 사람을 해치려는 목적으로 땅을 파는 꿈은 자신의 지위 하락, 사업 실패, 혹은 대인 관계에서 갈등이 생길 것을 예고합니다.",
+      "english": "Digging a trap or pit to harm someone warns of a decline in status, business failure, or serious interpersonal conflict.",
+      "context": "함정을 파는 꿈"
+    },
+    {
+      "type": "흉몽",
+      "korean": "땅이 꺼지거나 구덩이 속으로 빠지는 꿈은 타인의 계략에 빠지거나 예상치 못한 불운을 경험하게 될 것을 경고합니다.",
+      "english": "The ground collapsing or falling into a pit you have dug warns that you may fall victim to another person's scheme or encounter unexpected misfortune.",
+      "context": "땅이 꺼지는 꿈"
+    },
+    {
+      "type": "neutral",
+      "korean": "다른 사람들과 함께 땅을 파는 꿈은 협력과 공동 목표를 상징합니다. 주변 사람들의 지지를 받으며 목표를 이루어나가는 과정에 있음을 나타냅니다.",
+      "english": "Digging together with others symbolizes collaboration and shared goals. It indicates you are in a process of achieving objectives with the support of people around you.",
+      "context": "여러 명이 함께 파는 꿈"
+    },
+    {
+      "type": "neutral",
+      "korean": "혼자 묵묵히 땅을 파는 꿈은 자기 성찰과 내면의 탐구를 나타냅니다. 외부의 도움 없이 스스로 문제를 해결하려는 의지를 보여줍니다.",
+      "english": "Digging alone in silence represents introspection and inner exploration. It reflects a will to resolve problems through one's own effort without relying on others.",
+      "context": "혼자 파는 꿈"
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "보물을 찾아 땅을 파는 꿈",
+      "keyword_en": "Digging for treasure dream",
+      "interpretation_ko": "숨겨진 재능이나 기회를 발견하게 될 징조입니다. 노력한 만큼 뜻밖의 보상이 따르며 금전적 횡재나 사업의 성공을 예고합니다.",
+      "interpretation_en": "A sign that you will uncover hidden talents or opportunities. Unexpected rewards commensurate with your efforts are forthcoming, heralding financial windfall or business success."
+    },
+    {
+      "keyword_ko": "땅을 파다 물이 나오는 꿈",
+      "keyword_en": "Digging and striking water dream",
+      "interpretation_ko": "맑은 물이 솟으면 사업 성공과 풍요로운 재물운을 뜻하는 길몽입니다. 물이 탁하거나 범람하면 감당하기 어려운 상황이 닥칠 수 있으니 주의가 필요합니다.",
+      "interpretation_en": "Clear water springing up is an auspicious omen of business success and abundant prosperity. Murky or flooding water signals an overwhelming situation requiring caution."
+    },
+    {
+      "keyword_ko": "무덤을 파는 꿈",
+      "keyword_en": "Digging a grave dream",
+      "interpretation_ko": "새로운 시작을 준비하거나 새 집·직장을 얻게 됨을 암시하는 경우가 많습니다. 한국 전통 해몽에서 무덤은 조상의 보호와 새로운 터전을 상징합니다.",
+      "interpretation_en": "Most often implies preparing for a new beginning, obtaining a new home, or securing new employment. In Korean traditional dream interpretation, graves symbolize ancestral protection and new foundations."
+    },
+    {
+      "keyword_ko": "포크레인으로 땅 파는 꿈",
+      "keyword_en": "Digging with an excavator dream",
+      "interpretation_ko": "큰 규모의 변화나 사업 확장의 초석을 다지는 것을 상징합니다. 빠른 성장과 함께 새로운 배움과 경험이 이어질 것을 예고합니다.",
+      "interpretation_en": "Symbolizes laying the groundwork for large-scale change or business expansion. It predicts rapid growth accompanied by new learning and experiences."
+    },
+    {
+      "keyword_ko": "삽으로 땅을 파는 꿈",
+      "keyword_en": "Digging with a shovel dream",
+      "interpretation_ko": "손수 노력하는 과정을 상징하며, 결과는 파는 목적과 감정에 따라 달라집니다. 열심히 파면 성취를, 힘들게 파면 장애와 고생을 의미합니다.",
+      "interpretation_en": "Symbolizes the process of hands-on effort. The outcome depends on the purpose and emotional tone: digging vigorously means achievement, while laboring with difficulty indicates obstacles and hardship."
+    },
+    {
+      "keyword_ko": "논밭을 파는 꿈",
+      "keyword_en": "Digging up a rice field or farmland dream",
+      "interpretation_ko": "권리 상실이나 손해를 경고하는 흉몽입니다. 투자나 사업 결정에서 신중함이 필요하며 계약서 검토를 소홀히 하지 말아야 합니다.",
+      "interpretation_en": "An inauspicious warning of loss of rights or financial setback. Extra caution in investment decisions and contract reviews is strongly advised."
+    },
+    {
+      "keyword_ko": "자신을 묻으려고 땅을 파는 꿈",
+      "keyword_en": "Digging a hole to bury yourself dream",
+      "interpretation_ko": "역설적으로 새로운 보금자리나 직장을 얻게 될 길몽입니다. '묻힌다'는 것이 새로운 터전에 뿌리를 내리는 과정을 상징합니다.",
+      "interpretation_en": "Paradoxically an auspicious omen of gaining a new home or job. 'Being buried' symbolizes the process of putting down roots in a new place."
+    },
+    {
+      "keyword_ko": "함정을 파는 꿈",
+      "keyword_en": "Digging a trap or pit dream",
+      "interpretation_ko": "타인에게 해를 끼치려는 의도가 오히려 자신에게 되돌아올 것을 경고합니다. 지위 하락, 사업 실패, 법적 분쟁에 주의해야 합니다.",
+      "interpretation_en": "Warns that schemes intended to harm others will backfire. Beware of declining status, business failure, or legal disputes."
+    },
+    {
+      "keyword_ko": "여러 명이 함께 땅 파는 꿈",
+      "keyword_en": "Digging together with others dream",
+      "interpretation_ko": "팀워크와 협력을 통해 공동의 목표를 이루게 될 것을 뜻합니다. 주변의 든든한 지지자들과 함께 큰 일을 이룰 수 있는 시기입니다.",
+      "interpretation_en": "Indicates achieving shared goals through teamwork and cooperation. It is a favorable time to accomplish great things with the support of reliable allies."
+    },
+    {
+      "keyword_ko": "황토(누런 흙)가 나오는 꿈",
+      "keyword_en": "Digging up yellow loess soil dream",
+      "interpretation_ko": "황토는 한국 전통에서 재물과 벽사(액막이)를 상징합니다. 땅에서 황토가 나오면 재물과 세력을 얻게 되는 매우 좋은 길몽입니다.",
+      "interpretation_en": "Yellow loess symbolizes wealth and protective power in Korean tradition. Unearthing it in a dream is a very auspicious omen of gaining wealth and influence."
+    },
+    {
+      "keyword_ko": "땅이 꺼지는 꿈",
+      "keyword_en": "The ground collapsing while digging dream",
+      "interpretation_ko": "타인의 계략에 빠지거나 예상치 못한 사고·손해가 발생할 것을 경고합니다. 중요한 결정에서 특히 주의가 필요합니다.",
+      "interpretation_en": "Warns of falling into another person's trap or encountering unexpected accidents or financial losses. Exercise particular caution in important decisions."
+    }
+  ],
+  "culturalContext": {
+    "korean": "한국의 전통적인 농경 문화에서 땅(대지)은 단순한 토지 이상의 의미를 지닙니다. 흙은 만물을 생장시키는 어머니와 같은 존재로, 지신(地神)이 깃들어 있다고 여겼습니다. 황토는 특히 벽사(액막이)의 힘이 있다고 믿어져 출산이나 제례 때 뿌려졌으며, 꿈에서 땅은 재산·소유권·생활 기반·육체를 상징합니다. 땅을 파는 행위는 이 신성한 대지와 교감하며 숨겨진 가치를 끌어올리는 행위로, 능력 발굴과 재물 획득의 상징으로 해석되어 왔습니다. 반면 남의 논밭을 파거나 함정을 파는 행위는 공동체의 질서를 어지럽히는 것으로 여겨져 흉몽으로 분류됩니다.",
+    "english": "In Korea's traditional agrarian culture, the earth carries far deeper significance than mere land. Soil was revered as a mother-like life force that nurtures all living things, believed to be inhabited by the earth deity (지신, Jisin). Yellow loess (황토) was particularly prized for its protective and purifying power, scattered at childbirth and ancestral rites. In dreams, earth symbolizes property, ownership, life foundations, and the physical body. The act of digging represents communion with this sacred ground and the drawing up of hidden value — long interpreted as a metaphor for uncovering ability and acquiring wealth. Conversely, digging into another's farmland or setting traps is seen as disturbing communal order, making such dreams inauspicious omens."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트 심리학에서 땅을 파는 행위는 억압된 욕구나 감정을 무의식에서 끌어올리려는 심리를 반영해요. 땅 속은 무의식의 영역을 상징하며, 파는 행동은 오랫동안 숨겨두었던 감정·기억·욕망을 의식의 표면으로 드러내려는 충동을 나타냅니다. 무엇이 나오느냐에 따라 억압된 내용의 성격이 달라집니다.",
+      "english": "In Freudian psychology, the act of digging reflects a psychic impulse to bring repressed desires or emotions up from the unconscious. The underground represents the unconscious realm, and digging symbolizes the urge to surface long-buried feelings, memories, or drives. What is unearthed reveals the nature of the repressed material."
+    },
+    "jungian": {
+      "korean": "융 심리학에서 땅을 파는 꿈은 자기실현(개성화) 과정의 일환으로 해석되어요. 지하(땅 아래)는 집단 무의식과 그림자(Shadow) 원형의 영역이며, 파는 행위는 자신 안에 잠든 원형적 자원이나 미지의 잠재력을 발굴하려는 심리를 나타냅니다. 보물을 찾으면 자아(Self)와의 통합이 가까워졌음을 뜻합니다.",
+      "english": "In Jungian psychology, a digging dream is read as part of the individuation process. The underground corresponds to the collective unconscious and the Shadow archetype, and digging represents the psyche's drive to excavate dormant archetypal resources or unknown potential within the self. Finding treasure signals closer integration with the Self archetype."
+    },
+    "modern": {
+      "korean": "현대 심리학에서 땅을 파는 꿈은 현재의 불만족이나 탐구 욕구를 반영하는 것으로 봐요. 새로운 해결책을 찾거나 숨겨진 문제의 근원을 파악하고자 하는 인지적 노력을 상징하며, 변화와 성장을 향한 적극적인 의지를 나타냅니다. 현실에서 풀지 못한 과제를 수면 중에 처리하는 과정으로 이해됩니다.",
+      "english": "Modern psychology views digging dreams as reflecting current dissatisfaction or a drive for exploration. They symbolize a cognitive effort to find new solutions or trace the root of hidden problems, representing an active will toward change and growth. The dream is understood as the mind processing unresolved waking-life challenges during sleep."
+    },
+    "crossCultural": {
+      "korean": "여러 문화권에서 땅을 파는 꿈은 보편적으로 '숨겨진 것의 발견'과 연결돼요. 중국 전통에서는 땅이 재물과 조상의 기운을 담고 있어 파는 행위가 유산이나 복의 발굴을 뜻하며, 서양 민속에서도 보물 탐색 꿈은 내면의 가치나 영적 깨달음을 상징합니다. 동서양 모두 땅 파기는 노력을 통한 발견의 메타포로 이해됩니다.",
+      "english": "Across cultures, dreaming of digging is universally linked to the discovery of what is hidden. In Chinese tradition, the earth holds the energy of wealth and ancestors, so digging signifies unearthing an inheritance or blessing. In Western folklore, treasure-hunt dreams symbolize inner worth or spiritual enlightenment. East and West alike understand digging as a metaphor for discovery through effort."
+    }
+  },
+  "relatedSymbols": [
+    "treasure-dream",
+    "earth-dream",
+    "grave-dream",
+    "water-dream",
+    "gold-dream",
+    "farming-dream",
+    "construction-dream",
+    "underground-dream"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "땅을 파는 꿈",
+      "땅 파는 꿈 해몽",
+      "땅 파는 꿈 의미",
+      "땅 파는 꿈 길몽",
+      "땅 파는 꿈 흉몽",
+      "삽으로 땅 파는 꿈",
+      "포크레인 땅 파는 꿈",
+      "땅 파다 보물 나오는 꿈",
+      "땅 파다 물 나오는 꿈",
+      "무덤 파는 꿈 해몽",
+      "논밭 파는 꿈",
+      "함정 파는 꿈 해몽",
+      "땅 꿈 해몽",
+      "흙 파는 꿈",
+      "자신을 묻는 꿈 해몽"
+    ],
+    "english": [
+      "digging dream meaning",
+      "dream of digging ground",
+      "digging for treasure dream",
+      "digging a grave dream meaning",
+      "excavator digging dream",
+      "digging and finding water dream",
+      "Korean dream interpretation digging",
+      "dream about digging soil",
+      "digging dream lucky or unlucky",
+      "underground digging dream symbolism"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "땅을 파는 꿈은 길몽인가요, 흉몽인가요?",
+      "answer_ko": "대체로 길몽으로 해석됩니다. 열심히 땅을 파거나, 파다가 보물이나 맑은 물이 나오는 꿈은 능력 발휘·재물 획득·새로운 기회를 예고하는 좋은 꿈입니다. 다만 논밭을 함부로 파거나 함정을 파는 꿈처럼 파는 목적이 부정적이면 손해나 갈등을 의미할 수 있습니다.",
+      "question_en": "Is dreaming of digging a lucky or unlucky dream?",
+      "answer_en": "It is generally interpreted as a lucky dream. Digging diligently, or discovering treasure or clear water while digging, heralds ability recognition, financial gain, or new opportunities. However, when the digging has a negative purpose — such as destroying farmland or setting a trap — it can signal loss or conflict."
+    },
+    {
+      "question_ko": "땅을 파다가 보물이 나오는 꿈은 어떤 의미인가요?",
+      "answer_ko": "숨겨진 재능이나 기회를 발견하게 될 매우 좋은 길몽입니다. 노력한 만큼 뜻밖의 재물적 보상이 따르며, 오랫동안 준비해온 일이 드디어 빛을 발하게 될 것을 알려줍니다.",
+      "question_en": "What does it mean to dig and find treasure in a dream?",
+      "answer_en": "It is a very auspicious omen of uncovering hidden talent or opportunity. Unexpected financial rewards commensurate with past effort are on the way, signaling that long-prepared endeavors are finally about to bear fruit."
+    },
+    {
+      "question_ko": "포크레인으로 땅 파는 꿈은 무슨 의미인가요?",
+      "answer_ko": "대규모 사업이나 프로젝트의 초석을 다지는 것을 상징합니다. 새로운 일을 시작하거나 기존의 일을 크게 확장하게 될 것을 예고하며, 그 과정에서 새로운 배움과 경험이 따릅니다.",
+      "question_en": "What does dreaming of an excavator digging the ground mean?",
+      "answer_en": "It symbolizes laying the foundation for a large-scale project or business. It predicts starting something new or greatly expanding an existing venture, accompanied by new learning and experiences along the way."
+    },
+    {
+      "question_ko": "자신을 묻으려고 땅을 파는 꿈은 왜 좋은 꿈인가요?",
+      "answer_ko": "역설적이지만, 이 꿈은 새로운 보금자리나 직장을 얻게 될 길몽으로 해석됩니다. '묻힌다'는 행위가 새로운 환경에 뿌리를 내리는 것을 상징하기 때문입니다. 실제로 자신을 묻었다면 재산이 크게 늘어날 징조라고 봅니다.",
+      "question_en": "Why is digging a hole to bury yourself considered an auspicious dream?",
+      "answer_en": "Paradoxically, this dream is interpreted as a lucky omen of obtaining a new home or job. The act of 'being buried' symbolizes putting down roots in a new environment. If the dream concluded with you actually buried, it is seen as an even stronger sign of significant wealth accumulation."
+    },
+    {
+      "question_ko": "논밭을 파는 꿈은 왜 흉몽인가요?",
+      "answer_ko": "한국 전통에서 논밭은 생계의 근본이자 공동체의 소유권을 상징합니다. 논밭을 파는 꿈은 자신의 권리나 재산 기반을 스스로 훼손하는 행위로 해석되어, 잘못된 판단으로 인한 손해나 권리 상실을 예고합니다.",
+      "question_en": "Why is dreaming of digging up a rice field considered inauspicious?",
+      "answer_en": "In Korean tradition, rice fields represent the foundation of livelihood and communal ownership rights. Digging them up is interpreted as self-sabotage of one's own property base, foretelling financial loss or the forfeiture of rights due to poor judgment."
+    },
+    {
+      "question_ko": "땅 파는 꿈을 꾸면 실제로 재물이 생기나요?",
+      "answer_ko": "꿈해몽은 절대적인 예언이 아닌 자신의 심리와 잠재의식을 반영하는 거울입니다. 보물이 나오거나 맑은 물이 솟는 긍정적인 꿈을 꾸었다면, 현실에서도 그만큼 적극적으로 기회를 탐색하고 노력을 기울이는 것이 중요합니다.",
+      "question_en": "Does dreaming of digging mean wealth will actually come?",
+      "answer_en": "Dream interpretation is not an absolute prophecy but a mirror reflecting your psychology and subconscious. If you had a positive digging dream — finding treasure or striking clear water — the most meaningful response is to actively seek out opportunities and put in the corresponding effort in waking life."
+    }
+  ]
+}

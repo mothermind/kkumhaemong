@@ -1,0 +1,190 @@
+{
+  "symbol": {
+    "korean": "맞는 꿈",
+    "english": "Dream of being hit",
+    "slug": "being-hit-dream"
+  },
+  "summary": {
+    "korean": "꿈에서 맞는 것은 대체로 길몽으로, 현재 추진 중인 일의 성취와 재물운·대인관계 개선을 상징하며, 누구에게 맞았는지와 아픔의 유무에 따라 길흉이 달라져요.",
+    "english": "Being hit in a dream is generally considered auspicious in Korean folk tradition, symbolizing achievement, incoming fortune, and improved relationships — though the identity of the one doing the hitting and whether pain was felt can shift the interpretation."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "꿈에서 맞는 것은 때리는 것보다 오히려 더 좋은 꿈으로 여겨져요. 현재 하고 있는 일이 잘 풀리고, 목표했던 것이 이루어지며 재물이 들어올 징조로 해석돼요. 한국 전통 꿈해몽에서는 현실에서 고통스럽게 느껴지는 경험이 꿈에서는 반대로 풀리는 '반몽(反夢)' 원리가 자주 적용되는데, 맞는 꿈이 바로 그 대표적인 예예요.",
+      "english": "Being hit in a dream is often considered even more auspicious than being the one who hits. It signals that current endeavors will succeed, goals will be achieved, and financial fortune is on its way. Korean folk dream tradition frequently applies the 'reverse dream' (반몽) principle — what is painful in dreams manifests as positive in reality.",
+      "context": "general auspicious interpretation — based on Korean folk dream tradition and the 반몽 principle"
+    },
+    {
+      "type": "길몽",
+      "korean": "모르는 사람에게 맞는 꿈은 뜻밖의 기회나 새로운 인연이 생길 조짐이에요. 낯선 이와의 만남이 긍정적인 결과로 이어지며, 사업이나 업무에서 예상치 못한 성공을 거둘 수 있어요. 총에 맞는 꿈도 비슷하게 길몽으로 해석되며, 좋은 인연과 새로운 가능성을 의미해요.",
+      "english": "Being hit by a stranger signals unexpected opportunities and new connections. This includes being shot by an unknown person — a classic auspicious symbol in Korean dream lore indicating positive encounters and surprising success in business or work.",
+      "context": "being hit by a stranger — new opportunity and fortune"
+    },
+    {
+      "type": "길몽",
+      "korean": "부모에게 매를 맞는 꿈은 가정운이 크게 좋아지고 하고 있는 일이 술술 잘 풀리며 더 큰 규모로 발전해 나갈 것을 의미하는 매우 길한 꿈이에요. 부모님의 엄격한 훈육은 전통적으로 관심과 사랑의 표현으로 여겨져서, 이것이 삶의 번창으로 연결된다고 해석돼요.",
+      "english": "Being beaten by one's parents in a dream is a highly auspicious sign indicating flourishing household fortune and smooth progress in all endeavors. In Korean tradition, parental discipline symbolizes love and guidance, and dreaming of it suggests growth and prosperity.",
+      "context": "being hit by parents — family fortune and success"
+    },
+    {
+      "type": "흉몽",
+      "korean": "친구에게 맞아 상처가 생기는 꿈은 흉몽이에요. 현실에서 인간관계에 균열이 생기거나 금전적인 손해가 발생할 수 있음을 암시해요. 특히 맞고 난 후 피가 나지 않고 상처만 남는 꿈은 재산 손실이나 신변의 어려움에 주의해야 한다는 신호로 볼 수 있어요.",
+      "english": "Being hit by a friend and sustaining an injury (without bleeding) is an inauspicious dream. It suggests potential rifts in relationships, conflicts with trusted people, or financial setbacks. Unlike blood — which carries positive symbolism — wounds without blood can signal loss.",
+      "context": "being hit by a known friend with injury — relationship and financial warning"
+    },
+    {
+      "type": "흉몽",
+      "korean": "귀신이나 악령에게 맞는 꿈은 흉몽으로, 갑작스러운 질병이나 사고가 생길 수 있음을 경고해요. 현실에서 예상치 못한 어려움이나 위험에 노출될 가능성이 있으니 건강 관리에 특히 신경 써야 해요.",
+      "english": "Being hit by a ghost or evil spirit is a bad omen, warning of sudden illness, accidents, or unexpected hardship. It is one of the clearest inauspicious variants of the hitting dream and calls for caution in health and safety matters.",
+      "context": "being hit by a ghost or spirit — illness and accident warning"
+    },
+    {
+      "type": "길몽",
+      "korean": "맞아서 피가 나는 꿈, 특히 칼에 찔리거나 맞아서 피를 흘리는 꿈은 매우 좋은 꿈이에요. 피는 한국 꿈해몽에서 재물과 에너지의 상징으로, 피가 많이 날수록 더 큰 재물운이 따른다고 해석해요. 선물이나 뜻밖의 횡재가 생길 수 있어요.",
+      "english": "Being hit and bleeding — especially being struck by a blade and shedding blood — is highly auspicious. In Korean dream tradition, blood symbolizes money and vital energy. The more blood flows from a wound received in a dream, the greater the incoming fortune. Unexpected windfall or gifts are indicated.",
+      "context": "being hit and bleeding — wealth and windfall (blood = money in Korean dream symbolism)"
+    },
+    {
+      "type": "흉몽",
+      "korean": "싸움에서 지는 꿈, 즉 일방적으로 맞고 쓰러지는 꿈은 흉몽이에요. 현실에서 자신의 의견이 받아들여지지 않거나 추진 중인 일이 실패로 끝날 가능성을 나타내요. 건강 문제가 생길 수 있다는 경고이기도 해요.",
+      "english": "Losing a fight — being completely overwhelmed and knocked down — is an inauspicious dream. It indicates that your views may be rejected, ongoing projects may fail, or health problems may arise. The key distinguishing factor is defeat, not merely being hit.",
+      "context": "losing a fight decisively — failure and health warning"
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "모르는 사람에게 맞는 꿈",
+      "keyword_en": "being hit by a stranger in a dream",
+      "interpretation_ko": "낯선 사람에게 맞는 꿈은 뜻밖의 기회와 새로운 인연을 상징하는 길몽이에요. 예상치 못한 곳에서 도움이나 행운이 찾아오거나, 새로운 사람과의 만남이 긍정적인 결과를 가져올 수 있어요. 사업을 하는 분이라면 새로운 거래처나 파트너를 만날 가능성도 있어요.",
+      "interpretation_en": "Being hit by an unknown stranger is an auspicious omen pointing to unexpected opportunities and new connections. Good luck may come from an unanticipated source, and meeting new people could lead to positive outcomes. For those in business, a new partner or client may be on the horizon."
+    },
+    {
+      "keyword_ko": "아는 사람에게 맞는 꿈",
+      "keyword_en": "being hit by someone you know in a dream",
+      "interpretation_ko": "아는 사람에게 맞는 꿈은 상황에 따라 길흉이 나뉘어요. 상처 없이 맞는 꿈이라면 그 사람과의 관계가 더 깊어지거나 좋아질 수 있어요. 반면 상처가 생기거나 피 없이 다치는 꿈이라면 그 사람과의 관계에서 갈등이나 오해가 생길 수 있으니 주의가 필요해요.",
+      "interpretation_en": "Being hit by someone you know is interpreted based on the outcome: if no injuries result, it can signal a deepening or improving relationship. If wounds appear without blood, it warns of conflict, misunderstanding, or a falling-out with that person. Context and emotion felt in the dream are crucial."
+    },
+    {
+      "keyword_ko": "심하게 맞는 꿈",
+      "keyword_en": "being severely beaten in a dream",
+      "interpretation_ko": "심하게 맞는 꿈은 피가 나느냐 나지 않느냐에 따라 해석이 달라요. 심하게 맞고 피가 많이 나는 꿈은 큰 재물이 들어올 대박 길몽으로 봐요. 반면 심하게 맞았는데도 피가 나지 않거나 쓰러지는 꿈은 현실의 어려움이나 주변의 압박이 한계에 달해 있음을 나타낼 수 있어요.",
+      "interpretation_en": "Being severely beaten is interpreted primarily by whether blood flows. Severe beating with heavy bleeding is a highly auspicious dream indicating a major financial windfall. Severe beating without blood — or being knocked unconscious — can signal that real-life pressures are overwhelming the dreamer or that difficulties lie ahead."
+    },
+    {
+      "keyword_ko": "맞고도 안 아픈 꿈",
+      "keyword_en": "being hit but feeling no pain in a dream",
+      "interpretation_ko": "맞고도 아프지 않은 꿈은 대체로 길몽으로 해석돼요. 현실에서 어떤 어려움이 닥쳐도 큰 타격 없이 극복해낼 수 있는 강한 회복력을 상징해요. 경쟁이나 갈등 상황에서도 흔들리지 않고 목표를 달성할 수 있음을 나타내기도 해요.",
+      "interpretation_en": "Being hit but feeling no pain is considered auspicious. It symbolizes resilience — that even when hardships come, you will emerge unscathed. It may also indicate that you will withstand competition or conflict without lasting harm and ultimately achieve your goals."
+    },
+    {
+      "keyword_ko": "부모에게 맞는 꿈",
+      "keyword_en": "being hit by parents in a dream",
+      "interpretation_ko": "부모님께 매를 맞거나 야단맞는 꿈은 가정운과 사업운이 함께 좋아지는 길몽이에요. 하는 일이 번창하고 가정이 화목해질 징조로 자신감을 갖고 일을 추진하면 좋은 결과를 얻을 수 있어요. 전통적으로 부모의 매는 사랑과 기대의 표현으로 여겨졌어요.",
+      "interpretation_en": "Being beaten or disciplined by parents in a dream is an auspicious sign for both family and professional matters. Work will flourish and family harmony will improve. In Korean tradition, parental discipline is a symbol of love and high expectation, making this a distinctly positive dream."
+    },
+    {
+      "keyword_ko": "매를 맞는 꿈",
+      "keyword_en": "being caned or whipped in a dream",
+      "interpretation_ko": "매로 맞는 꿈은 전통적인 훈육의 이미지로, 부모나 권위 있는 인물에게 매를 맞는 경우 가정운과 재물운이 상승하는 길몽으로 봐요. 단, 억울하게 또는 이유 없이 매를 맞는 꿈은 직장이나 인간관계에서의 억울한 일, 오해받는 상황이 생길 수 있음을 암시해요.",
+      "interpretation_en": "Being caned or whipped by a parental or authority figure in a dream is typically auspicious, signaling improved family fortune and prosperity. However, being caned unjustly or without reason can indicate that you may face unfair treatment, misunderstanding, or unjust accusations in your workplace or social life."
+    }
+  ],
+  "culturalContext": {
+    "korean": "한국의 전통 꿈해몽에서 맞는 꿈은 오랫동안 '반몽(反夢)'의 대표적 사례로 손꼽혀 왔어요. 반몽이란 꿈의 내용이 현실에서 반대로 나타난다는 해석 원리로, 조선 시대부터 서민들 사이에서 구전으로 전해 내려온 민간 지혜예요. 맞는 것처럼 고통스럽고 부정적으로 보이는 경험이 현실에서는 오히려 성공, 재물, 발전으로 이어진다는 믿음이에요. 특히 피가 나는 맞는 꿈은 매우 길한 꿈으로 여겨지는데, 이는 한국 꿈해몽에서 피가 재물과 에너지의 상징이기 때문이에요. 다만 귀신이나 악령에게 맞는 꿈은 예외로, 이는 현실에서의 질병이나 사고를 경고하는 흉몽으로 분류돼요. 또한 싸움에서 완전히 지는 꿈, 즉 맞고 쓰러지는 꿈은 실패나 어려움을 암시하기도 해요. 이처럼 맞는 꿈의 해석은 '누가 때렸는가', '어디서 맞았는가', '피가 났는가', '아팠는가'라는 세부 맥락에 따라 달라지며, 이를 종합적으로 살피는 것이 올바른 꿈해몽의 방법이에요.",
+    "english": "In Korean folk dream tradition, the 'dream of being hit' is a classic example of 반몽 (reverse dream interpretation) — a principle holding that what appears painful or negative in a dream manifests as positive in waking life. This belief has been passed down orally since the Joseon Dynasty (1392–1897), when shamans (무당) and village elders served as dream readers for commoners who could not access literate fortune-tellers. The underlying logic reflects a broader Korean cultural tendency to find fortune in apparent suffering: just as digging soil (symbolically 'getting dirty') foretells wealth, being struck in a dream can signal incoming success. Blood drawn from a blow carries especially auspicious weight, as blood in Korean dream symbolism represents money and vital energy. The exceptions — being struck by ghosts, spirits, or losing a fight decisively — reflect older shamanistic beliefs (무속) in which supernatural assault was understood as an omen of illness or disaster. Modern Korean dream interpretation sites preserve these distinctions, emphasizing that the key variables in a hitting dream are: who hit you, whether blood was drawn, whether pain was felt, and whether you won or lost the encounter."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트의 정신분석학에서 꿈에서 맞는 경험은 억압된 죄책감이나 처벌받고 싶은 무의식적 욕구와 연결돼요. 프로이트는 '매 맞는 어린아이'(1919) 논문에서 이러한 피학적(masochistic) 꿈이 부모와의 초기 관계에서 비롯된 초자아(superego)의 징벌 충동을 반영한다고 분석했어요. 꿈에서 때리는 사람이 부모나 권위자일 경우, 이는 자신이 어린 시절에 내면화한 규칙과 처벌에 대한 두려움이 수면 중에 투사되는 것으로 볼 수 있어요. 프로이트적 관점에서 이 꿈은 현실의 억압된 갈등을 안전하게 처리하는 심리적 방어 기제로 기능해요.",
+      "english": "In Freudian psychoanalysis, dreams of being hit are linked to repressed guilt and an unconscious desire for punishment — what Freud called the 'superego's' demand for self-punishment. In his 1919 paper 'A Child Is Being Beaten,' Freud argued that masochistic beating fantasies in dreams originate in early oedipal conflicts with parental authority figures, transforming forbidden impulses into a scenario of punishment. When the person doing the hitting is a parent or authority figure, Freud would interpret this as the internalized parental voice (superego) enacting punishment for unconscious transgressions. From this lens, the dream serves as a psychic safety valve for repressed interpersonal conflict."
+    },
+    "jungian": {
+      "korean": "융의 분석심리학에서 꿈에서 맞는 경험은 자아(ego)가 더 큰 정신적 힘, 즉 자기(Self)나 그림자(Shadow) 원형과 직면하는 과정을 상징할 수 있어요. 충격과 타격은 의식이 무시해 온 무의식의 내용이 강하게 표출되는 것으로, 심리적 성장을 위해 반드시 통합해야 할 측면을 알려주는 신호로 해석돼요. 때리는 대상이 낯선 인물(stranger)일 경우, 융은 이를 아직 인정하지 못한 자신의 그림자 측면이 꿈 속에서 타자의 형태로 나타난 것으로 볼 수 있다고 했어요. 이 꿈은 고통스럽게 느껴질 수 있지만 궁극적으로 개성화(individuation) 과정의 한 단계, 즉 자신의 더 완전한 모습으로 나아가는 촉매제가 될 수 있어요.",
+      "english": "In Jungian analytical psychology, being hit in a dream can symbolize the ego's confrontation with a more powerful psychic force — the Self, the Shadow, or another archetype demanding acknowledgment. The blow represents an eruption of unconscious material that the waking ego has ignored or suppressed. When the attacker is a stranger or an unknown figure, Jung would likely interpret this as the dreamer's own Shadow — disowned aspects of personality — appearing in projected form to demand integration. Though the experience feels threatening, Jungian theory frames it as a potentially transformative moment in the individuation process: the psyche is forcing growth by making the unconscious impossible to ignore."
+    },
+    "modern": {
+      "korean": "현대 수면 과학과 신경심리학에서는 신체적 공격을 당하는 꿈이 주로 편도체(amygdala)의 위협 처리 활동과 관련 있다고 봐요. REM 수면 중에 편도체는 낮 동안 경험한 스트레스, 갈등, 위협적 사건들의 감정적 기억을 재처리하며, 이 과정에서 맞거나 공격받는 꿈이 생성될 수 있어요. 심리학자 어니스트 하트만(Ernest Hartmann)의 경계 이론에 따르면, 경계가 얇은(thin-boundary) 성격의 사람들은 맞거나 위협받는 꿈을 더 자주 꾸며, 이는 높은 감수성과 주변 스트레스에 대한 민감성을 반영해요. 현대 심리학은 이 꿈을 병리로 보기보다는 뇌가 현실의 갈등과 불안을 소화하는 정상적인 자기 조절 과정으로 이해해요.",
+      "english": "Modern sleep science and neuropsychology link dreams of being physically attacked to amygdala-driven threat processing during REM sleep. The amygdala remains highly active during REM and replays emotionally charged memories — including stress, social conflict, and perceived danger — from the waking day. This can generate vivid hitting or attack scenarios as the brain works to process and down-regulate threatening emotional content. Psychologist Ernest Hartmann's boundary theory suggests that people with 'thin' psychological boundaries — those who are more emotionally open and sensitive — experience attack dreams more frequently, reflecting heightened reactivity to interpersonal stress. Rather than pathology, modern psychology broadly views these dreams as the brain's adaptive emotional regulation mechanism."
+    },
+    "crossCultural": {
+      "korean": "한국 전통 꿈해몽이 맞는 꿈을 '반몽' 원리로 길몽으로 해석하는 것과 달리, 서양 심리학은 이 꿈을 억압된 갈등이나 스트레스의 반영으로 보아 불안이나 내면 갈등의 신호로 접근하는 경향이 있어요. 두 관점 모두 꿈이 단순한 우연이 아니라 깊은 심리적 의미를 담고 있다는 점에서 일치하지만, 한국 전통 해몽이 사회적·관계적 맥락과 결과 예측에 초점을 맞추는 반면, 서양 심리학은 개인의 내면 상태와 무의식적 과정을 탐구하는 방향으로 나아가요.",
+      "english": "While Korean folk tradition interprets being hit in a dream as an auspicious reverse omen (반몽) promising fortune, Western psychology tends to view the same dream as a reflection of repressed conflict, anxiety, or unprocessed stress — focusing inward on the dreamer's psychological state rather than outward on predicted events. Both traditions agree that such dreams carry significant meaning beyond mere randomness, but Korean interpretation emphasizes relational context and future outcomes, whereas Western approaches prioritize understanding the dreamer's current inner world and unconscious dynamics."
+    }
+  },
+  "relatedSymbols": [
+    "fighting-dream",
+    "punching-dream",
+    "being-chased-dream",
+    "bleeding-dream",
+    "ghost-dream",
+    "winning-fight-dream"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "맞는 꿈",
+      "맞는 꿈 해몽",
+      "얻어맞는 꿈",
+      "얻어맞는 꿈 해몽",
+      "꿈에서 맞는 꿈",
+      "맞는 꿈 길몽",
+      "모르는 사람에게 맞는 꿈",
+      "아는 사람에게 맞는 꿈",
+      "심하게 맞는 꿈 해몽",
+      "맞고 안 아픈 꿈",
+      "부모에게 맞는 꿈 해몽",
+      "매맞는 꿈 해몽",
+      "맞는 꿈 의미",
+      "꿈해몽 맞는꿈",
+      "맞아서 피나는 꿈"
+    ],
+    "english": [
+      "being hit in a dream meaning",
+      "dream of being hit Korean interpretation",
+      "beaten in a dream meaning",
+      "dream being punched meaning",
+      "hit by stranger in dream",
+      "being hit by parents dream",
+      "Korean dream being beaten auspicious",
+      "dream hit and bleeding meaning"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "꿈에서 맞는 꿈은 길몽인가요, 흉몽인가요?",
+      "answer_ko": "일반적으로 꿈에서 맞는 것은 길몽으로 해석돼요. 한국 전통 꿈해몽의 '반몽' 원리에 따라, 꿈에서 고통스러운 경험이 현실에서 좋은 결과로 이어진다고 봐요. 특히 때리는 꿈보다 맞는 꿈이 더 좋은 길몽으로 여겨져요. 다만 귀신에게 맞거나 싸움에서 완전히 지는 꿈은 흉몽이에요.",
+      "answer_en": "Being hit in a dream is generally considered a good omen (길몽) in Korean folk tradition. Following the reverse dream (반몽) principle, painful experiences in dreams manifest as positive outcomes in reality. Being hit is actually considered more auspicious than being the one who hits. Exceptions include being struck by a ghost or spirit, or being decisively defeated in a fight, which are inauspicious.",
+      "question_en": "Is dreaming of being hit a good or bad omen in Korean tradition?"
+    },
+    {
+      "question_ko": "꿈에서 맞고 피가 났는데 좋은 꿈인가요?",
+      "answer_ko": "네, 맞아서 피가 나는 꿈은 매우 좋은 길몽이에요. 한국 꿈해몽에서 피는 재물과 에너지를 상징해요. 칼에 맞거나 주먹에 맞아 피를 흘리는 꿈은 뜻밖의 횡재나 선물, 재물 상승을 암시하는 대박 꿈으로 해석돼요.",
+      "answer_en": "Yes, being hit and bleeding is a very auspicious dream. In Korean dream interpretation, blood symbolizes money and life energy. Dreaming of being struck and shedding blood — whether by a blade or fists — indicates an unexpected financial windfall, gift, or sudden improvement in wealth.",
+      "question_en": "Is it a good dream if I was hit and started bleeding?"
+    },
+    {
+      "question_ko": "모르는 사람에게 맞는 꿈은 무슨 뜻인가요?",
+      "answer_ko": "모르는 사람에게 맞는 꿈은 뜻밖의 기회나 새로운 인연이 찾아올 징조예요. 예상치 못한 곳에서 행운이 찾아오거나, 새로운 사람과의 만남이 긍정적인 결과를 가져올 수 있어요. 사업적으로는 새로운 거래처나 파트너가 생길 수 있어요.",
+      "answer_en": "Being hit by a stranger in a dream signals unexpected opportunities and new connections coming your way. Good luck may arrive from an unanticipated source. In professional contexts, it can indicate meeting a new business partner or client. The 'unknown' element of the stranger amplifies the sense of surprise and positive chance.",
+      "question_en": "What does it mean to be hit by a stranger in a dream?"
+    },
+    {
+      "question_ko": "부모님에게 맞는 꿈은 어떻게 해석하나요?",
+      "answer_ko": "부모님에게 매를 맞는 꿈은 가정운과 사업운이 크게 향상되는 길몽이에요. 현재 하고 있는 일이 더 크게 발전하고 번창할 것을 의미해요. 전통적으로 부모님의 매는 사랑과 기대의 표현으로 여겨졌기 때문에, 꿈에서도 이 상황이 긍정적인 변화의 신호로 해석돼요.",
+      "answer_en": "Being beaten by parents in a dream is a very auspicious sign in Korean tradition. It indicates significant improvement in family harmony and professional success — whatever work you are currently doing will flourish and grow. Parental discipline was historically understood as an act of love and high expectation, and this symbolism carries through in dream interpretation.",
+      "question_en": "How is a dream of being beaten by parents interpreted?"
+    },
+    {
+      "question_ko": "꿈에서 맞았는데 아프지 않았어요. 무슨 의미인가요?",
+      "answer_ko": "맞고도 아프지 않은 꿈은 길몽이에요. 현실에서 어떤 어려움이나 도전이 찾아와도 큰 피해 없이 극복해낼 수 있는 강한 회복력과 내면의 힘을 상징해요. 경쟁이나 갈등 상황에서도 흔들리지 않고 목표를 이룰 수 있다는 자신감의 표현이기도 해요.",
+      "answer_en": "Being hit without feeling pain is an auspicious dream. It symbolizes inner resilience — the ability to withstand hardship, competition, or conflict without suffering lasting harm. This dream suggests that even if challenges arise in reality, you will overcome them without serious damage and ultimately reach your goals.",
+      "question_en": "I was hit in my dream but felt no pain. What does that mean?"
+    },
+    {
+      "question_ko": "귀신에게 맞는 꿈은 왜 흉몽인가요?",
+      "answer_ko": "귀신이나 악령에게 맞는 꿈은 흉몽으로, 현실에서 갑작스러운 질병이나 사고, 예상치 못한 어려움이 생길 수 있음을 경고해요. 한국 무속 신앙에서 귀신은 저세상과 이세상의 경계를 넘나드는 존재로, 꿈에서 귀신과의 부정적인 접촉은 나쁜 기운이 현실로 넘어올 수 있다는 신호로 해석돼요. 이런 꿈을 꾼 후에는 건강에 특히 주의하는 것이 좋아요.",
+      "answer_en": "Being hit by a ghost or evil spirit is inauspicious because, in Korean shamanistic belief (무속), spirits that cross the boundary between the spirit world and the living realm carry disruptive energy. A hostile encounter with a supernatural being in a dream is interpreted as a warning that this negative force may affect waking life through sudden illness, accident, or misfortune. It is advisable to take extra care of health after such a dream.",
+      "question_en": "Why is being hit by a ghost in a dream considered a bad omen?"
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "symbol": {
+    "korean": "무언가를 찾아 헤매는 꿈",
+    "english": "Dream of Searching for Something",
+    "slug": "searching-dream"
+  },
+  "summary": {
+    "korean": "무언가를 찾아 헤매는 꿈은 현실에서의 불안감, 방향 상실, 또는 잃어버린 기회와 감정적 연결을 회복하고자 하는 무의식의 표현이며, 찾는 대상과 결과에 따라 길몽 또는 흉몽으로 해석됩니다.",
+    "english": "Dreams of searching for something reflect the unconscious mind's expression of anxiety, loss of direction, or a yearning to recover lost opportunities and emotional connections, interpreted as auspicious or inauspicious depending on what is sought and whether it is found."
+  },
+  "interpretations": [
+    {
+      "type": "흉몽",
+      "korean": "길을 찾아 헤매는 꿈은 현실에서 직장이나 소속 집단에서 인정받지 못하고 방향을 잃은 심리 상태를 반영합니다. 목표 추진력이 약해지고 의욕이 떨어질 수 있으며, 스트레스와 내적 갈등이 심화되고 있음을 경고합니다.",
+      "english": "Dreaming of wandering in search of a path reflects a psychological state of feeling unrecognized at work or in one's social group, with a loss of direction and reduced motivation. It warns of intensifying stress and inner conflict.",
+      "context": "길을 잃고 목적지를 찾지 못하는 꿈 — 직장, 학업, 인간관계에서의 방향 상실"
+    },
+    {
+      "type": "흉몽",
+      "korean": "집을 찾지 못해 헤매는 꿈은 가정 불화나 가족 관계에서의 갈등이 생길 것을 암시합니다. 가족 구성원 간 신뢰가 흔들리거나 감정적 거리가 생길 수 있어 주의가 필요합니다.",
+      "english": "Dreaming of being unable to find one's home signifies potential family discord or conflict within close relationships. Trust between family members may be shaken, and emotional distance may arise.",
+      "context": "가정이나 익숙한 장소를 찾지 못해 헤매는 꿈"
+    },
+    {
+      "type": "흉몽",
+      "korean": "어둠 속에서 무언가를 찾아 헤매는 꿈은 앞날이 불투명하고 어려운 상황이 닥칠 것을 경고합니다. 혼란스러운 결정 앞에서 길을 잃은 것처럼 느껴지는 현실의 불안이 반영된 꿈입니다.",
+      "english": "Searching for something in darkness warns of an unclear future and impending difficulties. It reflects real-world anxiety about facing confusing decisions that leave one feeling lost.",
+      "context": "어두운 환경에서 찾아 헤매는 꿈 — 불안과 혼돈의 심리 상태"
+    },
+    {
+      "type": "neutral",
+      "korean": "잃어버린 물건을 찾아 헤매는 꿈은 현재 해결되지 않은 문제나 감정적 상실감을 반영합니다. 단순히 일상의 스트레스가 무의식으로 나타난 것일 수 있으며, 꿈에서 물건을 찾았는지 여부에 따라 해석이 달라집니다.",
+      "english": "Searching for a lost object reflects unresolved problems or a sense of emotional loss in waking life. It may simply be daily stress manifesting unconsciously, and the interpretation depends on whether the object was found.",
+      "context": "잃어버린 물건 — 지갑, 열쇠, 핸드폰 등을 찾아 헤매는 꿈"
+    },
+    {
+      "type": "neutral",
+      "korean": "사람을 찾아 헤매는 꿈은 그 사람과의 감정적 유대 또는 단절에 대한 무의식적 표현입니다. 그리움, 화해에 대한 바람, 또는 인간관계에서 느끼는 외로움을 나타낼 수 있습니다.",
+      "english": "Searching for a person in a dream is an unconscious expression of emotional bonds or disconnection. It may reflect longing, a desire for reconciliation, or loneliness felt in one's relationships.",
+      "context": "특정 인물 — 연인, 친구, 가족 등을 찾아 헤매는 꿈"
+    },
+    {
+      "type": "길몽",
+      "korean": "낯선 장소에서 길을 잃고 헤매는 꿈은 의외로 길몽에 해당합니다. 새로운 가능성이 열리고 운기가 상승하는 전조로, 현재의 불안을 극복하면 큰 성장과 변화를 이룰 수 있음을 암시합니다.",
+      "english": "Being lost and wandering in an unfamiliar place is surprisingly an auspicious omen. It signals rising fortune and new possibilities opening up, suggesting that overcoming current anxieties will lead to great growth and transformation.",
+      "context": "낯선 미지의 장소에서 헤매는 꿈 — 운기 상승의 전조"
+    },
+    {
+      "type": "길몽",
+      "korean": "헤매다가 결국 목적지나 원하는 것을 찾아내는 꿈은 현재의 고민과 어려움이 해결될 것을 암시하는 길몽입니다. 인내 끝에 성취가 따를 것이라는 희망의 메시지를 담고 있습니다.",
+      "english": "Finding the destination or the sought object after wandering is an auspicious dream, signaling that current worries and difficulties will be resolved. It carries a hopeful message that perseverance will be rewarded with achievement.",
+      "context": "찾아 헤매다가 결국 목적지 또는 물건을 발견하는 꿈"
+    },
+    {
+      "type": "길몽",
+      "korean": "헤매는 도중 누군가가 나타나 길을 안내해 주는 꿈은 현실에서 도움을 받거나 귀인을 만날 것을 암시합니다. 어려운 상황에서 지원을 받게 되어 문제가 해결되는 좋은 징조입니다.",
+      "english": "Dreaming that someone appears to guide you while you wander is an auspicious sign that you will receive help or encounter a benefactor in real life. It is a positive omen that support will come in difficult times.",
+      "context": "헤매는 중에 안내자가 나타나 길을 알려주는 꿈"
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "사람을 찾아 헤매는 꿈",
+      "keyword_en": "Searching for a person in a dream",
+      "interpretation_ko": "특정 인물을 찾아 헤매는 꿈은 그 사람에 대한 그리움, 해결되지 않은 감정, 또는 관계 회복에 대한 열망을 반영합니다. 연인을 찾는 꿈은 관계 불안을, 부모님을 찾는 꿈은 정서적 안정에 대한 욕구를 나타냅니다.",
+      "interpretation_en": "Searching for a specific person reflects longing, unresolved feelings, or a desire to restore a relationship. Searching for a lover indicates relationship anxiety, while searching for parents signals a need for emotional security."
+    },
+    {
+      "keyword_ko": "찾아 헤매다가 발견하는 꿈",
+      "keyword_en": "Searching and finding in a dream",
+      "interpretation_ko": "찾아 헤매다가 결국 원하는 것을 발견하는 꿈은 길몽으로, 현재의 어려움을 극복하고 목표를 달성하게 될 것을 암시합니다. 잃었던 기회나 관계를 회복할 가능성도 있습니다.",
+      "interpretation_en": "Finding what you sought after wandering is an auspicious omen, foretelling that you will overcome present difficulties and achieve your goals. There is also a possibility of recovering lost opportunities or relationships."
+    },
+    {
+      "keyword_ko": "찾아 헤매다가 실패하는 꿈",
+      "keyword_en": "Searching and failing to find in a dream",
+      "interpretation_ko": "아무리 찾아도 발견하지 못하는 꿈은 현실에서 목표 달성이 어렵거나 중요한 무언가를 놓치고 있다는 경고입니다. 자신감 부족이나 방향 상실을 나타내는 흉몽입니다.",
+      "interpretation_en": "Failing to find what you search for warns that achieving goals in reality will be difficult, or that something important is being overlooked. It is an inauspicious dream indicating a lack of confidence or loss of direction."
+    },
+    {
+      "keyword_ko": "어둠 속에서 찾아 헤매는 꿈",
+      "keyword_en": "Searching in darkness in a dream",
+      "interpretation_ko": "어두운 곳에서 무언가를 찾아 헤매는 꿈은 앞길이 불투명하고 선택이 어려운 상황에 처해 있음을 상징합니다. 정보 부족이나 혼란스러운 감정 상태가 꿈에 투영된 것입니다.",
+      "interpretation_en": "Searching in darkness symbolizes being in a situation where the path forward is unclear and choices are difficult. It reflects insufficient information or a state of confused emotions projected into the dream."
+    },
+    {
+      "keyword_ko": "잃어버린 지갑을 찾는 꿈",
+      "keyword_en": "Searching for a lost wallet in a dream",
+      "interpretation_ko": "잃어버린 지갑을 찾아 헤매는 꿈은 금전적 불안이나 경제적 어려움에 대한 걱정을 반영합니다. 찾으면 재정 회복의 희망을, 찾지 못하면 금전 손실의 가능성을 암시합니다.",
+      "interpretation_en": "Searching for a lost wallet reflects financial anxiety or concern about economic difficulties. Finding it signals hope for financial recovery, while failing to find it hints at possible monetary loss."
+    },
+    {
+      "keyword_ko": "잃어버린 핸드폰을 찾는 꿈",
+      "keyword_en": "Searching for a lost phone in a dream",
+      "interpretation_ko": "핸드폰을 찾아 헤매는 꿈은 사회적 고립감이나 소통 단절에 대한 불안을 반영합니다. 중요한 연락을 놓치거나 인간관계에서 소외될까 봐 두려운 심리가 표출된 것입니다.",
+      "interpretation_en": "Searching for a lost phone reflects anxiety about social isolation or breakdown in communication. It expresses fear of missing important contacts or being left out of relationships."
+    },
+    {
+      "keyword_ko": "길을 찾아 헤매는 꿈",
+      "keyword_en": "Searching for a path in a dream",
+      "interpretation_ko": "어디로 가야 할지 길을 찾아 헤매는 꿈은 현실에서 중요한 결정을 내려야 하지만 방향을 못 잡고 있는 상태를 반영합니다. 직장, 진로, 인간관계에서의 고민이 꿈으로 나타난 것입니다.",
+      "interpretation_en": "Wandering in search of a path reflects an inability to make an important decision or find direction in real life. It manifests concerns about career, life choices, or personal relationships."
+    },
+    {
+      "keyword_ko": "집을 찾아 헤매는 꿈",
+      "keyword_en": "Searching for home in a dream",
+      "interpretation_ko": "집으로 가는 길을 찾지 못해 헤매는 꿈은 가정 불화나 소속감 상실을 암시하는 흉몽입니다. 가족 관계의 긴장이나 정서적 안식처를 잃은 상태를 나타냅니다.",
+      "interpretation_en": "Being unable to find one's way home is an inauspicious dream signaling family discord or a loss of belonging. It represents tension in family relationships or the loss of an emotional safe haven."
+    },
+    {
+      "keyword_ko": "차를 찾아 헤매는 꿈",
+      "keyword_en": "Searching for a lost car in a dream",
+      "interpretation_ko": "주차한 차를 찾지 못해 헤매는 꿈은 현재 진행 중인 일에 대한 확신이 부족하고 적극적으로 추진하지 못하고 있다는 것을 의미합니다. 자신의 능력에 대한 의구심이 반영된 꿈입니다.",
+      "interpretation_en": "Searching for a parked car reflects a lack of confidence in one's current endeavors and an inability to pursue them actively. It represents self-doubt about one's own capabilities."
+    },
+    {
+      "keyword_ko": "산에서 길을 찾아 헤매는 꿈",
+      "keyword_en": "Searching for a path on a mountain in a dream",
+      "interpretation_ko": "산에서 길을 잃고 헤매는 꿈은 지금까지와 다른 새로운 방향을 모색하며 긍정적으로 일이 진행될 것을 암시하는 길몽입니다. 도전을 통해 성장할 수 있음을 나타냅니다.",
+      "interpretation_en": "Getting lost on a mountain is an auspicious omen, suggesting that exploring new directions different from the past will lead to positive progress. It signals growth through challenge."
+    },
+    {
+      "keyword_ko": "숲 속에서 찾아 헤매는 꿈",
+      "keyword_en": "Searching in a forest in a dream",
+      "interpretation_ko": "숲 속에서 길을 잃고 헤매는 꿈은 노력에 비해 결과가 부진하거나 일이 뜻대로 풀리지 않을 것을 암시하는 흉몽입니다. 현실에서 환경이나 인간관계가 복잡하게 얽혀 있음을 나타냅니다.",
+      "interpretation_en": "Getting lost in a forest is an inauspicious omen indicating that results will fall short of efforts, or things will not go as planned. It reflects a complicated web of circumstances or relationships in reality."
+    },
+    {
+      "keyword_ko": "무언가를 필사적으로 찾는 꿈",
+      "keyword_en": "Frantically searching for something in a dream",
+      "interpretation_ko": "필사적으로 무언가를 찾아 헤매는 꿈은 사랑이나 인정에 대한 간절한 욕구를 상징하거나, 현실에서 긴급하게 해결해야 할 문제가 있음을 의미합니다. 심한 스트레스와 압박감이 반영된 꿈입니다.",
+      "interpretation_en": "Frantically searching for something symbolizes an intense yearning for love or recognition, or signals that an urgent matter needs resolution in reality. It reflects severe stress and pressure."
+    }
+  ],
+  "culturalContext": {
+    "korean": "한국의 전통 꿈해몽에서 '찾아 헤매는 꿈'은 단순한 심리적 반영을 넘어 현실에서 일어날 일에 대한 예지적 의미를 담고 있다고 여겨졌습니다. 예로부터 꿈은 신령이나 조상이 전해주는 메시지로 여겨졌으며, 헤매는 꿈은 삶의 방향에 대한 신의 경고 혹은 지시로 받아들여졌습니다. 특히 중요한 일을 앞두고 길을 찾지 못하는 꿈을 꾸면 그 일을 재고하거나 신중하게 준비하라는 신호로 해석했습니다. 반면, 헤매다가 결국 길을 찾는 꿈은 시련 끝의 성공이라는 긍정적 메시지로 받아들여졌으며, 이는 '고생 끝에 낙이 온다'는 한국 전통 가치관과 맞닿아 있습니다. 낯선 곳에서 헤매는 꿈은 미지의 세계에 대한 탐험, 즉 새로운 기회와 가능성의 도래를 상징하기도 했습니다.",
+    "english": "In Korean traditional dream interpretation, dreams of searching and wandering were seen as more than mere psychological reflections — they were believed to carry prophetic meaning about events to come. Dreams were traditionally regarded as messages from spirits or ancestors, and wandering dreams were interpreted as divine warnings or guidance about life's direction. If one dreamed of failing to find a path before an important event, it was taken as a signal to reconsider or prepare more carefully. Conversely, finding the path after wandering was received as a positive message of success after hardship, resonating with the Korean proverb that after great toil comes great joy (고생 끝에 낙이 온다). Wandering in unfamiliar places also symbolized the arrival of new opportunities and possibilities, representing an exploration of the unknown."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트 심리학에서 찾아 헤매는 꿈은 억압된 욕망이나 충족되지 않은 욕구가 무의식에서 표출된 것으로 해석됩니다. 찾는 대상은 종종 사랑, 인정, 또는 권력에 대한 잠재적 욕구를 상징하며, 찾지 못하는 좌절감은 현실에서 충족되지 않은 소망을 반영합니다. 프로이트는 이러한 꿈을 자아의 억제에도 불구하고 원초아(Id)가 표출하는 소망 충족의 시도로 보았습니다.",
+      "english": "In Freudian psychology, dreams of searching and wandering are interpreted as the unconscious expression of repressed desires or unfulfilled needs. The object being sought often symbolizes latent desires for love, recognition, or power, while the frustration of not finding it reflects unsatisfied wishes in waking life. Freud would view such dreams as the Id's attempt at wish fulfillment, breaking through the ego's suppression."
+    },
+    "jungian": {
+      "korean": "융 심리학에서 찾아 헤매는 꿈은 개성화(individuation) 과정의 일부로 해석됩니다. 헤매는 행위는 자아가 집단 무의식 속에서 원형(archetype)을 탐색하는 여정을 상징하며, 찾는 대상은 완전한 자아실현을 위해 통합해야 할 그림자(shadow) 또는 잃어버린 자기(Self)의 측면을 나타냅니다. 이 꿈은 내면의 성장과 변환을 향한 무의식의 부름으로 이해됩니다.",
+      "english": "In Jungian psychology, searching dreams are interpreted as part of the individuation process. The act of wandering symbolizes the ego's journey through the collective unconscious in search of archetypes, while what is sought represents aspects of the Shadow or the Self that need to be integrated for complete self-realization. This dream is understood as the unconscious call toward inner growth and transformation."
+    },
+    "modern": {
+      "korean": "현대 심리학에서는 찾아 헤매는 꿈을 인지적 처리 과정과 정서적 조절의 관점에서 바라봅니다. 이 꿈은 주로 삶의 중요한 결정 앞에 선 불안감, 목표 달성에 대한 압박, 또는 일상의 과도한 스트레스가 수면 중 무의식으로 나타난 것으로 해석됩니다. 연구에 따르면 이러한 꿈은 뇌가 낮 동안의 미해결 문제를 처리하고 해결책을 모색하는 과정에서 발생한다고 알려져 있습니다.",
+      "english": "Modern psychology views searching dreams through the lens of cognitive processing and emotional regulation. These dreams are primarily interpreted as manifestations of anxiety over major life decisions, pressure to achieve goals, or excessive daily stress emerging unconsciously during sleep. Research suggests such dreams occur as the brain processes unresolved daytime problems and searches for solutions."
+    },
+    "crossCultural": {
+      "korean": "문화권을 초월하여 '찾아 헤매는 꿈'은 보편적인 인간 경험으로 나타납니다. 서양에서는 이를 삶의 의미와 목적을 향한 실존적 탐구로 보는 반면, 동양 문화권에서는 현세의 인연과 운명에 대한 신호로 받아들이는 경향이 있습니다. 어느 문화권에서든 헤매다가 찾는 꿈은 희망과 회복탄력성의 상징으로, 찾지 못하는 꿈은 경각심의 메시지로 해석되는 공통점이 있습니다.",
+      "english": "Across cultures, dreams of searching and wandering emerge as a universal human experience. In Western traditions, they tend to be seen as existential quests for life's meaning and purpose, while Eastern cultures often interpret them as signals about fate and karmic connections. Regardless of cultural background, finding after searching is universally symbolized as hope and resilience, while failing to find serves as a cautionary message."
+    }
+  },
+  "relatedSymbols": [
+    "lost-dream",
+    "maze-dream",
+    "journey-dream",
+    "flying-dream",
+    "running-dream",
+    "door-dream",
+    "key-dream",
+    "house-dream",
+    "forest-dream",
+    "road-dream"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "찾아 헤매는 꿈",
+      "무언가를 찾는 꿈",
+      "헤매는 꿈 해몽",
+      "길을 잃는 꿈 해몽",
+      "찾는 꿈 길몽 흉몽",
+      "잃어버린 것을 찾는 꿈",
+      "사람을 찾는 꿈 해몽",
+      "물건을 찾아 헤매는 꿈",
+      "집을 찾지 못하는 꿈",
+      "길을 찾아 헤매는 꿈 의미",
+      "어둠 속에서 찾는 꿈",
+      "꿈에서 무언가를 찾다"
+    ],
+    "english": [
+      "searching dream meaning",
+      "dream of looking for something",
+      "lost and searching dream interpretation",
+      "dream about finding lost object",
+      "dream wandering and searching",
+      "searching for someone in a dream",
+      "can't find something in dream meaning",
+      "dream dictionary search"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "무언가를 찾아 헤매는 꿈은 길몽인가요, 흉몽인가요?",
+      "answer_ko": "찾아 헤매는 꿈은 결과에 따라 다르게 해석됩니다. 헤매다가 결국 찾아내는 꿈은 현재의 어려움이 해결될 것을 암시하는 길몽이지만, 아무리 찾아도 발견하지 못하는 꿈은 목표 달성의 어려움이나 방향 상실을 경고하는 흉몽으로 해석됩니다. 또한 낯선 장소에서 헤매는 꿈은 새로운 가능성이 열리는 길몽으로 보기도 합니다.",
+      "question_en": "Is a dream about searching for something auspicious or inauspicious?",
+      "answer_en": "Dreams of searching are interpreted differently depending on the outcome. Finding what you sought after wandering is an auspicious omen signaling that current difficulties will be resolved, while failing to find it despite extensive searching warns of difficulty achieving goals or a loss of direction. Wandering in an unfamiliar place is also sometimes seen as an auspicious sign of new possibilities opening up."
+    },
+    {
+      "question_ko": "사람을 찾아 헤매는 꿈은 무슨 의미인가요?",
+      "answer_ko": "특정 사람을 찾아 헤매는 꿈은 그 사람에 대한 그리움, 해결되지 않은 감정, 또는 관계 회복에 대한 욕구를 반영합니다. 연인을 찾는 꿈은 관계에 대한 불안을, 가족을 찾는 꿈은 가정의 안정에 대한 바람을 나타냅니다. 현실에서 그 사람과의 관계를 돌아보고 필요하다면 먼저 연락해 보는 것도 좋습니다.",
+      "question_en": "What does it mean to search for a person in a dream?",
+      "answer_en": "Searching for a specific person in a dream reflects longing, unresolved emotions, or a desire to restore a relationship. Searching for a romantic partner indicates relationship anxiety, while searching for family reflects a wish for domestic stability. It may be worth reflecting on your relationship with that person and reaching out if needed."
+    },
+    {
+      "question_ko": "잃어버린 물건을 찾아 헤매는 꿈은 어떻게 해석하나요?",
+      "answer_ko": "잃어버린 물건을 찾아 헤매는 꿈은 물건의 종류에 따라 의미가 달라집니다. 지갑을 찾는 꿈은 금전적 불안을, 핸드폰을 찾는 꿈은 소통 단절에 대한 두려움을, 열쇠를 찾는 꿈은 문제 해결의 열쇠를 아직 찾지 못한 상태를 상징합니다. 꿈에서 물건을 찾았다면 그 문제가 곧 해결될 것을, 찾지 못했다면 계속 어려움이 이어질 수 있음을 암시합니다.",
+      "question_en": "How is a dream of searching for a lost object interpreted?",
+      "answer_en": "The meaning of searching for a lost object depends on what was lost. Searching for a wallet symbolizes financial anxiety, a phone represents fear of communication breakdown, and keys symbolize not yet having found the solution to a problem. Finding the object in the dream suggests the issue will soon be resolved, while failing to find it hints that difficulties may continue."
+    },
+    {
+      "question_ko": "어둠 속에서 무언가를 찾아 헤매는 꿈은 무슨 뜻인가요?",
+      "answer_ko": "어둠 속에서 찾아 헤매는 꿈은 앞날이 불투명하고 선택이 어려운 상황에 처해 있음을 상징하는 흉몽입니다. 정보 부족, 불확실성, 혼란스러운 심리 상태가 꿈에 투영된 것으로, 중요한 결정을 내리기 전에 충분한 정보 수집과 신중한 판단이 필요함을 경고합니다.",
+      "question_en": "What does it mean to search in darkness in a dream?",
+      "answer_en": "Searching in darkness is an inauspicious omen symbolizing a situation where the path forward is unclear and choices are difficult. It reflects a lack of information, uncertainty, or a confused state of mind, warning that sufficient information gathering and careful judgment are needed before making important decisions."
+    },
+    {
+      "question_ko": "찾아 헤매다가 길을 찾는 꿈이 왜 길몽인가요?",
+      "answer_ko": "한국 전통 꿈해몽에서는 고난 끝에 목표를 이루는 꿈을 긍정적으로 해석하는 경향이 있습니다. 헤매다가 길을 찾는 꿈은 '고생 끝에 낙이 온다'는 전통 가치관을 반영하여, 현재의 어려움과 혼란이 결국 해소되고 원하는 바를 이룰 수 있다는 희망의 메시지로 받아들여집니다.",
+      "question_en": "Why is a dream of finding the path after wandering considered auspicious?",
+      "answer_en": "In Korean traditional dream interpretation, there is a tendency to interpret dreams where goals are achieved after hardship positively. Finding the path after wandering reflects the traditional value that joy comes after great toil (고생 끝에 낙이 온다), delivering a hopeful message that current difficulties and confusion will ultimately be resolved and one's wishes will be fulfilled."
+    },
+    {
+      "question_ko": "자주 찾아 헤매는 꿈을 꾼다면 어떤 의미인가요?",
+      "answer_ko": "반복적으로 찾아 헤매는 꿈을 꾼다면, 현실에서 장기적인 스트레스, 방향 상실감, 또는 해결되지 않은 내면의 갈등이 지속되고 있다는 신호일 수 있습니다. 자신의 삶에서 어떤 부분이 불안정하거나 방향을 잃었는지 돌아보고, 필요하다면 전문가의 도움을 받아 근본적인 원인을 탐색해 보는 것이 좋습니다.",
+      "question_en": "What does it mean if you frequently dream of searching and wandering?",
+      "answer_en": "Recurring dreams of searching and wandering may signal ongoing long-term stress, a persistent sense of lost direction, or unresolved inner conflict in waking life. It is worth reflecting on which aspects of your life feel unstable or directionless, and if necessary, seeking professional support to explore the underlying causes."
+    }
+  ]
+}

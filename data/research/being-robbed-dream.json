@@ -1,0 +1,227 @@
+{
+  "symbol": {
+    "korean": "도둑 맞는 꿈",
+    "english": "Dream of being robbed",
+    "slug": "being-robbed-dream"
+  },
+  "summary": {
+    "korean": "도둑 맞는 꿈은 역몽(逆夢)의 대표적인 사례로, 도둑이 근심과 걱정거리를 함께 가져간다는 민속 믿음에 따라 뜻밖의 횡재나 재물운 상승을 암시하는 길몽으로 해석되는 경우가 많으며, 무엇을 잃었는지에 따라 길흉이 달라집니다.",
+    "english": "A dream of being robbed is one of the most classic examples of 역몽 (reverse-meaning dreams) in Korean folk tradition — the thief is said to carry away worries and misfortune along with the stolen item, often signaling unexpected windfall or rising financial luck, though the specific item stolen determines whether the dream is auspicious or inauspicious."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "도둑이 돈이나 지갑을 훔쳐 달아나는 꿈은 대표적인 역몽으로, 도둑이 근심과 걱정거리를 함께 가져간다는 민속 믿음에서 비롯됩니다. 현실에서 금전운이 크게 상승하고, 뜻밖의 수입이나 횡재가 찾아올 것을 암시해요.",
+      "english": "A thief stealing money or a wallet is a classic 역몽 (reverse dream). According to Korean folk belief, the thief carries away worries and financial burdens along with the stolen item, signaling a surge in financial luck, an unexpected windfall, or a salary increase in waking life.",
+      "context": "돈/지갑 도난 — 역몽으로 금전운 상승"
+    },
+    {
+      "type": "길몽",
+      "korean": "도둑이 집에 들어와 물건을 훔쳐 달아나는 꿈은 현실의 고민거리와 장애물이 깨끗이 해소될 것을 상징해요. 오랫동안 풀리지 않던 문제가 해결되고 운이 트이는 길조로 풀이됩니다.",
+      "english": "A dream in which a thief breaks into the home and flees with belongings symbolizes the resolution of long-standing worries and obstacles in waking life. Problems that have been difficult to solve are finally cleared away, and fortune is said to open up for the dreamer.",
+      "context": "집 침입 후 도주 — 근심 해소, 운세 개선"
+    },
+    {
+      "type": "길몽",
+      "korean": "도둑을 잡는 꿈은 최고의 길몽 중 하나예요. 오랫동안 원하던 취직에 성공하거나 금전운이 크게 상승하는 것을 의미해요. 경쟁에서 승리하거나 잃었던 권리를 회복하는 것을 암시하기도 합니다.",
+      "english": "Catching the thief is one of the most auspicious scenarios. This dream predicts success in landing a desired job, a major leap in financial luck, or victory in a competitive situation. It also suggests recovering something lost — be it property, status, or rights.",
+      "context": "도둑 체포 — 취직, 금전운 상승, 경쟁 승리"
+    },
+    {
+      "type": "길몽",
+      "korean": "도둑이 보석이나 귀중품을 훔쳐 가는 꿈은 역설적으로 큰 행운과 재물의 획득을 예고해요. 뜻밖의 선물, 승진, 또는 평생 기억에 남을 경사가 찾아올 것을 암시합니다.",
+      "english": "Dreaming that a thief steals jewelry or valuables paradoxically foretells great fortune and material gain. Unexpected gifts, career promotions, or life-changing good news are predicted for the dreamer.",
+      "context": "보석/귀중품 도난 — 재물 획득, 승진, 경사"
+    },
+    {
+      "type": "흉몽",
+      "korean": "신발을 도둑맞는 꿈은 배우자나 연인에게 배신을 당하게 될 것을 경고하는 흉몽이에요. 현재의 입장이나 기반이 불안정해질 수 있으니 인간관계에 주의가 필요합니다.",
+      "english": "Dreaming that shoes are stolen is a warning of betrayal by a spouse or romantic partner. In Korean folk symbolism, shoes represent one's footing and standing in life — losing them to a thief signals that your current position or relationship is becoming precarious.",
+      "context": "신발 도난 — 연인/배우자의 배신, 관계 불안정"
+    },
+    {
+      "type": "흉몽",
+      "korean": "옷을 도둑맞는 꿈은 부부나 연인 사이에 갈등이 심해지고 잦은 다툼으로 이어질 것을 암시하는 흉몽이에요. 사회적 체면이나 명예에 손상이 올 수 있다는 경고이기도 합니다.",
+      "english": "Having clothing stolen in a dream signals deepening conflicts and frequent arguments between spouses or romantic partners. In Korean interpretation, clothing represents social status and personal dignity — its theft warns of reputation damage or loss of face.",
+      "context": "옷 도난 — 부부/연인 갈등, 명예 손상"
+    },
+    {
+      "type": "흉몽",
+      "korean": "가방을 도둑맞는 꿈은 직장을 잃거나 사업 경영에 위기가 찾아올 것을 경고하는 꿈이에요. 소중한 기회나 인간관계를 잃게 될 수도 있으니 주의가 필요합니다.",
+      "english": "A dream in which a bag is stolen warns of job loss or a business crisis on the horizon. Bags symbolize what you carry — your responsibilities, assets, and relationships — making this dream a signal to guard against sudden loss in professional or personal spheres.",
+      "context": "가방 도난 — 실직, 사업 위기"
+    },
+    {
+      "type": "흉몽",
+      "korean": "도둑과 싸우다 지는 꿈은 현실에서의 경쟁에서 패배하거나 대인관계가 악화될 것을 암시해요. 진행 중인 계획이 실패하거나 재물 손실로 이어질 수 있다는 경고이기도 합니다.",
+      "english": "Losing a fight with a thief in a dream predicts competitive defeat or deteriorating relationships with others. It warns that current plans may fail or result in financial loss, and advises against risky moves in the near term.",
+      "context": "도둑과의 싸움 패배 — 경쟁 패배, 재물 손실"
+    },
+    {
+      "type": "neutral",
+      "korean": "도둑이 들어왔는데 훔쳐갈 것이 없어 그냥 돌아가는 꿈은 현재 심각한 경제적 어려움이나 심리적 공허함을 반영하는 꿈이에요. 스스로의 상태를 돌아보고 새로운 도전을 모색할 시기라는 신호로 해석할 수 있어요.",
+      "english": "Dreaming of a thief who finds nothing to steal and leaves empty-handed reflects deep economic hardship or emotional emptiness in waking life. This dream serves as a neutral signal to reassess your current circumstances and look for new opportunities.",
+      "context": "도난 물건 없음 — 경제적 어려움, 내면 공허함 반영"
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "돈을 도둑 맞는 꿈",
+      "keyword_en": "dream of having money stolen",
+      "interpretation_ko": "역몽으로 금전운 상승을 예고하는 길몽이에요. 꿈에서 돈을 잃을수록 현실에서는 뜻밖의 수입이나 재물 획득이 이루어질 가능성이 높아집니다. 특히 돈과 관련된 사업이나 투자에서 좋은 성과가 기대돼요.",
+      "interpretation_en": "An auspicious reverse-meaning dream: the more money lost in the dream, the greater the likelihood of unexpected income or financial gain in waking life. Particularly favors ventures or investments involving money."
+    },
+    {
+      "keyword_ko": "지갑을 도둑 맞는 꿈",
+      "keyword_en": "dream of wallet being stolen",
+      "interpretation_ko": "지갑을 도둑맞는 꿈은 꿈과 현실이 반대로 나타나는 역몽의 대표적인 사례예요. 금전운이 상승하고 뜻밖의 횡재가 찾아올 수 있으며, 월급 인상이나 예상치 못한 수입이 생길 가능성이 높아집니다.",
+      "interpretation_en": "Wallet theft is one of the most well-known reverse-meaning dreams in Korean tradition. Financial luck rises sharply — expect an unexpected windfall, salary increase, or surprising income source in the near future."
+    },
+    {
+      "keyword_ko": "집에 도둑이 드는 꿈",
+      "keyword_en": "dream of a thief breaking into the house",
+      "interpretation_ko": "집에 도둑이 들어와 물건을 훔쳐 달아나면 근심과 걱정거리가 해소될 것을 암시하는 길몽이에요. 오랫동안 해결되지 않던 문제가 풀리고 운세가 트이는 신호로 해석돼요.",
+      "interpretation_en": "A thief breaking in and fleeing the house with items is an auspicious dream signaling that existing worries and unresolved problems will soon be cleared away. Fortune is said to open up for the dreamer in the wake of this dream."
+    },
+    {
+      "keyword_ko": "도둑을 잡는 꿈",
+      "keyword_en": "dream of catching a thief",
+      "interpretation_ko": "도둑을 잡는 꿈은 최고의 길몽 중 하나예요. 원하던 취직이나 사업 목표 달성을 암시하고, 복권 당첨이나 큰 금전 행운이 찾아올 수도 있어요. 경쟁에서 승리하고 잃었던 것을 되찾는 것을 의미합니다.",
+      "interpretation_en": "Catching the thief is among the most auspicious dream scenarios. It predicts success in job hunting, reaching business goals, and potentially winning a lottery or receiving a large financial prize. It also symbolizes regaining something previously lost."
+    },
+    {
+      "keyword_ko": "도둑이 도망가는 꿈",
+      "keyword_en": "dream of a thief escaping",
+      "interpretation_ko": "도둑이 물건을 들고 달아나는 꿈은 현실의 걱정거리를 함께 가져가는 것으로 해석돼요. 진행 중인 일이 순조롭게 해결되고 운세가 호전되는 길조입니다. 반면 도둑을 잡으려 했으나 놓친 꿈은 목표 달성이 어려울 수 있다는 신호예요.",
+      "interpretation_en": "A thief fleeing with stolen goods is interpreted as carrying away real-life worries. This is a positive omen signaling that ongoing matters will resolve smoothly. However, if you tried and failed to catch the thief, it warns that current goals may be difficult to achieve."
+    },
+    {
+      "keyword_ko": "소중한 물건을 도둑 맞는 꿈",
+      "keyword_en": "dream of losing a precious possession to a thief",
+      "interpretation_ko": "소중히 여기는 물건을 도둑맞는 꿈은 대체로 역몽으로 해석돼요. 물건의 종류에 따라 달라지는데, 보석이나 귀중품이면 뜻밖의 큰 행운을, 신발이나 옷이면 관계나 명예의 손상을 암시할 수 있어요.",
+      "interpretation_en": "Losing a prized possession to a thief is generally a reverse-meaning dream. The nature of the item matters: jewelry and valuables point to unexpected great fortune, while shoes or clothing warn of relationship damage or loss of social standing."
+    },
+    {
+      "keyword_ko": "소매치기 당하는 꿈",
+      "keyword_en": "dream of being pickpocketed",
+      "interpretation_ko": "소매치기를 당하는 꿈은 욕망이 충족되고 스트레스가 해소될 것을 암시하는 꿈이에요. 사람이 많은 곳에서 당하는 꿈은 사회적 관계에서 의도치 않게 손해를 볼 수 있다는 주의 신호가 되기도 합니다.",
+      "interpretation_en": "Being pickpocketed in a dream often signals that desires will be fulfilled and stress will lift. However, if the pickpocketing occurs in a crowd, it may also warn of unintended social or financial losses through carelessness in relationships."
+    },
+    {
+      "keyword_ko": "강도를 만나는 꿈",
+      "keyword_en": "dream of encountering an armed robber",
+      "interpretation_ko": "무장 강도를 만나는 꿈은 강력한 귀인이나 지원자를 만나게 될 것을 암시하는 경우가 많아요. 위협적인 상황에서 도움의 손길이 나타나고 어려운 상황을 극복하게 될 것을 예고하기도 합니다.",
+      "interpretation_en": "Encountering an armed robber in a dream often predicts meeting a powerful ally or benefactor. Despite the threatening imagery, the dream suggests that help will appear at a critical moment, enabling the dreamer to overcome a difficult situation."
+    },
+    {
+      "keyword_ko": "신발을 도둑 맞는 꿈",
+      "keyword_en": "dream of shoes being stolen",
+      "interpretation_ko": "신발을 도둑맞는 꿈은 흉몽으로, 배우자나 연인에게 배신을 당하게 될 것을 경고해요. 신발은 현재의 위치와 기반을 상징하는 만큼, 인간관계와 기반이 흔들릴 수 있다는 신호입니다.",
+      "interpretation_en": "Shoe theft is a warning dream: it foretells betrayal by a spouse or romantic partner. Since shoes represent one's footing and position in life, this dream signals instability in relationships and personal standing."
+    },
+    {
+      "keyword_ko": "자동차를 도둑 맞는 꿈",
+      "keyword_en": "dream of car being stolen",
+      "interpretation_ko": "자동차를 도둑맞는 꿈은 역설적으로 커다란 직업적 성공과 사회적 지위 상승을 예고하는 길몽이에요. 중요한 결정에서 옳은 선택을 하게 되어 좋은 성과를 거두게 될 것을 암시합니다.",
+      "interpretation_en": "Having a car stolen is paradoxically an auspicious dream, forecasting major career success and a rise in social standing. It suggests the dreamer will make the right choice in an important decision, leading to excellent outcomes."
+    }
+  ],
+  "culturalContext": {
+    "korean": "한국의 꿈 해몽에서 도둑 맞는 꿈은 역몽(逆夢)의 가장 대표적인 사례 중 하나로 꼽혀요. 역몽이란 꿈의 내용과 현실이 반대로 나타난다는 이론으로, 삼국유사(三國遺事)를 비롯한 오랜 문헌 기록에서도 그 흔적을 찾아볼 수 있습니다. 이러한 해석 전통의 배경에는 심리적 보상 작용, 즉 현실에서 얻기 어려운 것을 꿈이 반대 이미지로 예고한다는 민속적 믿음이 자리잡고 있어요.\n\n도둑이 물건을 훔쳐 간다는 것은 단순한 재물 손실이 아니라, 꿈속의 도둑이 근심·걱정·액운까지 함께 가져간다는 상징적 의미를 지닙니다. 이 때문에 전통 민속에서는 도둑 맞는 꿈을 꾼 뒤 오히려 복권 구매나 새로운 사업 시도를 권장하기도 했어요. 반면 신발이나 옷처럼 사람의 사회적 정체성과 직결된 물건을 잃는 꿈은 인간관계나 명예의 손상을 경고하는 흉몽으로 엄격히 구분되었습니다. 이처럼 도둑 꿈의 길흉은 잃어버린 물건의 상징성과 꿈에서 느끼는 감정, 그리고 상황의 전개에 따라 세밀하게 판단하는 것이 한국 해몽 전통의 특징입니다.",
+    "english": "In Korean dream interpretation (꿈해몽), being robbed is one of the most iconic examples of 역몽 (yeokmong) — the principle that a dream's imagery is reversed in real-world outcome. This tradition traces back to classical records including the Samguk Yusa (삼국유사, Memorabilia of the Three Kingdoms), where dreams of loss and hardship were frequently reinterpreted as omens of good fortune. The underlying philosophy is one of psychological compensation: what reality withholds, the unconscious offers in inverted symbolic form.\n\nThe thief in these dreams is not merely a criminal figure — he is a symbolic carrier who takes away the dreamer's anxieties and misfortunes along with the stolen item. This is why traditional Korean folk practice encouraged activities like lottery ticket purchases after experiencing a robbery dream. However, dreams involving shoes or clothing — items tied to personal identity, social standing, and intimate relationships — were carefully distinguished as inauspicious, warning of betrayal or reputational harm. The art of Korean dream interpretation lies in this nuanced reading of what was taken, the emotions experienced, and how the dream scenario unfolded."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트의 관점에서 도둑 맞는 꿈은 무의식 속에 억압된 박탈감이나 소유 욕구와 관련이 있어요. 소중한 것을 빼앗긴다는 경험은 유아기의 분리 불안이나 자아 경계가 침범되는 것에 대한 두려움을 상징할 수 있습니다. 도둑이라는 인물은 때때로 금지된 욕망을 실행하는 자아의 또 다른 면을 나타내기도 해요.",
+      "english": "From a Freudian perspective, being robbed in a dream connects to repressed feelings of deprivation and possessive desire in the unconscious. The experience of having something precious taken away may symbolize early separation anxiety or fear of ego-boundary violation. The thief figure can also represent a shadow aspect of the self — the part that acts on forbidden impulses the waking ego suppresses."
+    },
+    "jungian": {
+      "korean": "융의 분석심리학에서 도둑은 그림자(Shadow) 원형의 전형적인 현현이에요. 도둑이 훔쳐 가는 물건은 꿈꾸는 사람이 의식적으로 붙들고 있으나 사실은 놓아야 할 것들을 상징할 수 있습니다. 이러한 꿈은 자아(Ego)와 자기(Self) 사이의 갈등, 또는 성장을 위해 낡은 것을 내려놓아야 하는 개성화(Individuation) 과정의 일환으로 해석될 수 있어요.",
+      "english": "In Jungian analytical psychology, the thief is a classic manifestation of the Shadow archetype — the disowned or unacknowledged aspect of the psyche. The stolen object may symbolize something the dreamer consciously clings to but needs to release for growth. Robbery dreams can reflect the tension between Ego and Self, or signal the individuation process calling the dreamer to shed outdated identities or attachments."
+    },
+    "modern": {
+      "korean": "현대 심리학에서는 도둑 맞는 꿈을 일상적인 불안과 스트레스의 표출로 이해해요. 경제적 불확실성, 직업적 위기, 또는 인간관계에서의 신뢰 상실이 꿈속에서 도난의 이미지로 나타날 수 있습니다. 특히 새로운 일을 시작하거나 중요한 결정을 앞둔 시기에 이런 꿈을 자주 꾼다면, 변화에 대한 두려움과 통제력 상실에 대한 불안을 처리하고 있다는 신호로 볼 수 있어요.",
+      "english": "Modern psychology views robbery dreams as expressions of everyday anxiety and stress. Economic uncertainty, professional insecurity, or eroded trust in relationships can all surface as theft imagery during sleep. Frequently experiencing such dreams during periods of major change or important decisions is understood as the mind processing fear of loss of control and apprehension about the unknown."
+    },
+    "crossCultural": {
+      "korean": "도둑 꿈은 문화권을 초월하여 보편적으로 나타나는 꿈의 주제예요. 서양의 많은 전통에서도 강도나 도난의 꿈은 예고 없이 찾아오는 변화, 배신, 또는 감추어진 위협을 상징해요. 반면 한국과 동아시아의 해몽 전통은 독특하게도 이러한 부정적 이미지를 역전시켜 횡재와 행운의 전조로 읽는 문화적 지혜를 발달시켰습니다. 이 차이는 동양의 음양(陰陽) 철학, 즉 대립이 상호 전환하는 세계관을 꿈 해석에 적용한 결과로 이해할 수 있어요.",
+      "english": "Robbery and theft are near-universal themes in human dreaming across cultures. In many Western traditions, dreams of being robbed symbolize unexpected change, betrayal, or hidden threats. What makes Korean and broader East Asian dream interpretation distinctive is the systematic application of reversal logic — negative imagery is decoded as a positive omen. This reflects the influence of yin-yang (음양) philosophy, in which opposites are understood as mutually transforming, giving Korean dreamers a culturally specific lens of resilience and optimism when facing threatening dream scenarios."
+    }
+  },
+  "relatedSymbols": [
+    "stealing-dream",
+    "caught-stealing-dream",
+    "money-dream",
+    "wallet-dream",
+    "burglar-dream",
+    "losing-money-dream",
+    "home-intrusion-dream"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "도둑 맞는 꿈",
+      "도둑 맞는 꿈 해몽",
+      "도둑 꿈",
+      "집에 도둑 드는 꿈",
+      "지갑 도둑맞는 꿈",
+      "돈을 도둑맞는 꿈",
+      "도둑을 잡는 꿈",
+      "소매치기 당하는 꿈",
+      "강도 꿈 해몽",
+      "도둑 맞는 꿈 길몽",
+      "도둑 꿈 역몽",
+      "신발 도둑맞는 꿈",
+      "자동차 도둑맞는 꿈",
+      "보석 도둑맞는 꿈",
+      "소중한 물건 도둑맞는 꿈"
+    ],
+    "english": [
+      "being robbed dream meaning",
+      "dream of being robbed interpretation",
+      "thief dream Korean",
+      "wallet stolen dream meaning",
+      "house burglary dream",
+      "catching thief dream",
+      "robbery dream good omen",
+      "Korean dream interpretation robbery"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "도둑 맞는 꿈은 길몽인가요, 흉몽인가요?",
+      "answer_ko": "도둑 맞는 꿈은 잃은 물건의 종류에 따라 길흉이 달라져요. 돈, 지갑, 보석 등을 잃는 꿈은 역몽으로 금전운 상승과 횡재를 암시하는 길몽으로 풀이되는 경우가 많아요. 반면 신발이나 옷을 잃는 꿈은 관계나 명예의 손상을 경고하는 흉몽으로 해석됩니다.",
+      "question_en": "Is a dream of being robbed a good omen or bad omen?",
+      "answer_en": "It depends on what was stolen. In Korean dream interpretation, losing money, a wallet, or jewelry to a thief is often a 역몽 (reverse-meaning dream) — an auspicious sign of rising financial luck and unexpected windfall. However, losing shoes or clothing warns of relationship betrayal or damage to social standing."
+    },
+    {
+      "question_ko": "도둑을 잡는 꿈은 어떤 의미인가요?",
+      "answer_ko": "도둑을 잡는 꿈은 최고의 길몽 중 하나로 꼽혀요. 원하던 취직이나 사업 목표 달성, 금전운 상승, 경쟁 승리를 예고하는 꿈입니다. 잃었던 것을 되찾게 되는 상황을 암시하기도 해요.",
+      "question_en": "What does it mean to catch a thief in a dream?",
+      "answer_en": "Catching a thief is considered one of the best possible dream scenarios in Korean tradition. It predicts landing a desired job, achieving a business goal, a surge in financial luck, or winning in a competitive situation. It also signals the recovery of something previously lost."
+    },
+    {
+      "question_ko": "지갑을 도둑맞는 꿈은 왜 길몽인가요?",
+      "answer_ko": "한국 해몽 전통에서 지갑을 잃는 꿈은 역몽(逆夢)의 대표적 사례예요. 도둑이 지갑과 함께 근심과 재난을 가져간다고 여겨, 현실에서는 오히려 금전운이 상승하고 뜻밖의 수입이 찾아올 것으로 풀이됩니다.",
+      "question_en": "Why is dreaming of a wallet being stolen considered a good sign?",
+      "answer_en": "In Korean dream interpretation, wallet theft is a classic 역몽 (reverse dream). The thief is believed to take away the dreamer's worries and misfortune along with the wallet, so in waking life, financial luck rises and unexpected income is predicted — the opposite of what the dream imagery suggests."
+    },
+    {
+      "question_ko": "집에 도둑이 드는 꿈을 꾸면 실제로 도둑이 들 수 있나요?",
+      "answer_ko": "전통 해몽에서는 오히려 반대로 해석해요. 집에 도둑이 들어 물건을 훔쳐 달아나는 꿈은 근심과 걱정이 해소되고 운세가 트이는 길몽으로 풀이되는 경우가 많습니다. 다만 꿈은 참고로만 활용하고, 현실적인 보안은 항상 신경 쓰는 것이 좋아요.",
+      "question_en": "If I dream of a thief breaking into my house, does it mean I'll actually be robbed?",
+      "answer_en": "In traditional Korean dream interpretation, the meaning is typically the opposite. A thief entering your home and fleeing with items is usually read as an auspicious sign — your worries will clear and your fortune will improve. That said, dreams are treated as symbolic guidance, not literal predictions, so practical home security should not be ignored."
+    },
+    {
+      "question_ko": "신발을 도둑맞는 꿈의 의미는 무엇인가요?",
+      "answer_ko": "신발은 현재의 위치, 기반, 그리고 가까운 인간관계를 상징해요. 신발을 도둑맞는 꿈은 배우자나 연인에게 배신을 당하거나, 현재의 입장이 불안정해질 것을 경고하는 흉몽으로 해석됩니다. 중요한 인간관계를 돌아보는 계기로 삼는 것이 좋아요.",
+      "question_en": "What does it mean to dream of having shoes stolen?",
+      "answer_en": "Shoes symbolize your footing, current position, and closest relationships. A dream of shoe theft is interpreted as a warning of betrayal by a spouse or romantic partner, or of instability in your current standing in life. It is a prompt to examine important relationships and guard against deception."
+    },
+    {
+      "question_ko": "도둑 꿈과 역몽은 어떤 관계인가요?",
+      "answer_ko": "역몽이란 꿈의 내용과 현실이 반대로 나타난다는 한국 민속 해몽의 핵심 이론이에요. 도둑 맞는 꿈은 역몽의 가장 대표적인 사례로, 꿈에서 잃은 것이 현실에서는 얻는 것을 의미한다는 믿음에서 비롯됩니다. 이 개념은 음양의 상호 전환이라는 동아시아 철학적 세계관을 꿈 해석에 적용한 것이에요.",
+      "question_en": "What is the relationship between robbery dreams and 역몽 (reverse dreams)?",
+      "answer_en": "역몽 (yeokmong) is a core principle of Korean folk dream interpretation: the dream's content predicts the opposite in reality. Being robbed is its most iconic example — what is lost in the dream is gained in waking life. This concept applies the East Asian philosophical worldview of yin-yang transformation, where opposites are naturally and continuously converting into one another."
+    }
+  ]
+}

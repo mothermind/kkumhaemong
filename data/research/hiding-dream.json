@@ -1,0 +1,215 @@
+{
+  "symbol": {
+    "korean": "숨는 꿈",
+    "english": "Dream of hiding",
+    "slug": "hiding-dream"
+  },
+  "summary": {
+    "korean": "숨는 꿈은 대체로 현실의 부담이나 갈등으로부터 벗어나고 싶은 심리적 욕구를 반영하는 흉몽으로, 상황과 결말에 따라 문제 해결 능력이나 내면의 두려움을 나타내기도 해요.",
+    "english": "Dreams of hiding generally reflect a psychological desire to escape real-world pressures and conflicts, often classified as inauspicious; however, certain hiding scenarios—such as successfully sheltering indoors or hiding and being discovered—can signal resilience, blessings, or the eventual resolution of problems."
+  },
+  "interpretations": [
+    {
+      "type": "흉몽",
+      "korean": "누군가로부터 쫓기며 숨는 꿈은 현실에서 해결하지 못한 문제나 책임으로부터 도피하려는 심리를 나타내요. 직면해야 할 갈등을 외면하고 있다는 신호로, 스트레스와 불안이 무의식에 투영된 것이에요.",
+      "english": "Being chased and hiding in a dream indicates an avoidance psychology toward unresolved problems or responsibilities in waking life. It signals that you are turning away from a conflict that needs confronting, with stress and anxiety projected onto the unconscious.",
+      "context": "쫓기다가 숨는 꿈 — 현실 도피 심리, 미해결 갈등"
+    },
+    {
+      "type": "길몽",
+      "korean": "집 안이나 건물 안에 숨는 꿈은 어려운 상황에서도 스스로를 지킬 수 있는 능력을 갖추고 있다는 의미예요. 위험을 피하고 안전하게 자신을 보호하는 지혜가 있다는 긍정적인 신호로 해석돼요.",
+      "english": "Hiding inside a house or building signals that you possess the ability to protect yourself and navigate difficult situations wisely. It is an auspicious sign indicating resourcefulness and the capacity to overcome challenges by seeking shelter.",
+      "context": "집·건물 안에 숨는 꿈 — 자기 보호 능력, 위기 극복"
+    },
+    {
+      "type": "길몽",
+      "korean": "숨바꼭질 중 발각되는 꿈은 역설적으로 좋은 꿈이에요. 숨겨진 노력과 재능이 드디어 세상에 알려지고 축복이 쏟아질 것을 암시해요. 숨어 있던 것이 밝혀지는 것은 새로운 기회와 인정을 의미해요.",
+      "english": "Being discovered during hide-and-seek in a dream is paradoxically auspicious. It symbolizes that hidden efforts and talents will finally come to light, bringing recognition and a flood of blessings. Being revealed after hiding suggests new opportunities and acknowledgment.",
+      "context": "숨바꼭질 중 발각되는 꿈 — 노력의 결실, 인정과 축복"
+    },
+    {
+      "type": "흉몽",
+      "korean": "두려움에 떨며 숨는 꿈은 최근 자신이 내린 결정이나 행동이 마음에 무겁게 걸려 있다는 뜻이에요. 죄책감이나 후회가 무의식에 쌓여 있는 상태를 반영해요.",
+      "english": "Hiding while trembling with fear reflects that recent decisions or actions are weighing heavily on your conscience. It indicates accumulated guilt or regret that has surfaced in the unconscious mind.",
+      "context": "두려움에 숨는 꿈 — 죄책감, 내면의 후회"
+    },
+    {
+      "type": "흉몽",
+      "korean": "경찰을 피해 숨는 꿈은 책임과 의무로부터 도망치고 싶은 마음, 또는 도덕적으로 부끄러운 일을 하고 있다는 심리적 자각을 나타내요. 현실에서 해야 할 일을 미루거나 회피하고 있는 상황을 반영해요.",
+      "english": "Hiding from police in a dream reflects a desire to escape duties and obligations, or a psychological awareness of something morally shameful. It mirrors a tendency to procrastinate or avoid necessary responsibilities in waking life.",
+      "context": "경찰을 피해 숨는 꿈 — 책임 회피, 도덕적 죄책감"
+    },
+    {
+      "type": "neutral",
+      "korean": "숨바꼭질을 하며 숨는 꿈은 소중한 것을 포기하기 싫거나, 가진 것에 집착하는 심리를 나타내요. 긍정도 부정도 아닌 중립적인 꿈으로, 현재 상황에서 변화를 두려워하는 마음이 반영된 것이에요.",
+      "english": "Hiding during a game of hide-and-seek reflects reluctance to give up something precious or attachment to what one currently possesses. This is a neutral dream indicating a fear of change rather than a direct omen.",
+      "context": "숨바꼭질에서 숨는 꿈 — 소중한 것에 대한 집착, 변화 두려움"
+    },
+    {
+      "type": "흉몽",
+      "korean": "숲 속이나 정글에 숨는 꿈은 복잡한 현실에서 도망치고 싶은 욕망을 나타내요. 현재 직면한 도전과 장애물이 많아 압도된 상태를 반영하며, 문제 해결을 뒤로 미루고 있다는 경고 신호예요.",
+      "english": "Hiding in a forest or jungle reflects a desire to flee from complex realities. It indicates feeling overwhelmed by challenges and obstacles, serving as a warning that you are postponing the resolution of important problems.",
+      "context": "숲·정글에 숨는 꿈 — 현실 도피, 복잡한 문제 회피"
+    },
+    {
+      "type": "흉몽",
+      "korean": "벽 뒤에 숨는 꿈은 가까운 사람과의 관계가 멀어지거나 낭만적인 관계가 위기에 처할 수 있다는 경고예요. 감정적 벽을 쌓아 상대방과 거리를 두고 있는 현실 상황을 반영해요.",
+      "english": "Hiding behind a wall warns of growing emotional distance in a close relationship or an impending crisis in a romantic connection. It mirrors the emotional walls being built between the dreamer and someone they care about.",
+      "context": "벽 뒤에 숨는 꿈 — 관계 위기, 감정적 단절"
+    },
+    {
+      "type": "길몽",
+      "korean": "악천후를 피해 숨는 꿈은 앞으로 어려운 상황을 헤쳐나가는 데 도움을 줄 사람을 만날 것임을 암시해요. 폭풍 속에 피신처를 찾는 이미지처럼, 조력자가 나타나 위기를 함께 극복하게 될 것이라는 길몽이에요.",
+      "english": "Hiding from a storm or bad weather is an auspicious omen signaling that you will soon meet someone who will help you through difficult circumstances. Like finding shelter in a storm, a helpful person will appear and assist you in overcoming a current crisis.",
+      "context": "악천후를 피해 숨는 꿈 — 조력자 등장, 어려움 극복"
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "어딘가에 숨는 꿈",
+      "keyword_en": "hiding somewhere in a dream",
+      "interpretation_ko": "어딘가에 숨는 꿈은 숨는 장소에 따라 의미가 달라져요. 집이나 건물처럼 안전한 공간에 숨으면 길몽으로, 자기 보호 능력과 위기 극복력을 나타내요. 반면 숲이나 낯선 건물처럼 불안한 공간에 숨으면 현실의 문제를 외면하거나 목표 달성이 방해받을 수 있다는 경고예요.",
+      "interpretation_en": "Hiding somewhere in a dream carries meaning that shifts with the location. Hiding in safe, familiar spaces like a house or building is auspicious, indicating protective ability and resilience. Hiding in unsettling or unfamiliar places like a forest or abandoned building warns of ignoring real problems or encountering obstacles to one's goals."
+    },
+    {
+      "keyword_ko": "발각되지 않고 숨어있는 꿈",
+      "keyword_en": "hiding without being discovered in a dream",
+      "interpretation_ko": "숨어 있는 동안 발각되지 않는 꿈은 현재 가진 비밀이나 내면의 감정을 성공적으로 감추고 있는 상태를 반영해요. 긍정적으로는 신중하고 사려 깊은 성격을 나타내지만, 오래 지속되면 고립감이나 소통 부재를 경험할 수 있다는 중립적 경고를 담고 있어요.",
+      "interpretation_en": "Successfully hiding without being found reflects an ability to conceal current secrets or inner emotions. While it can positively indicate a careful and thoughtful nature, a prolonged hiding without discovery serves as a neutral warning of potential isolation or a lack of open communication."
+    },
+    {
+      "keyword_ko": "숨었다가 발각되는 꿈",
+      "keyword_en": "hiding and then being discovered in a dream",
+      "interpretation_ko": "숨어 있다가 발각되는 꿈은 억눌러온 일이나 감추어온 재능이 드러나는 것을 상징해요. 숨바꼭질 놀이처럼 발각될 경우 축복이 쏟아지는 길몽이에요. 단, 두려움 속에서 발각된 꿈이라면 피하려 했던 문제가 결국 현실로 드러난다는 경고가 될 수 있어요.",
+      "interpretation_en": "Being discovered after hiding symbolizes that suppressed matters or hidden talents will finally come to light. When it unfolds like a game — being found — it is auspicious, predicting recognition and blessings. However, if discovered while gripped by fear, it warns that problems you tried to avoid will inevitably surface in reality."
+    },
+    {
+      "keyword_ko": "누군가를 피해 숨는 꿈",
+      "keyword_en": "hiding to avoid someone in a dream",
+      "interpretation_ko": "특정 사람을 피해 숨는 꿈은 현실에서 그 사람이나 그 사람이 상징하는 상황으로부터 벗어나고 싶은 심리를 나타내요. 모르는 사람을 피해 숨으면 막연한 불안감을, 아는 사람을 피해 숨으면 그 관계에서 감당하기 어려운 부담감을 느끼고 있다는 흉몽이에요.",
+      "interpretation_en": "Hiding to avoid a specific person reveals a desire to escape that person or what they represent in your waking life. Hiding from an unknown figure signals vague anxiety, while hiding from someone familiar is inauspicious, indicating that you feel an unbearable burden within that specific relationship."
+    },
+    {
+      "keyword_ko": "어두운 곳에 숨는 꿈",
+      "keyword_en": "hiding in a dark place in a dream",
+      "interpretation_ko": "어두운 곳에 숨는 꿈은 부끄러운 일이나 알리고 싶지 않은 정보를 감추고 있다는 심리를 반영해요. 심리적으로 위축된 상태이거나 자신감이 낮아진 상황을 나타내는 흉몽으로, 어둠은 불안과 고립의 상징이에요. 빛 쪽으로 나아가야 한다는 내면의 메시지를 담고 있어요.",
+      "interpretation_en": "Hiding in a dark place reflects a psychology of concealing something shameful or sensitive information. It is an inauspicious dream indicating emotional withdrawal or lowered self-confidence, as darkness symbolizes anxiety and isolation. The dream carries an inner message urging the dreamer to move toward the light."
+    },
+    {
+      "keyword_ko": "가족을 피해 숨는 꿈",
+      "keyword_en": "hiding from family in a dream",
+      "interpretation_ko": "가족을 피해 숨는 꿈은 가족과의 갈등이나 기대감에 대한 압박감을 나타내요. 가족 관계에서 자신의 공간과 자율성이 필요하다는 심리적 신호로 볼 수 있어요. 흉몽에 가깝지만, 가족으로부터 안전하게 숨는 데 성공했다면 독립적인 자아를 찾아가는 중립적 의미로 해석될 수 있어요.",
+      "interpretation_en": "Hiding from family signals pressure from family conflicts or unmet expectations. It is a psychological signal that you need personal space and autonomy within your family relationships. While generally inauspicious, successfully hiding safely from family can carry a neutral meaning of seeking an independent sense of self."
+    },
+    {
+      "keyword_ko": "귀신이나 괴물을 피해 숨는 꿈",
+      "keyword_en": "hiding from a ghost or monster in a dream",
+      "interpretation_ko": "귀신이나 괴물을 피해 숨는 꿈은 현실에서 해결하지 못한 두려움이나 트라우마가 무의식으로 표출된 것이에요. 심리적 불안감과 억압된 감정이 상징적으로 나타난 흉몽으로, 일상에서 심한 스트레스를 받고 있거나 해결해야 할 깊은 내면의 문제가 있다는 경고예요.",
+      "interpretation_en": "Hiding from a ghost or monster is an inauspicious dream where unresolved fears or traumas from waking life emerge through the unconscious. It symbolically expresses psychological anxiety and suppressed emotions, warning that you are experiencing severe stress or have deep internal issues that require resolution."
+    },
+    {
+      "keyword_ko": "숨겨진 공간에 숨는 꿈",
+      "keyword_en": "hiding in a secret or hidden space in a dream",
+      "interpretation_ko": "다락방, 지하실, 비밀 방 같은 숨겨진 공간에 숨는 꿈은 피하고 싶은 것들로부터 멀어질 수 있는 능력을 상징해요. 혼자만의 시간과 공간이 필요하다는 심리를 반영하며, 자신이 원하는 것을 조용히 숨기려는 욕망을 나타내는 중립적 꿈이에요.",
+      "interpretation_en": "Hiding in a concealed space such as an attic, basement, or secret room symbolizes the ability to distance yourself from things you wish to avoid. It reflects a need for solitude and personal space, and is a neutral dream expressing a quiet desire to keep certain wishes or matters private."
+    }
+  ],
+  "culturalContext": {
+    "korean": "한국에서 꿈 해몽의 역사는 삼국시대까지 거슬러 올라가요. 『삼국유사』에는 원성왕이 꿈에서 복두를 벗고 우물 속으로 들어가는 꿈을 꾼 이야기가 실려 있어요. 처음에는 흉몽으로 해석되었지만, 다른 해몽가는 이를 왕위에 오를 길몽으로 재해석했죠. 이 일화는 숨는 행위를 포함한 꿈이 맥락과 해석 방식에 따라 의미가 완전히 달라질 수 있다는 한국 해몽 전통의 핵심 원리를 잘 보여줘요. 조선시대에는 길몽이 너무나 귀하게 여겨져서 길몽을 실제로 사고파는 '꿈 매매' 문화가 존재했어요. 숨는 꿈은 전통적으로 자신을 보호하려는 본능적 행위로 이해되었고, 숨는 장소와 결말(발각 여부, 안전 여부)에 따라 길흉이 결정된다고 보았어요. 현대 한국의 해몽에서는 심리적 접근도 병행되어, 숨는 꿈을 현실의 스트레스·불안·회피 심리의 무의식적 표현으로 해석하는 경향이 강해요.",
+    "english": "The tradition of Korean dream interpretation dates back to the Three Kingdoms period. The Samguk Yusa records how King Wonseong dreamed of removing his official headwear and descending into a well — initially interpreted as inauspicious, but later reread by another interpreter as an auspicious omen of ascending the throne. This story illustrates a core principle of Korean dream interpretation: the same act of concealment or descent can carry entirely different meanings depending on context and the interpreter's reading. During the Joseon Dynasty, auspicious dreams were so valued that a documented practice of buying and selling good dreams — called 'dream trading' — existed. Hiding dreams were traditionally understood as an instinctive act of self-preservation, with outcomes (auspicious or inauspicious) determined by where one hid and whether they were discovered safely. In modern Korean dream culture, psychological interpretations run alongside folkloric ones, and hiding dreams are frequently read as unconscious projections of real-world stress, anxiety, or avoidance tendencies."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트 정신분석학 관점에서 숨는 꿈은 자아(ego)가 이드(id)의 억압된 충동이나 초자아(superego)의 도덕적 처벌에서 도망치려는 방어 기제를 반영해요. 숨는 행위는 의식이 직면하기 두려운 욕망이나 죄책감을 무의식 속으로 밀어 넣으려는 심리적 억압(repression)의 꿈 언어적 표현이에요. 쫓기며 숨는 꿈의 경우, 프로이트는 추격자를 억압된 리비도적 에너지나 금기된 감정이 형상화된 것으로 해석했을 것이에요. 숨는 장소(집, 어둠, 비밀 공간)는 무의식의 지형도를 상징하며, 안전한 내부 공간은 자궁으로의 귀환 욕구, 즉 불안으로부터의 퇴행(regression)을 나타낸다고 볼 수 있어요.",
+      "english": "From a Freudian psychoanalytic perspective, dreams of hiding reflect the ego's attempt to escape either the pressing demands of the id's repressed drives or the punishing demands of the superego. The act of hiding is the dream's symbolic language for repression — the psychic mechanism of pushing anxiety-provoking desires or guilt into the unconscious. In chase-and-hide dreams, Freud would have identified the pursuer as a representation of repressed libidinal energy or a forbidden impulse seeking discharge. The hiding place itself — a house, dark space, or secret room — maps the topography of the unconscious, with enclosed, interior spaces symbolizing a regressive wish to return to a womb-like state of safety away from psychic threat."
+    },
+    "jungian": {
+      "korean": "융(Carl Jung)의 분석심리학에서 숨는 꿈은 자아(ego)가 아직 통합하지 못한 그림자(Shadow) 원형과의 마주침을 회피하는 과정으로 해석돼요. 추격자나 위협적 존재는 그림자, 즉 자신이 의식적으로 부정하는 내면의 어두운 측면이 인격화된 것으로 볼 수 있어요. 융은 숨는 행위를 단순한 회피가 아니라, 자아가 개성화(individuation) 과정에서 감당하기 어려운 심리 내용을 처리하기 위해 거치는 일시적 후퇴로 이해했어요. 숨어서 안전한 공간을 찾는 꿈은 자기(Self)의 치유 능력이 작동하는 신호일 수 있으며, 꿈이 반복될수록 그림자와의 적극적 상상(active imagination)을 통한 의식적 통합이 필요하다는 메시지를 담고 있어요.",
+      "english": "In Jungian analytical psychology, dreams of hiding are interpreted as the ego avoiding an encounter with the Shadow archetype — the repository of traits, impulses, and memories that the conscious self refuses to acknowledge. The threatening pursuer in such dreams is typically a personification of the Shadow, the dark counterpart of the persona. Jung understood hiding not as simple avoidance but as a temporary psychic retreat during the individuation process, when the ego has not yet developed the strength to consciously integrate what the Shadow represents. Finding a safe hiding place may signal that the Self's healing function is active, while recurring hiding dreams indicate an urgent need for conscious integration through active imagination or depth-psychological work."
+    },
+    "modern": {
+      "korean": "현대 수면과학과 인지신경과학 연구에 따르면, 숨는 꿈은 주로 위협 시뮬레이션 이론(Threat Simulation Theory)으로 설명돼요. 핀란드의 신경과학자 안티 레보슬라티(Antti Revonsuo)는 꿈이 진화적으로 위협 상황을 안전하게 반복 연습하게 해 주는 기능을 한다고 제안했는데, 숨는 꿈은 이 이론의 대표적 사례예요. 뇌의 편도체(amygdala)가 수면 중에도 위협 신호에 반응하며, REM 수면 시 공포 처리와 감정 조절이 이루어지기 때문에 낮 동안 누적된 불안이 숨는 꿈으로 표출되는 거예요. 스트레스 호르몬인 코르티솔 수치가 높을수록 위협 관련 꿈의 빈도가 증가한다는 연구 결과도 있어, 잦은 숨는 꿈은 만성 스트레스의 생리적 지표로 볼 수 있어요.",
+      "english": "Modern sleep science and cognitive neuroscience explain hiding dreams primarily through the Threat Simulation Theory (TST) proposed by Finnish neuroscientist Antti Revonsuo, which posits that dreaming evolved as a biological mechanism to safely rehearse responses to threatening situations. Hiding dreams are a textbook instance of this framework. The brain's amygdala remains reactive to threat signals during sleep, and REM sleep is the stage during which fear-related memories are processed and emotional regulation occurs — meaning daytime anxiety is discharged through symbolic scenarios like hiding. Research also shows that higher cortisol levels correlate with increased frequency of threat-related dreams, suggesting that recurring hiding dreams can serve as a physiological marker of chronic stress rather than a supernatural omen."
+    },
+    "crossCultural": {
+      "korean": "한국 전통 해몽이 숨는 꿈을 장소와 결말 중심의 길흉 판단 체계로 해석하는 반면, 서양 심리학은 숨는 행위 자체를 억압·회피·그림자 통합 등 내면 심리의 역동으로 읽어요. 두 전통 모두 숨는 꿈을 단순한 수면 중 잡음이 아닌 의미 있는 심리적 신호로 본다는 점에서 공통점이 있으며, 현대에는 두 관점을 통합해 꿈을 이해하는 것이 더욱 입체적인 해석을 가능하게 해요.",
+      "english": "While Korean traditional dream interpretation focuses on auspicious or inauspicious outcomes determined by the hiding location and result, Western psychology reads the act of hiding itself as a dynamic expression of internal psychological states — repression, avoidance, or the need to integrate the Shadow. Both traditions agree that hiding dreams carry meaningful psychological signals rather than being mere sleep noise, and integrating both perspectives today allows for a richer, more nuanced interpretation of what such dreams may reveal."
+    }
+  },
+  "relatedSymbols": [
+    "being-chased-dream",
+    "escaping-dream",
+    "running-dream",
+    "hiding-place-dream",
+    "dark-place-dream"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "숨는 꿈",
+      "숨는 꿈 해몽",
+      "꿈에서 숨는 것 의미",
+      "숨어있는 꿈 해몽",
+      "숨었다 발각되는 꿈",
+      "누군가를 피해 숨는 꿈",
+      "어두운 곳에 숨는 꿈 해몽",
+      "가족을 피해 숨는 꿈",
+      "경찰을 피해 숨는 꿈",
+      "귀신을 피해 숨는 꿈",
+      "숨바꼭질 꿈 해몽",
+      "숨는 꿈 길몽 흉몽",
+      "집 안에 숨는 꿈",
+      "숲 속에 숨는 꿈 해몽",
+      "쫓기다 숨는 꿈"
+    ],
+    "english": [
+      "hiding dream meaning",
+      "dream of hiding interpretation",
+      "hiding in a dream Korean",
+      "dream hiding from someone",
+      "being discovered while hiding dream",
+      "hiding dream auspicious",
+      "dream hiding in dark place",
+      "hiding from police dream meaning",
+      "hide and seek dream interpretation",
+      "Korean hiding dream symbolism"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "숨는 꿈은 길몽인가요, 흉몽인가요?",
+      "answer_ko": "숨는 꿈은 대체로 흉몽에 가깝지만, 상황에 따라 달라요. 집이나 건물 안에 숨는 꿈, 악천후를 피해 숨는 꿈, 숨바꼭질 중 발각되는 꿈은 길몽으로 해석돼요. 반면 두려움에 떨며 숨거나, 경찰이나 귀신을 피해 숨거나, 어두운 곳에 숨는 꿈은 흉몽으로 봐요. 숨는 장소와 꿈속의 감정, 결말이 중요한 판단 기준이에요.",
+      "answer_en": "Hiding dreams are generally closer to inauspicious omens, but the meaning varies by context. Hiding inside a house or building, sheltering from bad weather, or being discovered while playing hide-and-seek are interpreted as auspicious. In contrast, hiding while trembling with fear, hiding from police or ghosts, or hiding in a dark place are considered inauspicious. The location, emotional state during the dream, and the outcome are the key factors in determining the omen.",
+      "question_en": "Is dreaming of hiding auspicious or inauspicious?"
+    },
+    {
+      "question_ko": "쫓기다가 숨는 꿈은 무슨 의미인가요?",
+      "answer_ko": "쫓기다가 숨는 꿈은 현실에서 마주하기 어려운 문제나 책임을 피하고 싶은 심리를 반영해요. 해결되지 않은 갈등이 무의식에 쌓인 상태를 나타내며, 현실에서 직면해야 할 어려움을 계속 회피하면 더 큰 문제로 발전할 수 있다는 경고 신호로 볼 수 있어요.",
+      "answer_en": "Dreaming of being chased and then hiding reflects a desire to avoid difficult problems or responsibilities in waking life. It indicates that unresolved conflicts have accumulated in the unconscious, serving as a warning that continued avoidance of challenges could lead to bigger problems.",
+      "question_en": "What does it mean to be chased and then hide in a dream?"
+    },
+    {
+      "question_ko": "숨었다가 발각되는 꿈은 좋은 꿈인가요?",
+      "answer_ko": "숨었다가 발각되는 꿈은 상황에 따라 다르게 해석돼요. 숨바꼭질처럼 놀이 상황에서 발각되는 꿈은 길몽으로, 숨겨진 재능이나 노력이 인정받고 축복이 쏟아질 것을 암시해요. 반면 두려움이나 죄책감 속에서 발각되는 꿈은 피하려 했던 현실의 문제가 결국 드러난다는 경고예요.",
+      "answer_en": "Being discovered after hiding is interpreted differently depending on the scenario. If discovered during a playful situation like hide-and-seek, it is auspicious — symbolizing that hidden talents or efforts will be recognized and blessings will follow. However, being discovered while filled with fear or guilt warns that the problems you were trying to avoid will inevitably be revealed.",
+      "question_en": "Is dreaming of hiding and then being discovered a good omen?"
+    },
+    {
+      "question_ko": "어두운 곳에 숨는 꿈은 왜 나쁜 꿈인가요?",
+      "answer_ko": "어두운 곳에 숨는 꿈은 부끄러운 일이나 알리고 싶지 않은 비밀을 감추고 있다는 심리를 나타내요. 어둠은 한국 해몽에서 불안, 고립, 막연한 두려움의 상징이에요. 이 꿈은 심리적으로 위축된 상태를 반영하며, 스스로 빛 쪽으로 나아가야 할 필요성을 내면이 보내는 메시지예요.",
+      "answer_en": "Hiding in a dark place is considered inauspicious because it reflects a psychology of concealing something shameful or keeping sensitive secrets. In Korean dream interpretation, darkness symbolizes anxiety, isolation, and vague fear. This dream mirrors a state of emotional withdrawal and carries an inner message urging the dreamer to step toward the light.",
+      "question_en": "Why is hiding in a dark place considered a bad dream?"
+    },
+    {
+      "question_ko": "집 안에 숨는 꿈은 어떻게 해석하나요?",
+      "answer_ko": "집 안에 숨는 꿈은 길몽이에요. 집은 안전과 보호의 상징으로, 어려운 상황에서도 스스로를 지키고 문제를 극복할 수 있는 능력이 있다는 의미예요. 현재 겪고 있는 어려움이 있더라도 결국 안전하게 빠져나올 수 있다는 희망적인 메시지를 담고 있어요.",
+      "answer_en": "Hiding inside a house is an auspicious dream. A house symbolizes safety and protection, indicating that you possess the capability to protect yourself and overcome problems even in difficult circumstances. It carries a hopeful message that you will ultimately emerge safely from whatever hardship you are currently facing.",
+      "question_en": "How is hiding inside a house interpreted in dreams?"
+    },
+    {
+      "question_ko": "숨는 꿈을 자주 꾸면 무슨 의미인가요?",
+      "answer_ko": "숨는 꿈을 반복해서 꾼다면, 현실에서 지속적으로 회피하고 있는 문제나 관계, 감정이 있다는 신호예요. 무의식이 그 문제를 직면하도록 계속 신호를 보내는 것이에요. 꿈을 계기로 현재 자신이 외면하고 있는 것이 무엇인지 돌아보고, 필요하다면 전문가 상담을 받는 것이 도움이 될 수 있어요.",
+      "answer_en": "Recurring hiding dreams signal that there is a problem, relationship, or emotion in waking life you are persistently avoiding. The unconscious mind is repeatedly sending a signal urging you to confront that issue. Use the dream as an opportunity to reflect on what you may be turning away from, and consider professional counseling if the avoidance feels overwhelming.",
+      "question_en": "What does it mean if I frequently dream of hiding?"
+    }
+  ]
+}

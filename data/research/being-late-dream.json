@@ -1,0 +1,219 @@
+{
+  "symbol": {
+    "korean": "지각하는 꿈",
+    "english": "Dream of being late",
+    "slug": "being-late-dream"
+  },
+  "summary": {
+    "korean": "지각하는 꿈은 대체로 현실의 불안과 초조함, 기회 상실에 대한 두려움을 반영하는 흉몽으로 해석돼요. 단, 침착하게 지각하거나 다른 사람들과 함께 늦는 꿈은 주변의 도움으로 위기를 극복할 수 있다는 길몽으로 풀이되기도 해요.",
+    "english": "Dreams of being late are generally interpreted as anxiety dreams reflecting fears of missed opportunities and inner stress. However, certain variations—such as being calm while late or arriving just in time—can carry positive meanings of resilience and eventual success."
+  },
+  "interpretations": [
+    {
+      "type": "흉몽",
+      "korean": "회사나 직장에 지각하는 꿈은 현재 몸담고 있는 조직에서 스트레스를 심하게 받고 있음을 나타내요. 업무에 집중하지 못하고 우선순위를 잃어가고 있으며, 지속되면 직장 내 부정적인 평가를 받을 수 있다는 경고로 해석돼요.",
+      "english": "Dreaming of being late to work signals deep organizational stress and a loss of focus on priorities. It can serve as a warning that inattention to duties may result in poor performance evaluations or missed professional opportunities.",
+      "context": "직장인"
+    },
+    {
+      "type": "흉몽",
+      "korean": "학교에 지각하는 꿈은 학업 성적이 떨어지거나 자신감을 잃어가고 있다는 신호예요. 입시나 중요한 평가에서 기대에 못 미칠까 봐 불안한 심리 상태가 꿈으로 표출된 것으로 봐요.",
+      "english": "Being late to school in a dream reflects a loss of academic confidence and mounting pressure around performance. It may signal anxiety about failing to meet expectations in exams or evaluations.",
+      "context": "학생"
+    },
+    {
+      "type": "흉몽",
+      "korean": "시험에 늦는 꿈은 자신의 능력을 제대로 발휘하지 못하고 계획이 차질을 빚을 것을 암시해요. 준비가 부족하다는 두려움이나 중요한 기회를 놓칠 것 같다는 불안이 꿈에 반영된 경우가 많아요.",
+      "english": "Dreaming of being late to an exam reflects fears of underperformance and poorly-laid plans. The subconscious is processing anxiety about being underprepared for a critical moment in waking life.",
+      "context": "시험·평가"
+    },
+    {
+      "type": "흉몽",
+      "korean": "약속에 늦는 꿈은 하고 있는 일이 잘 풀리지 않고 지지부진해질 것을 의미해요. 친구, 애인, 직장 동료 등 주변인들과의 관계에서 갈등을 겪고 있거나 마음에 상처를 받고 있을 때 꾸는 경우가 많아요.",
+      "english": "Being late to an appointment in a dream indicates stalling progress and interpersonal conflict. It is commonly experienced when the dreamer is under stress from relationships with friends, a romantic partner, or colleagues.",
+      "context": "대인관계"
+    },
+    {
+      "type": "길몽",
+      "korean": "늦었지만 침착하게 행동하는 꿈은 정신적으로 여유가 있고 현실을 객관적으로 바라볼 수 있는 상태임을 나타내요. 어려운 상황에서도 흔들리지 않고 해야 할 일에 집중하는 시기임을 암시해요.",
+      "english": "Dreaming of being late but remaining calm is a positive sign, indicating mental composure and the ability to handle situations with clear-eyed objectivity. It suggests you can stay focused even under pressure.",
+      "context": "심리 상태"
+    },
+    {
+      "type": "길몽",
+      "korean": "다른 사람들과 함께 지각하는 꿈은 힘든 시기에도 나를 도와줄 지지자들이 곁에 있다는 의미로 풀이돼요. 혼자가 아니라 동료나 가까운 사람들과 함께 어려움을 헤쳐나갈 수 있음을 암시해요.",
+      "english": "Being late together with others is considered auspicious, signaling that supportive people surround you and will help you through difficult times. It reflects a strong social foundation during periods of adversity.",
+      "context": "인간관계"
+    },
+    {
+      "type": "neutral",
+      "korean": "늦을까 봐 서두르거나 초조하게 뛰는 꿈은 현재 심리적 불안 상태를 반영하는 심리몽이에요. 실제 흉사를 예고하기보다는 마음속의 긴장감과 압박감이 꿈으로 표출된 것으로 해석해요.",
+      "english": "Rushing or running in a panic to avoid being late is typically classified as a psychological anxiety dream, reflecting waking-life tension and internal pressure rather than a specific omen of bad fortune.",
+      "context": "심리몽"
+    },
+    {
+      "type": "neutral",
+      "korean": "교통 정체로 인해 지각하는 꿈은 현실에서 외부적인 장애물로 인해 진행이 막혀 있음을 나타내요. 답답함이 있어도 꾸준히 나아가면 결국 성과를 낼 수 있다는 메시지를 담기도 해요.",
+      "english": "Being late because of a traffic jam symbolizes external obstacles slowing your progress. Despite frustration, this dream can carry a hopeful undertone — steady persistence will eventually lead to results.",
+      "context": "장애물·외부 환경"
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "학교에 지각하는 꿈",
+      "keyword_en": "Being late to school dream",
+      "interpretation_ko": "학교에 지각하는 꿈은 학업 성적이 떨어지거나 입시에서 기대한 결과를 내지 못할 수 있다는 경고예요. 학교생활에 스트레스가 쌓인 상태가 꿈에 반영된 심리몽이기도 해요. 공부를 게을리하지 말고 차분히 집중하라는 신호로 받아들이면 좋아요.",
+      "interpretation_en": "Being late to school warns of declining academic performance or disappointing exam results. It often reflects accumulated stress from school life. Take it as a signal to refocus your efforts and avoid complacency in your studies."
+    },
+    {
+      "keyword_ko": "회사에 지각하는 꿈",
+      "keyword_en": "Being late to work dream",
+      "interpretation_ko": "회사에 지각하는 꿈은 직장 내 스트레스가 상당히 쌓여 있고 업무에 대한 집중력이 흐트러진 상태를 반영해요. 방심으로 인해 중요한 성과를 놓칠 수 있으니 우선순위를 재정비해야 할 시기예요. 상황이 심각하면 동료나 상사로부터 부정적인 평가를 받을 수도 있어요.",
+      "interpretation_en": "Dreaming of being late to work reflects serious workplace stress and a loss of professional focus. It warns that carelessness may cause you to miss significant opportunities. Reassess your priorities before your performance draws negative attention."
+    },
+    {
+      "keyword_ko": "시험에 늦는 꿈",
+      "keyword_en": "Being late to an exam dream",
+      "interpretation_ko": "시험에 늦는 꿈은 자신의 능력을 온전히 발휘하지 못하고 계획이 어긋날 것을 암시해요. 준비 부족이나 기회 상실에 대한 두려움이 강하게 반영된 꿈으로, 현실에서 중요한 평가나 도전을 앞두고 있을 때 자주 나타나요.",
+      "interpretation_en": "Missing an exam in a dream suggests your plans may go awry and your true abilities may not be fully demonstrated. This dream is strongly linked to fears of inadequate preparation and is common before important assessments or challenges."
+    },
+    {
+      "keyword_ko": "면접에 지각하는 꿈",
+      "keyword_en": "Being late to a job interview dream",
+      "interpretation_ko": "면접 장소에 지각하는 꿈은 자신의 실수로 인해 중요한 기회나 계약, 좋은 만남이 날아가 버릴 수 있음을 경고해요. 현실에서 탈출하고 싶은 심리가 반영되기도 하며, 새로운 기회 앞에서 스스로를 신뢰하지 못하는 불안감의 표현이기도 해요.",
+      "interpretation_en": "Being late to a job interview warns that personal mistakes could cost you an important opportunity, contract, or meaningful encounter. It can also reflect a desire to escape responsibility, or a lack of self-confidence when facing new professional prospects."
+    },
+    {
+      "keyword_ko": "약속에 늦는 꿈",
+      "keyword_en": "Being late to an appointment dream",
+      "interpretation_ko": "약속 장소에 늦는 꿈은 현재 진행 중인 일이 지지부진하게 진행될 것을 의미해요. 친구, 연인, 직장 동료 등 주변 인간관계에서 갈등을 겪거나 상처를 받고 있는 상황에서 꾸는 경우가 많아요.",
+      "interpretation_en": "Being late to a meeting with someone signals that ongoing matters will stall or drag. This dream most commonly appears when the dreamer is experiencing interpersonal conflict or emotional hurt from friends, a partner, or coworkers."
+    },
+    {
+      "keyword_ko": "버스나 지하철을 놓치는 꿈",
+      "keyword_en": "Missing the bus or subway dream",
+      "interpretation_ko": "버스나 지하철을 놓치는 꿈은 인생의 좋은 기회나 행운이 손에 닿을 듯 하다가 다른 사람에게 넘어가는 것을 의미해요. 준비 부족이나 방심으로 인해 경쟁에서 뒤처질 수 있다는 경고이기도 해요. 변화나 새로운 시작에 대한 두려움을 상징하기도 해요.",
+      "interpretation_en": "Missing the bus or subway in a dream represents a good opportunity or stroke of luck slipping away to someone else. It warns of falling behind due to inadequate preparation or inattention, and can symbolize fear of change or new beginnings."
+    },
+    {
+      "keyword_ko": "뛰는데도 늦는 꿈",
+      "keyword_en": "Running but still being late dream",
+      "interpretation_ko": "아무리 달려도 늦는 꿈은 최선을 다하고 있지만 결과가 따라오지 않는 좌절감을 나타내요. 스스로의 한계를 느끼거나 아무리 노력해도 상황이 나아지지 않는다는 무력감이 꿈으로 표출된 것이에요. 현실에서 지속적인 압박과 번아웃의 징후일 수 있어요.",
+      "interpretation_en": "Running as hard as you can but still being late reflects frustration when maximum effort yields no results. This dream expresses helplessness and a sense of limitation — a possible subconscious signal of burnout or exhaustion from sustained pressure."
+    },
+    {
+      "keyword_ko": "늦잠을 자서 지각하는 꿈",
+      "keyword_en": "Oversleeping and being late dream",
+      "interpretation_ko": "늦잠을 자서 지각하는 꿈은 현실에서 피로와 스트레스가 누적된 상태를 나타내요. 업무나 학업에서 다른 사람에 비해 뒤처지고 있다는 불안감, 혹은 현재의 생활 패턴이 지속 불가능하다는 신호로 해석돼요.",
+      "interpretation_en": "Oversleeping and missing something important in a dream reflects accumulated fatigue and stress in waking life. It suggests anxiety about falling behind peers professionally or academically, and may signal that your current lifestyle pace is unsustainable."
+    },
+    {
+      "keyword_ko": "데이트에 지각하는 꿈",
+      "keyword_en": "Being late to a date dream",
+      "interpretation_ko": "연인과의 데이트에 늦는 꿈은 현재 사귀고 있는 사람과의 관계가 멀어질 수 있다는 경고예요. 상대방에게 충분한 관심과 배려를 쏟지 못하고 있거나, 관계 속에서 불안감을 느끼고 있다는 것을 반영해요.",
+      "interpretation_en": "Being late to a romantic date warns that your current relationship may be drifting apart. It reflects a sense that you are not investing enough attention or care into the relationship, or that you feel underlying anxiety about its stability."
+    },
+    {
+      "keyword_ko": "결혼식에 늦는 꿈",
+      "keyword_en": "Being late to a wedding dream",
+      "interpretation_ko": "결혼식에 늦는 꿈은 인생의 중요한 전환점을 앞두고 내면에서 저항감을 느끼고 있다는 신호예요. 직장에서 부정적인 평가를 받거나 중요한 헌신을 앞두고 준비가 되지 않았다는 불안감이 반영되기도 해요.",
+      "interpretation_en": "Being late to a wedding symbolizes inner resistance to a major life transition. It may reflect anxiety about commitment, an upcoming negative professional evaluation, or a sense of unreadiness for a significant personal milestone."
+    }
+  ],
+  "culturalContext": {
+    "korean": "한국에서 꿈 해몽은 예로부터 일상생활과 깊이 연결되어 있었어요. 조선시대에는 꿈을 신의 계시나 조상의 메시지로 여겨 중요하게 다루었으며, 무속 신앙에서도 꿈은 현실과 영계(靈界)를 잇는 통로로 여겨졌어요. 지각이나 늦음과 관련된 꿈은 전통적으로 일이 제때 이루어지지 않거나 기회를 놓친다는 흉조로 해석되었어요. 특히 농경 사회에서는 파종과 수확 시기를 놓치는 것이 곧 생존과 직결되었기 때문에, '제때를 놓친다'는 개념 자체가 매우 강한 부정적 의미를 가졌어요. 현대 한국에서도 취업난과 치열한 입시 경쟁을 배경으로 지각 꿈은 '기회 상실'과 '경쟁에서의 낙오'라는 불안으로 연결되어 폭넓게 공감받는 꿈 유형이에요.",
+    "english": "In Korean cultural tradition, dreams have long been considered meaningful messages from the spirit world or ancestral beings, a belief that runs through both Confucian and shamanic (무속) frameworks. During the Joseon Dynasty, significant dreams were recorded and interpreted by scholars and court officials. Dreams of lateness or missing the right moment were traditionally viewed as bad omens — particularly in an agrarian society where missing the planting or harvest season could be catastrophic. The phrase '때를 놓친다' (missing the moment/timing) carries deep cultural weight in Korean thinking. In contemporary Korea, intense competition in university entrance exams and the job market has made lateness dreams ubiquitous, now representing anxiety about being left behind in hyper-competitive environments."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트는 늦는 꿈을 억압된 욕망과 무의식적 갈등의 표현으로 해석했어요. 특히 시험에 늦거나 중요한 약속에 늦는 꿈은, 과거에 해결하지 못한 불안이나 권위에 대한 두려움이 변형되어 나타난 것으로 봤어요. 프로이트는 이런 꿈이 어린 시절 학교나 가정에서 형성된 처벌에 대한 두려움, 또는 성적(性的) 욕구의 충족이 지연되는 것에 대한 상징일 수 있다고 주장했어요.",
+      "english": "Freud interpreted late dreams as expressions of repressed desires and unconscious conflict. Dreams of being late to an exam or important appointment were seen as disguised manifestations of unresolved childhood anxiety, fear of authority figures, or the symbolic delay of libidinal gratification. Freud noted these dreams frequently appear even in people who have long passed the stage of life associated with the setting — suggesting they tap into foundational anxieties formed early in life."
+    },
+    "jungian": {
+      "korean": "융은 늦는 꿈을 단순한 불안이 아니라 자기(Self) 실현 과정에서 발생하는 심리적 긴장으로 봤어요. 외부의 시간(크로노스)과 내면의 의미 있는 시간(카이로스) 사이의 갈등이 꿈에 나타나는 것으로 해석해요. 즉, 지각하는 꿈은 '나는 지금 진정으로 내 삶을 살고 있는가?'라는 무의식의 질문일 수 있어요. 또한 그림자(Shadow) 통합의 관점에서, 완벽함을 추구하는 페르소나와 느리고 충동적인 그림자 사이의 갈등이 반영된 꿈으로 해석되기도 해요.",
+      "english": "Jung viewed late dreams not merely as anxiety but as expressions of psychological tension within the individuation process. He distinguished between Chronos (clock time) and Kairos (meaningful time), suggesting lateness dreams reflect the conflict between external schedules and authentic inner development. They pose the unconscious question: 'Am I living the life I am truly meant to live?' From a Shadow perspective, these dreams reveal the tension between the high-achieving Persona and the slower, more instinctual Shadow self that resists performance demands."
+    },
+    "modern": {
+      "korean": "현대 심리학에서는 지각하는 꿈을 주로 성취 불안(Achievement Anxiety)과 가면 증후군(Impostor Syndrome)의 표현으로 봐요. 현실에서 과도한 기대와 압박을 받는 사람일수록 이 꿈을 자주 꾸며, 특히 완벽주의 성향이 강하거나 자존감이 낮은 경우에 반복적으로 나타나요. 신경다양성(ADHD 등)을 가진 사람들은 시간 감각의 어려움이 꿈에 반영되어, 지각 꿈이 더 자주 나타날 수 있다고도 해요.",
+      "english": "Modern psychology primarily frames late dreams as manifestations of achievement anxiety and Impostor Syndrome — the pervasive fear of being 'found out' as unprepared or inadequate despite actual competence. People under excessive performance pressure, perfectionists, and those with low self-esteem tend to experience these dreams most frequently. Research also suggests that neurodivergent individuals (e.g., those with ADHD) may experience heightened lateness dreams due to real-world difficulties with time perception being processed through the subconscious."
+    },
+    "crossCultural": {
+      "korean": "늦는 꿈은 전 세계적으로 가장 보편적인 꿈 유형 중 하나예요. 독일에서는 이런 꿈을 '준비되지 않은 상태(Unvorbereitetheit)'의 상징으로 보며, 일본에서도 '遅刻夢(지각몽)'은 시험 불안과 직결되어 해석해요. 미국과 유럽에서는 이 꿈을 주로 직업적 불안과 연결하며, 바쁜 현대인의 시간 압박을 반영하는 꿈으로 봐요. 문화적 차이에도 불구하고, 기회를 놓친다는 공포는 인류 공통의 불안임을 이 꿈이 잘 보여줘요.",
+      "english": "Dreams of being late rank among the most universally reported dream experiences across cultures. In Germany, such dreams symbolize 'Unvorbereitetheit' (unpreparedness); in Japan, exam lateness dreams (遅刻夢) are closely linked to academic anxiety. In the United States and Europe, they primarily reflect professional performance stress and the time pressures of modern achievement culture. Despite cultural differences in daily life and values, the underlying fear of missing a critical opportunity appears to be a genuinely universal human anxiety."
+    }
+  },
+  "relatedSymbols": [
+    "taking-exam-dream",
+    "running-dream",
+    "missing-bus-dream",
+    "lost-dream",
+    "chased-dream",
+    "failing-exam-dream"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "지각하는 꿈",
+      "지각 꿈 해몽",
+      "늦는 꿈 해몽",
+      "지각하는 꿈 길몽 흉몽",
+      "학교에 지각하는 꿈",
+      "회사에 지각하는 꿈",
+      "시험에 늦는 꿈",
+      "약속에 늦는 꿈 해몽",
+      "버스 놓치는 꿈 해몽",
+      "지하철 놓치는 꿈",
+      "늦잠 자서 지각하는 꿈",
+      "면접에 지각하는 꿈",
+      "데이트에 늦는 꿈 해몽",
+      "뛰는데 늦는 꿈"
+    ],
+    "english": [
+      "being late dream meaning",
+      "dream of being late",
+      "late to school dream interpretation",
+      "missing the bus dream meaning",
+      "running late dream symbolism",
+      "dream about being late to work",
+      "late to exam dream psychology",
+      "anxiety dream about being late"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "지각하는 꿈은 무조건 흉몽인가요?",
+      "answer_ko": "대부분의 지각하는 꿈은 기회 상실이나 불안을 반영하는 흉몽으로 해석되지만, 모든 경우가 그런 것은 아니에요. 침착하게 지각하거나 다른 사람들과 함께 늦는 꿈, 결국 약속을 지키는 꿈은 길몽으로 풀이돼요. 꿈에서 느낀 감정과 상황이 해몽에서 가장 중요한 요소예요.",
+      "answer_en": "Most dreams of being late are interpreted as omens of missed opportunities or anxiety, but not all. Dreams where you remain calm while late, are late together with others, or ultimately fulfill the commitment despite delays are considered auspicious. The emotion felt during the dream and the specific context are the most important factors in interpretation.",
+      "question_en": "Is dreaming of being late always a bad omen?"
+    },
+    {
+      "question_ko": "학생이 시험에 늦는 꿈을 자주 꾸면 어떤 의미인가요?",
+      "answer_ko": "시험에 늦는 꿈을 반복적으로 꾼다면 학업 스트레스와 자신감 부족이 상당히 쌓여 있다는 신호예요. 준비가 충분하지 않다는 두려움, 실패에 대한 불안이 수면 중에도 이어지는 것이에요. 꿈의 메시지를 경고로 받아들이고 학습 계획을 점검해 보는 것이 도움이 돼요.",
+      "answer_en": "Repeatedly dreaming of being late to an exam is a significant signal of accumulated academic stress and low confidence. The fear of inadequate preparation and failure is spilling into sleep. Treat the dream as a prompt to review your study plan and address the underlying anxiety proactively.",
+      "question_en": "What does it mean if a student frequently dreams of being late to an exam?"
+    },
+    {
+      "question_ko": "회사에 지각하는 꿈을 꾸면 실제로 일이 잘못될까요?",
+      "answer_ko": "꿈 해몽은 미래를 확정적으로 예언하는 것이 아니에요. 회사에 지각하는 꿈은 주로 현재 직장 내 스트레스와 업무 집중력 저하에 대한 무의식의 경고예요. 실제 상황이 나빠지는 것은 꿈 자체보다 현재의 행동과 태도에 달려 있어요. 꿈을 계기로 업무 우선순위를 점검해 보세요.",
+      "answer_en": "Dream interpretation does not predict the future with certainty. Dreaming of being late to work is primarily the subconscious flagging current stress levels and declining focus — not a guaranteed sign of disaster. Outcomes depend far more on your actual behavior and attitude than on the dream. Use it as a nudge to reassess your professional priorities.",
+      "question_en": "If I dream of being late to work, will things actually go wrong?"
+    },
+    {
+      "question_ko": "버스나 지하철을 놓치는 꿈과 지각하는 꿈은 같은 의미인가요?",
+      "answer_ko": "두 꿈 모두 기회 상실과 뒤처짐에 대한 불안을 상징하지만 미묘한 차이가 있어요. 교통수단을 놓치는 꿈은 행운이나 기회가 타인에게 넘어가는 것을 더 강조하고, 지각하는 꿈은 개인의 준비 부족이나 내적 불안에 초점이 맞춰져 있어요. 하지만 함께 나타나는 경우 두 의미가 겹치기도 해요.",
+      "answer_en": "Both dreams symbolize anxiety about missed opportunities and falling behind, but with subtle differences. Missing transportation more specifically emphasizes good fortune or a chance passing to someone else, while lateness dreams focus more on personal unpreparedness or inner anxiety. When they appear together, the meanings often overlap.",
+      "question_en": "Is missing a bus or subway in a dream the same meaning as dreaming of being late?"
+    },
+    {
+      "question_ko": "약속에 늦는 꿈은 연애 운과 관련이 있나요?",
+      "answer_ko": "연인이나 좋아하는 사람과의 약속에 늦는 꿈은 현재 관계에서 소홀함이나 불안을 느끼고 있다는 신호로 봐요. 관계가 멀어질 수 있다는 경고의 의미를 담고 있으므로, 상대방에게 더 많은 관심과 배려를 기울이는 계기로 삼는 것이 좋아요.",
+      "answer_en": "Being late to a date or appointment with a romantic partner is seen as a warning signal that the relationship may be growing distant. It reflects feelings of neglect or insecurity within the relationship. Consider it a nudge to invest more attention and care into the bond.",
+      "question_en": "Does dreaming of being late to an appointment relate to romantic fortune?"
+    },
+    {
+      "question_ko": "지각하는 꿈을 꾸고 나서 어떻게 대처하면 좋을까요?",
+      "answer_ko": "지각하는 꿈의 해몽이 다소 부정적이더라도 두려워할 필요는 없어요. 이 꿈은 무의식이 현재 상황의 긴장감을 알려주는 신호예요. 꿈을 꾼 뒤에는 현재 진행 중인 일의 우선순위를 점검하고, 과도한 스트레스를 줄일 방법을 찾아보세요. 준비를 철저히 하고 주변 사람들과 소통을 강화하는 것이 도움이 돼요.",
+      "answer_en": "Even if the interpretation of a late dream is negative, there is no need to be afraid. The dream is your subconscious communicating current tension. After having this dream, review your priorities, identify ways to reduce excessive stress, and reinforce communication with those around you. Thorough preparation and proactive engagement are the best responses.",
+      "question_en": "What should I do after dreaming of being late?"
+    }
+  ]
+}

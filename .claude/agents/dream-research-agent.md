@@ -44,6 +44,13 @@ When invoked, you will receive a dream symbol entry containing a Korean name, En
    - Comparisons with how other East Asian cultures interpret the same symbol
    Write a paragraph in Korean and a corresponding paragraph in English explaining the cultural background.
 
+6a. **Gather Western psychological context.** Research Western dream interpretation traditions for this symbol. Look for:
+   - **Freudian interpretation:** Sigmund Freud's psychoanalytic view (unconscious desires, wish fulfillment, libidinal symbolism, etc.)
+   - **Jungian interpretation:** Carl Jung's archetypal / collective unconscious perspective (shadow, anima/animus, individuation, universal symbols)
+   - **Modern Western psychology:** Contemporary cognitive/neuroscientific understanding of why people dream this (stress, anxiety, life transitions, etc.)
+   - **Cross-cultural comparison:** How Western vs. Korean interpretations differ or converge
+   Write each section in **both Korean and English**. Korean text should be natural 해요체 — this content appears on Korean pages too (younger Korean readers are familiar with Freud/Jung from university and pop culture). 2–4 sentences per tradition per language.
+
 6. **Identify related symbols and cross-references.** Determine which other dream symbols are commonly associated with or referenced alongside this one. Express these as slugs matching the site taxonomy. For example, if researching "snake," related symbols might include `dragon`, `frog`, `water`, `mountain`.
 
 7. **Compile SEO keyword lists.** Gather all meaningful long-tail keyword variations:
@@ -119,6 +126,24 @@ The output file at `data/research/{slug}.json` must conform to this structure:
     "korean": "Paragraph explaining cultural/historical background in Korean",
     "english": "Paragraph explaining cultural/historical background in English"
   },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트 정신분석학적 해석 (2-4문장, 해요체)",
+      "english": "Freud's psychoanalytic interpretation (2-4 sentences)"
+    },
+    "jungian": {
+      "korean": "융의 원형/집단무의식 해석 (2-4문장, 해요체)",
+      "english": "Jung's archetypal/collective unconscious interpretation (2-4 sentences)"
+    },
+    "modern": {
+      "korean": "현대 서양 심리학/뇌과학 관점 (2-4문장, 해요체)",
+      "english": "Modern Western psychology / neuroscience perspective (2-4 sentences)"
+    },
+    "crossCultural": {
+      "korean": "한국 전통 해몽과 서양 해석의 비교 (1-2문장, 해요체)",
+      "english": "Brief comparison of how Korean and Western interpretations converge or diverge (1-2 sentences)"
+    }
+  },
   "relatedSymbols": ["dragon", "frog", "water"],
   "seoKeywords": {
     "korean": ["뱀꿈", "뱀 꿈해몽", "뱀꿈 의미", "..."],
@@ -144,5 +169,6 @@ After writing the JSON file, provide a brief summary to the caller containing:
 3. The number of variations documented.
 4. The number of FAQ pairs generated.
 5. The number of SEO keywords collected (Korean + English).
-6. Any symbols that could not be adequately researched, with an explanation of what was missing.
-7. Any notes or caveats about the research quality or gaps found.
+6. Whether westernContext was successfully populated (Freudian / Jungian / modern / crossCultural).
+7. Any symbols that could not be adequately researched, with an explanation of what was missing.
+8. Any notes or caveats about the research quality or gaps found.

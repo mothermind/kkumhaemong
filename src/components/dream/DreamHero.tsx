@@ -1,5 +1,6 @@
 import Image from "next/image";
 import type { Locale } from "@/i18n/routing";
+import { MarkdownBody } from "./MarkdownBody";
 
 type Props = {
   title: string;
@@ -8,10 +9,9 @@ type Props = {
   locale: Locale;
 };
 
-export function DreamHero({ title, intro, heroImage, locale }: Props) {
+export function DreamHero({ title, intro, heroImage, locale: _locale }: Props) {
   return (
     <div className="mb-8">
-      {/* Hero image */}
       {/*
         Single 3:2 image from Midjourney.
         Mobile: 1:1 container → crops sides, keeps centered subject.
@@ -33,15 +33,13 @@ export function DreamHero({ title, intro, heroImage, locale }: Props) {
         <div className="mb-6 w-full rounded-2xl bg-gradient-to-br from-indigo-100 to-purple-100 aspect-square sm:aspect-video" />
       )}
 
-      {/* Title */}
       <h1 className="mb-4 text-2xl font-bold leading-snug sm:text-3xl">
         {title}
       </h1>
 
-      {/* Intro */}
-      <p className="text-base leading-relaxed text-gray-700 sm:text-lg">
+      <MarkdownBody className="text-base leading-relaxed text-gray-700 sm:text-lg">
         {intro}
-      </p>
+      </MarkdownBody>
     </div>
   );
 }

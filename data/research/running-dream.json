@@ -1,0 +1,222 @@
+{
+  "symbol": {
+    "korean": "달리는 꿈",
+    "english": "Dream of running",
+    "slug": "running-dream"
+  },
+  "summary": {
+    "korean": "달리는 꿈은 목표를 향한 노력과 의지를 상징하며, 달리는 상황과 감정에 따라 순조로운 전진(길몽)이 될 수도, 현실의 불안과 정체(흉몽)가 될 수도 있는 복합적인 꿈이에요.",
+    "english": "A dream of running symbolizes effort and determination toward a goal; its meaning shifts between auspicious progress and inauspicious stagnation depending on the emotional quality and conditions of the run."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "달리기 시합에서 1등을 하는 꿈은 그동안 쏟아온 노력의 결실을 맺고, 사업·시험·목표에서 좋은 결과를 얻게 될 것을 의미해요. 사회적으로도 두각을 나타내거나 출세할 징조로 풀이돼요.",
+      "english": "Winning a race in a dream signals that your accumulated efforts will bear fruit. It is a strong omen of success in business, exams, or personal goals, and often foreshadows social recognition or advancement.",
+      "context": "달리기 경쟁에서의 승리는 한국 민간 해몽에서 소원 성취와 출세의 대표적 길징으로 여겨져요."
+    },
+    {
+      "type": "길몽",
+      "korean": "넓은 초원이나 푸른 들판을 가볍고 기분 좋게 달리는 꿈은 사업이 번창하고, 건강이 회복되며, 재물이 늘어날 좋은 징조예요. 일이 막힘 없이 순조롭게 풀린다는 의미도 있어요.",
+      "english": "Running freely across a broad, green field or open plain is a highly auspicious dream indicating business prosperity, recovery from illness, and increasing wealth. It suggests that current endeavors will proceed without obstruction.",
+      "context": "자연 속에서의 자유로운 달리기는 기운이 통한다는 민간 신앙의 상징으로, 막힌 기운이 뚫리는 길몽으로 해석해요."
+    },
+    {
+      "type": "길몽",
+      "korean": "결승선을 통과하는 꿈은 오랫동안 바라던 소원이 이루어지고 깊은 만족감을 경험하게 될 것을 의미해요. 계획한 일이 마무리 단계에 이르러 성공으로 마무리된다는 뜻이기도 해요.",
+      "english": "Crossing the finish line in a dream is a powerful positive omen, indicating that long-held wishes are about to be fulfilled and plans will reach successful completion. It often brings a deep sense of satisfaction upon waking.",
+      "context": "결승선 통과는 과정의 완성을 의미하며, 현실에서도 목표한 일을 마무리 짓게 될 것이라는 암시로 풀이해요."
+    },
+    {
+      "type": "길몽",
+      "korean": "혼자 힘차게 달리는 꿈은 독립적으로 목표를 향해 나아가는 강한 의지를 반영해요. 사회적 성공, 지위 상승, 그리고 번영의 징조로 해석돼요.",
+      "english": "Running alone with power and confidence reflects strong independent will toward a goal. It is interpreted as an omen of social success, elevated status, and general prosperity.",
+      "context": "홀로 달리는 꿈은 자기 주도적 성취를 상징하며 꿈해몽에서 전통적으로 자수성가의 징조로 봐요."
+    },
+    {
+      "type": "흉몽",
+      "korean": "제자리에서 뛰거나 아무리 달려도 앞으로 나아가지 못하는 꿈은 현실에서의 정체와 답보 상태를 나타내요. 직장에서 승진 없이 부서 이동만 반복되거나, 아무리 노력해도 결과가 따라오지 않는 상황을 암시해요.",
+      "english": "Running in place or being unable to move forward despite all effort signals stagnation in real life — endless transfers without promotion, or efforts that yield no visible results. It urges the dreamer to reassess their direction.",
+      "context": "제자리 달리기는 한국 해몽에서 노력과 성과의 괴리를 상징하는 대표적인 흉몽 패턴이에요."
+    },
+    {
+      "type": "흉몽",
+      "korean": "달리다가 쓰러지거나 넘어지는 꿈은 추진 중인 일에서 실패나 좌절을 겪을 수 있다는 경고예요. 예상치 못한 장애물이 나타나거나 계획이 어긋날 수 있음을 암시해요.",
+      "english": "Falling while running is a warning dream suggesting potential failure or setback in an ongoing endeavor. It signals that unexpected obstacles may appear or that current plans may not go as intended.",
+      "context": "달리다 넘어지는 꿈은 고비를 넘기지 못한다는 의미로 전통 해몽서에서 꾸준히 등장하는 흉몽 유형이에요."
+    },
+    {
+      "type": "흉몽",
+      "korean": "맨발로 달리는 꿈은 재정적 어려움이 닥칠 것을 경고해요. 지출을 줄이고 저축에 힘써야 할 시기가 가까워졌다는 신호로 해석해요.",
+      "english": "Running barefoot in a dream warns of impending financial difficulty. It is traditionally interpreted as a signal to practice frugality and be mindful of spending.",
+      "context": "맨발은 준비 부족과 물질적 부족함의 상징으로, 재물 관련 흉몽의 단골 요소예요."
+    },
+    {
+      "type": "흉몽",
+      "korean": "달리다가 다리가 멈추거나 몸이 굳어버리는 꿈은 진행 중인 프로젝트나 계획을 중도에 포기하게 되거나, 장애물로 인해 크게 실망할 수 있음을 예고해요.",
+      "english": "Having your legs stop or your body freeze mid-run signals the potential abandonment of a project or plan, and deep disappointment caused by obstacles that feel insurmountable.",
+      "context": "몸이 굳는 달리기 꿈은 의지력 약화와 외부 압박을 동시에 상징하는 흉몽으로 해석해요."
+    },
+    {
+      "type": "neutral",
+      "korean": "누군가와 손을 잡고 함께 달리는 꿈은 협력자가 필요한 상황이 다가오거나 공동 작업이 진행 중임을 나타내요. 손을 잡은 느낌이 편하면 협력이 순조롭고, 불편하면 갈등 가능성을 시사해요.",
+      "english": "Running hand-in-hand with someone signals that collaboration is either needed or already underway. A comfortable grip suggests smooth cooperation; an uncomfortable or cold grip warns of potential conflict or poor teamwork.",
+      "context": "동반 달리기는 현실의 협력 관계를 반영하는 꿈으로, 함께 달리는 상대방이 곧 협력자를 상징해요."
+    },
+    {
+      "type": "neutral",
+      "korean": "마라톤을 달리는 꿈은 현재 자유롭지 못하다는 심리적 답답함이나, 현 상황에서 벗어나고 싶다는 욕구를 반영해요. 동시에 장기적인 인내와 지구력의 필요성을 일깨우는 꿈이기도 해요.",
+      "english": "Dreaming of running a marathon reflects a feeling of constraint or a desire to escape current circumstances. It also serves as a reminder that the dreamer's goals require sustained endurance and long-term commitment rather than a quick sprint.",
+      "context": "마라톤은 인내와 장거리 노력의 상징으로, 한국 해몽에서는 현재 상황의 지속성과 심리적 부담을 함께 나타내요."
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "빠르게 달리는 꿈",
+      "keyword_en": "Dream of running fast",
+      "interpretation_ko": "빠르게 달리는 꿈은 현실에서 급하게 처리해야 할 일이 생기거나, 목표를 향한 강렬한 열망이 내면에 있다는 것을 보여줘요. 달리기가 즐겁고 가볍다면 기쁜 소식이 가까이 있다는 길징이에요. 반면 숨이 차고 불안하게 느껴진다면 현실의 초조함과 압박을 반영해요.",
+      "interpretation_en": "Running very fast in a dream indicates that an urgent matter is approaching in waking life, or that an intense inner drive toward a goal exists. If the fast running feels joyful and light, good news is near; if it feels breathless and anxious, it reflects real-world pressure and stress."
+    },
+    {
+      "keyword_ko": "느리게 달리는 꿈",
+      "keyword_en": "Dream of running slowly",
+      "interpretation_ko": "느리게 달리는 꿈은 현재 진행 중인 일이 기대만큼 빨리 진행되지 않고 있다는 현실을 반영해요. 스트레스와 압박 속에서도 포기하지 않고 꾸준히 나아가는 의지를 상징하기도 하지만, 방법과 방향을 재검토할 필요가 있다는 신호이기도 해요.",
+      "interpretation_en": "Slow running in a dream reflects the reality that current plans or efforts are not progressing as quickly as hoped. It can symbolize steady perseverance under pressure, but also serves as a nudge to reconsider one's methods and direction."
+    },
+    {
+      "keyword_ko": "누군가와 함께 달리는 꿈",
+      "keyword_en": "Dream of running with someone",
+      "interpretation_ko": "함께 달리는 상대방이 누구냐에 따라 해석이 달라져요. 편하게 나란히 달리면 공동 작업이나 협력 관계가 원만하게 진행된다는 의미예요. 어깨동무를 하고 달리면 그 상대방과 관계가 불편해질 수 있다는 경고로 풀이해요.",
+      "interpretation_en": "The meaning depends on the companion. Running comfortably side-by-side indicates smooth cooperation and harmonious collaboration. Running with arms around each other's shoulders, however, warns of future tension or conflict with that person."
+    },
+    {
+      "keyword_ko": "마라톤 꿈",
+      "keyword_en": "Dream of running a marathon",
+      "interpretation_ko": "마라톤을 뛰는 꿈은 지금 하고 있는 일이 단기간에 끝나지 않는 장기적인 과제임을 암시해요. 자유에 대한 욕구와 현 상황에서 벗어나고 싶다는 심리적 답답함이 꿈으로 표출된 것이기도 해요. 레이스를 끝까지 완주한다면 어떤 어려움도 버텨낼 수 있다는 긍정적 메시지예요.",
+      "interpretation_en": "A marathon dream suggests that current goals require long-term dedication rather than a short burst of effort. It often expresses a desire for freedom or to escape constraining circumstances. Finishing the marathon is a positive sign of remarkable endurance and eventual success."
+    },
+    {
+      "keyword_ko": "결승선을 통과하는 꿈",
+      "keyword_en": "Dream of crossing the finish line",
+      "interpretation_ko": "결승선을 통과하는 꿈은 오랫동안 추구해온 목표나 소원이 드디어 이루어지는 것을 예고하는 강력한 길몽이에요. 삶의 한 챕터가 성공적으로 마무리되고, 뒤이어 새로운 시작이 찾아온다는 의미를 담고 있어요.",
+      "interpretation_en": "Crossing the finish line is a powerful auspicious dream signaling that a long-sought goal or wish is about to be fulfilled. It marks the successful completion of a life chapter and the dawning of a new beginning."
+    },
+    {
+      "keyword_ko": "산을 달리는 꿈",
+      "keyword_en": "Dream of running on a mountain",
+      "interpretation_ko": "산을 힘차게 달리는 꿈은 목표를 향해 열심히 노력하며 일이 잘 추진되고 있음을 나타내는 길몽이에요. 단, 험한 산길에서 힘겹게 달리는 꿈은 현재 추진 중인 일이 어려움에 봉착하거나 실패할 수 있다는 흉몽으로 해석돼요.",
+      "interpretation_en": "Running vigorously on a mountain is auspicious, showing strong momentum toward goals. However, struggling to run on a rugged mountain path signals difficulties or potential failure in current undertakings."
+    },
+    {
+      "keyword_ko": "달리다가 넘어지는 꿈",
+      "keyword_en": "Dream of falling while running",
+      "interpretation_ko": "달리다가 갑자기 넘어지는 꿈은 추진 중인 일에서 예상치 못한 변수나 장애물을 만나 실패하거나 좌절할 수 있다는 경고예요. 빨리 일어나서 다시 달린다면 극복의 의미로, 그냥 누워있다면 포기의 의미로 풀이해요.",
+      "interpretation_en": "Falling while running warns of unexpected obstacles or failure in a current endeavor. If you quickly get up and resume running, it signals recovery and resilience; if you remain on the ground, it suggests giving up or prolonged setback."
+    },
+    {
+      "keyword_ko": "달리기 시합에서 이기는 꿈",
+      "keyword_en": "Dream of winning a race",
+      "interpretation_ko": "달리기 시합에서 1등으로 결승선을 통과하는 꿈은 사업, 시험, 취업, 경쟁 등 현실의 다양한 경쟁에서 좋은 결과를 얻게 될 것을 예고하는 대표적인 길몽이에요. 노력한 만큼 인정받고 보상을 받는다는 의미도 있어요.",
+      "interpretation_en": "Winning a race and crossing the finish line first is a classic auspicious dream predicting favorable outcomes in real competitions — business deals, exams, job applications, or personal rivalries. It also signals that your efforts will be recognized and rewarded."
+    }
+  ],
+  "culturalContext": {
+    "korean": "한국의 전통 꿈 해몽에서 달리는 꿈은 '기운의 흐름'과 깊이 연결돼 있어요. 무속 신앙에서 기운이 통한다는 것은 인간의 노력이 우주의 흐름과 일치함을 뜻하며, 달리는 행위는 이 기운이 막히지 않고 순환하는 상태를 상징해요. 민간에서는 산이나 들판을 자유롭게 달리는 꿈을 꾸면 막혔던 복이 열린다고 여겼어요. 반대로, 제자리를 맴돌거나 달려도 앞으로 나아가지 못하는 꿈은 기운이 막힌 상태를 의미하며 정체와 변화의 필요성을 알리는 신호로 해석했어요. 또한 조선 시대 태몽 문화에서는 힘차게 달리거나 높이 뛰어오르는 꿈이 태아의 강건함과 장래 큰 인물이 될 것을 예고하는 태몽으로 여겨지기도 했어요. 달리기 꿈의 해몽은 단순히 운세를 보는 것을 넘어, 현재 자신의 심리 상태와 삶의 방향을 되돌아보는 자기 성찰의 도구로도 기능해왔어요.",
+    "english": "In Korean traditional dream interpretation, running dreams are closely linked to the flow of 'gi' (기운) — vital energy. In shamanic belief, when a person's energy aligns with the flow of the universe, they thrive; running in a dream symbolizes this unobstructed circulation of life force. Folk tradition held that dreaming of running freely through nature — mountains, meadows, open fields — meant blocked fortune was opening up. Conversely, running in place or failing to advance signified a blockage in energy, urging the dreamer to seek change. During the Joseon period, vivid running or leaping dreams were also recognized as 태몽 (birth omens), believed to foretell a child's physical vigor and future greatness. Beyond fortune-telling, Korean running dream interpretation has long served as a tool for introspection — a mirror of one's psychological state, drive, and the alignment between effort and direction in life."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트는 달리는 꿈을 억압된 욕동(리비도)의 표출로 해석했어요. 힘차게 달리는 꿈은 소원 충족(wish fulfillment)의 상징으로, 현실에서 억눌린 야망이나 욕구가 꿈 속에서 자유롭게 펼쳐지는 것이에요. 반면 달려도 나아가지 못하거나 다리가 굳어버리는 꿈은 프로이트가 『꿈의 해석』에서 설명한 전형적인 불안몽으로, 억압된 갈등이나 죄책감이 내면의 전진을 막고 있음을 반영해요.",
+      "english": "Freud interpreted running dreams as expressions of repressed libidinal drive. Running freely and powerfully represents wish fulfillment — suppressed ambitions or desires breaking through into dream life unconstrained. Conversely, being unable to move forward or having legs that freeze is a classic anxiety dream, as described in *The Interpretation of Dreams*, reflecting how repressed conflicts or guilt can block the dreamer's inner sense of progress."
+    },
+    "jungian": {
+      "korean": "융의 관점에서 달리는 꿈은 자기(Self)가 개성화(individuation) 과정에서 앞으로 나아가는 원형적 움직임을 상징해요. 넓은 들판이나 산을 자유롭게 달리는 꿈은 자아(ego)가 집단무의식의 에너지와 조화를 이루며 영웅 여정(Hero's Journey)을 걷고 있음을 나타내요. 반면 달려도 제자리에 머무는 꿈은 그림자(Shadow) 원형이 의식적 전진을 방해하고 있다는 신호로, 내면의 어두운 면을 직면하고 통합해야 할 시점임을 암시해요.",
+      "english": "From a Jungian perspective, running dreams symbolize the archetypal forward movement of the Self through the individuation process. Running freely across open landscapes represents the ego moving in harmony with the energy of the collective unconscious — a Hero's Journey unfolding. Running in place, however, signals that the Shadow archetype is obstructing conscious progress, indicating a need to confront and integrate the darker, unacknowledged aspects of the psyche."
+    },
+    "modern": {
+      "korean": "현대 수면 과학에서는 달리는 꿈을 렘(REM) 수면 중 운동 피질(motor cortex)이 활성화되면서도 근육 이완(atonia)으로 인해 실제 움직임이 차단되는 신경학적 현상으로 설명해요. 달려도 앞으로 나아가지 못하는 꿈은 바로 이 렘 수면 근육 억제 메커니즘이 꿈 속 경험으로 표출된 것이에요. 또한 심리학 연구들은 달리는 꿈이 현실의 스트레스 수준, 목표 달성 의욕, 그리고 운동 습관과 유의미한 상관관계가 있음을 보여줘요.",
+      "english": "Modern sleep science explains running dreams as a neurological phenomenon: during REM sleep, the motor cortex activates as if the body were truly moving, but REM atonia — a brainstem-mediated muscle paralysis — prevents actual movement. The common experience of running but going nowhere is a direct perceptual consequence of this atonia. Psychological research also shows meaningful correlations between running dreams and waking-life stress levels, goal motivation, and regular exercise habits."
+    },
+    "crossCultural": {
+      "korean": "한국 전통 해몽이 달리기를 우주적 기운(氣)의 흐름으로 보는 반면, 서양 심리학은 이를 개인 내면의 심리적 에너지와 욕동의 흐름으로 해석해요. 두 전통 모두 달리기의 자유로움을 긍정적 힘의 순환으로, 정체를 내적 장애의 표현으로 본다는 점에서 문화를 넘나드는 보편적 상징 언어를 공유하고 있어요.",
+      "english": "Where Korean tradition reads running as the flow of cosmic gi (vital energy) through the universe, Western psychology frames it as the movement of internal psychic energy and drive within the individual. Both traditions share a cross-cultural symbolic language: free, effortless running represents the healthy circulation of life force, while stagnation in running reflects an inner blockage — whether energetic or psychological."
+    }
+  },
+  "relatedSymbols": [
+    "being-chased-dream",
+    "flying-dream",
+    "jumping-dream",
+    "marathon-dream",
+    "racing-dream",
+    "falling-dream"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "달리는 꿈 해몽",
+      "뛰는 꿈 해몽",
+      "달리기 꿈 의미",
+      "달리는 꿈 길몽",
+      "달리는 꿈 흉몽",
+      "빠르게 달리는 꿈 해몽",
+      "느리게 달리는 꿈",
+      "마라톤 꿈 해몽",
+      "결승선 꿈 해석",
+      "달리기 시합 꿈",
+      "제자리 달리는 꿈",
+      "산 달리는 꿈 해몽",
+      "함께 달리는 꿈",
+      "달리다 넘어지는 꿈",
+      "달리기 꿈풀이"
+    ],
+    "english": [
+      "running dream meaning",
+      "dream of running interpretation",
+      "running dream Korean",
+      "running fast in dream",
+      "marathon dream meaning",
+      "crossing finish line dream",
+      "running dream auspicious",
+      "can't run in dream meaning",
+      "dream of running slowly",
+      "running race dream interpretation"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "달리는 꿈은 길몽인가요, 흉몽인가요?",
+      "answer_ko": "달리는 꿈은 달리는 상황과 느낌에 따라 길몽과 흉몽이 나뉘어요. 가볍고 힘차게 달리거나 결승선을 통과하는 꿈은 대표적인 길몽이에요. 반면 제자리를 달리거나, 달려도 앞으로 나아가지 못하거나, 달리다가 넘어지는 꿈은 정체와 실패를 예고하는 흉몽으로 풀이해요.",
+      "question_en": "Is a running dream auspicious or inauspicious?",
+      "answer_en": "It depends entirely on the conditions and emotions of the dream. Running lightly and powerfully, or crossing a finish line, is strongly auspicious — signaling success and goal achievement. Running in place, failing to move forward, or falling while running are inauspicious, warning of stagnation or setback."
+    },
+    {
+      "question_ko": "달리기 시합에서 1등 하는 꿈을 꾸면 무슨 의미인가요?",
+      "answer_ko": "달리기 경주에서 1등으로 결승선을 통과하는 꿈은 매우 강력한 길몽이에요. 현실에서 사업, 시험, 취업, 승진 등 경쟁하는 상황에서 좋은 결과를 얻게 될 것을 예고해요. 그동안의 노력이 인정받고 보상받는 시기가 다가왔다는 뜻이에요.",
+      "question_en": "What does it mean to win a running race in a dream?",
+      "answer_en": "Winning a race and being first across the finish line is one of the strongest auspicious dream signs. It predicts favorable outcomes in real-life competitions — whether a business deal, an exam, a job application, or a promotion. It signals that your hard work is about to be recognized and rewarded."
+    },
+    {
+      "question_ko": "달려도 앞으로 나아가지 못하는 꿈은 무슨 의미인가요?",
+      "answer_ko": "제자리에서 달리거나 아무리 뛰어도 앞으로 나아가지 못하는 꿈은 현실에서 노력해도 결과가 잘 나오지 않는 정체 상태를 반영해요. 직장에서 승진 없이 부서 이동만 반복되거나, 목표를 향해 달리는데 진전이 없는 상황을 상징해요. 현재의 방향과 방법을 점검해볼 필요가 있다는 신호로 받아들이는 게 좋아요.",
+      "question_en": "What does it mean when you run but can't move forward in a dream?",
+      "answer_en": "This dream — running in place or being unable to advance despite effort — reflects real-world stagnation. It often mirrors situations where effort yields no results, like a job with repeated lateral transfers but no promotion. Consider it a signal to pause and reassess your current approach and direction."
+    },
+    {
+      "question_ko": "마라톤을 달리는 꿈은 어떤 의미인가요?",
+      "answer_ko": "마라톤 꿈은 지금 하고 있는 일이 장기적인 노력을 요구하는 과제임을 시사해요. 현재 상황이 답답하고 자유롭지 못하다는 심리적 상태가 반영된 것이기도 해요. 마라톤을 완주하는 꿈이라면 어떤 어려운 상황도 인내로 극복할 수 있다는 강한 긍정의 메시지예요.",
+      "question_en": "What does dreaming of a marathon mean?",
+      "answer_en": "A marathon dream suggests that current goals demand sustained long-term effort — no shortcuts. It can also reflect feeling constrained or lacking freedom in your current circumstances. Finishing the marathon is a strongly positive message about your capacity for endurance and eventual triumph."
+    },
+    {
+      "question_ko": "누군가와 함께 달리는 꿈은 무슨 뜻인가요?",
+      "answer_ko": "함께 달리는 꿈은 공동 작업이나 협력이 필요한 상황을 상징해요. 손을 잡고 편하게 달리면 협력 관계가 원만하게 진행된다는 뜻이에요. 어깨동무를 하고 달리면 그 사람과의 관계에서 불화가 생길 수 있다는 경고로 풀이해요. 달리는 상대방이 누구인지도 해몽에서 중요한 단서가 돼요.",
+      "question_en": "What does it mean to run with someone in a dream?",
+      "answer_en": "Running with another person symbolizes collaboration or partnership in waking life. Holding hands comfortably while running indicates smooth cooperation. Running arm-in-arm or shoulder-to-shoulder, however, warns of potential friction or conflict with that person. The identity of your running companion often provides additional clues."
+    },
+    {
+      "question_ko": "달리다가 넘어지는 꿈은 어떻게 해석하나요?",
+      "answer_ko": "달리다가 갑자기 넘어지는 꿈은 진행 중인 일에서 예상치 못한 장애물을 만나거나 실패할 수 있다는 경고예요. 빨리 일어나 다시 달리는 꿈이라면 어려움을 극복하고 다시 일어설 수 있다는 긍정적인 의미가 있어요. 넘어진 채로 일어나지 못한다면 계획을 중도에 포기하게 될 수 있음을 시사해요.",
+      "question_en": "How should I interpret a dream where I fall while running?",
+      "answer_en": "Falling while running warns that an unexpected obstacle or failure may interrupt an ongoing plan. If you quickly get back up and continue running, it carries a positive message of resilience and recovery. Remaining fallen without rising suggests the possibility of abandoning a plan midway."
+    }
+  ]
+}

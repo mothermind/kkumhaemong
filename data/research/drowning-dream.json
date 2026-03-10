@@ -1,0 +1,242 @@
+{
+  "symbol": {
+    "korean": "물에 빠지는 꿈",
+    "english": "Dream of drowning / falling into water",
+    "slug": "drowning-dream"
+  },
+  "summary": {
+    "korean": "물에 빠지는 꿈은 현실의 감정적 압박과 생활의 어려움을 반영하는 꿈으로, 물의 상태와 결말에 따라 위기 경고의 흉몽이 되기도 하고 역경을 극복하는 길몽이 되기도 해요.",
+    "english": "A dream of drowning or falling into water reflects emotional overwhelm and life pressures in waking life; whether it is auspicious or inauspicious depends on the clarity of the water and the outcome — survival and rescue turn hardship into a sign of forthcoming resolution."
+  },
+  "interpretations": [
+    {
+      "type": "흉몽",
+      "korean": "갑자기 물에 빠지는 꿈은 신변에 좋지 않은 일이 생길 것을 경고하는 흉몽이에요. 구설수, 재물 손실, 예기치 못한 시련이 닥칠 수 있으므로 매사 조심해야 해요.",
+      "english": "Suddenly falling into water is a warning of misfortune — potential gossip, financial loss, or an unexpected ordeal. This dream urges caution in daily affairs.",
+      "context": "기본적 물에 빠지는 꿈 — 탈출 없음"
+    },
+    {
+      "type": "흉몽",
+      "korean": "물에 빠져 고통스럽게 허우적대는 꿈은 현재의 어려운 상황이 더 악화될 수 있다는 신호예요. 심리적으로 불안하거나 해결되지 않은 문제가 쌓여 있다는 의미이기도 해요.",
+      "english": "Struggling and thrashing in the water signals that current difficulties may worsen. It often points to psychological instability or an accumulation of unresolved issues pressing on the dreamer.",
+      "context": "익사 직전 허우적거리는 상황"
+    },
+    {
+      "type": "길몽",
+      "korean": "물에 빠졌다가 스스로 헤어 나오는 꿈은 현재의 어려움이나 위기를 스스로의 힘으로 극복하게 될 징조예요. 노력이 결실을 맺어 상황이 호전되는 길몽이에요.",
+      "english": "Falling into water but successfully escaping on your own is an auspicious sign that you will overcome current difficulties through your own efforts, with the situation improving as a result.",
+      "context": "물에 빠진 후 스스로 탈출 성공"
+    },
+    {
+      "type": "길몽",
+      "korean": "물에 빠진 후 누군가에게 구조되는 꿈은 위기 속에서도 귀인의 도움이 찾아올 것을 암시해요. 신뢰할 수 있는 사람을 만나게 되거나 사업에서 뜻밖의 지원을 받게 될 수 있어요.",
+      "english": "Being rescued after drowning signals that help will arrive during a crisis — a trustworthy ally or unexpected support in work or business is on the way.",
+      "context": "타인에 의한 구조"
+    },
+    {
+      "type": "길몽",
+      "korean": "맑은 물에 빠지는 꿈은 과오를 씻어내고 새로운 출발을 하게 될 길몽이에요. 타인의 신임을 얻거나 새로운 환경에서 멋진 시작을 맞이할 수 있어요.",
+      "english": "Falling into clear, clean water is auspicious — it symbolizes washing away past mistakes and making a fresh start, often with the trust and recognition of others.",
+      "context": "맑은 물에 빠지는 경우"
+    },
+    {
+      "type": "흉몽",
+      "korean": "더럽거나 탁한 물에 빠지는 꿈은 건강 문제나 예기치 못한 불행을 암시하는 흉몽이에요. 본인 또는 가족의 건강에 각별히 주의해야 할 시기예요.",
+      "english": "Drowning in murky or dirty water is inauspicious, signaling health troubles or unexpected misfortune for oneself or family members. It calls for extra vigilance in health matters.",
+      "context": "탁하거나 더러운 물"
+    },
+    {
+      "type": "길몽",
+      "korean": "똥물(오물)에 빠지는 꿈은 전통 꿈해몽에서 최고의 길몽 중 하나예요. 재물이 크게 늘거나 행운이 연달아 찾아올 것을 예고해요.",
+      "english": "Falling into sewage or excrement water is considered one of the best auspicious omens in Korean folk dream tradition — it strongly foretells a surge in wealth or a string of good fortune.",
+      "context": "오물·똥물에 빠지는 꿈 (민간 전통)"
+    },
+    {
+      "type": "neutral",
+      "korean": "물에 빠져 죽는 꿈은 반드시 흉몽이 아니에요. 오히려 인생의 새로운 국면이 시작되거나 큰 전환점을 맞이하게 될 것을 암시하는 경우가 많아요. 단, 꿈 속에서 고통이 심했다면 주의가 필요해요.",
+      "english": "Drowning to death in a dream is not necessarily inauspicious — it often symbolizes a major life transformation or new beginning. However, if the experience felt deeply painful, it may warrant caution.",
+      "context": "꿈 속에서 익사 — 결말과 감정에 따라 해석 달라짐"
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "강에 빠지는 꿈",
+      "keyword_en": "Dream of falling into a river",
+      "interpretation_ko": "강에 빠졌다가 올라오는 꿈은 현재의 장애물을 극복하고 노력의 결실을 맺게 될 길몽이에요. 반면 강물에 빠져 허우적대는 꿈은 계획이 틀어지거나 손실이 발생할 수 있음을 경고해요.",
+      "interpretation_en": "Falling into a river and emerging is auspicious — obstacles will be overcome and efforts rewarded. Struggling in the river without escaping warns of disrupted plans or financial setbacks."
+    },
+    {
+      "keyword_ko": "바다에 빠지는 꿈",
+      "keyword_en": "Dream of falling into the sea",
+      "interpretation_ko": "바다에 빠지는 꿈은 감정적으로 감당하기 어려운 큰 어려움이나 스트레스를 상징하는 흉몽이에요. 추진 중인 계획이 무산되거나 큰 실패를 경험할 수 있어요. 단, 누군가 구해주는 꿈이라면 귀인의 도움을 받게 될 길몽으로 풀이해요.",
+      "interpretation_en": "Falling into the sea represents overwhelming difficulties or emotional stress, and can signal that ongoing plans may collapse. If someone rescues you, however, it becomes auspicious — a trustworthy ally will provide crucial help."
+    },
+    {
+      "keyword_ko": "수영장에 빠지는 꿈",
+      "keyword_en": "Dream of falling into a swimming pool",
+      "interpretation_ko": "수영장에 빠지는 꿈은 목표를 추구하는 과정에서 예상치 못한 장애물에 맞닥뜨릴 수 있음을 시사해요. 감정 상태를 잘 관리하고 인내심을 갖는 것이 중요해요.",
+      "interpretation_en": "Falling into a swimming pool suggests you may encounter unexpected obstacles while pursuing your goals. It calls for emotional steadiness and perseverance to stay on course."
+    },
+    {
+      "keyword_ko": "맑은 물에 빠지는 꿈",
+      "keyword_en": "Dream of falling into clear water",
+      "interpretation_ko": "맑고 깨끗한 물에 빠지는 꿈은 과거의 허물을 씻고 새로운 출발을 하게 될 길몽이에요. 새로운 조직이나 환경에서 인정받고 밝은 일이 시작될 것을 예고해요.",
+      "interpretation_en": "Falling into clear, clean water is auspicious — it symbolizes cleansing past mistakes and making a fresh start, gaining recognition in a new environment or organization."
+    },
+    {
+      "keyword_ko": "탁한 물·흙탕물에 빠지는 꿈",
+      "keyword_en": "Dream of falling into muddy or murky water",
+      "interpretation_ko": "흙탕물이나 탁한 물에 빠지는 꿈은 건강 문제, 재물 손실, 주변의 시기와 질투를 암시하는 흉몽이에요. 단, 흙탕물에 빠졌다가 간신히 살아나오는 꿈은 고생 끝에 문제가 해결되고 마음의 안정을 찾게 됨을 뜻하기도 해요.",
+      "interpretation_en": "Muddy or murky water is inauspicious — health issues, financial loss, or rivalry from those around you may arise. However, if you narrowly escape the muddy water, it can mean hardship will eventually resolve into peace."
+    },
+    {
+      "keyword_ko": "구조되는 꿈 (물에서 구출)",
+      "keyword_en": "Dream of being rescued from drowning",
+      "interpretation_ko": "물에 빠졌다가 누군가에게 구조되는 꿈은 위기 속에서도 귀인의 도움과 지원을 받게 될 길몽이에요. 사업이나 인간관계에서 신뢰할 만한 사람을 만나게 될 가능성이 높아요.",
+      "interpretation_en": "Being rescued from drowning is a strong auspicious sign — a reliable person will offer crucial help during difficult times, and new trustworthy relationships may form in work or personal life."
+    },
+    {
+      "keyword_ko": "혼자 헤어나오는 꿈",
+      "keyword_en": "Dream of escaping the water alone",
+      "interpretation_ko": "물에 빠졌다가 스스로 헤엄쳐 나오는 꿈은 자신의 의지와 능력으로 현재의 위기나 문제를 극복하게 될 것임을 암시하는 길몽이에요.",
+      "interpretation_en": "Escaping the water by your own effort is auspicious — it signals that you have the willpower and ability to overcome the current crisis or challenge on your own terms."
+    },
+    {
+      "keyword_ko": "익사하는 꿈 (물에 빠져 죽는 꿈)",
+      "keyword_en": "Dream of drowning to death",
+      "interpretation_ko": "익사하는 꿈은 전통적으로 새로운 시작을 알리는 꿈으로 해석돼요. 한 시대가 끝나고 새로운 국면이 열리는 인생의 전환점을 상징해요. 단, 꿈 속에서 극심한 고통을 느꼈다면 대형 사고나 건강 문제에 주의가 필요해요.",
+      "interpretation_en": "Drowning to death traditionally symbolizes the close of one chapter and the opening of a new life phase — a major turning point. If the experience was agonizing, however, it warns of serious accidents or health issues."
+    },
+    {
+      "keyword_ko": "다른 사람이 물에 빠지는 꿈",
+      "keyword_en": "Dream of someone else drowning",
+      "interpretation_ko": "타인이 물에 빠지는 것을 보는 꿈은 주변 인물과의 불화나 경제적 위기를 암시하는 흉몽이에요. 반면 타인이 물에 빠져 죽는 것을 보는 꿈은 신변에 이로운 변화나 기분 전환이 찾아올 길몽으로 해석되기도 해요.",
+      "interpretation_en": "Watching someone else drown warns of conflict with those close to you or financial difficulties. Notably, seeing someone drown and die can paradoxically be interpreted as a positive change or refreshing shift in your own circumstances."
+    },
+    {
+      "keyword_ko": "가족이 물에 빠지는 꿈",
+      "keyword_en": "Dream of a family member drowning",
+      "interpretation_ko": "가족이 물에 빠지는 꿈은 가족 간의 불화나 건강 문제를 암시하는 흉몽이에요. 가족에 대한 걱정과 보호 본능이 반영된 꿈이기도 해요. 가족이 무사히 탈출하는 꿈이라면 일이 순조롭게 풀릴 길조예요.",
+      "interpretation_en": "A family member drowning warns of family discord or health issues among loved ones, and often reflects protective anxiety. If they escape safely, it is a positive sign that matters will proceed smoothly."
+    },
+    {
+      "keyword_ko": "우물에 빠지는 꿈",
+      "keyword_en": "Dream of falling into a well",
+      "interpretation_ko": "우물에 빠지는 꿈은 질병, 법적 분쟁, 구설수, 또는 재산 손실을 예고하는 흉몽이에요. 예기치 못한 사고가 발생할 수 있으므로 주의가 필요해요.",
+      "interpretation_en": "Falling into a well foreshadows illness, legal disputes, gossip, or financial loss. It is a warning to be cautious of unexpected accidents or complications."
+    },
+    {
+      "keyword_ko": "차가 물에 빠지는 꿈",
+      "keyword_en": "Dream of a car falling into water",
+      "interpretation_ko": "자동차가 물에 빠지는 꿈은 업무나 사업에서 뜻밖의 문제가 발생하거나 진행 방향이 크게 틀어질 것을 경고하는 흉몽이에요. 통제력을 잃을 수 있는 상황을 암시해요.",
+      "interpretation_en": "A car falling into water warns of unexpected problems in work or business that could derail plans significantly. It suggests losing control over a situation you thought was manageable."
+    }
+  ],
+  "culturalContext": {
+    "korean": "한국의 전통 꿈해몽에서 물(水)은 생명과 감정, 재물의 흐름을 상징하는 핵심적인 요소예요. 맑고 잔잔한 물은 순조로운 운과 풍요를 뜻하고, 탁하거나 거친 물은 혼란과 위기를 암시해요. 물에 빠지는 꿈은 오래전부터 한국 민간 신앙에서 중요하게 다뤄져 왔어요. 전통적으로 꿈 해석에서는 '반대 풀이' 방식도 사용되어, 꿈 속의 죽음이나 고통이 오히려 새 출발의 길조로 해석되는 경우도 있었어요. 특히 맑은 물에 빠지거나 오물에 빠지는 꿈이 재물 운이나 새로운 기회를 예고한다는 해석은 한국 고유의 민간 신앙에서 비롯된 것이에요. 물과 연관된 꿈은 꿈꾼 사람의 심리 상태, 물의 색깔과 흐름, 그리고 꿈의 결말을 종합적으로 고려해야 정확한 해몽이 가능해요.",
+    "english": "In Korean folk dream tradition, water (水) is one of the most symbolically rich elements, representing the flow of life energy, emotions, and wealth. Clear, calm water denotes smooth fortune and abundance, while turbid or violent water signals chaos and hardship. Dreams of falling into water have long been taken seriously in Korean folk belief, where shamanic (무속) and Confucian interpretive frameworks both attributed prophetic significance to such imagery. Korean dream interpretation also employs a 'reverse reading' (반대 풀이) tradition in which negative dream events — like drowning or death — can paradoxically signal positive transformation or new beginnings. The specific belief that drowning in clear water or excrement water (똥물) foretells wealth and opportunity is distinctly Korean in character, rooted in agrarian and shamanistic traditions where fertility and abundance were read through unconventional symbols. A complete and accurate reading always considers the water's clarity, the dreamer's emotional state during the dream, and how the event resolved."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트 정신분석학에서 물에 빠지는 꿈은 억압된 감정이나 무의식적 충동이 의식의 표면으로 밀려오는 상태를 상징해요. 익사의 위험감은 '이드(id)'의 충동이 자아(ego)의 방어를 압도하려는 내적 갈등을 반영하며, 통제력 상실에 대한 원초적 불안을 나타내요. 프로이트는 물을 자궁과 탄생의 상징으로도 보았기 때문에, 물에 빠지는 꿈은 퇴행적 소망이나 안전했던 과거로 돌아가려는 무의식적 욕구와 연결될 수 있어요.",
+      "english": "In Freudian psychoanalysis, drowning dreams symbolize repressed emotions or unconscious drives surging toward the surface of conscious awareness. The sensation of being overwhelmed by water reflects the id's impulses threatening to overpower the ego's defenses — a manifestation of primal anxiety about loss of control. Freud also associated water with the womb and birth, so drowning dreams may connect to regressive wishes or an unconscious desire to return to a state of safety and dependency."
+    },
+    "jungian": {
+      "korean": "융 심리학에서 물은 무의식 그 자체의 원형적 상징이에요. 물에 빠지는 꿈은 자아(ego)가 무의식의 깊은 층, 즉 그림자(Shadow)나 집단 무의식에 압도당하는 경험을 나타내요. 이 꿈은 위협적인 경험인 동시에 개성화(individuation) 과정의 일환으로, 자아가 무의식의 내용물을 통합하도록 촉구하는 변환의 메시지로 해석될 수 있어요. 살아나오거나 구조되는 결말은 자기(Self)와의 화해, 즉 내면의 균형이 회복되는 징조로 읽혀요.",
+      "english": "In Jungian psychology, water is the archetypal symbol of the unconscious itself. A drowning dream represents the ego being overwhelmed by the deeper layers of the unconscious — the Shadow or the collective unconscious. While threatening, this experience is also understood as part of the individuation process: the psyche's call for the ego to integrate unconscious contents rather than suppress them. Surviving or being rescued in the dream is read as a sign of reconciliation with the Self and the restoration of psychic balance."
+    },
+    "modern": {
+      "korean": "현대 수면 과학과 인지신경과학에서는 익사 꿈이 일상의 만성 스트레스, 불안 장애, 또는 외상 후 스트레스(PTSD)와 강하게 연관된다고 봐요. REM 수면 중 편도체(amygdala)가 과활성화되면 위협적 시나리오가 꿈으로 구현되며, 물에 빠지는 감각은 호흡 곤란이나 수면 무호흡증(sleep apnea) 같은 신체적 자극이 꿈 이미지로 통합되는 현상일 수도 있어요. 위협 시뮬레이션 이론(Threat Simulation Theory)에 따르면 이러한 꿈은 위험 상황에 대한 뇌의 리허설 기능을 수행해요.",
+      "english": "Modern sleep science and cognitive neuroscience link drowning dreams strongly to chronic daytime stress, anxiety disorders, and post-traumatic stress (PTSD). During REM sleep, hyperactivation of the amygdala generates threatening scenarios as dream content. The physical sensation of drowning may also represent somatic stimuli — such as breathing difficulty or sleep apnea — being incorporated into dream imagery. According to Threat Simulation Theory, these dreams serve an evolutionary function: the brain rehearses responses to dangerous situations to improve survival readiness."
+    },
+    "crossCultural": {
+      "korean": "한국 전통 해몽이 물에 빠지는 꿈의 결말(구조, 탈출, 익사)과 물의 상태(맑음, 탁함)에 따라 길흉을 구분하는 반면, 서양 심리학은 물 자체를 무의식의 상징으로 보고 압도감이라는 내면 상태에 초점을 맞춘다는 점에서 접근 방식이 달라요. 그러나 두 전통 모두 이 꿈을 단순한 공포 반응이 아닌 삶의 중요한 전환이나 내면의 신호로 해석한다는 공통점이 있어요.",
+      "english": "Korean folk dream interpretation focuses on the outcome and water quality to determine auspiciousness, while Western psychology centers on the emotional experience of being overwhelmed as a window into unconscious conflict — a fundamentally different framework. Yet both traditions share a key insight: drowning dreams are not dismissed as random fear responses, but are taken as meaningful signals pointing to significant inner states or life transitions."
+    }
+  },
+  "relatedSymbols": [
+    "swimming-dream",
+    "water-general",
+    "river-dream",
+    "sea-dream",
+    "flood-dream",
+    "rescue-dream"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "물에 빠지는 꿈",
+      "물에 빠지는 꿈 해몽",
+      "익사하는 꿈",
+      "익사 꿈 해몽",
+      "물에 빠져 죽는 꿈",
+      "강에 빠지는 꿈 해몽",
+      "바다에 빠지는 꿈 해몽",
+      "수영장에 빠지는 꿈",
+      "맑은 물에 빠지는 꿈",
+      "탁한 물에 빠지는 꿈",
+      "흙탕물에 빠지는 꿈",
+      "물에 빠졌다가 나오는 꿈",
+      "물에 빠진 꿈 길몽",
+      "물에 빠진 꿈 흉몽",
+      "꿈에서 물에 빠지는 것",
+      "다른 사람이 물에 빠지는 꿈",
+      "가족이 물에 빠지는 꿈",
+      "차가 물에 빠지는 꿈 해몽",
+      "우물에 빠지는 꿈 해몽",
+      "물에 빠져 구조되는 꿈"
+    ],
+    "english": [
+      "drowning dream meaning",
+      "drowning dream Korean interpretation",
+      "dream of falling into water",
+      "dream of drowning and surviving",
+      "drowning dream auspicious or inauspicious",
+      "falling into river dream meaning",
+      "falling into sea dream meaning",
+      "dream of being rescued from drowning",
+      "Korean dream interpretation drowning",
+      "꿈해몽 drowning dream",
+      "dream of someone else drowning",
+      "muddy water dream meaning Korean",
+      "clear water drowning dream lucky"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "물에 빠지는 꿈은 길몽인가요, 흉몽인가요?",
+      "answer_ko": "물에 빠지는 꿈은 물의 상태와 결말에 따라 달라져요. 더럽거나 탁한 물에 빠지거나 헤어나오지 못하는 꿈은 흉몽으로 건강, 재물, 대인관계의 위기를 경고해요. 반면 맑은 물에 빠지거나, 스스로 탈출하거나, 구조되는 꿈은 길몽으로 새로운 출발이나 귀인의 도움을 암시해요.",
+      "answer_en": "Whether a drowning dream is auspicious or inauspicious depends on the clarity of the water and the outcome. Drowning in dirty or murky water, or being unable to escape, is inauspicious — warning of health, financial, or relationship troubles. But drowning in clear water, escaping on your own, or being rescued is auspicious, signaling a fresh start or timely help from a trustworthy person.",
+      "question_en": "Is a dream of drowning or falling into water lucky or unlucky?"
+    },
+    {
+      "question_ko": "맑은 물에 빠지는 꿈은 어떤 의미인가요?",
+      "answer_ko": "맑은 물에 빠지는 꿈은 길몽이에요. 과거의 잘못이나 부담을 깨끗이 씻어내고 새로운 출발을 하게 된다는 의미예요. 새로운 환경이나 조직에서 타인의 신임을 얻고 좋은 일이 시작될 징조예요.",
+      "answer_en": "Falling into clear, clean water is auspicious. It symbolizes washing away past mistakes or burdens and making a fresh start. You are likely to earn recognition and trust in a new environment or organization.",
+      "question_en": "What does it mean to dream of falling into clear water?"
+    },
+    {
+      "question_ko": "물에 빠졌다가 구조되는 꿈은 무슨 뜻인가요?",
+      "answer_ko": "물에 빠졌다가 누군가에게 구조되는 꿈은 길몽이에요. 위기 상황에서도 귀인이나 믿을 수 있는 사람의 도움을 받게 될 것을 암시해요. 사업이나 대인관계에서 좋은 인연을 만날 가능성도 높아요.",
+      "answer_en": "Being rescued from drowning is auspicious. It signals that help will arrive from a reliable person or benefactor during a difficult period. You may also form new, trustworthy relationships in work or personal life.",
+      "question_en": "What does it mean to dream of being rescued from drowning?"
+    },
+    {
+      "question_ko": "물에 빠져 죽는 꿈은 나쁜 꿈인가요?",
+      "answer_ko": "반드시 나쁜 꿈은 아니에요. 한국 전통 꿈해몽에서는 꿈 속 죽음이 새로운 시작을 의미하는 경우가 많아요. 물에 빠져 죽는 꿈도 인생의 중요한 전환점이나 새 출발을 암시할 수 있어요. 단, 꿈 속에서 극심한 고통이 느껴졌다면 건강이나 사고에 주의가 필요해요.",
+      "answer_en": "Not necessarily. In Korean dream tradition, death within a dream often signals a new beginning rather than misfortune. Drowning to death can represent a major life turning point or fresh start. However, if the experience felt extremely painful, it may warn of health issues or accidents requiring attention.",
+      "question_en": "Is a dream of drowning to death a bad omen?"
+    },
+    {
+      "question_ko": "가족이 물에 빠지는 꿈은 어떻게 해석하나요?",
+      "answer_ko": "가족이 물에 빠지는 꿈은 흉몽으로, 가족 간의 불화나 건강 문제를 암시할 수 있어요. 평소 가족에 대한 걱정과 보호 본능이 꿈으로 나타난 것이기도 해요. 가족이 무사히 탈출하는 꿈이라면 큰 문제 없이 잘 해결될 것을 예고해요.",
+      "answer_en": "A family member drowning is generally inauspicious, possibly warning of family conflict or health concerns among loved ones. It can also reflect protective anxiety about family. If they escape safely in the dream, it is a reassuring sign that things will resolve well.",
+      "question_en": "What does it mean when a family member drowns in a dream?"
+    },
+    {
+      "question_ko": "탁하거나 더러운 물에 빠지는 꿈은 무엇을 뜻하나요?",
+      "answer_ko": "탁하거나 더러운 물에 빠지는 꿈은 흉몽이에요. 건강 문제, 재물 손실, 또는 주변의 시기와 질투로 인한 어려움을 암시해요. 다만 흙탕물에서 간신히 살아나오는 꿈이라면, 고생 끝에 문제가 해결되고 안정을 찾게 될 것을 뜻해요.",
+      "answer_en": "Falling into murky or dirty water is inauspicious, warning of health problems, financial loss, or difficulties caused by jealousy or rivalry from others. However, if you narrowly escape the muddy water, it suggests that hardship will eventually give way to resolution and peace of mind.",
+      "question_en": "What does dreaming of falling into dirty or muddy water mean?"
+    }
+  ]
+}

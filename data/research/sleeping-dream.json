@@ -1,0 +1,218 @@
+{
+  "symbol": {
+    "korean": "자는 꿈",
+    "english": "Dream of Sleeping",
+    "slug": "sleeping-dream"
+  },
+  "summary": {
+    "korean": "자는 꿈은 현실의 피로와 스트레스에서 벗어나고자 하는 무의식적 욕구를 반영하며, 꿈속 상황과 함께 자는 대상에 따라 길몽과 흉몽이 엇갈리는 복합적인 상징을 지닌 꿈입니다.",
+    "english": "Dreams of sleeping reflect the unconscious desire to escape real-world stress and fatigue, and carry layered symbolic meanings — auspicious or inauspicious — depending on context, setting, and who appears alongside the dreamer."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "꿈속에서 깊고 편안하게 잠드는 꿈은 심신의 균형과 내면의 평화를 상징하는 길몽으로 풀이됩니다. 한국 전통 해몽에서는 자신이 고요하게 잠든 모습을 보는 것이 건강 회복, 재물의 축적, 또는 오랫동안 기다려 온 일이 순탄하게 풀릴 것을 암시한다고 전해집니다. 걱정 없이 깊이 잠드는 꿈은 현재의 어려움이 해소되고 안정된 시기가 찾아올 전조로 여겨집니다.",
+      "english": "Dreaming of falling into a deep, peaceful sleep is considered an auspicious sign in Korean folk tradition, symbolizing harmony of body and mind. Traditional Korean interpretation holds that seeing oneself sleeping soundly foretells recovery of health, accumulation of wealth, or the smooth resolution of long-standing problems. Such a dream is seen as a good omen that hardships will soon ease and a period of stability is approaching.",
+      "context": "깊고 편안한 잠 — 건강, 재물, 안정의 전조"
+    },
+    {
+      "type": "길몽",
+      "korean": "가족이 나란히 또는 함께 잠드는 꿈은 가정의 화목과 안정을 상징하는 길몽입니다. 한국 전통에서 가족 구성원이 평화롭게 잠든 모습은 집안에 복이 깃들고 가족 간의 유대가 더욱 돈독해질 것을 의미합니다. 특히 부모님이 안락하게 주무시는 꿈은 자손의 번영과 부모의 건강 장수를 암시하는 경우가 많습니다.",
+      "english": "Dreaming of family members sleeping peacefully together is an auspicious dream symbolizing domestic harmony and stability. In Korean tradition, seeing family at rest in tranquility indicates that good fortune will bless the household and family bonds will deepen. Dreaming of parents sleeping comfortably in particular often foretells the prosperity of descendants and the longevity of the parents.",
+      "context": "가족이 함께 자는 꿈 — 가정 화목, 집안 번성"
+    },
+    {
+      "type": "흉몽",
+      "korean": "잠을 자고 싶은데 잠을 이루지 못하거나, 잠자리를 찾지 못해 헤매는 꿈은 흉몽으로 해석됩니다. 이런 꿈은 현실에서 해결되지 않은 갈등이나 방향을 잃은 상태를 반영하며, 중요한 결정에서 우유부단함, 목표 상실, 또는 대인 관계에서의 불안정함을 경고하는 신호로 풀이됩니다. 오래 지속될 경우 심각한 심리적 소진을 암시합니다.",
+      "english": "Dreaming of being unable to sleep, or wandering while searching for a place to rest, is interpreted as an inauspicious dream. This type of dream reflects unresolved conflicts or a sense of losing one's way in real life. It is considered a warning sign of indecisiveness in important decisions, loss of direction or goals, or instability in personal relationships. When recurring, it signals serious psychological exhaustion.",
+      "context": "잠 못 이루는 꿈, 잠자리를 찾지 못하는 꿈 — 방향 상실, 갈등, 불안"
+    },
+    {
+      "type": "흉몽",
+      "korean": "시험장이나 직장, 면접 현장 같이 중요한 자리에서 잠들어 버리는 꿈은 흉몽으로 봅니다. 이 꿈은 책임을 다하지 못할 것에 대한 두려움, 사회적 실패에 대한 불안, 또는 중요한 기회를 놓칠 수 있다는 경고를 담고 있습니다. 한국 전통 해몽에서도 부적절한 장소에서 잠드는 꿈은 실수나 실패, 또는 타인으로부터 신뢰를 잃는 상황이 생길 수 있음을 암시합니다.",
+      "english": "Dreaming of falling asleep in an important setting — during an exam, at work, or in a job interview — is considered inauspicious. This dream contains fears of failing to fulfill responsibilities, anxiety about social failure, or a warning that an important opportunity may be missed. In traditional Korean interpretation, falling asleep in an inappropriate place warns of mistakes, failure, or a loss of trust from others.",
+      "context": "시험·직장·면접에서 잠드는 꿈 — 실패·신뢰 상실 경고"
+    },
+    {
+      "type": "neutral",
+      "korean": "꿈속에서 낯선 곳이나 여행지에서 자는 꿈은 중립적인 해몽이 많습니다. 새로운 환경에 대한 호기심과 적응력을 나타내기도 하고, 일상에서 벗어나 쉬고 싶은 욕구, 또는 변화를 앞두고 준비하는 심리를 반영합니다. 꿈의 전반적인 분위기가 편안했다면 긍정적, 불안했다면 불안 심리의 표출로 해석할 수 있습니다.",
+      "english": "Dreaming of sleeping in an unfamiliar place or while traveling tends to carry a neutral interpretation. It may represent curiosity and adaptability regarding new environments, a desire to escape from daily routine, or a psychological readiness for upcoming change. If the overall mood of the dream was peaceful, it leans positive; if anxious, it reflects real-life apprehension.",
+      "context": "낯선 곳·여행지에서 자는 꿈 — 변화, 적응, 일상 탈출 욕구"
+    },
+    {
+      "type": "neutral",
+      "korean": "잠든 척하는 꿈, 즉 눈을 감고 자는 것처럼 행동하지만 실제로 깨어 있는 꿈은 현실에서 감정을 숨기거나 어떤 상황을 회피하고 있다는 심리적 신호로 해석됩니다. 문제를 정면으로 마주하기보다 외면하려는 내면의 갈등을 나타내며, 솔직한 소통이 필요한 상황을 암시합니다.",
+      "english": "Dreaming that you are pretending to sleep — lying still with eyes closed while actually awake — is interpreted as a psychological signal of hiding emotions or avoiding a real-life situation. It represents an inner conflict of turning away from problems rather than confronting them, suggesting that honest communication is needed in some area of life.",
+      "context": "잠든 척하는 꿈 — 감정 억압, 회피, 솔직한 소통 필요"
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "깊이 잠드는 꿈",
+      "keyword_en": "Dream of falling into deep sleep",
+      "interpretation_ko": "깊고 평화롭게 잠드는 꿈은 심신의 안정과 축복을 상징하는 길몽입니다. 오랜 걱정이 해소되고 건강과 재물이 호전될 징조로 풀이됩니다.",
+      "interpretation_en": "Dreaming of falling into a deep, peaceful sleep is an auspicious omen symbolizing stability of mind and body. It foretells the resolution of long-standing worries and improvement in health and financial matters."
+    },
+    {
+      "keyword_ko": "가족과 함께 자는 꿈",
+      "keyword_en": "Dream of sleeping with family",
+      "interpretation_ko": "가족이 함께 나란히 잠드는 꿈은 가정의 화목과 집안의 평화를 의미하는 길몽으로, 가족 간의 유대가 더욱 돈독해질 것을 암시합니다.",
+      "interpretation_en": "Dreaming of sleeping side by side with family is an auspicious dream symbolizing domestic harmony and household peace, suggesting that family bonds will grow stronger."
+    },
+    {
+      "keyword_ko": "모르는 사람과 자는 꿈",
+      "keyword_en": "Dream of sleeping next to a stranger",
+      "interpretation_ko": "낯선 사람과 함께 잠드는 꿈은 새로운 인연의 시작이나 새 일거리·직장이 생길 것을 암시하기도 하지만, 자신의 정체성을 탐색하는 심리적 과정을 나타내기도 합니다.",
+      "interpretation_en": "Dreaming of sleeping beside a stranger may signal the start of a new relationship or the arrival of new work opportunities, and can also represent a psychological process of self-discovery and identity exploration."
+    },
+    {
+      "keyword_ko": "시험장에서 자는 꿈",
+      "keyword_en": "Dream of sleeping during an exam",
+      "interpretation_ko": "시험장에서 잠드는 꿈은 학업이나 업무에 대한 부담감과 실패에 대한 두려움을 반영하는 흉몽 성격의 꿈으로, 준비 부족이나 중요한 기회를 놓칠 수 있다는 경고로 해석됩니다.",
+      "interpretation_en": "Dreaming of falling asleep during an exam is an inauspicious dream reflecting academic or professional pressure and fear of failure. It is interpreted as a warning about inadequate preparation or the risk of missing an important opportunity."
+    },
+    {
+      "keyword_ko": "직장에서 자는 꿈",
+      "keyword_en": "Dream of sleeping at work",
+      "interpretation_ko": "직장에서 잠드는 꿈은 업무에 대한 불만족이나 정체된 커리어에 대한 불안을 반영합니다. 현재 직장 환경에 대한 재평가나 변화가 필요한 신호일 수 있습니다.",
+      "interpretation_en": "Dreaming of sleeping at work reflects dissatisfaction with one's job or anxiety about a stagnating career. It may be a signal that reassessment of the current work environment or a change in direction is needed."
+    },
+    {
+      "keyword_ko": "연인과 자는 꿈",
+      "keyword_en": "Dream of sleeping with a romantic partner",
+      "interpretation_ko": "연인과 함께 잠드는 꿈은 상대에 대한 깊은 신뢰와 친밀감을 반영하며, 관계가 안정적이고 감정적으로 연결되어 있음을 상징합니다. 두 사람의 관계가 한층 깊어질 것을 암시하는 길몽으로 보기도 합니다.",
+      "interpretation_en": "Dreaming of sleeping with a romantic partner reflects deep trust and intimacy, symbolizing that the relationship is stable and emotionally connected. It is often viewed as an auspicious dream suggesting the relationship will deepen further."
+    },
+    {
+      "keyword_ko": "낯선 곳에서 자는 꿈",
+      "keyword_en": "Dream of sleeping in an unfamiliar place",
+      "interpretation_ko": "낯선 장소에서 자는 꿈은 새로운 환경에 대한 적응력을 나타내거나, 일상에서 벗어나 새로운 시작을 원하는 심리를 반영합니다. 꿈의 분위기에 따라 길흉이 갈립니다.",
+      "interpretation_en": "Dreaming of sleeping in an unfamiliar place reflects adaptability to new environments or a desire for a fresh start away from routine. Whether it is auspicious or inauspicious depends on the overall mood of the dream."
+    },
+    {
+      "keyword_ko": "잠을 못 자는 꿈",
+      "keyword_en": "Dream of being unable to sleep",
+      "interpretation_ko": "아무리 애써도 잠을 이루지 못하는 꿈은 현실에서의 극도의 스트레스, 해소되지 않은 갈등, 또는 결정을 내리지 못하고 있는 상황을 암시하는 흉몽입니다. 마음의 평화를 찾고 문제를 직면할 필요성을 경고합니다.",
+      "interpretation_en": "Dreaming of being unable to fall asleep despite trying is an inauspicious dream suggesting extreme real-world stress, unresolved conflict, or inability to make an important decision. It warns of a need to find inner peace and confront problems directly."
+    },
+    {
+      "keyword_ko": "잠든 척하는 꿈",
+      "keyword_en": "Dream of pretending to sleep",
+      "interpretation_ko": "잠든 척하는 꿈은 현실에서 피하고 싶은 상황이나 사람이 있음을 암시합니다. 감정을 솔직하게 표현하지 못하고 억누르고 있는 심리 상태를 반영하며, 직접적인 소통이 필요하다는 신호입니다.",
+      "interpretation_en": "Dreaming of pretending to sleep suggests that there is a situation or person in real life that you are trying to avoid. It reflects a psychological state of suppressing emotions rather than expressing them honestly, signaling the need for direct communication."
+    },
+    {
+      "keyword_ko": "아기가 자는 꿈",
+      "keyword_en": "Dream of a baby sleeping",
+      "interpretation_ko": "아기가 평화롭게 자는 꿈은 순수함과 새로운 시작을 상징하는 길몽입니다. 새로운 가능성이 열리거나 오래된 문제가 깔끔하게 해결될 것을 암시하기도 합니다.",
+      "interpretation_en": "Dreaming of a baby sleeping peacefully is an auspicious dream symbolizing purity and new beginnings. It may suggest that new possibilities are opening up or that old problems will be cleanly resolved."
+    },
+    {
+      "keyword_ko": "차 안에서 자는 꿈",
+      "keyword_en": "Dream of sleeping in a car",
+      "interpretation_ko": "차 안에서 잠드는 꿈은 인생의 여정 중에 잠시 쉬어 가는 시기가 필요함을 의미하며, 변화와 전환점을 앞두고 있는 심리적 준비 상태를 반영합니다.",
+      "interpretation_en": "Dreaming of sleeping in a car suggests the need to pause and rest during life's journey, reflecting a psychological readiness for change and transition that lies ahead."
+    },
+    {
+      "keyword_ko": "잠자리를 찾지 못하는 꿈",
+      "keyword_en": "Dream of not being able to find a place to sleep",
+      "interpretation_ko": "잠을 자고 싶은데 잠자리를 찾지 못해 헤매는 꿈은 인생의 방향을 잃거나 자신의 위치나 목적을 찾지 못하는 심리적 혼란을 반영하는 흉몽입니다.",
+      "interpretation_en": "Dreaming of wandering in search of a place to sleep but failing to find one is an inauspicious dream reflecting psychological confusion about losing direction in life or failing to find one's purpose and place."
+    }
+  ],
+  "culturalContext": {
+    "korean": "한국의 전통 꿈해몽에서 '자는 꿈'은 단순한 휴식의 상징을 넘어 삶의 상태와 미래의 길흉을 알리는 복합적인 메시지를 담고 있습니다. 삼국시대부터 이어진 해몽의 전통에서 꿈은 신령(神靈)이나 조상의 목소리로 여겨졌으며, 잠든 상태는 현실과 영적 세계의 경계가 흐려지는 특별한 시간으로 인식되었습니다. 조선시대에는 왕이 꾼 꿈을 기록하고 해석하여 국가 정책에 반영하기도 했을 정도로 꿈의 권위가 높았습니다. '자는 꿈'은 전통적으로 질병으로 누워 있는 꿈이 도리어 높은 관직에 오를 징조로 풀이되는 등, 현실과 반대로 해석하는 '역몽(逆夢)' 법칙이 적용되기도 합니다. 또한 편안한 수면은 복(福)의 상징으로, 잠을 잘 잔다는 것 자체가 건강과 풍요의 증거로 여겨졌습니다. 무당(무속인)이나 불승(스님)과 같은 전통적인 해몽가들은 꿈속의 수면 환경, 함께 있는 인물, 잠드는 장소 등을 종합적으로 고려하여 꿈을 풀이했습니다.",
+    "english": "In traditional Korean dream interpretation, dreaming about sleeping carries complex messages beyond simple rest — it communicates the state of one's life and omens for the future. From the Three Kingdoms period onward, dreams were regarded as messages from spirits or ancestors, and the state of sleep was seen as a special threshold where the boundary between the real world and the spiritual realm dissolves. During the Joseon Dynasty, kings recorded and interpreted their dreams, incorporating their meanings into royal policy, underscoring the high cultural authority of dreams. Dreams of sleeping are sometimes interpreted through the principle of 'yeok-mong' (역몽, reverse dream), where an apparently negative dream — such as lying ill in bed — is actually read as a foretelling of high achievement or promotion. Restful sleep was itself a symbol of good fortune (복, 福), and sleeping well was considered tangible evidence of health and abundance. Traditional interpreters such as mudang (shamans) and Buddhist monks analyzed sleep-related dreams by considering the sleeping environment, the people present, and the location where sleep occurs."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트의 관점에서 자는 꿈은 수면 자체를 '소망의 수호자'로 보는 이론과 밀접하게 연결됩니다. 프로이트는 꿈이 억압된 무의식적 욕망을 상징적으로 표현하는 과정이라고 보았으며, 꿈속에서 잠드는 행위는 현실의 불쾌한 자극이나 갈등으로부터 심리적 도피를 추구하는 무의식의 소망을 반영한다고 해석할 수 있습니다. 특히 중요한 장소(시험장, 직장)에서 잠드는 꿈은 억압된 실패 공포나 권위에 대한 저항을 상징할 수 있습니다.",
+      "english": "From a Freudian perspective, dreams about sleeping closely connect to his theory of the dream as the 'guardian of sleep.' Freud viewed dreams as symbolic expressions of repressed unconscious desires, and the act of falling asleep within a dream can be interpreted as reflecting the unconscious wish to psychologically escape from unpleasant real-world stimuli or conflict. Falling asleep in significant settings (exams, workplaces) may specifically symbolize repressed fear of failure or resistance to authority."
+    },
+    "jungian": {
+      "korean": "융의 이론에서 잠드는 꿈은 자아(ego)가 의식의 통제를 내려놓고 집단 무의식(collective unconscious)의 흐름에 몸을 맡기는 과정을 상징합니다. 융은 꿈을 위장된 욕망이 아닌, 무의식의 솔직한 자기 묘사로 보았습니다. 자는 꿈에서 보여지는 장소, 함께 자는 인물, 수면의 질은 꿈꾸는 사람의 내면 상태와 그림자(shadow) — 의식이 외면하는 자신의 측면 — 를 드러내는 상징으로 해석됩니다.",
+      "english": "In Jungian theory, dreaming of sleeping symbolizes the ego releasing its conscious control and surrendering to the flow of the collective unconscious. Unlike Freud, Jung viewed dreams as the unconscious's honest self-portrayal, not disguised desire. In sleep-related dreams, the setting, the people present, and the quality of sleep serve as symbols revealing the dreamer's inner psychological state and shadow — the aspects of oneself that the conscious mind avoids acknowledging."
+    },
+    "modern": {
+      "korean": "현대 심리학은 잠드는 꿈을 주로 꿈꾸는 사람의 현재 심리 상태와 연결 지어 해석합니다. 반복적으로 잠을 못 이루거나 부적절한 장소에서 잠드는 꿈은 실제 생활에서의 극심한 스트레스, 번아웃(burnout), 심리적 소진의 신호로 봅니다. 반면, 깊고 평화로운 수면 꿈은 심리적 안정감과 회복력의 표현으로 해석되며, 꿈 내용보다 꿈꾼 후의 감정적 잔향(emotional residue)이 실제 심리 상태를 더 잘 반영한다고 봅니다.",
+      "english": "Modern psychology primarily interprets dreams about sleeping in relation to the dreamer's current psychological state. Recurring dreams of being unable to sleep or falling asleep in inappropriate places are seen as signals of extreme real-life stress, burnout, or psychological exhaustion. Conversely, dreams of deep, peaceful sleep are interpreted as expressions of psychological stability and resilience. Modern research also emphasizes that the emotional residue felt after waking is often a more reliable indicator of actual psychological state than the dream's literal content."
+    },
+    "crossCultural": {
+      "korean": "수면에 관한 꿈은 동서양을 막론하고 내면의 휴식 욕구와 현실 도피를 상징하는 보편적 주제로 등장합니다. 서양의 꿈 해석 전통(고대 그리스·이집트)에서도 잠은 신과의 소통이 이루어지는 성스러운 상태로 여겨졌으며, 이는 한국 무속 전통에서 잠을 신령의 메시지가 전달되는 시간으로 본 것과 맥을 같이합니다. 반면 중국 전통에서는 꿈속의 수면을 양기(陽氣)의 쇠퇴, 즉 활력 저하의 신호로 보기도 해, 한국의 역몽(逆夢) 해석과는 다른 시각을 보여 줍니다.",
+      "english": "Dreams about sleeping appear as a universal theme across Eastern and Western cultures, symbolizing a desire for inner rest and escapism from reality. In Western dream interpretation traditions (ancient Greece and Egypt), sleep was considered a sacred state in which communication with the divine occurs — paralleling the Korean shamanic tradition of viewing sleep as a time when messages from spirits are delivered. In contrast, Chinese tradition sometimes interprets sleep within a dream as a sign of declining Yang energy (陽氣), or a weakening of vitality, offering a different perspective from Korea's reverse-dream (역몽) interpretation."
+    }
+  },
+  "relatedSymbols": [
+    "flying-dream",
+    "falling-dream",
+    "bed-dream",
+    "house-dream",
+    "paralysis-dream",
+    "waking-dream",
+    "resting-dream",
+    "night-dream"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "자는 꿈 해몽",
+      "잠자는 꿈 해몽",
+      "꿈속에서 자는 꿈",
+      "깊이 잠드는 꿈 해몽",
+      "잠을 못 자는 꿈 해몽",
+      "가족이 자는 꿈 해몽",
+      "모르는 사람과 자는 꿈",
+      "시험장에서 자는 꿈 해몽",
+      "직장에서 자는 꿈 해몽",
+      "잠자리 찾는 꿈 해몽",
+      "자는 꿈 길몽 흉몽",
+      "연인과 자는 꿈 해몽",
+      "잠든 척하는 꿈",
+      "아기 자는 꿈 해몽"
+    ],
+    "english": [
+      "dream of sleeping meaning",
+      "sleeping dream interpretation Korean",
+      "dreaming about falling asleep",
+      "dream cannot sleep meaning",
+      "sleeping with someone dream",
+      "dream about sleeping in public",
+      "deep sleep dream meaning",
+      "Korean dream sleeping auspicious",
+      "sleeping in exam dream interpretation",
+      "dreaming of sleep psychology"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "자는 꿈은 길몽인가요, 흉몽인가요?",
+      "answer_ko": "자는 꿈은 꿈속 상황에 따라 길몽과 흉몽이 갈립니다. 깊고 편안하게 잠드는 꿈은 건강, 재물, 안정을 암시하는 길몽으로 풀이됩니다. 반면, 잠을 못 이루거나 시험장·직장처럼 중요한 자리에서 잠드는 꿈은 스트레스, 실패 불안, 갈등을 경고하는 흉몽 성격이 강합니다.",
+      "answer_en": "Whether a sleeping dream is auspicious or inauspicious depends on the context of the dream. Falling into a deep, peaceful sleep is interpreted as an auspicious dream foretelling health, wealth, and stability. Conversely, being unable to sleep or falling asleep in an important setting (exam, workplace) carries inauspicious meaning, warning of stress, fear of failure, or unresolved conflict.",
+      "question_en": "Is dreaming about sleeping a good omen or a bad omen?"
+    },
+    {
+      "question_ko": "꿈속에서 깊이 잠드는 꿈을 꾸면 어떤 의미인가요?",
+      "answer_ko": "꿈속에서 깊고 평화롭게 잠드는 꿈은 심신의 균형과 내면의 평화를 상징하는 길몽입니다. 오래 기다려 온 일이 순탄하게 해결되거나, 건강 회복, 재물 축적의 전조로 해석되며 안정된 시기가 다가올 것을 암시합니다.",
+      "answer_en": "Dreaming of falling into a deep, peaceful sleep is an auspicious omen symbolizing balance of body and mind and inner peace. It is interpreted as a foretoken of long-awaited problems being resolved smoothly, health recovering, or wealth accumulating — suggesting a period of stability is approaching."
+    },
+    {
+      "question_ko": "잠을 못 이루는 꿈을 반복적으로 꾸면 무슨 뜻인가요?",
+      "answer_ko": "잠을 못 이루는 꿈이 반복된다면 현실에서 극심한 스트레스, 해결되지 않은 갈등, 또는 중요한 결정 앞에서의 불안이 심화되고 있다는 심리적 신호입니다. 전통 해몽에서도 이런 꿈은 현재 상황에 대한 직면과 마음의 평화 회복이 필요하다는 경고로 풀이됩니다.",
+      "answer_en": "Repeatedly dreaming of being unable to sleep is a psychological signal that extreme stress, unresolved conflict, or deepening anxiety about an important decision is building up in real life. Traditional Korean interpretation also reads this type of recurring dream as a warning to face current circumstances directly and restore inner peace."
+    },
+    {
+      "question_ko": "가족이 자는 꿈을 꾸면 어떻게 해석하나요?",
+      "answer_ko": "가족이 평화롭게 잠드는 꿈은 가정의 화목과 안정을 상징하는 길몽입니다. 특히 부모님이 편안하게 주무시는 꿈은 자손의 번영과 부모의 건강 장수를 암시하는 경우가 많습니다. 가족 전체가 함께 잠드는 꿈은 집안에 복이 깃들 것을 알리는 좋은 꿈으로 봅니다.",
+      "answer_en": "Dreaming of family members sleeping peacefully is an auspicious dream symbolizing domestic harmony and stability. Dreaming of parents sleeping comfortably in particular often foretells the prosperity of descendants and the longevity of the parents. A dream where the whole family sleeps together is considered a good omen signaling that fortune will bless the household."
+    },
+    {
+      "question_ko": "모르는 사람과 잠드는 꿈은 무슨 의미인가요?",
+      "answer_ko": "낯선 사람과 함께 자는 꿈은 새로운 인연의 시작, 새 직장이나 사업 기회가 생길 가능성을 암시하기도 합니다. 심리학적으로는 자신의 숨겨진 면이나 새로운 자아의 가능성을 탐색하는 과정을 상징합니다. 꿈의 전반적 분위기가 편안했다면 긍정적, 불안했다면 새 변화에 대한 걱정의 표현으로 해석합니다.",
+      "answer_en": "Dreaming of sleeping beside a stranger may signal the start of a new relationship or the emergence of a new job or business opportunity. Psychologically, it symbolizes a process of exploring hidden aspects of oneself or possibilities for a new sense of identity. If the overall mood was comfortable, it leans positive; if anxious, it reflects worry about upcoming change."
+    },
+    {
+      "question_ko": "잠든 척하는 꿈은 어떤 신호인가요?",
+      "answer_ko": "잠든 척하는 꿈은 현실에서 직면하기 싫은 상황이나 사람이 있어 회피하고 있다는 심리적 신호입니다. 감정을 솔직하게 드러내지 못하고 억누르는 상태를 반영하며, 진솔한 대화와 직접적인 소통이 필요한 때임을 알려 줍니다.",
+      "answer_en": "Dreaming of pretending to sleep is a psychological signal that you are avoiding a situation or person in real life that you do not want to confront. It reflects a state of suppressing emotions rather than expressing them honestly, and signals that sincere dialogue and direct communication are needed."
+    }
+  ]
+}
