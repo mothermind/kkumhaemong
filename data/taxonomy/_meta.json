@@ -1,6 +1,207 @@
 {
   "version": "1.0.0",
-  "generatedAt": "",
-  "totalSymbols": 0,
-  "categories": []
+  "generatedAt": "2026-03-10T12:00:00.000Z",
+  "totalSymbols": 2000,
+  "categories": [
+    {
+      "id": "animals",
+      "korean": "동물",
+      "english": "Animals",
+      "slug": "animals",
+      "symbolCount": 236,
+      "subcategories": ["snake", "pig", "dog", "cat", "tiger", "dragon", "fish", "horse", "cow", "bird", "turtle", "rabbit", "frog", "elephant", "lion", "bear", "deer", "monkey", "wolf", "fox", "whale", "dolphin", "shark", "mouse", "crocodile", "bat", "sea-creatures", "reptile", "sheep", "goat", "mammal", "marine", "other"]
+    },
+    {
+      "id": "body",
+      "korean": "신체/몸",
+      "english": "Body",
+      "slug": "body",
+      "symbolCount": 201,
+      "subcategories": ["teeth", "hair", "blood", "hand", "eye", "foot", "leg", "face", "body-state", "excretion", "ear", "nose", "mouth", "belly", "back", "chest", "head", "skin", "nail", "shoulder", "arm"]
+    },
+    {
+      "id": "actions",
+      "korean": "행동/행위",
+      "english": "Actions",
+      "slug": "actions",
+      "symbolCount": 200,
+      "subcategories": ["flying", "falling", "movement", "chase", "conflict", "water-action", "eating", "performance", "emotion-action", "driving", "crime", "school", "daily", "romance", "birth", "work", "finding", "giving", "ceremony", "communication", "creative", "outdoor", "destruction", "spiritual", "competition", "leisure", "relationship"]
+    },
+    {
+      "id": "people",
+      "korean": "사람/인물",
+      "english": "People",
+      "slug": "people",
+      "symbolCount": 185,
+      "subcategories": ["deceased", "baby", "romance", "famous", "friends", "stranger", "family", "work", "authority", "profession", "spiritual", "groups", "age", "condition", "wedding", "criminal", "fantasy", "general", "group", "mythical", "crime", "special"]
+    },
+    {
+      "id": "pregnancy",
+      "korean": "임신/태몽",
+      "english": "Pregnancy & Taemong",
+      "slug": "pregnancy",
+      "symbolCount": 89,
+      "subcategories": ["pregnancy", "taemong", "taemong-animal", "taemong-fruit", "taemong-celestial", "taemong-nature", "taemong-object", "taemong-food", "taemong-gender"]
+    },
+    {
+      "id": "objects",
+      "korean": "물건/사물",
+      "english": "Objects",
+      "slug": "objects",
+      "symbolCount": 78,
+      "subcategories": ["weapon", "household", "electronic", "tool", "stationery", "accessory", "daily", "media", "furniture", "medical", "instrument", "symbol", "toy", "container", "light", "sound", "containment", "vehicle"]
+    },
+    {
+      "id": "food",
+      "korean": "음식/음료",
+      "english": "Food & Drink",
+      "slug": "food",
+      "symbolCount": 76,
+      "subcategories": ["general", "grain", "meat", "fruit", "vegetable", "korean", "dessert", "drink", "nut", "staple", "seasoning"]
+    },
+    {
+      "id": "places",
+      "korean": "장소/공간",
+      "english": "Places",
+      "slug": "places",
+      "symbolCount": 75,
+      "subcategories": ["house", "school", "institution", "work", "shop", "building", "infrastructure", "path", "outdoor", "transport", "historic", "historical", "lodging", "death", "entertainment", "abroad", "nature", "leisure", "space"]
+    },
+    {
+      "id": "money",
+      "korean": "돈/재물",
+      "english": "Money & Wealth",
+      "slug": "money",
+      "symbolCount": 74,
+      "subcategories": ["money", "treasure", "gambling", "income", "loss", "jewelry", "trade"]
+    },
+    {
+      "id": "death",
+      "korean": "죽음/장례",
+      "english": "Death & Funeral",
+      "slug": "death",
+      "symbolCount": 73,
+      "subcategories": ["self-death", "others-death", "funeral", "resurrection", "violence", "afterlife", "spiritual"]
+    },
+    {
+      "id": "water",
+      "korean": "물/바다/강",
+      "english": "Water",
+      "slug": "water",
+      "symbolCount": 68,
+      "subcategories": ["water", "flood", "sea", "river", "lake", "waterfall", "rain", "pool", "well", "ice", "spring", "boat", "rescue"]
+    },
+    {
+      "id": "nature",
+      "korean": "자연/자연현상",
+      "english": "Nature",
+      "slug": "nature",
+      "symbolCount": 63,
+      "subcategories": ["mountain", "disaster", "forest", "field", "cave", "island", "desert", "garden", "beach", "earth", "rock", "sky", "pond", "wetland", "spring", "plant", "water"]
+    },
+    {
+      "id": "fire",
+      "korean": "불/화재",
+      "english": "Fire",
+      "slug": "fire",
+      "symbolCount": 52,
+      "subcategories": ["fire", "light", "smoke", "explosion", "injury", "aftermath", "volcano", "lightning", "rescue"]
+    },
+    {
+      "id": "emotions",
+      "korean": "감정/느낌",
+      "english": "Emotions",
+      "slug": "emotions",
+      "symbolCount": 52,
+      "subcategories": ["negative", "positive", "neutral", "bittersweet", "intense"]
+    },
+    {
+      "id": "disasters",
+      "korean": "재난/사고",
+      "english": "Disasters & Accidents",
+      "slug": "disasters",
+      "symbolCount": 52,
+      "subcategories": ["general", "natural", "fire", "accident", "structural", "entrapment", "rescue", "utility", "war"]
+    },
+    {
+      "id": "celestial",
+      "korean": "천체/우주",
+      "english": "Celestial & Space",
+      "slug": "celestial",
+      "symbolCount": 48,
+      "subcategories": ["sun", "moon", "star", "eclipse", "planet", "space", "apocalypse"]
+    },
+    {
+      "id": "transportation",
+      "korean": "교통/탈것",
+      "english": "Transportation",
+      "slug": "transportation",
+      "symbolCount": 48,
+      "subcategories": ["car", "public", "rail", "air", "sea", "personal", "emergency", "accident", "land", "vertical"]
+    },
+    {
+      "id": "marriage",
+      "korean": "결혼/연애",
+      "english": "Marriage & Love",
+      "slug": "marriage",
+      "symbolCount": 48,
+      "subcategories": ["wedding", "romance", "breakup", "infidelity", "emotion"]
+    },
+    {
+      "id": "colors",
+      "korean": "색깔/색상",
+      "english": "Colors",
+      "slug": "colors",
+      "symbolCount": 41,
+      "subcategories": ["warm", "cool", "neutral", "metallic", "multi", "shade", "bright"]
+    },
+    {
+      "id": "insects",
+      "korean": "곤충/벌레",
+      "english": "Insects & Bugs",
+      "slug": "insects",
+      "symbolCount": 41,
+      "subcategories": ["spider", "bee", "butterfly", "bug", "ant", "worm", "dragonfly", "arachnid", "parasite"]
+    },
+    {
+      "id": "clothing",
+      "korean": "옷/의복",
+      "english": "Clothing",
+      "slug": "clothing",
+      "symbolCount": 41,
+      "subcategories": ["general", "color", "shoes", "accessory", "special", "undergarment", "formal", "outerwear", "casual"]
+    },
+    {
+      "id": "numbers",
+      "korean": "숫자",
+      "english": "Numbers",
+      "slug": "numbers",
+      "symbolCount": 41,
+      "subcategories": ["general", "digit", "lottery", "large", "time"]
+    },
+    {
+      "id": "weather",
+      "korean": "날씨/기상",
+      "english": "Weather",
+      "slug": "weather",
+      "symbolCount": 40,
+      "subcategories": ["rain", "snow", "storm", "rainbow", "sunny", "fog", "wind", "temperature", "moisture", "cold", "season", "special", "hot"]
+    },
+    {
+      "id": "plants",
+      "korean": "식물/꽃/나무",
+      "english": "Plants & Flowers",
+      "slug": "plants",
+      "symbolCount": 39,
+      "subcategories": ["flower", "tree", "plant", "fungi", "leaf", "field", "seed"]
+    },
+    {
+      "id": "spirits",
+      "korean": "귀신/영혼/신",
+      "english": "Spirits & Supernatural",
+      "slug": "spirits",
+      "symbolCount": 39,
+      "subcategories": ["ghost", "deity", "angel", "demon", "folk", "sacred-place", "afterlife", "undead", "ritual", "sacred-object", "soul"]
+    }
+  ]
 }

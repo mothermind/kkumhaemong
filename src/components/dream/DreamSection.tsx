@@ -22,13 +22,14 @@ export function DreamSection({ heading, body, type, image }: Props) {
       <h2 className="mb-3 text-xl font-semibold">{heading}</h2>
       <div className={`rounded-xl p-5 ${style}`}>
         {image && (
-          <div className="relative mb-4 h-40 w-full overflow-hidden rounded-lg sm:h-52">
+          /* Section images: 3:2 source, displayed at 3:2 — works naturally on all screens */
+          <div className="relative mb-4 w-full overflow-hidden rounded-lg aspect-[3/2]">
             <Image
               src={image}
               alt={heading}
               fill
-              className="object-cover"
-              sizes="(max-width: 768px) 100vw, 768px"
+              className="object-cover object-center"
+              sizes="(max-width: 640px) 100vw, 680px"
             />
           </div>
         )}
