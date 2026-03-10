@@ -11,15 +11,9 @@ type Props = {
 
 export function DreamHero({ title, intro, heroImage, locale: _locale }: Props) {
   return (
-    <div className="mb-8">
-      {/*
-        Single 3:2 image from Midjourney.
-        Mobile: 1:1 container → crops sides, keeps centered subject.
-        Desktop: 16:9 container → crops top/bottom slightly.
-        object-position: center ensures the focal point is always visible.
-      */}
+    <div className="mb-2">
       {heroImage ? (
-        <div className="relative mb-6 w-full overflow-hidden rounded-2xl aspect-square sm:aspect-video">
+        <div className="relative mb-8 w-full overflow-hidden rounded-2xl aspect-square sm:aspect-video">
           <Image
             src={heroImage}
             alt={title}
@@ -30,14 +24,14 @@ export function DreamHero({ title, intro, heroImage, locale: _locale }: Props) {
           />
         </div>
       ) : (
-        <div className="mb-6 w-full rounded-2xl bg-gradient-to-br from-indigo-100 to-purple-100 aspect-square sm:aspect-video" />
+        <div className="mb-8 w-full rounded-2xl bg-white/5 aspect-square sm:aspect-video" />
       )}
 
-      <h1 className="mb-4 text-2xl font-bold leading-snug sm:text-3xl">
+      <h1 className="font-serif-ko mb-5 text-3xl font-bold leading-snug text-white sm:text-4xl">
         {title}
       </h1>
 
-      <MarkdownBody className="text-base leading-relaxed text-gray-700 sm:text-lg">
+      <MarkdownBody className="text-lg leading-9 text-gray-200">
         {intro}
       </MarkdownBody>
     </div>

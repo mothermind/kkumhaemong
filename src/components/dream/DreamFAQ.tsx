@@ -2,40 +2,29 @@
 
 import { useState } from "react";
 
-type FAQ = {
-  question: string;
-  answer: string;
-};
+type FAQ = { question: string; answer: string };
+type Props = { id: string; heading: string; faqs: FAQ[] };
 
-type Props = {
-  heading: string;
-  faqs: FAQ[];
-};
-
-export function DreamFAQ({ heading, faqs }: Props) {
+export function DreamFAQ({ id, heading, faqs }: Props) {
   const [open, setOpen] = useState<number | null>(null);
 
   if (!faqs?.length) return null;
 
   return (
-    <section className="mt-10">
-      <h2 className="mb-5 text-xl font-semibold">{heading}</h2>
-      <div className="divide-y divide-gray-200 rounded-xl border border-gray-200">
+    <section id={id} className="mt-12 scroll-mt-20">
+      <h2 className="font-serif-ko mb-5 text-2xl font-semibold text-white">{heading}</h2>
+      <div className="divide-y divide-white/10">
         {faqs.map((faq, i) => (
           <div key={i}>
             <button
               onClick={() => setOpen(open === i ? null : i)}
-              className="flex w-full items-center justify-between px-5 py-4 text-left text-sm font-medium text-gray-800 hover:bg-gray-50"
+              className="flex w-full items-center justify-between py-4 text-left text-sm font-medium text-gray-200 hover:text-white"
             >
               <span>{faq.question}</span>
-              <span className="ml-4 shrink-0 text-gray-400">
-                {open === i ? "−" : "+"}
-              </span>
+              <span className="ml-4 shrink-0 text-gray-600">{open === i ? "−" : "+"}</span>
             </button>
             {open === i && (
-              <div className="bg-gray-50 px-5 pb-4 pt-1 text-sm leading-relaxed text-gray-700">
-                {faq.answer}
-              </div>
+              <p className="pb-4 text-sm leading-relaxed text-gray-400">{faq.answer}</p>
             )}
           </div>
         ))}

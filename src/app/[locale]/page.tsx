@@ -1,70 +1,54 @@
+"use client";
+
 import { useTranslations } from "next-intl";
-import { getTranslations } from "next-intl/server";
-import type { Metadata } from "next";
-import { CategoryGrid } from "@/components/category/CategoryGrid";
-import { getTaxonomyMeta } from "@/lib/taxonomy";
+import { useRouter } from "@/i18n/navigation";
 import type { Locale } from "@/i18n/routing";
+import { useState } from "react";
+import { use } from "react";
 
-export async function generateMetadata({
-  params,
-}: {
-  params: Promise<{ locale: string }>;
-}): Promise<Metadata> {
-  const { locale } = await params;
-  const t = await getTranslations({ locale, namespace: "home" });
-
-  return {
-    title: t("title"),
-    description: t("description"),
-    alternates: {
-      languages: {
-        ko: "/ko",
-        en: "/en",
-      },
-    },
-  };
-}
-
-export default async function HomePage({
+export default function HomePage({
   params,
 }: {
   params: Promise<{ locale: string }>;
 }) {
-  const { locale } = await params;
-  const meta = await getTaxonomyMeta();
-
-  return <HomePageClient locale={locale as Locale} categories={meta?.categories ?? []} />;
+  const { locale } = use(params);
+  return <HomePageClient locale={locale as Locale} />;
 }
 
-// Client component for translations
-function HomePageClient({
-  locale,
-  categories,
-}: {
-  locale: Locale;
-  categories: Array<{ id: string; korean: string; english: string; slug: string; symbolCount: number }>;
-}) {
+function HomePageClient({ locale }: { locale: Locale }) {
   const t = useTranslations("home");
+  const router = useRouter();
+  const [query, setQuery] = useState("");
+
+  function handleSearch(e: React.FormEvent) {
+    e.preventDefault();
+    const slug = query.trim().toLowerCase().replace(/\s+/g, "-");
+    if (!slug) return;
+    router.push({ pathname: "/dream/[slug]", params: { slug } });
+  }
 
   return (
-    <div className="mx-auto max-w-7xl px-4 py-8 sm:px-6 lg:px-8">
-      {/* Hero */}
-      <section className="mb-12 text-center">
-        <h1 className="mb-3 text-3xl font-bold tracking-tight sm:text-4xl lg:text-5xl">
-          {t("title")}
-        </h1>
-        <p className="mx-auto max-w-2xl text-base text-gray-600 sm:text-lg">
-          {t("description")}
-        </p>
-      </section>
-
-      {/* Category grid */}
-      <section>
-        <h2 className="mb-6 text-xl font-semibold sm:text-2xl">
-          {t("allCategories")}
-        </h2>
-        <CategoryGrid locale={locale} categories={categories} />
-      </section>
+    <div className="flex min-h-[70vh] flex-col items-center justify-center px-4">
+      <h1 className="mb-8 text-3xl font-bold text-white sm:text-4xl">
+        {locale === "ko" ? "꿈해몽" : "Dream Dictionary"}
+      </h1>
+      <form onSubmit={handleSearch} className="w-full max-w-md">
+        <div className="flex gap-2">
+          <input
+            type="text"
+            value={query}
+            onChange={(e) => setQuery(e.target.value)}
+            placeholder={locale === "ko" ? "꿈 검색... (예: 뱀꿈, 돼지꿈)" : "Search dreams... (e.g. snake, flying)"}
+            className="flex-1 rounded-lg border border-white/20 bg-white/5 px-4 py-3 text-base text-white placeholder-gray-500 outline-none focus:border-white/40 focus:ring-2 focus:ring-white/10"
+          />
+          <button
+            type="submit"
+            className="rounded-lg bg-white px-5 py-3 text-base font-medium text-gray-900 transition-colors hover:bg-gray-100"
+          >
+            {locale === "ko" ? "검색" : "Search"}
+          </button>
+        </div>
+      </form>
     </div>
   );
 }

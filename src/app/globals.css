@@ -1,4 +1,5 @@
-@import "tailwindcss";
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&family=Noto+Serif+KR:wght@400;600;700&display=swap");
+@import "tailwindcss" source("../");
 
 :root {
   --background: #ffffff;
@@ -21,12 +22,17 @@ body {
 :lang(ko) {
   word-break: keep-all;
   overflow-wrap: break-word;
-  font-family: var(--typeface-korean), sans-serif;
+  font-family: "Noto Sans KR", sans-serif;
 }
 
-/* English locale: Geist */
+/* English locale: system sans-serif */
 :lang(en) {
-  font-family: var(--typeface-latin), sans-serif;
+  font-family: ui-sans-serif, system-ui, -apple-system, sans-serif;
+}
+
+/* Serif heading utility */
+.font-serif-ko {
+  font-family: "Noto Serif KR", Georgia, "Times New Roman", serif;
 }
 
 /* Smooth font rendering */

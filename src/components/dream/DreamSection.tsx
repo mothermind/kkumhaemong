@@ -1,40 +1,47 @@
 import Image from "next/image";
 import { MarkdownBody } from "./MarkdownBody";
 
-const TYPE_STYLES = {
-  auspicious: "border-l-4 border-emerald-400 bg-emerald-50",
-  inauspicious: "border-l-4 border-red-400 bg-red-50",
-  neutral: "border-l-4 border-gray-300 bg-gray-50",
+const TYPE_META = {
+  auspicious: { label: "길몽", labelEn: "Auspicious", color: "text-emerald-400", tag: "bg-emerald-400/10 text-emerald-400" },
+  inauspicious: { label: "흉몽", labelEn: "Inauspicious", color: "text-red-400", tag: "bg-red-400/10 text-red-400" },
+  neutral: { label: "중립", labelEn: "Neutral", color: "text-gray-300", tag: "bg-white/5 text-gray-400" },
 } as const;
 
 type Props = {
+  id: string;
   heading: string;
   body: string;
   type: string;
   image?: string;
+  locale?: string;
 };
 
-export function DreamSection({ heading, body, type, image }: Props) {
-  const style =
-    TYPE_STYLES[type as keyof typeof TYPE_STYLES] ?? TYPE_STYLES.neutral;
+export function DreamSection({ id, heading, body, type, image, locale }: Props) {
+  const meta = TYPE_META[type as keyof typeof TYPE_META] ?? TYPE_META.neutral;
+  const tagLabel = locale === "en" ? meta.labelEn : meta.label;
 
   return (
-    <section className="mt-8">
-      <h2 className="mb-3 text-xl font-semibold">{heading}</h2>
-      <div className={`rounded-xl p-5 ${style}`}>
-        {image && (
-          <div className="relative mb-4 w-full overflow-hidden rounded-lg aspect-[3/2]">
-            <Image
-              src={image}
-              alt={heading}
-              fill
-              className="object-cover object-center"
-              sizes="(max-width: 640px) 100vw, 680px"
-            />
-          </div>
-        )}
-        <MarkdownBody className="text-gray-800">{body}</MarkdownBody>
-      </div>
+    <section id={id} className="mt-14 scroll-mt-20">
+      {/* Type tag */}
+      <span className={`inline-block mb-2 rounded-full px-2.5 py-0.5 text-xs font-semibold tracking-wide ${meta.tag}`}>
+        {tagLabel}
+      </span>
+      {/* Section heading */}
+      <h2 className={`font-serif-ko mb-5 text-2xl font-semibold leading-snug ${meta.color}`}>
+        {heading}
+      </h2>
+      {image && (
+        <div className="relative mb-6 w-full overflow-hidden rounded-xl aspect-[3/2]">
+          <Image
+            src={image}
+            alt={heading}
+            fill
+            className="object-cover object-center"
+            sizes="(max-width: 640px) 100vw, 680px"
+          />
+        </div>
+      )}
+      <MarkdownBody className="text-gray-400 leading-8">{body}</MarkdownBody>
     </section>
   );
 }
