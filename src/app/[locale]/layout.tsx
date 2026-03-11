@@ -41,7 +41,7 @@ export default async function LocaleLayout({
       <head>
         <script dangerouslySetInnerHTML={{ __html: themeScript }} />
       </head>
-      <body className="min-h-screen bg-stone-50 text-stone-700 dark:bg-stone-950 dark:text-stone-300">
+      <body className="flex min-h-screen flex-col bg-stone-50 text-stone-700 dark:bg-stone-950 dark:text-stone-300">
         <NextIntlClientProvider messages={messages}>
           <Header locale={locale as Locale} />
           <main className="flex-1">{children}</main>

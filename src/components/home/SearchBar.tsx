@@ -29,7 +29,7 @@ export function SearchBar({ locale, placeholder, buttonLabel }: Props) {
           value={query}
           onChange={(e) => setQuery(e.target.value)}
           placeholder={placeholder}
-          className="flex-1 rounded-xl border border-white/20 bg-white/10 px-5 py-3.5 text-base text-white placeholder-white/40 backdrop-blur-sm outline-none transition focus:border-white/40 focus:bg-white/15 focus:ring-2 focus:ring-white/10"
+          className="flex-1 rounded-xl border border-stone-300 bg-white/70 px-5 py-3.5 text-base text-stone-900 placeholder-stone-400 backdrop-blur-sm outline-none transition focus:border-amber-400 focus:ring-2 focus:ring-amber-200/50 dark:border-white/20 dark:bg-white/10 dark:text-white dark:placeholder-white/40 dark:focus:border-white/40 dark:focus:ring-white/10"
         />
         <button
           type="submit"

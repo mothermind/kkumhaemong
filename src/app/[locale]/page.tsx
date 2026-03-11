@@ -56,27 +56,28 @@ export default async function HomePage({ params }: Props) {
       <section className="relative flex min-h-[80vh] flex-col items-center justify-center px-4 pb-16 pt-24">
         {/* Background image */}
         <div className="absolute inset-0 -z-10 overflow-hidden">
+          {/* Light: brighter, softer saturation; Dark: dimmer, richer saturation */}
           <Image
             src="/images/home/hero.png"
             alt="꿈해몽 배경"
             fill
             priority
-            className="object-cover"
+            className="object-cover brightness-110 saturate-75 dark:brightness-[0.65] dark:saturate-125"
             sizes="100vw"
           />
-          {/* Gradient overlay — top dark for header contrast, center lighter for readability */}
-          <div className="absolute inset-0 bg-gradient-to-b from-stone-950/80 via-stone-900/60 to-stone-950/80" />
+          {/* Light: warm amber wash; Dark: deep moody overlay */}
+          <div className="absolute inset-0 bg-gradient-to-b from-stone-100/60 via-amber-50/30 to-stone-100/60 dark:from-stone-950/80 dark:via-stone-900/60 dark:to-stone-950/80" />
         </div>
 
         {/* Hero content */}
         <div className="flex w-full max-w-xl flex-col items-center gap-6 text-center">
           <h1
-            className="text-[2.4rem] font-bold leading-tight text-white sm:text-[3rem]"
+            className="text-[2.4rem] font-bold leading-tight text-stone-900 dark:text-white sm:text-[3rem]"
             style={{ fontFamily: "var(--font-serif)" }}
           >
             {t("tagline")}
           </h1>
-          <p className="text-sm text-white/60 sm:text-base">{t("subtitle")}</p>
+          <p className="text-sm text-stone-600 dark:text-white/60 sm:text-base">{t("subtitle")}</p>
           <SearchBar
             locale={locale as Locale}
             placeholder={t("searchPlaceholder")}
@@ -92,7 +93,7 @@ export default async function HomePage({ params }: Props) {
                 key={chip.slug}
                 href={{ pathname: "/explore/[category]", params: { category: chip.slug } }}
                 locale={locale as Locale}
-                className="rounded-full border border-white/20 bg-white/10 px-4 py-1.5 text-sm text-white/80 backdrop-blur-sm transition hover:border-amber-400/60 hover:bg-white/15 hover:text-white"
+                className="rounded-full border border-stone-400/40 bg-white/50 px-4 py-1.5 text-sm text-stone-700 backdrop-blur-sm transition hover:border-amber-500/60 hover:bg-white/70 hover:text-stone-900 dark:border-white/20 dark:bg-white/10 dark:text-white/80 dark:hover:border-amber-400/60 dark:hover:bg-white/15 dark:hover:text-white"
               >
                 {locale === "ko" ? chip.ko : chip.en}
               </Link>
