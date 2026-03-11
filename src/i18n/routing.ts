@@ -13,6 +13,14 @@ export const routing = defineRouting({
       ko: "/카테고리/[category]",
       en: "/category/[category]",
     },
+    "/explore": {
+      ko: "/탐색",
+      en: "/explore",
+    },
+    "/explore/[category]": {
+      ko: "/탐색/[category]",
+      en: "/explore/[category]",
+    },
   },
 });
 

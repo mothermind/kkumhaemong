@@ -12,26 +12,22 @@ export function Header({ locale }: { locale: Locale }) {
   return (
     <header className="sticky top-0 z-50 border-b border-stone-200 bg-stone-50/95 backdrop-blur-sm dark:border-stone-800/60 dark:bg-stone-950/95">
       <div className="mx-auto flex h-14 max-w-3xl items-center justify-between px-4 sm:px-6">
-        <Link href="/" className="flex items-center gap-2">
-          <span className="text-lg font-bold text-amber-800 dark:text-amber-200" style={{ fontFamily: 'var(--font-serif)' }}>꿈해몽</span>
-          {locale === "en" && (
-            <span className="hidden text-sm text-stone-400 sm:block">
-              Korean Dream Dictionary
-            </span>
-          )}
-        </Link>
-
-        <nav className="hidden items-center gap-6 text-sm font-medium sm:flex">
-          <Link href="/" className="text-stone-500 transition-colors hover:text-stone-900 dark:text-stone-400 dark:hover:text-stone-100">
-            {t("home")}
+        <div className="flex items-center gap-6">
+          <Link href="/" className="flex items-center gap-2">
+            <span className="text-lg font-bold text-amber-800 dark:text-amber-200" style={{ fontFamily: 'var(--font-serif)' }}>꿈해몽</span>
+            {locale === "en" && (
+              <span className="hidden text-sm text-stone-400 sm:block">
+                Korean Dream Dictionary
+              </span>
+            )}
           </Link>
           <Link
-            href={{ pathname: "/category/[category]", params: { category: "animals" } }}
-            className="text-stone-500 transition-colors hover:text-stone-900 dark:text-stone-400 dark:hover:text-stone-100"
+            href="/explore"
+            className="text-sm font-medium text-stone-500 transition-colors hover:text-stone-900 dark:text-stone-400 dark:hover:text-stone-100"
           >
-            {t("categories")}
+            {t("explore")}
           </Link>
-        </nav>
+        </div>
 
         <div className="flex items-center gap-2">
           <ThemeToggle />
@@ -39,6 +35,7 @@ export function Header({ locale }: { locale: Locale }) {
         </div>
       </div>
     </header>
+
   );
 }
 

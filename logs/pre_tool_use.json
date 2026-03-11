@@ -8199,5 +8199,509 @@
       "description": "Check sex-dream image results"
     },
     "tool_use_id": "toolu_01HE2TLoq65LNTJKWkNtgr2T"
+  },
+  {
+    "session_id": "7b455dd0-7fbd-4229-96b2-9e6f97d9373f",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/7b455dd0-7fbd-4229-96b2-9e6f97d9373f.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Bash",
+    "tool_input": {
+      "command": "cat /Users/llnormll/WorkSpace/my-fortune-site/src/app/[locale]/page.tsx",
+      "description": "Read current homepage"
+    },
+    "tool_use_id": "toolu_01Spuip3foLw3pC93w273Emb"
+  },
+  {
+    "session_id": "7b455dd0-7fbd-4229-96b2-9e6f97d9373f",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/7b455dd0-7fbd-4229-96b2-9e6f97d9373f.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Read",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/app/[locale]/page.tsx"
+    },
+    "tool_use_id": "toolu_01NFK91dpEPHQwV9wLpciuWC"
+  },
+  {
+    "session_id": "7b455dd0-7fbd-4229-96b2-9e6f97d9373f",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/7b455dd0-7fbd-4229-96b2-9e6f97d9373f.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Read",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/components/layout/Header.tsx"
+    },
+    "tool_use_id": "toolu_01TF7WpAK5uhFggMwV3GiTWe"
+  },
+  {
+    "session_id": "7b455dd0-7fbd-4229-96b2-9e6f97d9373f",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/7b455dd0-7fbd-4229-96b2-9e6f97d9373f.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Read",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/lib/taxonomy.ts"
+    },
+    "tool_use_id": "toolu_01KBTN6VYpyopnoRXB4KotaG"
+  },
+  {
+    "session_id": "7b455dd0-7fbd-4229-96b2-9e6f97d9373f",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/7b455dd0-7fbd-4229-96b2-9e6f97d9373f.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Read",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/lib/content.ts"
+    },
+    "tool_use_id": "toolu_0136iCqig9Uj3xQNHmop37Lr"
+  },
+  {
+    "session_id": "7b455dd0-7fbd-4229-96b2-9e6f97d9373f",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/7b455dd0-7fbd-4229-96b2-9e6f97d9373f.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Read",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/messages/ko.json"
+    },
+    "tool_use_id": "toolu_01CHsioaTg6GjS1iNz5E5pwP"
+  },
+  {
+    "session_id": "7b455dd0-7fbd-4229-96b2-9e6f97d9373f",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/7b455dd0-7fbd-4229-96b2-9e6f97d9373f.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Bash",
+    "tool_input": {
+      "command": "ls /Users/llnormll/WorkSpace/my-fortune-site/data/taxonomy/",
+      "description": "List taxonomy files"
+    },
+    "tool_use_id": "toolu_01QG9JvbY7Gsbp7SCTuXUrk6"
+  },
+  {
+    "session_id": "7b455dd0-7fbd-4229-96b2-9e6f97d9373f",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/7b455dd0-7fbd-4229-96b2-9e6f97d9373f.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Read",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/messages/en.json"
+    },
+    "tool_use_id": "toolu_01B8k7hh3qijE6bPJQaabLbH"
+  },
+  {
+    "session_id": "7b455dd0-7fbd-4229-96b2-9e6f97d9373f",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/7b455dd0-7fbd-4229-96b2-9e6f97d9373f.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Read",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/data/taxonomy/_meta.json"
+    },
+    "tool_use_id": "toolu_01FvdvSLsVYkq1wK49kxfNve"
+  },
+  {
+    "session_id": "7b455dd0-7fbd-4229-96b2-9e6f97d9373f",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/7b455dd0-7fbd-4229-96b2-9e6f97d9373f.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Read",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/i18n/routing.ts"
+    },
+    "tool_use_id": "toolu_01LGKYoiAGKEUCtQ371AaSyJ"
+  },
+  {
+    "session_id": "7b455dd0-7fbd-4229-96b2-9e6f97d9373f",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/7b455dd0-7fbd-4229-96b2-9e6f97d9373f.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Read",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/messages/ko.json"
+    },
+    "tool_use_id": "toolu_01EWNfLknuftSypLMN9wcCte"
+  },
+  {
+    "session_id": "7b455dd0-7fbd-4229-96b2-9e6f97d9373f",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/7b455dd0-7fbd-4229-96b2-9e6f97d9373f.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Bash",
+    "tool_input": {
+      "command": "source ~/.zshrc 2>/dev/null || true\nmkdir -p /Users/llnormll/WorkSpace/my-fortune-site/public/images/home\nMODEL=\"imagen-4.0-generate-001\"\nRESPONSE=$(curl -s -X POST \\\n  \"https://generativelanguage.googleapis.com/v1beta/models/${MODEL}:predict?key=${GOOGLE_API_KEY}\" \\\n  -H \"Content-Type: application/json\" \\\n  -d '{\"instances\": [{\"prompt\": \"Vast misty Korean mountain landscape at predawn twilight, layered peaks fading into soft indigo haze, a single crescent moon reflecting on a still river below, ancient pine trees silhouetted in the foreground, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (\ud55c\uad6d\ud654), dreamlike ethereal atmosphere, deep indigo and midnight blue palette with hints of silver moonlight, no text, no people, wide panoramic composition suitable for website hero background\"}], \"parameters\": {\"sampleCount\": 1, \"aspectRatio\": \"16:9\"}}')\necho \"$RESPONSE\" | python3 -c \"\nimport sys, json, base64\ndata = json.load(sys.stdin)\nif 'predictions' in data and data['predictions']:\n    img_bytes = base64.b64decode(data['predictions'][0]['bytesBase64Encoded'])\n    open('/Users/llnormll/WorkSpace/my-fortune-site/public/images/home/hero.png', 'wb').write(img_bytes)\n    print('Hero saved:', len(img_bytes), 'bytes')\nelse:\n    print('ERROR:', json.dumps(data), file=sys.stderr)\n\"",
+      "description": "Generate homepage hero background image",
+      "run_in_background": true
+    },
+    "tool_use_id": "toolu_01Qm4QvaRDiURUsDHH1dhaGu"
+  },
+  {
+    "session_id": "7b455dd0-7fbd-4229-96b2-9e6f97d9373f",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/7b455dd0-7fbd-4229-96b2-9e6f97d9373f.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/i18n/routing.ts",
+      "old_string": "    \"/category/[category]\": {\n      ko: \"/\uce74\ud14c\uace0\ub9ac/[category]\",\n      en: \"/category/[category]\",\n    },\n  },",
+      "new_string": "    \"/category/[category]\": {\n      ko: \"/\uce74\ud14c\uace0\ub9ac/[category]\",\n      en: \"/category/[category]\",\n    },\n    \"/explore\": {\n      ko: \"/\ud0d0\uc0c9\",\n      en: \"/explore\",\n    },\n    \"/explore/[category]\": {\n      ko: \"/\ud0d0\uc0c9/[category]\",\n      en: \"/explore/[category]\",\n    },\n  },",
+      "replace_all": false
+    },
+    "tool_use_id": "toolu_01TUXp2x5CASqqtSAGjwm3Sw"
+  },
+  {
+    "session_id": "7b455dd0-7fbd-4229-96b2-9e6f97d9373f",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/7b455dd0-7fbd-4229-96b2-9e6f97d9373f.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Write",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/messages/ko.json",
+      "content": "{\n  \"nav\": {\n    \"home\": \"\ud648\",\n    \"explore\": \"\ud0d0\uc0c9\",\n    \"categories\": \"\uce74\ud14c\uace0\ub9ac\",\n    \"search\": \"\uac80\uc0c9\",\n    \"searchPlaceholder\": \"\uc5b4\ub5a4 \uafc8\uc744 \uafb8\uc168\ub098\uc694? (\uc608: \ubc40, \ub3fc\uc9c0, \uc774\ube68)\"\n  },\n  \"home\": {\n    \"title\": \"\uafc8\ud574\ubabd - \ubaa8\ub4e0 \uafc8\uc758 \uc758\ubbf8\ub97c \ucc3e\uc544\ubcf4\uc138\uc694\",\n    \"subtitle\": \"\ud55c\uad6d \uc804\ud1b5 \uafc8\ud574\ubabd \uc644\ubcbd \uc815\ub9ac\",\n    \"tagline\": \"\uc5b4\uc82f\ubc24 \uafc8, \ubb34\uc2a8 \uc758\ubbf8\uc77c\uae4c\uc694?\",\n    \"description\": \"\ub3fc\uc9c0\uafc8, \ubc40\uafc8, \uc774\ube68\ube60\uc9c0\ub294\uafc8 \ub4f1 \ubaa8\ub4e0 \uafc8\ud574\ubabd\uc744 \uae38\ubabd\u00b7\ud749\ubabd \uad6c\ubd84\uacfc \ud568\uaed8 \uc0c1\uc138\ud788 \uc54c\ub824\ub4dc\ub9bd\ub2c8\ub2e4.\",\n    \"searchPlaceholder\": \"\uc5b4\ub5a4 \uafc8\uc744 \uafb8\uc168\ub098\uc694? (\uc608: \ubc40, \ub3fc\uc9c0, \uc774\ube68)\",\n    \"searchButton\": \"\ud574\ubabd \ucc3e\uae30\",\n    \"popularDreams\": \"\uc778\uae30 \uafc8\ud574\ubabd\",\n    \"allCategories\": \"\uc804\uccb4 \uce74\ud14c\uace0\ub9ac\",\n    \"exploreCta\": \"\uc804\uccb4 \uce74\ud14c\uace0\ub9ac \ud0d0\uc0c9 \u2192\"\n  },\n  \"dream\": {\n    \"auspicious\": \"\uae38\ubabd\",\n    \"inauspicious\": \"\ud749\ubabd\",\n    \"neutral\": \"\uc911\ub9bd\",\n    \"variations\": \"\uc0c1\ud669\ubcc4 \ud574\ubabd\",\n    \"culturalContext\": \"\ubb38\ud654\uc801 \ubc30\uacbd\",\n    \"faq\": \"\uc790\uc8fc \ubb3b\ub294 \uc9c8\ubb38\",\n    \"relatedDreams\": \"\uad00\ub828 \uafc8\ud574\ubabd\",\n    \"shareTitle\": \"\uacf5\uc720\ud558\uae30\"\n  },\n  \"explore\": {\n    \"title\": \"\uafc8 \ud0d0\uc0c9\",\n    \"subtitle\": \"\uce74\ud14c\uace0\ub9ac\ubcc4\ub85c \uafc8\ud574\ubabd\uc744 \ucc3e\uc544\ubcf4\uc138\uc694\",\n    \"dreamCount\": \"{count}\uac1c\",\n    \"availableCount\": \"{count}\uac1c \ud574\ubabd \uc218\ub85d\",\n    \"comingSoon\": \"\uc900\ube44 \uc911\",\n    \"backToExplore\": \"\u2190 \ud0d0\uc0c9\uc73c\ub85c \ub3cc\uc544\uac00\uae30\"\n  },\n  \"category\": {\n    \"allSymbols\": \"\uc804\uccb4 \ubaa9\ub85d\",\n    \"symbolCount\": \"{count}\uac1c\uc758 \uafc8\",\n    \"browseAll\": \"\uc804\uccb4 \ubcf4\uae30\"\n  },\n  \"footer\": {\n    \"description\": \"\ud55c\uad6d \uc804\ud1b5 \uafc8\ud574\ubabd \uc804\ubb38 \uc0ac\uc774\ud2b8\",\n    \"copyright\": \"\u00a9 {year} \uafc8\ud574\ubabd. All rights reserved.\",\n    \"disclaimer\": \"\uafc8\ud574\ubabd\uc740 \ucc38\uace0\uc6a9\uc774\uba70, \uc2e4\uc81c \uc0c1\ud669\uc5d0 \ub300\ud55c \uc870\uc5b8\uc774 \uc544\ub2d9\ub2c8\ub2e4.\"\n  },\n  \"language\": {\n    \"toggle\": \"English\",\n    \"current\": \"\ud55c\uad6d\uc5b4\"\n  }\n}\n"
+    },
+    "tool_use_id": "toolu_01M1QeVjctq2yrXkGV1eNT7k"
+  },
+  {
+    "session_id": "7b455dd0-7fbd-4229-96b2-9e6f97d9373f",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/7b455dd0-7fbd-4229-96b2-9e6f97d9373f.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Write",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/messages/en.json",
+      "content": "{\n  \"nav\": {\n    \"home\": \"Home\",\n    \"explore\": \"Explore\",\n    \"categories\": \"Categories\",\n    \"search\": \"Search\",\n    \"searchPlaceholder\": \"What did you dream about? (e.g. snake, flying, teeth)\"\n  },\n  \"home\": {\n    \"title\": \"Korean Dream Interpretation - \uafc8\ud574\ubabd\",\n    \"subtitle\": \"Complete Guide to Korean Dream Meanings\",\n    \"tagline\": \"What did your dream mean?\",\n    \"description\": \"Discover the meaning of your dreams through traditional Korean dream interpretation (\uafc8\ud574\ubabd). From pig dreams to snake dreams, find what your dream means.\",\n    \"searchPlaceholder\": \"What did you dream about? (e.g. snake, flying, teeth)\",\n    \"searchButton\": \"Find Meaning\",\n    \"popularDreams\": \"Popular Dreams\",\n    \"allCategories\": \"All Categories\",\n    \"exploreCta\": \"Browse All Categories \u2192\"\n  },\n  \"dream\": {\n    \"auspicious\": \"Auspicious (\uae38\ubabd)\",\n    \"inauspicious\": \"Inauspicious (\ud749\ubabd)\",\n    \"neutral\": \"Neutral\",\n    \"variations\": \"Dream Variations\",\n    \"culturalContext\": \"Cultural Context\",\n    \"faq\": \"Frequently Asked Questions\",\n    \"relatedDreams\": \"Related Dreams\",\n    \"shareTitle\": \"Share\"\n  },\n  \"explore\": {\n    \"title\": \"Dream Explorer\",\n    \"subtitle\": \"Browse dream interpretations by category\",\n    \"dreamCount\": \"{count} dreams\",\n    \"availableCount\": \"{count} interpretations available\",\n    \"comingSoon\": \"Coming Soon\",\n    \"backToExplore\": \"\u2190 Back to Explorer\"\n  },\n  \"category\": {\n    \"allSymbols\": \"All Symbols\",\n    \"symbolCount\": \"{count} dreams\",\n    \"browseAll\": \"Browse All\"\n  },\n  \"footer\": {\n    \"description\": \"Your guide to Korean dream interpretation\",\n    \"copyright\": \"\u00a9 {year} Kkumhaemong. All rights reserved.\",\n    \"disclaimer\": \"Dream interpretations are for reference only and do not constitute real-world advice.\"\n  },\n  \"language\": {\n    \"toggle\": \"\ud55c\uad6d\uc5b4\",\n    \"current\": \"English\"\n  }\n}\n"
+    },
+    "tool_use_id": "toolu_011WyiQpT7znoyDxAxzYgrr4"
+  },
+  {
+    "session_id": "7b455dd0-7fbd-4229-96b2-9e6f97d9373f",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/7b455dd0-7fbd-4229-96b2-9e6f97d9373f.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/lib/content.ts",
+      "old_string": "export async function getContent(",
+      "new_string": "export type ContentPreview = {\n  slug: string;\n  koreanSlug: string;\n  title: { ko: string; en: string };\n  excerpt: { ko: string; en: string };\n  heroImage?: string;\n  badgeType: \"auspicious\" | \"inauspicious\" | \"neutral\";\n};\n\nfunction detectBadge(heading: string): ContentPreview[\"badgeType\"] {\n  if (heading.includes(\"\uae38\ubabd\") || /auspicious/i.test(heading)) return \"auspicious\";\n  if (heading.includes(\"\ud749\ubabd\") || /inauspicious/i.test(heading)) return \"inauspicious\";\n  return \"neutral\";\n}\n\nexport async function getAvailableContentSlugs(): Promise<string[]> {\n  try {\n    const { readdir } = await import(\"fs/promises\");\n    const files = await readdir(CONTENT_DIR);\n    return files.filter((f) => f.endsWith(\".json\")).map((f) => f.replace(\".json\", \"\"));\n  } catch {\n    return [];\n  }\n}\n\nexport async function getContentPreviews(slugs?: string[]): Promise<ContentPreview[]> {\n  const targetSlugs = slugs ?? (await getAvailableContentSlugs());\n  const previews: ContentPreview[] = [];\n  for (const slug of targetSlugs) {\n    try {\n      const safe = slug.replace(/[^a-zA-Z0-9_-]/g, \"\");\n      const raw = await readFile(path.join(CONTENT_DIR, `${safe}.json`), \"utf-8\");\n      // eslint-disable-next-line @typescript-eslint/no-explicit-any\n      const data = JSON.parse(raw) as any;\n      const firstHeading = data?.ko?.sections?.[0]?.heading ?? \"\";\n      previews.push({\n        slug,\n        koreanSlug: data?.seo?.koreanSlug ?? \"\",\n        title: { ko: data?.ko?.title ?? \"\", en: data?.en?.title ?? \"\" },\n        excerpt: {\n          ko: (data?.ko?.intro ?? \"\").slice(0, 130).trim() + \"\u2026\",\n          en: (data?.en?.intro ?? \"\").slice(0, 130).trim() + \"\u2026\",\n        },\n        heroImage: data?.images?.hero,\n        badgeType: detectBadge(firstHeading),\n      });\n    } catch {\n      continue;\n    }\n  }\n  return previews;\n}\n\nexport async function getContent(",
+      "replace_all": false
+    },
+    "tool_use_id": "toolu_01KWoUQ7gdmvD879rNXRSXpn"
+  },
+  {
+    "session_id": "7b455dd0-7fbd-4229-96b2-9e6f97d9373f",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/7b455dd0-7fbd-4229-96b2-9e6f97d9373f.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Write",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/components/dream/DreamCard.tsx",
+      "content": "import Image from \"next/image\";\nimport { Link } from \"@/i18n/navigation\";\nimport type { Locale } from \"@/i18n/routing\";\nimport type { ContentPreview } from \"@/lib/content\";\n\ntype Props = {\n  preview: ContentPreview;\n  locale: Locale;\n};\n\nconst BADGE_STYLES = {\n  auspicious: \"bg-amber-100 text-amber-800 dark:bg-amber-400/10 dark:text-amber-300\",\n  inauspicious: \"bg-rose-100 text-rose-700 dark:bg-rose-400/10 dark:text-rose-300\",\n  neutral: \"bg-stone-100 text-stone-600 dark:bg-stone-800 dark:text-stone-400\",\n};\n\nconst BADGE_LABELS: Record<ContentPreview[\"badgeType\"], { ko: string; en: string }> = {\n  auspicious: { ko: \"\uae38\ubabd\", en: \"Auspicious\" },\n  inauspicious: { ko: \"\ud749\ubabd\", en: \"Inauspicious\" },\n  neutral: { ko: \"\uc911\ub9bd\", en: \"Neutral\" },\n};\n\nexport function DreamCard({ preview, locale }: Props) {\n  const { slug, koreanSlug, title, excerpt, heroImage, badgeType } = preview;\n  const href =\n    locale === \"ko\"\n      ? { pathname: \"/dream/[slug]\" as const, params: { slug: koreanSlug } }\n      : { pathname: \"/dream/[slug]\" as const, params: { slug } };\n\n  return (\n    <Link\n      href={href}\n      locale={locale}\n      className=\"group flex items-start gap-4 rounded-xl border border-stone-200 bg-white px-4 py-4 transition-colors hover:border-amber-300 dark:border-stone-800/60 dark:bg-stone-900/40 dark:hover:border-amber-800/50\"\n    >\n      {/* Thumbnail */}\n      <div className=\"relative h-[72px] w-[108px] shrink-0 overflow-hidden rounded-lg bg-stone-100 dark:bg-stone-800\">\n        {heroImage ? (\n          <Image src={heroImage} alt={locale === \"ko\" ? title.ko : title.en} fill className=\"object-cover\" sizes=\"108px\" />\n        ) : (\n          <div className=\"h-full w-full bg-gradient-to-br from-amber-50 to-stone-200 dark:from-stone-700 dark:to-stone-800\" />\n        )}\n      </div>\n\n      {/* Text */}\n      <div className=\"min-w-0 flex-1 pt-0.5\">\n        <div className=\"mb-1.5 flex items-center gap-2\">\n          <span className={`inline-block rounded-full px-2 py-0.5 text-[11px] font-medium ${BADGE_STYLES[badgeType]}`}>\n            {BADGE_LABELS[badgeType][locale]}\n          </span>\n        </div>\n        <h3\n          className=\"line-clamp-1 text-[1rem] font-bold leading-snug text-stone-900 dark:text-stone-100\"\n          style={{ fontFamily: \"var(--font-serif)\" }}\n        >\n          {locale === \"ko\" ? title.ko : title.en}\n        </h3>\n        <p className=\"mt-1 line-clamp-2 text-sm leading-relaxed text-stone-500 dark:text-stone-400\">\n          {locale === \"ko\" ? excerpt.ko : excerpt.en}\n        </p>\n      </div>\n    </Link>\n  );\n}\n"
+    },
+    "tool_use_id": "toolu_01B6UDi6WAg24LKLFLpxgpw2"
+  },
+  {
+    "session_id": "7b455dd0-7fbd-4229-96b2-9e6f97d9373f",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/7b455dd0-7fbd-4229-96b2-9e6f97d9373f.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Write",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/components/common/AdSlot.tsx",
+      "content": "type Props = {\n  className?: string;\n};\n\nexport function AdSlot({ className = \"\" }: Props) {\n  return (\n    <div\n      className={`flex h-[90px] items-center justify-center rounded-xl border border-dashed border-stone-200 bg-stone-50/50 dark:border-stone-800/50 dark:bg-stone-900/20 ${className}`}\n    >\n      <span className=\"text-xs text-stone-300 dark:text-stone-700\">AD</span>\n    </div>\n  );\n}\n"
+    },
+    "tool_use_id": "toolu_01DJKFoegGwW1dpjnePQPRGH"
+  },
+  {
+    "session_id": "7b455dd0-7fbd-4229-96b2-9e6f97d9373f",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/7b455dd0-7fbd-4229-96b2-9e6f97d9373f.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Write",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/components/home/SearchBar.tsx",
+      "content": "\"use client\";\n\nimport { useState } from \"react\";\nimport { useRouter } from \"@/i18n/navigation\";\nimport type { Locale } from \"@/i18n/routing\";\n\ntype Props = {\n  locale: Locale;\n  placeholder: string;\n  buttonLabel: string;\n};\n\nexport function SearchBar({ locale, placeholder, buttonLabel }: Props) {\n  const [query, setQuery] = useState(\"\");\n  const router = useRouter();\n\n  function handleSearch(e: React.FormEvent) {\n    e.preventDefault();\n    const slug = query.trim().toLowerCase().replace(/\\s+/g, \"-\");\n    if (!slug) return;\n    router.push({ pathname: \"/dream/[slug]\", params: { slug } });\n  }\n\n  return (\n    <form onSubmit={handleSearch} className=\"w-full max-w-xl\">\n      <div className=\"flex gap-2\">\n        <input\n          type=\"text\"\n          value={query}\n          onChange={(e) => setQuery(e.target.value)}\n          placeholder={placeholder}\n          className=\"flex-1 rounded-xl border border-white/20 bg-white/10 px-5 py-3.5 text-base text-white placeholder-white/40 backdrop-blur-sm outline-none transition focus:border-white/40 focus:bg-white/15 focus:ring-2 focus:ring-white/10\"\n        />\n        <button\n          type=\"submit\"\n          className=\"shrink-0 rounded-xl bg-amber-500 px-5 py-3.5 text-sm font-semibold text-white shadow-sm transition hover:bg-amber-400 active:bg-amber-600\"\n        >\n          {buttonLabel}\n        </button>\n      </div>\n    </form>\n  );\n}\n"
+    },
+    "tool_use_id": "toolu_01NdPxWPbjQMp58MxwRJ4VHJ"
+  },
+  {
+    "session_id": "7b455dd0-7fbd-4229-96b2-9e6f97d9373f",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/7b455dd0-7fbd-4229-96b2-9e6f97d9373f.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Write",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/app/[locale]/page.tsx",
+      "content": "import Image from \"next/image\";\nimport { getTranslations } from \"next-intl/server\";\nimport { Link } from \"@/i18n/navigation\";\nimport type { Locale } from \"@/i18n/routing\";\nimport { getContentPreviews } from \"@/lib/content\";\nimport { DreamCard } from \"@/components/dream/DreamCard\";\nimport { AdSlot } from \"@/components/common/AdSlot\";\nimport { SearchBar } from \"@/components/home/SearchBar\";\n\ntype Props = { params: Promise<{ locale: string }> };\n\n// Ordered by traffic priority\nconst POPULAR_SLUGS = [\n  \"flying-dream\",\n  \"falling-dream\",\n  \"being-chased-dream\",\n  \"taking-exam-dream\",\n  \"giving-birth-dream\",\n  \"fishing-dream\",\n  \"drowning-dream\",\n  \"climbing-mountain-dream\",\n  \"crying-dream\",\n  \"fighting-dream\",\n  \"running-dream\",\n  \"driving-dream\",\n  \"eating-dream\",\n  \"swimming-dream\",\n  \"kissing-dream\",\n  \"winning-dream\",\n  \"dancing-dream\",\n  \"sex-dream\",\n];\n\nconst CATEGORY_CHIPS = [\n  { slug: \"animals\", ko: \"\ud83d\udc0d \ub3d9\ubb3c\uafc8\", en: \"\ud83d\udc0d Animals\" },\n  { slug: \"actions\", ko: \"\ud83c\udfc3 \ud589\ub3d9\uafc8\", en: \"\ud83c\udfc3 Actions\" },\n  { slug: \"pregnancy\", ko: \"\ud83e\udd30 \uc784\uc2e0\u00b7\ud0dc\ubabd\", en: \"\ud83e\udd30 Pregnancy\" },\n  { slug: \"money\", ko: \"\ud83d\udcb0 \ub3c8\u00b7\uc7ac\ubb3c\", en: \"\ud83d\udcb0 Money\" },\n  { slug: \"death\", ko: \"\u26ab \uc8fd\uc74c\uafc8\", en: \"\u26ab Death\" },\n  { slug: \"marriage\", ko: \"\ud83d\udc8d \uc5f0\uc560\u00b7\uacb0\ud63c\", en: \"\ud83d\udc8d Love\" },\n];\n\nexport default async function HomePage({ params }: Props) {\n  const { locale } = await params;\n  const t = await getTranslations({ locale, namespace: \"home\" });\n\n  // Load previews in priority order, skip missing\n  const previews = await getContentPreviews(POPULAR_SLUGS);\n  const ordered = POPULAR_SLUGS\n    .map((s) => previews.find((p) => p.slug === s))\n    .filter(Boolean) as typeof previews;\n\n  return (\n    <>\n      {/* \u2500\u2500 Hero \u2500\u2500 */}\n      <section className=\"relative flex min-h-[80vh] flex-col items-center justify-center px-4 pb-16 pt-24\">\n        {/* Background image */}\n        <div className=\"absolute inset-0 -z-10 overflow-hidden\">\n          <Image\n            src=\"/images/home/hero.png\"\n            alt=\"\uafc8\ud574\ubabd \ubc30\uacbd\"\n            fill\n            priority\n            className=\"object-cover\"\n            sizes=\"100vw\"\n          />\n          {/* Gradient overlay \u2014 top dark for header contrast, center lighter for readability */}\n          <div className=\"absolute inset-0 bg-gradient-to-b from-stone-950/80 via-stone-900/60 to-stone-950/80\" />\n        </div>\n\n        {/* Hero content */}\n        <div className=\"flex w-full max-w-xl flex-col items-center gap-6 text-center\">\n          <h1\n            className=\"text-[2.4rem] font-bold leading-tight text-white sm:text-[3rem]\"\n            style={{ fontFamily: \"var(--font-serif)\" }}\n          >\n            {t(\"tagline\")}\n          </h1>\n          <p className=\"text-sm text-white/60 sm:text-base\">{t(\"subtitle\")}</p>\n          <SearchBar\n            locale={locale as Locale}\n            placeholder={t(\"searchPlaceholder\")}\n            buttonLabel={t(\"searchButton\")}\n          />\n        </div>\n\n        {/* Category chips at bottom of hero */}\n        <div className=\"absolute bottom-6 left-0 right-0 flex justify-center px-4\">\n          <div className=\"flex flex-wrap justify-center gap-2\">\n            {CATEGORY_CHIPS.map((chip) => (\n              <Link\n                key={chip.slug}\n                href={{ pathname: \"/explore/[category]\", params: { category: chip.slug } }}\n                locale={locale as Locale}\n                className=\"rounded-full border border-white/20 bg-white/10 px-4 py-1.5 text-sm text-white/80 backdrop-blur-sm transition hover:border-amber-400/60 hover:bg-white/15 hover:text-white\"\n              >\n                {locale === \"ko\" ? chip.ko : chip.en}\n              </Link>\n            ))}\n          </div>\n        </div>\n      </section>\n\n      {/* \u2500\u2500 Popular Dreams \u2500\u2500 */}\n      <section className=\"mx-auto max-w-2xl px-4 py-10 sm:px-6\">\n        <h2\n          className=\"mb-6 text-[1.4rem] font-bold text-stone-900 dark:text-stone-100\"\n          style={{ fontFamily: \"var(--font-serif)\" }}\n        >\n          {t(\"popularDreams\")}\n        </h2>\n\n        <div className=\"space-y-3\">\n          {ordered.map((preview, i) => (\n            <>\n              <DreamCard key={preview.slug} preview={preview} locale={locale as Locale} />\n              {/* Ad every 6 items */}\n              {(i + 1) % 6 === 0 && i < ordered.length - 1 && (\n                <AdSlot key={`ad-${i}`} />\n              )}\n            </>\n          ))}\n        </div>\n\n        {/* CTA to explorer */}\n        <div className=\"mt-10 text-center\">\n          <Link\n            href=\"/explore\"\n            locale={locale as Locale}\n            className=\"inline-block rounded-xl border border-amber-300 px-6 py-3 text-sm font-medium text-amber-800 transition hover:bg-amber-50 dark:border-amber-800/50 dark:text-amber-300 dark:hover:bg-amber-950/30\"\n          >\n            {t(\"exploreCta\")}\n          </Link>\n        </div>\n      </section>\n    </>\n  );\n}\n"
+    },
+    "tool_use_id": "toolu_01GFLYYZmRTgirM8ykh6icn8"
+  },
+  {
+    "session_id": "7b455dd0-7fbd-4229-96b2-9e6f97d9373f",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/7b455dd0-7fbd-4229-96b2-9e6f97d9373f.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Bash",
+    "tool_input": {
+      "command": "mkdir -p /Users/llnormll/WorkSpace/my-fortune-site/src/app/[locale]/explore/[category]",
+      "description": "Create explore route directories"
+    },
+    "tool_use_id": "toolu_013akMQsDTXwh9WCBqb9DEDK"
+  },
+  {
+    "session_id": "7b455dd0-7fbd-4229-96b2-9e6f97d9373f",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/7b455dd0-7fbd-4229-96b2-9e6f97d9373f.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Write",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/app/[locale]/explore/page.tsx",
+      "content": "import type { Metadata } from \"next\";\nimport { getTranslations } from \"next-intl/server\";\nimport { Link } from \"@/i18n/navigation\";\nimport type { Locale } from \"@/i18n/routing\";\nimport { getTaxonomyMeta } from \"@/lib/taxonomy\";\nimport { getAvailableContentSlugs } from \"@/lib/content\";\n\ntype Props = { params: Promise<{ locale: string }> };\n\nconst CATEGORY_ICONS: Record<string, string> = {\n  animals: \"\ud83d\udc0d\",\n  body: \"\ud83e\udec0\",\n  actions: \"\ud83c\udfc3\",\n  people: \"\ud83d\udc65\",\n  pregnancy: \"\ud83e\udd30\",\n  objects: \"\ud83d\udce6\",\n  food: \"\ud83c\udf5a\",\n  places: \"\ud83c\udfdb\ufe0f\",\n  money: \"\ud83d\udcb0\",\n  death: \"\u26ab\",\n  water: \"\ud83c\udf0a\",\n  nature: \"\ud83c\udfd4\ufe0f\",\n  fire: \"\ud83d\udd25\",\n  emotions: \"\ud83d\udcad\",\n  disasters: \"\u26a1\",\n  celestial: \"\ud83c\udf19\",\n  transportation: \"\ud83d\ude97\",\n  marriage: \"\ud83d\udc8d\",\n  colors: \"\ud83c\udfa8\",\n  insects: \"\ud83e\udd8b\",\n  clothing: \"\ud83d\udc58\",\n  numbers: \"\ud83d\udd22\",\n  weather: \"\u26c5\",\n  plants: \"\ud83c\udf38\",\n  spirits: \"\ud83d\udc7b\",\n};\n\nexport async function generateMetadata({ params }: Props): Promise<Metadata> {\n  const { locale } = await params;\n  return {\n    title: locale === \"ko\" ? \"\uafc8 \ud0d0\uc0c9 - \uafc8\ud574\ubabd\" : \"Dream Explorer - Kkumhaemong\",\n    description:\n      locale === \"ko\"\n        ? \"\uce74\ud14c\uace0\ub9ac\ubcc4\ub85c \uafc8\ud574\ubabd\uc744 \ucc3e\uc544\ubcf4\uc138\uc694\"\n        : \"Browse Korean dream interpretations by category\",\n  };\n}\n\nexport default async function ExplorePage({ params }: Props) {\n  const { locale } = await params;\n  const t = await getTranslations({ locale, namespace: \"explore\" });\n\n  const [meta, availableSlugs] = await Promise.all([\n    getTaxonomyMeta(),\n    getAvailableContentSlugs(),\n  ]);\n\n  const availableSet = new Set(availableSlugs);\n\n  return (\n    <div className=\"mx-auto max-w-2xl px-4 py-10 sm:px-6\">\n      {/* Header */}\n      <div className=\"mb-10\">\n        <h1\n          className=\"text-[2rem] font-bold text-stone-900 dark:text-stone-100\"\n          style={{ fontFamily: \"var(--font-serif)\" }}\n        >\n          {t(\"title\")}\n        </h1>\n        <p className=\"mt-2 text-stone-500 dark:text-stone-400\">{t(\"subtitle\")}</p>\n      </div>\n\n      {/* Category grid */}\n      <div className=\"grid grid-cols-2 gap-3 sm:grid-cols-3\">\n        {meta?.categories.map((cat) => {\n          // Count symbols with content (approximate: match category slug in available slugs)\n          const available = availableSlugs.filter((s) =>\n            availableSet.has(s)\n          ).length;\n          void available;\n\n          return (\n            <Link\n              key={cat.id}\n              href={{ pathname: \"/explore/[category]\", params: { category: cat.id } }}\n              locale={locale as Locale}\n              className=\"group flex flex-col gap-3 rounded-xl border border-stone-200 bg-white px-4 py-5 transition-colors hover:border-amber-300 dark:border-stone-800/60 dark:bg-stone-900/40 dark:hover:border-amber-800/50\"\n            >\n              <span className=\"text-2xl\">{CATEGORY_ICONS[cat.id] ?? \"\u2726\"}</span>\n              <div>\n                <p\n                  className=\"font-bold text-stone-900 dark:text-stone-100\"\n                  style={{ fontFamily: \"var(--font-serif)\" }}\n                >\n                  {locale === \"ko\" ? cat.korean : cat.english}\n                </p>\n                <p className=\"mt-0.5 text-xs text-stone-400 dark:text-stone-600\">\n                  {cat.symbolCount}{locale === \"ko\" ? \"\uac1c\" : \" symbols\"}\n                </p>\n              </div>\n            </Link>\n          );\n        })}\n      </div>\n    </div>\n  );\n}\n"
+    },
+    "tool_use_id": "toolu_01UQ5aVmkxscyUjJHUVq6suY"
+  },
+  {
+    "session_id": "7b455dd0-7fbd-4229-96b2-9e6f97d9373f",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/7b455dd0-7fbd-4229-96b2-9e6f97d9373f.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Write",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/app/[locale]/explore/[category]/page.tsx",
+      "content": "import type { Metadata } from \"next\";\nimport { getTranslations } from \"next-intl/server\";\nimport { notFound } from \"next/navigation\";\nimport { Link } from \"@/i18n/navigation\";\nimport type { Locale } from \"@/i18n/routing\";\nimport { getTaxonomyCategory } from \"@/lib/taxonomy\";\nimport { getContentPreviews, getAvailableContentSlugs } from \"@/lib/content\";\nimport { DreamCard } from \"@/components/dream/DreamCard\";\nimport { AdSlot } from \"@/components/common/AdSlot\";\n\ntype Props = { params: Promise<{ locale: string; category: string }> };\n\nexport async function generateMetadata({ params }: Props): Promise<Metadata> {\n  const { locale, category } = await params;\n  const data = await getTaxonomyCategory(category);\n  if (!data) return {};\n  return {\n    title:\n      locale === \"ko\"\n        ? `${data.korean} \uafc8\ud574\ubabd - \uafc8\ud574\ubabd`\n        : `${data.english} Dream Meanings - Kkumhaemong`,\n  };\n}\n\nexport default async function CategoryExplorePage({ params }: Props) {\n  const { locale, category } = await params;\n  const t = await getTranslations({ locale, namespace: \"explore\" });\n\n  const [taxData, availableSlugs] = await Promise.all([\n    getTaxonomyCategory(category),\n    getAvailableContentSlugs(),\n  ]);\n\n  if (!taxData) notFound();\n\n  const availableSet = new Set(availableSlugs);\n\n  // Get slugs in this category that have content\n  const slugsWithContent = taxData.symbols\n    .map((s) => s.slug)\n    .filter((slug) => availableSet.has(slug));\n\n  const previews = await getContentPreviews(slugsWithContent);\n\n  // Order previews to match taxonomy order\n  const ordered = slugsWithContent\n    .map((s) => previews.find((p) => p.slug === s))\n    .filter(Boolean) as typeof previews;\n\n  const comingSoonCount = taxData.symbols.length - slugsWithContent.length;\n\n  const categoryName = locale === \"ko\" ? taxData.korean : taxData.english;\n\n  return (\n    <div className=\"mx-auto max-w-2xl px-4 py-10 sm:px-6\">\n      {/* Back link */}\n      <Link\n        href=\"/explore\"\n        locale={locale as Locale}\n        className=\"mb-8 inline-block text-sm text-stone-400 transition hover:text-amber-700 dark:text-stone-600 dark:hover:text-amber-400\"\n      >\n        {t(\"backToExplore\")}\n      </Link>\n\n      {/* Header */}\n      <div className=\"mb-8\">\n        <h1\n          className=\"text-[2rem] font-bold text-stone-900 dark:text-stone-100\"\n          style={{ fontFamily: \"var(--font-serif)\" }}\n        >\n          {categoryName}\n          {locale === \"ko\" ? \" \uafc8\ud574\ubabd\" : \" Dream Meanings\"}\n        </h1>\n        <p className=\"mt-1.5 text-sm text-stone-500 dark:text-stone-400\">\n          {t(\"availableCount\", { count: ordered.length })}\n          {comingSoonCount > 0 && (\n            <span className=\"ml-2 text-stone-400 dark:text-stone-600\">\n              \u00b7 {comingSoonCount}{locale === \"ko\" ? \"\uac1c \uc900\ube44 \uc911\" : \" coming soon\"}\n            </span>\n          )}\n        </p>\n      </div>\n\n      {/* Dream list */}\n      {ordered.length > 0 ? (\n        <div className=\"space-y-3\">\n          {ordered.map((preview, i) => (\n            <>\n              <DreamCard key={preview.slug} preview={preview} locale={locale as Locale} />\n              {(i + 1) % 6 === 0 && i < ordered.length - 1 && (\n                <AdSlot key={`ad-${i}`} />\n              )}\n            </>\n          ))}\n        </div>\n      ) : (\n        <div className=\"rounded-xl border border-dashed border-stone-200 px-6 py-16 text-center dark:border-stone-800\">\n          <p className=\"text-stone-400 dark:text-stone-600\">\n            {locale === \"ko\"\n              ? \"\uc774 \uce74\ud14c\uace0\ub9ac\uc758 \uafc8\ud574\ubabd\uc744 \uc5f4\uc2ec\ud788 \uc900\ube44 \uc911\uc785\ub2c8\ub2e4.\"\n              : \"Dream interpretations for this category are coming soon.\"}\n          </p>\n        </div>\n      )}\n\n      {/* Coming soon symbols */}\n      {comingSoonCount > 0 && ordered.length > 0 && (\n        <div className=\"mt-10 rounded-xl border border-dashed border-stone-200 px-5 py-5 dark:border-stone-800/60\">\n          <p className=\"mb-3 text-xs font-semibold uppercase tracking-widest text-stone-400 dark:text-stone-600\">\n            {locale === \"ko\" ? \"\uc900\ube44 \uc911\" : \"Coming Soon\"}\n          </p>\n          <div className=\"flex flex-wrap gap-2\">\n            {taxData.symbols\n              .filter((s) => !availableSet.has(s.slug))\n              .map((s) => (\n                <span\n                  key={s.slug}\n                  className=\"rounded-full border border-stone-200 px-3 py-1 text-xs text-stone-400 dark:border-stone-800 dark:text-stone-600\"\n                >\n                  {locale === \"ko\" ? s.korean : s.english}\n                </span>\n              ))}\n          </div>\n        </div>\n      )}\n    </div>\n  );\n}\n"
+    },
+    "tool_use_id": "toolu_01HKVZcj6XXW4Y9wpTMmmW9H"
+  },
+  {
+    "session_id": "7b455dd0-7fbd-4229-96b2-9e6f97d9373f",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/7b455dd0-7fbd-4229-96b2-9e6f97d9373f.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/components/layout/Header.tsx",
+      "old_string": "        <nav className=\"hidden items-center gap-6 text-sm font-medium sm:flex\">\n          <Link href=\"/\" className=\"text-stone-500 transition-colors hover:text-stone-900 dark:text-stone-400 dark:hover:text-stone-100\">\n            {t(\"home\")}\n          </Link>\n          <Link\n            href={{ pathname: \"/category/[category]\", params: { category: \"animals\" } }}\n            className=\"text-stone-500 transition-colors hover:text-stone-900 dark:text-stone-400 dark:hover:text-stone-100\"\n          >\n            {t(\"categories\")}\n          </Link>\n        </nav>",
+      "new_string": "        <nav className=\"hidden items-center gap-6 text-sm font-medium sm:flex\">\n          <Link href=\"/\" className=\"text-stone-500 transition-colors hover:text-stone-900 dark:text-stone-400 dark:hover:text-stone-100\">\n            {t(\"home\")}\n          </Link>\n          <Link\n            href=\"/explore\"\n            className=\"text-stone-500 transition-colors hover:text-stone-900 dark:text-stone-400 dark:hover:text-stone-100\"\n          >\n            {t(\"explore\")}\n          </Link>\n        </nav>",
+      "replace_all": false
+    },
+    "tool_use_id": "toolu_01JivXdr7HXNiCBeiYhbUhUP"
+  },
+  {
+    "session_id": "7b455dd0-7fbd-4229-96b2-9e6f97d9373f",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/7b455dd0-7fbd-4229-96b2-9e6f97d9373f.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Bash",
+    "tool_input": {
+      "command": "cat /private/tmp/claude-501/-Users-llnormll-WorkSpace-my-fortune-site/tasks/bd9v84d04.output",
+      "description": "Check hero image generation status"
+    },
+    "tool_use_id": "toolu_014R5s77oVv1aHL8u6Z8cqn7"
+  },
+  {
+    "session_id": "7b455dd0-7fbd-4229-96b2-9e6f97d9373f",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/7b455dd0-7fbd-4229-96b2-9e6f97d9373f.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Bash",
+    "tool_input": {
+      "command": "npm run build 2>&1 | tail -30",
+      "description": "Build to check for errors"
+    },
+    "tool_use_id": "toolu_011ZuomtQg5ryRgwMG8L2j1h"
+  },
+  {
+    "session_id": "7b455dd0-7fbd-4229-96b2-9e6f97d9373f",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/7b455dd0-7fbd-4229-96b2-9e6f97d9373f.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/components/layout/Header.tsx",
+      "old_string": "        <nav className=\"hidden items-center gap-6 text-sm font-medium sm:flex\">\n          <Link href=\"/\" className=\"text-stone-500 transition-colors hover:text-stone-900 dark:text-stone-400 dark:hover:text-stone-100\">\n            {t(\"home\")}\n          </Link>\n          <Link\n            href=\"/explore\"\n            className=\"text-stone-500 transition-colors hover:text-stone-900 dark:text-stone-400 dark:hover:text-stone-100\"\n          >\n            {t(\"explore\")}\n          </Link>\n        </nav>",
+      "new_string": "        <nav className=\"hidden items-center gap-6 text-sm font-medium sm:flex\">\n          <Link\n            href=\"/explore\"\n            className=\"text-stone-500 transition-colors hover:text-stone-900 dark:text-stone-400 dark:hover:text-stone-100\"\n          >\n            {t(\"explore\")}\n          </Link>\n        </nav>",
+      "replace_all": false
+    },
+    "tool_use_id": "toolu_012N3cTL9THxtPCk5w91tio7"
+  },
+  {
+    "session_id": "7b455dd0-7fbd-4229-96b2-9e6f97d9373f",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/7b455dd0-7fbd-4229-96b2-9e6f97d9373f.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Write",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/components/explore/CategoryDreamList.tsx",
+      "content": "\"use client\";\n\nimport { useState } from \"react\";\nimport { DreamCard } from \"@/components/dream/DreamCard\";\nimport { AdSlot } from \"@/components/common/AdSlot\";\nimport type { ContentPreview } from \"@/lib/content\";\nimport type { Locale } from \"@/i18n/routing\";\n\nexport type EnrichedPreview = ContentPreview & {\n  subcategory: string;\n  subcategoryLabel: string; // localized\n};\n\ntype Props = {\n  items: EnrichedPreview[];\n  locale: Locale;\n  allLabel: string;       // \"\uc804\uccb4\" / \"All\"\n};\n\nexport function CategoryDreamList({ items, locale, allLabel }: Props) {\n  const [active, setActive] = useState<string | null>(null);\n\n  // Build unique subcategory list preserving order of first appearance\n  const subcategories = Array.from(\n    new Map(items.map((i) => [i.subcategory, i.subcategoryLabel])).entries()\n  );\n\n  const filtered = active ? items.filter((i) => i.subcategory === active) : items;\n\n  return (\n    <>\n      {/* Filter pills \u2014 only show when there are multiple subcategories */}\n      {subcategories.length > 1 && (\n        <div className=\"mb-6 flex flex-wrap gap-2\">\n          <button\n            onClick={() => setActive(null)}\n            className={`rounded-full border px-3.5 py-1.5 text-sm transition ${\n              active === null\n                ? \"border-amber-400 bg-amber-50 text-amber-800 dark:border-amber-700 dark:bg-amber-950/40 dark:text-amber-300\"\n                : \"border-stone-200 text-stone-500 hover:border-stone-300 dark:border-stone-800 dark:text-stone-400 dark:hover:border-stone-700\"\n            }`}\n          >\n            {allLabel}\n          </button>\n          {subcategories.map(([slug, label]) => (\n            <button\n              key={slug}\n              onClick={() => setActive(active === slug ? null : slug)}\n              className={`rounded-full border px-3.5 py-1.5 text-sm transition ${\n                active === slug\n                  ? \"border-amber-400 bg-amber-50 text-amber-800 dark:border-amber-700 dark:bg-amber-950/40 dark:text-amber-300\"\n                  : \"border-stone-200 text-stone-500 hover:border-stone-300 dark:border-stone-800 dark:text-stone-400 dark:hover:border-stone-700\"\n              }`}\n            >\n              {label}\n            </button>\n          ))}\n        </div>\n      )}\n\n      {/* Dream cards */}\n      <div className=\"space-y-3\">\n        {filtered.map((preview, i) => (\n          <>\n            <DreamCard key={preview.slug} preview={preview} locale={locale} />\n            {(i + 1) % 6 === 0 && i < filtered.length - 1 && (\n              <AdSlot key={`ad-${i}`} />\n            )}\n          </>\n        ))}\n      </div>\n    </>\n  );\n}\n"
+    },
+    "tool_use_id": "toolu_01VD154rh2Vp4QRWBQvyrndi"
+  },
+  {
+    "session_id": "7b455dd0-7fbd-4229-96b2-9e6f97d9373f",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/7b455dd0-7fbd-4229-96b2-9e6f97d9373f.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Write",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/app/[locale]/explore/[category]/page.tsx",
+      "content": "import type { Metadata } from \"next\";\nimport { getTranslations } from \"next-intl/server\";\nimport { notFound } from \"next/navigation\";\nimport { Link } from \"@/i18n/navigation\";\nimport type { Locale } from \"@/i18n/routing\";\nimport { getTaxonomyCategory } from \"@/lib/taxonomy\";\nimport { getContentPreviews, getAvailableContentSlugs } from \"@/lib/content\";\nimport { CategoryDreamList } from \"@/components/explore/CategoryDreamList\";\nimport type { EnrichedPreview } from \"@/components/explore/CategoryDreamList\";\n\ntype Props = { params: Promise<{ locale: string; category: string }> };\n\nexport async function generateMetadata({ params }: Props): Promise<Metadata> {\n  const { locale, category } = await params;\n  const data = await getTaxonomyCategory(category);\n  if (!data) return {};\n  return {\n    title:\n      locale === \"ko\"\n        ? `${data.korean} \uafc8\ud574\ubabd - \uafc8\ud574\ubabd`\n        : `${data.english} Dream Meanings - Kkumhaemong`,\n  };\n}\n\nexport default async function CategoryExplorePage({ params }: Props) {\n  const { locale, category } = await params;\n  const t = await getTranslations({ locale, namespace: \"explore\" });\n\n  const [taxData, availableSlugs] = await Promise.all([\n    getTaxonomyCategory(category),\n    getAvailableContentSlugs(),\n  ]);\n\n  if (!taxData) notFound();\n\n  const availableSet = new Set(availableSlugs);\n\n  // Symbols in this category that have content \u2014 preserve taxonomy order\n  const symbolsWithContent = taxData.symbols.filter((s) => availableSet.has(s.slug));\n  const slugsWithContent = symbolsWithContent.map((s) => s.slug);\n\n  const previews = await getContentPreviews(slugsWithContent);\n  const previewMap = new Map(previews.map((p) => [p.slug, p]));\n\n  // Enrich with subcategory metadata from taxonomy\n  const enriched: EnrichedPreview[] = symbolsWithContent\n    .map((sym) => {\n      const preview = previewMap.get(sym.slug);\n      if (!preview) return null;\n      return {\n        ...preview,\n        subcategory: sym.subcategory,\n        subcategoryLabel: locale === \"ko\"\n          ? (sym.subcategoryKorean || sym.subcategory)\n          : sym.subcategory.replace(/-/g, \" \"),\n      };\n    })\n    .filter(Boolean) as EnrichedPreview[];\n\n  const comingSoonCount = taxData.symbols.length - slugsWithContent.length;\n  const categoryName = locale === \"ko\" ? taxData.korean : taxData.english;\n\n  return (\n    <div className=\"mx-auto max-w-2xl px-4 py-10 sm:px-6\">\n      {/* Back link */}\n      <Link\n        href=\"/explore\"\n        locale={locale as Locale}\n        className=\"mb-8 inline-block text-sm text-stone-400 transition hover:text-amber-700 dark:text-stone-600 dark:hover:text-amber-400\"\n      >\n        {t(\"backToExplore\")}\n      </Link>\n\n      {/* Header */}\n      <div className=\"mb-8\">\n        <h1\n          className=\"text-[2rem] font-bold text-stone-900 dark:text-stone-100\"\n          style={{ fontFamily: \"var(--font-serif)\" }}\n        >\n          {categoryName}\n          {locale === \"ko\" ? \" \uafc8\ud574\ubabd\" : \" Dream Meanings\"}\n        </h1>\n        <p className=\"mt-1.5 text-sm text-stone-500 dark:text-stone-400\">\n          {t(\"availableCount\", { count: enriched.length })}\n          {comingSoonCount > 0 && (\n            <span className=\"ml-2 text-stone-400 dark:text-stone-600\">\n              \u00b7 {comingSoonCount}{locale === \"ko\" ? \"\uac1c \uc900\ube44 \uc911\" : \" more coming soon\"}\n            </span>\n          )}\n        </p>\n      </div>\n\n      {/* Filtered dream list */}\n      {enriched.length > 0 ? (\n        <CategoryDreamList\n          items={enriched}\n          locale={locale as Locale}\n          allLabel={locale === \"ko\" ? \"\uc804\uccb4\" : \"All\"}\n        />\n      ) : (\n        <div className=\"rounded-xl border border-dashed border-stone-200 px-6 py-16 text-center dark:border-stone-800\">\n          <p className=\"text-stone-400 dark:text-stone-600\">\n            {locale === \"ko\"\n              ? \"\uc774 \uce74\ud14c\uace0\ub9ac\uc758 \uafc8\ud574\ubabd\uc744 \uc5f4\uc2ec\ud788 \uc900\ube44 \uc911\uc785\ub2c8\ub2e4.\"\n              : \"Dream interpretations for this category are coming soon.\"}\n          </p>\n        </div>\n      )}\n    </div>\n  );\n}\n"
+    },
+    "tool_use_id": "toolu_0128MqmWJSVb7UpyvmautXkH"
+  },
+  {
+    "session_id": "7b455dd0-7fbd-4229-96b2-9e6f97d9373f",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/7b455dd0-7fbd-4229-96b2-9e6f97d9373f.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Bash",
+    "tool_input": {
+      "command": "npm run build 2>&1 | tail -25",
+      "description": "Build check"
+    },
+    "tool_use_id": "toolu_01DTQ4iDH8vmdxXQ6x2VpTKj"
+  },
+  {
+    "session_id": "7b455dd0-7fbd-4229-96b2-9e6f97d9373f",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/7b455dd0-7fbd-4229-96b2-9e6f97d9373f.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Read",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/components/layout/Header.tsx"
+    },
+    "tool_use_id": "toolu_01GZRvq3TCR59hWPSjFcAJPu"
+  },
+  {
+    "session_id": "7b455dd0-7fbd-4229-96b2-9e6f97d9373f",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/7b455dd0-7fbd-4229-96b2-9e6f97d9373f.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/components/layout/Header.tsx",
+      "old_string": "        <Link href=\"/\" className=\"flex items-center gap-2\">\n          <span className=\"text-lg font-bold text-amber-800 dark:text-amber-200\" style={{ fontFamily: 'var(--font-serif)' }}>\uafc8\ud574\ubabd</span>\n          {locale === \"en\" && (\n            <span className=\"hidden text-sm text-stone-400 sm:block\">\n              Korean Dream Dictionary\n            </span>\n          )}\n        </Link>\n\n        <nav className=\"hidden items-center gap-6 text-sm font-medium sm:flex\">\n          <Link\n            href=\"/explore\"\n            className=\"text-stone-500 transition-colors hover:text-stone-900 dark:text-stone-400 dark:hover:text-stone-100\"\n          >\n            {t(\"explore\")}\n          </Link>\n        </nav>",
+      "new_string": "        <div className=\"flex items-center gap-6\">\n          <Link href=\"/\" className=\"flex items-center gap-2\">\n            <span className=\"text-lg font-bold text-amber-800 dark:text-amber-200\" style={{ fontFamily: 'var(--font-serif)' }}>\uafc8\ud574\ubabd</span>\n            {locale === \"en\" && (\n              <span className=\"hidden text-sm text-stone-400 sm:block\">\n                Korean Dream Dictionary\n              </span>\n            )}\n          </Link>\n          <Link\n            href=\"/explore\"\n            className=\"text-sm font-medium text-stone-500 transition-colors hover:text-stone-900 dark:text-stone-400 dark:hover:text-stone-100\"\n          >\n            {t(\"explore\")}\n          </Link>\n        </div>",
+      "replace_all": false
+    },
+    "tool_use_id": "toolu_01Y8aCuVfTnh6jLLEyxTBUiA"
+  },
+  {
+    "session_id": "7b455dd0-7fbd-4229-96b2-9e6f97d9373f",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/7b455dd0-7fbd-4229-96b2-9e6f97d9373f.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/components/layout/Header.tsx",
+      "old_string": "        <div className=\"flex items-center gap-2\">\n          <ThemeToggle />\n          <LanguageToggle locale={locale} />\n        </div>\n      </div>\n    </header>",
+      "new_string": "        <div className=\"flex items-center gap-2\">\n          <ThemeToggle />\n          <LanguageToggle locale={locale} />\n        </div>\n      </div>\n    </header>\n",
+      "replace_all": false
+    },
+    "tool_use_id": "toolu_01AfbNWTppBZGqL8Gu8P7gpq"
+  },
+  {
+    "session_id": "7b455dd0-7fbd-4229-96b2-9e6f97d9373f",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/7b455dd0-7fbd-4229-96b2-9e6f97d9373f.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Read",
+    "tool_input": {
+      "file_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/memory/MEMORY.md"
+    },
+    "tool_use_id": "toolu_014NKkZ6KZ6c7sHx9rzykbnZ"
+  },
+  {
+    "session_id": "7b455dd0-7fbd-4229-96b2-9e6f97d9373f",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/7b455dd0-7fbd-4229-96b2-9e6f97d9373f.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/memory/MEMORY.md",
+      "old_string": "## App Structure (implemented, build \u2705)\n- `src/middleware.ts` \u2192 next-intl locale routing (deprecation: rename to proxy.ts in Next.js 16)\n- `src/i18n/routing.ts` \u2192 locales + pathnames map (ko: /\uafc8\ud574\ubabd/[slug], en: /dream/[slug])\n- `src/i18n/navigation.ts` \u2192 locale-aware Link/useRouter/usePathname\n- `src/lib/taxonomy.ts` + `src/lib/content.ts` \u2192 server-only, fs/promises data loaders with path sanitization\n- `src/components/layout/` \u2192 Header (LanguageToggle inside), Footer\n- `src/components/dream/` \u2192 DreamHero, DreamSection, DreamVariations, DreamFAQ, RelatedDreams\n- `src/components/category/` \u2192 CategoryGrid\n- `data/taxonomy/_meta.json` \u2192 placeholder (real data pending taxonomy agent)\n- Custom agents (.claude/agents/*.md) cannot be used as subagent_type \u2014 read .md and pass to general-purpose agent",
+      "new_string": "## App Structure (implemented, build \u2705)\n- `src/middleware.ts` \u2192 next-intl locale routing (deprecation: rename to proxy.ts in Next.js 16)\n- `src/i18n/routing.ts` \u2192 locales + pathnames map (ko: /\uafc8\ud574\ubabd/[slug], en: /dream/[slug], + /\ud0d0\uc0c9/[category])\n- `src/i18n/navigation.ts` \u2192 locale-aware Link/useRouter/usePathname\n- `src/lib/taxonomy.ts` + `src/lib/content.ts` \u2192 server-only, fs/promises data loaders with path sanitization\n- `src/lib/content.ts` also exports `getContentPreviews()` + `getAvailableContentSlugs()` for listing pages\n- `src/components/layout/` \u2192 Header (logo=home, \ud0d0\uc0c9 link next to logo, ThemeToggle + LanguageToggle right)\n- `src/components/dream/` \u2192 DreamHero, DreamSection, DreamVariations, DreamFAQ, RelatedDreams, DreamCard (blog-style)\n- `src/components/common/AdSlot.tsx` \u2192 placeholder ad div (ready for AdSense)\n- `src/components/home/SearchBar.tsx` \u2192 client component search form\n- `src/components/explore/CategoryDreamList.tsx` \u2192 client component with subcategory filter pills\n- `src/app/[locale]/page.tsx` \u2192 homepage: hero image + searchbar + category chips + popular dreams list\n- `src/app/[locale]/explore/page.tsx` \u2192 explorer: category grid (emoji + name + count)\n- `src/app/[locale]/explore/[category]/page.tsx` \u2192 category listing: subcategory pills + DreamCards + coming soon count\n- `public/images/home/hero.png` \u2192 homepage hero background (misty Korean mountain, predawn)\n- Custom agents (.claude/agents/*.md) cannot be used as subagent_type \u2014 read .md and pass to general-purpose agent\n\n## Content Progress\n- **18 articles published** in `data/content/`: flying, falling, being-chased, taking-exam, fishing, driving, crying, fighting, drowning, climbing-mountain, running, giving-birth, sex, eating, swimming, kissing, winning, dancing\n- All from `actions.json` taxonomy category\n- Batch size: 6 agents in parallel (confirmed optimal)\n- **Image generation**: Imagen 4 (`imagen-4.0-generate-001`) via Google Generative Language API. `source ~/.zshrc` required for GOOGLE_API_KEY. 3 images per article (hero 16:9, auspicious 4:3, inauspicious 4:3).\n- **`relatedSlugs` must be inside `seo` object** (not root level) \u2014 confirmed working\n- **144 research files remaining** in data/research/ without content (all actions.json)\n\n## Permissions\n- `.claude/settings.json` allow list: `Bash(*)` (all bash allowed) + WebSearch + WebFetch\n- Pre-tool-use hook still blocks .env access and dangerous rm -rf\n- `Bash(*)` added so agents can run image generation without prompting user",
+      "replace_all": false
+    },
+    "tool_use_id": "toolu_01HDMT7eChefCeq6d7Ja3zVG"
+  },
+  {
+    "session_id": "7b455dd0-7fbd-4229-96b2-9e6f97d9373f",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/7b455dd0-7fbd-4229-96b2-9e6f97d9373f.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/memory/MEMORY.md",
+      "old_string": "## Current Task State (resume after restart)\n- **Research phase for actions.json: COMPLETE** \u2014 all 162 symbols researched, 19 final agents running in background\n- **data/research/** will have 162 files when agents complete\n- **Next phase:** Content generation \u2014 run `dream-content-agent` for each symbol (do NOT start without user confirmation)\n- **Other taxonomy categories** not yet researched (only actions.json done so far)\n- **CSS fix applied:** Renamed `--font-latin/korean` \u2192 `--typeface-latin/korean` in layout.tsx + globals.css to fix Tailwind v4 auto-detection bug.",
+      "new_string": "## Current Task State (resume after restart)\n- **18 content articles complete** (Batches 1-3, all from actions.json)\n- **144 research files** in data/research/ still need content \u2014 continue with Batch 4+ (6 per batch)\n- **Other taxonomy categories** not yet researched (animals, body, people, etc. \u2014 only actions.json done)\n- **Homepage + Explorer UI complete** \u2014 hero image, search, chips, popular list, explore page, category listing with filter pills\n- **CSS fix applied:** Renamed `--font-latin/korean` \u2192 `--typeface-latin/korean` in layout.tsx + globals.css to fix Tailwind v4 auto-detection bug.",
+      "replace_all": false
+    },
+    "tool_use_id": "toolu_01Tydz6RoEUQfAX1c1oUeMd7"
+  },
+  {
+    "session_id": "7b455dd0-7fbd-4229-96b2-9e6f97d9373f",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/7b455dd0-7fbd-4229-96b2-9e6f97d9373f.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/CLAUDE.md",
+      "old_string": "### Route Structure \u2705 Implemented\n\n```\nsrc/\n\u251c\u2500\u2500 middleware.ts                        \u2190 next-intl locale detection + redirect\n\u251c\u2500\u2500 i18n/\n\u2502   \u251c\u2500\u2500 routing.ts                       \u2190 locales, defaultLocale, pathnames map\n\u2502   \u251c\u2500\u2500 request.ts                       \u2190 getRequestConfig (messages loader)\n\u2502   \u2514\u2500\u2500 navigation.ts                    \u2190 locale-aware Link, useRouter, usePathname\n\u251c\u2500\u2500 app/\n\u2502   \u251c\u2500\u2500 layout.tsx                       \u2190 root passthrough (locale layout owns html/body)\n\u2502   \u251c\u2500\u2500 globals.css                      \u2190 Tailwind + :lang(ko) word-break rules\n\u2502   \u251c\u2500\u2500 sitemap.ts                       \u2190 /sitemap.xml with all ko + en URLs\n\u2502   \u251c\u2500\u2500 robots.ts                        \u2190 /robots.txt (includes Naver Yeti bot)\n\u2502   \u2514\u2500\u2500 [locale]/\n\u2502       \u251c\u2500\u2500 layout.tsx                   \u2190 Noto Sans KR + Geist, NextIntlProvider, Header/Footer\n\u2502       \u251c\u2500\u2500 page.tsx                     \u2190 homepage with category grid\n\u2502       \u251c\u2500\u2500 dream/[slug]/page.tsx        \u2190 full article: hero, sections, FAQ, related\n\u2502       \u2514\u2500\u2500 category/[category]/page.tsx \u2190 category symbol listing\n\u251c\u2500\u2500 components/\n\u2502   \u251c\u2500\u2500 layout/   Header.tsx, Footer.tsx (LanguageToggle inside Header)\n\u2502   \u251c\u2500\u2500 category/ CategoryGrid.tsx\n\u2502   \u2514\u2500\u2500 dream/    DreamHero, DreamSection, DreamVariations, DreamFAQ, RelatedDreams\n\u251c\u2500\u2500 lib/\n\u2502   \u251c\u2500\u2500 taxonomy.ts  \u2190 server-only, fs/promises, reads data/taxonomy/*.json\n\u2502   \u2514\u2500\u2500 content.ts   \u2190 server-only, fs/promises, reads data/content/{slug}.json\n\u2514\u2500\u2500 messages/\n    \u251c\u2500\u2500 ko.json      \u2190 Korean UI strings (nav, labels, footer \u2014 NOT article content)\n    \u2514\u2500\u2500 en.json      \u2190 English UI strings\n```\n\n**Pathname mapping** (configured in `i18n/routing.ts`):\n- `/dream/[slug]` \u2192 `/ko/\uafc8\ud574\ubabd/[koreanSlug]` and `/en/dream/[englishSlug]`\n- `/category/[category]` \u2192 `/ko/\uce74\ud14c\uace0\ub9ac/[category]` and `/en/category/[category]`",
+      "new_string": "### Route Structure \u2705 Implemented\n\n```\nsrc/\n\u251c\u2500\u2500 middleware.ts                        \u2190 next-intl locale detection + redirect\n\u251c\u2500\u2500 i18n/\n\u2502   \u251c\u2500\u2500 routing.ts                       \u2190 locales, defaultLocale, pathnames map\n\u2502   \u251c\u2500\u2500 request.ts                       \u2190 getRequestConfig (messages loader)\n\u2502   \u2514\u2500\u2500 navigation.ts                    \u2190 locale-aware Link, useRouter, usePathname\n\u251c\u2500\u2500 app/\n\u2502   \u251c\u2500\u2500 layout.tsx                       \u2190 root passthrough (locale layout owns html/body)\n\u2502   \u251c\u2500\u2500 globals.css                      \u2190 Tailwind + :lang(ko) word-break rules\n\u2502   \u251c\u2500\u2500 sitemap.ts                       \u2190 /sitemap.xml with all ko + en URLs\n\u2502   \u251c\u2500\u2500 robots.ts                        \u2190 /robots.txt (includes Naver Yeti bot)\n\u2502   \u2514\u2500\u2500 [locale]/\n\u2502       \u251c\u2500\u2500 layout.tsx                   \u2190 Noto Sans KR + Geist, NextIntlProvider, Header/Footer\n\u2502       \u251c\u2500\u2500 page.tsx                     \u2190 homepage: hero bg + search + chips + popular list\n\u2502       \u251c\u2500\u2500 dream/[slug]/page.tsx        \u2190 full article: hero, sections, FAQ, related\n\u2502       \u251c\u2500\u2500 category/[category]/page.tsx \u2190 category symbol listing (legacy)\n\u2502       \u2514\u2500\u2500 explore/\n\u2502           \u251c\u2500\u2500 page.tsx                 \u2190 explorer: category grid (emoji + name + count)\n\u2502           \u2514\u2500\u2500 [category]/page.tsx      \u2190 category listing: subcategory filter pills + DreamCards\n\u251c\u2500\u2500 components/\n\u2502   \u251c\u2500\u2500 layout/   Header.tsx (logo=home + \ud0d0\uc0c9 link left, ThemeToggle+LanguageToggle right), Footer.tsx\n\u2502   \u251c\u2500\u2500 common/   AdSlot.tsx (placeholder, ready for AdSense)\n\u2502   \u251c\u2500\u2500 home/     SearchBar.tsx (client component)\n\u2502   \u251c\u2500\u2500 explore/  CategoryDreamList.tsx (client component, subcategory filter pills)\n\u2502   \u2514\u2500\u2500 dream/    DreamHero, DreamSection, DreamVariations, DreamFAQ, RelatedDreams, DreamCard (blog-style)\n\u251c\u2500\u2500 lib/\n\u2502   \u251c\u2500\u2500 taxonomy.ts  \u2190 server-only, fs/promises, reads data/taxonomy/*.json\n\u2502   \u2514\u2500\u2500 content.ts   \u2190 server-only, fs/promises; also exports getContentPreviews(), getAvailableContentSlugs()\n\u2514\u2500\u2500 messages/\n    \u251c\u2500\u2500 ko.json      \u2190 Korean UI strings (nav, labels, footer \u2014 NOT article content)\n    \u2514\u2500\u2500 en.json      \u2190 English UI strings\n```\n\n**Pathname mapping** (configured in `i18n/routing.ts`):\n- `/dream/[slug]` \u2192 `/ko/\uafc8\ud574\ubabd/[koreanSlug]` and `/en/dream/[englishSlug]`\n- `/category/[category]` \u2192 `/ko/\uce74\ud14c\uace0\ub9ac/[category]` and `/en/category/[category]`\n- `/explore` \u2192 `/ko/\ud0d0\uc0c9` and `/en/explore`\n- `/explore/[category]` \u2192 `/ko/\ud0d0\uc0c9/[category]` and `/en/explore/[category]`",
+      "replace_all": false
+    },
+    "tool_use_id": "toolu_01S1X1D1xiAd6V4wyqG9exGc"
+  },
+  {
+    "session_id": "7b455dd0-7fbd-4229-96b2-9e6f97d9373f",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/7b455dd0-7fbd-4229-96b2-9e6f97d9373f.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/CLAUDE.md",
+      "old_string": "- [ ] Ad slot implementation: replace placeholder divs with real AdSense + Kakao AdFit units",
+      "new_string": "- [x] ~~Homepage redesign~~ \u2192 Hero image + searchbar + category chips + popular dreams list \u2705\n- [x] ~~Explorer UI~~ \u2192 `/explore` category grid + `/explore/[category]` with subcategory filter pills \u2705\n- [x] ~~Bash permission for subagents~~ \u2192 `Bash(*)` in `.claude/settings.json` allow list \u2705\n- [ ] Ad slot implementation: replace placeholder divs with real AdSense + Kakao AdFit units",
+      "replace_all": false
+    },
+    "tool_use_id": "toolu_014CPvHf3Dw4kLzHPAeB5nSC"
   }
 ]

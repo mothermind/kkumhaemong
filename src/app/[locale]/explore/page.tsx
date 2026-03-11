@@ -1,0 +1,107 @@
+import type { Metadata } from "next";
+import { getTranslations } from "next-intl/server";
+import { Link } from "@/i18n/navigation";
+import type { Locale } from "@/i18n/routing";
+import { getTaxonomyMeta } from "@/lib/taxonomy";
+import { getAvailableContentSlugs } from "@/lib/content";
+
+type Props = { params: Promise<{ locale: string }> };
+
+const CATEGORY_ICONS: Record<string, string> = {
+  animals: "🐍",
+  body: "🫀",
+  actions: "🏃",
+  people: "👥",
+  pregnancy: "🤰",
+  objects: "📦",
+  food: "🍚",
+  places: "🏛️",
+  money: "💰",
+  death: "⚫",
+  water: "🌊",
+  nature: "🏔️",
+  fire: "🔥",
+  emotions: "💭",
+  disasters: "⚡",
+  celestial: "🌙",
+  transportation: "🚗",
+  marriage: "💍",
+  colors: "🎨",
+  insects: "🦋",
+  clothing: "👘",
+  numbers: "🔢",
+  weather: "⛅",
+  plants: "🌸",
+  spirits: "👻",
+};
+
+export async function generateMetadata({ params }: Props): Promise<Metadata> {
+  const { locale } = await params;
+  return {
+    title: locale === "ko" ? "꿈 탐색 - 꿈해몽" : "Dream Explorer - Kkumhaemong",
+    description:
+      locale === "ko"
+        ? "카테고리별로 꿈해몽을 찾아보세요"
+        : "Browse Korean dream interpretations by category",
+  };
+}
+
+export default async function ExplorePage({ params }: Props) {
+  const { locale } = await params;
+  const t = await getTranslations({ locale, namespace: "explore" });
+
+  const [meta, availableSlugs] = await Promise.all([
+    getTaxonomyMeta(),
+    getAvailableContentSlugs(),
+  ]);
+
+  const availableSet = new Set(availableSlugs);
+
+  return (
+    <div className="mx-auto max-w-2xl px-4 py-10 sm:px-6">
+      {/* Header */}
+      <div className="mb-10">
+        <h1
+          className="text-[2rem] font-bold text-stone-900 dark:text-stone-100"
+          style={{ fontFamily: "var(--font-serif)" }}
+        >
+          {t("title")}
+        </h1>
+        <p className="mt-2 text-stone-500 dark:text-stone-400">{t("subtitle")}</p>
+      </div>
+
+      {/* Category grid */}
+      <div className="grid grid-cols-2 gap-3 sm:grid-cols-3">
+        {meta?.categories.map((cat) => {
+          // Count symbols with content (approximate: match category slug in available slugs)
+          const available = availableSlugs.filter((s) =>
+            availableSet.has(s)
+          ).length;
+          void available;
+
+          return (
+            <Link
+              key={cat.id}
+              href={{ pathname: "/explore/[category]", params: { category: cat.id } }}
+              locale={locale as Locale}
+              className="group flex flex-col gap-3 rounded-xl border border-stone-200 bg-white px-4 py-5 transition-colors hover:border-amber-300 dark:border-stone-800/60 dark:bg-stone-900/40 dark:hover:border-amber-800/50"
+            >
+              <span className="text-2xl">{CATEGORY_ICONS[cat.id] ?? "✦"}</span>
+              <div>
+                <p
+                  className="font-bold text-stone-900 dark:text-stone-100"
+                  style={{ fontFamily: "var(--font-serif)" }}
+                >
+                  {locale === "ko" ? cat.korean : cat.english}
+                </p>
+                <p className="mt-0.5 text-xs text-stone-400 dark:text-stone-600">
+                  {cat.symbolCount}{locale === "ko" ? "개" : " symbols"}
+                </p>
+              </div>
+            </Link>
+          );
+        })}
+      </div>
+    </div>
+  );
+}

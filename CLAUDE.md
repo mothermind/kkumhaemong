@@ -67,16 +67,21 @@ src/
 │   ├── robots.ts                        ← /robots.txt (includes Naver Yeti bot)
 │   └── [locale]/
 │       ├── layout.tsx                   ← Noto Sans KR + Geist, NextIntlProvider, Header/Footer
-│       ├── page.tsx                     ← homepage with category grid
+│       ├── page.tsx                     ← homepage: hero bg + search + chips + popular list
 │       ├── dream/[slug]/page.tsx        ← full article: hero, sections, FAQ, related
-│       └── category/[category]/page.tsx ← category symbol listing
+│       ├── category/[category]/page.tsx ← category symbol listing (legacy)
+│       └── explore/
+│           ├── page.tsx                 ← explorer: category grid (emoji + name + count)
+│           └── [category]/page.tsx      ← category listing: subcategory filter pills + DreamCards
 ├── components/
-│   ├── layout/   Header.tsx, Footer.tsx (LanguageToggle inside Header)
-│   ├── category/ CategoryGrid.tsx
-│   └── dream/    DreamHero, DreamSection, DreamVariations, DreamFAQ, RelatedDreams
+│   ├── layout/   Header.tsx (logo=home + 탐색 link left, ThemeToggle+LanguageToggle right), Footer.tsx
+│   ├── common/   AdSlot.tsx (placeholder, ready for AdSense)
+│   ├── home/     SearchBar.tsx (client component)
+│   ├── explore/  CategoryDreamList.tsx (client component, subcategory filter pills)
+│   └── dream/    DreamHero, DreamSection, DreamVariations, DreamFAQ, RelatedDreams, DreamCard (blog-style)
 ├── lib/
 │   ├── taxonomy.ts  ← server-only, fs/promises, reads data/taxonomy/*.json
-│   └── content.ts   ← server-only, fs/promises, reads data/content/{slug}.json
+│   └── content.ts   ← server-only, fs/promises; also exports getContentPreviews(), getAvailableContentSlugs()
 └── messages/
     ├── ko.json      ← Korean UI strings (nav, labels, footer — NOT article content)
     └── en.json      ← English UI strings
@@ -85,6 +90,8 @@ src/
 **Pathname mapping** (configured in `i18n/routing.ts`):
 - `/dream/[slug]` → `/ko/꿈해몽/[koreanSlug]` and `/en/dream/[englishSlug]`
 - `/category/[category]` → `/ko/카테고리/[category]` and `/en/category/[category]`
+- `/explore` → `/ko/탐색` and `/en/explore`
+- `/explore/[category]` → `/ko/탐색/[category]` and `/en/explore/[category]`
 
 **Known issue**: Next.js 16 shows a deprecation warning — `middleware` file should be renamed to `proxy`. Non-breaking for now; rename when addressing other Next.js 16 migration items.
 
@@ -344,6 +351,9 @@ All hooks are minimal — logging + security only, no TTS, no external API calls
 - [x] ~~Domain name~~ → **kkumhaemong.com** purchased ✅
 - [ ] Image storage: `public/images/` (small scale) vs Cloudflare R2 (production scale)
 - [ ] Image generation provider: DALL-E 3 vs Replicate/SD
+- [x] ~~Homepage redesign~~ → Hero image + searchbar + category chips + popular dreams list ✅
+- [x] ~~Explorer UI~~ → `/explore` category grid + `/explore/[category]` with subcategory filter pills ✅
+- [x] ~~Bash permission for subagents~~ → `Bash(*)` in `.claude/settings.json` allow list ✅
 - [ ] Ad slot implementation: replace placeholder divs with real AdSense + Kakao AdFit units
 - [ ] Naver Blog mirroring: manual vs semi-automated
 - [ ] CI/CD pipeline for batch content generation

@@ -68,6 +68,59 @@ export type DreamContent = {
   };
 };
 
+export type ContentPreview = {
+  slug: string;
+  koreanSlug: string;
+  title: { ko: string; en: string };
+  excerpt: { ko: string; en: string };
+  heroImage?: string;
+  badgeType: "auspicious" | "inauspicious" | "neutral";
+};
+
+function detectBadge(heading: string): ContentPreview["badgeType"] {
+  if (heading.includes("길몽") || /auspicious/i.test(heading)) return "auspicious";
+  if (heading.includes("흉몽") || /inauspicious/i.test(heading)) return "inauspicious";
+  return "neutral";
+}
+
+export async function getAvailableContentSlugs(): Promise<string[]> {
+  try {
+    const { readdir } = await import("fs/promises");
+    const files = await readdir(CONTENT_DIR);
+    return files.filter((f) => f.endsWith(".json")).map((f) => f.replace(".json", ""));
+  } catch {
+    return [];
+  }
+}
+
+export async function getContentPreviews(slugs?: string[]): Promise<ContentPreview[]> {
+  const targetSlugs = slugs ?? (await getAvailableContentSlugs());
+  const previews: ContentPreview[] = [];
+  for (const slug of targetSlugs) {
+    try {
+      const safe = slug.replace(/[^a-zA-Z0-9_-]/g, "");
+      const raw = await readFile(path.join(CONTENT_DIR, `${safe}.json`), "utf-8");
+      // eslint-disable-next-line @typescript-eslint/no-explicit-any
+      const data = JSON.parse(raw) as any;
+      const firstHeading = data?.ko?.sections?.[0]?.heading ?? "";
+      previews.push({
+        slug,
+        koreanSlug: data?.seo?.koreanSlug ?? "",
+        title: { ko: data?.ko?.title ?? "", en: data?.en?.title ?? "" },
+        excerpt: {
+          ko: (data?.ko?.intro ?? "").slice(0, 130).trim() + "…",
+          en: (data?.en?.intro ?? "").slice(0, 130).trim() + "…",
+        },
+        heroImage: data?.images?.hero,
+        badgeType: detectBadge(firstHeading),
+      });
+    } catch {
+      continue;
+    }
+  }
+  return previews;
+}
+
 export async function getContent(
   slug: string,
   locale: Locale

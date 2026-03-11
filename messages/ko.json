@@ -1,17 +1,21 @@
 {
   "nav": {
     "home": "홈",
+    "explore": "탐색",
     "categories": "카테고리",
     "search": "검색",
-    "searchPlaceholder": "꿈을 검색하세요..."
+    "searchPlaceholder": "어떤 꿈을 꾸셨나요? (예: 뱀, 돼지, 이빨)"
   },
   "home": {
     "title": "꿈해몽 - 모든 꿈의 의미를 찾아보세요",
     "subtitle": "한국 전통 꿈해몽 완벽 정리",
+    "tagline": "어젯밤 꿈, 무슨 의미일까요?",
     "description": "돼지꿈, 뱀꿈, 이빨빠지는꿈 등 모든 꿈해몽을 길몽·흉몽 구분과 함께 상세히 알려드립니다.",
-    "browseCategories": "카테고리 둘러보기",
+    "searchPlaceholder": "어떤 꿈을 꾸셨나요? (예: 뱀, 돼지, 이빨)",
+    "searchButton": "해몽 찾기",
     "popularDreams": "인기 꿈해몽",
-    "allCategories": "전체 카테고리"
+    "allCategories": "전체 카테고리",
+    "exploreCta": "전체 카테고리 탐색 →"
   },
   "dream": {
     "auspicious": "길몽",
@@ -22,6 +26,14 @@
     "faq": "자주 묻는 질문",
     "relatedDreams": "관련 꿈해몽",
     "shareTitle": "공유하기"
+  },
+  "explore": {
+    "title": "꿈 탐색",
+    "subtitle": "카테고리별로 꿈해몽을 찾아보세요",
+    "dreamCount": "{count}개",
+    "availableCount": "{count}개 해몽 수록",
+    "comingSoon": "준비 중",
+    "backToExplore": "← 탐색으로 돌아가기"
   },
   "category": {
     "allSymbols": "전체 목록",

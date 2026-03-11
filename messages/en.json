@@ -1,17 +1,21 @@
 {
   "nav": {
     "home": "Home",
+    "explore": "Explore",
     "categories": "Categories",
     "search": "Search",
-    "searchPlaceholder": "Search dream meanings..."
+    "searchPlaceholder": "What did you dream about? (e.g. snake, flying, teeth)"
   },
   "home": {
     "title": "Korean Dream Interpretation - 꿈해몽",
     "subtitle": "Complete Guide to Korean Dream Meanings",
+    "tagline": "What did your dream mean?",
     "description": "Discover the meaning of your dreams through traditional Korean dream interpretation (꿈해몽). From pig dreams to snake dreams, find what your dream means.",
-    "browseCategories": "Browse Categories",
+    "searchPlaceholder": "What did you dream about? (e.g. snake, flying, teeth)",
+    "searchButton": "Find Meaning",
     "popularDreams": "Popular Dreams",
-    "allCategories": "All Categories"
+    "allCategories": "All Categories",
+    "exploreCta": "Browse All Categories →"
   },
   "dream": {
     "auspicious": "Auspicious (길몽)",
@@ -22,6 +26,14 @@
     "faq": "Frequently Asked Questions",
     "relatedDreams": "Related Dreams",
     "shareTitle": "Share"
+  },
+  "explore": {
+    "title": "Dream Explorer",
+    "subtitle": "Browse dream interpretations by category",
+    "dreamCount": "{count} dreams",
+    "availableCount": "{count} interpretations available",
+    "comingSoon": "Coming Soon",
+    "backToExplore": "← Back to Explorer"
   },
   "category": {
     "allSymbols": "All Symbols",
