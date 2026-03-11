@@ -1,0 +1,27 @@
+{
+  "slug": "sex-dream",
+  "hero": {
+    "path": "/images/dreams/sex-dream/hero.png",
+    "alt_ko": "잔잔한 물 위에 피어난 두 송이 연꽃, 음양의 조화를 상징하는 한국 전통 수묵화 스타일 일러스트",
+    "alt_en": "Two intertwined lotus flowers emerging from still water, symbolizing yin-yang harmony, Korean ink-wash illustration",
+    "prompt": "Two intertwined lotus flowers emerging from still water, yin and yang symbolism, soft morning mist, ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike atmosphere, warm amber and rose gold palette, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/sex-dream/auspicious.png",
+      "alt_ko": "일출 빛 속에 춤추는 두 마리 황금 봉황, 길몽을 상징하는 한국 전통화 스타일",
+      "alt_en": "Two golden phoenixes dancing together in sunrise light, symbolizing auspicious union, Korean traditional painting style",
+      "prompt": "Two golden phoenixes circling each other in an auspicious dance, sunrise light, flowing ribbons of light intertwining, Korean traditional painting aesthetic, ink-wash watercolor illustration, warm amber and gold palette, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/sex-dream/inauspicious.png",
+      "alt_ko": "달빛 아래 뒤엉킨 어두운 덩굴, 방해와 불안을 상징하는 수묵화 스타일",
+      "alt_en": "Tangled dark vines under moonlight with thorns and shadow, symbolizing obstruction and unease, ink-wash illustration",
+      "prompt": "Tangled dark vines in moonlight, thorns and shadow, sense of entanglement and unease, cool silver-blue palette, ink-wash watercolor illustration, Korean traditional painting aesthetic, no text, no people"
+    }
+  ],
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen4"
+}

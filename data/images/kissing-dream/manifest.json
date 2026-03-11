@@ -1,0 +1,32 @@
+{
+  "slug": "kissing-dream",
+  "hero": {
+    "path": "/images/dreams/kissing-dream/hero.png",
+    "alt_ko": "매화나무 아래 두 실루엣이 가까이 기울며 꽃잎이 흩날리는 몽환적인 수묵화",
+    "alt_en": "Two silhouettes leaning close under a blooming plum tree, petals drifting in moonlight, dreamlike ink-wash illustration",
+    "prompt": "Two silhouettes leaning close together under a blooming plum tree at dusk, petals falling around them, soft moonlight, ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike romantic atmosphere, muted rose and indigo palette, no text",
+    "aspectRatio": "16:9"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/kissing-dream/auspicious.png",
+      "alt_ko": "벚꽃이 만개한 황금빛 석양 아래 두 실루엣이 따뜻한 봄빛 속에 서 있는 한국 수채화",
+      "alt_en": "Two figures silhouetted against a golden sunset surrounded by blooming cherry blossoms, warm amber and rose gold tones, Korean watercolor illustration",
+      "prompt": "Two figures silhouetted against a golden sunset, surrounded by blooming cherry blossoms and warm spring light, sense of joy and new beginning, warm amber and rose gold palette, Korean watercolor illustration style, dreamlike atmosphere, no text",
+      "aspectRatio": "4:3"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/kissing-dream/inauspicious.png",
+      "alt_ko": "달빛 어린 안개 속 홀로 선 실루엣이 빈 공간을 향해 손을 뻗고, 어두운 땅 위에 꽃잎이 떨어진 수묵화",
+      "alt_en": "A single silhouette standing alone in moonlit mist reaching out to empty space, fallen petals on dark ground, longing and loss, cool silver-blue ink-wash watercolor",
+      "prompt": "A single silhouette standing alone in moonlit mist reaching out to an empty space, fallen petals on dark ground, sense of longing and loss, cool silver-blue tones, ink-wash watercolor illustration, Korean traditional painting aesthetic, no text",
+      "aspectRatio": "4:3"
+    }
+  ],
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "status": "pending",
+  "note": "Images pending generation — run image generation script to produce actual files"
+}

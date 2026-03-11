@@ -1,0 +1,31 @@
+{
+  "slug": "eating-dream",
+  "hero": {
+    "path": "/images/dreams/eating-dream/hero.png",
+    "alt_ko": "전통 한국 소반에 차려진 풍성한 음식상, 따뜻한 촛불과 밥그릇에서 피어오르는 김",
+    "alt_en": "An abundant traditional Korean feast spread on a low dining table (soban), steam rising from bowls of rice and soup, warm candlelight",
+    "prompt": "An abundant feast spread on a traditional Korean low dining table (소반), steam rising from bowls of rice and soup, warm candlelight, ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike soft focus, warm amber and golden tones, no text, no people",
+    "aspectRatio": "16:9"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/eating-dream/auspicious.png",
+      "alt_ko": "넘쳐흐르는 밥그릇과 풍성한 한국 반찬들, 황금빛 수확의 빛",
+      "alt_en": "Overflowing bowls of steaming rice and traditional Korean side dishes on a festive table, golden harvest light, abundance and prosperity",
+      "prompt": "Overflowing bowls of steaming rice and traditional Korean side dishes on a festive table, golden harvest light, abundance and prosperity imagery, ink-wash watercolor illustration, Korean traditional painting aesthetic, warm gold and ochre palette, no text",
+      "aspectRatio": "4:3"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/eating-dream/inauspicious.png",
+      "alt_ko": "어두운 식탁 위에 썩고 상한 음식들, 시든 채소와 깨진 그릇",
+      "alt_en": "Rotting and spoiled food on a dark table, wilted vegetables, broken bowls, sense of decay and loss",
+      "prompt": "Rotting and spoiled food on a dark table, wilted vegetables, broken bowls, sense of decay and loss, cool blue-gray tones with sickly green accents, ink-wash illustration, Korean traditional painting aesthetic, foreboding atmosphere, no text",
+      "aspectRatio": "4:3"
+    }
+  ],
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "status": "complete"
+}

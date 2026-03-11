@@ -3,23 +3,7 @@
     "allow": [
       "WebSearch",
       "WebFetch",
-      "Bash(grep:*)",
-      "Bash(python3:*)",
-      "Bash(python:*)",
-      "Bash(node:*)",
-      "Bash(npx:*)",
-      "Bash(ls:*)",
-      "Bash(cat:*)",
-      "Bash(wc:*)",
-      "Bash(echo:*)",
-      "Bash(find:*)",
-      "Bash(head:*)",
-      "Bash(tail:*)",
-      "Bash(mkdir:*)",
-      "Bash(cp:*)",
-      "Bash(mv:*)",
-      "Bash(curl:*)",
-      "Bash(bash:*)"
+      "Bash(*)"
     ]
   },
   "hooks": {

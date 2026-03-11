@@ -1,0 +1,28 @@
+{
+  "slug": "winning-dream",
+  "hero": {
+    "path": "/images/dreams/winning-dream/hero.png",
+    "alt_ko": "트로피를 들고 승리의 단상 위에 선 인물, 황금빛 폭죽이 쏟아지는 꿈같은 장면",
+    "alt_en": "A triumphant figure holding a trophy aloft on a victory podium, golden confetti falling in a dreamlike scene",
+    "prompt": "A triumphant figure holding a trophy aloft on a victory podium, golden confetti falling, crowd silhouettes cheering below, brilliant golden light, ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike celebratory atmosphere, warm amber and gold palette, no text"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/winning-dream/auspicious.png",
+      "alt_ko": "황금 불사조가 구름 위로 솟아오르는 한국 전통 수채화 풍의 길몽 이미지",
+      "alt_en": "A golden phoenix rising above clouds with victorious aura, Korean traditional watercolor illustration",
+      "prompt": "A golden phoenix rising above clouds with a victorious aura, traditional Korean auspicious motifs, flowing banners, brilliant sunrise light, warm amber gold and crimson palette, Korean watercolor illustration, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/winning-dream/inauspicious.png",
+      "alt_ko": "텅 빈 우승 단상 위에 홀로 선 인물이 바랜 트로피를 내려다보는 수묵화 장면",
+      "alt_en": "A figure standing alone on an empty winner podium looking down at a faded trophy, hollow victory, ink-wash watercolor illustration",
+      "prompt": "A figure standing alone on an empty winner podium looking down at a faded trophy, hollow victory, muted gray and silver tones, sense of emptiness despite triumph, ink-wash watercolor illustration, Korean traditional painting aesthetic, no text"
+    }
+  ],
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "status": "pending"
+}
