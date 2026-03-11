@@ -8,11 +8,21 @@ export function DreamVariations({ id, heading, variations }: Props) {
 
   return (
     <section id={id} className="mt-16 scroll-mt-20">
-      <h2 className="text-2xl font-semibold tracking-tight text-gray-100 mb-6">{heading}</h2>
-      <div className="space-y-8">
+      <h2
+        className="text-[1.6rem] font-bold tracking-tight text-stone-900 mb-8 dark:text-stone-100"
+        style={{ fontFamily: 'var(--font-serif)' }}
+      >
+        {heading}
+      </h2>
+      <div className="space-y-4">
         {variations.map((v, i) => (
-          <div key={i} className="mt-8 border-l-[2.5px] border-white/20 pl-5">
-            <h3 className="text-xl font-medium text-gray-100 mb-2">{v.heading}</h3>
+          <div key={i} className="rounded-xl border border-stone-200 px-6 py-5 dark:border-stone-800/60">
+            <h3
+              className="text-[1.1rem] font-bold text-amber-800 mb-3 dark:text-amber-200"
+              style={{ fontFamily: 'var(--font-serif)' }}
+            >
+              {v.heading}
+            </h3>
             <MarkdownBody className="">{v.body}</MarkdownBody>
           </div>
         ))}

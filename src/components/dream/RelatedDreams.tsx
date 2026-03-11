@@ -33,8 +33,13 @@ export async function RelatedDreams({ heading, slugs, locale }: Props) {
   if (!valid.length) return null;
 
   return (
-    <section className="mt-16 pt-8 border-t border-white/10">
-      <h2 className="text-2xl font-semibold tracking-tight text-gray-100 mb-6">{heading}</h2>
+    <section className="mt-16 pt-10 border-t border-stone-200 dark:border-stone-800">
+      <h2
+        className="text-[1.6rem] font-bold tracking-tight text-stone-900 mb-6 dark:text-stone-100"
+        style={{ fontFamily: 'var(--font-serif)' }}
+      >
+        {heading}
+      </h2>
       <div className="grid grid-cols-2 gap-3 sm:grid-cols-3">
         {valid.map((item) => (
           <Link
@@ -43,18 +48,18 @@ export async function RelatedDreams({ heading, slugs, locale }: Props) {
               pathname: "/dream/[slug]",
               params: { slug: item.slug },
             }}
-            className="group rounded-xl border border-white/10 bg-white/[0.03] p-3 transition-all hover:border-white/20 hover:bg-white/[0.05]"
+            className="group rounded-xl border border-stone-200 bg-stone-50 p-3 transition-all hover:border-amber-400 hover:bg-amber-50/50 dark:border-stone-800/60 dark:bg-stone-900/60 dark:hover:border-amber-800/50 dark:hover:bg-amber-950/20"
           >
             {item.hero && (
-              <div className="mb-2 h-20 w-full overflow-hidden rounded-lg bg-gray-800">
+              <div className="mb-3 h-20 w-full overflow-hidden rounded-lg bg-stone-200 dark:bg-stone-800">
                 <img
                   src={item.hero}
                   alt={item.title}
-                  className="h-full w-full object-cover"
+                  className="h-full w-full object-cover opacity-90 group-hover:opacity-100 transition-opacity dark:opacity-80"
                 />
               </div>
             )}
-            <p className="text-sm font-medium text-gray-300 group-hover:text-gray-100 transition-colors">
+            <p className="text-sm font-medium text-stone-600 leading-snug transition-colors group-hover:text-amber-800 dark:text-stone-400 dark:group-hover:text-amber-200">
               {item.title}
             </p>
           </Link>

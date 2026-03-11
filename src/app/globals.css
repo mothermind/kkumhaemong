@@ -1,5 +1,7 @@
 @import "tailwindcss" source("../");
 
+@custom-variant dark (&:is(.dark *));
+
 @font-face {
   font-family: 'Pretendard';
   src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/pretendard@1.0/Pretendard-Thin.woff2') format('woff2');
@@ -56,8 +58,23 @@
 }
 
 :root {
-  --background: #030712;
-  --foreground: #d1d5db;
+  --background: #faf7f2;
+  --foreground: #44403c;
+  --font-serif: 'Nanum Myeongjo', 'Georgia', 'Batang', serif;
+}
+
+/* Class-based dark mode (toggled by JS) */
+.dark {
+  --background: #0c0a09;
+  --foreground: #d6d3d1;
+}
+
+/* System preference fallback (no-JS) */
+@media (prefers-color-scheme: dark) {
+  :root:not(.light) {
+    --background: #0c0a09;
+    --foreground: #d6d3d1;
+  }
 }
 
 body {
@@ -65,7 +82,7 @@ body {
   color: var(--foreground);
   font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, sans-serif;
   font-size: 17px;
-  line-height: 1.8;
+  line-height: 1.85;
 }
 
 :lang(ko) {

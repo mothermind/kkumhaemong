@@ -13,7 +13,7 @@ export function DreamHero({ title, intro, heroImage, locale: _locale }: Props) {
   return (
     <div className="mb-2">
       {heroImage ? (
-        <div className="relative mb-8 w-full overflow-hidden rounded-2xl aspect-square sm:aspect-video">
+        <div className="relative mb-10 w-full overflow-hidden rounded-xl aspect-square sm:aspect-video">
           <Image
             src={heroImage}
             alt={title}
@@ -22,17 +22,21 @@ export function DreamHero({ title, intro, heroImage, locale: _locale }: Props) {
             priority
             sizes="(max-width: 640px) 100vw, 768px"
           />
+          <div className="absolute inset-0 bg-gradient-to-t from-stone-950/60 to-transparent dark:from-stone-950/60" />
         </div>
       ) : (
-        <div className="mb-8 w-full rounded-2xl bg-white/5 aspect-square sm:aspect-video" />
+        <div className="mb-10 w-full rounded-xl bg-stone-200/60 aspect-square sm:aspect-video dark:bg-stone-800/40" />
       )}
 
-      <h1 className="text-3xl sm:text-4xl font-bold text-gray-100 tracking-tight text-balance mb-6">
+      <h1
+        className="text-[2rem] sm:text-[2.5rem] font-bold text-stone-900 leading-[1.3] tracking-tight text-balance mb-5 dark:text-stone-100"
+        style={{ fontFamily: 'var(--font-serif)' }}
+      >
         {title}
       </h1>
 
-      <div className="mt-6 mb-12 pb-8 border-b border-white/10">
-        <MarkdownBody className="text-lg sm:text-[19px] text-gray-200 font-medium leading-[1.8]">
+      <div className="mt-5 mb-10 pb-10 border-b border-stone-200 dark:border-stone-800">
+        <MarkdownBody className="text-[18px] sm:text-[19px] leading-[1.9] [&_p]:text-stone-700 [&_p]:dark:text-stone-200">
           {intro}
         </MarkdownBody>
       </div>
