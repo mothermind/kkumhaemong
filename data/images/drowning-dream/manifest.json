@@ -1,0 +1,31 @@
+{
+  "slug": "drowning-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "status": "complete",
+  "hero": {
+    "path": "/images/dreams/drowning-dream/hero.png",
+    "alt_ko": "깊은 물속에서 수면 위 빛을 바라보는 인물, 남색과 청록 수묵화 일러스트",
+    "alt_en": "A figure submerged in dark water gazing up toward shimmering surface light, deep indigo ink-wash illustration",
+    "prompt": "A figure submerged in deep dark water looking upward toward shimmering light filtering through the surface, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike misty underwater atmosphere, deep indigo and cerulean tones with golden light shafts, no text",
+    "aspectRatio": "16:9"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/drowning-dream/auspicious.png",
+      "alt_ko": "황금빛 새벽 속에서 물 위로 솟아오르는 인물과 연꽃, 따뜻한 수묵화 일러스트",
+      "alt_en": "A figure rising from water into golden dawn light with lotus blossoms, warm ink-wash illustration",
+      "prompt": "A figure rising triumphantly from water into golden dawn light, arms outstretched, lotus blossoms floating on the surface, rebirth and renewal imagery, warm amber and gold palette, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, no text",
+      "aspectRatio": "4:3"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/drowning-dream/inauspicious.png",
+      "alt_ko": "거센 파도에 휩쓸리는 실루엣, 어두운 심해 수묵화 일러스트",
+      "alt_en": "A silhouette engulfed in dark swirling water, deep navy and black ink-wash illustration",
+      "prompt": "Dark swirling water engulfing a silhouette, stormy ocean depths, turbulent waves pulling downward, sense of being overwhelmed and unable to surface, deep navy and black palette, ink-wash style with heavy expressive brushstrokes, Korean traditional painting aesthetic, no text",
+      "aspectRatio": "4:3"
+    }
+  ]
+}

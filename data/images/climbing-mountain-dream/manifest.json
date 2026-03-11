@@ -1,0 +1,31 @@
+{
+  "slug": "climbing-mountain-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "status": "complete",
+  "hero": {
+    "path": "/images/dreams/climbing-mountain-dream/hero.png",
+    "alt_ko": "새벽 안개 속 산길을 오르는 외로운 실루엣, 소나무와 황금 일출 수묵화 일러스트",
+    "alt_en": "A lone silhouette climbing a misty Korean mountain at dawn through pine trees, golden sunrise ink-wash illustration",
+    "prompt": "A lone silhouette climbing a misty Korean mountain at dawn, rocky path winding upward through pine trees and mist, golden sunrise light breaking over distant peaks, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, muted greens and grays with warm golden light, no text",
+    "aspectRatio": "16:9"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/climbing-mountain-dream/auspicious.png",
+      "alt_ko": "산 정상에서 팔을 벌린 승리의 실루엣, 구름 위 벚꽃 황금빛 수묵화 일러스트",
+      "alt_en": "A triumphant figure at mountain summit with arms raised, cherry blossoms and golden light, ink-wash illustration",
+      "prompt": "A triumphant figure standing at a mountain summit arms raised in victory, clouds below the peak, golden morning light flooding the scene, cherry blossoms floating on the breeze, warm amber and gold tones, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, no text",
+      "aspectRatio": "4:3"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/climbing-mountain-dream/inauspicious.png",
+      "alt_ko": "험준한 암벽에서 힘겹게 오르는 인물, 폭풍 먹구름 청회색 수묵화 일러스트",
+      "alt_en": "A figure struggling on a treacherous rocky mountain path under storm clouds, gray-blue ink-wash illustration",
+      "prompt": "A figure struggling on a steep rocky mountain path, dark storm clouds gathering overhead, treacherous loose stones and sheer drops, sense of exhaustion and danger, cool gray-blue tones with deep shadows, ink-wash style with heavy expressive brushstrokes, Korean traditional painting aesthetic, no text",
+      "aspectRatio": "4:3"
+    }
+  ]
+}

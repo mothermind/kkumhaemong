@@ -1,0 +1,32 @@
+{
+  "slug": "fishing-dream",
+  "hero": {
+    "path": "/images/dreams/fishing-dream/hero.png",
+    "alt_ko": "새벽 강가에 드리운 낚싯대, 수묵화 스타일 일러스트",
+    "alt_en": "Fishing rod at a misty riverbank at dawn, ink-wash watercolor illustration",
+    "prompt": "A fishing rod resting at a misty riverbank at dawn, soft ink-wash watercolor illustration style, Korean traditional painting aesthetic, calm water reflecting early morning light, fishing line trailing into the river, muted blue-grey tones with golden sunrise hues, lotus blossoms floating nearby, dreamlike atmospheric perspective, no text, no people",
+    "aspectRatio": "16:9"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/fishing-dream/auspicious.png",
+      "alt_ko": "황금빛 잉어가 맑은 물 위로 뛰어오르는 길몽 장면, 수묵화 스타일",
+      "alt_en": "A large golden carp leaping from sunlit clear water, auspicious scene, ink-wash watercolor illustration",
+      "prompt": "A large golden carp leaping from sunlit clear water, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, warm golden and amber tones, cherry blossom petals floating on the surface, auspicious and celebratory atmosphere, bamboo reeds in background, dreamlike glow, no text, no people",
+      "aspectRatio": "4:3"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/fishing-dream/inauspicious.png",
+      "alt_ko": "흙탕물 강가에 부러진 낚싯대, 흉몽을 암시하는 어두운 수묵화",
+      "alt_en": "A broken fishing rod on the bank of dark murky water at dusk, foreboding ink-wash illustration",
+      "prompt": "A broken fishing rod lying on the bank of dark turbid murky water at dusk, ink-wash watercolor illustration, Korean traditional painting aesthetic, stormy overcast sky, dark grey and deep navy tones, empty fishing bucket, wilted reeds, ominous and foreboding atmosphere, no fish visible, no text, no people",
+      "aspectRatio": "4:3"
+    }
+  ],
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0",
+  "status": "images-pending",
+  "note": "Image generation was skipped because Bash access to .env was blocked by the pre_tool_use hook. Run image generation manually using the prompts above with: GOOGLE_API_KEY from .env, MODEL=imagen-4.0-generate-001, saving to public/images/dreams/fishing-dream/{hero,auspicious,inauspicious}.png"
+}

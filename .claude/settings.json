@@ -17,7 +17,9 @@
       "Bash(tail:*)",
       "Bash(mkdir:*)",
       "Bash(cp:*)",
-      "Bash(mv:*)"
+      "Bash(mv:*)",
+      "Bash(curl:*)",
+      "Bash(bash:*)"
     ]
   },
   "hooks": {

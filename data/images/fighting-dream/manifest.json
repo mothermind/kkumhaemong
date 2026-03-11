@@ -1,0 +1,31 @@
+{
+  "slug": "fighting-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "status": "complete",
+  "hero": {
+    "path": "/images/dreams/fighting-dream/hero.png",
+    "alt_ko": "황혼 다리 위에서 대치하는 두 실루엣, 안개 속 긴장감 넘치는 수묵화 일러스트",
+    "alt_en": "Two silhouettes facing each other in tense confrontation across a misty bridge at twilight, ink-wash illustration",
+    "prompt": "Two silhouettes facing each other in tense confrontation across a misty bridge at twilight, Korean traditional painting aesthetic, soft ink-wash watercolor illustration, dreamlike atmosphere, the space between them charged with energy, cool blue-gray and amber tones, no text",
+    "aspectRatio": "16:9"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/fighting-dream/auspicious.png",
+      "alt_ko": "황금 일출 속 화해하며 인사하는 두 인물, 따뜻한 수묵화 일러스트",
+      "alt_en": "Two figures bowing in reconciliation at golden sunrise, warm ink-wash illustration",
+      "prompt": "Two silhouettes bowing respectfully to each other in reconciliation, golden sunrise light behind them, traditional Korean courtyard setting, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, warm amber and gold palette, sense of resolution and harmony, no text",
+      "aspectRatio": "4:3"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/fighting-dream/inauspicious.png",
+      "alt_ko": "폭풍우 아래 격렬히 충돌하는 두 그림자, 진홍과 남색 수묵화 일러스트",
+      "alt_en": "Two shadowy figures in fierce conflict beneath storm clouds, deep indigo and crimson ink-wash illustration",
+      "prompt": "Two shadowy figures in fierce conflict beneath storm clouds and lightning, jagged energy between them, deep indigo and crimson palette, ink-wash style with turbulent brushstrokes, sense of discord and danger, Korean traditional painting aesthetic, no text",
+      "aspectRatio": "4:3"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "taking-exam-dream",
+  "hero": {
+    "path": "/images/dreams/taking-exam-dream/hero.png",
+    "alt_ko": "달빛 아래 빈 시험장 — 나무 책상과 대나무 붓이 놓인 전통 시험 공간, 수묵화 스타일",
+    "alt_en": "An empty traditional Korean examination hall bathed in moonlight, with wooden desks and bamboo brushes, ink-wash watercolor style",
+    "prompt": "An ancient Korean examination hall bathed in moonlight, ink-wash watercolor illustration style, empty wooden desks and bamboo writing brushes arranged in rows, misty atmospheric landscape background, Korean traditional architecture with curved eaves, dreamlike quality, muted earth tones with subtle golden glow from paper lanterns, no text, no people",
+    "aspectRatio": "16:9"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/taking-exam-dream/auspicious.png",
+      "alt_ko": "합격 소식이 담긴 두루마리 — 황금빛 아침 햇살 속 전통 한국 건축, 수묵화 스타일",
+      "alt_en": "A scroll bearing good news resting on a wooden desk, warm golden morning light, Korean traditional ink-wash watercolor style",
+      "prompt": "A decorated official scroll resting on an ornate wooden desk, warm golden sunrise light streaming through latticed paper windows, Korean traditional architecture interior, ink-wash watercolor style with golden accents, soft dreamlike atmosphere, celebratory mood, no text, no people",
+      "aspectRatio": "4:3"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/taking-exam-dream/inauspicious.png",
+      "alt_ko": "비어있는 먹 벼루와 쓰러진 붓 — 어두운 분위기의 시험 공간, 수묵화 스타일",
+      "alt_en": "An empty inkstone and fallen writing brush on a dark exam desk, foreboding atmosphere, Korean traditional ink-wash style",
+      "prompt": "An overturned ink brush and empty inkstone on a dark wooden desk, storm clouds gathering outside latticed windows, Korean traditional architecture, ink-wash watercolor style, dark muted tones, ominous dreamlike atmosphere, abandoned lonely mood, no text, no people",
+      "aspectRatio": "4:3"
+    }
+  ],
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "status": "pending-generation"
+}

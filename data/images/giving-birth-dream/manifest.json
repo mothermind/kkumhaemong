@@ -1,0 +1,31 @@
+{
+  "slug": "giving-birth-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "status": "complete",
+  "hero": {
+    "path": "/images/dreams/giving-birth-dream/hero.png",
+    "alt_ko": "전통 보자기에 싸인 갓난아이, 황금빛과 연꽃 수묵화 일러스트",
+    "alt_en": "A newborn wrapped in traditional Korean pojagi cloth surrounded by golden light and lotus flowers, ink-wash illustration",
+    "prompt": "A newborn baby wrapped in traditional Korean pojagi patchwork cloth, surrounded by soft golden light and blooming lotus flowers, dreamlike serene atmosphere, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, warm amber and cream tones, no text",
+    "aspectRatio": "16:9"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/giving-birth-dream/auspicious.png",
+      "alt_ko": "한복 입은 어머니 실루엣이 황금빛 속에서 아이를 안고 있는 수묵화 일러스트",
+      "alt_en": "A mother silhouette cradling a newborn in golden sunrise light wearing traditional hanbok, warm ink-wash illustration",
+      "prompt": "A mother silhouette cradling a newborn in golden sunrise light, flowing traditional Korean hanbok, auspicious harvest imagery with pomegranates and lotus blossoms, warm amber and gold palette, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, no text",
+      "aspectRatio": "4:3"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/giving-birth-dream/inauspicious.png",
+      "alt_ko": "가시덤불 속 바람에 흔들리는 촛불, 차가운 청회색 수묵화 일러스트",
+      "alt_en": "A candle struggling against wind amid thorny vines in darkness, silver-blue ink-wash illustration",
+      "prompt": "Thorny vines and bare winter branches surrounding a single candle struggling against wind in darkness, abstract foreboding imagery suggesting difficulty and hardship, cool silver-blue and charcoal tones, ink-wash style with delicate brushwork, Korean traditional painting aesthetic, no text",
+      "aspectRatio": "4:3"
+    }
+  ]
+}

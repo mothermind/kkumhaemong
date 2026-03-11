@@ -1,0 +1,31 @@
+{
+  "slug": "crying-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen4",
+  "status": "complete",
+  "hero": {
+    "path": "/images/dreams/crying-dream/hero.png",
+    "alt_ko": "버드나무 아래 홀로 앉아 눈물을 흘리는 인물, 달빛이 안개를 가르는 수묵화 일러스트",
+    "alt_en": "A lone figure seated beneath a weeping willow shedding tears by moonlight, ink-wash watercolor illustration",
+    "prompt": "A lone figure seated beneath a weeping willow tree at dusk, tears streaming silently as moonlight breaks through mist, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, muted indigo and silver palette with warm golden moon glow, no text",
+    "aspectRatio": "16:9"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/crying-dream/auspicious.png",
+      "alt_ko": "활짝 핀 벚꽃 아래서 기쁨의 눈물을 흘리는 인물, 따뜻한 황금빛 수묵화 일러스트",
+      "alt_en": "A figure weeping tears of joy beneath full-bloom cherry blossoms, warm golden ink-wash watercolor illustration",
+      "prompt": "A joyful figure weeping tears of happiness beneath a shower of full-bloom cherry blossoms in spring, golden light streaming down, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, warm gold and rose palette with soft pink petals, no text",
+      "aspectRatio": "4:3"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/crying-dream/inauspicious.png",
+      "alt_ko": "밤 안개 속에서 눈물 없이 우는 인물, 어두운 청회색 수묵화 일러스트",
+      "alt_en": "A figure crying without tears in night fog, dark blue-grey ink-wash watercolor illustration",
+      "prompt": "A solitary silhouette standing in dense night fog crying silently with no tears, barren winter branches surrounding, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), heavy foreboding atmosphere, dark charcoal grey and cold blue palette, no text",
+      "aspectRatio": "4:3"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "being-chased-dream",
+  "generatedAt": null,
+  "provider": null,
+  "hero": {
+    "path": "/images/dreams/being-chased-dream/hero.png",
+    "alt_ko": "밤 산길을 혼자 달리는 꿈 — 먹과 수채화 스타일의 한국 전통 수묵화",
+    "alt_en": "Lone figure running through misty mountain path at dusk — ink-wash watercolor illustration",
+    "prompt": "A lone figure running through misty mountain paths at dusk, long shadows stretching behind, ink-wash watercolor illustration style, Korean traditional painting aesthetic, dreamlike atmosphere, muted indigo and charcoal tones, no text, no faces",
+    "aspectRatio": "16:9",
+    "status": "pending"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/being-chased-dream/auspicious.png",
+      "alt_ko": "새벽빛 속 탁 트인 길 — 도망에 성공해 자유로운 길몽",
+      "alt_en": "Open path at dawn with warm golden light — successful escape and liberation",
+      "prompt": "Open mountain path at dawn bathed in warm golden light, a clear horizon ahead, soft watercolor illustration style, Korean traditional painting aesthetic, hopeful atmosphere, golden and amber tones, no text, no people",
+      "aspectRatio": "4:3",
+      "status": "pending"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/being-chased-dream/inauspicious.png",
+      "alt_ko": "어둠 속 귀신의 그림자에 쫓기는 흉몽",
+      "alt_en": "Dark misty forest with looming shadow figure — ghost chase inauspicious omen",
+      "prompt": "Dark misty forest at night with a looming shadowy presence in the background, bare trees reaching toward a grey sky, ink-wash illustration style, Korean traditional painting aesthetic, foreboding atmosphere, deep charcoal and dark indigo tones, no text, no people",
+      "aspectRatio": "4:3",
+      "status": "pending"
+    }
+  ]
+}

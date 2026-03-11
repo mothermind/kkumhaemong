@@ -79,9 +79,8 @@ When invoked, you must follow these steps:
 
    **Step 8c — Call Imagen API.** For each image (hero, auspicious, inauspicious), run:
    ```bash
-   # Load API key from environment
-   source /Users/llnormll/WorkSpace/my-fortune-site/.env 2>/dev/null || true
-   GOOGLE_API_KEY="${GOOGLE_API_KEY:-$(grep GOOGLE_API_KEY /Users/llnormll/WorkSpace/my-fortune-site/.env | cut -d= -f2 | tr -d '\"' | tr -d \"'\")}"
+   # Load API key from shell environment (set in ~/.zshrc)
+   source ~/.zshrc 2>/dev/null || true
 
    # Use Imagen 4 via the Vertex-style predict endpoint (generateImages returns 404)
    # Model: imagen-4.0-generate-001 (confirmed working)

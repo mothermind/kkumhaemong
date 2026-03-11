@@ -1,0 +1,32 @@
+{
+  "slug": "driving-dream",
+  "hero": {
+    "path": "/images/dreams/driving-dream/hero.png",
+    "alt_ko": "꿈속 빈 도로와 안개 낀 산, 수묵화 스타일 일러스트",
+    "alt_en": "Empty winding road stretching toward misty mountains, ink-wash watercolor illustration",
+    "prompt": "A traditional ink-wash watercolor illustration of an empty winding road stretching toward distant misty mountains, soft morning light, dreamlike atmosphere, Korean traditional painting aesthetic, muted earth tones with subtle golden highlights, no text, no people, no vehicles visible, painterly brushstrokes, serene and contemplative mood",
+    "aspectRatio": "16:9"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/driving-dream/auspicious.png",
+      "alt_ko": "탁 트인 고속도로와 황금빛 햇살, 수묵화 스타일 길몽 일러스트",
+      "alt_en": "Open highway bathed in golden morning sunlight, ink-wash watercolor illustration, auspicious dream scene",
+      "prompt": "A traditional Korean ink-wash watercolor illustration of a clear open highway disappearing into a bright horizon, warm golden sunlight flooding the scene, lush green hills on either side, soft painterly brushstrokes, dreamlike and hopeful atmosphere, no text, no people, no vehicles, auspicious and uplifting mood",
+      "aspectRatio": "4:3"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/driving-dream/inauspicious.png",
+      "alt_ko": "어두운 안개 도로와 갈림길, 수묵화 스타일 흉몽 일러스트",
+      "alt_en": "Dark foggy road at a crossroads, ink-wash watercolor illustration, inauspicious dream scene",
+      "prompt": "A traditional Korean ink-wash watercolor illustration of a dark misty road at a crossroads with no clear path forward, heavy fog obscuring the distance, bare twisted trees lining the roadside, cool grey and deep indigo tones, painterly brushstrokes, foreboding and uncertain atmosphere, no text, no people, no vehicles",
+      "aspectRatio": "4:3"
+    }
+  ],
+  "generatedAt": null,
+  "provider": null,
+  "status": "pending",
+  "note": "Image generation skipped — GOOGLE_API_KEY not accessible in this session. Re-run dream-image-agent to generate images."
+}

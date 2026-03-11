@@ -1,0 +1,31 @@
+{
+  "slug": "running-dream",
+  "hero": {
+    "path": "/images/dreams/running-dream/hero.png",
+    "alt_ko": "달리는 꿈 해몽 - 황금빛 들판을 힘차게 달리는 실루엣",
+    "alt_en": "Running dream interpretation - a silhouette running freely across a golden plain",
+    "prompt": "A silhouette figure running freely across an open plain at golden hour, long grass swaying in wind, distant Korean mountains in background, soft ink-wash watercolor illustration, dreamlike motion blur suggesting speed and freedom, Korean traditional painting aesthetic, no text, warm amber and ochre tones, muted earth palette with golden highlights",
+    "aspectRatio": "16:9"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/running-dream/auspicious.png",
+      "alt_ko": "길몽 - 벚꽃 흩날리는 속에서 밝은 지평선을 향해 달리는 인물",
+      "alt_en": "Auspicious omen - a figure running joyfully toward a bright horizon with cherry blossoms swirling",
+      "prompt": "A figure running joyfully toward a bright radiant horizon, wind caught in flowing clothes, pink cherry blossoms swirling in the air, sense of freedom and forward momentum, warm golden morning light, Korean traditional watercolor illustration style, dreamlike atmosphere, soft brushwork, no text",
+      "aspectRatio": "4:3"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/running-dream/inauspicious.png",
+      "alt_ko": "흉몽 - 무거운 발걸음으로 어둠 속에서 나아가지 못하는 인물",
+      "alt_en": "Inauspicious omen - a figure struggling to run with heavy legs unable to move forward in darkness",
+      "prompt": "A lone figure struggling to run with heavy legs unable to move forward, dark threatening shadows looming behind, night landscape with dim moonlight, cool blue-gray tones, traditional Korean ink-wash style, oppressive heavy atmosphere, sense of dread and stagnation, no text, somber mood",
+      "aspectRatio": "4:3"
+    }
+  ],
+  "generatedAt": "2026-03-11T00:00:00Z",
+  "provider": "imagen-4.0-generate-001",
+  "status": "complete"
+}
