@@ -102,7 +102,7 @@ export default async function DreamPage({ params }: Props) {
         />
       ))}
 
-      <article className="mx-auto max-w-3xl px-4 py-10 sm:px-6">
+      <article className="mx-auto max-w-3xl px-4 py-10 sm:px-6 bg-gray-900 sm:rounded-2xl sm:my-6">
         <DreamHero
           title={c.h1}
           intro={c.intro}
@@ -111,7 +111,7 @@ export default async function DreamPage({ params }: Props) {
         />
 
         {/* Divider */}
-        <div className="my-10 border-t border-white/10" />
+        <div className="my-0 border-t border-white/0" />
 
         <TableOfContents items={tocItems} locale={locale} />
 
@@ -138,25 +138,25 @@ export default async function DreamPage({ params }: Props) {
           }))}
         />
 
-        <section id={culturalId} className="mt-[72px] scroll-mt-20">
-          <h2 className="mb-5 text-[22px] font-semibold tracking-tight text-white">{t("culturalContext")}</h2>
-          <MarkdownBody className="text-gray-400 leading-8">{c.culturalContext}</MarkdownBody>
+        <section id={culturalId} className="mt-16 scroll-mt-20">
+          <h2 className="text-2xl font-semibold tracking-tight text-gray-100 mb-6">{t("culturalContext")}</h2>
+          <MarkdownBody className="">{c.culturalContext}</MarkdownBody>
         </section>
 
         {c.westernContext && (
-          <section id={westernId} className="mt-[72px] scroll-mt-20">
-            <h2 className="mb-5 text-[22px] font-semibold tracking-tight text-white">
+          <section id={westernId} className="mt-16 scroll-mt-20">
+            <h2 className="text-2xl font-semibold tracking-tight text-gray-100 mb-6">
               {locale === "ko" ? "서양 심리학적 해석" : "Western Psychological Perspectives"}
             </h2>
-            <MarkdownBody className="text-gray-400 leading-8">{c.westernContext}</MarkdownBody>
+            <MarkdownBody className="">{c.westernContext}</MarkdownBody>
           </section>
         )}
 
         <DreamFAQ id={faqId} heading={t("faq")} faqs={c.faqs} />
 
         {c.conclusion && (
-          <section className="mt-12 border-t border-white/10 pt-8">
-            <MarkdownBody className="text-gray-500 italic leading-8">{c.conclusion}</MarkdownBody>
+          <section className="mt-16 border-t border-white/10 pt-8">
+            <MarkdownBody className="text-gray-500 italic leading-[1.8]">{c.conclusion}</MarkdownBody>
           </section>
         )}
 

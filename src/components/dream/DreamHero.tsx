@@ -27,13 +27,15 @@ export function DreamHero({ title, intro, heroImage, locale: _locale }: Props) {
         <div className="mb-8 w-full rounded-2xl bg-white/5 aspect-square sm:aspect-video" />
       )}
 
-      <h1 className="mb-5 text-3xl font-bold leading-snug tracking-tight text-white sm:text-4xl">
+      <h1 className="text-3xl sm:text-4xl font-bold text-gray-100 tracking-tight text-balance mb-6">
         {title}
       </h1>
 
-      <MarkdownBody className="text-lg leading-9 text-gray-200">
-        {intro}
-      </MarkdownBody>
+      <div className="mt-6 mb-12 pb-8 border-b border-white/10">
+        <MarkdownBody className="text-lg sm:text-[19px] text-gray-200 font-medium leading-[1.8]">
+          {intro}
+        </MarkdownBody>
+      </div>
     </div>
   );
 }

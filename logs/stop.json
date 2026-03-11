@@ -1409,5 +1409,59 @@
     "hook_event_name": "Stop",
     "stop_hook_active": false,
     "last_assistant_message": "`react-markdown` renders differently on server vs client, so `\"use client\"` is the correct fix. The hydration error should be gone on next page load."
+  },
+  {
+    "session_id": "7b455dd0-7fbd-4229-96b2-9e6f97d9373f",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/7b455dd0-7fbd-4229-96b2-9e6f97d9373f.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "last_assistant_message": "Done. The background is now `#111827` (Tailwind's `gray-900`) \u2014 same as the header. Also removed the light/dark media query since we're going dark-only to match the design."
+  },
+  {
+    "session_id": "7b455dd0-7fbd-4229-96b2-9e6f97d9373f",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/7b455dd0-7fbd-4229-96b2-9e6f97d9373f.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "last_assistant_message": "Here's a full breakdown of the current UI stack:\n\n---\n\n## Tech Stack\n\n| Layer | Package | Version |\n|---|---|---|\n| Framework | Next.js (App Router) | 16.1.6 |\n| UI Language | TypeScript | ^5 |\n| Styling | Tailwind CSS v4 | ^4 |\n| i18n | next-intl | ^4.8.3 |\n| Runtime | React / React DOM | 19.2.3 |\n| Markdown | react-markdown | ^10.1.0 |\n| Deployment | @opennextjs/cloudflare | ^1.17.1 |\n| React Compiler | babel-plugin-react-compiler | 1.0.0 |\n\n---\n\n## Color System (Dark Theme Only)\n\nAll dark. No light mode. The palette is essentially:\n\n| Role | Color |\n|---|---|\n| Page background (`body`, `layout`) | `bg-gray-900` = `#111827` |\n| Header | `bg-gray-900/95` + `backdrop-blur-sm` |\n| Primary text | `text-white` |\n| Secondary text | `text-gray-200` / `text-gray-400` |\n| Muted text | `text-gray-500` / `text-gray-600` |\n| Auspicious (\uae38\ubabd) headings | `text-emerald-400` |\n| Inauspicious (\ud749\ubabd) headings | `text-red-400` |\n| Neutral headings | `text-gray-300` |\n| Borders | `border-white/10` / `border-white/20` |\n| Surface overlays | `bg-white/5` / `bg-white/[0.03]` |\n\n---\n\n## Typography\n\n- **Font**: Pretendard (9 weights, CDN via jsdelivr) \u2014 applied globally\n- **Body**: `font-size: 17px`, `line-height: 1.92`\n- **Korean**: `word-break: keep-all`, `overflow-wrap: break-word` via `:lang(ko)`\n- **Font smoothing**: `-webkit-font-smoothing: antialiased` globally\n\n---\n\n## Layout Structure\n\n```\n<html lang={locale}>\n  <body class=\"min-h-screen bg-gray-900 text-white\">\n    <Header>                    \u2190 sticky top, z-50, h-14, max-w-3xl\n      Logo | Nav links | LanguageToggle\n    </Header>\n    <main class=\"flex-1\">\n      {page content}\n    </main>\n    <Footer>                    \u2190 border-t border-white/10, max-w-3xl\n    </Footer>\n  </body>\n```\n\nAll content constrained to `max-w-3xl` (48rem) centered.\n\n---\n\n## Page Components\n\n### Homepage (`/[locale]/page.tsx`)\n- Vertically centered hero with search form (`min-h-[70vh]`)\n- Input: glassmorphism (`bg-white/5`, `border-white/20`)\n- Submit button: white with dark text\n\n### Dream Article Page (`/[locale]/dream/[slug]/page.tsx`)\nFull article layout in `<article class=\"mx-auto max-w-3xl px-4 py-10\">`:\n\n| Component | Description |\n|---|---|\n| `ReadingProgress` | Fixed top bar, 3px, `bg-white` fill, z-60 |\n| `DreamHero` | Hero image (`aspect-square` \u2192 `aspect-video` on sm+), H1, intro via MarkdownBody |\n| `TableOfContents` | Numbered list inside `rounded-xl border border-white/10 bg-white/[0.03]` |\n| `DreamSection` | H2 colored by type (emerald/red/gray), optional image `aspect-[3/2]`, body via MarkdownBody |\n| `DreamVariations` | H2 heading, variations as `border-l-[2.5px] border-white/20 pl-5` left-bordered cards |\n| `culturalContext` section | H2 + MarkdownBody inline in page |\n| `westernContext` section | H2 + MarkdownBody, conditional |\n| `DreamFAQ` | Accordion (client component), `divide-y divide-white/10`, +/- toggle |\n| `conclusion` section | MarkdownBody in `italic text-gray-500` |\n| `RelatedDreams` | 2\u20133 col grid of linked cards (\u26a0\ufe0f still uses light theme colors \u2014 `border-gray-200`, `text-gray-800`) |\n\n### MarkdownBody\nRenders LLM markdown. Custom components for: `p`, `strong`, `em`, `ul`, `ol`, `li`, `h3`, `h4`, `blockquote`.\n\n---\n\n## Known Issue\n\n`RelatedDreams` component still has **light-mode colors** (`border-gray-200`, `text-gray-800`, `bg-gray-100`, `hover:border-indigo-300`, `hover:text-indigo-600`) \u2014 these will look broken against the dark `bg-gray-900` background."
+  },
+  {
+    "session_id": "7b455dd0-7fbd-4229-96b2-9e6f97d9373f",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/7b455dd0-7fbd-4229-96b2-9e6f97d9373f.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "last_assistant_message": "Done. Created at `/Users/llnormll/WorkSpace/my-fortune-site/STYLE_SHEET.md`."
+  },
+  {
+    "session_id": "7b455dd0-7fbd-4229-96b2-9e6f97d9373f",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/7b455dd0-7fbd-4229-96b2-9e6f97d9373f.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "last_assistant_message": "All changes applied. Here's what changed:\n\n**Canvas / Background**\n- `bg-gray-950` (`#030712`) as base canvas \u2014 not pure black\n- `bg-gray-900` article container, now with `sm:rounded-2xl sm:my-6` so it floats above the canvas on desktop\n\n**Text palette (no more pure white)**\n- `text-gray-100` \u2192 H1, H2, all headings\n- `text-gray-200` \u2192 intro paragraph (hook text)\n- `text-gray-300` \u2192 all body copy (long-form reading)\n- `text-gray-500` \u2192 muted/meta text\n\n**Semantic colors**\n- `text-rose-400` replaces `text-red-400` for \ud749\ubabd \u2014 softer, less alarming\n- `text-emerald-400` stays for \uae38\ubabd\n\n**Rhythm**\n- `line-height: 1.8` globally (was 1.92 \u2014 too loose)\n- `tracking-[-0.01em]` on body paragraphs\n- `mt-16` on all H2 sections (was inconsistent 72px/48px)\n- Intro gets a `border-b border-white/10` separator\n\n**RelatedDreams** \u2014 fixed from broken light-mode colors to full dark theme\n\n**Blockquotes** \u2014 gradient `from-white/[0.04] to-transparent` for visual depth"
+  },
+  {
+    "session_id": "7b455dd0-7fbd-4229-96b2-9e6f97d9373f",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/7b455dd0-7fbd-4229-96b2-9e6f97d9373f.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "last_assistant_message": "Done. Both sections are now wrapped in a shared `rounded-2xl border border-white/10 bg-white/[0.03]` container \u2014 same glassmorphism surface used for the TOC. When both sections exist, a `border-t border-white/10` divides them internally. The container sits clearly apart from the main interpretation sections visually."
+  },
+  {
+    "session_id": "7b455dd0-7fbd-4229-96b2-9e6f97d9373f",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/7b455dd0-7fbd-4229-96b2-9e6f97d9373f.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "acceptEdits",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "last_assistant_message": "Reverted."
   }
 ]

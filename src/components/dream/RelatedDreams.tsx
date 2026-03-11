@@ -11,7 +11,6 @@ type Props = {
 export async function RelatedDreams({ heading, slugs, locale }: Props) {
   if (!slugs?.length) return null;
 
-  // Fetch titles for related dreams (up to 6)
   const related = await Promise.all(
     slugs.slice(0, 6).map(async (slug) => {
       const content = await getContent(slug, locale);
@@ -34,8 +33,8 @@ export async function RelatedDreams({ heading, slugs, locale }: Props) {
   if (!valid.length) return null;
 
   return (
-    <section className="mt-10">
-      <h2 className="mb-5 text-xl font-semibold">{heading}</h2>
+    <section className="mt-16 pt-8 border-t border-white/10">
+      <h2 className="text-2xl font-semibold tracking-tight text-gray-100 mb-6">{heading}</h2>
       <div className="grid grid-cols-2 gap-3 sm:grid-cols-3">
         {valid.map((item) => (
           <Link
@@ -44,10 +43,10 @@ export async function RelatedDreams({ heading, slugs, locale }: Props) {
               pathname: "/dream/[slug]",
               params: { slug: item.slug },
             }}
-            className="group rounded-xl border border-gray-200 p-3 transition-all hover:border-indigo-300 hover:shadow-sm"
+            className="group rounded-xl border border-white/10 bg-white/[0.03] p-3 transition-all hover:border-white/20 hover:bg-white/[0.05]"
           >
             {item.hero && (
-              <div className="mb-2 h-20 w-full overflow-hidden rounded-lg bg-gray-100">
+              <div className="mb-2 h-20 w-full overflow-hidden rounded-lg bg-gray-800">
                 <img
                   src={item.hero}
                   alt={item.title}
@@ -55,7 +54,7 @@ export async function RelatedDreams({ heading, slugs, locale }: Props) {
                 />
               </div>
             )}
-            <p className="text-sm font-medium text-gray-800 group-hover:text-indigo-600">
+            <p className="text-sm font-medium text-gray-300 group-hover:text-gray-100 transition-colors">
               {item.title}
             </p>
           </Link>

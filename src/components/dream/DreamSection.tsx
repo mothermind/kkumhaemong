@@ -3,8 +3,8 @@ import { MarkdownBody } from "./MarkdownBody";
 
 const TYPE_COLOR = {
   auspicious: "text-emerald-400",
-  inauspicious: "text-red-400",
-  neutral: "text-gray-300",
+  inauspicious: "text-rose-400",
+  neutral: "text-gray-100",
 } as const;
 
 type Props = {
@@ -19,8 +19,8 @@ export function DreamSection({ id, heading, body, type, image }: Props) {
   const color = TYPE_COLOR[type as keyof typeof TYPE_COLOR] ?? TYPE_COLOR.neutral;
 
   return (
-    <section id={id} className="mt-[72px] scroll-mt-20">
-      <h2 className={`mb-5 text-[22px] font-semibold leading-snug tracking-tight ${color}`}>
+    <section id={id} className="mt-16 scroll-mt-20">
+      <h2 className={`text-2xl font-semibold tracking-tight mb-6 ${color}`}>
         {heading}
       </h2>
       {image && (
@@ -34,7 +34,7 @@ export function DreamSection({ id, heading, body, type, image }: Props) {
           />
         </div>
       )}
-      <MarkdownBody className="text-gray-400 leading-8">{body}</MarkdownBody>
+      <MarkdownBody className="">{body}</MarkdownBody>
     </section>
   );
 }

@@ -21,23 +21,23 @@ export function MarkdownBody({ children, className = "" }: Props) {
       <ReactMarkdown
         components={{
           p: ({ children }) => (
-            <p className="mb-[1.05rem] last:mb-0">{children}</p>
+            <p className="text-[17px] text-gray-300 leading-[1.8] tracking-[-0.01em] mb-6 last:mb-0">{children}</p>
           ),
           strong: ({ children }) => (
-            <strong className="font-semibold">{children}</strong>
+            <strong className="font-semibold text-gray-200">{children}</strong>
           ),
           em: ({ children }) => <em className="italic">{children}</em>,
           ul: ({ children }) => (
-            <ul className="mb-3 ml-4 list-disc space-y-1">{children}</ul>
+            <ul className="list-disc list-outside ml-5 space-y-2 mb-6 text-gray-300 text-[17px] leading-[1.8]">{children}</ul>
           ),
           ol: ({ children }) => (
-            <ol className="mb-3 ml-4 list-decimal space-y-1">{children}</ol>
+            <ol className="list-decimal list-outside ml-5 space-y-2 mb-6 text-gray-300 text-[17px] leading-[1.8]">{children}</ol>
           ),
           li: ({ children }) => (
-            <li className="leading-relaxed">{children}</li>
+            <li className="leading-[1.8]">{children}</li>
           ),
           h3: ({ children }) => (
-            <h3 className="mb-2 mt-4 text-base font-semibold">{children}</h3>
+            <h3 className="text-xl font-medium text-gray-100 mt-10 mb-4">{children}</h3>
           ),
           h4: ({ children }) => (
             <h4 className="mb-1 mt-3 text-sm font-semibold uppercase tracking-wide text-gray-500">
@@ -45,7 +45,7 @@ export function MarkdownBody({ children, className = "" }: Props) {
             </h4>
           ),
           blockquote: ({ children }) => (
-            <blockquote className="mb-3 border-l-4 border-gray-300 pl-4 text-gray-600 italic">
+            <blockquote className="border-l-[3px] border-gray-600 bg-gradient-to-r from-white/[0.04] to-transparent py-4 px-5 text-gray-400 rounded-r-lg my-8">
               {children}
             </blockquote>
           ),

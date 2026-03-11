@@ -9,7 +9,7 @@ export function Header({ locale }: { locale: Locale }) {
   const t = useTranslations("nav");
 
   return (
-    <header className="sticky top-0 z-50 border-b border-white/10 bg-gray-900/95 backdrop-blur-sm">
+    <header className="sticky top-0 z-50 border-b border-white/10 bg-gray-950/95 backdrop-blur-sm">
       <div className="mx-auto flex h-14 max-w-3xl items-center justify-between px-4 sm:px-6">
         <Link href="/" className="flex items-center gap-2">
           <span className="text-lg font-bold text-white">꿈해몽</span>
