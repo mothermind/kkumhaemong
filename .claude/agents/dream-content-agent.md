@@ -24,7 +24,15 @@ When invoked, you must follow these steps:
    - `title`: Keyword-rich but natural. Pattern: "[꿈 키워드] 해몽 - [핵심 의미] 완벽 정리". Example: "뱀꿈 해몽 - 뱀꿈의 의미와 길흉 완벽 정리"
    - `metaDescription`: 120-160 characters, include primary keyword within the first 60 characters, compelling and click-worthy
    - `h1`: Main heading, can differ slightly from title for natural reading
-   - `intro`: 150-200 words establishing the dream symbol's significance in Korean dream culture (꿈해몽). Must hook the reader and include the primary keyword naturally within the first two sentences
+   - `intro`: 3–4 sentences max. Choose the template based on the symbol's nature:
+     - **B-style (default — use when the symbol has a meaningful 흉몽 or nuanced flip side):**
+       Sentence 1: Deliver the core interpretation immediately with evocative word choice (e.g. "훨훨 날았다면 지금 당신의 운세는 분명 상승 중입니다"). Never open with "~은 가장 강력한 길몽입니다" or encyclopedic framing.
+       Sentence 2: Add a cultural credibility detail naturally — something a knowledgeable friend would mention, not a Wikipedia entry.
+       Sentence 3: Pull-forward cliffhanger that creates genuine curiosity about the nuance (e.g. "그런데 한 가지—이 꿈에도 조심해야 할 패턴이 숨어 있습니다"). Only use this when the nuance is real and significant.
+     - **A-style (use when the symbol is straightforwardly auspicious or inauspicious with no major flip side):**
+       Sentence 1: Single declarative — the core meaning, directly stated.
+       Sentence 2: The most important nuance or qualifier in one punchy line (e.g. "높이 날았느냐, 낮게 끌렸느냐에 따라 해석이 180도 달라져요").
+     - **Tone rules for both:** Warm but authoritative. Never robotic or list-like. Use specific, vivid Korean (훨훨, 벅차다, etc.) over generic adjectives. The reader should feel they are getting insight, not reading a dictionary.
    - `sections`: Array of objects, each with `heading` (H2), `content` (body text). Cover interpretation types such as 길몽 (auspicious) vs 흉몽 (inauspicious), 재물운 (wealth luck), 건강운 (health luck), 대인관계 (relationships), etc.
    - `variations`: Array of objects, each with `heading` (H3), `content`. Each variation targets a long-tail keyword (e.g., "큰 뱀꿈", "뱀에 물리는 꿈", "하얀 뱀꿈")
    - `culturalContext`: A section explaining the cultural and historical roots of this dream symbol's meaning in Korean tradition
@@ -37,6 +45,7 @@ When invoked, you must follow these steps:
    - Explain Korean cultural concepts that would be unfamiliar (e.g., explain what 길몽/흉몽 means)
    - Use engaging, informative language that bridges cultural understanding
    - FAQs should reflect questions an English speaker would actually ask (e.g., "Why do Koreans interpret snake dreams differently?")
+   - `intro`: Apply the same B-style / A-style template as the Korean intro (see step 4). Localize — do not translate. For B-style, sentence 1 should deliver the verdict immediately (e.g. "If you dreamed of soaring through the sky last night, Korean dream tradition has good news for you."). Sentence 2 adds a cultural hook. Sentence 3 is the pull-forward nuance teaser. Same tone rules: confident, warm, never encyclopedic.
    - Include brief context about Korean dream interpretation tradition (해몽) where helpful
    - `westernContext`: A dedicated section titled "Western Psychological Perspectives" using the `english` sub-fields from `westernContext` in the research JSON. Weave Freudian, Jungian, modern, and cross-cultural angles into cohesive prose. 250-400 words. This is a key differentiator for English readers vs. the Korean-only competition.
 
