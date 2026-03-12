@@ -1,0 +1,1490 @@
+{
+  "animals": [
+    {
+      "slug": "snake-dream",
+      "korean": "뱀꿈",
+      "english": "Dream of a snake",
+      "tier": "high"
+    },
+    {
+      "slug": "snake-bite-dream",
+      "korean": "뱀에게 물리는 꿈",
+      "english": "Dream of being bitten by a snake",
+      "tier": "high"
+    },
+    {
+      "slug": "white-snake-dream",
+      "korean": "흰뱀 꿈",
+      "english": "Dream of a white snake",
+      "tier": "high"
+    },
+    {
+      "slug": "large-snake-dream",
+      "korean": "큰 뱀 꿈",
+      "english": "Dream of a large snake",
+      "tier": "high"
+    },
+    {
+      "slug": "pig-dream",
+      "korean": "돼지꿈",
+      "english": "Dream of a pig",
+      "tier": "high"
+    },
+    {
+      "slug": "golden-pig-dream",
+      "korean": "황금 돼지 꿈",
+      "english": "Dream of a golden pig",
+      "tier": "high"
+    },
+    {
+      "slug": "dog-dream",
+      "korean": "개꿈",
+      "english": "Dream of a dog",
+      "tier": "high"
+    },
+    {
+      "slug": "dog-bite-dream",
+      "korean": "개에게 물리는 꿈",
+      "english": "Dream of being bitten by a dog",
+      "tier": "high"
+    },
+    {
+      "slug": "puppy-dream",
+      "korean": "강아지 꿈",
+      "english": "Dream of a puppy",
+      "tier": "high"
+    },
+    {
+      "slug": "cat-dream",
+      "korean": "고양이꿈",
+      "english": "Dream of a cat",
+      "tier": "high"
+    }
+  ],
+  "body": [
+    {
+      "slug": "teeth-falling-out-dream",
+      "korean": "이빨 빠지는 꿈",
+      "english": "Dream of teeth falling out",
+      "tier": "high"
+    },
+    {
+      "slug": "teeth-breaking-dream",
+      "korean": "이빨이 부러지는 꿈",
+      "english": "Dream of teeth breaking",
+      "tier": "high"
+    },
+    {
+      "slug": "all-teeth-falling-dream",
+      "korean": "이빨이 다 빠지는 꿈",
+      "english": "Dream of all teeth falling out",
+      "tier": "high"
+    },
+    {
+      "slug": "hair-falling-out-dream",
+      "korean": "머리카락 빠지는 꿈",
+      "english": "Dream of hair falling out",
+      "tier": "high"
+    },
+    {
+      "slug": "cutting-hair-dream",
+      "korean": "머리를 자르는 꿈",
+      "english": "Dream of cutting hair",
+      "tier": "high"
+    },
+    {
+      "slug": "blood-dream",
+      "korean": "피꿈",
+      "english": "Dream of blood",
+      "tier": "high"
+    },
+    {
+      "slug": "being-naked-dream",
+      "korean": "벌거벗은 꿈",
+      "english": "Dream of being naked",
+      "tier": "high"
+    },
+    {
+      "slug": "paralyzed-dream",
+      "korean": "몸이 안 움직이는 꿈",
+      "english": "Dream of being paralyzed",
+      "tier": "high"
+    },
+    {
+      "slug": "sleep-paralysis-dream",
+      "korean": "가위에 눌리는 꿈",
+      "english": "Dream of sleep paralysis",
+      "tier": "high"
+    },
+    {
+      "slug": "poop-dream",
+      "korean": "똥꿈",
+      "english": "Dream of poop/feces",
+      "tier": "high"
+    }
+  ],
+  "celestial": [
+    {
+      "slug": "sun-dream",
+      "korean": "태양/해 꿈",
+      "english": "Dream of the sun",
+      "tier": "high"
+    },
+    {
+      "slug": "moon-dream",
+      "korean": "달 꿈",
+      "english": "Dream of the moon",
+      "tier": "high"
+    },
+    {
+      "slug": "stars-dream",
+      "korean": "별 꿈",
+      "english": "Dream of stars",
+      "tier": "high"
+    },
+    {
+      "slug": "full-moon-dream",
+      "korean": "보름달 꿈",
+      "english": "Dream of a full moon",
+      "tier": "high"
+    },
+    {
+      "slug": "shooting-star-dream",
+      "korean": "별똥별 꿈",
+      "english": "Dream of a shooting star",
+      "tier": "medium"
+    },
+    {
+      "slug": "eclipse-dream",
+      "korean": "일식/월식 꿈",
+      "english": "Dream of an eclipse",
+      "tier": "medium"
+    },
+    {
+      "slug": "outer-space-dream",
+      "korean": "우주 꿈",
+      "english": "Dream of outer space",
+      "tier": "medium"
+    },
+    {
+      "slug": "ufo-dream",
+      "korean": "UFO 꿈",
+      "english": "Dream of a UFO",
+      "tier": "medium"
+    },
+    {
+      "slug": "alien-dream",
+      "korean": "외계인 꿈",
+      "english": "Dream of aliens",
+      "tier": "medium"
+    },
+    {
+      "slug": "end-of-world-dream",
+      "korean": "세상이 멸망하는 꿈",
+      "english": "Dream of end of the world",
+      "tier": "medium"
+    }
+  ],
+  "clothing": [
+    {
+      "slug": "shoes-dream",
+      "korean": "신발 꿈",
+      "english": "Dream of shoes",
+      "tier": "high"
+    },
+    {
+      "slug": "clothes-dream",
+      "korean": "옷 꿈",
+      "english": "Dream of clothes",
+      "tier": "medium"
+    },
+    {
+      "slug": "new-clothes-dream",
+      "korean": "새 옷 꿈",
+      "english": "Dream of new clothes",
+      "tier": "medium"
+    },
+    {
+      "slug": "buying-clothes-dream",
+      "korean": "옷을 사는 꿈",
+      "english": "Dream of buying clothes",
+      "tier": "medium"
+    },
+    {
+      "slug": "no-clothes-dream",
+      "korean": "옷이 없는 꿈",
+      "english": "Dream of having no clothes",
+      "tier": "medium"
+    },
+    {
+      "slug": "white-clothes-dream",
+      "korean": "흰옷 꿈",
+      "english": "Dream of white clothes",
+      "tier": "medium"
+    },
+    {
+      "slug": "black-clothes-dream",
+      "korean": "검은 옷 꿈",
+      "english": "Dream of black clothes",
+      "tier": "medium"
+    },
+    {
+      "slug": "new-shoes-dream",
+      "korean": "새 신발 꿈",
+      "english": "Dream of new shoes",
+      "tier": "medium"
+    },
+    {
+      "slug": "losing-shoes-dream",
+      "korean": "신발을 잃어버리는 꿈",
+      "english": "Dream of losing shoes",
+      "tier": "medium"
+    },
+    {
+      "slug": "uniform-dream",
+      "korean": "교복/유니폼 꿈",
+      "english": "Dream of a uniform",
+      "tier": "medium"
+    }
+  ],
+  "colors": [
+    {
+      "slug": "red-color-dream",
+      "korean": "빨간색 꿈",
+      "english": "Dream of red color",
+      "tier": "medium"
+    },
+    {
+      "slug": "blue-color-dream",
+      "korean": "파란색 꿈",
+      "english": "Dream of blue color",
+      "tier": "medium"
+    },
+    {
+      "slug": "green-color-dream",
+      "korean": "초록색 꿈",
+      "english": "Dream of green color",
+      "tier": "medium"
+    },
+    {
+      "slug": "yellow-color-dream",
+      "korean": "노란색 꿈",
+      "english": "Dream of yellow color",
+      "tier": "medium"
+    },
+    {
+      "slug": "white-color-dream",
+      "korean": "흰색 꿈",
+      "english": "Dream of white color",
+      "tier": "medium"
+    },
+    {
+      "slug": "black-color-dream",
+      "korean": "검은색 꿈",
+      "english": "Dream of black color",
+      "tier": "medium"
+    },
+    {
+      "slug": "gold-color-dream",
+      "korean": "금색 꿈",
+      "english": "Dream of gold color",
+      "tier": "medium"
+    },
+    {
+      "slug": "darkness-dream",
+      "korean": "어두운 꿈",
+      "english": "Dream of darkness",
+      "tier": "medium"
+    },
+    {
+      "slug": "bright-light-dream",
+      "korean": "밝은 빛 꿈",
+      "english": "Dream of bright light",
+      "tier": "medium"
+    },
+    {
+      "slug": "black-white-dream",
+      "korean": "흑백 꿈",
+      "english": "Dream in black and white",
+      "tier": "medium"
+    }
+  ],
+  "death": [
+    {
+      "slug": "dying-dream",
+      "korean": "자신이 죽는 꿈",
+      "english": "Dream of dying",
+      "tier": "high"
+    },
+    {
+      "slug": "someone-dying-dream",
+      "korean": "다른 사람이 죽는 꿈",
+      "english": "Dream of someone else dying",
+      "tier": "high"
+    },
+    {
+      "slug": "family-dying-dream",
+      "korean": "가족이 죽는 꿈",
+      "english": "Dream of family member dying",
+      "tier": "high"
+    },
+    {
+      "slug": "parents-dying-dream",
+      "korean": "부모가 죽는 꿈",
+      "english": "Dream of parents dying",
+      "tier": "high"
+    },
+    {
+      "slug": "funeral-dream",
+      "korean": "장례식 꿈",
+      "english": "Dream of a funeral",
+      "tier": "high"
+    },
+    {
+      "slug": "dead-person-appearing-dream",
+      "korean": "죽은 사람이 나타나는 꿈",
+      "english": "Dream of a dead person appearing",
+      "tier": "high"
+    },
+    {
+      "slug": "resurrection-dream",
+      "korean": "죽었다 살아나는 꿈",
+      "english": "Dream of dying and coming back to life",
+      "tier": "high"
+    },
+    {
+      "slug": "spouse-dying-dream",
+      "korean": "배우자가 죽는 꿈",
+      "english": "Dream of spouse dying",
+      "tier": "high"
+    },
+    {
+      "slug": "child-dying-dream",
+      "korean": "자녀가 죽는 꿈",
+      "english": "Dream of child dying",
+      "tier": "medium"
+    },
+    {
+      "slug": "coffin-dream",
+      "korean": "관 꿈",
+      "english": "Dream of a coffin",
+      "tier": "medium"
+    }
+  ],
+  "disasters": [
+    {
+      "slug": "earthquake-disaster-dream",
+      "korean": "지진 꿈",
+      "english": "Dream of an earthquake",
+      "tier": "high"
+    },
+    {
+      "slug": "accident-dream",
+      "korean": "사고 꿈",
+      "english": "Dream of an accident",
+      "tier": "high"
+    },
+    {
+      "slug": "car-accident-dream",
+      "korean": "교통사고 꿈",
+      "english": "Dream of a car accident",
+      "tier": "high"
+    },
+    {
+      "slug": "war-dream",
+      "korean": "전쟁 꿈",
+      "english": "Dream of war",
+      "tier": "high"
+    },
+    {
+      "slug": "disaster-dream",
+      "korean": "재난 꿈",
+      "english": "Dream of a disaster",
+      "tier": "medium"
+    },
+    {
+      "slug": "flood-disaster-dream",
+      "korean": "홍수 재난 꿈",
+      "english": "Dream of flood disaster",
+      "tier": "medium"
+    },
+    {
+      "slug": "fire-disaster-dream",
+      "korean": "화재 꿈",
+      "english": "Dream of a fire disaster",
+      "tier": "medium"
+    },
+    {
+      "slug": "tsunami-disaster-dream",
+      "korean": "쓰나미 재난 꿈",
+      "english": "Dream of tsunami disaster",
+      "tier": "medium"
+    },
+    {
+      "slug": "volcanic-eruption-dream",
+      "korean": "화산 폭발 꿈",
+      "english": "Dream of volcanic eruption",
+      "tier": "medium"
+    },
+    {
+      "slug": "plane-crash-dream",
+      "korean": "비행기 사고 꿈",
+      "english": "Dream of plane crash",
+      "tier": "medium"
+    }
+  ],
+  "emotions": [
+    {
+      "slug": "fear-dream",
+      "korean": "무서운 꿈",
+      "english": "Dream of fear",
+      "tier": "high"
+    },
+    {
+      "slug": "nightmare-dream",
+      "korean": "악몽",
+      "english": "Nightmare",
+      "tier": "high"
+    },
+    {
+      "slug": "anxiety-dream",
+      "korean": "불안한 꿈",
+      "english": "Dream of anxiety",
+      "tier": "medium"
+    },
+    {
+      "slug": "happiness-dream",
+      "korean": "행복한 꿈",
+      "english": "Dream of happiness",
+      "tier": "medium"
+    },
+    {
+      "slug": "sadness-dream",
+      "korean": "슬픈 꿈",
+      "english": "Dream of sadness",
+      "tier": "medium"
+    },
+    {
+      "slug": "anger-dream",
+      "korean": "화나는 꿈",
+      "english": "Dream of anger",
+      "tier": "medium"
+    },
+    {
+      "slug": "embarrassment-dream",
+      "korean": "창피한 꿈",
+      "english": "Dream of embarrassment",
+      "tier": "medium"
+    },
+    {
+      "slug": "love-dream",
+      "korean": "사랑하는 꿈",
+      "english": "Dream of love",
+      "tier": "medium"
+    },
+    {
+      "slug": "frustration-dream",
+      "korean": "답답한 꿈",
+      "english": "Dream of frustration",
+      "tier": "medium"
+    },
+    {
+      "slug": "betrayal-dream",
+      "korean": "배신당하는 꿈",
+      "english": "Dream of betrayal",
+      "tier": "medium"
+    }
+  ],
+  "fire": [
+    {
+      "slug": "fire-dream",
+      "korean": "불꿈",
+      "english": "Dream of fire",
+      "tier": "high"
+    },
+    {
+      "slug": "house-fire-dream",
+      "korean": "집에 불이 나는 꿈",
+      "english": "Dream of house on fire",
+      "tier": "high"
+    },
+    {
+      "slug": "big-fire-dream",
+      "korean": "큰 불 꿈",
+      "english": "Dream of a big fire",
+      "tier": "medium"
+    },
+    {
+      "slug": "extinguishing-fire-dream",
+      "korean": "불을 끄는 꿈",
+      "english": "Dream of extinguishing fire",
+      "tier": "medium"
+    },
+    {
+      "slug": "candle-dream",
+      "korean": "촛불 꿈",
+      "english": "Dream of a candle",
+      "tier": "medium"
+    },
+    {
+      "slug": "body-on-fire-dream",
+      "korean": "몸에 불이 붙는 꿈",
+      "english": "Dream of body on fire",
+      "tier": "medium"
+    },
+    {
+      "slug": "forest-fire-dream",
+      "korean": "산불 꿈",
+      "english": "Dream of a forest fire",
+      "tier": "medium"
+    },
+    {
+      "slug": "smoke-dream",
+      "korean": "연기 꿈",
+      "english": "Dream of smoke",
+      "tier": "medium"
+    },
+    {
+      "slug": "explosion-dream",
+      "korean": "폭발 꿈",
+      "english": "Dream of an explosion",
+      "tier": "medium"
+    },
+    {
+      "slug": "fireworks-dream",
+      "korean": "불꽃놀이 꿈",
+      "english": "Dream of fireworks",
+      "tier": "medium"
+    }
+  ],
+  "food": [
+    {
+      "slug": "food-dream",
+      "korean": "음식 꿈",
+      "english": "Dream of food",
+      "tier": "high"
+    },
+    {
+      "slug": "rice-cake-dream",
+      "korean": "떡 꿈",
+      "english": "Dream of rice cake",
+      "tier": "high"
+    },
+    {
+      "slug": "rice-dream",
+      "korean": "밥 꿈",
+      "english": "Dream of rice",
+      "tier": "medium"
+    },
+    {
+      "slug": "meat-dream",
+      "korean": "고기 꿈",
+      "english": "Dream of meat",
+      "tier": "medium"
+    },
+    {
+      "slug": "fruit-dream",
+      "korean": "과일 꿈",
+      "english": "Dream of fruit",
+      "tier": "medium"
+    },
+    {
+      "slug": "apple-dream",
+      "korean": "사과 꿈",
+      "english": "Dream of apples",
+      "tier": "medium"
+    },
+    {
+      "slug": "peach-dream",
+      "korean": "복숭아 꿈",
+      "english": "Dream of peaches",
+      "tier": "medium"
+    },
+    {
+      "slug": "grape-dream",
+      "korean": "포도 꿈",
+      "english": "Dream of grapes",
+      "tier": "medium"
+    },
+    {
+      "slug": "watermelon-dream",
+      "korean": "수박 꿈",
+      "english": "Dream of watermelon",
+      "tier": "medium"
+    },
+    {
+      "slug": "persimmon-dream",
+      "korean": "감 꿈",
+      "english": "Dream of persimmons",
+      "tier": "medium"
+    }
+  ],
+  "insects": [
+    {
+      "slug": "spider-dream",
+      "korean": "거미 꿈",
+      "english": "Dream of a spider",
+      "tier": "high"
+    },
+    {
+      "slug": "spider-web-dream",
+      "korean": "거미줄 꿈",
+      "english": "Dream of a spider web",
+      "tier": "medium"
+    },
+    {
+      "slug": "bee-dream",
+      "korean": "벌 꿈",
+      "english": "Dream of bees",
+      "tier": "medium"
+    },
+    {
+      "slug": "bee-sting-dream",
+      "korean": "벌에 쏘이는 꿈",
+      "english": "Dream of being stung by a bee",
+      "tier": "medium"
+    },
+    {
+      "slug": "butterfly-dream",
+      "korean": "나비 꿈",
+      "english": "Dream of a butterfly",
+      "tier": "medium"
+    },
+    {
+      "slug": "cockroach-dream",
+      "korean": "바퀴벌레 꿈",
+      "english": "Dream of a cockroach",
+      "tier": "medium"
+    },
+    {
+      "slug": "ant-dream",
+      "korean": "개미 꿈",
+      "english": "Dream of ants",
+      "tier": "medium"
+    },
+    {
+      "slug": "worm-dream",
+      "korean": "벌레 꿈",
+      "english": "Dream of worms",
+      "tier": "medium"
+    },
+    {
+      "slug": "centipede-dream",
+      "korean": "지네 꿈",
+      "english": "Dream of a centipede",
+      "tier": "medium"
+    },
+    {
+      "slug": "bugs-crawling-body-dream",
+      "korean": "벌레가 몸에 기어다니는 꿈",
+      "english": "Dream of bugs crawling on body",
+      "tier": "medium"
+    }
+  ],
+  "marriage": [
+    {
+      "slug": "marriage-dream",
+      "korean": "결혼 꿈",
+      "english": "Dream of marriage",
+      "tier": "high"
+    },
+    {
+      "slug": "wedding-ceremony-dream",
+      "korean": "결혼식 꿈",
+      "english": "Dream of a wedding ceremony",
+      "tier": "high"
+    },
+    {
+      "slug": "affair-dream",
+      "korean": "바람피우는 꿈",
+      "english": "Dream of an affair",
+      "tier": "high"
+    },
+    {
+      "slug": "spouse-cheating-dream",
+      "korean": "배우자가 바람피우는 꿈",
+      "english": "Dream of spouse cheating",
+      "tier": "high"
+    },
+    {
+      "slug": "first-love-dream",
+      "korean": "첫사랑 꿈",
+      "english": "Dream of first love",
+      "tier": "high"
+    },
+    {
+      "slug": "ex-boyfriend-dream",
+      "korean": "전남친 꿈",
+      "english": "Dream of ex-boyfriend",
+      "tier": "high"
+    },
+    {
+      "slug": "ex-girlfriend-dream",
+      "korean": "전여친 꿈",
+      "english": "Dream of ex-girlfriend",
+      "tier": "high"
+    },
+    {
+      "slug": "wedding-ring-dream",
+      "korean": "결혼반지 꿈",
+      "english": "Dream of a wedding ring",
+      "tier": "medium"
+    },
+    {
+      "slug": "wedding-dress-dream",
+      "korean": "웨딩드레스 꿈",
+      "english": "Dream of a wedding dress",
+      "tier": "medium"
+    },
+    {
+      "slug": "proposal-dream",
+      "korean": "프로포즈 꿈",
+      "english": "Dream of a proposal",
+      "tier": "medium"
+    }
+  ],
+  "money": [
+    {
+      "slug": "money-dream",
+      "korean": "돈꿈",
+      "english": "Dream of money",
+      "tier": "high"
+    },
+    {
+      "slug": "finding-money-dream",
+      "korean": "돈을 줍는 꿈",
+      "english": "Dream of finding money",
+      "tier": "high"
+    },
+    {
+      "slug": "receiving-money-dream",
+      "korean": "돈을 받는 꿈",
+      "english": "Dream of receiving money",
+      "tier": "high"
+    },
+    {
+      "slug": "gold-dream",
+      "korean": "금 꿈",
+      "english": "Dream of gold",
+      "tier": "high"
+    },
+    {
+      "slug": "winning-lottery-dream",
+      "korean": "복권 당첨 꿈",
+      "english": "Dream of winning the lottery",
+      "tier": "high"
+    },
+    {
+      "slug": "lottery-numbers-dream",
+      "korean": "로또 번호 꿈",
+      "english": "Dream of lottery numbers",
+      "tier": "high"
+    },
+    {
+      "slug": "becoming-rich-dream",
+      "korean": "부자가 되는 꿈",
+      "english": "Dream of becoming rich",
+      "tier": "high"
+    },
+    {
+      "slug": "losing-money-dream",
+      "korean": "돈을 잃는 꿈",
+      "english": "Dream of losing money",
+      "tier": "medium"
+    },
+    {
+      "slug": "giving-money-dream",
+      "korean": "돈을 주는 꿈",
+      "english": "Dream of giving money",
+      "tier": "medium"
+    },
+    {
+      "slug": "money-stolen-dream",
+      "korean": "돈을 도둑맞는 꿈",
+      "english": "Dream of money being stolen",
+      "tier": "medium"
+    }
+  ],
+  "nature": [
+    {
+      "slug": "mountain-dream",
+      "korean": "산꿈",
+      "english": "Dream of a mountain",
+      "tier": "high"
+    },
+    {
+      "slug": "earthquake-dream",
+      "korean": "지진 꿈",
+      "english": "Dream of an earthquake",
+      "tier": "high"
+    },
+    {
+      "slug": "climbing-mountain-nature-dream",
+      "korean": "산을 오르는 꿈",
+      "english": "Dream of climbing a mountain",
+      "tier": "medium"
+    },
+    {
+      "slug": "mountain-top-dream",
+      "korean": "산 정상에 오르는 꿈",
+      "english": "Dream of reaching mountain top",
+      "tier": "medium"
+    },
+    {
+      "slug": "falling-from-mountain-dream",
+      "korean": "산에서 떨어지는 꿈",
+      "english": "Dream of falling from a mountain",
+      "tier": "medium"
+    },
+    {
+      "slug": "volcano-dream",
+      "korean": "화산 꿈",
+      "english": "Dream of a volcano",
+      "tier": "medium"
+    },
+    {
+      "slug": "forest-dream",
+      "korean": "숲 꿈",
+      "english": "Dream of a forest",
+      "tier": "medium"
+    },
+    {
+      "slug": "cave-dream",
+      "korean": "동굴 꿈",
+      "english": "Dream of a cave",
+      "tier": "medium"
+    },
+    {
+      "slug": "garden-dream",
+      "korean": "정원 꿈",
+      "english": "Dream of a garden",
+      "tier": "medium"
+    },
+    {
+      "slug": "cliff-dream",
+      "korean": "절벽 꿈",
+      "english": "Dream of a cliff",
+      "tier": "medium"
+    }
+  ],
+  "numbers": [
+    {
+      "slug": "seeing-lottery-numbers-dream",
+      "korean": "로또 번호가 보이는 꿈",
+      "english": "Dream of seeing lottery numbers",
+      "tier": "high"
+    },
+    {
+      "slug": "winning-lottery-dream",
+      "korean": "복권에 당첨되는 꿈",
+      "english": "Dream of winning lottery",
+      "tier": "high"
+    },
+    {
+      "slug": "numbers-dream",
+      "korean": "숫자 꿈",
+      "english": "Dream of numbers",
+      "tier": "medium"
+    },
+    {
+      "slug": "lucky-numbers-dream",
+      "korean": "행운의 숫자 꿈",
+      "english": "Dream of lucky numbers",
+      "tier": "medium"
+    },
+    {
+      "slug": "number-one-dream",
+      "korean": "숫자 1 꿈",
+      "english": "Dream of number 1",
+      "tier": "longtail"
+    },
+    {
+      "slug": "number-two-dream",
+      "korean": "숫자 2 꿈",
+      "english": "Dream of number 2",
+      "tier": "longtail"
+    },
+    {
+      "slug": "number-three-dream",
+      "korean": "숫자 3 꿈",
+      "english": "Dream of number 3",
+      "tier": "longtail"
+    },
+    {
+      "slug": "number-four-dream",
+      "korean": "숫자 4 꿈",
+      "english": "Dream of number 4",
+      "tier": "longtail"
+    },
+    {
+      "slug": "number-five-dream",
+      "korean": "숫자 5 꿈",
+      "english": "Dream of number 5",
+      "tier": "longtail"
+    },
+    {
+      "slug": "number-six-dream",
+      "korean": "숫자 6 꿈",
+      "english": "Dream of number 6",
+      "tier": "longtail"
+    }
+  ],
+  "objects": [
+    {
+      "slug": "knife-dream",
+      "korean": "칼 꿈",
+      "english": "Dream of a knife",
+      "tier": "high"
+    },
+    {
+      "slug": "sword-dream",
+      "korean": "검 꿈",
+      "english": "Dream of a sword",
+      "tier": "medium"
+    },
+    {
+      "slug": "gun-dream",
+      "korean": "총 꿈",
+      "english": "Dream of a gun",
+      "tier": "medium"
+    },
+    {
+      "slug": "mirror-dream",
+      "korean": "거울 꿈",
+      "english": "Dream of a mirror",
+      "tier": "medium"
+    },
+    {
+      "slug": "mirror-breaking-dream",
+      "korean": "거울이 깨지는 꿈",
+      "english": "Dream of a mirror breaking",
+      "tier": "medium"
+    },
+    {
+      "slug": "phone-dream",
+      "korean": "핸드폰 꿈",
+      "english": "Dream of a phone",
+      "tier": "medium"
+    },
+    {
+      "slug": "key-dream",
+      "korean": "열쇠 꿈",
+      "english": "Dream of a key",
+      "tier": "medium"
+    },
+    {
+      "slug": "door-dream",
+      "korean": "문 꿈",
+      "english": "Dream of a door",
+      "tier": "medium"
+    },
+    {
+      "slug": "book-dream",
+      "korean": "책 꿈",
+      "english": "Dream of a book",
+      "tier": "medium"
+    },
+    {
+      "slug": "clock-dream",
+      "korean": "시계 꿈",
+      "english": "Dream of a clock",
+      "tier": "medium"
+    }
+  ],
+  "people": [
+    {
+      "slug": "dead-person-dream",
+      "korean": "죽은 사람 꿈",
+      "english": "Dream of a dead person",
+      "tier": "high"
+    },
+    {
+      "slug": "deceased-parents-dream",
+      "korean": "돌아가신 부모님 꿈",
+      "english": "Dream of deceased parents",
+      "tier": "high"
+    },
+    {
+      "slug": "deceased-father-dream",
+      "korean": "돌아가신 아버지 꿈",
+      "english": "Dream of deceased father",
+      "tier": "high"
+    },
+    {
+      "slug": "deceased-mother-dream",
+      "korean": "돌아가신 어머니 꿈",
+      "english": "Dream of deceased mother",
+      "tier": "high"
+    },
+    {
+      "slug": "deceased-grandparents-dream",
+      "korean": "돌아가신 할아버지/할머니 꿈",
+      "english": "Dream of deceased grandparents",
+      "tier": "high"
+    },
+    {
+      "slug": "baby-dream",
+      "korean": "아기 꿈",
+      "english": "Dream of a baby",
+      "tier": "high"
+    },
+    {
+      "slug": "ex-lover-dream",
+      "korean": "전 연인 꿈",
+      "english": "Dream of an ex-lover",
+      "tier": "high"
+    },
+    {
+      "slug": "crush-dream",
+      "korean": "좋아하는 사람 꿈",
+      "english": "Dream of a crush",
+      "tier": "high"
+    },
+    {
+      "slug": "celebrity-dream",
+      "korean": "연예인 꿈",
+      "english": "Dream of a celebrity",
+      "tier": "high"
+    },
+    {
+      "slug": "mother-dream",
+      "korean": "어머니/엄마 꿈",
+      "english": "Dream of mother",
+      "tier": "high"
+    }
+  ],
+  "places": [
+    {
+      "slug": "house-dream",
+      "korean": "집 꿈",
+      "english": "Dream of a house",
+      "tier": "high"
+    },
+    {
+      "slug": "bathroom-dream",
+      "korean": "화장실 꿈",
+      "english": "Dream of a bathroom",
+      "tier": "high"
+    },
+    {
+      "slug": "school-dream",
+      "korean": "학교 꿈",
+      "english": "Dream of a school",
+      "tier": "high"
+    },
+    {
+      "slug": "old-house-dream",
+      "korean": "옛날 집 꿈",
+      "english": "Dream of old house",
+      "tier": "medium"
+    },
+    {
+      "slug": "new-house-dream",
+      "korean": "새 집 꿈",
+      "english": "Dream of a new house",
+      "tier": "medium"
+    },
+    {
+      "slug": "hospital-dream",
+      "korean": "병원 꿈",
+      "english": "Dream of a hospital",
+      "tier": "medium"
+    },
+    {
+      "slug": "office-dream",
+      "korean": "사무실/직장 꿈",
+      "english": "Dream of an office",
+      "tier": "medium"
+    },
+    {
+      "slug": "market-dream",
+      "korean": "시장 꿈",
+      "english": "Dream of a market",
+      "tier": "medium"
+    },
+    {
+      "slug": "elevator-dream",
+      "korean": "엘리베이터 꿈",
+      "english": "Dream of an elevator",
+      "tier": "medium"
+    },
+    {
+      "slug": "building-dream",
+      "korean": "건물 꿈",
+      "english": "Dream of a building",
+      "tier": "medium"
+    }
+  ],
+  "plants": [
+    {
+      "slug": "flowers-dream",
+      "korean": "꽃 꿈",
+      "english": "Dream of flowers",
+      "tier": "high"
+    },
+    {
+      "slug": "tree-dream",
+      "korean": "나무 꿈",
+      "english": "Dream of a tree",
+      "tier": "high"
+    },
+    {
+      "slug": "flowers-blooming-dream",
+      "korean": "꽃이 피는 꿈",
+      "english": "Dream of flowers blooming",
+      "tier": "medium"
+    },
+    {
+      "slug": "cherry-blossom-dream",
+      "korean": "벚꽃 꿈",
+      "english": "Dream of cherry blossoms",
+      "tier": "medium"
+    },
+    {
+      "slug": "rose-dream",
+      "korean": "장미 꿈",
+      "english": "Dream of roses",
+      "tier": "medium"
+    },
+    {
+      "slug": "lotus-dream",
+      "korean": "연꽃 꿈",
+      "english": "Dream of a lotus",
+      "tier": "medium"
+    },
+    {
+      "slug": "receiving-flowers-dream",
+      "korean": "꽃을 받는 꿈",
+      "english": "Dream of receiving flowers",
+      "tier": "medium"
+    },
+    {
+      "slug": "big-tree-dream",
+      "korean": "큰 나무 꿈",
+      "english": "Dream of a big tree",
+      "tier": "medium"
+    },
+    {
+      "slug": "tree-falling-dream",
+      "korean": "나무가 쓰러지는 꿈",
+      "english": "Dream of a tree falling",
+      "tier": "medium"
+    },
+    {
+      "slug": "fruit-tree-dream",
+      "korean": "열매가 열린 나무 꿈",
+      "english": "Dream of a fruit-bearing tree",
+      "tier": "medium"
+    }
+  ],
+  "pregnancy": [
+    {
+      "slug": "pregnancy-dream",
+      "korean": "임신 꿈",
+      "english": "Dream of pregnancy",
+      "tier": "high"
+    },
+    {
+      "slug": "taemong-dream",
+      "korean": "태몽",
+      "english": "Taemong (conception dream)",
+      "tier": "high"
+    },
+    {
+      "slug": "pig-taemong",
+      "korean": "돼지 태몽",
+      "english": "Pig taemong",
+      "tier": "high"
+    },
+    {
+      "slug": "dragon-taemong",
+      "korean": "용 태몽",
+      "english": "Dragon taemong",
+      "tier": "high"
+    },
+    {
+      "slug": "tiger-taemong",
+      "korean": "호랑이 태몽",
+      "english": "Tiger taemong",
+      "tier": "high"
+    },
+    {
+      "slug": "snake-taemong",
+      "korean": "뱀 태몽",
+      "english": "Snake taemong",
+      "tier": "high"
+    },
+    {
+      "slug": "fruit-taemong",
+      "korean": "과일 태몽",
+      "english": "Fruit taemong",
+      "tier": "high"
+    },
+    {
+      "slug": "peach-taemong",
+      "korean": "복숭아 태몽",
+      "english": "Peach taemong",
+      "tier": "high"
+    },
+    {
+      "slug": "sun-taemong",
+      "korean": "해 태몽",
+      "english": "Sun taemong",
+      "tier": "high"
+    },
+    {
+      "slug": "moon-taemong",
+      "korean": "달 태몽",
+      "english": "Moon taemong",
+      "tier": "high"
+    }
+  ],
+  "spirits": [
+    {
+      "slug": "ghost-dream",
+      "korean": "귀신꿈",
+      "english": "Dream of a ghost",
+      "tier": "high"
+    },
+    {
+      "slug": "chased-by-ghost-dream",
+      "korean": "귀신에게 쫓기는 꿈",
+      "english": "Dream of being chased by a ghost",
+      "tier": "high"
+    },
+    {
+      "slug": "spirit-dream",
+      "korean": "유령 꿈",
+      "english": "Dream of a spirit",
+      "tier": "medium"
+    },
+    {
+      "slug": "seeing-ghost-dream",
+      "korean": "귀신을 보는 꿈",
+      "english": "Dream of seeing a ghost",
+      "tier": "medium"
+    },
+    {
+      "slug": "female-ghost-dream",
+      "korean": "여자 귀신 꿈",
+      "english": "Dream of a female ghost",
+      "tier": "medium"
+    },
+    {
+      "slug": "haunted-house-dream",
+      "korean": "귀신이 나오는 집 꿈",
+      "english": "Dream of a haunted house",
+      "tier": "medium"
+    },
+    {
+      "slug": "god-dream",
+      "korean": "신 꿈",
+      "english": "Dream of God",
+      "tier": "medium"
+    },
+    {
+      "slug": "buddha-dream",
+      "korean": "부처님 꿈",
+      "english": "Dream of Buddha",
+      "tier": "medium"
+    },
+    {
+      "slug": "jesus-dream",
+      "korean": "예수님 꿈",
+      "english": "Dream of Jesus",
+      "tier": "medium"
+    },
+    {
+      "slug": "angel-dream",
+      "korean": "천사 꿈",
+      "english": "Dream of an angel",
+      "tier": "medium"
+    }
+  ],
+  "transportation": [
+    {
+      "slug": "car-dream",
+      "korean": "자동차 꿈",
+      "english": "Dream of a car",
+      "tier": "high"
+    },
+    {
+      "slug": "airplane-dream",
+      "korean": "비행기 꿈",
+      "english": "Dream of an airplane",
+      "tier": "high"
+    },
+    {
+      "slug": "elevator-dream",
+      "korean": "엘리베이터 꿈",
+      "english": "Dream of an elevator",
+      "tier": "high"
+    },
+    {
+      "slug": "new-car-dream",
+      "korean": "새 차 꿈",
+      "english": "Dream of a new car",
+      "tier": "medium"
+    },
+    {
+      "slug": "car-breaking-down-dream",
+      "korean": "차가 고장나는 꿈",
+      "english": "Dream of car breaking down",
+      "tier": "medium"
+    },
+    {
+      "slug": "bus-dream",
+      "korean": "버스 꿈",
+      "english": "Dream of a bus",
+      "tier": "medium"
+    },
+    {
+      "slug": "missing-bus-dream",
+      "korean": "버스를 놓치는 꿈",
+      "english": "Dream of missing the bus",
+      "tier": "medium"
+    },
+    {
+      "slug": "train-dream",
+      "korean": "기차 꿈",
+      "english": "Dream of a train",
+      "tier": "medium"
+    },
+    {
+      "slug": "subway-dream",
+      "korean": "지하철 꿈",
+      "english": "Dream of a subway",
+      "tier": "medium"
+    },
+    {
+      "slug": "airplane-crash-dream",
+      "korean": "비행기 추락 꿈",
+      "english": "Dream of airplane crash",
+      "tier": "medium"
+    }
+  ],
+  "water": [
+    {
+      "slug": "water-dream",
+      "korean": "물꿈",
+      "english": "Dream of water",
+      "tier": "high"
+    },
+    {
+      "slug": "flood-dream",
+      "korean": "홍수 꿈",
+      "english": "Dream of a flood",
+      "tier": "high"
+    },
+    {
+      "slug": "ocean-dream",
+      "korean": "바다 꿈",
+      "english": "Dream of the ocean",
+      "tier": "high"
+    },
+    {
+      "slug": "rain-dream",
+      "korean": "비 오는 꿈",
+      "english": "Dream of rain",
+      "tier": "high"
+    },
+    {
+      "slug": "falling-into-water-dream",
+      "korean": "물에 빠지는 꿈",
+      "english": "Dream of falling into water",
+      "tier": "high"
+    },
+    {
+      "slug": "drowning-dream",
+      "korean": "익사하는 꿈",
+      "english": "Dream of drowning",
+      "tier": "high"
+    },
+    {
+      "slug": "crossing-river-dream",
+      "korean": "강을 건너는 꿈",
+      "english": "Dream of crossing a river",
+      "tier": "high"
+    },
+    {
+      "slug": "riding-boat-dream",
+      "korean": "배 타는 꿈",
+      "english": "Dream of riding a boat",
+      "tier": "high"
+    },
+    {
+      "slug": "clear-water-dream",
+      "korean": "맑은 물 꿈",
+      "english": "Dream of clear water",
+      "tier": "medium"
+    },
+    {
+      "slug": "dirty-water-dream",
+      "korean": "탁한 물/더러운 물 꿈",
+      "english": "Dream of dirty water",
+      "tier": "medium"
+    }
+  ],
+  "weather": [
+    {
+      "slug": "rain-weather-dream",
+      "korean": "비 꿈",
+      "english": "Dream of rain",
+      "tier": "high"
+    },
+    {
+      "slug": "snow-dream",
+      "korean": "눈 오는 꿈",
+      "english": "Dream of snow",
+      "tier": "high"
+    },
+    {
+      "slug": "rainbow-dream",
+      "korean": "무지개 꿈",
+      "english": "Dream of a rainbow",
+      "tier": "high"
+    },
+    {
+      "slug": "heavy-rain-dream",
+      "korean": "폭우 꿈",
+      "english": "Dream of heavy rain",
+      "tier": "medium"
+    },
+    {
+      "slug": "storm-dream",
+      "korean": "폭풍 꿈",
+      "english": "Dream of a storm",
+      "tier": "medium"
+    },
+    {
+      "slug": "thunder-dream",
+      "korean": "천둥 꿈",
+      "english": "Dream of thunder",
+      "tier": "medium"
+    },
+    {
+      "slug": "lightning-weather-dream",
+      "korean": "번개 꿈",
+      "english": "Dream of lightning",
+      "tier": "medium"
+    },
+    {
+      "slug": "tornado-dream",
+      "korean": "토네이도/회오리 꿈",
+      "english": "Dream of a tornado",
+      "tier": "medium"
+    },
+    {
+      "slug": "typhoon-dream",
+      "korean": "태풍 꿈",
+      "english": "Dream of a typhoon",
+      "tier": "medium"
+    },
+    {
+      "slug": "fog-dream",
+      "korean": "안개 꿈",
+      "english": "Dream of fog",
+      "tier": "medium"
+    }
+  ]
+}

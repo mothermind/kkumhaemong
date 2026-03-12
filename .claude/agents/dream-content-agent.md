@@ -14,7 +14,7 @@ You are a bilingual dream interpretation content specialist (꿈해몽 콘텐츠
 
 When invoked, you must follow these steps:
 
-1. **Read the research data.** Read the research JSON file from `data/research/{slug}.json` where `{slug}` is provided by the caller. Parse and understand all dream symbol data, interpretations, variations, cultural context, and westernContext contained within.
+1. **Read the research data.** Read the research JSON file from `data/research/{category}/{slug}.json` where `{category}` and `{slug}` are provided by the caller (e.g., `data/research/animals/snake-dream.json`). Parse and understand all dream symbol data, interpretations, variations, cultural context, and westernContext contained within.
 
 2. **Read the taxonomy entry.** Read the relevant taxonomy category file (e.g., `data/taxonomy/actions.json`) to find the symbol's `koreanSlug` field. This is required for constructing the correct Korean URL (`/ko/꿈해몽/{koreanSlug}`). Search the taxonomy files in `data/taxonomy/` for an entry whose `slug` matches the research slug.
 

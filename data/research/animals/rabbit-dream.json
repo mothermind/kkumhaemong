@@ -1,0 +1,224 @@
+{
+  "symbol": {
+    "korean": "토끼",
+    "english": "Rabbit",
+    "slug": "rabbit-dream"
+  },
+  "summary": {
+    "korean": "토끼 꿈은 전통적으로 다산, 재물운, 행운을 상징하며, 특히 딸을 낳을 태몽으로 해석되기도 합니다.",
+    "english": "Dreaming of a rabbit traditionally symbolizes fertility, wealth, and good fortune in Korean dream interpretation, and is often considered a pregnancy omen for a daughter."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "토끼 꿈은 전반적으로 풍요와 재물운을 상징하는 길몽입니다. 특히 여러 마리의 토끼가 나타나거나 토끼가 하늘로 올라가는 꿈은 금전운과 가정의 경사를 암시하며, 토끼가 집 안으로 들어오는 꿈은 행운과 기쁜 소식의 도래를 의미합니다.",
+      "english": "Rabbit dreams are generally considered auspicious, symbolizing abundance and financial fortune. Dreams of multiple rabbits or rabbits ascending to the sky foretell financial gains and family blessings, while a rabbit entering the home signals incoming luck and good news.",
+      "context": "When the rabbit appears healthy, white or golden, is multiplying, or is entering the home — all indicating positive incoming fortune."
+    },
+    {
+      "type": "길몽",
+      "korean": "토끼 꿈은 딸아이를 잉태할 태몽으로 해석되는 경우가 많습니다. 특히 흰 토끼가 집 안으로 들어오거나 가족이 새끼 토끼를 안고 들어오는 꿈은 귀여운 딸의 탄생을 예고하며 가정에 행복한 소식이 찾아올 것을 암시합니다.",
+      "english": "Rabbit dreams are frequently interpreted as pregnancy omens (태몽) foretelling the birth of a daughter. A white rabbit entering the home or a family member carrying baby rabbits specifically signals the coming of a sweet, affectionate daughter and household blessings.",
+      "context": "For married couples or those hoping to conceive — especially when a white rabbit enters the home or baby rabbits appear in the dream."
+    },
+    {
+      "type": "흉몽",
+      "korean": "검은 토끼가 나타나거나 기르던 토끼가 도망가는 꿈은 흉몽으로 해석됩니다. 고양이나 늑대에게 토끼를 빼앗기는 꿈은 도난이나 재물 손실을 암시하며, 토끼가 죽거나 달아나는 꿈은 재직 불안이나 실직 가능성을 경고합니다.",
+      "english": "Dreams of black rabbits or pet rabbits escaping are considered inauspicious. Being robbed of a rabbit by a cat or wolf suggests theft or financial loss, while a rabbit dying or fleeing warns of job instability or potential dismissal.",
+      "context": "When the rabbit is black, dying, being taken by a predator, or escaping confinement — all signaling loss or misfortune."
+    },
+    {
+      "type": "흉몽",
+      "korean": "토끼가 덤불이나 바위 틈에 숨는 꿈은 목표가 불분명한 상태에서 방향을 잃었음을 경고합니다. 토끼가 우리에서 탈출하는 꿈은 현재의 상황에서 구속감을 느끼지만 탈출할 용기를 내지 못하는 심리를 반영하며, 직장이나 인간 관계에서의 갈등을 예고하기도 합니다.",
+      "english": "A rabbit hiding in rocks or underbrush warns of a lack of clear direction and losing one's way. Rabbits escaping from a cage reflects feeling constrained in life without the courage to break free, and may foretell conflict in work or relationships.",
+      "context": "When the rabbit hides, retreats, or escapes against the dreamer's will — reflecting internal conflict or external obstacles."
+    },
+    {
+      "type": "neutral",
+      "korean": "토끼가 달에서 떡방아를 찧는 꿈은 낭만적인 만남이나 혼담을 상징합니다. 미혼자에게는 좋은 인연과의 만남을, 기혼자에게는 귀인의 등장이나 가정의 화목을 의미합니다. 전통적인 달토끼 설화와 연관된 이 꿈은 한국 고유의 문화적 상상력을 반영합니다.",
+      "english": "Dreaming of a rabbit pounding rice cakes on the moon symbolizes romantic encounters or marriage prospects. For single people it foretells meeting a meaningful partner, while for married dreamers it suggests the arrival of a helpful benefactor or increased domestic harmony. This dream draws on Korea's traditional moon-rabbit (달토끼) folklore.",
+      "context": "Context-dependent: the key interpretation shifts based on the dreamer's relationship status — romantic for singles, auspicious benefactor for those already partnered."
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "흰 토끼 꿈",
+      "keyword_en": "white rabbit dream",
+      "interpretation_ko": "흰 토끼 꿈은 맑고 좋은 기운의 도래를 의미하는 길몽입니다. 손님이나 친인척의 방문, 또는 귀여운 딸아이를 낳을 태몽으로 해석되며, 진실과 순수함을 상징합니다.",
+      "interpretation_en": "A white rabbit dream is auspicious, signaling the arrival of pure, positive energy. It may foretell a family visit, the birth of a daughter, or an encounter with a sincere and trustworthy person. White symbolizes truth and purity in Korean folk tradition."
+    },
+    {
+      "keyword_ko": "검은 토끼 꿈",
+      "keyword_en": "black rabbit dream",
+      "interpretation_ko": "검은 토끼 꿈은 흉몽으로 해석됩니다. 질병, 슬픔, 불행한 소식의 도래를 암시하며, 불운이 생길 조짐이 있으니 건강과 재물에 각별히 주의해야 합니다.",
+      "interpretation_en": "A black rabbit dream is considered inauspicious, suggesting impending illness, sorrow, or unwelcome news. It serves as a warning to be cautious about health and financial matters in the coming period."
+    },
+    {
+      "keyword_ko": "황금 토끼 꿈 (누런 토끼 꿈)",
+      "keyword_en": "golden rabbit dream",
+      "interpretation_ko": "누런색 또는 황금빛 토끼가 나오는 꿈은 금전적인 이익과 뜻밖의 행운이 찾아올 것을 예고하는 길몽입니다. 재물운이 크게 상승할 징조로, 사업이나 투자에 좋은 결과가 기대됩니다.",
+      "interpretation_en": "A golden or yellow rabbit dream is a strong auspicious omen foretelling unexpected financial gains and wealth. It signals a significant upturn in financial fortune, with positive outcomes expected in business or investment endeavors."
+    },
+    {
+      "keyword_ko": "토끼가 집에 들어오는 꿈",
+      "keyword_en": "rabbit entering the home dream",
+      "interpretation_ko": "토끼가 집 안으로 들어오는 꿈은 행운과 기쁜 소식의 도래를 상징하는 길몽입니다. 가정에 경사가 일어나고 걱정이 해소될 것을 예고하며, 임산부에게는 귀여운 딸을 낳을 태몽이 될 수 있습니다.",
+      "interpretation_en": "A rabbit entering your home is an auspicious dream signaling incoming luck and joyful news. It foretells family blessings and the resolution of worries. For expectant mothers, this dream may be a pregnancy omen predicting the birth of a daughter."
+    },
+    {
+      "keyword_ko": "토끼를 잡는 꿈",
+      "keyword_en": "catching a rabbit dream",
+      "interpretation_ko": "산에서 산토끼를 잡는 꿈은 새로운 사업에 투자하여 좋은 성과를 거두는 길몽입니다. 뜻밖의 재물 획득이나 분실물 회수를 암시하기도 합니다. 단, 억지로 토끼를 잡으려 하는 상황이라면 일이 뜻대로 풀리지 않을 수 있음을 경고하기도 합니다.",
+      "interpretation_en": "Catching a wild rabbit in the mountains is auspicious, foretelling success in new business ventures and unexpected financial gains. It may also suggest recovering lost items or money. However, if the dream involves struggling unsuccessfully to catch the rabbit, it can warn of plans not going as hoped."
+    },
+    {
+      "keyword_ko": "토끼가 도망가는 꿈",
+      "keyword_en": "rabbit running away dream",
+      "interpretation_ko": "토끼가 도망가는 꿈은 뜻하지 않은 횡재를 암시하는 길몽으로 해석되기도 합니다. 현재의 어려운 상황이 해소되고 좋은 결과를 맞이할 것을 예고합니다. 다만 기르던 토끼가 도망치는 꿈은 재물 손실이나 실직을 경고하는 흉몽입니다.",
+      "interpretation_en": "A rabbit running away can paradoxically be auspicious, hinting at an unexpected windfall and the resolution of current difficulties. However, if it is a pet rabbit escaping its enclosure, the dream warns of financial loss or job instability."
+    },
+    {
+      "keyword_ko": "새끼 토끼 꿈",
+      "keyword_en": "baby rabbit dream",
+      "interpretation_ko": "새끼 토끼가 나오는 꿈은 공들여 온 일이나 계획이 배가 되어 돌아오는 길몽입니다. 가족이 아기 토끼를 안고 집에 들어오면 좋은 일이 생기고 예쁜 딸의 탄생을 예고하는 태몽으로 해석됩니다.",
+      "interpretation_en": "Baby rabbits in a dream signal that investments of time and effort will multiply and return as greater rewards. A family member bringing baby rabbits into the home is a strong pregnancy omen (태몽) foretelling the birth of a beloved daughter."
+    },
+    {
+      "keyword_ko": "토끼가 새끼를 낳는 꿈",
+      "keyword_en": "rabbit giving birth dream",
+      "interpretation_ko": "토끼가 새끼를 낳는 꿈은 추진 중이던 사업이나 프로젝트에서 큰 성과를 거두고 경제적 이익을 얻게 될 것을 알리는 강력한 길몽입니다. 창조적인 작업이 빛을 발하거나 생산적인 일에서 횡재수가 찾아올 수 있습니다.",
+      "interpretation_en": "A rabbit giving birth is a powerful auspicious dream foretelling major breakthroughs in ongoing business or creative projects. Significant financial gains, a creative breakthrough, or unexpected prosperity are indicated."
+    },
+    {
+      "keyword_ko": "토끼가 달에서 방아 찧는 꿈",
+      "keyword_en": "rabbit pounding rice cakes on the moon dream",
+      "interpretation_ko": "달에서 토끼가 방아를 찧는 전통적 달토끼 이미지가 꿈에 나타나면 혼담이 오가거나 마음에 드는 이성을 만날 징조입니다. 미혼자에게는 좋은 인연의 만남을, 기혼자에게는 귀인의 도움을 의미합니다.",
+      "interpretation_en": "The traditional image of the moon rabbit pounding rice cakes appearing in a dream foretells romantic prospects or a fortuitous meeting. For single dreamers it signals an upcoming meaningful relationship; for those already partnered, it suggests the timely help of a benefactor."
+    },
+    {
+      "keyword_ko": "죽은 토끼 꿈",
+      "keyword_en": "dead rabbit dream",
+      "interpretation_ko": "죽은 토끼가 꿈에 나타나면 일반적으로 흉몽으로 재물 손실, 사업 파트너의 이탈, 또는 인간 관계의 단절을 경고합니다. 단, 죽은 토끼가 다시 살아나는 꿈이라면 어려움을 극복하고 좋은 결과를 얻을 것을 암시하는 역전의 길몽으로 해석됩니다.",
+      "interpretation_en": "A dead rabbit dream is generally inauspicious, warning of financial loss, the departure of a business partner, or the severing of a relationship. However, if the dead rabbit comes back to life, it transforms into an auspicious dream signaling triumph over adversity."
+    },
+    {
+      "keyword_ko": "여러 마리 토끼 꿈",
+      "keyword_en": "many rabbits dream",
+      "interpretation_ko": "여러 마리의 토끼가 등장하는 꿈은 엄청난 길몽으로, 금전운과 가정의 경사가 가득할 징조입니다. 특히 토끼들이 하늘로 올라가는 꿈은 사업 번창과 재물의 축적을 예고합니다. 풀밭에서 토끼들이 평화롭게 풀을 뜯는 꿈은 가정과 직장 모두 안정적임을 의미합니다.",
+      "interpretation_en": "Dreaming of many rabbits together is a highly auspicious omen, signaling abundant financial luck and family blessings. Rabbits ascending to the sky specifically foretells thriving business and accumulating wealth, while rabbits grazing peacefully on a field indicates stability at home and at work."
+    },
+    {
+      "keyword_ko": "토끼를 안는 꿈",
+      "keyword_en": "holding a rabbit dream",
+      "interpretation_ko": "토끼를 안는 꿈은 뜻밖의 재물 획득과 물질적 풍요를 예고하는 길몽입니다. 재물운과 연애운이 동시에 상승하며, 정신적으로도 여유롭고 맑은 기운이 찾아오는 시기임을 알립니다.",
+      "interpretation_en": "Holding a rabbit in a dream is auspicious, foretelling unexpected gains and material abundance. Both financial fortune and romantic luck are set to improve, and the dreamer can expect a period of mental clarity and peaceful well-being."
+    },
+    {
+      "keyword_ko": "토끼에게 물리는 꿈",
+      "keyword_en": "bitten by a rabbit dream",
+      "interpretation_ko": "토끼에게 손이 물려 피가 나는 꿈은 뜻밖의 횡재와 재물이 생기고, 막혀 있던 일들이 서서히 풀리기 시작할 것을 알리는 길몽입니다.",
+      "interpretation_en": "Being bitten by a rabbit with resulting blood is considered auspicious in Korean dream interpretation, signaling an unexpected windfall and the gradual resolution of stalled plans and difficulties."
+    }
+  ],
+  "culturalContext": {
+    "korean": "한국 전통 문화에서 토끼는 달의 동물로서 특별한 위치를 차지해 왔습니다. 한중일 동아시아 문화권 공통의 '달토끼(옥토끼)' 설화에 따르면, 달에는 토끼가 살며 계수나무 아래에서 떡방아를 찧는다고 전해집니다. 이 이미지는 1924년 윤극영의 동요 '반달'에도 등장하며 한국인의 정서 깊이 자리 잡혀 있습니다. 우리 조상들은 토끼의 큰 귀를 장수의 상징으로, 강한 뒷다리를 벽사(辟邪)의 힘으로, 갈라진 윗입술을 다산과 풍요의 표식으로 해석했습니다. 이에 따라 토끼는 '장생불사(長生不死)', '벽사(辟邪)', '다산(多産)'이라는 세 가지 핵심 상징을 갖게 되었습니다. 또한 한국의 전래 민담에서 토끼는 자라를 속이고 용궁에서 탈출하는 '토끼전'의 주인공처럼 지혜롭고 영리한 동물로 묘사되며, 약자가 꾀로 강자를 이기는 서민의 이상을 대변합니다. 꿈해몽에서 토끼는 이러한 다산과 행운의 상징성을 바탕으로 재물운, 태몽(특히 딸), 귀인의 만남 등 주로 길한 의미로 해석됩니다.",
+    "english": "In Korean traditional culture, the rabbit holds a special place as the animal of the moon. The East Asian folklore tradition shared across Korea, China, and Japan holds that a rabbit lives on the moon, pounding rice cakes beneath the cinnamon tree (계수나무). This imagery appears in the beloved 1924 Korean children's song 'Bandal' (Half Moon) and is deeply embedded in Korean cultural consciousness. Korean ancestors read symbolic meaning into the rabbit's physical features: its large ears signified longevity, its powerful hind legs the power to ward off evil spirits (벽사), and its distinctive cleft upper lip the fertile, generative abundance of motherhood (다산). These associations gave the rabbit three core symbolic pillars: longevity, protection from evil, and abundant offspring — all highly prized values in agrarian society. In Korean folk tales, the clever rabbit of 'Tokkijeon' outwits the sea dragon's servant and escapes from the underwater palace, casting the rabbit as a trickster-hero who represents common people triumphing through wit over brute power. In dream interpretation, all these positive associations translate into wealth fortune, pregnancy omens (especially for daughters), and auspicious encounters with benefactors."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트의 정신분석학적 관점에서 토끼는 성적 충동과 번식 본능을 상징해요. 토끼의 왕성한 번식력은 억압된 리비도나 생식에 대한 무의식적 욕구를 반영하는 것으로 해석될 수 있어요. 꿈속에서 새끼 토끼가 태어나는 장면은 친밀한 관계의 시작이나 감각적 쾌락에 대한 소망 충족을 나타내며, 토끼를 쫓거나 잡으려는 행위는 욕망을 통제하거나 성취하려는 내면의 갈등을 드러낼 수 있어요.",
+      "english": "From a Freudian perspective, the rabbit symbolizes sexual drives and reproductive instincts. The rabbit's prolific breeding capacity is interpreted as a projection of repressed libidinal energy or unconscious desires around procreation. Baby rabbits being born in a dream may represent wish-fulfillment around intimacy or sensual pleasure, while chasing or trying to catch a rabbit can reveal an internal conflict between desire and control."
+    },
+    "jungian": {
+      "korean": "융의 분석심리학에서 토끼는 여러 원형적 역할을 수행해요. 토끼는 아니마(남성 심리 속의 여성적 원리)와 연결되어 직관, 감수성, 생명력의 상징으로 등장하기도 해요. 또한 '이상한 나라의 앨리스'의 흰 토끼처럼 무의식의 안내자(사이코폼프) 역할을 하며, 꿈꾸는 이를 내면 탐험으로 이끌기도 해요. 트릭스터 원형으로서의 토끼는 기존 질서에 도전하는 장난기와 창의적 파괴력을 상징하며, 꿈에서 이 원형이 활성화된다면 삶의 변화와 심리적 성장의 기회를 나타내요.",
+      "english": "In Jungian analytical psychology, the rabbit fulfills several archetypal roles. As a symbol connected to the anima — the feminine principle within the male psyche — it represents intuition, sensitivity, and life energy. Like the White Rabbit in Alice in Wonderland, the rabbit can serve as a psychopomp or guide leading the dreamer into the unfamiliar territory of the unconscious for inner exploration. As a Trickster archetype, the rabbit challenges established norms with clever disruption, suggesting that when this archetype appears in dreams, it signals an opportunity for psychological transformation and growth."
+    },
+    "modern": {
+      "korean": "현대 서양 심리학에서는 토끼 꿈을 꿈꾸는 사람의 감정 상태와 취약성을 반영하는 것으로 해석해요. 토끼가 포식자를 피하는 꿈은 현실에서 느끼는 불안감이나 위협에 대한 두려움을 처리하는 과정일 수 있어요. 반면 토끼가 번성하거나 새끼를 낳는 꿈은 창의성, 풍요로움, 혹은 새로운 시작에 대한 기대감과 연관될 수 있으며, 삶의 전환기에 자주 나타나는 상징으로 알려져 있어요.",
+      "english": "In modern Western psychology, rabbit dreams are interpreted as reflections of the dreamer's emotional state and sense of vulnerability. Dreams of a rabbit fleeing a predator may represent the mind's way of processing real-life anxiety, fear of threat, or avoidance behaviors. Conversely, dreams of thriving or breeding rabbits are associated with creativity, abundance, and anticipation of new beginnings — a symbol commonly seen during life transitions."
+    },
+    "crossCultural": {
+      "korean": "한국 전통 해몽이 토끼를 주로 다산과 재물의 길한 상징으로 보는 반면, 서양 심리학은 토끼의 취약성과 도피 본능에 주목하여 불안이나 내면 갈등의 투영으로 해석하는 경향이 있어요. 그러나 풍요와 행운이라는 긍정적 상징에 있어서는 동서양이 공통적으로 교차하는 지점이 있답니다.",
+      "english": "While Korean folk tradition views the rabbit primarily as an auspicious symbol of fertility and wealth, Western psychology tends to focus on the rabbit's vulnerability and flight instinct, interpreting it as a projection of anxiety or inner conflict. However, both traditions converge on the rabbit's positive associations with abundance, new life, and good fortune."
+    }
+  },
+  "relatedSymbols": [
+    "moon",
+    "deer",
+    "squirrel",
+    "cat",
+    "fox",
+    "pregnancy",
+    "child",
+    "mountain"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "토끼꿈",
+      "토끼 꿈해몽",
+      "토끼꿈 의미",
+      "토끼꿈 길몽",
+      "토끼꿈 태몽",
+      "흰토끼 꿈",
+      "검은토끼 꿈",
+      "토끼 나오는 꿈",
+      "토끼 집에 들어오는 꿈",
+      "토끼 잡는 꿈 해몽",
+      "토끼 새끼낳는 꿈",
+      "달토끼 꿈 해몽",
+      "토끼꿈 로또",
+      "토끼 꿈 풀이",
+      "새끼토끼 꿈"
+    ],
+    "english": [
+      "rabbit dream meaning",
+      "dreaming of a rabbit Korean interpretation",
+      "white rabbit dream meaning",
+      "black rabbit dream",
+      "rabbit dream pregnancy omen",
+      "rabbit entering house dream",
+      "catching rabbit dream meaning",
+      "baby rabbit dream interpretation",
+      "rabbit dream good luck",
+      "moon rabbit dream Korean"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "토끼 꿈은 길몽인가요, 흉몽인가요?",
+      "answer_ko": "대체로 토끼 꿈은 길몽으로 여겨집니다. 토끼는 한국 전통에서 다산, 재물운, 행운을 상징하는 동물이기 때문입니다. 단, 검은 토끼가 나타나거나 기르던 토끼가 도망가는 꿈, 토끼가 죽는 꿈은 흉몽으로 해석될 수 있으므로 꿈의 상황과 색상을 함께 살펴보는 것이 중요합니다.",
+      "question_en": "Is dreaming about a rabbit a good or bad omen in Korean interpretation?",
+      "answer_en": "Rabbit dreams are generally considered auspicious in Korean tradition, as the rabbit symbolizes fertility, financial luck, and good fortune. However, black rabbits, pet rabbits escaping, or dead rabbits can indicate inauspicious outcomes. The specific context and color of the rabbit in the dream are important factors to consider."
+    },
+    {
+      "question_ko": "토끼 꿈은 태몽인가요?",
+      "answer_ko": "네, 토끼 꿈은 딸아이를 잉태하는 태몽으로 해석되는 경우가 많습니다. 특히 흰 토끼가 집 안으로 들어오거나 가족이 새끼 토끼를 안고 들어오는 꿈은 귀여운 딸의 탄생을 예고하는 태몽으로 알려져 있습니다. 임신 중이거나 임신을 희망하는 경우 토끼 꿈은 특히 좋은 징조로 받아들여집니다.",
+      "question_en": "Is a rabbit dream a pregnancy omen (태몽)?",
+      "answer_en": "Yes, rabbit dreams are frequently interpreted as pregnancy omens (태몽) in Korean tradition, particularly foretelling the birth of a daughter. A white rabbit entering the home or a family member carrying baby rabbits is among the most recognized omens for conceiving a sweet, affectionate daughter. If you are pregnant or hoping to conceive, a rabbit dream is considered a very favorable sign."
+    },
+    {
+      "question_ko": "흰 토끼 꿈과 검은 토끼 꿈의 차이는 무엇인가요?",
+      "answer_ko": "흰 토끼 꿈은 맑은 기운과 행운, 진실을 상징하는 길몽으로, 딸아이의 태몽이나 친인척의 방문을 예고합니다. 반면 검은 토끼 꿈은 질병, 슬픔, 불행한 소식을 암시하는 흉몽으로 해석되므로 건강과 재물에 주의가 필요합니다.",
+      "question_en": "What is the difference between a white rabbit dream and a black rabbit dream?",
+      "answer_en": "A white rabbit dream is auspicious, symbolizing pure positive energy, luck, and truth — often a pregnancy omen for a daughter or a sign of a welcome family visit. A black rabbit dream, by contrast, is inauspicious, suggesting illness, sorrow, or unwelcome news, and calls for extra caution regarding health and finances."
+    },
+    {
+      "question_ko": "토끼 꿈을 꾸면 로또를 사도 될까요?",
+      "answer_ko": "한국 민간 신앙에서 토끼 꿈은 재물운과 횡재를 암시하는 길몽으로 알려져 있어, 특히 여러 마리의 토끼가 나타나거나 황금빛 토끼가 등장하는 꿈은 재물의 유입을 예고하는 꿈으로 볼 수 있습니다. 로또 구매 여부는 개인의 선택이지만, 이러한 꿈 후에 재물운이 상승할 수 있다는 믿음이 있습니다.",
+      "question_en": "Should I buy a lottery ticket after dreaming about a rabbit?",
+      "answer_en": "In Korean folk belief, rabbit dreams are associated with incoming wealth and unexpected windfalls — particularly dreams featuring multiple rabbits or a golden rabbit. Whether to purchase a lottery ticket is a personal decision, but many Koreans view such dreams as a signal of heightened financial luck worth acting on."
+    },
+    {
+      "question_ko": "달에서 방아 찧는 토끼 꿈은 무슨 의미인가요?",
+      "answer_ko": "달에서 토끼가 떡방아를 찧는 꿈은 한국 전통 달토끼 설화에서 비롯된 상징으로, 혼담이 오거나 마음에 드는 이성을 만나게 될 것을 예고합니다. 미혼자에게는 좋은 인연의 만남을, 기혼자에게는 귀인의 도움이나 가정의 화목을 의미하는 길몽입니다.",
+      "question_en": "What does it mean to dream of a rabbit pounding rice cakes on the moon?",
+      "answer_en": "This dream draws on Korea's beloved moon-rabbit (달토끼) folklore. It is an auspicious dream signaling romantic prospects for single dreamers — a meaningful relationship is on the horizon. For those already in a relationship or married, it foretells the timely assistance of a helpful benefactor and increased domestic harmony."
+    },
+    {
+      "question_ko": "토끼가 집에 들어오는 꿈은 무엇을 의미하나요?",
+      "answer_ko": "토끼가 집 안으로 들어오는 꿈은 행운, 기쁜 소식, 그리고 가정의 경사를 예고하는 길몽입니다. 잠깐의 걱정이 있더라도 결국 좋은 방향으로 해소될 것임을 의미합니다. 특히 흰 토끼가 들어오는 꿈은 딸아이를 낳을 태몽으로 해석되기도 합니다.",
+      "question_en": "What does it mean when a rabbit enters your house in a dream?",
+      "answer_en": "A rabbit entering your home in a dream is auspicious, foretelling good fortune, happy news, and family blessings. Even if temporary worries arise, the dream promises they will ultimately resolve favorably. If the rabbit is white, this dream is especially recognized as a pregnancy omen for the birth of a daughter."
+    }
+  ]
+}

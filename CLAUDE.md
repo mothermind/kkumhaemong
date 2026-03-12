@@ -346,10 +346,28 @@ All hooks are minimal — logging + security only, no TTS, no external API calls
 
 ---
 
+## Current State (last updated: session end)
+
+### Content Pipeline Progress
+- **actions.json: 161 / 161 complete** ✅ — all action dream symbols have content + images
+- Content files live in `data/content/actions/` (category subfolder, not flat)
+- `src/lib/content.ts` supports subdirectory scanning (one level deep: `data/content/{category}/{slug}.json`)
+- **Next category to process**: `animals.json` (234 symbols, highest traffic) — needs research first
+- Other categories pending: body (201), people (185), pregnancy (89), money (74), food (76), death (73), objects (78), places (75), nature (63), water (68), disasters (52), emotions (52), fire (52), marriage (48), celestial (48), transportation (48), clothing (41), colors (41), insects (41), numbers (41), weather (40), spirits (39), plants (39)
+- **Total remaining**: ~1,779 articles across 24 categories
+
+### Pipeline to run next articles
+1. Run `dream-research-agent` for symbols in next category (batch 6 in parallel)
+2. Run `dream-content-agent` for each researched symbol (reads research → generates content + images)
+3. Content agent also calls Imagen 4 (`imagen-4.0-generate-001`) via Google Generative Language API
+4. `source ~/.zshrc` required in bash for GOOGLE_API_KEY
+
+---
+
 ## Open Decisions
 
 - [x] ~~Domain name~~ → **kkumhaemong.com** purchased ✅
-- [ ] **Image storage migration to Cloudflare R2** — `public/images/dreams/` is already 795 MB (161 articles × ~5 MB) and tracked in git. Git object store is 809 MB. Must migrate before pushing to GitHub or deploying. Plan: upload images to R2, update image URLs in content JSON from `/images/dreams/{slug}/...` to `https://<r2-domain>/images/dreams/{slug}/...`, add `public/images/dreams/` to `.gitignore`.
+- [ ] **URGENT — Image storage migration to Cloudflare R2**: `public/images/dreams/` is 795 MB tracked in git. Git object store is 809 MB. Cannot push to GitHub or deploy to Cloudflare Workers as-is (Workers bundle limit ~25 MB). Plan: upload images to R2, update image URLs in content JSONs from `/images/dreams/{slug}/...` to `https://<r2-domain>/images/dreams/{slug}/...`, add `public/images/dreams/` to `.gitignore`.
 - [ ] Image generation provider: DALL-E 3 vs Replicate/SD
 - [x] ~~Homepage redesign~~ → Hero image + searchbar + category chips + popular dreams list ✅
 - [x] ~~Explorer UI~~ → `/explore` category grid + `/explore/[category]` with subcategory filter pills ✅

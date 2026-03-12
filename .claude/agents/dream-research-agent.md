@@ -67,7 +67,7 @@ When invoked, you will receive a dream symbol entry containing a Korean name, En
    - Korean: "뱀 꿈은 전통적으로 재물운, 횡재, 또는 숨겨진 위협을 상징합니다."
    - English: "Dreaming of a snake traditionally symbolizes wealth, unexpected fortune, or hidden threats in Korean dream interpretation."
 
-10. **Assemble and write the JSON output.** Structure all collected data into the schema defined below and write it to `data/research/{slug}.json` using an absolute path based on the project root.
+10. **Assemble and write the JSON output.** Structure all collected data into the schema defined below and write it to `data/research/{category}/{slug}.json` using an absolute path based on the project root. The `{category}` comes from the symbol entry (e.g., `actions`, `animals`, `body`). The Write tool will create the subdirectory if it does not exist.
 
 **Best Practices:**
 
@@ -77,11 +77,11 @@ When invoked, you will receive a dream symbol entry containing a Korean name, En
 - Prioritize high-quality Korean sources: Naver encyclopedia (지식백과), established 꿈해몽 reference sites, and well-cited Naver blog posts.
 - For SEO keywords, think like a real user searching in Korean on Naver vs. in English on Google. Korean users tend to use shorter, more compressed queries (e.g., "뱀꿈" rather than "뱀이 나오는 꿈의 의미").
 - Always use absolute file paths when writing output files.
-- If the `data/research/` directory does not exist, create the file anyway (Write tool will create intermediate directories).
+- The Write tool creates intermediate directories automatically — no need to create `data/research/{category}/` manually.
 
 ## Output JSON Schema
 
-The output file at `data/research/{slug}.json` must conform to this structure:
+The output file at `data/research/{category}/{slug}.json` must conform to this structure:
 
 ```json
 {

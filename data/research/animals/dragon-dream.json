@@ -1,0 +1,244 @@
+{
+  "symbol": {
+    "korean": "용",
+    "english": "Dragon",
+    "slug": "dragon-dream"
+  },
+  "summary": {
+    "korean": "용 꿈은 한국 전통에서 최고의 길몽 중 하나로, 출세·재물·권세·태몽을 상징하며 꿈의 상황에 따라 인생의 대전환점을 예고합니다.",
+    "english": "Dreaming of a dragon is one of the most auspicious omens in Korean tradition, symbolizing success, wealth, power, and — in pregnancy dreams — the birth of a great child, though the specific context determines its ultimate meaning."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "용이 하늘로 승천하는 꿈은 한국 꿈해몽에서 가장 강력한 길몽 중 하나입니다. 용의 승천은 입신양명, 합격, 승진, 사업 대성공 등 삶의 큰 도약을 상징합니다. '개천에서 용 났다'는 속담처럼, 평범한 환경에서 크게 출세하거나 주위의 도움으로 어려운 처지를 벗어나게 될 것을 예고합니다.",
+      "english": "A dragon ascending to the heavens is one of the most powerful auspicious dreams in Korean tradition. The ascension symbolizes a major leap forward in life — exam success, promotion, business triumph, or rising to prominence from humble beginnings. The Korean saying '개천에서 용 났다' (a dragon rose from a stream) captures this theme perfectly: unexpected greatness arising from ordinary circumstances.",
+      "context": "용이 힘차게 승천하거나 구름 속으로 사라지는 장면을 볼 때. 특히 수험생, 취업 준비생, 사업가에게 강한 길조."
+    },
+    {
+      "type": "길몽",
+      "korean": "용이 집 안으로 들어오는 꿈은 재물과 귀인이 찾아올 징조입니다. 경제적 여유가 생기고, 가문에 큰 영광이 깃들며, 귀한 인연이 맺어질 것을 암시합니다. 특히 임신 중인 여성이 이 꿈을 꾸면 훌륭한 인물이 될 아이를 잉태한 태몽으로 해석됩니다.",
+      "english": "A dragon entering one's home signals the arrival of wealth and influential people in your life. Financial abundance, family honor, and precious relationships are all indicated. For a pregnant woman, this is a powerful pregnancy dream (태몽), foretelling that the child will grow into a person of great stature.",
+      "context": "용이 문을 통해 집 안으로 들어오거나 방 안에 나타나는 경우. 임신부의 경우 태몽으로 해석."
+    },
+    {
+      "type": "길몽",
+      "korean": "용을 타고 하늘을 나는 꿈은 주도권을 쥐고 원하는 바를 이루는 시기가 왔음을 뜻합니다. 시험 합격, 직장 내 승진, 사업 번창의 강한 길조이며, 리더십과 통솔력이 빛을 발하는 시기가 됩니다.",
+      "english": "Riding a dragon through the sky indicates that you are seizing control of your destiny. This dream strongly foretells exam success, career advancement, or business prosperity. A period of leadership and personal command is approaching.",
+      "context": "꿈속에서 용의 등에 올라타 자유롭게 하늘을 비행할 때."
+    },
+    {
+      "type": "길몽",
+      "korean": "꿈에서 용이 포효하거나 하늘에서 크게 울부짖는 소리를 들으면, 사방에 이름을 떨치고 많은 사람의 존경을 받게 될 대성공의 전조입니다. 사업가라면 큰 계약이 성사되고, 예술가나 학자라면 명성을 얻을 것을 예고합니다.",
+      "english": "Hearing a dragon's powerful roar echoing from the heavens foretells widespread recognition and respect. For business people, a major deal or partnership is coming; for artists, scholars, or public figures, lasting fame and esteem await.",
+      "context": "용이 직접 보이지 않더라도 그 울음소리나 포효를 들을 때."
+    },
+    {
+      "type": "흉몽",
+      "korean": "승천하던 용이 다시 땅으로 떨어지는 꿈은 현재 쌓아 올린 명예나 지위가 실추될 위험을 경고합니다. 높은 곳에서 추락하는 이미지처럼, 직책의 박탈, 사업 실패, 혹은 대중의 신뢰를 잃는 상황을 암시할 수 있습니다.",
+      "english": "A dragon that begins to ascend but then falls back to earth warns of a potential loss of status, authority, or reputation. Like the image of a fall from height, this dream can signal demotion, business failure, or a public loss of trust in waking life.",
+      "context": "용이 하늘로 오르다가 갑자기 추락하거나 땅에 떨어지는 장면."
+    },
+    {
+      "type": "흉몽",
+      "korean": "용이 죽어있거나 죽는 꿈은 계획하던 일이 좌절되거나 기회를 놓칠 수 있음을 경고합니다. 취업 불합격, 사업 실패, 또는 기존에 믿었던 협력 관계가 깨질 수 있는 흉조입니다. 새로운 전략을 세울 것을 촉구하는 신호로 읽어야 합니다.",
+      "english": "Seeing a dead dragon or watching a dragon die warns that current plans may collapse or a golden opportunity may be lost. Job rejection, business failure, or the breakdown of a trusted partnership are possible. This dream calls for a strategic reassessment rather than staying on the current course.",
+      "context": "용이 이미 죽어 있거나 죽어가는 모습을 목격할 때."
+    },
+    {
+      "type": "흉몽",
+      "korean": "용이 나를 향해 공격해오거나 쫓아오는데 두려움에 사로잡혀 도망치는 꿈은, 현재 진행 중인 일이 막히거나 강한 외부 압력에 시달릴 것을 암시합니다. 권세를 잃을 수도 있고, 건강 이상의 신호일 수도 있으므로 주의가 필요합니다.",
+      "english": "Being chased by a dragon in fear, or having a dragon attack you, warns of obstacles blocking your current endeavors or powerful external pressures bearing down on you. It may signal a loss of authority or even a health issue that demands attention.",
+      "context": "용에게 쫓기거나 공격받으며 공포를 느끼는 꿈. 도망치다 잠에서 깰 때 특히 흉조."
+    },
+    {
+      "type": "neutral",
+      "korean": "안개나 구름 속에 잠겨 있는 용의 꿈은 상황이 아직 명확히 드러나지 않은 전환기를 의미합니다. 어떤 일이 물밑에서 진행 중이거나, 잠시 몸을 낮추고 때를 기다려야 하는 시기임을 나타냅니다. 상황이 분명해지기 전까지는 섣불리 움직이지 않는 것이 좋습니다.",
+      "english": "A dragon obscured in mist or clouds symbolizes a transitional period in which the full picture has not yet revealed itself. Things may be developing beneath the surface, and the dream advises patience — wait for clarity before making a major move.",
+      "context": "용이 안개나 구름 속에 있어 전체 모습이 보이지 않을 때. 상황의 불확실성을 반영."
+    },
+    {
+      "type": "neutral",
+      "korean": "두 마리 용이 서로 마주 보거나 싸우는 꿈은 조직이나 집단 내에서 이해관계로 인한 갈등이 생길 수 있음을 암시합니다. 경쟁, 주도권 다툼, 또는 파트너 간의 갈등이 수면 위로 올라올 것을 예고하므로 중립적인 입장을 취하는 것이 유리합니다.",
+      "english": "Two dragons facing each other or fighting suggests conflict within an organization or between competing interests. Power struggles, rivalry, or friction between partners may be brewing. Staying neutral and avoiding the crossfire is the prudent course.",
+      "context": "두 용이 대치하거나 격렬하게 싸우는 장면. 직장 내 갈등이나 사업 파트너와의 분쟁을 암시."
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "황금용 꿈 / 황룡 꿈",
+      "keyword_en": "golden dragon dream",
+      "interpretation_ko": "황금용(황룡)이 나오는 꿈은 최고의 길몽으로 꼽힙니다. 부와 명예를 동시에 손에 넣을 것을 예고하며, 재물운이 급격히 상승합니다. 황룡은 오행에서 중앙을 수호하며 황제의 절대권력을 상징했기에, 이 꿈을 꾼 뒤 복권을 사면 행운이 따른다는 속설도 있습니다. 태몽으로 꾸면 경제적 성공과 사회적 명성을 이룰 아이의 탄생을 암시합니다.",
+      "interpretation_en": "A golden dragon dream is considered one of the highest-tier auspicious omens. It foretells simultaneous gains in both wealth and honor. In Korean cosmology, the yellow/golden dragon guards the center and symbolizes supreme royal authority, which is why this dream is strongly associated with financial windfalls, including lottery luck. As a pregnancy dream, it signals the birth of a child destined for economic success and social renown."
+    },
+    {
+      "keyword_ko": "청룡 꿈",
+      "keyword_en": "blue dragon dream",
+      "interpretation_ko": "청룡은 동방을 수호하며 생명의 시작과 봄을 상징합니다. 청룡이 나오는 꿈은 새로운 시작, 학문적 성취, 지혜의 획득을 의미하는 길몽입니다. 태몽으로 꾸면 부와 명예를 두루 갖춘 자식이 태어날 것을 예고합니다. 학업 중인 사람에게는 합격·입학의 길조로 해석됩니다.",
+      "interpretation_en": "The blue/azure dragon guards the East and symbolizes new beginnings, spring, and the birth of life. Dreaming of a blue dragon is auspicious, foretelling fresh starts, intellectual achievement, and the gaining of wisdom. As a pregnancy dream, it signals a child who will possess both wealth and honor. For students, it is a strong omen of exam success or school admission."
+    },
+    {
+      "keyword_ko": "흑룡 꿈 / 검은 용 꿈",
+      "keyword_en": "black dragon dream",
+      "interpretation_ko": "흑룡 꿈은 복합적인 해석을 가집니다. 한국 민속에서 흑룡은 북방을 수호하며 때로 재앙과 연결되기도 하지만, 현대 꿈해몽에서는 흑룡이 나를 감싸거나 함께 하는 꿈은 직장 승진과 재물운 상승의 강한 길조로 봅니다. 반면 흑룡이 위협적이거나 공격하는 꿈은 건강 이상이나 손실에 대한 경고로 읽힙니다.",
+      "interpretation_en": "Black dragon dreams carry dual meanings. In ancient Korean cosmology, the black dragon guards the North and was sometimes associated with calamity and drought rituals. In modern dream interpretation, however, a black dragon that wraps around you or accompanies you is a strong omen of career advancement and rising wealth. A black dragon that threatens or attacks, by contrast, warns of health troubles or financial loss."
+    },
+    {
+      "keyword_ko": "백룡 꿈 / 흰 용 꿈",
+      "keyword_en": "white dragon dream",
+      "interpretation_ko": "백룡은 순수함, 예술적 재능, 그리고 영적인 부름을 상징합니다. 흰 용이 나오는 꿈은 창의적인 분야에서의 성공이나 정신적·영적 성장을 예고합니다. 태몽으로 꾸면 예술적 감수성이 뛰어난 자녀를 얻게 될 것을 암시합니다.",
+      "interpretation_en": "The white dragon symbolizes purity, artistic talent, and spiritual calling. Dreaming of a white dragon foretells success in creative fields or meaningful spiritual and inner growth. As a pregnancy dream, it hints at a child with exceptional artistic sensibility and a refined, gifted nature."
+    },
+    {
+      "keyword_ko": "용이 승천하는 꿈",
+      "keyword_en": "dragon ascending to heaven dream",
+      "interpretation_ko": "용이 하늘로 힘차게 올라가는 장면은 꿈해몽에서 최고의 길조 중 하나입니다. 입신양명, 합격, 승진, 사업 번창, 또는 오랫동안 바라던 소원의 성취를 상징합니다. 조선시대에는 이 꿈이 너무 귀해서 '꿈 매매 문서'에 천 냥에 거래될 정도였습니다.",
+      "interpretation_en": "A dragon powerfully ascending to the sky is one of the greatest auspicious omens in Korean dream lore. It symbolizes social elevation, exam success, promotion, business flourishing, or the fulfillment of a long-held wish. Historically, this dream was so prized that Joseon-era records describe it being traded for a thousand nyang of silver in documented dream-sale contracts."
+    },
+    {
+      "keyword_ko": "용이 집에 들어오는 꿈",
+      "keyword_en": "dragon entering the house dream",
+      "interpretation_ko": "용이 집 안으로 들어오는 꿈은 재물과 귀인이 함께 찾아오는 길몽입니다. 가정에 경제적 여유가 생기고 좋은 인연이 맺어질 것을 암시하며, 임신부에게는 위대한 인물이 될 아이의 태몽으로 해석됩니다.",
+      "interpretation_en": "A dragon entering the house is an auspicious dream signaling the arrival of both wealth and a noble or influential person in your life. For a pregnant woman, this is a classic pregnancy dream (태몽) foretelling a child of great future standing."
+    },
+    {
+      "keyword_ko": "용에게 잡아먹히는 꿈",
+      "keyword_en": "dream of being devoured by a dragon",
+      "interpretation_ko": "언뜻 공포스러운 것처럼 보이지만, 한국 전통 꿈해몽에서 용에게 잡아먹히는 꿈은 오히려 길몽으로 해석됩니다. 가까운 미래에 출세하고 큰 부동산이나 재물을 소유하게 되는 뜻밖의 횡재를 암시합니다.",
+      "interpretation_en": "Though it may seem frightening, being devoured by a dragon is actually considered auspicious in Korean folk interpretation. This dream foretells an unexpected windfall — rising to prominence and acquiring substantial property or wealth in the near future."
+    },
+    {
+      "keyword_ko": "용을 잡는 꿈",
+      "keyword_en": "dream of catching a dragon",
+      "interpretation_ko": "용을 직접 잡는 꿈은 명예와 지위가 높아지는 길몽입니다. 승진의 기회가 찾아오거나 큰 기회를 손에 넣게 됩니다. 하늘로 올라가는 용의 꼬리를 잡는 꿈은 출세할 인물과 인연을 맺게 됨을 나타냅니다.",
+      "interpretation_en": "Catching a dragon in a dream is auspicious, foretelling rising honor and status. A promotion opportunity or a significant chance is coming your way. Grabbing the tail of an ascending dragon specifically suggests forming a meaningful connection with someone who is destined to rise to great prominence."
+    },
+    {
+      "keyword_ko": "용이 여의주를 물고 있는 꿈",
+      "keyword_en": "dream of dragon holding a orb (여의주)",
+      "interpretation_ko": "용이 여의주(소원을 이루어주는 구슬)를 입에 물고 있는 꿈은 소원 성취와 계약 성사를 상징합니다. 진행 중인 중요한 계약이나 협상이 원하는 방향으로 마무리될 것을 예고합니다.",
+      "interpretation_en": "A dragon clutching the 여의주 (the wish-fulfilling orb) in its mouth symbolizes the realization of deeply held wishes and the successful conclusion of contracts or negotiations. An important deal you have been pursuing is likely to materialize on favorable terms."
+    },
+    {
+      "keyword_ko": "용 태몽",
+      "keyword_en": "dragon pregnancy dream (taemorng)",
+      "interpretation_ko": "용 태몽은 한국에서 가장 경사스러운 태몽 중 하나입니다. 대부분의 용 태몽은 권세가, 지도자, 또는 사회적으로 크게 성공할 아이의 탄생을 예고합니다. 황금빛 용은 부와 명예를 모두 가질 아이를, 작고 온화한 용은 지적이고 예술적인 아이를 암시하며, 두 마리 용이 나오면 쌍둥이의 태몽으로 보기도 합니다.",
+      "interpretation_en": "A dragon pregnancy dream (태몽) is one of the most celebrated pregnancy omens in Korea. Most dragon pregnancy dreams foretell the birth of a leader, person of authority, or someone destined for great social success. A golden dragon hints at a child of wealth and renown; a small, gentle dragon suggests an intellectually or artistically gifted child; and two dragons together may be interpreted as a twin pregnancy dream."
+    },
+    {
+      "keyword_ko": "잉어가 용이 되는 꿈",
+      "keyword_en": "carp transforming into a dragon dream",
+      "interpretation_ko": "잉어가 용으로 변하여 승천하는 꿈은 등용문(登龍門)의 고사에서 비롯된 것으로, 한 시대를 뒤흔들 위대한 인물의 탄생이나 본인의 극적인 신분 상승을 상징합니다. 오랜 노력 끝에 마침내 크게 도약하는 시기가 왔음을 뜻합니다.",
+      "interpretation_en": "A carp transforming into a dragon and ascending to the sky draws on the legend of the '등용문' (Dragon's Gate), where a carp that swims upstream and leaps over the falls becomes a dragon. This dream symbolizes a dramatic rise in status — either one's own transformation after long effort, or the birth of a once-in-a-generation great figure."
+    },
+    {
+      "keyword_ko": "죽은 용 꿈",
+      "keyword_en": "dead dragon dream",
+      "interpretation_ko": "죽은 용을 보는 꿈은 흉몽으로, 현재 추진 중인 계획이 실패하거나 중요한 기회를 놓칠 수 있음을 경고합니다. 그러나 한편으로는 과거의 것이 끝나고 새로운 전략이나 방향으로 나아가야 할 때임을 알려주는 전환점의 의미도 있습니다.",
+      "interpretation_en": "Seeing a dead dragon is an inauspicious dream warning of plan failures or missed opportunities. However, it also carries a transitional meaning — what was old has ended, and the dream calls for a new direction or strategy to replace what has been lost."
+    }
+  ],
+  "culturalContext": {
+    "korean": "한국에서 용(龍)은 단순한 상상 속 동물이 아닌, 하늘과 땅을 연결하는 신령스러운 존재입니다. 순우리말로는 '미르'라 불렸으며, 물(믈)과 예언(미리)을 동시에 함의하는 이름처럼 용은 전통적으로 물을 다스리는 수신(水神)으로 숭배받았습니다. 신라 시대부터 가뭄이 들면 용왕에게 기우제를 올렸으며, 무속 신앙에서는 지금도 용왕굿이 어업의 안전과 풍요를 기원하는 제례로 행해집니다. 왕실에서는 용이 황제의 절대권력을 상징해 임금의 옷을 곤룡포(袞龍袍), 임금의 얼굴을 용안(龍顔), 임금이 앉는 자리를 용좌(龍座)라 불렀습니다. 사령(四靈)의 첫 번째로 꼽히는 용은 복을 내리는 시복신(施福神)이기도 하여, 용이 나오는 꿈을 꾸면 운수대통한다는 믿음이 민간에 깊이 뿌리내렸습니다. '개천에서 용 났다'(a dragon rose from a stream)는 속담과 과거 급제의 관문을 뜻하는 '등용문'(龍門)이라는 표현에서 보듯, 용은 신분의 극적인 상승과 성취의 상징으로도 쓰였습니다. 조선시대에는 용이 승천하는 꿈이 너무나 귀해 '꿈 매매 문서'를 통해 천 냥에 거래된 기록이 남아있을 정도입니다.",
+    "english": "In Korea, the dragon (용, 龍) is not merely a mythological creature but a sacred being bridging heaven and earth. Known in native Korean as 'mir' — a word linked to both 'water' (믈) and 'foretelling' (미리) — the dragon was revered from ancient times as the god of water and rainfall. From the Silla dynasty onward, rain-petition rituals (기우제) were performed to the Dragon King during droughts, and in Korean shamanism (무속), dragon king ceremonies are still conducted today to pray for safe fishing and abundant harvests. At the royal court, the dragon was the exclusive symbol of imperial authority: the king's ceremonial robe was called 곤룡포 (dragon robe), his face 용안 (dragon face), and his throne 용좌 (dragon seat). As the foremost of the Four Sacred Animals (사령), the dragon was also worshipped as a deity of good fortune. Two cultural expressions capture its broader meaning: the proverb '개천에서 용 났다' (a dragon rose from a stream, meaning success from humble origins) and '등용문' (Dragon Gate, the metaphor for a decisive gateway to advancement). So treasured was a dragon ascension dream in the Joseon period that historical records document such dreams being formally bought and sold for a thousand nyang of silver."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트의 정신분석학 관점에서 용은 억압된 본능과 원초적 욕망을 상징하는 경우가 많아요. 용의 거대한 몸집과 불을 내뿜는 힘은 통제되지 않은 리비도적 에너지 혹은 권력에 대한 욕구가 무의식 속에서 외현화된 형태로 해석될 수 있어요. 용에게 잡아먹히거나 용과 싸우는 꿈은 내면의 억압된 충동과의 갈등, 혹은 어린 시절 권위적 존재에 대한 두려움이 투사된 것으로 볼 수 있어요. 프로이트적 시각에서는 꿈속 용을 완전히 제압하거나 무력화하는 것이 억압된 욕구의 해소 혹은 내적 갈등의 일시적 해결을 나타낸다고 봐요.",
+      "english": "From a Freudian perspective, dragons in dreams often symbolize repressed instincts and primal desires. The dragon's massive body and fire-breathing power can be interpreted as an externalization of uncontrolled libidinal energy or a deep-seated drive for dominance. Being devoured by a dragon or battling one may represent conflict with repressed inner impulses or the projection of childhood fears about authority figures. In Freud's view, fully defeating or neutralizing a dream dragon would indicate temporary resolution of an inner conflict or partial release of a suppressed urge."
+    },
+    "jungian": {
+      "korean": "칼 융의 분석심리학에서 용은 집단무의식 속 강력한 원형(Archetype)입니다. 동양의 용은 특히 '현자 노인' 원형과 연결되어 지혜와 통합, 상반된 힘의 조화를 상징해요. 융은 용과의 싸움을 자아(Ego)가 어둠의 그림자(Shadow)를 의식화하려는 개성화(Individuation) 과정으로 보았어요. 용이 지키는 보물은 억압된 자아의 잠재력을 뜻하며, 용을 무찌르거나 함께하는 꿈은 내면의 어두운 측면을 통합하여 더 완전한 인격으로 성장하는 것을 의미합니다. 동양의 용이 서양과 달리 대체로 길조로 여겨지는 것은, 집단무의식에서 동양 문화권이 이 원형을 적대적 힘이 아닌 지혜와 우주적 질서의 수호자로 내면화했기 때문이에요.",
+      "english": "In Jungian analytical psychology, the dragon is a powerful archetype of the collective unconscious. The Eastern dragon in particular aligns with the Wise Old Man/Woman archetype, representing wisdom, the integration of opposites, and cosmic harmony. Jung interpreted the hero's battle with the dragon as the ego's struggle to bring the Shadow — the dark, repressed aspects of the psyche — into consciousness, a core stage of individuation. The treasure guarded by a dragon symbolizes the latent potential of the unintegrated self; to confront or befriend the dragon in a dream is to take a step toward wholeness. The fact that Eastern dragons are generally auspicious while Western ones are adversarial reflects how different cultures have encoded this archetype in their collective unconscious — as a guardian of wisdom rather than an enemy of the light."
+    },
+    "modern": {
+      "korean": "현대 인지신경과학과 심리학에서 용 꿈은 주로 강렬한 정서 처리와 스트레스 반응의 관점에서 해석돼요. 뇌는 수면 중 감정 기억을 정리하는 과정에서 현실의 압도적인 과제나 위협을 용처럼 거대한 존재로 시뮬레이션할 수 있어요. 실제로 용과 싸우는 꿈은 현실에서 마감, 까다로운 상사, 건강 불안과 같은 스트레스 요인을 뇌가 안전한 환경에서 '리허설'하는 것으로 볼 수 있어요. 반면, 용을 타거나 용이 나를 돕는 꿈은 자기효능감(Self-efficacy)이 높아지는 시기, 혹은 삶의 중대한 전환점에서 무의식이 긍정적 에너지를 총동원하는 신호일 수 있습니다.",
+      "english": "From the perspective of modern cognitive neuroscience and psychology, dragon dreams are primarily understood as intense emotional processing and stress-response simulations during sleep. The brain, while consolidating emotional memories in REM sleep, may render overwhelming real-life challenges — a high-stakes project, a formidable adversary, a health scare — as a literal dragon to help rehearse responses. Dragon-fighting dreams, in this view, allow the amygdala to practice handling extreme stress in a neurologically safe environment. By contrast, riding or being aided by a dragon may reflect elevated self-efficacy or the unconscious mobilizing positive energy around a significant life transition."
+    },
+    "crossCultural": {
+      "korean": "서양에서 용은 주로 퇴치해야 할 악의 화신이지만, 한국을 비롯한 동아시아 문화권에서는 우주적 질서와 번영을 수호하는 신령한 존재예요. 그 때문에 동일한 '용이 나오는 꿈'이 서양에서는 내면의 두려움이나 적대적 힘을 뜻하는 반면, 한국 전통 해몽에서는 최고의 길몽으로 해석된다는 점에서 문화가 꿈의 의미 체계에 미치는 영향을 단적으로 보여줍니다.",
+      "english": "While Western traditions cast the dragon as a beast to be slain — a symbol of evil or chaos — Korean and broader East Asian cultures revere it as a guardian of cosmic order and prosperity. This means the same dream image of a dragon carries opposite valences: in the Western symbolic tradition, it often signals inner fear or a threatening force, whereas in Korean folk interpretation it is among the most auspicious dreams one can have, illustrating how profoundly cultural frameworks shape the meaning systems we apply to our dreams."
+    }
+  },
+  "relatedSymbols": [
+    "snake",
+    "tiger",
+    "phoenix",
+    "carp",
+    "cloud",
+    "water",
+    "sky",
+    "treasure"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "용꿈",
+      "용 꿈해몽",
+      "용꿈 길몽",
+      "용꿈 흉몽",
+      "용이 승천하는 꿈",
+      "용 태몽",
+      "용꿈 로또",
+      "황금용 꿈",
+      "청룡 꿈해몽",
+      "흑룡 꿈해몽",
+      "용이 집에 들어오는 꿈",
+      "용을 타는 꿈",
+      "용 꿈 의미",
+      "용꿈 재물운",
+      "잉어가 용이 되는 꿈",
+      "용에게 잡아먹히는 꿈"
+    ],
+    "english": [
+      "dragon dream meaning",
+      "korean dragon dream interpretation",
+      "dreaming of a dragon",
+      "dragon ascending dream meaning",
+      "golden dragon dream",
+      "dragon pregnancy dream taemong",
+      "dragon dream auspicious",
+      "dragon dream lottery luck",
+      "black dragon dream meaning",
+      "blue dragon dream korean",
+      "dragon entering house dream"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "용꿈은 무조건 길몽인가요?",
+      "answer_ko": "용꿈은 대체로 최고의 길몽으로 여겨지지만, 꿈의 내용에 따라 흉몽이 될 수도 있어요. 용이 힘차게 승천하거나 집에 들어오는 꿈은 강한 길몽이지만, 용이 추락하거나 죽는 꿈, 용에게 쫓기는 꿈은 명예나 지위의 하락, 계획의 실패를 경고하는 흉몽으로 해석됩니다.",
+      "question_en": "Is dreaming of a dragon always a good omen?",
+      "answer_en": "Dragon dreams are generally considered among the most auspicious in Korean tradition, but the context matters greatly. A dragon ascending powerfully or entering your home is a strong good omen, while a dragon falling from the sky, dying, or chasing you in fear warns of status loss, failed plans, or incoming pressure."
+    },
+    {
+      "question_ko": "용꿈을 꾸면 로또를 사야 하나요?",
+      "answer_ko": "실제 로또 당첨자 중 용꿈을 꿨다고 밝힌 사람들이 있으며, 용꿈은 뜻밖의 횡재와 재물운 상승을 상징합니다. 특히 용이 승천하거나 황금용이 나오는 꿈은 복권 구입과 연결 짓는 경우가 많아요. 물론 꿈해몽은 민간 전통의 상징적 해석이지 당첨을 보장하는 것은 아니지만, 긍정적 에너지를 받은 날로 기념하는 의미로 한 장 사보는 것도 나쁘지 않습니다!",
+      "question_en": "Should I buy a lottery ticket after dreaming about a dragon?",
+      "answer_en": "Some documented lottery winners have reported dreaming of dragons before their win, and dragon dreams do symbolize unexpected fortune and rising wealth luck. Dreams of ascending or golden dragons are especially associated with windfall luck in Korean folk belief. Of course, dream interpretation is symbolic folk tradition rather than a guarantee — but treating it as a personally auspicious day and buying a ticket as a small celebration is a perfectly Korean thing to do."
+    },
+    {
+      "question_ko": "용 태몽의 의미는 무엇인가요?",
+      "answer_ko": "용 태몽은 한국에서 가장 경사스러운 태몽 중 하나로, 대부분 권세가·지도자·사회적 성공을 이룰 아이의 탄생을 예고합니다. 황금용 태몽은 부와 명예를, 청룡 태몽은 학문적 성취와 지혜를, 백룡 태몽은 예술적 감수성을 가진 아이를 암시합니다. 단, 상처 입은 용이나 죽는 용의 태몽은 좋지 않게 보므로, 꿈의 전체적인 분위기가 중요합니다.",
+      "question_en": "What does a dragon pregnancy dream mean?",
+      "answer_en": "A dragon pregnancy dream (태몽) is one of the most auspicious in Korean tradition, typically foretelling the birth of a child destined for authority, leadership, or great social achievement. A golden dragon suggests wealth and fame; a blue dragon hints at academic or intellectual excellence; a white dragon implies artistic gifts. However, a wounded or dying dragon in a pregnancy dream is considered unfavorable, so the overall emotional tone of the dream matters."
+    },
+    {
+      "question_ko": "꿈에서 용에게 잡아먹히면 나쁜 꿈인가요?",
+      "answer_ko": "놀랍게도, 용에게 잡아먹히는 꿈은 한국 전통 꿈해몽에서 흉몽이 아니라 오히려 길몽으로 해석됩니다. 가까운 미래에 크게 출세하고 재물을 얻거나 뜻밖의 횡재가 따를 것을 암시합니다. 용이 신성한 존재이기 때문에 그 안으로 들어가는 것이 오히려 용의 기운을 받는 것으로 해석됩니다.",
+      "question_en": "Is being devoured by a dragon in a dream a bad omen?",
+      "answer_en": "Surprisingly, being swallowed by a dragon is interpreted as auspicious, not inauspicious, in Korean folk dream tradition. It foretells a dramatic rise in status and the acquisition of wealth or an unexpected windfall in the near future. Because the dragon is a sacred being, being taken inside it is interpreted as receiving the full force of the dragon's divine energy."
+    },
+    {
+      "question_ko": "황금용 꿈과 청룡 꿈은 어떻게 다른가요?",
+      "answer_ko": "황금용 꿈은 주로 재물과 사회적 명예의 획득을 예고하며, 복권 운과도 연결됩니다. 반면 청룡 꿈은 새로운 시작, 학문적 성취, 지혜의 획득에 더 초점이 맞춰져 있습니다. 두 꿈 모두 길몽이지만, 황금용은 물질적 번영을, 청룡은 지적·정신적 성장을 더 강하게 상징합니다.",
+      "question_en": "What is the difference between a golden dragon dream and a blue dragon dream?",
+      "answer_en": "A golden dragon dream primarily foretells the acquisition of wealth and social honor, and is closely linked to windfall luck. A blue dragon dream focuses more on new beginnings, academic achievement, and the gaining of wisdom. Both are auspicious, but golden dragon symbolism leans toward material prosperity while blue dragon symbolism leans toward intellectual and spiritual growth."
+    },
+    {
+      "question_ko": "잉어가 용으로 변하는 꿈은 무슨 의미인가요?",
+      "answer_ko": "잉어가 용으로 변해 승천하는 꿈은 '등용문(登龍門)'의 고사를 상징하는 강력한 길몽입니다. 오랜 노력과 인고 끝에 마침내 큰 도약을 이루는 시기가 왔음을 뜻하며, 태몽으로 꾸면 한 시대를 이끌 위대한 인물이 태어날 것을 예고합니다.",
+      "question_en": "What does it mean to dream of a carp transforming into a dragon?",
+      "answer_en": "This is a powerful auspicious dream rooted in the legend of the Dragon Gate (등용문), where a carp that swims upstream and leaps over the waterfall is transformed into a dragon. It signifies that after a long period of effort and perseverance, a dramatic breakthrough is finally at hand. As a pregnancy dream, it foretells the birth of a once-in-a-generation great leader."
+    }
+  ]
+}
