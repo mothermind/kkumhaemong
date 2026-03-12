@@ -349,7 +349,7 @@ All hooks are minimal — logging + security only, no TTS, no external API calls
 ## Open Decisions
 
 - [x] ~~Domain name~~ → **kkumhaemong.com** purchased ✅
-- [ ] Image storage: `public/images/` (small scale) vs Cloudflare R2 (production scale)
+- [ ] **Image storage migration to Cloudflare R2** — `public/images/dreams/` is already 795 MB (161 articles × ~5 MB) and tracked in git. Git object store is 809 MB. Must migrate before pushing to GitHub or deploying. Plan: upload images to R2, update image URLs in content JSON from `/images/dreams/{slug}/...` to `https://<r2-domain>/images/dreams/{slug}/...`, add `public/images/dreams/` to `.gitignore`.
 - [ ] Image generation provider: DALL-E 3 vs Replicate/SD
 - [x] ~~Homepage redesign~~ → Hero image + searchbar + category chips + popular dreams list ✅
 - [x] ~~Explorer UI~~ → `/explore` category grid + `/explore/[category]` with subcategory filter pills ✅
