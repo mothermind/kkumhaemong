@@ -1,0 +1,196 @@
+{
+  "symbol": {
+    "korean": "사고 꿈",
+    "english": "Accident",
+    "slug": "accident-dream"
+  },
+  "summary": {
+    "korean": "사고 꿈은 삶의 방향이나 현재 진행 중인 일에 대한 경고 또는 변화의 신호로 해석되며, 상황에 따라 재물운이나 새 출발을 뜻하는 길몽이 되기도 합니다.",
+    "english": "Dreaming of an accident typically signals a warning about your life direction or current endeavors, though depending on context it can also foretell unexpected fortune or a fresh new beginning."
+  },
+  "interpretations": [
+    {
+      "type": "흉몽",
+      "korean": "내가 직접 사고를 당하거나 사고를 내는 꿈은 현재 진행 중인 일에 문제가 생길 것을 암시하는 흉몽입니다. 자동차는 삶의 방향성과 목표를 향해 나아가는 수단을 상징하기 때문에, 사고가 나는 꿈은 진로, 사업, 인간관계 등에서 예상치 못한 장애물이 나타날 수 있다는 경고입니다. 감정적 불균형, 자신감 부족, 또는 누적된 스트레스가 무의식 속에서 표출되는 꿈으로도 볼 수 있습니다.",
+      "english": "Dreaming that you are directly involved in or cause an accident is generally an inauspicious dream, warning that troubles may arise in your current pursuits. Since vehicles symbolize life's direction and the means of reaching your goals, an accident in a dream warns of unexpected obstacles in your career, business, or relationships. It can also be an expression of emotional imbalance, low confidence, or accumulated stress emerging from the subconscious.",
+      "context": "내가 운전하다 사고가 나거나 직접 사고 당사자가 되는 꿈"
+    },
+    {
+      "type": "길몽",
+      "korean": "사고에서 살아남거나 안전하게 탈출하는 꿈은 현실에서 위기나 어려움을 극복하고 새로운 기회를 얻을 것을 암시하는 길몽입니다. 사고로 피를 흘리는 꿈 역시 역설적으로 재물과 명예가 늘어나는 길몽으로 해석됩니다. 사고 후 누군가에게 구조를 받는 꿈은 든든한 조력자나 귀인이 나타날 것을 뜻하고, 합의금이나 보상금을 받는 꿈은 재물운의 상승을 나타냅니다.",
+      "english": "Dreaming that you survive or safely escape an accident is an auspicious dream, foretelling that you will overcome real-life crises and seize new opportunities. Paradoxically, bleeding after an accident in a dream also signals an increase in wealth and honor. Being rescued after an accident indicates that a helpful benefactor will appear, and receiving settlement money or compensation in a dream points to rising financial fortune.",
+      "context": "사고에서 살아남는 꿈, 피를 흘리는 꿈, 구조받는 꿈, 합의금을 받는 꿈"
+    },
+    {
+      "type": "길몽",
+      "korean": "가족이나 주변 지인이 교통사고를 당해 크게 다치거나 사망하는 꿈은 현실에서 금전적 횡재나 예상치 못한 행운이 찾아오는 길몽으로 해석됩니다. 꿈에서의 죽음은 끝이 아닌 새로운 시작과 부활을 의미하는 경우가 많아, 사고 후 사망하는 꿈이 오히려 목표 달성과 소원 성취를 암시하기도 합니다.",
+      "english": "Dreaming that a family member or close acquaintance is severely injured or killed in a traffic accident is interpreted as an auspicious dream foretelling unexpected financial windfall or good fortune. In Korean dream tradition, death in a dream often symbolizes new beginnings and renewal rather than a literal ending, so dying in an accident dream can paradoxically represent achieving goals and fulfilling long-held wishes.",
+      "context": "가족이나 지인이 사고로 다치거나 사망하는 꿈, 사고 후 사망하는 꿈"
+    },
+    {
+      "type": "흉몽",
+      "korean": "차량이 전복되거나 절벽에서 추락하는 사고 꿈은 인간관계의 균열, 직업적 불안정, 또는 급격한 환경 변화를 경고하는 흉몽입니다. 차에 불이 나는 사고 꿈은 감정 조절이 어렵고 충동적인 행동으로 인해 대인 관계에 손상이 생길 수 있음을 경고합니다. 경찰이 개입하는 사고 꿈은 인간관계 갈등이나 가족 불화를 예고하기도 합니다.",
+      "english": "Dreaming of a vehicle rollover or falling off a cliff signals fractures in relationships, professional instability, or sudden environmental upheaval. Dreaming of a car catching fire during an accident warns of poor emotional control and impulsive behavior damaging interpersonal relationships. Accident dreams involving police intervention may foreshadow interpersonal conflict or family discord.",
+      "context": "차량 전복, 절벽 추락, 차량 화재, 경찰 개입 등 극단적 사고 상황"
+    },
+    {
+      "type": "neutral",
+      "korean": "타인의 교통사고를 목격하는 꿈은 현재 심리적 불안과 마음의 여유 부족을 반영하는 꿈으로, 내 삶이 아닌 주변 상황에 지나치게 신경 쓰이는 상태를 나타냅니다. 다만 타인이 사고를 당하는 모습을 목격하는 꿈은 상황에 따라 귀인이 나타나 어려움을 함께 극복한다는 길몽으로 해석되기도 합니다. 사고 후 상대방과 원만하게 합의하는 꿈은 현실의 갈등이나 문제를 원만히 해결할 수 있음을 뜻합니다.",
+      "english": "Witnessing another person's accident in a dream reflects current psychological anxiety and a feeling of mental overwhelm — it suggests you are overly preoccupied with circumstances outside your own life. However, depending on context, witnessing an accident can also be auspicious, indicating that a helpful benefactor will appear to help you overcome difficulties. Dreaming of reaching a smooth settlement after an accident suggests you will resolve real-life conflicts or problems amicably.",
+      "context": "타인의 사고를 목격하는 꿈, 사고 후 합의하는 꿈"
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "교통사고 꿈",
+      "keyword_en": "traffic accident dream",
+      "interpretation_ko": "교통사고 꿈은 가장 흔한 사고 꿈 유형으로, 삶의 방향성에 문제가 생길 수 있다는 경고를 담고 있습니다. 사고 결과에 따라 길흉이 달라지는데, 살아남으면 길몽, 사고 원인 제공자가 되면 현재 일에서의 실수나 장애를 암시하는 흉몽입니다.",
+      "interpretation_en": "Traffic accident dreams are the most common type of accident dream and carry a warning that problems may arise with your life's direction. The omen depends on the outcome: surviving the accident is auspicious, while being the cause of the accident signals mistakes or obstacles in your current endeavors."
+    },
+    {
+      "keyword_ko": "사고에서 살아남는 꿈",
+      "keyword_en": "surviving an accident dream",
+      "interpretation_ko": "사고에서 살아남는 꿈은 현실에서 위기나 큰 어려움을 극복하고 새로운 기회와 재물을 얻게 될 것을 암시하는 대표적인 길몽입니다.",
+      "interpretation_en": "Surviving an accident in a dream is a classic auspicious dream, foretelling that you will overcome real crises and difficulties, ultimately gaining new opportunities and material fortune."
+    },
+    {
+      "keyword_ko": "가족이 사고 당하는 꿈",
+      "keyword_en": "family member in accident dream",
+      "interpretation_ko": "가족이 교통사고를 당하는 꿈은 표면적으로는 불안하게 느껴지지만, 전통 꿈해몽에서는 금전적 횡재나 예상치 못한 행운이 찾아올 수 있다는 길몽으로 해석됩니다. 단, 가족에게 소홀하다는 경고 메시지를 동시에 담기도 합니다.",
+      "interpretation_en": "Though alarming on the surface, dreaming of a family member being in an accident is traditionally interpreted as a sign of unexpected financial windfall or fortunate surprise. It can also serve as a warning that you have been neglecting your loved ones."
+    },
+    {
+      "keyword_ko": "사고로 피 흘리는 꿈",
+      "keyword_en": "bleeding after accident dream",
+      "interpretation_ko": "사고 후 피를 흘리는 꿈은 한국 전통 꿈해몽에서 재물과 명예가 크게 늘어나는 길몽으로 해석됩니다. 피는 생명력과 재물을 상징하기 때문에 사고의 충격에도 불구하고 오히려 좋은 의미를 지닙니다.",
+      "interpretation_en": "Bleeding after an accident in a dream is interpreted in Korean folk tradition as an auspicious sign of greatly increased wealth and honor. Since blood symbolizes vitality and material fortune, bleeding in a dream is considered positive despite the disturbing imagery."
+    },
+    {
+      "keyword_ko": "사고를 목격하는 꿈",
+      "keyword_en": "witnessing an accident dream",
+      "interpretation_ko": "타인의 사고를 목격하는 꿈은 심리적 불안감과 무력감을 반영하는 중립적 꿈입니다. 다만 귀인이나 조력자가 나타나 문제를 함께 해결할 것을 암시하는 길몽으로 해석되는 경우도 있습니다.",
+      "interpretation_en": "Witnessing another person's accident reflects psychological anxiety and a sense of helplessness. Depending on context, it can also indicate that a helpful benefactor or ally will appear to help you resolve your problems."
+    },
+    {
+      "keyword_ko": "사고를 피하는 꿈",
+      "keyword_en": "narrowly avoiding accident dream",
+      "interpretation_ko": "사고를 아슬아슬하게 피하는 꿈은 냉철한 판단력과 성숙함으로 현실의 위기를 벗어나게 될 것을 암시하는 길몽입니다. 개인적 성장과 장애물 극복을 상징합니다.",
+      "interpretation_en": "Narrowly avoiding an accident in a dream is an auspicious sign that you will escape a real-life crisis through sound judgment and maturity. It symbolizes personal growth and successful navigation of obstacles."
+    },
+    {
+      "keyword_ko": "차량 전복 사고 꿈",
+      "keyword_en": "vehicle rollover accident dream",
+      "interpretation_ko": "차량이 전복되는 사고 꿈은 인간관계 악화, 직업적 불안정, 추진하던 일의 좌절을 경고하는 흉몽입니다. 심리적으로 삶의 방향을 잃었다는 불안감을 반영하기도 합니다.",
+      "interpretation_en": "Dreaming of a vehicle rollover is an inauspicious dream warning of deteriorating relationships, career instability, or the failure of ongoing projects. Psychologically, it may also reflect anxiety about losing direction in life."
+    },
+    {
+      "keyword_ko": "접촉사고 꿈",
+      "keyword_en": "minor collision dream",
+      "interpretation_ko": "가벼운 접촉사고가 나는 꿈은 사소한 실수나 오해로 인해 소소한 문제가 발생할 수 있음을 경고합니다. 일상에서 세심한 주의를 기울이라는 메시지를 담고 있습니다.",
+      "interpretation_en": "Dreaming of a minor collision warns that small mistakes or misunderstandings may cause minor troubles in daily life. It carries the message to exercise greater care and attention in everyday affairs."
+    },
+    {
+      "keyword_ko": "구조받는 꿈",
+      "keyword_en": "being rescued after accident dream",
+      "interpretation_ko": "사고 후 누군가에게 구조되는 꿈은 현실에서 귀인이 나타나 도움을 받게 될 것을 암시하는 길몽입니다. 주변에서 지지와 도움의 손길이 이어질 것을 뜻합니다.",
+      "interpretation_en": "Being rescued after an accident dream is an auspicious sign that a helpful benefactor will appear in your real life. It indicates that support and assistance from those around you will materialize when you need it most."
+    },
+    {
+      "keyword_ko": "버스 사고 꿈",
+      "keyword_en": "bus accident dream",
+      "interpretation_ko": "버스 사고가 나는 꿈은 집단적 차원의 어려움이나 조직 내 문제를 암시하는 경우가 많습니다. 여럿이 함께 탑승하는 버스는 공동체나 직장 환경을 상징하여, 버스 사고 꿈은 그 집단에서 갈등이나 위기가 발생할 수 있음을 경고합니다.",
+      "interpretation_en": "A bus accident dream often signals difficulties at a collective level or problems within an organization. Since a bus carries multiple passengers symbolizing a community or workplace, a bus accident dream warns of potential conflict or crisis within that group."
+    }
+  ],
+  "culturalContext": {
+    "korean": "한국 전통 꿈해몽에서 사고 꿈은 단순한 흉몽으로만 치부되지 않고, 상황에 따라 길흉이 뒤바뀌는 복잡한 상징을 지닙니다. 무속 신앙에서는 꿈을 신의 계시나 조상의 메시지로 보았으며, 사고처럼 갑작스럽고 충격적인 사건이 꿈에 나타나면 그것이 현실의 변화를 예고하는 신호라고 믿었습니다. 특히 죽음이나 부상이 동반되는 꿈을 흉몽으로 두려워하면서도, 그 안에서 살아남거나 피를 흘리면 오히려 재물과 행운이 따른다는 반전 해석이 존재하는 것이 한국 꿈해몽의 독특한 특징입니다. 자동차는 현대 꿈해몽에서 '자아' 또는 '삶의 방향과 추진력'을 상징하는 핵심 상징물이 되었으며, 사고는 그 방향에서의 이탈이나 예상치 못한 도전을 의미합니다. 중국과 일본 등 동아시아 문화권에서도 사고 꿈은 유사하게 변화와 경고의 신호로 해석되나, 한국 해몽이 특히 '사고에서 살아남는 것'을 강력한 길몽으로 보는 점에서 차별화됩니다.",
+    "english": "In Korean traditional dream interpretation, accident dreams are not simply dismissed as bad omens but carry complex symbolism that can shift between auspicious and inauspicious depending on the context. In Korean shamanism (무속 신앙), dreams were regarded as divine revelations or messages from ancestors, and sudden, shocking events like accidents appearing in dreams were believed to foretell changes in waking reality. A distinctive feature of Korean dream interpretation is the paradoxical reversal: while accidents with death or injury are feared as bad omens, surviving the accident or bleeding within the dream is interpreted as a sign of incoming wealth and fortune. In modern Korean dream culture, automobiles have become central symbols representing the self or the direction and momentum of one's life, so an accident signifies deviation from one's intended path or an unexpected challenge. While East Asian cultures like China and Japan similarly interpret accident dreams as signals of change and warning, Korean interpretation is particularly notable for treating survival within the accident dream as a powerful auspicious omen."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트의 관점에서 사고 꿈은 억압된 불안과 통제력 상실에 대한 무의식적 두려움이 표출된 것으로 해석해요. 프로이트는 외상성 신경증 환자들이 자신의 사고 장면을 반복적으로 꿈에서 재현한다는 점에 주목했으며, 이를 미처 해소되지 못한 긴장이 꿈을 통해 반복 처리되는 과정으로 보았어요. 사고 꿈 속 차량이나 기계는 리비도적 에너지 또는 자아 통제의 상징으로 읽힐 수 있으며, 사고는 그 통제가 무너지는 순간을 나타내요.",
+      "english": "From a Freudian perspective, accident dreams represent the surfacing of repressed anxieties and unconscious fears of losing control. Freud notably observed that patients with traumatic neuroses repeatedly relive their accidents in dreams, which he saw as the psyche's attempt to retroactively master unresolved tension through repetition. Vehicles or machinery in accident dreams can be read as symbols of libidinal energy or ego control, with the accident representing the moment that control breaks down."
+    },
+    "jungian": {
+      "korean": "융의 분석심리학에서 사고 꿈은 자아(ego)와 개인의 무의식이 충돌하는 순간을 상징해요. 융은 꿈이 의식의 편향을 보상하는 기능을 한다고 보았는데, 지나치게 빠르게 달려가고 있는 삶에 대한 경고로 사고 꿈이 나타날 수 있어요. 자동차는 흔히 '페르소나(persona)', 즉 사회적 자아의 상징으로 해석되며, 자동차 사고는 현재의 사회적 역할이나 외적 이미지에 균열이 생기고 있음을 나타낼 수 있어요.",
+      "english": "In Jungian analytical psychology, accident dreams symbolize a collision between the ego and the personal unconscious. Jung believed dreams serve a compensatory function toward consciousness, and an accident dream may appear as a warning to slow down when one is rushing through life without reflection. Automobiles are often interpreted as symbols of the persona — the social self — so a car accident can indicate fractures forming in one's current social role or external image."
+    },
+    "modern": {
+      "korean": "현대 심리학에서는 사고 꿈을 현실의 스트레스, 불안, 또는 삶에서 통제권을 잃고 있다는 감각이 수면 중 처리되는 과정으로 이해해요. 신경과학 연구에 따르면 공포나 불안과 관련된 기억은 REM 수면 중 재활성화되어 감정 처리에 기여하는데, 사고 꿈은 이 과정에서 현실의 두려움이 극적인 이미지로 표현된 결과예요. 특히 현실에서 교통사고를 경험했거나 교통사고 불안이 높은 사람일수록 관련 꿈을 자주 꾸는 경향이 있어요.",
+      "english": "Modern psychology understands accident dreams as the mind processing real-world stress, anxiety, or a sense of losing control in life during sleep. Neuroscientific research shows that fear- and anxiety-related memories are reactivated during REM sleep to aid emotional processing, and accident dreams are the result of those real fears being expressed through dramatic imagery. People who have experienced actual accidents or carry high anxiety about traffic situations tend to have such dreams more frequently."
+    },
+    "crossCultural": {
+      "korean": "한국 전통 꿈해몽이 사고 꿈 속 생존을 강력한 길몽으로 해석하는 반면, 서양 심리학은 사고 꿈을 예지나 운명의 신호가 아닌 내면의 불안과 스트레스가 상징적으로 표현된 것으로 봐요. 두 전통 모두 사고 꿈이 현실의 무언가에 대한 경고라는 점에서는 일치하지만, 한국 해몽이 외적 사건을 예고하는 데 초점을 둔다면 서양 심리학은 내면 상태를 반영하는 데 중점을 두는 차이가 있어요.",
+      "english": "While Korean traditional interpretation views surviving an accident in a dream as a powerful auspicious omen, Western psychology treats accident dreams as symbolic expressions of inner anxiety and stress rather than omens of fate. Both traditions agree that accident dreams contain a warning relevant to waking life, but Korean interpretation focuses on external events being foretold whereas Western psychology centers on the internal emotional state being reflected."
+    }
+  },
+  "relatedSymbols": ["car-dream", "fire-dream", "death-dream", "falling-dream", "blood-dream", "disaster-dream"],
+  "seoKeywords": {
+    "korean": [
+      "사고 꿈해몽",
+      "교통사고 꿈해몽",
+      "사고 꿈 의미",
+      "교통사고 꿈 길몽",
+      "교통사고 꿈 흉몽",
+      "사고에서 살아남는 꿈",
+      "가족 교통사고 꿈",
+      "사고 목격 꿈",
+      "차 사고 꿈해몽",
+      "접촉사고 꿈",
+      "사고 피 흘리는 꿈",
+      "교통사고 나는 꿈",
+      "버스 사고 꿈해몽",
+      "사고 꿈 좋은 꿈"
+    ],
+    "english": [
+      "accident dream meaning",
+      "traffic accident dream interpretation",
+      "dream about car accident Korean",
+      "surviving accident dream meaning",
+      "dream of family in accident",
+      "witnessing accident dream",
+      "Korean dream interpretation accident",
+      "car crash dream meaning",
+      "accident dream auspicious",
+      "accident dream psychology"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "교통사고 꿈을 꾸면 실제로 조심해야 하나요?",
+      "answer_ko": "교통사고 꿈이 반드시 실제 사고를 예고하는 것은 아닙니다. 전통 꿈해몽에서 교통사고 꿈은 현재 진행 중인 일의 장애나 인생의 변화를 상징하는 경우가 많습니다. 다만 꿈을 꾼 후 운전 시 평소보다 주의를 기울이는 것은 건강한 습관이에요.",
+      "question_en": "Should I be extra careful after dreaming of a traffic accident?",
+      "answer_en": "A traffic accident dream does not necessarily predict a real accident. In traditional Korean dream interpretation, it more commonly symbolizes obstacles in current endeavors or upcoming life changes. That said, exercising a little extra caution while driving after such a dream is always a sensible habit."
+    },
+    {
+      "question_ko": "교통사고 꿈이 길몽이 되는 경우는 어떨 때인가요?",
+      "answer_ko": "사고에서 살아남는 꿈, 사고 후 피를 흘리는 꿈, 가족이 사고를 당하는 꿈, 사고 합의금을 받는 꿈, 구조되는 꿈 등은 전통적으로 재물운 상승이나 귀인의 등장, 위기 극복을 암시하는 길몽으로 해석됩니다.",
+      "question_en": "When does an accident dream become an auspicious omen?",
+      "answer_en": "Accident dreams turn auspicious when you survive the accident, bleed after the crash, witness a family member in an accident, receive settlement money, or get rescued. These scenarios traditionally signal rising financial fortune, the appearance of a helpful benefactor, or successful overcoming of a major crisis."
+    },
+    {
+      "question_ko": "가족이 교통사고를 당하는 꿈은 불길한 꿈인가요?",
+      "answer_ko": "역설적이게도, 가족이 교통사고를 당하는 꿈은 한국 꿈해몽에서 금전적 횡재나 예상치 못한 행운을 예고하는 길몽으로 해석하는 경우가 많습니다. 다만 가족과의 관계를 돌아보라는 경고 메시지를 담기도 합니다.",
+      "question_en": "Is dreaming of a family member in a traffic accident a bad omen?",
+      "answer_en": "Paradoxically, dreaming that a family member is in a traffic accident is often interpreted in Korean dream tradition as an auspicious omen forecasting unexpected financial windfalls or good fortune. It can also double as a reminder to nurture your relationships with loved ones who may have been neglected."
+    },
+    {
+      "question_ko": "사고 꿈을 자주 꾸면 어떤 의미인가요?",
+      "answer_ko": "사고 꿈을 반복적으로 꾼다면, 현실에서 강한 스트레스나 불안, 또는 삶의 방향성에 대한 걱정이 누적되어 있다는 신호일 수 있습니다. 현대 심리학에서는 반복적인 사고 꿈을 외상 후 스트레스나 만성적 불안의 표현으로 봅니다.",
+      "question_en": "What does it mean if I dream of accidents frequently?",
+      "answer_en": "Repeatedly dreaming of accidents can be a signal that you are experiencing significant stress, anxiety, or persistent worry about your life's direction. Modern psychology views recurring accident dreams as expressions of chronic anxiety or, in some cases, post-traumatic stress responses."
+    },
+    {
+      "question_ko": "사고 꿈이 태몽이 될 수 있나요?",
+      "answer_ko": "사고 꿈은 일반적으로 태몽으로 해석되지는 않습니다. 태몽은 주로 동물, 자연물, 귀한 물건 등 생명력과 풍요를 상징하는 이미지와 연관됩니다. 다만 사고 후 새 생명이나 탄생의 이미지가 연결된다면 예외적으로 태몽과 연관지어 해석하는 경우도 드물게 있습니다.",
+      "question_en": "Can an accident dream be a pregnancy omen (태몽)?",
+      "answer_en": "Accident dreams are not generally interpreted as pregnancy omens. Pregnancy omens in Korean tradition are typically associated with animals, natural objects, or imagery of vitality and abundance. Accident dreams only very rarely carry this interpretation, and only if strongly linked to images of new life or birth within the same dream."
+    },
+    {
+      "question_ko": "차가 물에 빠지는 꿈은 어떻게 해석하나요?",
+      "answer_ko": "차가 물에 빠지는 사고 꿈은 감정의 흐름에 압도당하거나, 현재 상황을 통제하지 못하고 있다는 무의식적 불안을 반영합니다. 전통 꿈해몽에서는 물에 빠진 후 탈출하면 위기 극복을, 탈출하지 못하면 재정적 또는 인간관계상의 어려움을 예고하는 것으로 봅니다.",
+      "question_en": "How is a dream of a car falling into water interpreted?",
+      "answer_en": "Dreaming of a car plunging into water reflects unconscious anxiety about being overwhelmed by emotions or losing control of your current circumstances. In traditional Korean dream interpretation, escaping from the submerged car signals crisis overcome, while failing to escape warns of financial or relational difficulties ahead."
+    }
+  ]
+}

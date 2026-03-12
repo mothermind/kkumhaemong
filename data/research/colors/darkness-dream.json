@@ -1,0 +1,192 @@
+{
+  "symbol": {
+    "korean": "어두운 꿈",
+    "english": "Darkness",
+    "slug": "darkness-dream"
+  },
+  "summary": {
+    "korean": "어두운 꿈은 전통적으로 일이 막히거나 앞날이 불투명한 상황을 암시하지만, 어둠 속에서 빛이 나타나면 오히려 새로운 돌파구와 희망을 예고하는 길몽이 됩니다.",
+    "english": "Dreaming of darkness traditionally signals blocked progress and uncertainty in Korean interpretation, though light appearing within the darkness transforms it into an auspicious omen of breakthrough and new hope."
+  },
+  "interpretations": [
+    {
+      "type": "흉몽",
+      "korean": "어둠 속에 갇히거나 어두운 공간에서 길을 잃는 꿈은 현재 추진 중인 일이 잘 풀리지 않고, 예상치 못한 장애물에 부딪힐 것을 암시합니다. 특히 어두운 방에 혼자 갇히는 꿈은 믿었던 사람에게 배신이나 사기를 당하는 흉조로 여겨집니다.",
+      "english": "Being trapped in darkness or losing your way in a dark space signals that current endeavors will meet obstacles and fail to progress. Being confined alone in a dark room is considered an especially inauspicious omen, warning of betrayal or deception by a trusted person.",
+      "context": "어둠 속에 완전히 갇혀 빠져나올 수 없는 상황, 또는 어두운 밀실에서 혼자 갇히는 꿈일 때"
+    },
+    {
+      "type": "흉몽",
+      "korean": "어둠 속에서 친구나 아이를 잃어버리는 꿈은 사소한 일로 인해 주변 사람들과 감정이 상하거나 다툼이 생길 것을 예고합니다. 어두운 하늘이 펼쳐지는 꿈은 삶의 방향을 잃고 큰 불안감과 혼란이 닥칠 것을 상징합니다.",
+      "english": "Losing a friend or child in darkness warns that trivial matters will trigger emotional conflict or quarrels with those around you. A dream of a dark sky spreading overhead signals loss of direction in life, accompanied by significant anxiety and confusion.",
+      "context": "어둠 속에서 소중한 사람을 놓치거나, 하늘이 갑자기 어둠으로 뒤덮이는 꿈일 때"
+    },
+    {
+      "type": "길몽",
+      "korean": "어두운 길을 걸으면서 횃불, 촛불, 손전등 등의 빛을 들고 있는 꿈은 어려운 환경을 스스로 극복하고 원하는 목표를 마침내 달성할 것을 예고하는 길몽입니다. 암흑 속에서 빛이 새어 나오는 꿈은 중요한 정보나 기회를 포착하게 될 것을 암시합니다.",
+      "english": "Walking a dark path while carrying a torch, candle, or flashlight is an auspicious dream foretelling that you will overcome difficult circumstances through your own effort and finally achieve your goals. Seeing light seeping through darkness symbolizes seizing important information or opportunity.",
+      "context": "어두운 환경 속에서도 스스로 빛을 들거나, 어둠 사이로 빛이 흘러나오는 장면이 보일 때"
+    },
+    {
+      "type": "neutral",
+      "korean": "어두운 밤길을 걷는 꿈은 아직 익숙하지 않은 새로운 분야나 상황에 뛰어드는 것을 상징하며, 미지의 인간관계를 맺거나 새로운 경험을 하게 될 가능성을 나타냅니다. 두려움보다 탐색의 감정으로 어둠 속을 걷는다면 변화와 발견의 시기를 예고합니다.",
+      "english": "Walking a dark night path symbolizes stepping into unfamiliar territory — a new field, situation, or relationship not yet known. If the emotional tone is curious rather than fearful, the dream heralds a period of change and discovery rather than misfortune.",
+      "context": "어두운 길을 두려움 없이 걷거나, 어둠 속을 탐색하는 느낌의 꿈일 때 — 감정적 맥락이 해석을 결정함"
+    },
+    {
+      "type": "흉몽",
+      "korean": "반복적으로 어둡고 불길한 꿈을 꾸는 것은 한국 전통에서 삶의 정기(正氣)가 소진되어 음기(陰氣)가 몸과 마음을 채우고 있다는 강한 경고 신호로 해석됩니다. 이는 심신의 균형이 무너져 주의가 필요한 상태를 의미합니다.",
+      "english": "Repeatedly dreaming of dark, ominous scenarios is interpreted in Korean folk tradition as a serious warning that one's vital life force (정기, jeong-gi) is depleted and negative yin energy (음기, eum-gi) has taken hold — a signal that physical and spiritual balance must be restored.",
+      "context": "어두운 꿈이 연속적으로 반복되거나, 악몽이 이어지는 패턴일 때"
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "어둠 속에 갇히는 꿈",
+      "keyword_en": "trapped in darkness dream",
+      "interpretation_ko": "추진 중인 일이 뜻대로 풀리지 않고 막히게 될 것을 예고하는 흉몽입니다. 출구를 찾지 못하고 헤맬수록 현실에서의 문제가 복잡하게 얽힐 수 있음을 암시합니다.",
+      "interpretation_en": "An inauspicious omen warning that ongoing plans will stall and become blocked. The more you wander without finding an exit in the dream, the more tangled your real-life situation may become."
+    },
+    {
+      "keyword_ko": "어두운 방 꿈",
+      "keyword_en": "dark room dream",
+      "interpretation_ko": "불이 켜지지 않는 어두운 방에 있는 꿈은 믿었던 사람에게 배신당하거나 대인관계에서 상처를 받게 될 것을 경고합니다. 관계에 신중함이 필요한 시기임을 알려줍니다.",
+      "interpretation_en": "Being in a dark room where lights will not turn on warns of betrayal from a trusted person or emotional wounds in personal relationships. It signals a time to be cautious with those around you."
+    },
+    {
+      "keyword_ko": "어두운 길을 걷는 꿈",
+      "keyword_en": "walking on a dark path dream",
+      "interpretation_ko": "낯선 분야나 새로운 환경에 뛰어드는 상황을 상징합니다. 횃불이나 빛을 들고 걷는다면 결국 어려움을 극복하고 목표를 이룰 길몽이지만, 아무 빛도 없이 걷는다면 방향을 잃을 수 있음을 경고합니다.",
+      "interpretation_en": "Symbolizes venturing into unfamiliar territory or a new environment. Carrying a light while walking makes it auspicious — obstacles will be overcome and goals achieved. Walking with no light at all warns of losing direction."
+    },
+    {
+      "keyword_ko": "어두운 하늘 꿈",
+      "keyword_en": "dark sky dream",
+      "interpretation_ko": "갑자기 하늘이 어두워지거나 먹구름이 온 하늘을 뒤덮는 꿈은 큰 불안감과 방향 상실을 예고하며, 개인 목표를 재점검해야 할 시기임을 알려줍니다.",
+      "interpretation_en": "A dream of the sky suddenly darkening or storm clouds overtaking the sky foretells significant anxiety and a sense of losing one's way, signaling that personal goals urgently need reassessment."
+    },
+    {
+      "keyword_ko": "어둠에서 빛이 나타나는 꿈",
+      "keyword_en": "light appearing in darkness dream",
+      "interpretation_ko": "막혀 있던 상황에서 돌파구가 열리고 오랜 고민이 해결될 것을 암시하는 길몽입니다. 발명, 발굴, 새로운 기회, 중요한 정보를 얻게 될 수 있으며 태몽으로 꾸면 영특하고 빛나는 아이를 얻을 수 있다는 해석도 있습니다.",
+      "interpretation_en": "An auspicious dream signaling a breakthrough in blocked situations and resolution of long-standing worries. May foretell discovery, invention, opportunity, or important information. When dreamed as a conception dream (태몽), it is said to herald a bright and gifted child."
+    },
+    {
+      "keyword_ko": "어둠 속에서 친구를 잃는 꿈",
+      "keyword_en": "losing someone in darkness dream",
+      "interpretation_ko": "사소한 일로 인해 소중한 사람과 감정이 상하거나 다툼이 생길 것을 경고합니다. 가까운 관계에서 오해가 생기지 않도록 소통에 주의가 필요합니다.",
+      "interpretation_en": "Warns that trivial matters will cause emotional friction or quarrels with someone dear to you. Extra care in communication with close friends or family is advisable."
+    },
+    {
+      "keyword_ko": "어두운 터널 꿈",
+      "keyword_en": "dark tunnel dream",
+      "interpretation_ko": "현재 상황에 대한 초조함과 답답함을 반영하며, 해결하려 애쓰지만 쉽게 나아가지 못하는 상태를 상징합니다. 터널의 끝에 빛이 보이면 결국 상황이 나아질 것을 암시합니다.",
+      "interpretation_en": "Reflects feelings of impatience and suffocation about a current situation. You are trying to find a solution but making slow progress. If light is visible at the tunnel's end, the situation will eventually improve."
+    },
+    {
+      "keyword_ko": "반복되는 어두운 꿈",
+      "keyword_en": "recurring dark dreams",
+      "interpretation_ko": "한국 전통 관점에서 어두운 꿈이 반복되는 것은 정기(正氣)가 소진되고 음기(陰氣)가 강해진 위험 신호입니다. 햇볕을 쬐고, 감정을 정리하며, 낮잠을 줄이는 것이 좋다고 전해집니다.",
+      "interpretation_en": "In Korean folk tradition, recurring dark dreams signal that vital life energy (정기) is depleted and yin energy (음기) dominates — a warning state requiring attention. Exposure to sunlight, emotional processing, and reducing daytime sleep are recommended remedies."
+    }
+  ],
+  "culturalContext": {
+    "korean": "한국 전통에서 어둠은 단순히 빛의 부재가 아니라 음기(陰氣)의 집결, 즉 기운이 막히고 생명력이 위축된 상태를 상징합니다. 무속 신앙에서 어둠은 저승과 이어진 공간으로 여겨졌으며, 어둡게 표현된 조상이 꿈에 나타나면 집안에 우환이 닥칠 조짐으로 해석되었습니다. 반면 어둠 속에서 빛이 떠오르는 이미지는 '광명(光明)'의 시작, 즉 막힌 기운이 뚫리는 순간으로 매우 길하게 여겨졌습니다. 이러한 음양(陰陽)의 대비 논리는 한국 꿈해몽의 핵심 원리로, 어둠의 꿈이 반드시 흉몽만은 아니며 그 안에서 빛을 찾는 행위가 해석의 열쇠가 됩니다. 조선시대 문헌에도 꿈의 색깔과 밝기는 미래의 기운을 가늠하는 중요한 지표로 활용되었으며, 민간에서는 어두운 꿈을 반복적으로 꿀 경우 소금을 현관에 뿌리거나 햇볕에 이불을 말리는 등의 벽사(辟邪) 풍습을 행하였습니다.",
+    "english": "In Korean tradition, darkness in dreams is not simply the absence of light — it symbolizes the concentration of yin energy (음기, eum-gi), a state where vital force is blocked and life energy is suppressed. In shamanic belief (무속 신앙), darkness was understood as a realm connected to the spirit world, and an ancestor appearing with a dark or shadowed expression in a dream was taken as a warning of misfortune for the household. Conversely, light rising within darkness represented the dawn of clarity (광명, gwang-myeong) — the moment blocked energy breaks through — and was considered highly auspicious. This yin-yang (음양) logic is central to Korean dream interpretation: a dark dream is not automatically inauspicious; the key lies in whether light is found within the darkness. Historical records from the Joseon period treated the brightness and color of dreams as indicators of future fortune, and folk practice prescribed rituals such as sprinkling salt at the entrance or sun-drying bedding to dispel the negative energy of recurring dark dreams."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트는 꿈 속의 어둠을 억압된 무의식의 세계, 즉 의식이 통제하거나 인정하기를 거부하는 욕망과 갈등이 숨겨진 공간으로 해석했어요. 어둠 속에서 느끼는 두려움은 어린 시절 해소되지 못한 분리 불안이나 트라우마가 자아의 방어막을 뚫고 표면화되는 것으로 볼 수 있어요. 꿈에서 빠져나오지 못하고 어둠에 갇히는 경험은 억압된 감정들이 더 이상 의식의 통제를 받지 못하고 폭발 직전에 있다는 신호일 수 있어요.",
+      "english": "Freud interpreted darkness in dreams as the unconscious itself — the hidden space where desires and conflicts the waking mind refuses to acknowledge reside. Fear felt within dream darkness can represent childhood separation anxiety or unresolved trauma breaking through the ego's defenses. Being unable to escape darkness in a dream may signal that suppressed emotions are reaching a breaking point beyond the ego's ability to contain them."
+    },
+    "jungian": {
+      "korean": "융은 꿈 속의 어둠을 '그림자(Shadow)' 원형과 직접적으로 연결했어요. 그림자는 자아가 의식적으로 거부하거나 외면해온 자신의 어두운 측면들이 응집된 존재로, 꿈에서 어두운 풍경이나 위협적인 형상으로 나타나요. 융은 '빛의 형상을 상상하는 것이 아니라 어둠을 의식화하는 것이 진정한 깨달음'이라고 말하며, 어둠의 꿈을 내면의 그림자와 직면하여 통합하라는 무의식의 초대로 보았어요. 어둠 속에서 빛을 찾아가는 꿈은 융의 개성화(individuation) 과정, 즉 온전한 자아로 성장하는 여정을 상징한다고 해석할 수 있어요.",
+      "english": "Jung linked dream darkness directly to the Shadow archetype — the unconscious repository of all aspects of the self the ego has rejected or denied, which appears in dreams as dark landscapes and threatening figures. He famously wrote that 'one does not become enlightened by imagining figures of light, but by making the darkness conscious,' viewing dark dreams as an invitation from the unconscious to confront and integrate the shadow. A dream of finding light within darkness can symbolize Jung's individuation process — the journey toward becoming a whole and integrated self."
+    },
+    "modern": {
+      "korean": "현대 인지심리학과 수면과학에서는 어두운 꿈을 낮 동안 처리하지 못한 스트레스와 불안이 수면 중에 감정 정리 작업으로 나타나는 현상으로 설명해요. 외상 후 스트레스 장애(PTSD), 번아웃, 수면 부족 상태에서 어두운 악몽이 반복되는 경향이 있으며, 이는 뇌가 위협 반응 회로를 과도하게 활성화하기 때문이에요. 인지행동치료(CBT)에서는 어두운 꿈을 근본적인 사고 패턴과 핵심 믿음 — 불확실성이나 절망감에 대한 두려움 — 이 수면 중 표면화되는 것으로 보며, 이 패턴을 인식하는 것 자체가 치료의 첫걸음이 돼요.",
+      "english": "Modern cognitive psychology and sleep science explain dark dreams as the brain's nighttime emotional-processing work on unresolved stress and anxiety from waking life. Recurring dark nightmares are particularly associated with PTSD, burnout, and chronic sleep deprivation, as the brain's threat-response circuits remain overactivated. Cognitive-behavioral therapy (CBT) views dark dream content as an expression of underlying thought patterns — particularly fears centered on uncertainty, helplessness, or hopelessness — and recognizing these patterns in dreams is considered a productive first step toward healing."
+    },
+    "crossCultural": {
+      "korean": "한국 전통 해몽이 어둠을 음기의 집결이라는 우주적 에너지 관점에서 해석하는 반면, 서양 심리학은 어둠을 내면의 억압된 감정과 무의식적 갈등의 상징으로 봐요. 흥미롭게도 두 전통 모두 '어둠 속의 빛'을 돌파구와 희망의 강력한 상징으로 공유한다는 점에서 수렴하는 면이 있어요.",
+      "english": "While Korean tradition interprets dream darkness through a cosmological lens as the concentration of yin energy, Western psychology frames it as a symbol of repressed emotions and unconscious conflict. Notably, both traditions converge on one point: light within darkness is universally regarded as a powerful symbol of breakthrough and hope."
+    }
+  },
+  "relatedSymbols": [
+    "light-dream",
+    "black-color",
+    "night-dream",
+    "tunnel-dream",
+    "shadow-dream",
+    "candle-dream",
+    "moon-dream",
+    "fear-dream"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "어두운 꿈 해몽",
+      "어둠 꿈 의미",
+      "어둠 꿈해몽",
+      "어두운 길 꿈 해몽",
+      "어두운 방 꿈해몽",
+      "어둠 속 꿈해몽",
+      "어둠에 갇히는 꿈",
+      "어두운 하늘 꿈 해몽",
+      "어둠 속 빛 꿈해몽",
+      "반복되는 어두운 꿈",
+      "어두운 꿈 길몽 흉몽",
+      "어두운 터널 꿈 해몽",
+      "어둠 꿈 음기"
+    ],
+    "english": [
+      "darkness dream meaning",
+      "dark dream Korean interpretation",
+      "dreaming of darkness",
+      "trapped in darkness dream meaning",
+      "dark room dream meaning",
+      "light in darkness dream",
+      "dark path dream symbolism",
+      "dark sky dream interpretation",
+      "recurring dark dreams meaning",
+      "darkness dream Korean folk belief"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "어두운 꿈을 꾸면 반드시 나쁜 일이 생기나요?",
+      "answer_ko": "반드시 그런 것은 아니에요. 어둠 속에서 빛을 들고 걷거나, 어둠 사이로 빛이 새어 나오는 꿈은 오히려 어려움을 극복하고 새로운 기회를 얻게 될 것을 예고하는 길몽으로 해석됩니다. 어둠 속에서 완전히 갇혀 출구가 없는 꿈이라면 일이 막힐 징조로 보지만, 꿈에서 느낀 감정과 세부 상황이 해석의 핵심이에요.",
+      "question_en": "Does dreaming of darkness always mean something bad will happen?",
+      "answer_en": "Not necessarily. Walking in darkness while carrying a torch, or seeing light seep through the dark, is interpreted as an auspicious dream foretelling that you will overcome difficulties and seize new opportunities. Only when you are completely trapped in darkness with no exit is it viewed as an inauspicious omen — the emotional tone and specific details of the dream are the key to interpretation."
+    },
+    {
+      "question_ko": "어두운 꿈을 반복적으로 꾸면 어떻게 해야 하나요?",
+      "answer_ko": "한국 민속에서는 어두운 꿈이 반복될 때 소금을 현관에 뿌리거나 햇볕에 이불을 말려 음기를 쫓는 벽사 풍습을 행했어요. 현대적으로는 낮잠을 줄이고, 충분한 햇볕을 쬐며, 억눌렸던 감정을 글로 정리하는 것이 도움이 된다고 알려져 있습니다. 반복된다면 수면 상태와 심리적 스트레스를 함께 점검해보는 것이 좋아요.",
+      "question_en": "What should I do if I keep having recurring dark dreams?",
+      "answer_en": "Korean folk tradition prescribed sprinkling salt at the entrance or sun-drying bedding to dispel the yin energy causing dark dreams. In modern terms, reducing daytime naps, getting adequate sunlight, and journaling suppressed emotions are known to help. If dark dreams recur persistently, it is worth examining both your sleep quality and underlying psychological stressors."
+    },
+    {
+      "question_ko": "어둠 속에서 빛이 나오는 꿈은 무슨 의미인가요?",
+      "answer_ko": "막혀 있던 상황에서 새로운 돌파구가 열릴 것을 알려주는 강력한 길몽이에요. 지하실이나 창고에서 불빛이 새어 나오는 꿈은 중요한 정보나 기회를 발굴하게 될 것을 의미하며, 발명이나 연구, 사업 기회와도 연결될 수 있습니다. 태몽으로 꾸면 영리하고 빛나는 자녀를 얻게 된다는 해석도 있어요.",
+      "question_en": "What does it mean to dream of light emerging from darkness?",
+      "answer_en": "It is a powerful auspicious omen signaling that a breakthrough is coming in a blocked situation. Light seeping from a dark basement or storage room specifically foretells discovering crucial information, opportunities, or breakthroughs in research or business. Dreamed as a conception dream (태몽), it is said to herald a bright and gifted child."
+    },
+    {
+      "question_ko": "어두운 방에 갇히는 꿈은 어떤 의미인가요?",
+      "answer_ko": "불이 켜지지 않는 어두운 방에 갇히는 꿈은 믿었던 사람에게 배신이나 사기를 당할 수 있다는 경고로 해석돼요. 대인관계에서 상처를 입거나 갈등이 생길 가능성이 있으므로, 당분간 새로운 거래나 신뢰 관계에서 신중함을 유지하는 것이 좋습니다.",
+      "question_en": "What does it mean to be trapped in a dark room in a dream?",
+      "answer_en": "Being trapped in a dark room where lights will not turn on is interpreted as a warning of potential betrayal or deception from a trusted person. There is a possibility of being hurt emotionally or falling into conflict in personal relationships, so it is advisable to exercise caution in new business dealings or trust relationships for the time being."
+    },
+    {
+      "question_ko": "어두운 길을 걷는 꿈은 길몽인가요, 흉몽인가요?",
+      "answer_ko": "어두운 길을 걷는 꿈은 감정적 맥락에 따라 달라져요. 빛을 들고 걷거나 두려움 없이 나아간다면 미지의 영역에서 새로운 경험과 관계를 얻게 될 중립적 또는 길몽으로 봅니다. 반면 길을 잃거나 아무런 빛도 없이 두려움에 떨며 헤매는 꿈이라면 방향 상실과 어려움을 예고하는 흉몽으로 해석됩니다.",
+      "question_en": "Is dreaming of walking on a dark path auspicious or inauspicious?",
+      "answer_en": "It depends on the emotional tone of the dream. Walking a dark path while carrying a light or feeling curious rather than afraid is interpreted as neutral to auspicious — you are about to encounter new experiences and relationships in unfamiliar territory. However, wandering in darkness without any light while feeling fearful and lost is considered inauspicious, signaling confusion and difficulty ahead."
+    },
+    {
+      "question_ko": "어두운 꿈이 태몽이 될 수 있나요?",
+      "answer_ko": "순수하게 어두운 꿈만으로는 태몽으로 보기 어려워요. 하지만 어둠 속에서 강한 빛이 솟아오르거나 어둠을 가르는 빛줄기가 나타나는 꿈이라면, 전통적으로 영특하고 특별한 기운을 지닌 아이를 얻게 될 태몽으로 해석하기도 합니다. 빛과 어둠의 극적인 대비가 포인트예요.",
+      "question_en": "Can a dark dream be a conception dream (태몽)?",
+      "answer_en": "Pure darkness alone is not typically interpreted as a conception dream. However, if strong light erupts within the darkness or a beam of light cuts dramatically through it, Korean tradition may interpret this as a 태몽 heralding a child with exceptional qualities and a brilliant future. The dramatic contrast between darkness and light is the meaningful element."
+    }
+  ]
+}

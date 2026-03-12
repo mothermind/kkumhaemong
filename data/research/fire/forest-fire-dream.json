@@ -1,0 +1,187 @@
+{
+  "symbol": {
+    "korean": "산불 꿈",
+    "english": "Forest Fire",
+    "slug": "forest-fire-dream"
+  },
+  "summary": {
+    "korean": "산불 꿈은 전통적으로 삶의 대전환과 재물운 상승을 상징하며, 불길의 규모와 꿈속 감정에 따라 길몽과 흉몽이 갈립니다.",
+    "english": "Dreaming of a forest fire traditionally symbolizes a major life turning point and rising fortune in Korean dream interpretation, with the omen shifting between auspicious and inauspicious depending on the fire's character and the dreamer's emotional response."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "산 전체가 활활 타오르는 꿈은 강한 길몽으로, 재물운과 사회적 지위가 폭발적으로 상승하는 징조입니다. 불길이 크고 밝으며 온기를 주는 느낌이라면 사업 번창, 승진, 예상을 뛰어넘는 큰 성과가 기다리고 있음을 암시합니다. 노력한 것보다 훨씬 큰 결실을 맺게 되거나 투자에서 기대 이상의 수익을 얻게 될 수도 있습니다.",
+      "english": "A dream in which the entire mountain blazes brightly and magnificently is a powerful auspicious omen, signaling explosive fortune, elevated social status, and financial gain far exceeding one's efforts. When the fire feels warm, brilliant, and expansive rather than threatening, it foreshadows business prosperity, career advancement, and returns on investment that surpass all expectations.",
+      "context": "불길이 밝고 크며 온기가 느껴질 때 / 산 전체가 장엄하게 타오를 때"
+    },
+    {
+      "type": "길몽",
+      "korean": "산불이 나는 꿈은 사회적으로 큰 영향력을 발휘하게 될 징조이기도 합니다. 직장에서 능력을 인정받아 승진하거나, 집안에 경사스러운 일이 생길 가능성이 높습니다. 작은 불씨가 강하게 타오르는 꿈 역시 기회의 씨앗이 싹트는 길몽으로, 성장 가능성이 높은 시기가 도래했음을 의미합니다.",
+      "english": "A forest fire dream can also signal that the dreamer is about to wield significant social influence. Recognition at work, a promotion, or a joyful family event may be on the horizon. Even a small spark that grows into a strong blaze is read as an auspicious omen — seeds of opportunity taking root at the start of a fortunate period.",
+      "context": "사업자나 직장인이 사회적 성취를 앞두고 있을 때 / 작은 불씨가 점점 강하게 타오를 때"
+    },
+    {
+      "type": "흉몽",
+      "korean": "산불이 걷잡을 수 없이 번지거나 연기만 피어오르고 불길이 약한 꿈은 흉몽의 신호입니다. 통제 불가능한 상황이나 재정적 손실, 계획의 차질을 암시하며, 특히 검은 연기가 자욱하거나 어두운 불길이라면 건강 또는 인간관계에서 어려움이 생길 수 있습니다.",
+      "english": "When the forest fire spreads uncontrollably or produces only thick smoke without clear flame, this signals an inauspicious omen — potential financial loss, investment failure, or plans falling apart. Dark, smoky fire with no warmth suggests complications in health or personal relationships rather than opportunity.",
+      "context": "불길이 어둡거나 연기만 피어오를 때 / 산불이 통제 불가능하게 번질 때"
+    },
+    {
+      "type": "흉몽",
+      "korean": "산불을 피해 도망치는 꿈은 현실에서 피하고 싶은 문제나 변화가 있음을 반영하는 흉몽입니다. 완전한 실패를 경험하기 전에 전략적으로 물러나야 할 시점임을 알리는 경고이기도 하며, 불이 났는데 끄지 않고 도망가는 꿈은 가정이나 직장에서 정신적 고통이 따르는 안 좋은 일이 생길 징조입니다.",
+      "english": "Fleeing from a forest fire in a dream reflects a wish to escape an unavoidable problem or unwanted change in waking life. It serves as a warning that a strategic retreat may be wiser than pressing forward into inevitable failure. Running away without attempting to extinguish the fire specifically suggests forthcoming emotional hardship at home or at work.",
+      "context": "꿈속에서 산불을 피해 도망칠 때 / 불을 끄지 않고 피하는 상황"
+    },
+    {
+      "type": "neutral",
+      "korean": "멀리서 산불을 바라보는 꿈은 외부 세계의 큰 변화를 감지하고 있지만 아직 관여하지 않은 상태를 나타냅니다. 현실에서 중요한 결정을 앞두고 감정적 거리를 두고 있는 시기일 수 있으며, 적극적 참여와 관망 사이에서 균형을 찾아야 함을 시사합니다.",
+      "english": "Watching a forest fire from a distance in a dream reflects an awareness of major changes in one's environment without yet being personally involved. It often corresponds to a period of emotional detachment or indecision before a significant life choice, suggesting the dreamer must find a balance between active engagement and patient observation.",
+      "context": "산불을 멀리서 관찰만 하는 상황 / 꿈에서 감정이 차분하거나 무덤덤할 때"
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "산 전체가 타오르는 꿈",
+      "keyword_en": "entire mountain ablaze dream",
+      "interpretation_ko": "재물운과 명예의 폭발적 상승을 의미하는 강한 길몽. 지위 상승, 사업 번창, 큰 성과가 빠르게 찾아올 징조입니다.",
+      "interpretation_en": "A powerful auspicious omen signifying explosive gains in wealth and social standing. Status advancement, business prosperity, and rapid major achievements are on their way."
+    },
+    {
+      "keyword_ko": "산불 끄는 꿈",
+      "keyword_en": "extinguishing forest fire dream",
+      "interpretation_ko": "문제를 주도적으로 해결하려는 의지를 나타내며 길몽입니다. 빠른 행동으로 재정적 손실이나 사업 실패를 막을 수 있는 시기이며, 성공적으로 불을 끈다면 어려운 상황을 완전히 극복하게 됩니다.",
+      "interpretation_en": "An auspicious dream reflecting proactive problem-solving. Swift action can prevent financial loss or business setbacks, and successfully extinguishing the fire means overcoming current difficulties completely."
+    },
+    {
+      "keyword_ko": "산불 피해 도망치는 꿈",
+      "keyword_en": "fleeing from forest fire dream",
+      "interpretation_ko": "현실의 피하고 싶은 변화나 압박에서 도망치는 상황을 반영하는 흉몽. 가정이나 직장에서 어려움이 생길 수 있으며, 전략적 후퇴가 필요한 시점임을 알립니다.",
+      "interpretation_en": "An inauspicious dream reflecting avoidance of unwanted real-life change or pressure. Difficulties at home or work may arise, and the dream signals that strategic withdrawal is preferable to a head-on collision with failure."
+    },
+    {
+      "keyword_ko": "산불 보는 꿈",
+      "keyword_en": "watching forest fire dream",
+      "interpretation_ko": "산불을 멀찍이서 바라보는 꿈은 중립적 해몽으로, 외부 변화에 대한 감지와 관망 중인 상태를 나타냅니다. 결단의 시기가 가까워졌음을 의미합니다.",
+      "interpretation_en": "Watching a forest fire from afar is a neutral omen representing awareness of external changes while remaining on the sidelines. A moment of decision is approaching."
+    },
+    {
+      "keyword_ko": "산불 밤에 타는 꿈",
+      "keyword_en": "forest fire burning at night dream",
+      "interpretation_ko": "밤에 산불이 타오르는 꿈은 오랫동안 억눌렸던 내면의 에너지와 열망이 드디어 표출되는 길몽입니다. 잠재력이 현실로 발현되는 시기의 시작을 알립니다.",
+      "interpretation_en": "A forest fire burning at night is an auspicious omen, symbolizing long-suppressed inner energy and ambitions finally breaking through. It marks the beginning of a period when latent potential transforms into real-world results."
+    },
+    {
+      "keyword_ko": "산불 연기만 나는 꿈",
+      "keyword_en": "forest fire smoke without flame dream",
+      "interpretation_ko": "불길 없이 연기만 피어오르는 꿈은 계획이 벽에 부딪히거나 의도한 바가 좀처럼 실현되지 않는 답답한 시기를 암시하는 흉몽입니다.",
+      "interpretation_en": "A dream of smoke without flame signals an inauspicious period in which plans hit frustrating obstacles and intended goals remain elusive despite effort."
+    },
+    {
+      "keyword_ko": "산불이 번지는 꿈",
+      "keyword_en": "forest fire rapidly spreading dream",
+      "interpretation_ko": "불길이 바람을 타고 빠르게 번지는 꿈은 개인의 통제 밖에서 예상치 못한 변화가 빠르게 일어날 수 있음을 경고하는 혼합적 해몽입니다. 유연한 대처 능력이 필요한 시기입니다.",
+      "interpretation_en": "A dream of fire spreading rapidly with the wind warns of unexpected changes unfolding beyond the dreamer's control. It is a mixed omen urging flexibility and readiness to adapt quickly."
+    },
+    {
+      "keyword_ko": "다른 사람이 산불 끄는 꿈",
+      "keyword_en": "others extinguishing forest fire dream",
+      "interpretation_ko": "타인이 산불을 끄는 꿈은 주변의 가까운 사람(동료, 친구, 가족)이 재정적 어려움이나 위기를 잘 피해가게 될 것을 암시하는 길몽입니다.",
+      "interpretation_en": "Watching others successfully extinguish a forest fire is an auspicious omen indicating that a close colleague, friend, or family member will successfully avoid financial hardship or a potential crisis."
+    },
+    {
+      "keyword_ko": "산불로 산이 타버리는 꿈",
+      "keyword_en": "mountain completely burned by forest fire dream",
+      "interpretation_ko": "산이 완전히 타버리는 꿈은 삶의 구조 자체가 근본적으로 재편되는 대변화를 상징합니다. 기존의 방식이나 환경을 전면 재정비해야 하는 시점이 왔음을 의미합니다.",
+      "interpretation_en": "A mountain completely consumed by fire symbolizes a radical restructuring of one's life foundations. It signals that the time has come to completely overhaul existing approaches, environments, or relationships."
+    }
+  ],
+  "culturalContext": {
+    "korean": "한국 전통 문화에서 불은 단순한 자연 현상을 넘어 하늘과 땅, 이승과 저승을 연결하는 신성한 매개체였습니다. 무속 신앙에서는 소지(燒紙)와 향불을 통해 불의 신통력을 빌려 신과 소통하고, 사악함을 정화하는 힘이 있다고 믿었습니다. 오행(五行) 사상에서 불은 남방(南方), 생명력, 변환을 상징하며, 집안의 부엌신인 조왕(竈王) 역시 불을 통한 정화와 보호를 관장하는 신이었습니다. '산(山)'은 한국 민간 신앙에서 산신령이 깃든 신성한 공간으로, 명예와 도전, 삶의 중심축을 상징합니다. 따라서 산에서 불이 나는 꿈은 신성한 두 상징이 결합된 것으로, 삶의 근본적 변화와 대운(大運)의 전환을 알리는 강력한 신호로 해석되어 왔습니다. 정월 대보름의 쥐불놀이 풍습도 이러한 전통을 반영하는데, 밝게 타오르는 불길이 한 해의 풍요로운 수확을 예고한다고 믿었습니다.",
+    "english": "In Korean traditional culture, fire transcended its physical nature to serve as a sacred medium connecting heaven and earth, the living and the dead. Shamanistic rituals employing burning paper offerings (소지) and incense borrowed fire's divine power to communicate with spirits and purify malevolent forces. Within the Five Elements (오행) cosmological framework, fire governed the southern direction, vitality, and transformation. The kitchen hearth deity Jowang (조왕) embodied fire's role as household purifier and moral guardian. Mountains meanwhile held supreme sacred status in Korean folk belief as dwelling places of mountain spirits (산신령), symbolizing life's central axis, honor, and aspiration. A dream fusing these two powerful symbols — fire upon a sacred mountain — was therefore read as a potent signal of fundamental life change and the arrival of great fortune. This symbolic tradition finds expression in the Lunar New Year custom of Jwibulnori (쥐불놀이), where brightly burning field fires were believed to foretell abundant harvests for the year ahead."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트는 불을 억눌린 감정, 특히 내면에 쌓인 분노나 열정적 충동과 연결했어요. 꿈속의 산불은 억제해온 강한 감정이나 욕구가 폭발적으로 표출되려는 무의식의 신호일 수 있습니다. 또한 프로이트는 인간이 불을 통제하는 법을 배운 것이 충동을 다스리는 능력과 관련 있다고 보았는데, 산불처럼 걷잡을 수 없는 불길은 자아가 통제하지 못한 본능적 에너지를 상징할 수 있어요.",
+      "english": "Freud linked fire to suppressed emotions, particularly pent-up anger and passionate impulses stored in the unconscious. A raging forest fire in a dream may signal that repressed drives or intense emotions are pressing toward an explosive release. Freud also observed that humanity's mastery of fire parallels the ego's control of instinct, meaning an uncontrollable wildfire can represent instinctual energy that has slipped beyond the ego's regulation."
+    },
+    "jungian": {
+      "korean": "융의 분석심리학에서 불은 변환(transformation)과 정화의 원형적 상징이에요. 산불은 집단 무의식 속에서 파괴와 재생의 영원한 주기를 나타내는 강력한 원형으로, 오래된 자아 구조가 타들어가고 새로운 자기(Self)로 거듭나는 개성화(individuation) 과정의 은유입니다. 융은 숲을 무의식의 공간으로 보았는데, 숲에 불이 붙는 꿈은 무의식 깊은 곳에서 일어나는 심층적 심리 변환을 나타낼 수 있어요.",
+      "english": "In Jungian analytical psychology, fire is a central archetype of transformation and purification. A forest fire symbolizes the eternal cycle of destruction and rebirth within the collective unconscious — an archetypal image of an old self-structure being consumed so that a renewed Self can emerge through individuation. Jung viewed the forest as the domain of the unconscious, making a forest fire a vivid image of profound psychological transformation erupting from the depths of the psyche."
+    },
+    "modern": {
+      "korean": "현대 심리학에서는 산불 꿈을 주로 삶의 급격한 변화나 통제력 상실에 대한 불안을 처리하는 뇌의 활동으로 해석해요. 큰 스트레스나 번아웃 상태에 있는 사람이 산불 꿈을 자주 꾼다는 연구 결과도 있으며, 이는 뇌가 감당하기 어려운 감정적 부하를 꿈을 통해 상징적으로 처리하려는 시도로 볼 수 있습니다. 반면 긍정적 변화를 앞둔 사람의 경우 이 꿈은 흥분과 기대감의 심리적 표현일 수도 있어요.",
+      "english": "Modern psychology generally interprets forest fire dreams as the brain's way of processing anxiety about rapid change, loss of control, or emotional overwhelm. Research suggests that people experiencing high stress or burnout frequently dream of uncontrollable fires, representing the psyche's symbolic attempt to manage an overwhelming emotional load. Conversely, in individuals on the cusp of positive change, the dream may reflect deep psychological excitement and readiness for transformation."
+    },
+    "crossCultural": {
+      "korean": "한국 전통 해몽이 산불을 재물운과 사회적 상승의 강한 길조로 보는 반면, 서양 심리학은 통제되지 않는 불길을 억압된 감정이나 심리적 부담의 표현으로 해석하는 경향이 있어요. 두 관점 모두 산불이 '변화'와 깊이 연결된다는 점에서는 공통된 직관을 공유합니다.",
+      "english": "While Korean traditional interpretation reads a forest fire as a powerful omen of wealth and social ascent, Western psychology tends to frame an uncontrolled blaze as an expression of suppressed emotion or psychological overload. Both traditions nonetheless share the intuition that fire — and a forest fire especially — is an unmistakable symbol of profound change."
+    }
+  },
+  "relatedSymbols": ["fire", "mountain", "house-fire", "wildfire", "smoke", "burning-field"],
+  "seoKeywords": {
+    "korean": [
+      "산불 꿈해몽",
+      "산불 꿈",
+      "산불 나는 꿈",
+      "산에 불나는 꿈",
+      "산불 꿈 길몽",
+      "산불 꿈 흉몽",
+      "산불 끄는 꿈",
+      "산불 도망치는 꿈",
+      "산불 보는 꿈 해몽",
+      "산불 꿈 재물운",
+      "산에 불이 나는 꿈 의미",
+      "산불 꿈 사업"
+    ],
+    "english": [
+      "forest fire dream meaning",
+      "dream about forest fire korean interpretation",
+      "mountain fire dream symbolism",
+      "wildfire dream meaning",
+      "dreaming of forest fire good luck",
+      "forest fire dream auspicious",
+      "running from forest fire dream",
+      "extinguishing forest fire dream meaning",
+      "Korean dream interpretation fire mountain"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "산불 꿈은 길몽인가요, 흉몽인가요?",
+      "answer_ko": "산불 꿈은 불길의 상태와 꿈속 감정에 따라 달라집니다. 불길이 크고 밝으며 장엄하게 타오른다면 재물운과 사회적 성공을 암시하는 강한 길몽입니다. 반면 연기만 피어오르거나 어두운 불길, 또는 불길을 피해 도망치는 상황이라면 재정적 손실이나 어려움을 경고하는 흉몽으로 해석됩니다.",
+      "question_en": "Is dreaming of a forest fire a good or bad omen?",
+      "answer_en": "It depends on the nature of the fire and the dreamer's emotional response. A bright, large, magnificent blaze is a strong auspicious omen for wealth and social success. Smoky, dark, or uncontrollable fires — or fleeing from the fire — are interpreted as inauspicious warnings of financial difficulty or hardship."
+    },
+    {
+      "question_ko": "산불 꿈을 꾸면 로또를 사야 하나요?",
+      "answer_ko": "산 전체가 밝게 타오르는 꿈처럼 강한 길몽일 경우, 전통 해몽에서는 재물운이 크게 오르는 시기로 봅니다. 로또 구매를 고려해볼 수 있지만, 꿈해몽은 재미있는 민간 전통이므로 결과에 너무 의존하지 않는 것이 좋습니다.",
+      "question_en": "Should I buy a lottery ticket after dreaming of a forest fire?",
+      "answer_en": "In Korean folk tradition, a dream of a mountain fully ablaze is considered a strong sign of rising financial fortune, making lottery purchases a popular response. That said, dream interpretation is a fun folk tradition rather than a guaranteed forecast — enjoy the positive energy, but make decisions based on real-life circumstances."
+    },
+    {
+      "question_ko": "산불 끄는 꿈은 어떤 의미인가요?",
+      "answer_ko": "산불을 성공적으로 끄는 꿈은 현재 직면한 문제나 어려움을 주도적으로 해결하는 능력을 나타내는 길몽입니다. 빠른 결단과 행동으로 재정적 손실이나 위기를 막을 수 있는 시기임을 암시합니다. 반면 불을 끄지 못하는 꿈은 현재 문제가 쉽게 해결되지 않을 수 있음을 경고합니다.",
+      "question_en": "What does it mean to extinguish a forest fire in a dream?",
+      "answer_en": "Successfully putting out a forest fire is an auspicious dream reflecting strong problem-solving ability. It suggests that swift, decisive action in waking life can prevent financial loss or avert a looming crisis. Failing to extinguish the fire, however, warns that current difficulties may not resolve easily."
+    },
+    {
+      "question_ko": "산불 꿈에서 도망치는 것은 무슨 의미인가요?",
+      "answer_ko": "산불을 피해 도망치는 꿈은 현실에서 피하고 싶은 변화나 어려움이 있음을 반영하는 흉몽입니다. 전통 해몽에서는 완전한 실패보다 전략적 후퇴가 낫다는 신호로도 보며, 가정이나 직장에서 정신적 어려움이 생길 징조로도 해석됩니다.",
+      "question_en": "What does it mean to flee from a forest fire in a dream?",
+      "answer_en": "Fleeing a forest fire in a dream is generally an inauspicious sign, reflecting a desire to escape unavoidable challenges or transitions in real life. Traditional Korean interpretation reads it as a signal that strategic retreat may be wiser than pushing forward, and it can also warn of emotional hardship at home or work."
+    },
+    {
+      "question_ko": "산불 꿈과 집에 불나는 꿈은 어떻게 다른가요?",
+      "answer_ko": "두 꿈 모두 불을 소재로 하지만 해석의 층위가 다릅니다. 산불 꿈은 사회적 지위, 명예, 삶의 전반적 전환에 초점이 맞춰져 있는 반면, 집에 불나는 꿈은 가정 내부의 변화, 가족 관계, 개인적 재물운에 더 직접적으로 연결되는 경향이 있습니다.",
+      "question_en": "How does a forest fire dream differ from a house fire dream?",
+      "answer_en": "Both involve fire but carry distinct interpretive layers. A forest fire dream centers on social status, public honor, and sweeping life transformation, while a house fire dream connects more directly to changes within the family, domestic relationships, and personal financial fortune."
+    },
+    {
+      "question_ko": "산불 꿈의 감정이 해석에 얼마나 중요한가요?",
+      "answer_ko": "매우 중요합니다. 산불을 보며 장엄함이나 평온함을 느꼈다면 긍정적 대변화의 신호이고, 두려움이나 공황 상태였다면 감당하기 어려운 변화가 다가오고 있다는 경고입니다. 꿈속의 감정은 해몽에서 불길의 크기만큼이나 핵심적인 해석 요소입니다.",
+      "question_en": "How important is emotion when interpreting a forest fire dream?",
+      "answer_en": "Extremely important. Feeling awe or calm while watching the forest fire signals positive, transformative change ahead. Feeling terror or panic warns that overwhelming, unmanageable change is approaching. In Korean dream interpretation, the dreamer's emotional state is considered just as significant as the size and behavior of the fire itself."
+    }
+  ]
+}
