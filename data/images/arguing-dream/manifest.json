@@ -1,0 +1,27 @@
+{
+  "slug": "arguing-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/arguing-dream/hero.png",
+    "alt_ko": "꿈속에서 안개 낀 다리 위에서 마주 선 두 그림자 — 다투는 꿈 해몽",
+    "alt_en": "Two shadowy figures facing each other on a misty bridge — arguing dream illustration",
+    "prompt": "Two shadowy figures facing each other in heated argument across a misty bridge, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike foggy atmosphere, cool indigo and grey tones with faint warm lantern glow, no text, no faces shown"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/arguing-dream/auspicious.png",
+      "alt_ko": "벚꽃나무 아래에서 화해하는 두 인물 — 다투다 화해하는 길몽",
+      "alt_en": "Two figures reconciling beneath a blooming cherry tree — auspicious arguing dream",
+      "prompt": "Two figures bowing to each other in reconciliation beneath a blooming cherry tree, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), warm golden sunrise light, spring blossoms drifting in mist, hopeful and serene atmosphere, no text, no faces shown"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/arguing-dream/inauspicious.png",
+      "alt_ko": "빗속에 홀로 선 인물 — 구설수와 갈등을 경고하는 흉몽",
+      "alt_en": "A solitary figure standing alone in heavy rain — inauspicious arguing dream warning",
+      "prompt": "A solitary figure standing alone in heavy rain on a dark stone path, cracked ground beneath their feet, deep shadows and cold blue-grey tones, soft ink-wash illustration, Korean traditional painting aesthetic (한국화), ominous stormy atmosphere, no text, no faces shown"
+    }
+  ]
+}

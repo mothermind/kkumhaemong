@@ -1,0 +1,30 @@
+{
+  "slug": "teaching-dream",
+  "hero": {
+    "path": "/images/dreams/teaching-dream/hero.png",
+    "alt_ko": "한옥 서재에서 학생들을 가르치는 조선시대 선비, 수묵화 일러스트",
+    "alt_en": "A Joseon-era Confucian scholar teaching students in a traditional hanok study, ink-wash illustration",
+    "prompt": "A serene Korean Confucian scholar seated at a low wooden desk in a traditional hanok study, teaching a small group of attentive students dressed in white hanbok, soft ink-wash illustration style, Korean traditional painting aesthetic, dreamlike misty atmosphere, warm golden candlelight, ancient calligraphy scrolls on the wall, muted earth tones with subtle gold highlights, no text",
+    "aspectRatio": "16:9"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/teaching-dream/auspicious.png",
+      "alt_ko": "존경하며 경청하는 학생들 앞에 선 현명한 스승, 따뜻한 아침 햇살이 비치는 전통 교실",
+      "alt_en": "A wise teacher before respectfully attentive students, warm golden morning light in a traditional classroom",
+      "prompt": "A wise Korean elder teacher standing before attentive students in a sunlit traditional classroom, students bowing respectfully, soft watercolor illustration style, warm golden morning light streaming through paper screens, Korean traditional aesthetic, symbols of prosperity and honor floating gently in the air, dreamlike and uplifting atmosphere, no text",
+      "aspectRatio": "4:3"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/teaching-dream/inauspicious.png",
+      "alt_ko": "아무도 듣지 않는 교실에서 홀로 서 있는 교사, 흐린 빛과 고독한 분위기",
+      "alt_en": "A teacher standing alone in a dim classroom while students look away, overcast light and a melancholic atmosphere",
+      "prompt": "A Korean teacher standing alone in a dimly lit traditional classroom, speaking to rows of students who look away or sleep, heavy overcast light through rice-paper windows, melancholic ink-wash illustration style, muted grey and blue tones, a sense of quiet loneliness and disconnect, dreamlike atmosphere, no text",
+      "aspectRatio": "4:3"
+    }
+  ],
+  "generatedAt": "2026-03-12T00:00:00.000Z",
+  "provider": "imagen4"
+}

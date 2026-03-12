@@ -1,0 +1,27 @@
+{
+  "slug": "car-accident-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/car-accident-dream/hero.png",
+    "alt_ko": "안개 낀 산길 위의 차 사고 장면 — 교통사고 꿈 해몽 대표 이미지",
+    "alt_en": "A wrecked car on a misty mountain road at dawn — car accident dream illustration",
+    "prompt": "A twisted car wreck on a misty mountain road at dawn, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike ethereal atmosphere, muted earth tones with pale morning light, no text, no people, no faces"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/car-accident-dream/auspicious.png",
+      "alt_ko": "사고에서 살아남아 새벽빛 속으로 걸어가는 장면 — 길몽 이미지",
+      "alt_en": "Survivor walking toward golden morning light after a car crash — auspicious dream omen",
+      "prompt": "A survivor walking away from a wrecked car into golden morning light, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), warm golden sunrise tones, hopeful dreamlike atmosphere, spring blossoms in background, no text, no faces"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/car-accident-dream/inauspicious.png",
+      "alt_ko": "폭풍우 치는 밤길의 사고 차량 — 흉몽 이미지",
+      "alt_en": "A crashed car on a dark stormy road at night — inauspicious dream warning",
+      "prompt": "A crashed car on a dark stormy road at night, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), deep blue and grey tones, storm clouds and heavy rain, ominous dreamlike atmosphere, no text, no people, no faces"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "searching-dream",
+  "generatedAt": "2026-03-12T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/searching-dream/hero.png",
+    "alt_ko": "안개 낀 갈림길에서 헤매는 모습을 담은 한국화 스타일 수채화 삽화",
+    "alt_en": "Ink-wash illustration of misty crossroads representing the dream of searching and wandering",
+    "prompt": "A lone figure wandering through misty foggy paths at a crossroads, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, no text, no people, muted blues and greys with soft ethereal light"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/searching-dream/auspicious.png",
+      "alt_ko": "안개 낀 산길에서 황금빛 여명이 비치는 희망의 장면을 담은 수채화 삽화",
+      "alt_en": "Ink-wash illustration of golden sunrise breaking through mountain mist, symbolizing finding the path",
+      "prompt": "A traveler discovering a golden path through misty mountains at sunrise, warm golden light breaking through clouds, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike hopeful atmosphere, no text, warm earth tones and golden sunrise colors"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/searching-dream/inauspicious.png",
+      "alt_ko": "어두운 숲 속에서 길을 잃고 헤매는 장면을 담은 수채화 삽화",
+      "alt_en": "Ink-wash illustration of a dark dense forest at night with no visible path, symbolizing being lost",
+      "prompt": "A figure lost in a dark dense forest at night, shadowy trees with no visible path, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike foreboding atmosphere, no text, deep blue and grey tones with moonlit shadows"
+    }
+  ]
+}

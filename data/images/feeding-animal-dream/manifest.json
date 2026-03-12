@@ -1,0 +1,27 @@
+{
+  "slug": "feeding-animal-dream",
+  "hero": {
+    "path": "/images/dreams/feeding-animal-dream/hero.png",
+    "alt_ko": "한복 입은 사람이 안개 낀 산속 계곡에서 강아지와 새들에게 먹이를 주는 한국 전통 수묵화 풍경",
+    "alt_en": "Person in hanbok gently offering food to a dog and birds near a misty mountain stream, Korean ink-wash illustration style",
+    "prompt": "A serene Korean traditional scene of a person in hanbok gently offering food to animals near a misty mountain stream, soft ink-wash illustration style, Korean traditional painting aesthetic, dreamlike atmosphere, golden morning light, a dog and birds gathering around, muted earth tones with warm golden highlights, no text, wide cinematic composition"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/feeding-animal-dream/auspicious.png",
+      "alt_ko": "빛나는 수면 위로 황금빛 물고기들이 활발히 먹이를 먹는 풍요로운 수채화 일러스트",
+      "alt_en": "Colorful fish eagerly rising to eat food on glowing water surface, abundant golden light, Korean folk watercolor style",
+      "prompt": "A joyful Korean traditional scene of colorful fish eagerly rising to eat food scattered on glowing water surface, soft watercolor illustration style, Korean folk art aesthetic, coins and golden light reflecting in the water, abundant and prosperous atmosphere, warm golden tones, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/feeding-animal-dream/inauspicious.png",
+      "alt_ko": "야생동물이 먹이를 거부하며 공격하려는 긴장감 있는 한국 전통 수묵화",
+      "alt_en": "Person recoiling as a wild animal snaps away from offered food, dark moody Korean ink-wash illustration",
+      "prompt": "A tense Korean traditional scene of a person recoiling as a wild animal snaps or turns away from offered food, soft ink-wash illustration style, Korean traditional painting aesthetic, dark muted tones, shadowy forest background, sense of warning and caution, moody atmosphere, no text"
+    }
+  ],
+  "generatedAt": "2026-03-12T00:00:00.000Z",
+  "provider": "imagen4"
+}

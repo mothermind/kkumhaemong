@@ -1,0 +1,27 @@
+{
+  "slug": "falling-into-hole-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/falling-into-hole-dream/hero.png",
+    "alt_ko": "땅속 구멍에서 희미한 황금빛이 새어 나오는 몽환적인 한국화 풍의 삽화",
+    "alt_en": "A dark hole in the earth glowing with faint golden light from within, dreamlike Korean ink-wash illustration",
+    "prompt": "A dark circular hole opening in misty earth, faint golden light glowing from deep within, surrounded by gnarled tree roots and ancient stones, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, no text, no people, muted earth tones with subtle golden highlights"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/falling-into-hole-dream/auspicious.png",
+      "alt_ko": "따뜻한 빛이 솟아오르는 구멍과 봄꽃이 피어난 길몽 이미지",
+      "alt_en": "A hole radiating warm golden light surrounded by spring blossoms, auspicious dream illustration",
+      "prompt": "A hole in the earth radiating warm golden light from within, cherry blossoms and fresh spring grass surrounding the opening, a single kite soaring above in a clear sky, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, warm golden sunrise tones, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/falling-into-hole-dream/inauspicious.png",
+      "alt_ko": "폭풍 구름 아래 어두운 심연의 구멍, 흉몽을 나타내는 한국화 풍 삽화",
+      "alt_en": "A dark bottomless pit under storm clouds with dead branches at the edge, inauspicious dream illustration",
+      "prompt": "A dark bottomless pit in cracked barren earth, storm clouds churning overhead, dead branches clawing at the edges, cold moonlight casting deep shadows into the abyss, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike ominous atmosphere, deep indigo and charcoal tones, no text, no people"
+    }
+  ]
+}

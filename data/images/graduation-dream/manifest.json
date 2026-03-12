@@ -1,0 +1,27 @@
+{
+  "slug": "graduation-dream",
+  "generatedAt": "2026-03-12T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/graduation-dream/hero.png",
+    "alt_ko": "졸업식 행사장에 놓인 졸업장 두루마리, 한국화 수묵화 스타일의 꿈 같은 분위기",
+    "alt_en": "A diploma scroll on a ceremonial podium in a graduation hall, Korean ink-wash illustration dreamlike atmosphere",
+    "prompt": "A graduation ceremony hall with a diploma scroll resting on a ceremonial podium, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, warm golden light streaming through tall windows, cherry blossom petals drifting gently, no text, no people, muted gold and ivory tones with soft blue accents"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/graduation-dream/auspicious.png",
+      "alt_ko": "황금 리본으로 묶인 졸업장과 매화꽃, 따뜻한 새벽빛, 길몽을 상징하는 수묵화",
+      "alt_en": "A diploma scroll tied with golden ribbon surrounded by plum blossoms and sunrise light, Korean ink-wash illustration auspicious dream",
+      "prompt": "A radiant diploma scroll tied with a golden ribbon placed on a ceremonial tray, surrounded by blooming plum blossoms and soft sunrise light, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, warm golden and rose dawn tones, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/graduation-dream/inauspicious.png",
+      "alt_ko": "밤의 텅 빈 졸업식장, 차가운 돌계단 위에 뒤집어진 학사모, 흉몽을 상징하는 수묵화",
+      "alt_en": "An empty graduation hall at night with an overturned mortarboard on cold stone steps, deep shadows and mist, Korean ink-wash illustration inauspicious dream",
+      "prompt": "An empty graduation hall at night, an overturned academic mortarboard on cold stone steps, deep shadows and mist swirling, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike foreboding atmosphere, cool deep blues and grey tones with faint moonlight, no text, no people"
+    }
+  ]
+}

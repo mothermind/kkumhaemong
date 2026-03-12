@@ -1,0 +1,27 @@
+{
+  "slug": "eating-delicious-food-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/eating-delicious-food-dream/hero.png",
+    "alt_ko": "한국 전통 상차림 — 맛있는 음식이 가득 놓인 소반, 수채화풍 꿈 일러스트",
+    "alt_en": "A traditional Korean low table spread with abundant delicious dishes — soft ink-wash dream illustration",
+    "prompt": "A sumptuous Korean feast spread on a low wooden table, steaming bowls of rice and colorful banchan dishes arranged in harmony, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, warm golden light, no text, no people, earthy amber and cream tones"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/eating-delicious-food-dream/auspicious.png",
+      "alt_ko": "황금빛 수확의 풍경 — 가을 결실과 풍요를 상징하는 한국 전통 수채화",
+      "alt_en": "Golden harvest abundance — traditional Korean watercolor illustration symbolizing prosperity and good fortune",
+      "prompt": "Golden autumn harvest scene with overflowing baskets of fruit and rice, a traditional Korean ceramic bowl brimming with steaming food, warm sunrise light, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, golden and amber tones, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/eating-delicious-food-dream/inauspicious.png",
+      "alt_ko": "쓸쓸한 빈 밥상 — 외로움과 결핍을 암시하는 달빛 아래 한국 전통 수채화",
+      "alt_en": "A lonely empty dining table in dim moonlight — Korean traditional ink-wash illustration suggesting emotional lack",
+      "prompt": "An empty Korean dining table in a dim, shadowy room, a single overturned bowl, cold blue moonlight filtering through a paper screen door, soft ink-wash illustration, Korean traditional painting aesthetic (한국화), melancholic dreamlike atmosphere, deep indigo and grey tones, no text, no people"
+    }
+  ]
+}

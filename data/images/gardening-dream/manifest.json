@@ -1,0 +1,27 @@
+{
+  "slug": "gardening-dream",
+  "hero": {
+    "path": "/images/dreams/gardening-dream/hero.png",
+    "alt_ko": "한국 전통 정원을 가꾸는 꿈 - 싱그러운 식물과 꽃이 가득한 아침 안개 속 정원",
+    "alt_en": "A serene Korean traditional garden in soft morning mist, lush plants and blooming flowers, ink-wash illustration style",
+    "prompt": "A serene Korean traditional garden being tended by unseen hands, lush green plants and blooming flowers in full abundance, soft morning mist, ink-wash illustration style with gentle watercolor washes, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, earthy greens and soft golden light filtering through foliage, stone pathway, bamboo fence in background, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/gardening-dream/auspicious.png",
+      "alt_ko": "꽃이 만발하고 열매가 가득한 풍성한 정원 - 길몽을 상징하는 황금빛 정원",
+      "alt_en": "A flourishing garden overflowing with colorful blossoms and ripe fruit, golden sunlight streaming through leaves, auspicious and abundant",
+      "prompt": "A flourishing garden overflowing with colorful blossoms and ripe fruit, golden sunlight streaming through leaves, vibrant greens and warm yellows, abundant harvest and blooming flowers, Korean traditional painting style with soft ink-wash technique, dreamlike and auspicious atmosphere, butterflies and gentle breeze, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/gardening-dream/inauspicious.png",
+      "alt_ko": "잡초가 무성하고 황폐해진 정원 - 방치된 삶을 경고하는 어두운 정원",
+      "alt_en": "An overgrown and neglected garden in twilight, withered plants and tangled weeds, dry cracked earth, somber Korean ink-wash style",
+      "prompt": "An overgrown and neglected garden in twilight, withered plants and tangled weeds overtaking dry cracked earth, bare twisted branches, muted desaturated colors of grey and brown, melancholy and eerie atmosphere, Korean ink-wash painting style, misty and somber mood, no text, no people"
+    }
+  ],
+  "generatedAt": "2026-03-12T00:00:00.000Z",
+  "provider": "imagen4"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "hugging-dead-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4-fast",
+  "hero": {
+    "path": "/images/dreams/hugging-dead-dream/hero.png",
+    "alt_ko": "꿈속에서 죽은 사람을 따뜻하게 안는 장면, 한국화 수묵수채화 스타일",
+    "alt_en": "A warm ethereal embrace between the living and a departed spirit, Korean ink-wash illustration",
+    "prompt": "A warm ethereal embrace between a living person and a translucent spirit figure of a deceased elder, surrounded by soft glowing light, misty mountain background, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, no text, warm golden tones with soft white luminescence"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/hugging-dead-dream/auspicious.png",
+      "alt_ko": "조상의 영이 따뜻한 빛으로 후손을 안아주는 길몽 장면",
+      "alt_en": "An ancestral spirit with golden aura embracing a descendant amid spring blossoms, auspicious dream scene",
+      "prompt": "A serene ancestor spirit figure with glowing golden aura embracing a descendant in a blooming spring garden, cherry blossoms falling gently, warm sunrise light, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, no text, warm golden and rose tones"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/hugging-dead-dream/inauspicious.png",
+      "alt_ko": "어두운 밤 안개 속에서 놓아주지 않는 그림자 형상, 경고몽 장면",
+      "alt_en": "A shadowy figure clinging in dark foggy night forest, cautionary dream scene",
+      "prompt": "A dark shadowy figure clinging tightly to a person in a foggy night scene, deep dark forest with bare trees, moon obscured by dark clouds, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike unsettling atmosphere, no text, cool deep blues and dark grays"
+    }
+  ]
+}

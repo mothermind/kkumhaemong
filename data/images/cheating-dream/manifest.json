@@ -1,0 +1,27 @@
+{
+  "slug": "cheating-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/cheating-dream/hero.png",
+    "alt_ko": "두 사람의 실루엣이 어두운 방 양 끝에 따로 앉아 있는 수묵화 스타일 일러스트",
+    "alt_en": "Ink-wash illustration of two silhouettes sitting apart in a dimly lit room, symbolizing emotional distance",
+    "prompt": "A couple sitting apart on opposite ends of a dimly lit room, their silhouettes separated by a wide empty space, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike misty atmosphere, cool blue and grey tones, no text, no explicit figures"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/cheating-dream/auspicious.png",
+      "alt_ko": "새벽 햇살 속에 피어난 복숭아나무와 원앙 한 쌍이 흐르는 개울가에 있는 수묵화 일러스트",
+      "alt_en": "Ink-wash illustration of blooming peach tree and mandarin ducks at dawn, symbolizing prosperity and rising social recognition",
+      "prompt": "A blooming peach tree beside a flowing stream at dawn, golden sunlight filtering through branches, a pair of mandarin ducks swimming together, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike warm atmosphere, golden and amber tones, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/cheating-dream/inauspicious.png",
+      "alt_ko": "폭우 속 찢어진 우산을 든 외로운 인물과 깨진 거울 조각이 있는 수묵화 일러스트",
+      "alt_en": "Ink-wash illustration of a lone figure in heavy rain with a torn umbrella and shattered mirror shards, symbolizing hidden secrets and trust fractures",
+      "prompt": "A lone figure standing in heavy rain under a torn umbrella beside a cracked stone wall, fractured mirror shards on the ground, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike foreboding atmosphere, deep indigo and slate tones, night scene, no text"
+    }
+  ]
+}

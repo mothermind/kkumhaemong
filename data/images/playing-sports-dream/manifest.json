@@ -1,0 +1,27 @@
+{
+  "slug": "playing-sports-dream",
+  "hero": {
+    "path": "/images/dreams/playing-sports-dream/hero.png",
+    "alt_ko": "새벽 산길을 달리는 운동선수 — 운동하는 꿈해몽",
+    "alt_en": "Lone athlete running on a misty mountain trail at dawn — sports dream interpretation",
+    "prompt": "A lone athlete running on a misty mountain trail at dawn, soft ink-wash illustration style, Korean traditional painting aesthetic, dreamlike atmosphere, muted earth tones with golden sunrise light, motion blur suggesting speed and determination, no text"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/playing-sports-dream/auspicious.png",
+      "alt_ko": "결승선을 통과하며 승리를 외치는 선수 — 길몽",
+      "alt_en": "Athlete crossing the finish line in triumph — auspicious sports dream",
+      "prompt": "An athlete victoriously crossing a finish line, arms raised in triumph, cheering crowd in background, soft watercolor illustration style, Korean traditional painting aesthetic, warm golden and amber tones, dreamlike celebratory atmosphere, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/playing-sports-dream/inauspicious.png",
+      "alt_ko": "텅 빈 경기장 관중석에 홀로 앉은 지친 선수 — 흉몽",
+      "alt_en": "Exhausted athlete sitting alone on empty stadium bleachers — inauspicious sports dream",
+      "prompt": "An exhausted athlete sitting alone on empty stadium bleachers, head bowed, twilight setting, soft ink-wash illustration style, Korean traditional painting aesthetic, cool muted blue and grey tones, melancholy dreamlike atmosphere, no text"
+    }
+  ],
+  "generatedAt": "2026-03-12T00:00:00.000Z",
+  "provider": "imagen4"
+}

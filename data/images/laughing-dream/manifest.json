@@ -1,0 +1,27 @@
+{
+  "slug": "laughing-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/laughing-dream/hero.png",
+    "alt_ko": "달빛 아래 정자에서 혼자 환하게 웃는 꿈 속 장면 — 수묵화 스타일",
+    "alt_en": "A lone figure laughing joyfully on a moonlit pavilion — ink-wash dream illustration",
+    "prompt": "A lone figure seated on a moonlit pavilion, head tilted back in silent laughter, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, cherry blossoms drifting, warm golden light radiating, no text, no faces shown, muted earth tones with golden highlights"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/laughing-dream/auspicious.png",
+      "alt_ko": "금빛 구름 속에서 환하게 웃는 신령 — 길몽을 상징하는 수묵화",
+      "alt_en": "A divine mountain spirit smiling amid golden clouds — auspicious dream illustration",
+      "prompt": "A divine mountain spirit beaming with a radiant smile amid golden clouds, celestial light streaming down, lotus flowers blooming below, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), warm amber and gold palette, auspicious fortune motifs, no text, dreamlike serene atmosphere"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/laughing-dream/inauspicious.png",
+      "alt_ko": "어두운 안개 속 그림자들에 둘러싸인 외로운 인물 — 흉몽을 상징하는 수묵화",
+      "alt_en": "A solitary figure surrounded by shadowy silhouettes in a dark misty courtyard — inauspicious dream illustration",
+      "prompt": "A crowd of shadowy silhouettes surrounding a solitary figure in a dark misty courtyard, eerie expressions hinting at mockery, cold moonlight casting long shadows, bare winter trees in background, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), cool blue and grey tones, no text, unsettling dreamlike atmosphere"
+    }
+  ]
+}

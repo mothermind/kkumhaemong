@@ -1,0 +1,27 @@
+{
+  "slug": "surfing-dream",
+  "generatedAt": "2026-03-12T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/surfing-dream/hero.png",
+    "alt_ko": "새벽 파도 위에서 서핑하는 실루엣을 담은 수묵화 스타일 일러스트",
+    "alt_en": "Ink-wash illustration of a surfer silhouette riding a dawn ocean wave",
+    "prompt": "A lone surfer silhouette riding a powerful ocean wave at dawn, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty sea atmosphere, muted blue and golden tones, no text, no faces"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/surfing-dream/auspicious.png",
+      "alt_ko": "황금빛 일출 아래 파도를 능숙하게 타는 서퍼를 담은 길몽 이미지",
+      "alt_en": "Surfer triumphantly riding a golden wave under sunrise — auspicious dream illustration",
+      "prompt": "A surfer triumphantly riding a majestic golden wave under a brilliant sunrise, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, warm golden and amber light, dreamlike ocean mist, auspicious fortune motif, no text, no faces"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/surfing-dream/inauspicious.png",
+      "alt_ko": "폭풍우 속 어두운 파도에 휩쓸리는 서핑보드를 담은 흉몽 이미지",
+      "alt_en": "Surfboard tumbling in dark stormy waves — inauspicious dream illustration",
+      "prompt": "A surfboard tumbling in dark stormy ocean waves under a moody overcast sky, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, deep navy and slate blue tones, turbulent sea, ominous atmosphere, no text, no people"
+    }
+  ]
+}

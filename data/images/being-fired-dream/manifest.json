@@ -1,0 +1,27 @@
+{
+  "slug": "being-fired-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/being-fired-dream/hero.png",
+    "alt_ko": "빈 사무용 책상 위에 놓인 봉투 — 해고당하는 꿈 해몽",
+    "alt_en": "Empty office desk with a sealed envelope — dream of being fired",
+    "prompt": "An empty wooden office desk with a single sealed envelope placed on it, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike misty atmosphere, muted grey and blue tones, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/being-fired-dream/auspicious.png",
+      "alt_ko": "황금빛 봄꽃 위로 솟구치는 봉황 — 역몽 길몽 이미지",
+      "alt_en": "Phoenix rising over golden spring blossoms — auspicious reverse-dream imagery",
+      "prompt": "A phoenix rising from golden flames above blooming spring plum blossoms, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, warm golden sunrise light, hopeful and auspicious atmosphere, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/being-fired-dream/inauspicious.png",
+      "alt_ko": "빗속 텅 빈 복도에 드리운 그림자 — 직장 불안 흉몽 이미지",
+      "alt_en": "Shadow cast on a rain-soaked empty corridor — inauspicious job anxiety imagery",
+      "prompt": "A lone figure's shadow cast on a rain-drenched empty corridor under harsh fluorescent light, dark storm clouds gathering through a window, ink-wash watercolor illustration, Korean traditional painting aesthetic, deep indigo and grey tones, foreboding atmosphere, no text, no people"
+    }
+  ]
+}

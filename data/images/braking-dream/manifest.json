@@ -1,0 +1,27 @@
+{
+  "slug": "braking-dream",
+  "hero": {
+    "path": "/images/dreams/braking-dream/hero.png",
+    "alt_ko": "브레이크 밟는 꿈 — 안개 속 자동차 제동 장면",
+    "alt_en": "Dream of braking — a car slowing in misty night scene",
+    "prompt": "A driver's hand pressing firmly on a car brake pedal in a misty night scene, soft ink-wash illustration style, Korean traditional painting aesthetic blended with modern elements, dreamlike atmosphere with muted blue and grey tones, motion lines suggesting the vehicle slowing, no text, no people visible, cinematic composition"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/braking-dream/auspicious.png",
+      "alt_ko": "브레이크 길몽 — 안전하게 정차하는 차",
+      "alt_en": "Auspicious braking dream — car stopping safely at a crossroads",
+      "prompt": "A serene car coming to a perfect stop at a crossroads bathed in soft golden morning light, ink-wash illustration style, Korean traditional aesthetic, dreamlike peaceful atmosphere, warm golden and amber tones, muted earth colors, sense of calm control and safety, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/braking-dream/inauspicious.png",
+      "alt_ko": "브레이크 흉몽 — 어둠 속 제동 불능의 자동차",
+      "alt_en": "Inauspicious braking dream — car unable to stop on dark mountain road",
+      "prompt": "A car on a winding mountain road in the dark with no lights ahead, brake pedal pressed but vehicle still moving forward, ink-wash illustration style, Korean traditional painting aesthetic, dreamlike and ominous atmosphere, deep indigo and charcoal tones, swirling mist, sense of dread and lost control, no text, no people"
+    }
+  ],
+  "generatedAt": "2026-03-12T00:00:00.000Z",
+  "provider": "imagen4"
+}

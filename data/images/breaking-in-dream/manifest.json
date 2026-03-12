@@ -1,0 +1,27 @@
+{
+  "slug": "breaking-in-dream",
+  "hero": {
+    "path": "/images/dreams/breaking-in-dream/hero.png",
+    "alt_ko": "한국 한옥 대문 앞에서 달빛을 받으며 서 있는 그림자 인물, 침입하는 꿈 해몽",
+    "alt_en": "A shadowy figure at the threshold of a Korean hanok gate under moonlight, dream of breaking in",
+    "prompt": "A shadowy figure pausing at the threshold of an old Korean hanok doorway at night, moonlight casting long shadows across the wooden gate, mist drifting through the courtyard, soft ink-wash illustration style, Korean traditional painting aesthetic, dreamlike atmosphere, muted indigo and silver tones with faint golden lantern glow, no text"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/breaking-in-dream/auspicious.png",
+      "alt_ko": "황금빛 보물 창고 안에서 성취를 이룬 인물, 침입하는 꿈 길몽",
+      "alt_en": "A triumphant figure inside a glowing treasure vault, auspicious breaking-in dream",
+      "prompt": "A triumphant figure standing inside a grand treasure vault, golden light spilling through an open door, shelves of glowing coins and precious objects, sense of bold achievement and discovery, soft watercolor illustration style, Korean traditional painting aesthetic, dreamlike warm golden tones, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/breaking-in-dream/inauspicious.png",
+      "alt_ko": "어두운 한국 전통 방 구석에 웅크린 인물과 문가에 선 위협적인 그림자, 침입자 꿈 흉몽",
+      "alt_en": "A frightened figure cornered in a dark Korean room with a threatening intruder in the doorway, inauspicious intruder dream",
+      "prompt": "A frightened figure huddled in the corner of a dark traditional Korean room, a menacing shadowed intruder looming in the doorway, moonlight casting threatening shadows, sense of dread and vulnerability, soft ink-wash illustration style, Korean traditional painting aesthetic, muted dark indigo and charcoal tones, no text"
+    }
+  ],
+  "generatedAt": "2026-03-12T00:00:00.000Z",
+  "provider": "imagen4"
+}

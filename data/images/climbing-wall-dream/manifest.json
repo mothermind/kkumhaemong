@@ -1,0 +1,27 @@
+{
+  "slug": "climbing-wall-dream",
+  "generatedAt": "2026-03-12T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/climbing-wall-dream/hero.png",
+    "alt_ko": "황혼 무렵 높은 돌담을 오르는 모습을 표현한 수묵화풍 일러스트",
+    "alt_en": "Ink-wash illustration of a figure scaling a tall stone wall at dusk with golden light above",
+    "prompt": "A lone figure scaling a towering stone wall at dusk, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, warm amber light glowing at the top of the wall, ancient moss-covered stones, no text, no faces, muted earth tones with golden highlights"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/climbing-wall-dream/auspicious.png",
+      "alt_ko": "벽 정상에 도달해 황금빛 일출을 맞이하는 길몽 장면 수묵화",
+      "alt_en": "Ink-wash illustration of reaching the top of a wall at golden sunrise, a symbol of achievement and good fortune",
+      "prompt": "A climber triumphantly reaching the top of an ancient wall bathed in golden sunrise light, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike atmosphere, warm gold and amber tones, cherry blossoms drifting in the air, birds soaring overhead, no text, no faces"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/climbing-wall-dream/inauspicious.png",
+      "alt_ko": "어두운 폭풍 속 무너지는 담에서 미끄러지는 흉몽 장면 수묵화",
+      "alt_en": "Ink-wash illustration of a figure slipping from a crumbling wall in a storm, symbolizing setback or warning",
+      "prompt": "A figure slipping and falling from a dark crumbling stone wall at night, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike foreboding atmosphere, deep navy and slate tones, rain streaks, storm clouds, crumbling stone, no text, no faces"
+    }
+  ]
+}

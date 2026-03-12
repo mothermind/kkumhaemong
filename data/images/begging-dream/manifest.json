@@ -1,0 +1,30 @@
+{
+  "slug": "begging-dream",
+  "hero": {
+    "path": "/images/dreams/begging-dream/hero.png",
+    "alt_ko": "구걸하는 꿈 해몽 — 저녁 황혼의 한국 전통 마을 대문 앞에 앉아 손을 내미는 인물, 수묵화 스타일",
+    "alt_en": "Begging dream interpretation — a solitary figure on ancient Korean village gate steps at dusk, hands extended, ink-wash illustration style",
+    "prompt": "A lone figure in tattered clothes sitting on ancient stone steps of a Korean traditional village gate at dusk, hands extended in supplication, soft ink-wash illustration style, Korean traditional painting aesthetic, dreamlike atmosphere, muted indigo and amber tones, misty background with distant mountains, no text",
+    "aspectRatio": "16:9"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/begging-dream/auspicious.png",
+      "alt_ko": "거지에게 음식과 돈을 베푸는 꿈 — 한복 입은 인물이 거지에게 밥과 동전을 건네는 따뜻한 장면, 수채화 스타일",
+      "alt_en": "Giving food and money to a beggar in a dream — a figure in hanbok offering rice and coins in warm golden light, watercolor style",
+      "prompt": "A warm scene of a Korean person in hanbok offering a bowl of rice and coins to a grateful beggar, golden morning light streaming through a wooden gate, soft watercolor illustration style, dreamlike quality, Korean traditional painting aesthetic, warm golden and jade tones, symbols of abundance and generosity, no text",
+      "aspectRatio": "4:3"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/begging-dream/inauspicious.png",
+      "alt_ko": "거지를 쫓아내는 꿈 — 빗속에서 닫힌 대문 앞에 홀로 서 있는 인물, 차가운 청회색 수묵화",
+      "alt_en": "Chasing a beggar away in a dream — a figure in dark robes turned away in cold rain outside a closed gate, ink-wash illustration",
+      "prompt": "A figure in dark tattered robes standing alone in cold rain outside a closed wooden gate, being turned away, soft ink-wash illustration style, Korean traditional painting aesthetic, cold blue-grey tones, mist and isolation, sense of rejection and melancholy, no text",
+      "aspectRatio": "4:3"
+    }
+  ],
+  "generatedAt": "2026-03-12T00:00:00.000Z",
+  "provider": "imagen4"
+}

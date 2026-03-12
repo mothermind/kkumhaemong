@@ -1,0 +1,27 @@
+{
+  "slug": "teleporting-dream",
+  "hero": {
+    "path": "/images/dreams/teleporting-dream/hero.png",
+    "alt_ko": "빛의 입자로 분해되어 한국 산골짜기로 순간이동하는 인물의 수묵화 일러스트",
+    "alt_en": "Ink-wash illustration of a figure dissolving into light particles and instantly reappearing in a misty Korean mountain valley",
+    "prompt": "A human figure dissolving into luminous particles of light, instantly reappearing in a distant misty Korean mountain valley, soft ink-wash illustration style, Korean traditional painting aesthetic, dreamlike atmosphere, ethereal blue and gold tones, swirling energy wisps connecting departure and arrival points, no text"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/teleporting-dream/auspicious.png",
+      "alt_ko": "황금빛 포털을 통해 번성한 한국 궁궐 마당으로 도착하는 인물의 수채화 일러스트",
+      "alt_en": "Watercolor illustration of a radiant figure arriving through a golden light portal into a prosperous Korean palace courtyard with blooming cherry blossoms",
+      "prompt": "A radiant figure emerging through a portal of golden light into a prosperous ancient Korean palace courtyard, blooming cherry blossoms swirling around, soft watercolor illustration style, Korean traditional painting aesthetic, auspicious warm golden and jade tones, sense of arrival and triumphant transformation, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/teleporting-dream/inauspicious.png",
+      "alt_ko": "어두운 소용돌이 속으로 끌려 들어가 낯선 미로 공간에서 길을 잃은 인물의 수묵화 일러스트",
+      "alt_en": "Ink-wash illustration of a silhouette figure pulled through a dark vortex into a shadowy labyrinthine space, lost and disoriented",
+      "prompt": "A silhouette figure involuntarily pulled through a dark swirling vortex into a shadowy unfamiliar labyrinthine space, lost and disoriented, ink-wash illustration style, Korean traditional painting aesthetic, deep indigo and charcoal tones, sense of confusion and loss of control, no text"
+    }
+  ],
+  "generatedAt": "2026-03-12T00:00:00.000Z",
+  "provider": "imagen4"
+}

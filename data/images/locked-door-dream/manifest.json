@@ -1,0 +1,27 @@
+{
+  "slug": "locked-door-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/locked-door-dream/hero.png",
+    "alt_ko": "안개 낀 산길 앞에 자물쇠가 잠긴 오래된 나무 문 — 잠긴 문 꿈해몽 일러스트",
+    "alt_en": "An ancient locked wooden door at the threshold of a misty mountain path — locked door dream illustration",
+    "prompt": "An ancient wooden door with an iron lock standing at the threshold of a misty mountain path, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, moonlight filtering through clouds, muted earth tones with cool blues and silver highlights, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/locked-door-dream/auspicious.png",
+      "alt_ko": "연꽃 위의 황금 열쇠와 환한 빛이 새어 나오는 문 — 길몽 잠긴 문 꿈",
+      "alt_en": "A golden key resting on a lotus before a door opening to warm light — auspicious locked door dream",
+      "prompt": "A glowing golden key resting on a lotus flower before an ornate door opening to reveal warm sunlight, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), spring morning atmosphere, warm golden and amber tones, cherry blossoms drifting, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/locked-door-dream/inauspicious.png",
+      "alt_ko": "쇠사슬로 감긴 녹슨 문과 어두운 폭풍 밤 — 흉몽 잠긴 문 꿈",
+      "alt_en": "A heavy rusted door wrapped in chains under a stormy night sky — inauspicious locked door dream",
+      "prompt": "A heavy rusted iron door with a broken lock in deep shadow, chains wrapped tightly around the handles, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), stormy night atmosphere, deep navy blues and dark grays, mist swirling at the base, no text, no people"
+    }
+  ]
+}

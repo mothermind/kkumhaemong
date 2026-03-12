@@ -1,0 +1,27 @@
+{
+  "slug": "traveling-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/traveling-dream/hero.png",
+    "alt_ko": "안개 낀 산길로 이어지는 여행길 — 여행하는 꿈 해몽",
+    "alt_en": "A winding traveler's path disappearing into misty mountains — traveling dream interpretation",
+    "prompt": "A lone traveler's winding path disappearing into misty mountains, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, ancient Korean road with stone markers, autumn foliage in muted earth tones with subtle golden light, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/traveling-dream/auspicious.png",
+      "alt_ko": "황금빛 일출과 열린 길 — 여행 꿈 길몽",
+      "alt_en": "Golden sunrise over a mountain peak with an open road — auspicious traveling dream",
+      "prompt": "A glowing sunrise over a mountain peak with a wide open road leading toward it, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike golden light flooding a valley, warm amber and gold tones, auspicious energy, blooming spring flowers along path, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/traveling-dream/inauspicious.png",
+      "alt_ko": "어두운 폭풍길에 홀로 남겨진 가방 — 여행 꿈 흉몽",
+      "alt_en": "An abandoned suitcase on a dark stormy road — inauspicious traveling dream",
+      "prompt": "An abandoned suitcase on a dark stormy road at nightfall, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), ominous deep blue and grey tones, storm clouds gathering, a road fading into darkness with no visible destination, no text, no people"
+    }
+  ]
+}

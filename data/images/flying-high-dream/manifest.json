@@ -1,0 +1,27 @@
+{
+  "slug": "flying-high-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/flying-high-dream/hero.png",
+    "alt_ko": "하늘 높이 날아오르며 산 너머 빛나는 하늘을 바라보는 꿈 — 높이 나는 꿈 해몽 일러스트",
+    "alt_en": "Soaring high above mountain ranges toward a luminous sky — flying high dream interpretation illustration",
+    "prompt": "A solitary figure soaring high above vast mountain ranges, reaching toward a luminous sky, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, golden light piercing through clouds, eagle-eye view of the world below, no text, no people, warm gold and cerulean blue palette"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/flying-high-dream/auspicious.png",
+      "alt_ko": "황금빛 구름 사이로 승천하는 용 — 높이 나는 꿈 길몽 일러스트",
+      "alt_en": "A majestic dragon ascending through golden clouds at sunrise — flying high dream auspicious illustration",
+      "prompt": "A majestic dragon ascending through golden clouds into a radiant sunrise sky, trailing light and fortune, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, warm golden sunrise tones, red and gold decorative clouds, no text, auspicious spring motifs"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/flying-high-dream/inauspicious.png",
+      "alt_ko": "폭풍우 치는 하늘에서 추락하는 꿈 — 높이 나는 꿈 흉몽 일러스트",
+      "alt_en": "Falling from great heights through stormy dark clouds — flying high dream inauspicious illustration",
+      "prompt": "A figure falling from great heights through stormy dark clouds, plummeting toward a shadowed earth far below, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike foreboding atmosphere, deep indigo and grey storm clouds, cold blue shadows, no text, night motifs"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "locking-door-dream",
+  "hero": {
+    "path": "/images/dreams/locking-door-dream/hero.png",
+    "alt_ko": "새벽 안개 속 전통 한국 대문을 자물쇠로 잠그는 장면",
+    "alt_en": "A traditional Korean wooden gate being firmly locked in misty dawn light",
+    "prompt": "A large traditional Korean wooden gate (대문) being firmly locked with an ancient iron lock, misty dawn atmosphere, soft ink-wash illustration style, Korean traditional painting aesthetic, moonlight filtering through pine trees, sense of security and protection, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/locking-door-dream/auspicious.png",
+      "alt_ko": "황금 자물쇠로 잠긴 귀중품 상자에서 빛나는 황금빛",
+      "alt_en": "A golden padlock snapping shut on an ornate chest radiating warm golden light",
+      "prompt": "A golden padlock snapping shut on an ornate wooden chest filled with glowing golden coins, soft radiant light emanating from inside, Korean traditional art style, dreamlike ink-wash watercolor, warm golden tones, sense of abundance and protection, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/locking-door-dream/inauspicious.png",
+      "alt_ko": "녹슨 자물쇠와 틈새로 스며드는 어두운 그림자",
+      "alt_en": "A rusted broken lock on a dark door with shadows seeping through a gap",
+      "prompt": "A rusted broken lock on a dark wooden door, the door slightly ajar with shadows seeping through the crack, Korean ink-wash painting style, cool muted blue-grey tones, ominous dreamlike atmosphere, sense of unease and vulnerability, no text, no people"
+    }
+  ],
+  "generatedAt": "2026-03-12T00:00:00.000Z",
+  "provider": "imagen4"
+}

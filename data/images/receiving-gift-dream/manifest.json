@@ -1,0 +1,27 @@
+{
+  "slug": "receiving-gift-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/receiving-gift-dream/hero.png",
+    "alt_ko": "아침 안개 속 황금 리본으로 묶인 선물 상자, 한국화 스타일 수채화 일러스트",
+    "alt_en": "A beautifully wrapped gift box with golden ribbon in morning mist, Korean ink-wash watercolor illustration",
+    "prompt": "A beautifully wrapped gift box sitting on a wooden table surrounded by soft morning mist, delicate ribbon and bow in warm gold tones, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, no text, no people, warm golden and ivory color palette"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/receiving-gift-dream/auspicious.png",
+      "alt_ko": "봄꽃과 황금빛 동전이 떠다니는 빛나는 선물 상자, 길몽 일러스트",
+      "alt_en": "A glowing golden gift box surrounded by spring blossoms and floating coins, auspicious fortune illustration",
+      "prompt": "A glowing golden gift box radiating warm light, surrounded by blooming spring flowers and floating coins, sunrise breaking through clouds in background, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, no text, no people, warm golden sunrise color palette"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/receiving-gift-dream/inauspicious.png",
+      "alt_ko": "폭풍 속 낡은 리본이 달린 어두운 선물 상자, 시든 검은 꽃, 흉몽 일러스트",
+      "alt_en": "A dark ominous gift box with frayed ribbon in storm rain, withered black flowers, inauspicious omen illustration",
+      "prompt": "A dark and ominous gift box with frayed ribbon, sitting in rain under stormy skies, withered black flowers scattered around, cracked broken objects nearby, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, no text, no people, deep blue and shadow color palette"
+    }
+  ]
+}

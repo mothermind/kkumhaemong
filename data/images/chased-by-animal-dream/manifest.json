@@ -1,0 +1,27 @@
+{
+  "slug": "chased-by-animal-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/chased-by-animal-dream/hero.png",
+    "alt_ko": "안개 낀 한국 소나무 숲 속에서 동물의 그림자에 쫓기는 장면, 수묵화 스타일",
+    "alt_en": "A figure fleeing through misty Korean pine forest with shadowy animal silhouettes in pursuit, ink-wash illustration",
+    "prompt": "A lone figure fleeing through misty forest, shadowy animal silhouettes pursuing through ancient Korean pine trees, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmospheric mist, no text, no human faces, deep indigo and charcoal palette with pale moonlight"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/chased-by-animal-dream/auspicious.png",
+      "alt_ko": "황금빛 가을 숲을 달리는 위엄 있는 호랑이, 산신령의 기운이 감도는 수묵화 스타일",
+      "alt_en": "A majestic tiger bounding through golden autumn forest with sacred energy and fortune symbols, ink-wash illustration",
+      "prompt": "A majestic tiger bounding through golden autumn forest, warm sunrise light filtering through Korean pine trees, the tiger's eyes gleaming with powerful sacred energy, fortune coins and golden mist swirling in the air, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), no text, warm gold and amber palette with deep orange"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/chased-by-animal-dream/inauspicious.png",
+      "alt_ko": "폭풍 치는 한국 산길에 도사린 뱀과 늑대 그림자, 어두운 수묵화 스타일",
+      "alt_en": "A dark snake and wolf lurking in a stormy Korean mountain pass at night, ominous ink-wash illustration",
+      "prompt": "A dark coiled snake and shadowy wolf lurking in a stormy Korean mountain pass at night, bare gnarled trees and deep shadows, rain and cold mist obscuring the path ahead, ominous atmosphere, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), no text, deep navy and charcoal palette with pale grey highlights"
+    }
+  ]
+}

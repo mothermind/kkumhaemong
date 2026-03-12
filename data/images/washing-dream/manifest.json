@@ -1,0 +1,27 @@
+{
+  "slug": "washing-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/washing-dream/hero.png",
+    "alt_ko": "전통 한국 목욕 용품과 맑은 물이 담긴 나무 바가지 — 씻는 꿈 해몽",
+    "alt_en": "Traditional Korean wooden bathing bucket with steaming clear water beside a ceramic basin — washing dream meaning",
+    "prompt": "A wooden bathing bucket overflowing with steaming clear water beside a traditional Korean ceramic basin, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, gentle morning light filtering through paper screens, muted indigo and ivory tones with subtle gold highlights, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/washing-dream/auspicious.png",
+      "alt_ko": "맑은 산속 샘물과 매화꽃 — 씻는 꿈 길몽",
+      "alt_en": "Clear mountain spring with plum blossoms in golden morning light — auspicious washing dream",
+      "prompt": "A jade-green mountain spring cascading into a stone pool surrounded by blooming plum blossoms and golden morning light, a pair of clean white ceremonial robes hanging on a bamboo frame nearby, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike auspicious atmosphere, warm earth tones with golden sunrise glow, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/washing-dream/inauspicious.png",
+      "alt_ko": "흙탕물이 담긴 어두운 돌 대야와 폭풍 밤하늘 — 씻는 꿈 흉몽",
+      "alt_en": "Dark murky basin under a stormy night sky with bare branches reflected on troubled water — inauspicious washing dream",
+      "prompt": "A murky dark basin filled with turbid grey water under a stormy night sky, bare branches reflected on the troubled surface, a single extinguished candle on the stone edge, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), foreboding dreamlike atmosphere, deep cool blues and charcoal greys with faint moonlight, no text, no people"
+    }
+  ]
+}

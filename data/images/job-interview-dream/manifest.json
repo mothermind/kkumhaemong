@@ -1,0 +1,27 @@
+{
+  "slug": "job-interview-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4-fast",
+  "hero": {
+    "path": "/images/dreams/job-interview-dream/hero.png",
+    "alt_ko": "빈 면접 테이블과 의자, 창문으로 스며드는 안개 낀 아침 햇살 — 면접 보는 꿈 해몽",
+    "alt_en": "An empty interview table and chairs with misty morning light through shoji screens — job interview dream interpretation",
+    "prompt": "An empty interview table with a single chair facing two empty chairs across it, misty morning light filtering through shoji screens, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike atmosphere, muted earth tones, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/job-interview-dream/auspicious.png",
+      "alt_ko": "황금빛 아침 햇살과 합격 도장이 찍힌 서류 — 면접 합격 길몽",
+      "alt_en": "Golden sunrise through office windows with an approval-stamped document — auspicious job interview dream",
+      "prompt": "A golden sunrise seen through tall office building windows, a document with a red approval stamp on a wooden desk, cherry blossom petals drifting in warm light, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike hopeful atmosphere, warm golden tones, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/job-interview-dream/inauspicious.png",
+      "alt_ko": "어두운 복도와 닫힌 문, 빗줄기 흐르는 창문 — 면접 실패 흉몽",
+      "alt_en": "A dark hallway with a closed door and rain-streaked windows at night — inauspicious job interview dream",
+      "prompt": "A dark empty hallway leading to a closed door with dim fluorescent light, a crumpled letter on a cold tile floor, rain streaking down tall windows at night, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike foreboding atmosphere, deep blues and shadows, no text, no people"
+    }
+  ]
+}

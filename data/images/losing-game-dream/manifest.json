@@ -1,0 +1,27 @@
+{
+  "slug": "losing-game-dream",
+  "hero": {
+    "path": "/images/dreams/losing-game-dream/hero.png",
+    "alt_ko": "꿈속에서 경기에 지는 장면 — 안개 속 전통 대국장에 홀로 선 인물, 먹그림 수채화 스타일",
+    "alt_en": "A lone figure bowing in defeat at a traditional Korean competition arena surrounded by mist, ink-wash illustration",
+    "prompt": "A lone figure standing at the center of a traditional Korean board game or competition arena, surrounded by soft mist, the figure bowing their head in defeat while a soft golden light emerges from behind clouds above, ink-wash illustration style, Korean traditional painting aesthetic, dreamlike atmosphere, muted earth tones with subtle gold and blue highlights, sense of impending reversal and hidden fortune, no text"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/losing-game-dream/auspicious.png",
+      "alt_ko": "꽃이 피어나는 역전의 길몽 — 봉황이 솟아오르고 매화꽃이 피어나는 수채화 일러스트",
+      "alt_en": "A phoenix rising above a Korean competition hall with blooming plum blossoms symbolizing reversal of fortune, watercolor style",
+      "prompt": "A phoenix rising from ashes above a traditional Korean competition hall, golden light breaking through storm clouds, a defeated player suddenly surrounded by blooming plum blossoms symbolizing reversal of fortune, soft watercolor style, Korean traditional painting aesthetic, warm golden tones, dreamlike and hopeful atmosphere, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/losing-game-dream/inauspicious.png",
+      "alt_ko": "흉몽의 패배 — 빗속 전통 정자에 앉아 고개 숙인 인물, 떨어진 기물들과 가을 낙엽, 먹그림 스타일",
+      "alt_en": "A solitary figure sitting in shadow beneath a rainy Korean pavilion, scattered game pieces and falling autumn leaves, dark ink-wash style",
+      "prompt": "A solitary figure sitting in the shadow of a traditional Korean game pavilion, dark rain clouds gathering overhead, scattered game pieces on the ground, wilted autumn leaves falling, dark ink-wash illustration style, Korean traditional painting aesthetic, muted grey and dark blue tones, somber and reflective dreamlike atmosphere, no text"
+    }
+  ],
+  "generatedAt": "2026-03-12T00:00:00.000Z",
+  "provider": "imagen4"
+}

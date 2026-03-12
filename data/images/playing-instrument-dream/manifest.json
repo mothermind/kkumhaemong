@@ -1,0 +1,27 @@
+{
+  "slug": "playing-instrument-dream",
+  "generatedAt": "2026-03-12T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/playing-instrument-dream/hero.png",
+    "alt_ko": "안개 낀 산속 정자에 놓인 가야금, 소나무 사이로 달빛이 스며드는 수묵화 일러스트",
+    "alt_en": "A traditional Korean gayageum resting on a misty mountain pavilion, moonlight filtering through pine branches, ink-wash illustration",
+    "prompt": "A traditional Korean gayageum resting on a misty mountain pavilion, moonlight filtering through pine branches, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, muted silver and gold tones, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/playing-instrument-dream/auspicious.png",
+      "alt_ko": "황금빛 아침 햇살 속 궁중 음악 공연, 매화꽃과 함께한 가야금 연주, 수묵채색화",
+      "alt_en": "Golden sunrise light illuminating a traditional Korean court music scene with gayageum and plum blossoms, ink-wash illustration",
+      "prompt": "A golden sunrise illuminating a traditional Korean court musician playing gayageum, golden light streaming through paper screen windows, blooming plum blossoms, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, warm earth tones with golden highlights, dreamlike misty atmosphere, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/playing-instrument-dream/inauspicious.png",
+      "alt_ko": "차가운 돌바닥에 부러진 현악기, 겨울 나뭇가지와 폭풍 구름, 짙은 청색 수묵화",
+      "alt_en": "A cracked and broken stringed instrument lying on cold stone floor, bare winter branches, storm clouds, deep blue ink-wash illustration",
+      "prompt": "A cracked and broken stringed instrument lying on cold stone floor, deep blue shadows, bare winter branches outside frosted window, storm clouds gathering, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, cool deep blues and dark indigo tones, dreamlike foreboding atmosphere, no text, no people"
+    }
+  ]
+}

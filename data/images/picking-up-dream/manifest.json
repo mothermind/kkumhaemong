@@ -1,0 +1,27 @@
+{
+  "slug": "picking-up-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/picking-up-dream/hero.png",
+    "alt_ko": "새벽 안개 낀 숲길에서 황금빛 동전과 지폐를 줍는 손 — 줍는 꿈 해몽 대표 이미지",
+    "alt_en": "A hand reaching down to pick up glowing gold coins and bills on a misty forest path at dawn — picking-up dream interpretation hero image",
+    "prompt": "A glowing gold coin and paper bills scattered on a misty forest path at dawn, one hand gently reaching down to pick them up, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, warm golden light filtering through pine trees, no text, no people visible except hand, muted earth tones with golden highlights"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/picking-up-dream/auspicious.png",
+      "alt_ko": "활짝 핀 봄꽃과 황금빛 빛 속에 빛나는 금화와 보석이 가득한 손바닥 — 길몽 이미지",
+      "alt_en": "An open palm filled with gleaming gold coins and jewels in warm sunrise light surrounded by spring blossoms — auspicious interpretation image",
+      "prompt": "A handful of gleaming gold coins and jewels resting in an open palm bathed in warm sunrise light, surrounded by blooming spring flowers and golden rice stalks, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), abundant and joyful atmosphere, warm golden and amber tones, no text, no faces"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/picking-up-dream/inauspicious.png",
+      "alt_ko": "먹구름 아래 갈라진 땅 위에 놓인 녹슨 동전 — 흉몽 경고 이미지",
+      "alt_en": "A rusted coin lying on cracked dark earth under a stormy sky — inauspicious warning image",
+      "prompt": "A rusted coin lying on cracked dark earth under a stormy sky with heavy grey clouds, wilted leaves scattered around, a cautious hand pulling back from touching it, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), foreboding and melancholic atmosphere, cool blues and deep shadows, no text, no faces"
+    }
+  ]
+}

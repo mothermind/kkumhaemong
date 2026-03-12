@@ -1,0 +1,27 @@
+{
+  "slug": "chasing-someone-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/chasing-someone-dream/hero.png",
+    "alt_ko": "안개 낀 산길을 달려 누군가를 쫓는 꿈 - 목표와 욕망을 상징하는 한국화 스타일 일러스트",
+    "alt_en": "A figure running through misty mountain path in pursuit — Korean ink-wash illustration symbolizing chasing dreams and ambition",
+    "prompt": "A lone figure running swiftly across a misty mountain path in pursuit, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, flowing robes, distant silhouette ahead, early morning light, muted earth tones with subtle indigo accents, no text, no faces"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/chasing-someone-dream/auspicious.png",
+      "alt_ko": "벚꽃 아래 황금빛 재회 장면 - 누군가를 쫓아 잡는 길몽을 표현한 한국화 일러스트",
+      "alt_en": "A joyful reunion beneath cherry blossoms in golden sunrise light — Korean ink-wash illustration representing the auspicious dream of catching someone you chase",
+      "prompt": "A triumphant pursuit ending in joyful reunion beneath cherry blossoms, golden sunrise light streaming through pine trees, two silhouettes reaching toward each other, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), warm golden and rose tones, dreamlike spring atmosphere, no text, no detailed faces"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/chasing-someone-dream/inauspicious.png",
+      "alt_ko": "안개 속으로 사라지는 실루엣을 향해 손을 뻗는 장면 - 쫓아도 잡지 못하는 흉몽을 표현한 한국화 일러스트",
+      "alt_en": "A lone figure reaching desperately as a silhouette disappears into fog — Korean ink-wash illustration representing the inauspicious dream of failing to catch someone",
+      "prompt": "A solitary figure reaching desperately into fog as a distant silhouette disappears into darkness, stormy night sky, bare winter branches, deep indigo and grey tones, moonlit mist, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), cold desolate atmosphere, no text, no detailed faces"
+    }
+  ]
+}

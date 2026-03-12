@@ -1,0 +1,27 @@
+{
+  "slug": "promotion-dream",
+  "hero": {
+    "path": "/images/dreams/promotion-dream/hero.png",
+    "alt_ko": "승진 발령을 받는 한국 직장인, 몽환적인 수묵화 일러스트",
+    "alt_en": "Korean professional receiving a promotion scroll in a dreamlike ink-wash illustration",
+    "prompt": "A Korean office worker in traditional hanbok-inspired formal attire receiving a golden promotion scroll from a senior official, surrounded by soft glowing light, misty dreamlike atmosphere, ink-wash watercolor illustration style, Korean traditional painting aesthetic, warm golden and blue tones, no text"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/promotion-dream/auspicious.png",
+      "alt_ko": "연꽃 계단을 오르는 인물, 길몽 승진 꿈 일러스트",
+      "alt_en": "A figure ascending lotus blossom stairs toward sunlit gates, auspicious promotion dream illustration",
+      "prompt": "A jubilant Korean professional ascending a glowing staircase made of lotus blossoms toward a sunlit gateway, colleagues cheering below, soft ink-wash watercolor style, dreamlike golden atmosphere, Korean traditional painting aesthetic, auspicious warm tones, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/promotion-dream/inauspicious.png",
+      "alt_ko": "안개 속 갈림길에 선 인물, 흉몽 승진 꿈 일러스트",
+      "alt_en": "A solitary figure at a misty crossroads holding a dissolving document, inauspicious promotion dream illustration",
+      "prompt": "A solitary Korean figure standing at a crossroads in mist, holding an official document that dissolves into dark smoke, stormy sky above, one path leading downward, ink-wash illustration style, Korean traditional painting aesthetic, cool grey and indigo tones, melancholic dreamlike mood, no text"
+    }
+  ],
+  "generatedAt": "2026-03-12T00:00:00.000Z",
+  "provider": "imagen4"
+}

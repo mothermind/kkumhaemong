@@ -1,0 +1,27 @@
+{
+  "slug": "breaking-things-dream",
+  "generatedAt": "2026-03-12T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/breaking-things-dream/hero.png",
+    "alt_ko": "바위가 힘차게 부서지는 순간을 담은 수묵화 스타일 일러스트",
+    "alt_en": "Ink-wash illustration of an ancient stone wall being broken apart with golden light streaming through",
+    "prompt": "An ancient stone wall being broken apart by a single powerful strike, shards of stone suspended in mid-air, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike misty atmosphere, muted earth tones with subtle golden light filtering through the crack, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/breaking-things-dream/auspicious.png",
+      "alt_ko": "낡은 폐허가 허물어지고 봄빛이 비치는 길몽을 표현한 수묵화",
+      "alt_en": "Ink-wash illustration of old ruins giving way to warm sunlight and cherry blossoms — auspicious breaking dream",
+      "prompt": "Old crumbling ruins being demolished to reveal bright sunlight beyond, cherry blossom petals scattering in a warm breeze, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike golden dawn atmosphere, warm earth tones with sunrise orange and spring green accents, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/breaking-things-dream/inauspicious.png",
+      "alt_ko": "밤빛 속에 깨진 거울 조각이 흩어진 흉몽을 표현한 수묵화",
+      "alt_en": "Ink-wash illustration of a shattered mirror reflecting moonlight and broken porcelain on dark stone — inauspicious breaking dream",
+      "prompt": "A shattered mirror reflecting fragmented moonlight, broken porcelain pieces scattered on dark stone floor, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike dark atmosphere, cool deep blues and indigo shadows, winter night mood, no text, no people"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "digging-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/digging-dream/hero.png",
+    "alt_ko": "새로 판 구덩이 옆에 놓인 낡은 삽과 비옥한 흙 — 땅을 파는 꿈 해몽",
+    "alt_en": "A worn wooden shovel resting beside a freshly dug hole in dark fertile earth — digging dream interpretation",
+    "prompt": "A worn wooden shovel resting beside a freshly dug hole in dark fertile earth, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, muted earth tones with warm golden undertones, roots and soil layers visible, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/digging-dream/auspicious.png",
+      "alt_ko": "땅 속에서 황금과 보석이 솟아오르는 길몽 — 재물운과 기회의 상징",
+      "alt_en": "Golden coins and gems emerging from rich earth at sunrise — auspicious digging dream symbolizing wealth and opportunity",
+      "prompt": "Golden coins and glowing gems emerging from rich dark soil, a hand reaching up through warm earth into sunrise light, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike misty atmosphere, warm golden and amber tones, spring blossoms in background, no text, no faces"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/digging-dream/inauspicious.png",
+      "alt_ko": "밤에 무너지는 구덩이 — 땅이 꺼지는 흉몽, 예상치 못한 손해와 갈등 경고",
+      "alt_en": "A collapsing pit with crumbling earth walls at night — inauspicious digging dream warning of unexpected loss and conflict",
+      "prompt": "A crumbling pit with collapsing dark earth walls at night, storm clouds overhead, deep shadows and cool blue-grey tones, cracked dry soil around the edge, ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike ominous atmosphere, no text, no people"
+    }
+  ]
+}

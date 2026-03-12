@@ -1,0 +1,27 @@
+{
+  "slug": "quitting-job-dream",
+  "hero": {
+    "path": "/images/dreams/quitting-job-dream/hero.png",
+    "alt_ko": "사직서를 책상 위에 올려놓고 창밖의 밝은 하늘을 바라보는 직장인",
+    "alt_en": "A person placing a resignation letter on a desk and gazing toward a bright open sky through the window",
+    "prompt": "A person in Korean office attire placing a resignation letter on a desk, looking out a window toward a bright open sky, soft ink-wash illustration style, Korean traditional painting aesthetic with modern elements, dreamlike atmosphere, muted tones with warm golden light streaming through window, symbolic freedom and new beginnings, no text"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/quitting-job-dream/auspicious.png",
+      "alt_ko": "벚꽃이 흩날리는 가운데 동료들의 환송을 받으며 밝게 웃으며 사무실을 나서는 모습",
+      "alt_en": "A joyful person walking out of an office building into sunshine with colleagues waving goodbye and cherry blossoms falling",
+      "prompt": "A joyful person walking out of an office building into bright sunshine, colleagues waving goodbye with smiles, cherry blossoms falling, soft watercolor illustration style, Korean aesthetic, warm golden tones, celebration and new beginnings, dreamlike atmosphere, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/quitting-job-dream/inauspicious.png",
+      "alt_ko": "안개 낀 갈림길에서 가방을 들고 방향을 잃고 서 있는 홀로 남겨진 인물",
+      "alt_en": "A lone figure standing at a foggy crossroads holding a briefcase, looking uncertain, with an empty office building in the background",
+      "prompt": "A lone figure standing at a crossroads in fog, holding a briefcase, looking uncertain in all directions, empty office building visible in background, muted gray and blue tones, ink-wash illustration style, dreamlike melancholy atmosphere, Korean traditional painting aesthetic, no text"
+    }
+  ],
+  "generatedAt": "2026-03-12T00:00:00.000Z",
+  "provider": "imagen4"
+}

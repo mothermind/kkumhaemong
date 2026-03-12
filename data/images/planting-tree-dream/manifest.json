@@ -1,0 +1,27 @@
+{
+  "slug": "planting-tree-dream",
+  "generatedAt": "2026-03-12T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/planting-tree-dream/hero.png",
+    "alt_ko": "안개 낀 새벽 언덕에서 묘목을 심는 모습, 한국 전통 수묵화 스타일",
+    "alt_en": "A figure planting a sapling on a misty hillside at dawn, Korean ink-wash watercolor style",
+    "prompt": "A lone person gently pressing a young sapling into rich dark soil on a misty hillside at dawn, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, muted earth tones with subtle green and golden highlights, no text, no faces visible"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/planting-tree-dream/auspicious.png",
+      "alt_ko": "황금빛 햇살을 받으며 무성하게 자라는 나무, 새들이 가지에 모여드는 길몽 장면",
+      "alt_en": "A flourishing tree glowing with golden sunlight in a Korean mountain garden, birds gathering on branches",
+      "prompt": "A flourishing young tree glowing with golden sunlight in a lush Korean mountain garden, birds gathering on branches, warm amber and spring green tones, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/planting-tree-dream/inauspicious.png",
+      "alt_ko": "폭풍 구름 아래 갈라진 땅에 홀로 시들어가는 나무, 흉몽을 암시하는 어두운 수묵화",
+      "alt_en": "A withered bare sapling struggling in cracked dry earth under stormy dark skies, foreboding ink-wash illustration",
+      "prompt": "A withered bare sapling struggling to stand in cracked dry earth under stormy dark skies, falling leaves scattered around it, deep blue-grey and slate tones, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike foreboding atmosphere, no text, no people"
+    }
+  ]
+}

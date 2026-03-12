@@ -86,11 +86,52 @@ function detectBadge(heading: string): ContentPreview["badgeType"] {
 export async function getAvailableContentSlugs(): Promise<string[]> {
   try {
     const { readdir } = await import("fs/promises");
-    const files = await readdir(CONTENT_DIR);
-    return files.filter((f) => f.endsWith(".json")).map((f) => f.replace(".json", ""));
+    const slugs: string[] = [];
+    const entries = await readdir(CONTENT_DIR, { withFileTypes: true });
+    for (const entry of entries) {
+      if (entry.isFile() && entry.name.endsWith(".json")) {
+        slugs.push(entry.name.replace(".json", ""));
+      } else if (entry.isDirectory()) {
+        const subEntries = await readdir(path.join(CONTENT_DIR, entry.name), { withFileTypes: true });
+        for (const sub of subEntries) {
+          if (sub.isFile() && sub.name.endsWith(".json")) {
+            slugs.push(sub.name.replace(".json", ""));
+          }
+        }
+      }
+    }
+    return slugs;
   } catch {
     return [];
   }
+}
+
+async function findContentFilePath(safe: string): Promise<string | null> {
+  const { access, readdir } = await import("fs/promises");
+  const direct = path.join(CONTENT_DIR, `${safe}.json`);
+  try {
+    await access(direct);
+    return direct;
+  } catch {
+    // not in root, search one level of subdirectories
+  }
+  try {
+    const entries = await readdir(CONTENT_DIR, { withFileTypes: true });
+    for (const entry of entries) {
+      if (entry.isDirectory()) {
+        const candidate = path.join(CONTENT_DIR, entry.name, `${safe}.json`);
+        try {
+          await access(candidate);
+          return candidate;
+        } catch {
+          continue;
+        }
+      }
+    }
+  } catch {
+    // ignore
+  }
+  return null;
 }
 
 export async function getContentPreviews(slugs?: string[]): Promise<ContentPreview[]> {
@@ -99,7 +140,9 @@ export async function getContentPreviews(slugs?: string[]): Promise<ContentPrevi
   for (const slug of targetSlugs) {
     try {
       const safe = slug.replace(/[^a-zA-Z0-9_-]/g, "");
-      const raw = await readFile(path.join(CONTENT_DIR, `${safe}.json`), "utf-8");
+      const filePath = await findContentFilePath(safe);
+      if (!filePath) continue;
+      const raw = await readFile(filePath, "utf-8");
       // eslint-disable-next-line @typescript-eslint/no-explicit-any
       const data = JSON.parse(raw) as any;
       const firstHeading = data?.ko?.sections?.[0]?.heading ?? "";
@@ -132,7 +175,9 @@ export async function getContent(
   const safe = resolvedSlug.replace(/[^a-zA-Z0-9_-]/g, "");
 
   try {
-    const raw = await readFile(path.join(CONTENT_DIR, `${safe}.json`), "utf-8");
+    const filePath = await findContentFilePath(safe);
+    if (!filePath) return null;
+    const raw = await readFile(filePath, "utf-8");
     return JSON.parse(raw) as DreamContent;
   } catch {
     return null;

@@ -1,0 +1,27 @@
+{
+  "slug": "underwater-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/underwater-dream/hero.png",
+    "alt_ko": "용궁처럼 빛나는 수중 세계를 탐험하는 몽환적인 한국화 풍 일러스트",
+    "alt_en": "Dreamlike Korean ink-wash illustration of a glowing underwater world resembling the legendary Dragon Palace",
+    "prompt": "A person floating peacefully in glowing turquoise underwater world resembling the legendary Korean Dragon Palace (Yonggung), soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, coral and sea creatures surrounding ancient palace architecture, golden shafts of light filtering down from above, no text, no people, muted jade and gold tones"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/underwater-dream/auspicious.png",
+      "alt_ko": "황금빛 물고기 떼가 용궁을 향해 헤엄치는 길몽 일러스트",
+      "alt_en": "Auspicious illustration of golden fish swimming toward a luminous underwater palace with warm golden light",
+      "prompt": "Luminous golden underwater scene with fish swimming through sunlit water toward a magnificent palace, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, warm golden light rays piercing the water surface, lotus flowers floating above, treasure chests gleaming on the seabed, abundant and auspicious mood, no text, warm earth tones with golden highlights"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/underwater-dream/inauspicious.png",
+      "alt_ko": "탁하고 어두운 물속으로 가라앉는 흉몽 분위기의 한국화 일러스트",
+      "alt_en": "Inauspicious illustration of a figure sinking into dark murky water with cold blue shadows and tangled seaweed",
+      "prompt": "Dark foreboding underwater scene with murky turbulent water, shadowy figure sinking helplessly into deep black abyss, soft ink-wash illustration, Korean traditional painting aesthetic (한국화), dreamlike threatening atmosphere, cold blue-grey tones, tangled seaweed grasping from below, no light visible above, suffocating and oppressive mood, no text, cool blues and deep shadows"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "saving-someone-dream",
+  "hero": {
+    "path": "/images/dreams/saving-someone-dream/hero.png",
+    "alt_ko": "꿈속에서 물에 빠진 사람을 구하는 장면, 한국화 스타일의 달빛 수묵화",
+    "alt_en": "A figure rescuing another from dark waters in a moonlit ink-wash dream scene",
+    "prompt": "A lone figure reaching out to pull another person from dark swirling waters, soft ink-wash illustration style, Korean traditional painting aesthetic, mist and moonlight reflecting on water, dreamlike atmosphere, muted indigo and silver tones with warm golden highlights, heroic and protective energy, no text"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/saving-someone-dream/auspicious.png",
+      "alt_ko": "새벽 산 정상에서 사람을 안전하게 구하는 황금빛 장면, 한국화 스타일",
+      "alt_en": "A radiant figure lifting another to safety at dawn on a misty mountaintop, Korean ink-wash style",
+      "prompt": "A radiant figure lifting another to safety on a misty mountaintop, golden dawn light breaking through clouds, soft ink-wash illustration style, Korean traditional painting aesthetic, auspicious warm golden and green tones, triumphant and peaceful mood, heroic rescue scene, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/saving-someone-dream/inauspicious.png",
+      "alt_ko": "어둠 속으로 사라지는 사람을 붙잡으려 안간힘을 쓰는 지친 인물, 수묵화 스타일",
+      "alt_en": "A desperate exhausted figure reaching toward someone slipping away into darkness, ink-wash style",
+      "prompt": "A figure reaching desperately toward another person slipping away into darkness, helpless and exhausted expression, soft ink-wash illustration style, Korean traditional painting aesthetic, muted grey and deep indigo tones, melancholy and heavy atmosphere, no text"
+    }
+  ],
+  "generatedAt": "2026-03-12T00:00:00.000Z",
+  "provider": "imagen4"
+}

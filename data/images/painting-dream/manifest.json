@@ -1,0 +1,27 @@
+{
+  "slug": "painting-dream",
+  "generatedAt": "2026-03-12T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/painting-dream/hero.png",
+    "alt_ko": "안개 낀 산속 화실에서 캔버스에 그림을 그리는 장면, 한국화 스타일 수묵 수채화",
+    "alt_en": "An artist's canvas in a misty mountain studio, Korean ink-wash watercolor illustration style",
+    "prompt": "A solitary artist painting on a canvas in a misty mountain studio, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, warm golden lantern light, brushes and ink scattered nearby, no text, no people visible, muted earth tones with subtle golden highlights"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/painting-dream/auspicious.png",
+      "alt_ko": "황금빛과 꽃 문양으로 완성된 화려한 민화, 모란과 학이 햇빛 속에 빛나는 길몽 이미지",
+      "alt_en": "A vibrant completed Korean folk painting with golden florals and cranes soaring in sunlight, auspicious dream imagery",
+      "prompt": "A completed vibrant painting glowing with golden and floral motifs, blooming peonies and cranes soaring in sunlight, soft ink-wash watercolor illustration, Korean folk painting (민화) aesthetic, warm sunrise palette, golden light streaming through paper screen windows, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/painting-dream/inauspicious.png",
+      "alt_ko": "어두운 방에 방치된 미완성 그림, 부러진 붓과 번진 먹, 폭풍우 밤의 흉몽 이미지",
+      "alt_en": "A dark unfinished canvas abandoned in a shadowy room with broken brushes and bleeding ink, inauspicious dream imagery",
+      "prompt": "A dark unfinished canvas abandoned in a shadowy room, brushes lying broken on the floor, deep indigo and charcoal tones, ink bleeding uncontrolled, stormy night visible through torn paper window, soft ink-wash illustration, Korean traditional painting aesthetic, dreamlike and foreboding atmosphere, no text, no people"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "hunting-dream",
+  "hero": {
+    "path": "/images/dreams/hunting-dream/hero.png",
+    "alt_ko": "새벽 한국 산속에서 활을 당기는 사냥꾼, 한국화 스타일",
+    "alt_en": "A solitary hunter drawing a traditional bow in misty Korean mountains at dawn, ink-wash style",
+    "prompt": "A solitary hunter in misty Korean mountains at dawn, drawing a traditional bow toward distant prey, soft ink-wash illustration style, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, muted earth tones with golden morning light filtering through pine trees, no text"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/hunting-dream/auspicious.png",
+      "alt_ko": "사냥 성공 후 사슴을 들고 황금빛 가을 숲을 걷는 사냥꾼",
+      "alt_en": "A triumphant hunter carrying a deer through a golden autumn forest, symbolizing success and abundance",
+      "prompt": "A triumphant hunter returning home carrying a magnificent deer through golden autumn forest, Korean traditional painting style, soft watercolor illustration, warm harvest colors, joyful and prosperous atmosphere, symbolizing success and abundance, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/hunting-dream/inauspicious.png",
+      "alt_ko": "안개 낀 숲에서 빈손으로 서 있는 사냥꾼, 놓친 사냥감",
+      "alt_en": "A lone hunter standing empty-handed in a cold foggy forest, prey having escaped into the mist",
+      "prompt": "A lone hunter standing empty-handed in a cold foggy forest, prey escaped into the dark mist, ink-wash illustration style, Korean traditional painting aesthetic, somber mood with cool blue-grey tones, sense of missed opportunity and solitude, no text"
+    }
+  ],
+  "generatedAt": "2026-03-12T00:00:00.000Z",
+  "provider": "imagen4"
+}

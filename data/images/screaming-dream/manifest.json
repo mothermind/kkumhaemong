@@ -1,0 +1,27 @@
+{
+  "slug": "screaming-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/screaming-dream/hero.png",
+    "alt_ko": "안개 낀 산 정상에서 하늘을 향해 비명을 지르는 인물, 한국화 수묵화 스타일",
+    "alt_en": "A lone figure screaming toward the vast misty sky from a mountain peak, Korean ink-wash illustration style",
+    "prompt": "A lone figure standing on a misty mountain peak, mouth open in a silent scream toward the vast sky, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, no text, muted earth tones with deep indigo sky"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/screaming-dream/auspicious.png",
+      "alt_ko": "벚꽃이 만발한 언덕에서 두 팔을 벌리고 기쁨의 비명을 지르는 인물, 황금빛 햇살",
+      "alt_en": "A triumphant figure screaming with arms raised wide on a sunlit hilltop amid cherry blossoms, golden warm light",
+      "prompt": "A joyful figure with arms raised wide, screaming in triumph on a sunlit hilltop, golden light streaming through cherry blossoms, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike warm atmosphere, no text, warm golden and pink tones"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/screaming-dream/inauspicious.png",
+      "alt_ko": "어두운 장벽 뒤에서 소리 없이 울부짖는 인물, 짙은 남색 안개와 겨울 나무",
+      "alt_en": "A shadowy figure behind a dark translucent wall screaming silently, surrounded by deep indigo fog and bare winter trees",
+      "prompt": "A shadowy figure trapped behind a dark translucent wall, mouth open in a silent cry, deep indigo fog surrounding them, bare winter trees in background, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike cold atmosphere, no text, deep blues and charcoal grey tones"
+    }
+  ]
+}

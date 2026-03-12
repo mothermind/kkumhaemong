@@ -1,0 +1,27 @@
+{
+  "slug": "being-robbed-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/being-robbed-dream/hero.png",
+    "alt_ko": "달빛이 비치는 문을 빠져나가는 도둑의 실루엣 — 도둑 맞는 꿈 해몽 삽화",
+    "alt_en": "A shadowy thief slipping away through a moonlit doorway — being robbed dream illustration",
+    "prompt": "A shadowy figure slipping away through a moonlit doorway carrying a sack, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike misty atmosphere, deep indigo and silver tones with subtle golden candlelight, no text, no faces"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/being-robbed-dream/auspicious.png",
+      "alt_ko": "황금빛 햇살 아래 가득 찬 보물 상자 — 도둑 꿈 길몽 삽화",
+      "alt_en": "Overflowing treasure chest in golden sunrise light — auspicious robbery dream illustration",
+      "prompt": "Golden coins and glowing treasure overflowing from an open chest, warm sunrise light streaming through paper screens, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, rich earth tones and golden hues, spring blossoms in background, dreamlike atmosphere, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/being-robbed-dream/inauspicious.png",
+      "alt_ko": "폭풍 아래 홀로 남겨진 신발 한 켤레 — 도둑 꿈 흉몽 삽화",
+      "alt_en": "A lone pair of shoes abandoned on a dark road under a stormy sky — inauspicious robbery dream illustration",
+      "prompt": "A pair of worn shoes left alone on a dark empty road under a stormy sky, deep shadows and cool blue tones, cracked earth, wilted autumn leaves, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, foreboding dreamlike atmosphere, no text, no people"
+    }
+  ]
+}

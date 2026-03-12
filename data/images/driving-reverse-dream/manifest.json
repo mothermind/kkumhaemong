@@ -1,0 +1,30 @@
+{
+  "slug": "driving-reverse-dream",
+  "hero": {
+    "path": "/images/dreams/driving-reverse-dream/hero.png",
+    "alt_ko": "안개 낀 산길에서 후진하는 차 — 후진하는 꿈 해몽",
+    "alt_en": "A car reversing on a misty mountain road — driving in reverse dream",
+    "prompt": "A car viewed from behind on a misty mountain road at twilight, reversing slowly, soft ink-wash illustration style, Korean traditional painting aesthetic, dreamlike atmosphere, muted earth tones with subtle silver moonlight, no text, no people visible, ethereal fog rolling in from the valleys",
+    "aspectRatio": "16:9"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/driving-reverse-dream/auspicious.png",
+      "alt_ko": "산길을 벗어나 탁 트인 공간으로 나아가는 차 — 길몽",
+      "alt_en": "A car reversing out into an open sunlit space — auspicious dream",
+      "prompt": "A car smoothly reversing out of a narrow mountain path into open sunlit space, a golden light breaking through morning mist, soft watercolor illustration style, Korean traditional ink-wash aesthetic, auspicious warm golden tones, sense of relief and new opportunity, no text",
+      "aspectRatio": "4:3"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/driving-reverse-dream/inauspicious.png",
+      "alt_ko": "어두운 산길을 통제 불능으로 미끄러지듯 내려가는 차 — 흉몽",
+      "alt_en": "A car sliding backwards down a dark winding road out of control — inauspicious dream",
+      "prompt": "A car sliding backwards down a dark winding road at night, brake lights glowing red, broken headlights, dense fog obscuring the path ahead, dramatic ink-wash illustration style with Korean traditional painting aesthetics, deep shadow and cool blue-gray tones, no text, ominous dreamlike atmosphere",
+      "aspectRatio": "4:3"
+    }
+  ],
+  "generatedAt": "2026-03-12T00:00:00.000Z",
+  "provider": "imagen4"
+}

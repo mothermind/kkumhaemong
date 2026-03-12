@@ -1,0 +1,27 @@
+{
+  "slug": "caught-stealing-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/caught-stealing-dream/hero.png",
+    "alt_ko": "달빛 아래 도둑질하다 들키는 꿈 일러스트 — 한국화 수묵 수채화 스타일",
+    "alt_en": "Ink-wash illustration of a figure caught in a moonlit room, Korean traditional painting style",
+    "prompt": "A shadowy figure frozen in a moonlit room, a beam of light falling on them as they reach for an object on a shelf, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, cold blue and grey tones with a single pale moonbeam, no text, no faces"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/caught-stealing-dream/auspicious.png",
+      "alt_ko": "도망치는 꿈 — 새벽 안개 속 탈출, 한국화 수채화 스타일",
+      "alt_en": "Auspicious escape dream illustration — figure fleeing through golden dawn mist, Korean ink-wash style",
+      "prompt": "A fleeing figure slipping away through a garden gate at dawn, mist parting to reveal a golden sunrise behind bamboo trees, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike warm golden light, warm amber and jade green tones, no text, no faces"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/caught-stealing-dream/inauspicious.png",
+      "alt_ko": "도둑질하다 잡히는 꿈 흉몽 — 쇠사슬에 묶인 형상, 한국화 스타일",
+      "alt_en": "Inauspicious caught-stealing dream — figure bound in chains under a stormy sky, Korean ink-wash style",
+      "prompt": "A figure bound in chains kneeling on a stone floor under a stormy night sky, lightning illuminating prison-like iron bars, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), deep indigo and charcoal tones, cold shadow atmosphere, no text, no faces"
+    }
+  ]
+}

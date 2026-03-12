@@ -1,0 +1,27 @@
+{
+  "slug": "packing-dream",
+  "generatedAt": "2026-03-12T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/packing-dream/hero.png",
+    "alt_ko": "문 앞에 가지런히 놓인 여행 가방들, 부드러운 황금빛 빛이 창문으로 스며드는 몽환적인 수채화 일러스트",
+    "alt_en": "Neatly arranged travel bags by a doorway with warm golden light, dreamlike ink-wash watercolor illustration",
+    "prompt": "Neatly packed travel bags and luggage arranged by a doorway, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike misty atmosphere, warm golden light streaming through a window, no text, no people, muted earth tones with soft amber highlights"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/packing-dream/auspicious.png",
+      "alt_ko": "꽃과 선물로 가득한 열린 여행 가방, 따뜻한 봄 햇살이 비추는 길몽 일러스트",
+      "alt_en": "Open travel bag overflowing with gifts and flowers in warm spring sunrise light, auspicious dream illustration",
+      "prompt": "An open travel bag overflowing with gifts and flowers, warm golden sunrise light, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike misty atmosphere, no text, no people, warm spring tones with golden and peach highlights"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/packing-dream/inauspicious.png",
+      "alt_ko": "폭풍우 치는 밤하늘 아래 흐트러진 짐과 열린 캐리어, 어두운 남색 수채화 일러스트",
+      "alt_en": "Scattered belongings and open suitcase in disarray under stormy night sky, foreboding ink-wash illustration",
+      "prompt": "Scattered belongings and open suitcase in disarray under stormy night sky, cool blue shadows and deep mist, ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike foreboding atmosphere, no text, no people, deep indigo and grey tones"
+    }
+  ]
+}

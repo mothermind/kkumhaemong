@@ -1,0 +1,27 @@
+{
+  "slug": "proposing-dream",
+  "hero": {
+    "path": "/images/dreams/proposing-dream/hero.png",
+    "alt_ko": "프로포즈하는 꿈 - 한쪽 무릎을 꿇고 반지를 내미는 몽환적인 수묵화",
+    "alt_en": "Dream of proposing - ink-wash illustration of a figure kneeling with a ring box in dreamlike mist",
+    "prompt": "A person kneeling on one knee holding a glowing ring box open, soft ink-wash illustration style, Korean traditional painting aesthetic, dreamlike misty atmosphere, cherry blossom petals falling, warm golden light, romantic and ethereal mood, no text, no faces shown"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/proposing-dream/auspicious.png",
+      "alt_ko": "프로포즈 승낙 길몽 - 달빛 아래 두 실루엣과 빛나는 반지",
+      "alt_en": "Auspicious proposal dream - two silhouettes embracing under the moon with a glowing ring",
+      "prompt": "Two silhouettes embracing under a full moon with a glowing ring between them, soft watercolor illustration style, Korean traditional painting aesthetic, dreamlike atmosphere, warm amber and rose tones, auspicious celebratory mood, cherry blossoms, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/proposing-dream/inauspicious.png",
+      "alt_ko": "프로포즈 거절 꿈 - 안개 속 빈 공간을 향해 반지를 내미는 외로운 인물",
+      "alt_en": "Rejected proposal dream - a lone figure reaching into empty fog with a closed ring box",
+      "prompt": "A lone figure on a foggy path holding a closed ring box, reaching out to empty space, soft ink-wash illustration style, Korean traditional painting aesthetic, melancholic dreamlike atmosphere, muted grey and blue tones, wilting flowers, no text"
+    }
+  ],
+  "generatedAt": "2026-03-12T00:00:00.000Z",
+  "provider": "imagen4"
+}

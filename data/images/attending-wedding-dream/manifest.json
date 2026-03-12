@@ -1,0 +1,27 @@
+{
+  "slug": "attending-wedding-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/attending-wedding-dream/hero.png",
+    "alt_ko": "전통 한국 결혼식장 내부, 수묵화 스타일 몽환적 일러스트",
+    "alt_en": "Interior of a traditional Korean wedding hall, ink-wash watercolor dreamlike illustration",
+    "prompt": "A traditional Korean wedding ceremony hall viewed from the guest seating area, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, red and gold ceremonial decorations, lanterns hanging from above, empty path leading to altar, no text, no people, warm golden and crimson tones"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/attending-wedding-dream/auspicious.png",
+      "alt_ko": "봄꽃과 황금빛 햇살이 가득한 한국 전통 혼례 마당, 길몽 이미지",
+      "alt_en": "Sunlit Korean traditional wedding courtyard with spring blossoms and golden light, auspicious dream image",
+      "prompt": "A sunlit Korean wedding courtyard with blooming plum blossoms and auspicious red ribbons, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), golden morning light streaming through, ceremonial tables set with dates and chestnuts, dreamlike hopeful atmosphere, no text, no people, warm gold and rose tones"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/attending-wedding-dream/inauspicious.png",
+      "alt_ko": "어둡고 텅 빈 결혼식장, 흉몽을 상징하는 수묵화 일러스트",
+      "alt_en": "Dark and empty wedding hall at night, ink-wash illustration symbolizing an inauspicious dream",
+      "prompt": "An empty Korean wedding hall at night with overturned chairs and scattered flower petals, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), deep indigo and cold shadow tones, rain streaking through dark windows, abandoned ceremonial table, dreamlike foreboding atmosphere, no text, no people, cool blues and dark grays"
+    }
+  ]
+}

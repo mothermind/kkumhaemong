@@ -1,0 +1,27 @@
+{
+  "slug": "losing-something-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/losing-something-dream/hero.png",
+    "alt_ko": "잃어버린 지갑, 반지, 열쇠, 신발이 안개 속으로 사라지는 꿈 해몽 일러스트",
+    "alt_en": "Lost wallet, ring, keys, and shoes dissolving into mist — dream of losing something illustration",
+    "prompt": "A collection of lost objects — a wallet, a ring, keys, and shoes — scattered on misty ground as ghostly shapes dissolve into fog, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike melancholic atmosphere, muted grey and indigo tones with hints of amber, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/losing-something-dream/auspicious.png",
+      "alt_ko": "이슬 맺힌 돌 위에서 빛나는 반지를 발견하는 대길몽 일러스트",
+      "alt_en": "A glowing ring discovered on mossy stone in golden morning light — auspicious dream of finding a lost object",
+      "prompt": "A glowing lost ring discovered on mossy stone in golden morning light, a joyful reunion with forgotten treasure, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, warm golden sunrise tones with jade green accents, spring blossoms in background, dreamlike hopeful atmosphere, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/losing-something-dream/inauspicious.png",
+      "alt_ko": "빗속 어두운 골목에 버려진 빈 지갑 — 분실 흉몽 일러스트",
+      "alt_en": "An empty wallet abandoned on rain-slicked cobblestones in deep twilight — inauspicious loss dream illustration",
+      "prompt": "An empty wallet lying abandoned on rain-slicked cobblestones in deep twilight, a trail of scattered coins vanishing into shadow, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, deep indigo and charcoal tones with cold blue highlights, storm clouds overhead, dreamlike foreboding atmosphere, no text, no people"
+    }
+  ]
+}

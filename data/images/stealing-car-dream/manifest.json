@@ -1,0 +1,27 @@
+{
+  "slug": "stealing-car-dream",
+  "hero": {
+    "path": "/images/dreams/stealing-car-dream/hero.png",
+    "alt_ko": "달빛 아래 안개 낀 서울 거리를 미끄러지듯 달리는 유령 같은 자동차",
+    "alt_en": "A ghostly car gliding through a moonlit misty Seoul street at night",
+    "prompt": "A ghostly automobile gliding silently through a moonlit Seoul street at night, misty fog rising from rain-wet asphalt, no driver visible, dreamlike quality, soft ink-wash illustration style, Korean traditional painting aesthetic, muted indigo and silver tones, atmospheric and surreal, no text"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/stealing-car-dream/auspicious.png",
+      "alt_ko": "황금빛 아침 햇살 속 열쇠가 꽂힌 고급 승용차와 열린 도로",
+      "alt_en": "A gleaming luxury sedan with keys in ignition bathed in golden light, open road ahead",
+      "prompt": "A gleaming luxury sedan bathed in golden morning light, keys dangling from ignition, open road ahead stretching toward bright horizon, soft watercolor illustration style, dreamlike atmosphere, Korean traditional landscape elements, warm gold and jade tones, sense of opportunity and freedom, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/stealing-car-dream/inauspicious.png",
+      "alt_ko": "어두운 빗속 경찰차 불빛에 발각된 인물",
+      "alt_en": "A figure caught in police headlights on a dark rainy road",
+      "prompt": "A car stopped by flashing police lights on a dark rainy road, figure caught in headlight beams, feeling of exposure and dread, soft ink-wash illustration style, muted grey and red tones, tense dreamlike atmosphere, Korean urban night scene, no text"
+    }
+  ],
+  "generatedAt": "2026-03-12T00:00:00.000Z",
+  "provider": "imagen4"
+}

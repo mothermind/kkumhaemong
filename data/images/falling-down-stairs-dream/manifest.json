@@ -1,0 +1,27 @@
+{
+  "slug": "falling-down-stairs-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/falling-down-stairs-dream/hero.png",
+    "alt_ko": "안개 속으로 내려가는 돌계단, 계단에서 떨어지는 꿈 해몽",
+    "alt_en": "Stone staircase descending into misty darkness, dream of falling down stairs",
+    "prompt": "A stone staircase descending into misty darkness, single wooden sandal resting mid-step, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, cool grey and deep indigo tones, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/falling-down-stairs-dream/auspicious.png",
+      "alt_ko": "돌계단 아래서 솟아오르는 황금빛 햇살, 역경 극복의 희망",
+      "alt_en": "Golden sunrise light flooding down stone stairs, hope of overcoming adversity",
+      "prompt": "A figure rising confidently from the base of stone stairs, warm golden sunrise light streaming down from above, cherry blossom petals drifting upward, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike hopeful atmosphere, warm golden and peach tones, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/falling-down-stairs-dream/inauspicious.png",
+      "alt_ko": "폭풍 속으로 무너지는 돌계단, 계단 추락 꿈의 경고",
+      "alt_en": "Crumbling stone stairs descending into storm clouds, warning of falling-stairs dream",
+      "prompt": "Cracked and crumbling stone stairs descending into storm clouds below, dark night sky with cold rain, scattered broken tiles, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike ominous atmosphere, deep navy and cold grey tones, no text, no people"
+    }
+  ]
+}

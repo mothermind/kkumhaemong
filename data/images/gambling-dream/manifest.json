@@ -1,0 +1,27 @@
+{
+  "slug": "gambling-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/gambling-dream/hero.png",
+    "alt_ko": "전통 화투 패와 동전이 놓인 나무 탁자 — 도박하는 꿈 해몽",
+    "alt_en": "Traditional Korean hwatu flower cards and coins on a wooden table — gambling dream interpretation",
+    "prompt": "A traditional Korean hwatu (flower cards) deck scattered on a weathered wooden table beside coins and folded paper money, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, warm amber and gold candlelight, no text, no people, muted earth tones with golden highlights"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/gambling-dream/auspicious.png",
+      "alt_ko": "황금빛 동전과 복권이 쏟아지는 길몽 장면 — 도박 이기는 꿈",
+      "alt_en": "Golden coins and winning lottery tickets falling in auspicious abundance — winning gambling dream",
+      "prompt": "A cascade of golden coins and winning lottery tickets falling from a radiant sunrise sky, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, warm golden light with spring blossoms, abundance and fortune motifs, no text, no people, vibrant gold and peach tones"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/gambling-dream/inauspicious.png",
+      "alt_ko": "텅 빈 주머니와 진 패가 어두운 밤에 흩어져 있는 흉몽 장면 — 도박 지는 꿈",
+      "alt_en": "Empty pockets and losing cards scattered on a dark stormy night — losing gambling dream warning",
+      "prompt": "Empty pockets turned inside out beside scattered losing game cards on a dark stormy night, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike ominous atmosphere, heavy rain and deep shadows, debt and loss motifs, no text, no people, deep indigo and grey tones with cold moonlight"
+    }
+  ]
+}

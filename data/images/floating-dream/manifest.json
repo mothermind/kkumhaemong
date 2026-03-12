@@ -1,0 +1,27 @@
+{
+  "slug": "floating-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/floating-dream/hero.png",
+    "alt_ko": "공중에 떠있는 꿈 해몽 — 안개 낀 산봉우리 위로 떠오르는 인물의 수묵화 일러스트",
+    "alt_en": "Floating in the air dream meaning — ink-wash illustration of a figure levitating above misty mountain peaks",
+    "prompt": "A human silhouette gently levitating above misty mountain peaks in a vast open sky, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, warm golden light filtering through clouds, no text, no faces, serene and ethereal mood, muted earth tones with soft golden highlights"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/floating-dream/auspicious.png",
+      "alt_ko": "공중에 떠있는 꿈 길몽 — 황금빛 일출과 구름 속으로 떠오르는 인물",
+      "alt_en": "Floating dream auspicious omen — figure ascending through golden sunrise light and auspicious clouds",
+      "prompt": "A serene figure floating upward through golden sunrise light above mountain peaks, surrounded by auspicious clouds and blooming plum blossoms, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), warm golden and rose tones, dreamlike ethereal atmosphere, spring morning symbolism, no text, no faces"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/floating-dream/inauspicious.png",
+      "alt_ko": "공중에 떠있는 꿈 흉몽 — 어두운 밤하늘에서 추락하는 인물의 수묵화",
+      "alt_en": "Floating dream cautionary omen — figure falling through dark stormy night sky ink-wash illustration",
+      "prompt": "A lone figure drifting helplessly in a dark stormy night sky, falling from clouds into shadowy depths, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), deep indigo and grey tones, dramatic shadows, foreboding atmosphere, moonless night, no text, no faces, sense of unease and vulnerability"
+    }
+  ]
+}

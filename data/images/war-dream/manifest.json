@@ -1,0 +1,27 @@
+{
+  "slug": "war-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/war-dream/hero.png",
+    "alt_ko": "안개 낀 산야에 펼쳐진 전쟁터 — 전쟁 꿈 해몽 대표 이미지",
+    "alt_en": "Ancient battle formations on a misty mountain plain at dawn — war dream illustration",
+    "prompt": "Ancient battle formations on a misty mountain plain at dawn, cavalry and infantry silhouettes in ink-wash illustration style, Korean traditional painting aesthetic (한국화), dramatic yet dreamlike atmosphere, deep indigo and silver mist, no text, no faces"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/war-dream/auspicious.png",
+      "alt_ko": "전쟁에서 승리한 후 황금빛 새벽을 맞이하는 장면 — 전쟁 길몽",
+      "alt_en": "Triumphant general overlooking a golden sunrise valley after victory — auspicious war dream",
+      "prompt": "Triumphant general on horseback surveying a peaceful valley after victory, golden sunrise over misty mountains, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), warm amber and golden tones, spring cherry blossoms in the background, dreamlike atmosphere, no text, no faces"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/war-dream/inauspicious.png",
+      "alt_ko": "불타는 마을을 피해 도망치는 장면 — 전쟁 흉몽",
+      "alt_en": "Soldiers fleeing through a burning village at night — inauspicious war dream",
+      "prompt": "Soldiers fleeing through a burning village at night, dark smoke rising against a moonlit sky, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), deep indigo blues, ash grey and ember tones, somber and foreboding dreamlike atmosphere, no text, no distinct faces"
+    }
+  ]
+}

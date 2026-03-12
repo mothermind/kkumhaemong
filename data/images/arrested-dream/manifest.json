@@ -1,0 +1,27 @@
+{
+  "slug": "arrested-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4-fast",
+  "hero": {
+    "path": "/images/dreams/arrested-dream/hero.png",
+    "alt_ko": "안개 낀 산길에서 권위 있는 인물들에게 둘러싸인 한복 차림의 인물 — 체포당하는 꿈 해몽",
+    "alt_en": "A lone figure in traditional Korean dress surrounded by shadowy authority figures on a misty mountain road — arrested dream interpretation",
+    "prompt": "A figure in traditional Korean clothing standing alone on a misty mountain road at dusk, surrounded by shadowy figures in authority uniforms, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmospheric light, cool indigo and grey tones with a faint golden horizon, no text, no faces"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/arrested-dream/auspicious.png",
+      "alt_ko": "황금빛 아침 하늘 아래 두루마리가 펼쳐지며 학이 날아오르는 모습 — 체포 꿈 길몽",
+      "alt_en": "A glowing scroll unfurling in a golden courtyard with a crane taking flight at dawn — auspicious arrested dream",
+      "prompt": "A glowing scroll or artwork unfurling with light in an open courtyard, a single crane taking flight above, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike warm golden sunrise atmosphere, warm amber and saffron tones, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/arrested-dream/inauspicious.png",
+      "alt_ko": "차가운 돌 위에 놓인 쇠사슬과 창살, 폭풍이 몰려오는 하늘 — 체포 꿈 흉몽",
+      "alt_en": "Iron chains on cold stone, prison bars in mist, storm approaching in the distance — inauspicious arrested dream",
+      "prompt": "Iron chains and heavy shackles resting on cold stone, mist curling through prison bars, a storm approaching in the distant sky, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike foreboding atmosphere, deep indigo and charcoal tones with cold blue highlights, no text, no people"
+    }
+  ]
+}

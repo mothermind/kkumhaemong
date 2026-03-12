@@ -1,0 +1,27 @@
+{
+  "slug": "shooting-gun-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/shooting-gun-dream/hero.png",
+    "alt_ko": "총 한 자루와 탄피가 놓인 몽환적인 수묵화 일러스트",
+    "alt_en": "Ink-wash illustration of a pistol and spent casing in a dreamlike setting",
+    "prompt": "A gleaming pistol resting on a wooden surface with a single spent bullet casing nearby, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, no text, no people, muted silver and grey tones with subtle golden highlights"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/shooting-gun-dream/auspicious.png",
+      "alt_ko": "일출을 배경으로 과녁에 명중하는 황금빛 수묵화 일러스트",
+      "alt_en": "Ink-wash illustration of an arrow hitting a bullseye at sunrise among blossoming plum trees",
+      "prompt": "A golden arrow striking a bullseye target at sunrise surrounded by blossoming plum trees, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), warm golden morning light, dreamlike misty atmosphere, no text, no people, warm earth tones and golden light"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/shooting-gun-dream/inauspicious.png",
+      "alt_ko": "폭풍우 아래 부서진 총이 놓인 어두운 수묵화 일러스트",
+      "alt_en": "Ink-wash illustration of a broken gun lying on cracked earth under a stormy dark sky",
+      "prompt": "A broken pistol lying on cracked earth under a stormy dark sky with rain and deep shadows, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike heavy atmosphere, no text, no people, cool blues and deep charcoal grey tones"
+    }
+  ]
+}

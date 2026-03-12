@@ -1,0 +1,27 @@
+{
+  "slug": "climbing-stairs-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/climbing-stairs-dream/hero.png",
+    "alt_ko": "안개 속 산길 계단을 타고 황금빛 하늘을 향해 오르는 수묵화 일러스트",
+    "alt_en": "Ink-wash illustration of stone stairs rising through mountain mist toward golden light above",
+    "prompt": "A stone staircase rising through misty mountain mist toward soft golden light above, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, no text, no people, muted earth tones with warm golden highlights at the top"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/climbing-stairs-dream/auspicious.png",
+      "alt_ko": "봄꽃으로 장식된 황금빛 화려한 계단을 표현한 수묵 채색화",
+      "alt_en": "Ornate golden staircase lined with spring blossoms in warm ink-wash watercolor style",
+      "prompt": "A grand ornate staircase bathed in golden sunrise light, blooming spring flowers lining each step, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike warm atmosphere, no text, no people, warm golden earth tones with spring blossoms"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/climbing-stairs-dream/inauspicious.png",
+      "alt_ko": "폭풍 구름 속으로 사라지는 무너진 계단을 표현한 어두운 수묵화",
+      "alt_en": "Dark crumbling staircase disappearing into storm clouds and deep shadows in ink-wash style",
+      "prompt": "A dark crumbling staircase disappearing into storm clouds and deep shadows, broken stone steps falling away into darkness below, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), foreboding dreamlike atmosphere, no text, no people, deep blues and slate greys with storm motifs"
+    }
+  ]
+}

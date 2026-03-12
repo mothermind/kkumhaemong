@@ -1,0 +1,27 @@
+{
+  "slug": "moving-house-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/moving-house-dream/hero.png",
+    "alt_ko": "한국 전통 가옥 앞에 이삿짐이 쌓인 꿈의 장면 — 수채화풍 일러스트",
+    "alt_en": "Moving boxes stacked near a traditional Korean house in a dreamlike watercolor illustration",
+    "prompt": "A traditional Korean house with moving boxes stacked near the entrance, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, warm golden morning light streaming through paper doors, no text, no people, muted earth tones with amber highlights"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/moving-house-dream/auspicious.png",
+      "alt_ko": "봄꽃이 피어나는 새 집으로 이사하는 길몽 장면 — 수채화풍 일러스트",
+      "alt_en": "A bright new home with spring blossoms and golden light — auspicious moving house dream illustration",
+      "prompt": "A brand-new spacious Korean house bathed in warm golden sunrise light, moving boxes overflowing with belongings, blooming spring flowers by the entrance gate, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, warm earth tones with golden highlights, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/moving-house-dream/inauspicious.png",
+      "alt_ko": "비 내리는 밤에 낡고 허름한 집으로 이사하는 흉몽 장면 — 수채화풍 일러스트",
+      "alt_en": "An old dilapidated house in the rain at night with disheveled moving boxes — inauspicious moving house dream illustration",
+      "prompt": "An old dilapidated Korean house in the rain at night, moving boxes damp and disheveled near a crumbling gate, dark storm clouds overhead, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike foreboding atmosphere, cool blue-grey palette with deep shadows, no text, no people"
+    }
+  ]
+}

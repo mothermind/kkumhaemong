@@ -1,0 +1,27 @@
+{
+  "slug": "building-house-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/building-house-dream/hero.png",
+    "alt_ko": "안개 낀 언덕 위에 세워지는 전통 한옥 뼈대, 집을 짓는 꿈 해몽 일러스트",
+    "alt_en": "Traditional Korean wooden house frame rising on a misty hillside, dream of building a house illustration",
+    "prompt": "A traditional Korean wooden house frame being raised on a misty hillside, craftsmen's tools laid beside freshly hewn timber, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike morning mist, warm amber sunrise light filtering through pine trees, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/building-house-dream/auspicious.png",
+      "alt_ko": "봄꽃과 황금빛 햇살 속 완성된 한옥, 집 짓는 꿈 길몽 일러스트",
+      "alt_en": "Completed hanok glowing under golden sunrise light with spring blossoms, auspicious house-building dream illustration",
+      "prompt": "A newly completed hanok (traditional Korean house) gleaming under golden sunrise light, surrounded by blooming plum blossoms and auspicious red lanterns, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), warm golden earth tones, celebratory spring atmosphere, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/building-house-dream/inauspicious.png",
+      "alt_ko": "폭풍 속에 무너져 내리는 공사 중인 집, 집 짓는 꿈 흉몽 일러스트",
+      "alt_en": "Partially built house collapsing into dark storm clouds, inauspicious house-building dream illustration",
+      "prompt": "A partially built house structure crumbling into dark storm clouds, scattered broken timber and fallen roof beams, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), deep indigo and charcoal tones, heavy rain and turbulent sky, foreboding dreamlike atmosphere, no text, no people"
+    }
+  ]
+}

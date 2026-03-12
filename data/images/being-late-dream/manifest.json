@@ -1,0 +1,27 @@
+{
+  "slug": "being-late-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/being-late-dream/hero.png",
+    "alt_ko": "텅 빈 교실 책상과 늦은 시각을 가리키는 벽시계 — 지각하는 꿈 해몽",
+    "alt_en": "An empty school desk with a wall clock showing a late hour — being late dream illustration",
+    "prompt": "A person's empty school desk with an antique wall clock showing the time is late, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, no text, no people, muted indigo and grey tones with soft morning light filtering through"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/being-late-dream/auspicious.png",
+      "alt_ko": "황금빛 아침 햇살 속 열린 문으로 이어지는 길 — 지각하는 꿈 길몽",
+      "alt_en": "A golden sunrise path leading to an open gate — auspicious being late dream",
+      "prompt": "A golden sunrise over a tranquil Korean village, a winding path leading to an open gate bathed in warm morning light, blooming spring flowers along the road, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, no text, no people, warm golden and amber tones with sunrise light"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/being-late-dream/inauspicious.png",
+      "alt_ko": "어두운 복도 끝 닫힌 문과 멈춘 시계 — 지각하는 꿈 흉몽",
+      "alt_en": "A dark corridor at night with a closed door and a stopped clock — inauspicious being late dream",
+      "prompt": "An empty corridor at night with a closed door at the far end, a stopped wall clock casting long shadows, storm clouds visible through a rain-streaked window, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, no text, no people, deep indigo and charcoal tones with cold blue shadows"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "chased-by-monster-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/chased-by-monster-dream/hero.png",
+    "alt_ko": "어두운 한국 산속 숲에서 괴물에게 쫓기는 꿈 — 수묵화 스타일 일러스트",
+    "alt_en": "A shadowy monster pursuing a figure through a misty Korean mountain forest at night — ink-wash illustration",
+    "prompt": "A dark shadowy monster pursuing a lone figure through a misty Korean mountain forest at night, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmospheric fog, deep indigo and charcoal tones with faint moonlight, no text, no faces visible"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/chased-by-monster-dream/auspicious.png",
+      "alt_ko": "괴물을 물리치고 새벽빛 앞에 서 있는 승리의 장면 — 수묵화 스타일 일러스트",
+      "alt_en": "A triumphant figure standing victorious over a defeated monster in golden dawn light — ink-wash illustration",
+      "prompt": "A triumphant figure standing victorious over a defeated shadowy monster in golden dawn light, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), warm golden sunrise breaking through misty mountains, earth tones with amber and gold highlights, no text, dreamlike atmosphere"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/chased-by-monster-dream/inauspicious.png",
+      "alt_ko": "한국 무속 전통의 귀신이 어두운 밤 풍경 위에 드리운 장면 — 수묵화 스타일 일러스트",
+      "alt_en": "A menacing ghostly figure looming over a dark landscape in Korean shamanic imagery — ink-wash illustration",
+      "prompt": "A menacing ghostly figure (귀신) looming over a dark landscape, traditional Korean shamanic imagery, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), deep blues and cold grays with shadows, stormy night sky, no text, unsettling dreamlike atmosphere"
+    }
+  ]
+}

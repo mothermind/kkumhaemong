@@ -1,0 +1,27 @@
+{
+  "slug": "unlocking-dream",
+  "hero": {
+    "path": "/images/dreams/unlocking-dream/hero.png",
+    "alt_ko": "꿈속에서 황금 열쇠로 자물쇠를 여는 장면 — 한국 전통 수묵화 스타일",
+    "alt_en": "A glowing golden key unlocking an ornate lock in a dreamlike Korean ink-wash illustration",
+    "prompt": "An ancient ornate lock being unlocked by a glowing golden key, soft ink-wash illustration style, Korean traditional painting aesthetic, dreamlike atmosphere, misty ethereal light emanating from the opening lock, cherry blossom petals drifting through air, warm golden tones, sense of revelation and new beginning, no text"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/unlocking-dream/auspicious.png",
+      "alt_ko": "황금 열쇠로 보물 상자를 여는 길몽 — 재물운과 성공을 상징하는 수묵화",
+      "alt_en": "A golden key opening a treasure chest overflowing with light — auspicious symbol of wealth and fortune",
+      "prompt": "A golden key unlocking an ornate treasure chest overflowing with warm light and riches, Korean traditional ink-wash illustration, auspicious dream symbolism, radiant sunrise colors, lotus flowers blooming, prosperity and good fortune, soft watercolor style, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/unlocking-dream/inauspicious.png",
+      "alt_ko": "녹슨 자물쇠가 열리지 않는 장면 — 장애와 막힘을 상징하는 수묵화",
+      "alt_en": "A rusty padlock refusing to open, symbolizing obstacles and blockage in a Korean ink-wash style",
+      "prompt": "A rusty old padlock that will not open despite efforts, key breaking or not fitting, Korean ink-wash illustration style, dreamlike mood, muted grey and blue tones, misty shadows, sense of blockage and frustration, melancholy atmosphere, traditional Korean painting aesthetic, no text"
+    }
+  ],
+  "generatedAt": "2026-03-12T00:00:00.000Z",
+  "provider": "imagen4"
+}

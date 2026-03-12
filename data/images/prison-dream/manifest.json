@@ -1,0 +1,27 @@
+{
+  "slug": "prison-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/prison-dream/hero.png",
+    "alt_ko": "고즈넉한 한국 전통 감옥 돌담과 철창, 잉크 수채화 스타일",
+    "alt_en": "Ancient Korean stone prison cell with heavy iron bars, soft ink-wash illustration",
+    "prompt": "Ancient Korean stone prison cell with heavy iron bars casting long shadows, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, muted grey and indigo tones with faint golden light filtering through barred window, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/prison-dream/auspicious.png",
+      "alt_ko": "철창 사이로 쏟아지는 황금빛 여명과 돌 바닥에 피어난 연꽃, 희망의 길몽 이미지",
+      "alt_en": "Golden sunrise breaking through prison bars with lotus flower blooming on stone floor, auspicious dream symbol",
+      "prompt": "Golden sunrise breaking through prison bars, a single lotus flower blooming on the stone floor, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), warm golden amber tones, dreamlike hopeful atmosphere, spring morning light, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/prison-dream/inauspicious.png",
+      "alt_ko": "천둥번개 치는 밤, 어둡고 습한 감옥 지하 감방과 쇠사슬, 흉몽 이미지",
+      "alt_en": "Dark damp prison dungeon with iron chains and thunderstorm lightning through barred window, inauspicious dream symbol",
+      "prompt": "Dark damp prison dungeon with heavy iron chains on wet stone walls, thunderstorm lightning visible through a small barred window, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), deep indigo and charcoal tones, foreboding dreamlike atmosphere, no text, no people"
+    }
+  ]
+}

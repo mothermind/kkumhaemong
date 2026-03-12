@@ -1,0 +1,27 @@
+{
+  "slug": "escaping-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/escaping-dream/hero.png",
+    "alt_ko": "새벽 안개 속 산길을 달려 오르는 형상 — 도망치는 꿈 해몽",
+    "alt_en": "A figure running up misty mountain steps at dawn — escaping dream illustration",
+    "prompt": "A lone figure running through misty mountain paths at dawn, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike foggy atmosphere, winding stone steps ascending toward light, no text, no faces, muted earth tones with soft amber dawn glow"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/escaping-dream/auspicious.png",
+      "alt_ko": "황금빛 새벽 빛이 열리는 산 정상 — 도망 성공 길몽",
+      "alt_en": "Golden sunrise breaking through misty hills beyond stone steps — auspicious escaping dream",
+      "prompt": "A winding path opening to radiant golden sunrise beyond misty hills, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), warm golden light flooding through parting clouds, stone steps leading upward into brightness, spring cherry blossoms framing the path, no text, no people, warm earth tones with golden light"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/escaping-dream/inauspicious.png",
+      "alt_ko": "폭풍 구름 아래 좁아지는 어두운 골목길 — 도망 실패 흉몽",
+      "alt_en": "A narrowing dark alley under storm clouds with no visible exit — inauspicious escaping dream",
+      "prompt": "A dark labyrinthine alley closing in under storm clouds, walls narrowing, no visible exit, soft ink-wash illustration, Korean traditional painting aesthetic (한국화), dreamlike ominous atmosphere, deep indigo and charcoal shadows, rain-slicked stone ground reflecting dark sky, no text, no people, cool blue-grey palette with deep shadows"
+    }
+  ]
+}

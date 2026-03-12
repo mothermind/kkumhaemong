@@ -1,0 +1,27 @@
+{
+  "slug": "finding-something-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/finding-something-dream/hero.png",
+    "alt_ko": "안개 낀 소나무 숲속에서 땅에 묻힌 빛나는 물건을 발견하는 장면, 한국화 수채화 스타일",
+    "alt_en": "Glowing object being uncovered in misty pine forest, Korean ink-wash watercolor style",
+    "prompt": "A solitary figure's hands gently uncovering a glowing object buried in soft earth, surrounded by misty morning light filtering through ancient pine trees, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, no text, no people visible, warm golden and soft blue-green color palette"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/finding-something-dream/auspicious.png",
+      "alt_ko": "동굴 안에서 황금 보물과 보석을 발견하는 장면, 따뜻한 금빛 햇살과 매화꽃이 어우러진 한국화 스타일",
+      "alt_en": "Hidden treasure chest overflowing with golden coins discovered in a cave, warm sunlight and plum blossoms, Korean traditional painting style",
+      "prompt": "A hidden treasure chest overflowing with golden coins and glowing jewels discovered inside a secret cave, warm sunlight streaming through an opening illuminating the riches, blooming plum blossom branches framing the scene, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike radiant atmosphere, no text, no people, warm golden sunrise tones"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/finding-something-dream/inauspicious.png",
+      "alt_ko": "끝없이 이어지는 어두운 미로 복도에서 희미한 등불 하나가 흔들리는 장면, 한국화 수묵화 스타일",
+      "alt_en": "Endless dark labyrinthine corridor with a single dim lantern casting long shadows, Korean ink-wash painting style",
+      "prompt": "An endless dark labyrinthine corridor with shadowy walls and dim lantern light, an open door in the distance that seems impossibly far, fog rolling along the stone floor, searching lantern light casting long distorted shadows, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, oppressive misty atmosphere, no text, no people, deep indigo and cold grey color palette with faint flickering light"
+    }
+  ]
+}

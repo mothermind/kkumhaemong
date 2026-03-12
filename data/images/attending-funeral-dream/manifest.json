@@ -1,0 +1,27 @@
+{
+  "slug": "attending-funeral-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/attending-funeral-dream/hero.png",
+    "alt_ko": "한국 전통 장례 행렬, 흰 상여등과 국화꽃, 수묵화 스타일 몽환적 일러스트",
+    "alt_en": "Korean traditional funeral procession with white mourning lanterns and chrysanthemums, ink-wash watercolor illustration",
+    "prompt": "A serene Korean traditional funeral procession with white mourning lanterns and chrysanthemums, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, pale white and grey tones with subtle gold accents, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/attending-funeral-dream/auspicious.png",
+      "alt_ko": "황금빛 새벽 한국 산자락에 피어난 매화, 새로운 시작과 재물운을 상징하는 수묵화 일러스트",
+      "alt_en": "Golden sunrise over a Korean hillside with blooming plum blossoms symbolizing new beginnings and fortune, ink-wash illustration",
+      "prompt": "Golden sunrise over a Korean hillside with blooming plum blossoms and a stone path leading forward, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), warm golden and spring green tones, sense of renewal and fortune, dreamlike misty atmosphere, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/attending-funeral-dream/inauspicious.png",
+      "alt_ko": "폭풍 전야 한국 전통 마당의 외로운 초롱불, 어둡고 음산한 분위기의 수묵화 일러스트",
+      "alt_en": "A single white mourning lantern flickering in dark stormy Korean traditional courtyard at night, foreboding ink-wash illustration",
+      "prompt": "Dark storm clouds over a Korean traditional courtyard at night, a single white mourning lantern flickering in cold blue moonlight, bare winter trees, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), cool blues and deep shadow tones, foreboding and somber atmosphere, no text, no people"
+    }
+  ]
+}

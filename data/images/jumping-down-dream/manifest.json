@@ -1,0 +1,27 @@
+{
+  "slug": "jumping-down-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/jumping-down-dream/hero.png",
+    "alt_ko": "안개 낀 절벽에서 뛰어내리는 인물의 수묵화 일러스트 — 뛰어내리는 꿈 해몽",
+    "alt_en": "Ink-wash illustration of a figure leaping from a misty cliff — jumping down dream meaning",
+    "prompt": "A lone figure leaping boldly from a misty mountain cliff into swirling clouds below, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, muted earth tones with subtle golden morning light, no text, no faces"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/jumping-down-dream/auspicious.png",
+      "alt_ko": "황금빛 일출 절벽에서 도약하는 길몽 — 뛰어내리는 꿈 길몽 해석",
+      "alt_en": "A triumphant leap from a golden sunrise cliff — auspicious jumping dream",
+      "prompt": "A silhouette leaping triumphantly from a golden cliff into a vast sunrise sky, cherry blossoms scattering in the breeze, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), warm golden and amber tones, auspicious spring dawn atmosphere, no text, no faces"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/jumping-down-dream/inauspicious.png",
+      "alt_ko": "어두운 폭풍 절벽에서 추락하는 흉몽 — 뛰어내리는 꿈 흉몽 해석",
+      "alt_en": "A figure falling involuntarily from a dark storm cliff — inauspicious falling dream",
+      "prompt": "A dark stormy cliff edge with a figure falling involuntarily into deep shadows below, jagged rocks and turbulent dark waters, soft ink-wash illustration, Korean traditional painting aesthetic (한국화), deep indigo and charcoal tones, foreboding night atmosphere, no text, no faces"
+    }
+  ]
+}

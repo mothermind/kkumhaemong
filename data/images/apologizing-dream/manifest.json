@@ -1,0 +1,27 @@
+{
+  "slug": "apologizing-dream",
+  "hero": {
+    "path": "/images/dreams/apologizing-dream/hero.png",
+    "alt_ko": "새벽 한국 정원에서 진심으로 사과하며 고개를 숙인 두 인물 — 사과하는 꿈 해몽",
+    "alt_en": "Two figures in a misty Korean garden at dawn, one bowing in sincere apology — dream of apologizing",
+    "prompt": "Two figures facing each other in a misty Korean garden at dawn, one bowing in sincere apology, soft ink-wash illustration style, Korean traditional painting aesthetic, dreamlike atmosphere, muted earth tones with soft golden light, no text"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/apologizing-dream/auspicious.png",
+      "alt_ko": "따뜻한 화해의 포옹 — 사과 후 용서를 받는 길몽",
+      "alt_en": "Two people embracing in warm reconciliation after forgiveness — auspicious apology dream",
+      "prompt": "Two people embracing in warm reconciliation, forgiveness and relief in their posture, soft watercolor illustration style, Korean traditional aesthetic, golden light filtering through paper screens, dreamlike peaceful atmosphere, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/apologizing-dream/inauspicious.png",
+      "alt_ko": "텅 빈 안뜰에서 홀로 무릎 꿇고 사죄하는 인물 — 용서받지 못하는 흉몽",
+      "alt_en": "A lone figure kneeling in an empty misty courtyard, pleading for forgiveness with no one there — inauspicious apology dream",
+      "prompt": "A lone figure kneeling in an empty misty courtyard, hands pressed together in desperate pleading, the opposite side is empty, cold grey-blue ink-wash illustration, Korean traditional painting style, somber dreamlike atmosphere, no text"
+    }
+  ],
+  "generatedAt": "2026-03-12T00:00:00.000Z",
+  "provider": "imagen4"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "killing-someone-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/killing-someone-dream/hero.png",
+    "alt_ko": "달빛 아래 한국 산길 위로 안개 속에 사라지는 어두운 그림자 — 사람을 죽이는 꿈 해몽 일러스트",
+    "alt_en": "A dark shadowy silhouette dissolving into mist above a moonlit Korean mountain pass — illustration for killing dream interpretation",
+    "prompt": "A dark shadowy silhouette dissolving into mist above a moonlit Korean mountain pass, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, cool midnight blues and deep indigo tones, no text, no people, misty valleys and pine trees"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/killing-someone-dream/auspicious.png",
+      "alt_ko": "황금빛 햇살이 쏟아지는 고궁 문이 활짝 열리는 장면 — 사람을 죽이는 꿈 길몽 해석",
+      "alt_en": "Golden sunlight breaking through cherry blossoms over an ancient Korean palace gate swinging open — auspicious killing dream illustration",
+      "prompt": "Golden sunlight breaking through cherry blossoms over an ancient Korean palace gate, a sealed heavy door swinging open to reveal bright light beyond, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), warm golden and peach tones, sunrise motifs, dreamlike atmosphere, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/killing-someone-dream/inauspicious.png",
+      "alt_ko": "폭풍 구름 아래 뒤틀린 사슬이 감긴 앙상한 나무 — 사람을 죽이는 꿈 흉몽 해석",
+      "alt_en": "A tangled chain wrapped around a bare wilted tree under gathering storm clouds in a dark Korean landscape — inauspicious killing dream illustration",
+      "prompt": "A tangled chain wrapped around a wilted bare tree in a dark stormy Korean landscape, cracked earth, storm clouds gathering, ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), deep cool blues and charcoal greys, ominous nighttime atmosphere, no text, no people"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "bowing-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/bowing-dream/hero.png",
+    "alt_ko": "안개 낀 산속 사당에서 한복을 입고 큰절을 올리는 수묵화풍 일러스트",
+    "alt_en": "Ink-wash illustration of a figure in traditional Korean hanbok performing a deep ceremonial bow at a misty mountain shrine",
+    "prompt": "A figure in traditional Korean hanbok performing a deep ceremonial bow (keunjeol) in a misty mountainside shrine, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, ancient stone lanterns and pine trees in background, no text, no faces visible, muted earth tones with soft golden light"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/bowing-dream/auspicious.png",
+      "alt_ko": "황금빛 햇살과 향 연기가 가득한 고요한 불단과 연꽃 수묵화풍 일러스트",
+      "alt_en": "Ink-wash illustration of a serene Buddhist altar with golden light, incense smoke, and glowing lotus flowers",
+      "prompt": "A serene Buddhist altar with golden light streaming through temple incense smoke, ceremonial offering bowls and lotus flowers glowing warmly, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, warm golden sunrise tones, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/bowing-dream/inauspicious.png",
+      "alt_ko": "차가운 청색 빛 속 어두운 빈소와 위패, 향 연기가 감도는 수묵화풍 일러스트",
+      "alt_en": "Ink-wash illustration of a shadowy mourning hall with an ancestral memorial tablet, cold blue light, and curling incense smoke",
+      "prompt": "A shadowy mourning hall with incense smoke curling in cold blue light, an ancestral memorial tablet surrounded by dark mist, fallen autumn leaves, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike foreboding atmosphere, deep indigo and charcoal tones, no text, no people"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "haircut-salon-dream",
+  "hero": {
+    "path": "/images/dreams/haircut-salon-dream/hero.png",
+    "alt_ko": "미용실에서 머리를 다듬는 꿈 - 변화와 새로운 시작을 상징하는 몽환적인 미용실 장면",
+    "alt_en": "Dream of getting a haircut at salon - a dreamlike Korean salon scene symbolizing transformation and new beginnings",
+    "prompt": "A dreamlike Korean hair salon scene bathed in soft morning light, a woman seated in a salon chair as a skilled stylist gently trims her long black hair, misty mirrors reflecting elegant transformation, ink-wash illustration style with Korean traditional painting aesthetic, delicate brushwork, muted gold and pearl tones, dreamlike atmosphere, no text, no watermark"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/haircut-salon-dream/auspicious.png",
+      "alt_ko": "미용실 거울 앞에서 만족스럽게 새 헤어스타일을 감상하는 여성 - 길몽",
+      "alt_en": "A woman happily admiring her new hairstyle in a salon mirror, golden light, auspicious dream",
+      "prompt": "A joyful woman gazing into a salon mirror admiring her beautifully styled hair, sunlight streaming through large windows, fresh flowers on the vanity table, warm golden light symbolizing good fortune and transformation, Korean ink-wash illustration style, soft watercolor tones, dreamlike and serene atmosphere, no text, no watermark"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/haircut-salon-dream/inauspicious.png",
+      "alt_ko": "미용실에서 불안한 표정으로 가위질을 지켜보는 여성 - 흉몽",
+      "alt_en": "An anxious woman in a salon chair, uncertain scissors above her hair, foggy mirror, inauspicious dream warning",
+      "prompt": "A tense salon scene where scissors hover uncertainly over disheveled hair, a woman's anxious expression reflected in a cracked or foggy mirror, dim moody lighting with shadows, Korean ink-wash illustration style with muted grey and indigo tones, dreamlike unease, symbolic of loss of control, no text, no watermark"
+    }
+  ],
+  "generatedAt": "2026-03-12T00:00:00.000Z",
+  "provider": "imagen4"
+}

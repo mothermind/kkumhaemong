@@ -1,0 +1,27 @@
+{
+  "slug": "breastfeeding-dream",
+  "generatedAt": "2026-03-12T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/breastfeeding-dream/hero.png",
+    "alt_ko": "한국 전통 수묵화 스타일로 그린 모유 수유 장면 — 따뜻한 황금빛 빛 속에 어머니와 아기",
+    "alt_en": "Mother cradling and nursing an infant, soft ink-wash Korean traditional painting style with warm golden light",
+    "prompt": "A serene mother cradling and nursing an infant, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, warm golden light filtering through paper screens, no text, no faces shown, delicate lotus and willow motifs in background, muted ivory and gold color palette"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/breastfeeding-dream/auspicious.png",
+      "alt_ko": "풍요로운 봄꽃과 황금빛 그릇 — 재물운과 경사를 상징하는 길몽 이미지",
+      "alt_en": "Overflowing golden bowl surrounded by spring blossoms symbolizing abundance and auspicious fortune",
+      "prompt": "Overflowing abundance of milk in a golden bowl surrounded by spring blossoms and ripe fruit, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), warm golden sunrise light, peach and plum blossoms, auspicious and prosperous atmosphere, no text, muted gold and rose color palette"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/breastfeeding-dream/inauspicious.png",
+      "alt_ko": "빈 그릇과 겨울 가지 — 지원 중단과 재정적 어려움을 경고하는 흉몽 이미지",
+      "alt_en": "Empty cracked bowl on dark stone with withered winter branches, symbolizing dwindling support and hardship",
+      "prompt": "An empty cracked ceramic bowl on dark stone, withered bare branches in winter mist, ink-wash illustration, Korean traditional painting aesthetic (한국화), foreboding cold atmosphere, deep indigo and charcoal shadows, moonless night motif, no text, no people, cool blue-grey color palette"
+    }
+  ]
+}

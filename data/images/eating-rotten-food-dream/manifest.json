@@ -1,0 +1,27 @@
+{
+  "slug": "eating-rotten-food-dream",
+  "generatedAt": "2026-03-12T00:00:00.000Z",
+  "provider": "imagen-4",
+  "hero": {
+    "path": "/images/dreams/eating-rotten-food-dream/hero.png",
+    "alt_ko": "전통 한국 나무 식탁 위에 썩어 가는 음식이 담긴 밥그릇 - 상한 음식 먹는 꿈 해몽",
+    "alt_en": "A half-eaten bowl of rice with decaying food on a traditional Korean wooden table - dream of eating rotten food",
+    "prompt": "A half-eaten bowl of rice with decaying food scattered on a traditional Korean wooden table, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, muted grey-green tones with subtle sickly yellow highlights, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/eating-rotten-food-dream/auspicious.png",
+      "alt_ko": "썩은 음식을 멀리하고 신선한 음식을 선택하는 정화의 장면 - 길몽 해석",
+      "alt_en": "A hand turning away from spoiled food toward fresh golden herbs and vegetables - the auspicious interpretation of rejecting the rotten",
+      "prompt": "A radiant golden bowl of fresh herbs and vegetables, a hand reaching away from spoiled food, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), warm golden sunrise light, spring blossoms in background, dreamlike atmosphere, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/eating-rotten-food-dream/inauspicious.png",
+      "alt_ko": "어두운 식탁 위 곰팡이 핀 썩은 음식들 - 흉몽 해석",
+      "alt_en": "Rotting food with mold spreading on a dark traditional Korean table under a stormy night sky - the inauspicious interpretation",
+      "prompt": "Rotting food on a dark traditional Korean table, decayed fruits and vegetables, mold spreading, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), deep shadows, cool blue-grey tones, stormy night atmosphere, no text, no people"
+    }
+  ]
+}

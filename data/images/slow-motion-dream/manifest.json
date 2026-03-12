@@ -1,0 +1,27 @@
+{
+  "slug": "slow-motion-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/slow-motion-dream/hero.png",
+    "alt_ko": "안개 낀 산길을 느리게 걷는 형상과 공중에 떠 있는 낙엽들 — 슬로우모션 꿈해몽 대표 이미지",
+    "alt_en": "A silhouette moving slowly through a misty mountain path with autumn leaves suspended mid-air — slow motion dream interpretation",
+    "prompt": "A solitary figure moving through a misty mountain path, the surrounding world frozen in a blur of swirling mist and autumn leaves suspended mid-air, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike slow-motion atmosphere, muted indigo and deep slate tones with faint moonlit silver, no text, no faces"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/slow-motion-dream/auspicious.png",
+      "alt_ko": "이른 아침 황금빛 햇살 아래 피어나는 연꽃과 맑은 산 계곡 — 슬로우모션 꿈의 긍정적 의미",
+      "alt_en": "A lotus blooming at its own unhurried pace in golden morning light beside a mountain stream — the contemplative positive aspect of slow-motion dreams",
+      "prompt": "A tranquil mountain stream flowing gently between mossy stones, golden morning light filtering through pine branches, a single lotus blossom opening at its own unhurried pace, soft watercolor illustration, Korean traditional painting aesthetic (한국화), warm amber and golden-green tones, dreamlike peaceful atmosphere, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/slow-motion-dream/inauspicious.png",
+      "alt_ko": "깊은 물속에서 위로 손을 뻗는 형상과 그림자 사슬 — 슬로우모션 꿈의 무력감과 흉몽 의미",
+      "alt_en": "A figure reaching upward through dark water toward a distant light, shadowy chains pulling downward — the helplessness and inauspicious meaning of slow-motion dreams",
+      "prompt": "A figure trapped in deep water, arms outstretched reaching upward toward a dim surface light far above, heavy chains of shadow pulling downward, murky dark teal and midnight blue tones, ink-wash illustration, Korean traditional painting aesthetic (한국화), oppressive dreamlike atmosphere, no faces, no text"
+    }
+  ]
+}

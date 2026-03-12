@@ -1,0 +1,27 @@
+{
+  "slug": "catching-dream",
+  "generatedAt": "2026-03-12T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/catching-dream/hero.png",
+    "alt_ko": "미스트 낀 산속 계곡 위에서 빛나는 황금 물고기를 두 손으로 부드럽게 잡고 있는 장면, 한국화 수묵 수채화 스타일",
+    "alt_en": "A pair of open hands gently holding a luminous golden fish above a misty mountain stream, Korean ink-wash watercolor illustration style",
+    "prompt": "A pair of open hands gently holding a luminous golden fish above a misty mountain stream, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, muted earth tones with subtle golden highlights, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/catching-dream/auspicious.png",
+      "alt_ko": "햇살 가득한 강에서 황금 잉어가 벚꽃 사이를 뛰어오르는 봄날 풍경, 한국화 수묵 수채화 스타일",
+      "alt_en": "A golden carp leaping from a sun-dappled river with cherry blossoms drifting in the air, Korean ink-wash watercolor, auspicious spring atmosphere",
+      "prompt": "A golden carp leaping joyfully from a sun-dappled river, cherry blossoms drifting in the air, warm golden sunrise light, Korean traditional ink-wash watercolor illustration, dreamlike atmosphere, spring motifs, abundant and auspicious, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/catching-dream/inauspicious.png",
+      "alt_ko": "어둠 속 소용돌이치는 안개 속으로 손을 뻗지만 닿지 않는 장면, 한국화 수묵화 스타일, 우울하고 불길한 분위기",
+      "alt_en": "An outstretched hand reaching into dark swirling mist with a shadowy object just beyond the fingertips, Korean ink-wash illustration, foreboding atmosphere",
+      "prompt": "An outstretched hand reaching desperately into dark swirling mist, a shadowy object just beyond the fingertips, cool deep blues and grey-green tones, stormy night atmosphere, Korean traditional ink-wash illustration style, foreboding and melancholic, no text, no people"
+    }
+  ]
+}

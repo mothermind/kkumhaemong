@@ -1,0 +1,27 @@
+{
+  "slug": "studying-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/studying-dream/hero.png",
+    "alt_ko": "전통 한옥 서재의 책상 위에 펼쳐진 책과 붓, 창문으로 스며드는 달빛",
+    "alt_en": "Open books and writing brushes on a traditional Korean wooden study desk with moonlight through paper screen windows",
+    "prompt": "A student's open books and writing brushes arranged on a traditional Korean wooden study desk, misty moonlight filtering through paper screen windows, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, muted indigo and warm amber tones, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/studying-dream/auspicious.png",
+      "alt_ko": "황금빛 아침 햇살 속에 펼쳐지는 과거급제 두루마리, 봄꽃이 흩날리는 길몽 장면",
+      "alt_en": "A glowing scroll unfurling in golden sunrise light over traditional tiled rooftops with cherry blossoms drifting",
+      "prompt": "Ancient Korean scholar's graduation ceremony, golden sunrise over traditional tiled rooftops, a scroll unrolling to reveal calligraphy glowing with warm golden light, cherry blossom petals drifting in morning air, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike warm golden atmosphere, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/studying-dream/inauspicious.png",
+      "alt_ko": "흩어진 책과 엎질러진 먹물, 폭풍우 속 어두운 밤 책상의 흉몽 장면",
+      "alt_en": "Scattered books and spilled ink on a desk under a dim candle with storm clouds visible through a dark window",
+      "prompt": "Scattered books and crumpled papers on a desk under a dim flickering candle, heavy storm clouds pressing against a dark night sky visible through a window, ink spilled across unfinished writing, shadows closing in, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike somber atmosphere, deep indigo and grey tones, no text, no people"
+    }
+  ]
+}

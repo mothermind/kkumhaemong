@@ -1,0 +1,27 @@
+{
+  "slug": "waiting-dream",
+  "hero": {
+    "path": "/images/dreams/waiting-dream/hero.png",
+    "alt_ko": "안개 낀 산 정자에 홀로 앉아 기다리는 인물, 한국 전통 수묵화 스타일",
+    "alt_en": "A solitary figure waiting quietly in a misty Korean mountain pavilion, ink-wash illustration style",
+    "prompt": "A solitary figure sitting on a traditional Korean wooden bench in a misty mountain pavilion, waiting quietly, soft ink-wash illustration style, Korean traditional painting aesthetic, dreamlike atmosphere, muted earth tones with subtle golden light filtering through morning mist, falling cherry blossom petals, contemplative mood, no text"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/waiting-dream/auspicious.png",
+      "alt_ko": "전통 한옥 창가에 놓인 따뜻한 등불과 붉은 도장이 찍힌 편지, 길몽을 상징하는 따뜻한 황금빛 분위기",
+      "alt_en": "A warm glowing lantern beside a sealed letter on a traditional Korean wooden table, auspicious golden light through a paper screen window",
+      "prompt": "A warm glowing lantern on a traditional Korean wooden table, a letter sealed with a red stamp placed beside it, soft golden light streaming through a paper screen window, delicate ink-wash illustration style, dreamlike hopeful atmosphere, Korean traditional painting aesthetic, auspicious warm tones, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/waiting-dream/inauspicious.png",
+      "alt_ko": "빗속에 홀로 서 있는 버스 정류장의 인물, 텅 빈 어두운 도로, 흉몽을 암시하는 쓸쓸한 분위기",
+      "alt_en": "A lone figure standing at a rain-soaked bus stop under a dim streetlight, dark empty road ahead, melancholic dreamlike mood",
+      "prompt": "An empty rain-soaked bus stop at dusk, a lone figure standing under a dim streetlight looking down a dark empty road, no bus in sight, heavy raindrops falling, melancholic ink-wash illustration style, Korean traditional painting aesthetic, muted cool grey-blue tones, lonely and anxious atmosphere, dreamlike quality, no text"
+    }
+  ],
+  "generatedAt": "2026-03-12T00:00:00.000Z",
+  "provider": "imagen4"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "sewing-dream",
+  "generatedAt": "2026-03-12T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/sewing-dream/hero.png",
+    "alt_ko": "바느질 도구와 전통 규방 창문 — 바느질하는 꿈 해몽 대표 이미지",
+    "alt_en": "Sewing needle and thread beside a traditional Korean gyubang window — hero image for sewing dream interpretation",
+    "prompt": "A delicate silver needle and silken thread resting on folded fabric beside a traditional Korean gyubang window, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, warm candlelight glow, no text, no people, muted ivory and indigo palette"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/sewing-dream/auspicious.png",
+      "alt_ko": "완성된 한복과 황금빛 자수 — 바느질 꿈 길몽 이미지",
+      "alt_en": "Completed hanbok being stitched with golden thread and auspicious embroidery — auspicious sewing dream image",
+      "prompt": "A completed silk hanbok being lovingly stitched with golden thread, auspicious lotus and crane embroidery patterns, warm golden sunrise light streaming through a lattice window, red thread of fate coiled beside the fabric, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike warm atmosphere, no text, no people, warm gold and crimson palette"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/sewing-dream/inauspicious.png",
+      "alt_ko": "부러진 바늘과 엉킨 실 — 바느질 꿈 흉몽 이미지",
+      "alt_en": "Broken needle on torn dark fabric with tangled threads unraveling — inauspicious sewing dream image",
+      "prompt": "A broken needle lying on torn dark fabric, tangled threads unraveling in a shadowy room, night wind through a cracked window, scattered unfinished needlework, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike foreboding atmosphere, no text, no people, cool grey and deep indigo palette with moonlight shadows"
+    }
+  ]
+}

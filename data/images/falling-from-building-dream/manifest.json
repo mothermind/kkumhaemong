@@ -1,0 +1,27 @@
+{
+  "slug": "falling-from-building-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/falling-from-building-dream/hero.png",
+    "alt_ko": "안개 속 고층 빌딩에서 추락하는 꿈 일러스트 — 수묵화 스타일",
+    "alt_en": "Ink-wash illustration of a figure falling from a towering building into misty cityscape",
+    "prompt": "A solitary figure plummeting from a towering modern building, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, cool blue and grey tones with golden highlights, no text, no faces visible, vertical cityscape fading into mist"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/falling-from-building-dream/auspicious.png",
+      "alt_ko": "건물에서 뛰어내려 황금빛 구름 위에 착지하는 길몽 일러스트",
+      "alt_en": "Ink-wash illustration of a figure leaping from a building and landing safely on golden clouds",
+      "prompt": "A person leaping from a building with outstretched arms and landing safely on golden clouds, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike warm atmosphere, golden sunrise tones, blossoms floating in the air, no text, no faces visible, sense of liberation and triumph"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/falling-from-building-dream/inauspicious.png",
+      "alt_ko": "어두운 빌딩에서 추락하는 흉몽 일러스트 — 폭풍우와 심연",
+      "alt_en": "Ink-wash illustration of a shadowy figure falling from a crumbling building into a stormy abyss",
+      "prompt": "A shadowy figure falling from a dark crumbling building into an abyss, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), deep indigo and charcoal tones, storm clouds and lightning in the background, no text, no faces visible, foreboding and ominous atmosphere"
+    }
+  ]
+}

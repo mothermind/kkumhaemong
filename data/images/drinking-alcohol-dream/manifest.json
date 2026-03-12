@@ -1,0 +1,27 @@
+{
+  "slug": "drinking-alcohol-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/drinking-alcohol-dream/hero.png",
+    "alt_ko": "여럿이 어울려 전통 술잔을 들고 환하게 건배하는 꿈 해몽 일러스트",
+    "alt_en": "Friends joyfully toasting with traditional Korean celadon cups at a warm gathering, dream interpretation illustration",
+    "prompt": "A group of friends joyfully raising cups of traditional Korean alcohol at a warm gathering, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, glowing lantern light, celadon cups and earthenware bottles, autumn foliage in background, no text, no faces, warm amber and golden tones"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/drinking-alcohol-dream/auspicious.png",
+      "alt_ko": "황금빛 술잔으로 건배하는 길몽 장면, 봄꽃과 빛이 가득한 한국화 스타일 일러스트",
+      "alt_en": "Auspicious ceremonial toast with golden celadon cups, cherry blossoms and sunrise light, Korean ink-wash illustration",
+      "prompt": "A ceremonial toast with celadon cups filled with golden rice wine, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty sunrise atmosphere, cherry blossoms and pine branches, golden light streaming from above, no text, no faces, warm gold and peach tones"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/drinking-alcohol-dream/inauspicious.png",
+      "alt_ko": "어두운 밤 홀로 뒤집힌 술잔과 깨진 도자기 파편, 흉몽 해몽 한국화 스타일 일러스트",
+      "alt_en": "A solitary overturned cup on a cold stone table in a dark rainy night, broken pottery, Korean ink-wash inauspicious dream illustration",
+      "prompt": "A solitary overturned cup of alcohol on a cold stone table in a dark rainy night, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike foreboding atmosphere, broken pottery shards, deep indigo and grey tones, bare winter branches, no text, no people"
+    }
+  ]
+}

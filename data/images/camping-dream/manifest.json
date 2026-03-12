@@ -1,0 +1,27 @@
+{
+  "slug": "camping-dream",
+  "hero": {
+    "path": "/images/dreams/camping-dream/hero.png",
+    "alt_ko": "별빛 아래 캠프파이어를 피우며 캠핑하는 가족, 한국 전통 수묵화 스타일",
+    "alt_en": "Family camping under a star-filled sky with a glowing campfire, Korean ink-wash illustration style",
+    "prompt": "A family camping under a vast star-filled sky, glowing campfire casting warm amber light on a traditional Korean landscape, misty mountains in the background, soft ink-wash illustration style with watercolor washes, dreamlike atmosphere, Korean traditional painting aesthetic, no text, serene and hopeful mood"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/camping-dream/auspicious.png",
+      "alt_ko": "환하게 타오르는 캠프파이어 주변에 모인 행복한 가족, 길몽 이미지",
+      "alt_en": "Happy family gathered around a bright roaring campfire, auspicious dream image",
+      "prompt": "A joyful family gathered around a bright roaring campfire beneath a starlit Korean mountain night sky, vivid warm light illuminating happy faces, traditional ink-wash watercolor illustration style, dreamlike auspicious atmosphere, rich golden and amber tones, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/camping-dream/inauspicious.png",
+      "alt_ko": "폭풍 속에 무너지는 텐트, 흉몽 이미지",
+      "alt_en": "Tent collapsing in a dark storm, inauspicious dream image",
+      "prompt": "A lone tent collapsing in a sudden dark storm in the Korean mountains, heavy rain and wind, dark moody sky, scattered camping equipment, ink-wash illustration style, dreamlike ominous atmosphere, muted grey and dark blue tones, no text"
+    }
+  ],
+  "generatedAt": "2026-03-12T00:00:00.000Z",
+  "provider": "imagen4"
+}

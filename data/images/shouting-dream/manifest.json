@@ -1,0 +1,27 @@
+{
+  "slug": "shouting-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/shouting-dream/hero.png",
+    "alt_ko": "안개 낀 산 정상에서 두 팔을 벌리고 소리를 외치는 인물, 한국화 수묵 수채화 스타일",
+    "alt_en": "A lone figure atop a misty mountain peak with arms outstretched, voice echoing into the valley, Korean ink-wash watercolor style",
+    "prompt": "A lone figure standing on a misty mountain summit, arms outstretched, voice echoing into the vast landscape below, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, no text, no faces, muted earth tones with golden sunrise light breaking through clouds"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/shouting-dream/auspicious.png",
+      "alt_ko": "햇살 가득한 산 정상에서 승리의 기쁨을 외치는 인물, 벚꽃이 바람에 날리는 봄날 길몽 장면",
+      "alt_en": "A triumphant figure on a sunlit mountain peak shouting in victory, cherry blossoms drifting in golden dawn light, auspicious dream scene",
+      "prompt": "A triumphant figure atop a sunlit mountain peak, arms raised in joyful victory cry, golden dawn light flooding the valley below, cherry blossoms carried on the wind, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike warm atmosphere, no text, no faces, warm golden and amber tones, spring motifs"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/shouting-dream/inauspicious.png",
+      "alt_ko": "폭풍 속에서 소리 없는 비명을 지르는 인물, 어두운 번개 배경의 흉몽 장면, 한국화 수묵화 스타일",
+      "alt_en": "A solitary figure in a dark storm screaming silently, lightning-lit shadows closing in, inauspicious dream scene in Korean ink-wash style",
+      "prompt": "A solitary figure in a dark storm, mouth open in a silent scream, shadows closing in from all sides, lightning-lit sky, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike ominous atmosphere, no text, no recognizable faces, deep indigo and charcoal tones, storm and night motifs"
+    }
+  ]
+}

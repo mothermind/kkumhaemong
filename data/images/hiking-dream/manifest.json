@@ -1,0 +1,27 @@
+{
+  "slug": "hiking-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/hiking-dream/hero.png",
+    "alt_ko": "안개 낀 한국 산길을 오르는 등산 꿈 해몽 일러스트",
+    "alt_en": "Ink-wash illustration of a misty Korean mountain trail for hiking dream interpretation",
+    "prompt": "A lone hiker ascending a misty Korean mountain trail through ancient pine forests, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, no text, no people visible, muted green and grey tones with subtle golden morning light filtering through the mist, mountain peaks disappearing into clouds"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/hiking-dream/auspicious.png",
+      "alt_ko": "산 정상에 피어난 꽃과 황금빛 일출 — 등산 꿈 길몽 이미지",
+      "alt_en": "Mountain summit with wildflowers and golden sunrise — auspicious hiking dream illustration",
+      "prompt": "A mountain summit bathed in warm golden sunrise light, wildflowers blooming on the peak, a clear spring bubbling from ancient rocks, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, no text, warm earth tones, golden hour light, spring blossoms and mist"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/hiking-dream/inauspicious.png",
+      "alt_ko": "폭우와 짙은 안개 속 어두운 산길 — 등산 꿈 흉몽 이미지",
+      "alt_en": "Dark mountain path in stormy rain and deep fog — inauspicious hiking dream illustration",
+      "prompt": "A dark mountain path shrouded in stormy rain and deep shadows, gnarled ancient trees bending in the wind, a fork in the trail disappearing into dense fog, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, no text, cool blues and deep greys, moonless night, ominous mist"
+    }
+  ]
+}

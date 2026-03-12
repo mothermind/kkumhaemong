@@ -1,0 +1,27 @@
+{
+  "slug": "opening-door-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/opening-door-dream/hero.png",
+    "alt_ko": "한국 전통 한옥 대문이 열리며 황금빛 아침 햇살이 쏟아지는 몽환적인 수채화 일러스트",
+    "alt_en": "A traditional Korean hanok gate swinging open to reveal golden morning light, dreamlike ink-wash illustration",
+    "prompt": "A grand traditional Korean hanok main gate (대문) swinging open to reveal golden morning light streaming through, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, warm golden tones with morning mist, no text, no people, muted earth tones with luminous golden highlights"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/opening-door-dream/auspicious.png",
+      "alt_ko": "황금빛 화려한 대문 너머로 봄꽃이 만발한 정원이 펼쳐지는 길몽 수채화 일러스트",
+      "alt_en": "A magnificent golden gate opening to a spring garden with blooming cherry blossoms, auspicious dream illustration",
+      "prompt": "A magnificent ornate golden gate opening wide to reveal a lush spring garden with blooming cherry blossoms beyond, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, warm sunrise golden light streaming through, vibrant spring colors with golden highlights, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/opening-door-dream/inauspicious.png",
+      "alt_ko": "낡고 무거운 나무문이 열리며 어둡고 음산한 공간이 드러나는 흉몽 수채화 일러스트",
+      "alt_en": "A heavy weathered wooden door opening to reveal a dark ominous room with cold blue shadows, inauspicious dream illustration",
+      "prompt": "A heavy weathered wooden door creaking open to reveal a dark ominous empty room with shadows and cold blue light, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike eerie atmosphere, deep shadows and cool blue-grey tones, mist and darkness beyond the threshold, no text, no people"
+    }
+  ]
+}

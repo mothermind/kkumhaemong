@@ -1,0 +1,27 @@
+{
+  "slug": "stabbing-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/stabbing-dream/hero.png",
+    "alt_ko": "안개 낀 산 바위 위에 놓인 신칼과 들꽃, 한국화 수묵화 스타일",
+    "alt_en": "A ritual shaman knife resting on fog-covered mountain rocks with wildflowers, Korean ink-wash illustration",
+    "prompt": "A ritual shaman knife resting on fog-covered mountain rocks beside scattered wildflowers, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, no text, no people, muted earth tones with deep indigo and silver highlights"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/stabbing-dream/auspicious.png",
+      "alt_ko": "황금빛 칼과 국화꽃이 어우러진 제단, 길몽을 상징하는 따뜻한 빛",
+      "alt_en": "A gleaming golden knife on a silk-draped altar surrounded by golden chrysanthemums, symbolizing auspicious fortune",
+      "prompt": "A gleaming golden knife catching warm sunrise light on an altar draped in silk, surrounded by blooming golden chrysanthemums and flowing silk ribbons, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, no text, no people, warm earth tones with golden and amber highlights"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/stabbing-dream/inauspicious.png",
+      "alt_ko": "폭풍우 치는 밤하늘 아래 갈라진 땅에 꽂힌 그림자 속 칼, 흉몽을 상징",
+      "alt_en": "A shadowy knife buried in cracked dark earth under a stormy night sky with bare branches, symbolizing inauspicious warning",
+      "prompt": "A shadowy knife half-buried in cracked dark earth under a stormy night sky, bare winter branches reaching overhead, a single withered flower at the blade's edge, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, no text, no people, cool blues deep indigo and charcoal tones"
+    }
+  ]
+}

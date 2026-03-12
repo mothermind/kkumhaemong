@@ -1,0 +1,27 @@
+{
+  "slug": "punching-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/punching-dream/hero.png",
+    "alt_ko": "꿈에서 때리는 장면 — 안개 낀 한국 산수 위에 떠오른 주먹",
+    "alt_en": "Dream of punching — a clenched fist suspended above a misty Korean landscape",
+    "prompt": "A clenched fist suspended in misty air above a traditional Korean landscape, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, dynamic energy radiating from the fist, muted earth tones with subtle amber highlights, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/punching-dream/auspicious.png",
+      "alt_ko": "때리는 꿈 길몽 — 황금빛 일출과 승리의 기운",
+      "alt_en": "Punching dream auspicious — golden sunrise and triumphant energy over Korean mountains",
+      "prompt": "Golden sunrise breaking over Korean mountains with a victorious warrior stance symbolized by a raised fist, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), warm golden light, cherry blossoms, triumphant auspicious energy, dreamlike atmosphere, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/punching-dream/inauspicious.png",
+      "alt_ko": "때리는 꿈 흉몽 — 폭풍 구름과 막힌 길",
+      "alt_en": "Punching dream inauspicious — dark storm clouds and blocked paths in Korean ink-wash style",
+      "prompt": "A shadowy figure trapped behind dark storm clouds, swirling mist blocking all paths, ink-wash illustration in cool blue and grey tones, Korean traditional painting aesthetic (한국화), foreboding atmosphere, deep shadows, rain motifs, no text, no people"
+    }
+  ]
+}

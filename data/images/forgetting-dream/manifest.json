@@ -1,0 +1,27 @@
+{
+  "slug": "forgetting-dream",
+  "hero": {
+    "path": "/images/dreams/forgetting-dream/hero.png",
+    "alt_ko": "안개 속에서 사라져가는 기억들을 향해 손을 뻗는 사람의 꿈 장면",
+    "alt_en": "A person reaching toward fading memories dissolving into mist in a dreamscape",
+    "prompt": "A person standing in a misty dreamscape, reaching out toward fading memories represented as translucent floating objects dissolving into fog, soft ink-wash illustration style, Korean traditional painting aesthetic, dreamlike atmosphere, muted blue-grey tones with soft white mist, melancholic yet ethereal mood, no text"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/forgetting-dream/auspicious.png",
+      "alt_ko": "잃어버린 것들을 다시 찾아 기뻐하는 사람, 따뜻한 빛과 꽃이 피어나는 장면",
+      "alt_en": "A person joyfully rediscovering lost memories and objects, warm golden light and blooming flowers",
+      "prompt": "A person joyfully rediscovering lost objects and memories, glowing warm light emanating from recovered treasures, Korean traditional ink-wash illustration style, golden and soft amber tones, hopeful and warm atmosphere, flowers blooming in the background, dreamlike setting, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/forgetting-dream/inauspicious.png",
+      "alt_ko": "소용돌이치는 안개 속에서 중요한 것들이 손에서 사라져가는 불안한 꿈 장면",
+      "alt_en": "A figure anxiously searching through swirling fog as important objects fade away out of reach",
+      "prompt": "A figure anxiously searching through swirling fog and empty space, important objects just out of reach, fading away into darkness, Korean traditional ink-wash illustration style, cold blue and grey tones, tense and anxious atmosphere, scattered papers and fading silhouettes, dreamlike setting, no text"
+    }
+  ],
+  "generatedAt": "2026-03-12T00:00:00.000Z",
+  "provider": "imagen4"
+}

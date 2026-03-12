@@ -1,0 +1,27 @@
+{
+  "slug": "driving-fast-dream",
+  "hero": {
+    "path": "/images/dreams/driving-fast-dream/hero.png",
+    "alt_ko": "고속도로를 질주하는 자동차, 한국화 수묵 수채화 스타일",
+    "alt_en": "A car speeding along an open highway, Korean ink-wash watercolor illustration style",
+    "prompt": "A sleek car speeding along a wide open highway at golden hour, motion blur on the road and surroundings, soft ink-wash and watercolor illustration style with Korean traditional painting aesthetic, dreamlike misty mountain landscape in the background, warm amber and deep indigo tones, sense of velocity and freedom, no text, no people visible"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/driving-fast-dream/auspicious.png",
+      "alt_ko": "일출 고속도로를 순탄하게 달리는 차, 벚꽃과 황금빛 아침",
+      "alt_en": "A car gliding smoothly on a sunrise highway with cherry blossoms and golden morning light",
+      "prompt": "A car gliding smoothly along a bright open highway at sunrise, road stretching ahead unobstructed, soft watercolor illustration style with Korean traditional ink-wash aesthetic, golden morning light, cherry blossom petals drifting in the breeze, sense of momentum and hopeful energy, dreamlike atmosphere, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/driving-fast-dream/inauspicious.png",
+      "alt_ko": "폭우 속 통제 불능 자동차, 어두운 밤길과 안개",
+      "alt_en": "A car spinning out of control on a dark rainy road at night, swirling fog and danger",
+      "prompt": "A car spinning out of control on a dark rainy road at night, headlights cutting through mist and fog, soft ink-wash illustration style with Korean traditional painting aesthetic, deep indigo and grey tones, stormy atmosphere with swirling dark clouds, sense of danger and loss of control, dreamlike mood, no text"
+    }
+  ],
+  "generatedAt": "2026-03-12T00:00:00.000Z",
+  "provider": "imagen4"
+}

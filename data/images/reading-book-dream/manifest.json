@@ -1,0 +1,27 @@
+{
+  "slug": "reading-book-dream",
+  "generatedAt": "2026-03-12T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/reading-book-dream/hero.png",
+    "alt_ko": "촛불 옆 책상 위에 펼쳐진 책, 먹과 붓이 놓인 몽환적인 한국 전통 풍경",
+    "alt_en": "An open book on a wooden desk beside a glowing candle with ink brushes and stones, dreamlike Korean traditional setting",
+    "prompt": "An open book resting on a wooden desk beside a softly glowing candle, ancient Korean calligraphy brushes and ink stones nearby, misty moonlit room, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, no text, no people, muted indigo and gold color palette"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/reading-book-dream/auspicious.png",
+      "alt_ko": "황금빛 햇살 속 펼쳐진 책과 매화꽃이 흩날리는 길몽 장면",
+      "alt_en": "An open book glowing in warm golden sunrise light with plum blossoms drifting through a window, auspicious Korean dream scene",
+      "prompt": "A scholar's desk bathed in warm golden sunrise light, an open book glowing with radiant energy, plum blossoms drifting through an open window, cherry blossom petals scattered gently, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, no text, no people, warm gold and soft pink palette"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/reading-book-dream/inauspicious.png",
+      "alt_ko": "어두운 방에 펼쳐진 책, 글자가 번지고 빗속 창문이 보이는 흉몽 장면",
+      "alt_en": "A book open in a dark shadowy room with blurred text and a rain-streaked window, foreboding inauspicious dream scene",
+      "prompt": "A book lying open in a dark shadowy room, text blurred and illegible, heavy storm clouds visible through a rain-streaked window, ink spilling across pages like dark water, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike foreboding atmosphere, no text, no people, deep indigo and charcoal grey palette"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "hugging-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/hugging-dream/hero.png",
+    "alt_ko": "새벽 산길에서 포옹하는 두 인물, 한국 수묵화 스타일, 벚꽃 흩날리는 몽환적 분위기",
+    "alt_en": "Two figures embracing on a misty mountain path at dawn, Korean ink-wash illustration style, cherry blossom petals drifting",
+    "prompt": "Two figures sharing a warm embrace on a misty mountain path at dawn, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, warm golden light filtering through morning mist, no text, no faces, flowing robes, cherry blossom petals drifting"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/hugging-dream/auspicious.png",
+      "alt_ko": "복숭아꽃 나무 아래 환하게 포옹하는 두 실루엣, 황금빛 새벽빛, 한국 수묵화 스타일",
+      "alt_en": "Two silhouettes embracing joyfully under a blossoming peach tree in golden sunrise light, Korean ink-wash illustration",
+      "prompt": "Two silhouettes embracing joyfully under a blossoming peach tree, golden sunrise light, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), warm amber and gold tones, petals floating in breeze, dreamlike atmosphere, no text, no faces"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/hugging-dream/inauspicious.png",
+      "alt_ko": "차가운 빗속에서 빈 공간을 향해 손 뻗는 외로운 인물, 어두운 폭풍 하늘, 한국 수묵화 스타일",
+      "alt_en": "A solitary figure reaching toward empty space in cold rain under a stormy sky, Korean ink-wash illustration, melancholic atmosphere",
+      "prompt": "A solitary figure standing in a cold rain reaching out toward an empty space, dark stormy sky, deep blue and grey ink-wash illustration, Korean traditional painting aesthetic (한국화), mist and shadows, willow tree bending in wind, dreamlike melancholic atmosphere, no text, no faces"
+    }
+  ]
+}

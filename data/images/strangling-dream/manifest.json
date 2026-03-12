@@ -1,0 +1,27 @@
+{
+  "slug": "strangling-dream",
+  "generatedAt": "2026-03-12T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/strangling-dream/hero.png",
+    "alt_ko": "허공에 떠 있는 두 손과 안개 낀 산, 목을 조르는 꿈 해몽",
+    "alt_en": "Disembodied hands hovering over misty mountains, strangling dream symbolism",
+    "prompt": "A pair of disembodied hands hovering in midair above misty mountain terrain, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, cool muted blues and shadowy purples with faint moonlight, no text, no people, symbolic tension in stillness"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/strangling-dream/auspicious.png",
+      "alt_ko": "황금빛 여명 속 사슬을 끊는 장면, 장애 극복의 길몽",
+      "alt_en": "Breaking free from chains in golden sunrise light, auspicious sign of overcoming obstacles",
+      "prompt": "A triumphant figure breaking through heavy chains in an open golden landscape, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike warm atmosphere, golden sunrise light, blooming plum blossoms, warm earth tones with amber and gold highlights, no text, no faces visible, freedom and victory symbolism"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/strangling-dream/inauspicious.png",
+      "alt_ko": "폭풍 속 어두운 그림자가 나무를 감싸는 장면, 억압과 위기의 흉몽",
+      "alt_en": "Dark shadow coiling around a bare tree in a stormy night, inauspicious symbol of oppression and crisis",
+      "prompt": "A dark coiling shadow wrapping around a lone bare tree in stormy night landscape, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike foreboding atmosphere, deep indigo and charcoal tones, storm clouds, cold moonlight barely piercing the darkness, no text, no faces, oppression and entrapment symbolism"
+    }
+  ]
+}

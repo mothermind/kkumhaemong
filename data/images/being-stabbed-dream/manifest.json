@@ -1,0 +1,27 @@
+{
+  "slug": "being-stabbed-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/being-stabbed-dream/hero.png",
+    "alt_ko": "안개 낀 산 위에 놓인 신검과 금빛으로 변하는 핏방울 — 한국화 수묵 수채화 스타일",
+    "alt_en": "A ritual knife on misty mountain rocks with a drop of blood transforming into gold coins — Korean ink-wash watercolor style",
+    "prompt": "A gleaming ritual knife resting on misty mountain rocks, a drop of blood transforming into gold coins mid-air, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, no text, no people, muted earth tones with subtle golden highlights"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/being-stabbed-dream/auspicious.png",
+      "alt_ko": "황금 햇살 아래 풍요로운 논밭과 금빛 비 — 재물운 길몽 일러스트",
+      "alt_en": "Golden sunlight over a flourishing rice paddy with coins raining down — auspicious wealth fortune illustration",
+      "prompt": "Golden sunlight streaming over a flourishing rice paddy, coins and gemstones raining gently from above, a phoenix rising in the background, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), warm golden sunrise atmosphere, no text, no people, rich warm earth tones with golden luminescence"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/being-stabbed-dream/inauspicious.png",
+      "alt_ko": "폭풍우 치는 밤 산길에서 뒤를 돌아보는 인물 — 배신 경고의 흉몽 일러스트",
+      "alt_en": "A lone figure looking back on a stormy mountain path at night — inauspicious betrayal warning illustration",
+      "prompt": "A shadowy figure lurking behind a lone figure on a stormy mountain path at night, dark storm clouds and cold rain, a sense of looming betrayal, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), deep indigo and midnight blue palette, cold dramatic shadows, no text, no explicit violence"
+    }
+  ]
+}

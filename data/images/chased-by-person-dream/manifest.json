@@ -1,0 +1,27 @@
+{
+  "slug": "chased-by-person-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/chased-by-person-dream/hero.png",
+    "alt_ko": "밤안개 가득한 골목을 도망치는 인물과 뒤를 쫓는 그림자, 수묵화 스타일 꿈 일러스트",
+    "alt_en": "A lone figure fleeing down a misty night street pursued by a shadowy silhouette, ink-wash dream illustration",
+    "prompt": "A lone figure running down a misty night street pursued by a shadowy human silhouette, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike foggy atmosphere, cool blue-gray tones with indigo shadows, no text, no faces visible"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/chased-by-person-dream/auspicious.png",
+      "alt_ko": "밝은 빛의 문으로 탈출하는 인물, 벚꽃과 황금빛 햇살, 수묵화 스타일 길몽 일러스트",
+      "alt_en": "A figure escaping through a bright gate into golden sunrise light with cherry blossoms, auspicious dream ink-wash illustration",
+      "prompt": "A figure bursting through a bright gate into golden sunrise light, leaving a dark pursuer behind, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), warm amber and golden tones, spring cherry blossoms, dreamlike radiant atmosphere, no text, no faces"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/chased-by-person-dream/inauspicious.png",
+      "alt_ko": "폭풍 속 막다른 골목에 갇힌 인물과 다가오는 어둠, 수묵화 스타일 흉몽 일러스트",
+      "alt_en": "A figure trapped in a dead-end alley under a stormy sky with a dark pursuer closing in, inauspicious dream ink-wash illustration",
+      "prompt": "A lone figure trapped in a dead-end alley under stormy night sky, dark shadowy pursuer closing in, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), deep indigo and charcoal tones, rain and heavy fog, no text, no faces visible"
+    }
+  ]
+}

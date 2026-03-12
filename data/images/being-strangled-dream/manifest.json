@@ -1,0 +1,27 @@
+{
+  "slug": "being-strangled-dream",
+  "generatedAt": "2026-03-12T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/being-strangled-dream/hero.png",
+    "alt_ko": "밤안개가 낀 다리 위로 귀신 같은 기운이 감도는 수묵화 일러스트",
+    "alt_en": "Ghostly mist wrapping around a wooden bridge at night, ink-wash illustration",
+    "prompt": "A ghostly mist wrapping around an empty wooden bridge at night, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, spectral wisps curling in the air, no text, no people, deep indigo and silvery grey palette with subtle moonlight"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/being-strangled-dream/auspicious.png",
+      "alt_ko": "어둠 속 연꽃이 새벽빛 아래 피어나는 수묵화 일러스트",
+      "alt_en": "Lotus flower blooming from dark water at sunrise, ink-wash illustration",
+      "prompt": "A lotus flower blooming from dark water at sunrise, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, new life emerging from darkness, warm golden dawn light, cherry blossom petals drifting, no text, no people, warm golden and soft pink palette"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/being-strangled-dream/inauspicious.png",
+      "alt_ko": "폭풍이 몰아치는 절벽 위 고목을 칭칭 감아 조르는 어두운 넝쿨 수묵화 일러스트",
+      "alt_en": "Dark twisted vines strangling a withered pine tree on a storm-battered cliff, ink-wash illustration",
+      "prompt": "Dark twisted vines entangling a withered pine tree on a storm-battered cliff, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike oppressive atmosphere, ominous storm clouds overhead, no text, no people, deep cool blues and charcoal black palette with cold grey mist"
+    }
+  ]
+}

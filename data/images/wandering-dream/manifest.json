@@ -1,0 +1,27 @@
+{
+  "slug": "wandering-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/wandering-dream/hero.png",
+    "alt_ko": "안개 낀 산길에서 사라지는 희미한 실루엣, 한국화 수묵화 스타일",
+    "alt_en": "A faint silhouette dissolving into misty mountain paths at dusk, Korean ink-wash illustration style",
+    "prompt": "A lone figure's faint silhouette dissolving into misty mountain paths at dusk, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, winding road disappearing into fog, muted earth tones with subtle indigo and silver hues, no text, no people visible"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/wandering-dream/auspicious.png",
+      "alt_ko": "안개를 벗어나 황금빛 산길로 나아가는 여정, 길몽을 상징하는 봄 새벽 풍경",
+      "alt_en": "A traveler emerging from mist onto a golden sunlit mountain path, auspicious spring dawn scene",
+      "prompt": "A traveler emerging from mist onto a sunlit mountain path discovering a golden road ahead, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), warm golden sunrise light, spring blossoms, hopeful atmosphere, warm earth tones with golden highlights, no text, no people faces visible"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/wandering-dream/inauspicious.png",
+      "alt_ko": "폭풍우 속 출구 없는 어두운 숲길, 흉몽을 상징하는 암울한 수묵화",
+      "alt_en": "A winding path disappearing into a dark stormy forest with no visible exit, inauspicious omen scene",
+      "prompt": "A winding path disappearing into a dark stormy forest, rain falling, deep shadows and fog obscuring all exits, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), ominous atmosphere, cool blues and deep grays with storm motifs, no text, no people"
+    }
+  ]
+}

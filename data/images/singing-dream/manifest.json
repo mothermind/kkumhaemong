@@ -1,0 +1,27 @@
+{
+  "slug": "singing-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/singing-dream/hero.png",
+    "alt_ko": "안개 낀 산꼭대기에서 노래를 부르는 모습을 표현한 한국화 스타일의 수채화 일러스트",
+    "alt_en": "Korean ink-wash watercolor illustration of a solitary figure singing atop a misty mountain",
+    "prompt": "A lone figure standing on a misty mountaintop with arms slightly raised in song, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, pine trees in background, ethereal clouds below, golden light, no text, no faces, warm amber and misty white tones"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/singing-dream/auspicious.png",
+      "alt_ko": "황금빛 조명과 꽃잎이 내리는 무대를 표현한 한국화 스타일 일러스트",
+      "alt_en": "Korean ink-wash watercolor illustration of a golden stage with flower petals raining down",
+      "prompt": "A stage bathed in golden light with flower petals raining down, an open spotlight on center stage, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, warm golden and peach tones, sunrise motifs, cherry blossoms, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/singing-dream/inauspicious.png",
+      "alt_ko": "어두운 텅 빈 극장과 부러진 마이크 스탠드를 표현한 한국화 스타일 일러스트",
+      "alt_en": "Korean ink-wash watercolor illustration of a dark empty theater with a broken microphone stand",
+      "prompt": "A dark empty theater with a single broken microphone stand on stage, torn sheet music scattered on the floor, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, cool deep blues and dark indigo, storm shadows, no text, no people"
+    }
+  ]
+}

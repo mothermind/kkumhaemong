@@ -1,0 +1,27 @@
+{
+  "slug": "giving-gift-dream",
+  "generatedAt": "2026-03-12T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/giving-gift-dream/hero.png",
+    "alt_ko": "전통 한국 정원에서 선물을 건네는 손, 수채화 스타일 꿈 해몽 일러스트",
+    "alt_en": "Hands offering a wrapped gift in a misty traditional Korean courtyard, ink-wash watercolor illustration",
+    "prompt": "A pair of hands delicately offering a small wrapped gift tied with a silk ribbon, misty Korean traditional courtyard in the background with stone lanterns and pine trees, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, warm golden morning light, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/giving-gift-dream/auspicious.png",
+      "alt_ko": "햇살 가득한 봄날 꽃 선물과 장식품이 놓인 전통 한국식 탁자, 길몽 이미지",
+      "alt_en": "Colorful flowers and gifts on a traditional Korean wooden table in golden morning sunlight, auspicious dream illustration",
+      "prompt": "A joyful scene of colorful flowers and decorative gifts arranged on a wooden table, sunlight streaming through a traditional Korean window (창호지), cherry blossoms drifting in the breeze, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, warm golden tones, auspicious festive atmosphere, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/giving-gift-dream/inauspicious.png",
+      "alt_ko": "어두운 밤 돌계단에 홀로 놓인 찢어진 포장의 선물 상자, 흉몽 이미지",
+      "alt_en": "A lone gift box with dark torn wrapping on cold stone steps in a misty moonlit courtyard, inauspicious dream illustration",
+      "prompt": "A single gift box with dark torn wrapping paper lying on cold stone steps in a misty night courtyard, bare winter branches overhead, deep shadows and moonlight casting an eerie glow, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, cool blues and grays, foreboding somber atmosphere, no text, no people"
+    }
+  ]
+}

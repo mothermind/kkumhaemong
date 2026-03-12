@@ -1,0 +1,27 @@
+{
+  "slug": "confessing-dream",
+  "hero": {
+    "path": "/images/dreams/confessing-dream/hero.png",
+    "alt_ko": "달빛 아래 한국 정원에서 고백하는 두 사람의 수묵화 일러스트",
+    "alt_en": "Ink-wash illustration of two figures in a moonlit Korean garden, one confessing to the other",
+    "prompt": "Two figures standing in a moonlit Korean garden, one reaching out their hand in a heartfelt confession, soft ink-wash illustration style, Korean traditional painting aesthetic, misty background with blooming plum blossoms, dreamlike atmosphere, warm lantern light, muted earth tones with soft pink and golden highlights, no text"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/confessing-dream/auspicious.png",
+      "alt_ko": "벚꽃잎이 떨어지는 한국 정원에서 두 손을 맞잡은 행복한 두 사람의 수채화 일러스트",
+      "alt_en": "Watercolor illustration of two joyful figures holding hands under falling cherry blossom petals in a Korean garden",
+      "prompt": "Two joyful figures holding hands under cherry blossom petals falling in a dreamlike Korean garden, soft watercolor illustration style, Korean traditional painting aesthetic, warm golden sunrise light, celebration of love and connection, muted pastel tones with gentle pink highlights, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/confessing-dream/inauspicious.png",
+      "alt_ko": "빗속 한국 골목에서 보내지 못한 편지를 들고 홀로 서 있는 사람의 수묵화 일러스트",
+      "alt_en": "Ink-wash illustration of a solitary figure standing alone in a rainy Korean alley, holding an unsent letter",
+      "prompt": "A solitary figure standing alone in a rainy Korean alley, shoulders slightly bowed, holding an unsent letter, soft ink-wash illustration style, Korean traditional painting aesthetic, melancholy atmosphere, cool blue-grey tones with faint moonlight, emotional vulnerability and isolation, no text"
+    }
+  ],
+  "generatedAt": "2026-03-12T00:00:00.000Z",
+  "provider": "imagen4"
+}

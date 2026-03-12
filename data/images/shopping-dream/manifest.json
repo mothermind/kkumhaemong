@@ -1,0 +1,27 @@
+{
+  "slug": "shopping-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4-fast",
+  "hero": {
+    "path": "/images/dreams/shopping-dream/hero.png",
+    "alt_ko": "꿈속 백화점 내부 — 황금빛 진열대와 몽환적인 분위기",
+    "alt_en": "A dreamlike department store interior glowing with golden light and elegant displays",
+    "prompt": "A glowing department store interior filled with elegant displays of merchandise, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, warm golden light filtering through ornate windows, no text, no people, soft earth tones with golden accents"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/shopping-dream/auspicious.png",
+      "alt_ko": "황금빛 풍요로운 시장 — 길몽 쇼핑 꿈",
+      "alt_en": "An abundant market overflowing with golden goods representing auspicious shopping fortune",
+      "prompt": "A radiant market stall overflowing with golden fruit, silk fabrics, and glittering jewels, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), warm sunrise light, auspicious golden and amber tones, spring blossoms, dreamlike atmosphere, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/shopping-dream/inauspicious.png",
+      "alt_ko": "텅 빈 어두운 상점 — 흉몽 쇼핑 꿈 경고",
+      "alt_en": "An empty dark market stall at night representing cautionary shopping dream warning",
+      "prompt": "An empty market stall at night with bare shelves and fallen merchandise scattered on the ground, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), deep blue shadows, moonlit fog, foreboding stormy atmosphere, cool dark tones, no text, no people"
+    }
+  ]
+}

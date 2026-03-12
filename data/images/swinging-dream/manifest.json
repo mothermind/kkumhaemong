@@ -1,0 +1,27 @@
+{
+  "slug": "swinging-dream",
+  "hero": {
+    "path": "/images/dreams/swinging-dream/hero.png",
+    "alt_ko": "단오 그네를 타는 여인 — 한복 입은 여인이 벚꽃 나무 그네에서 새벽 하늘로 솟아오르는 수묵화",
+    "alt_en": "A woman in white hanbok soaring on a traditional Korean swing beneath cherry blossoms at dawn, ink-wash illustration",
+    "prompt": "A traditional Korean wooden swing (geune) suspended from an ancient cherry blossom tree, a young woman in white hanbok soaring high into a misty dawn sky, soft ink-wash illustration style, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, pastel rose and misty blue tones with golden morning light, ethereal and serene, no text"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/swinging-dream/auspicious.png",
+      "alt_ko": "황금빛 들판 위 높이 솟아오르는 그네 — 상승하는 운세와 목표 달성을 상징하는 수채화",
+      "alt_en": "A swing soaring high above golden rice fields under a bright sky, symbolizing rising fortune and achievement, watercolor illustration",
+      "prompt": "A swing soaring high above golden rice fields under a luminous sky, vibrant energy and upward momentum, soft watercolor illustration style, Korean traditional aesthetic, warm amber and sky-blue palette, hope and achievement symbolized by height and open sky, dreamlike quality, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/swinging-dream/inauspicious.png",
+      "alt_ko": "안개 낀 뜰에 홀로 늘어진 낡은 그네 — 끊어진 줄과 낙엽이 쌓인 흉몽을 상징하는 수묵화",
+      "alt_en": "A weathered, rusted swing with a snapped rope hanging in a foggy courtyard surrounded by fallen leaves, ink-wash illustration",
+      "prompt": "A weathered, rusted swing with frayed ropes hanging motionless in a gray foggy courtyard, fallen autumn leaves scattered on the ground, one rope snapped and dangling, somber ink-wash illustration style, Korean traditional aesthetic, muted grays and faded browns, melancholy and foreboding atmosphere, no text"
+    }
+  ],
+  "generatedAt": "2026-03-12T00:00:00.000Z",
+  "provider": "imagen4"
+}

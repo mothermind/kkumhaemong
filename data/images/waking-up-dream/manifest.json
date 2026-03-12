@@ -1,0 +1,27 @@
+{
+  "slug": "waking-up-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/waking-up-dream/hero.png",
+    "alt_ko": "꿈에서 깨어나는 순간, 한국 전통 수묵화 스타일의 몽환적 일러스트",
+    "alt_en": "A dreamlike moment of awakening, soft ink-wash illustration in Korean traditional painting style",
+    "prompt": "A person gently awakening from sleep, soft light filtering through translucent rice-paper screens, misty morning atmosphere, ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike layered reality, no text, no people visible, warm golden and soft white tones"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/waking-up-dream/auspicious.png",
+      "alt_ko": "어둠을 뚫고 떠오르는 새벽 햇살, 길몽을 상징하는 한국 전통화 스타일 일러스트",
+      "alt_en": "A radiant sunrise breaking through parting storm clouds, symbolizing auspicious new beginnings, Korean ink-wash illustration",
+      "prompt": "A radiant sunrise breaking through parting storm clouds, dawn light streaming over misty mountains, a small bird taking flight toward the horizon, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike golden atmosphere, no text, warm golden and amber tones with soft pink morning light"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/waking-up-dream/inauspicious.png",
+      "alt_ko": "끝없이 반복되는 꿈의 미로, 흉몽을 상징하는 어두운 한국 전통화 스타일 일러스트",
+      "alt_en": "Endless mirrored corridors fading into dark mist, symbolizing false awakening and confusion, Korean ink-wash illustration",
+      "prompt": "A figure trapped in nested dream layers like mirrors within mirrors, dark labyrinthine corridors fading into shadowy mist, moonlit eerie atmosphere, ink-wash illustration with deep indigo and slate grey tones, Korean traditional painting aesthetic (한국화), unsettling dreamlike depth, no text, cool blues and deep shadow"
+    }
+  ]
+}

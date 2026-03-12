@@ -1,0 +1,27 @@
+{
+  "slug": "buying-dream",
+  "generatedAt": "2026-03-12T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/buying-dream/hero.png",
+    "alt_ko": "전통 한국 시장에서 물건을 고르는 꿈 일러스트",
+    "alt_en": "Ink-wash illustration of a traditional Korean marketplace with colorful goods on display",
+    "prompt": "A traditional Korean marketplace filled with colorful silk fabrics, ceramic vessels and fresh produce, a single shopper's hand reaching toward goods on display, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, warm golden morning light, no text, no faces, muted earth tones with jade and amber accents"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/buying-dream/auspicious.png",
+      "alt_ko": "풍요로운 물건들이 가득한 시장 길몽 이미지",
+      "alt_en": "Abundant goods overflowing at a sunlit Korean market stall — auspicious buying dream",
+      "prompt": "A joyful scene of abundant goods overflowing from woven baskets at a sunlit Korean market stall, silk bolts in brilliant reds and golds, ripe persimmons and pomegranates piled high, coins glinting in warm autumn light, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, golden sunrise tones, prosperity and abundance motifs, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/buying-dream/inauspicious.png",
+      "alt_ko": "텅 빈 상점과 손에 닿지 않는 동전 흉몽 이미지",
+      "alt_en": "Empty storefront with bare shelves and coins just out of reach — inauspicious buying dream",
+      "prompt": "An empty storefront at dusk, bare wooden shelves and a locked door, scattered coins on the ground just out of reach, a dim lantern casting cold blue shadows, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike melancholy atmosphere, deep indigo and grey tones, winter night motifs, no text, no people"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "walking-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/walking-dream/hero.png",
+    "alt_ko": "꿈속 안개 낀 산길을 걷는 발자국 — 걷는 꿈 해몽",
+    "alt_en": "Footprints tracing a winding misty mountain path — walking dream interpretation",
+    "prompt": "A lone figure's footprints tracing a winding path through misty mountain terrain, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, tranquil journey symbolism, muted earth tones with warm golden light filtering through morning mist, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/walking-dream/auspicious.png",
+      "alt_ko": "햇살 아래 넓은 길을 걷는 꿈 — 길몽",
+      "alt_en": "A sunlit wide road leading toward golden mountains — auspicious walking dream",
+      "prompt": "A sunlit wide open road stretching toward distant golden mountains, soft spring blossoms lining the path, warm sunrise light, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike serene atmosphere, golden earth tones, hopeful auspicious symbolism, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/walking-dream/inauspicious.png",
+      "alt_ko": "어둡고 험한 진흙탕 산길 — 힘들게 걷는 꿈 흉몽",
+      "alt_en": "A narrow muddy path through dark storm clouds and bare trees — inauspicious walking dream",
+      "prompt": "A narrow muddy path winding through dark storm clouds, deep shadows and cool blue-grey tones, gnarled bare trees flanking a treacherous steep slope, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike foreboding atmosphere, no text, no people"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "writing-dream",
+  "generatedAt": "2026-03-12T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/writing-dream/hero.png",
+    "alt_ko": "서예 붓과 벼루, 한지 위에 번지는 먹물 — 글을 쓰는 꿈 해몽",
+    "alt_en": "A calligraphy brush and inkstone with ink spreading on rice paper — dream of writing interpretation",
+    "prompt": "A graceful brush and inkstone resting on a scholar's wooden desk, delicate calligraphy strokes on rice paper, ink spreading softly in misty morning light, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, muted earth tones with soft golden highlights, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/writing-dream/auspicious.png",
+      "alt_ko": "금빛 만년필에서 흘러넘치는 잉크, 따뜻한 햇살이 비치는 서재 — 글쓰기 길몽",
+      "alt_en": "A golden fountain pen with overflowing ink in a sunlit scholar's study — auspicious writing dream",
+      "prompt": "A golden fountain pen flowing abundantly with rich ink on pristine white paper, calligraphy strokes glowing with warm golden light, sunrise rays illuminating an ancient scholar's study, plum blossoms in the background, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike warm atmosphere, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/writing-dream/inauspicious.png",
+      "alt_ko": "부러진 붓과 얼룩진 한지, 폭풍우 치는 창밖 — 글쓰기 흉몽",
+      "alt_en": "A broken brush and stained paper with a stormy window view — inauspicious writing dream",
+      "prompt": "A broken brush pen lying on crumpled paper, ink spreading in dark blotches, faded and disappearing calligraphy strokes on torn parchment, deep blue shadows and storm clouds outside a window, cold moonlight casting harsh shadows, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike foreboding atmosphere, no text, no people"
+    }
+  ]
+}

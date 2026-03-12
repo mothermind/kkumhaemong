@@ -1,0 +1,27 @@
+{
+  "slug": "cooking-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/cooking-dream/hero.png",
+    "alt_ko": "전통 한국 부엌에서 옹기 솥 위로 피어오르는 김과 신선한 재료들이 놓인 나무 도마, 수채화 일러스트",
+    "alt_en": "Wooden cutting board with fresh vegetables and clay pot simmering on a traditional Korean earthen stove, steam rising gently, ink-wash illustration",
+    "prompt": "A wooden cutting board with fresh vegetables and a clay pot simmering on a traditional Korean earthen stove, steam rising gently, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, no text, no people, warm earthy tones with hints of terracotta and sage green"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/cooking-dream/auspicious.png",
+      "alt_ko": "황금빛 햇살이 비치는 한국 전통 상에 차려진 풍성한 음식들, 수채화 일러스트",
+      "alt_en": "Beautifully arranged Korean feast table with golden rice cakes and steaming pot, warm golden sunrise light through paper screen window, ink-wash illustration",
+      "prompt": "A beautifully arranged Korean feast table with golden rice cakes, colorful side dishes, and a steaming pot, soft golden light streaming from sunrise through a paper screen window, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, no text, no people, warm golden and amber tones with spring blossoms"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/cooking-dream/inauspicious.png",
+      "alt_ko": "연기가 피어오르는 타버린 냄비와 어두운 부엌, 창밖의 폭풍우, 수채화 일러스트",
+      "alt_en": "Kitchen with smoke rising from a burnt pot on a stone stove, overturned ingredients, storm through lattice window, somber ink-wash illustration",
+      "prompt": "A kitchen with smoke rising from a burnt pot on a stone stove, dark shadows, overturned ingredients on the floor, storm visible through a small lattice window, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), somber dreamlike atmosphere, no text, no people, cool dark blues and deep grays with charcoal tones"
+    }
+  ]
+}

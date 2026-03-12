@@ -1,0 +1,27 @@
+{
+  "slug": "taking-photos-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/taking-photos-dream/hero.png",
+    "alt_ko": "벚꽃이 만발한 안개 낀 산 위에 놓인 빈티지 카메라 — 사진 찍는 꿈 해몽",
+    "alt_en": "A vintage film camera resting on misty mountain rocks beside cherry blossoms — taking photos dream interpretation",
+    "prompt": "A vintage film camera resting on misty mountain rocks beside blooming cherry blossoms, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, no text, no people, muted earth tones with soft pink and golden highlights"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/taking-photos-dream/auspicious.png",
+      "alt_ko": "황금빛으로 빛나는 카메라와 길조를 상징하는 꽃과 동전 — 사진 찍는 꿈 길몽",
+      "alt_en": "A glowing golden camera surrounded by auspicious blossoms and coins — taking photos dream good omen",
+      "prompt": "A glowing camera emitting golden light on a decorated table surrounded by auspicious symbols — coins, plum blossoms, and red ribbons, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, warm golden sunrise tones, dreamlike spring atmosphere, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/taking-photos-dream/inauspicious.png",
+      "alt_ko": "폭풍우 치는 밤 돌길 위에 떨어진 부서진 카메라 — 사진 찍는 꿈 흉몽",
+      "alt_en": "A broken camera lying on a rain-soaked stone path under a stormy night sky — taking photos dream bad omen",
+      "prompt": "A broken camera lying on a dark, rain-soaked stone path under a moonless stormy sky, cracked lens, spilled film roll, soft ink-wash illustration, Korean traditional painting aesthetic, deep shadows, cool blue and grey tones, ominous atmosphere, no text, no people"
+    }
+  ]
+}

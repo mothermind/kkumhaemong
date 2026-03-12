@@ -1,0 +1,27 @@
+{
+  "slug": "witnessing-murder-dream",
+  "hero": {
+    "path": "/images/dreams/witnessing-murder-dream/hero.png",
+    "alt_ko": "안개 낀 골목에서 멀리 일어나는 사건을 목격하는 인물, 한국화풍 몽환적 일러스트",
+    "alt_en": "A solitary figure witnessing a distant event in a misty alleyway, dreamlike Korean ink-wash illustration",
+    "prompt": "A solitary figure standing in shadow at the edge of a misty alleyway, observing a dramatic scene unfolding in the distance, soft ink-wash illustration style, Korean traditional painting aesthetic, dreamlike atmosphere, muted indigo and grey tones with faint amber lantern light, no text, no violence depicted, cinematic composition, surreal"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/witnessing-murder-dream/auspicious.png",
+      "alt_ko": "폭풍구름을 뚫고 황금빛 햇살 속으로 나아가는 인물, 성공과 돌파구를 상징하는 수채화 일러스트",
+      "alt_en": "A figure emerging from storm clouds into golden sunlight, symbolic watercolor illustration of breakthrough and success",
+      "prompt": "A person emerging from storm clouds into golden sunlight, symbolic illustration of breakthrough and success, soft watercolor style, Korean traditional painting aesthetic, warm golden and jade tones, hopeful and triumphant atmosphere, dreamlike quality, no text, no violence"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/witnessing-murder-dream/inauspicious.png",
+      "alt_ko": "빗속에 홀로 선 인물, 심리적 부담과 불안을 상징하는 한국화풍 수묵 일러스트",
+      "alt_en": "A lone figure standing in heavy rain under a dim lamp, ink-wash illustration symbolizing psychological burden and anxiety",
+      "prompt": "A lone figure standing in heavy rain under a dim street lamp, hunched in weariness, muted blue and charcoal tones, soft ink-wash illustration style, Korean traditional painting aesthetic, melancholic dreamlike atmosphere, sense of burden and anxiety, no text, no violence, symbolic"
+    }
+  ],
+  "generatedAt": "2026-03-12T00:00:00.000Z",
+  "provider": "imagen4"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "vomiting-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/vomiting-dream/hero.png",
+    "alt_ko": "꿈 속에서 입으로 보석과 황금이 쏟아져 나오는 신비로운 정화의 장면, 한국화 수묵 수채화 스타일",
+    "alt_en": "Dreamlike scene of luminous jewels and golden coins emerging in a ritual act of purification, Korean ink-wash watercolor illustration",
+    "prompt": "A person expelling luminous jewels and golden coins from their mouth in a dreamlike scene, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), misty ethereal atmosphere, rich warm earth tones with golden and ruby highlights, symbolic purification theme, no text, no people faces visible"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/vomiting-dream/auspicious.png",
+      "alt_ko": "황금 동전과 보석이 봄날 풍요로운 대지 위로 쏟아지는 길몽 장면, 한국 전통 수묵화",
+      "alt_en": "Golden coins and glittering jewels spilling onto fertile spring earth, auspicious fortune and prosperity, Korean traditional watercolor",
+      "prompt": "Golden coins and glittering jewels spilling from an ornate vessel onto fertile spring earth, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), warm golden sunrise light, prosperity and abundance motifs, cherry blossoms and flowing water in background, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/vomiting-dream/inauspicious.png",
+      "alt_ko": "폭풍 치는 어두운 밤, 깨진 그릇에서 쏟아진 음식이 차가운 돌바닥에 흩어진 흉몽 장면, 한국 전통 수묵화",
+      "alt_en": "Broken bowl with spilled food on cold stone ground in a stormy night, sense of loss and depletion, Korean ink-wash watercolor",
+      "prompt": "An empty broken bowl on a stormy dark night, spilled food scattered on cold stone ground, deep indigo and charcoal watercolor wash, Korean traditional ink painting aesthetic, rain and storm motifs, sense of loss and depletion, cool blue-grey shadows, no text, no people"
+    }
+  ]
+}

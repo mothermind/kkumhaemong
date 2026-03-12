@@ -1,0 +1,27 @@
+{
+  "slug": "cleaning-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/cleaning-dream/hero.png",
+    "alt_ko": "햇살이 비치는 나무 바닥 옆에 놓인 전통 빗자루와 양동이, 청소하는 꿈 해몽 일러스트",
+    "alt_en": "A traditional Korean broom and bucket beside a sunlit gleaming wooden floor, cleaning dream illustration",
+    "prompt": "A traditional Korean broom and bucket resting beside a sunlit wooden floor, freshly swept and gleaming, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty morning atmosphere, delicate dust motes drifting in golden light, no text, warm amber and cream palette"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/cleaning-dream/auspicious.png",
+      "alt_ko": "깨끗이 청소된 한국 전통 방에 햇살이 쏟아지는 모습, 청소 꿈 길몽 일러스트",
+      "alt_en": "Golden sunlight pouring into a freshly cleaned Korean traditional room with a blooming plum branch outside, auspicious cleaning dream illustration",
+      "prompt": "Golden sunlight streaming through a spotless window into a freshly cleaned Korean traditional room (온돌방), a blooming plum branch visible outside, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike warm atmosphere, rich golden and peach tones, prosperity and new beginnings, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/cleaning-dream/inauspicious.png",
+      "alt_ko": "어두운 방 구석에 먼지와 그림자가 가득한 모습, 청소 꿈 흉몽 일러스트",
+      "alt_en": "A dimly lit cluttered room with shadows and grime that will not come clean, inauspicious cleaning dream illustration",
+      "prompt": "A dimly lit cluttered room with dust and shadows, a broom resting uselessly against a dark wall, grime that will not come clean, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike foreboding atmosphere, cool indigo and grey tones, deep shadows and muted colors, no text"
+    }
+  ]
+}

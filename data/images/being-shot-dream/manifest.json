@@ -1,0 +1,27 @@
+{
+  "slug": "being-shot-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/being-shot-dream/hero.png",
+    "alt_ko": "안개 낀 한국 산 풍경 속에 공중에 멈춘 총알 — 총에 맞는 꿈 해몽",
+    "alt_en": "A single bullet suspended in midair against a misty Korean mountain landscape — being shot dream illustration",
+    "prompt": "A single bullet suspended in midair against a misty Korean mountain landscape, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmospheric haze, muted indigo and grey tones with subtle golden light, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/being-shot-dream/auspicious.png",
+      "alt_ko": "황금빛 아침 햇살과 벚꽃이 피는 한국 전통 정원 — 총에 맞는 꿈 길몽",
+      "alt_en": "Golden morning light and cherry blossoms in a Korean traditional courtyard — auspicious interpretation of being shot dream",
+      "prompt": "Golden sunlight breaking through morning mist over a Korean traditional courtyard, cherry blossoms blooming, a single radiant lotus floating upward, soft watercolor illustration, Korean traditional painting aesthetic (한국화), warm golden and peach tones, auspicious fortune symbolism, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/being-shot-dream/inauspicious.png",
+      "alt_ko": "어두운 폭풍구름 속으로 사라지는 그림자 — 총에 맞는 꿈 흉몽 배신 경고",
+      "alt_en": "A shadowy figure retreating into dark storm clouds — inauspicious betrayal warning in being shot dream",
+      "prompt": "A shadowy figure's back retreating into dark storm clouds, deep indigo and charcoal ink-wash illustration, Korean traditional painting aesthetic (한국화), cold moonlit atmosphere with rain, sense of betrayal and hidden danger, no text, no faces"
+    }
+  ]
+}

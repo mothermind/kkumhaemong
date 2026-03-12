@@ -1,0 +1,27 @@
+{
+  "slug": "crawling-dream",
+  "generatedAt": "2026-03-12T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/crawling-dream/hero.png",
+    "alt_ko": "안개 낀 산길을 기어가는 모습과 저 멀리 빛나는 빛 — 기어가는 꿈 해몽 일러스트",
+    "alt_en": "A lone figure crawling through a misty mountain path toward a distant glowing light — crawling dream illustration",
+    "prompt": "A lone figure crawling steadily through a misty mountain path toward a distant glowing light, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, muted earth tones and deep indigo shadows, no text, no people faces"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/crawling-dream/auspicious.png",
+      "alt_ko": "따뜻한 황금빛 일출을 향해 기어가는 아기 — 기어가는 꿈 길몽 일러스트",
+      "alt_en": "A baby crawling joyfully toward a warm golden sunrise over Korean countryside — auspicious crawling dream illustration",
+      "prompt": "A baby crawling joyfully toward a warm golden sunrise over Korean countryside, soft watercolor illustration, Korean traditional painting aesthetic (한국화), spring blossoms in background, warm amber and golden tones, hopeful dreamlike atmosphere, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/crawling-dream/inauspicious.png",
+      "alt_ko": "폭풍우 치는 어두운 진흙 위를 기어가는 모습 — 기어가는 꿈 흉몽 일러스트",
+      "alt_en": "A shadowy figure crawling painfully through dark muddy terrain under a stormy sky — inauspicious crawling dream illustration",
+      "prompt": "A shadowy figure crawling painfully through dark muddy terrain under a stormy sky, soft ink-wash illustration, Korean traditional painting aesthetic (한국화), deep cool blues and charcoal tones, heavy rain and dark clouds, oppressive dreamlike atmosphere, no text"
+    }
+  ]
+}

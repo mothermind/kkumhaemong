@@ -1,0 +1,27 @@
+{
+  "slug": "being-hit-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/being-hit-dream/hero.png",
+    "alt_ko": "꿈 속 안개 낀 산길에서 보이지 않는 힘에 맞는 형상, 한국화 수묵 수채화 스타일",
+    "alt_en": "A figure struck by an unseen force on a misty mountain path, ink-wash watercolor illustration in Korean traditional painting style",
+    "prompt": "A figure struck by an unseen force on misty mountain path, ethereal energy rippling outward, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, no text, no faces, muted earth tones with golden light breaking through mist"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/being-hit-dream/auspicious.png",
+      "alt_ko": "황금빛 동전과 복이 쏟아지는 일출, 산 정상에서 두 팔 벌린 인물, 한국화 수채화 스타일",
+      "alt_en": "Golden coins and fortune symbols raining from a sunrise sky, a triumphant figure on a mountain peak, Korean traditional ink-wash watercolor style",
+      "prompt": "Golden coins and fortune symbols raining down from a bright sunrise sky, a figure with arms raised in triumph on a mountain peak, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), warm golden earth tones, spring blossoms, dreamlike radiant atmosphere, no text, no faces"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/being-hit-dream/inauspicious.png",
+      "alt_ko": "폭풍 치는 밤 어두운 길에 나타난 귀신 형상, 한국화 수묵 수채화 스타일",
+      "alt_en": "A shadowy ghost looming on a dark stormy night path with bare winter trees, Korean traditional ink-wash watercolor style",
+      "prompt": "A shadowy ghost figure looming in a dark stormy night, a lone person on a desolate rain-swept path, bare winter trees, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), deep indigo and storm-grey tones, eerie moonless night, dreamlike foreboding atmosphere, no text, no clear faces"
+    }
+  ]
+}

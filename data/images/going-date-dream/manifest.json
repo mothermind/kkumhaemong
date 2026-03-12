@@ -1,0 +1,27 @@
+{
+  "slug": "going-date-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/going-date-dream/hero.png",
+    "alt_ko": "벚꽃 나무 사이 달빛 아래 함께 걷는 두 실루엣의 수묵화풍 삽화",
+    "alt_en": "Ink-wash illustration of two silhouettes walking together along a moonlit cherry blossom path",
+    "prompt": "Two silhouettes walking together along a moonlit path through cherry blossom trees, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, no text, no people's faces visible, warm rose-gold and silver tones, petals drifting in night air"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/going-date-dream/auspicious.png",
+      "alt_ko": "황금빛 햇살 속 연꽃 사이에서 손을 뻗는 두 손의 수묵 채색화",
+      "alt_en": "Ink-wash illustration of two hands reaching toward each other surrounded by lotus flowers in golden sunlight",
+      "prompt": "A couple's hands reaching toward each other surrounded by blooming lotus flowers and golden sunlight, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, no text, no faces, warm golden and peach tones, spring morning light, auspicious romantic energy"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/going-date-dream/inauspicious.png",
+      "alt_ko": "비 내리는 밤 버드나무 아래 놓인 빈 벤치와 버려진 우산의 수묵화풍 삽화",
+      "alt_en": "Ink-wash illustration of an empty bench beneath a willow tree in rain with an abandoned umbrella",
+      "prompt": "An empty bench beneath a bare willow tree in rain, a single umbrella lying abandoned on the ground, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike melancholic atmosphere, no text, no people, cool blue-grey tones, falling rain, evening mist, lonely romantic longing"
+    }
+  ]
+}

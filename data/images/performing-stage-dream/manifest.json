@@ -1,0 +1,27 @@
+{
+  "slug": "performing-stage-dream",
+  "generatedAt": "2026-03-12T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/performing-stage-dream/hero.png",
+    "alt_ko": "달빛 아래 전통 목조 무대 위에 선 공연자, 수채화 풍의 몽환적 한국화 일러스트",
+    "alt_en": "A solitary performer on a moonlit traditional Korean wooden stage, dreamlike ink-wash illustration",
+    "prompt": "A solitary performer standing on a grand traditional Korean wooden stage bathed in moonlight, ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, lanterns casting warm golden glow, empty audience seats fading into mist, no text, no people, muted indigo and gold palette"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/performing-stage-dream/auspicious.png",
+      "alt_ko": "황금빛 조명 아래 환호받는 공연자, 벚꽃이 흩날리는 길몽 장면",
+      "alt_en": "A triumphant performer bathed in golden light with cherry blossoms drifting down, auspicious dream scene",
+      "prompt": "A radiant performer taking a triumphant bow on a brightly lit stage, golden spotlights, cherry blossoms drifting down from above, ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike warm atmosphere, sunrise golden tones with soft pink, audience implied by faint silhouettes in warm glow, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/performing-stage-dream/inauspicious.png",
+      "alt_ko": "어두운 무대 위에 홀로 얼어붙은 공연자, 차가운 청색 조명의 흉몽 장면",
+      "alt_en": "A lone figure frozen on a dark empty stage with fading spotlight and cold blue shadows, inauspicious dream scene",
+      "prompt": "A lone figure frozen on a dark empty stage, spotlight fading, shadowy audience barely visible in cold blue darkness, ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike foreboding atmosphere, deep indigo and slate blue tones, heavy shadows, no text"
+    }
+  ]
+}

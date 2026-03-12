@@ -1,0 +1,27 @@
+{
+  "slug": "falling-off-cliff-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/falling-off-cliff-dream/hero.png",
+    "alt_ko": "안개 낀 절벽 끝에 서서 아래를 내려다보는 장면, 한국화 수묵화 스타일",
+    "alt_en": "A misty cliff edge overlooking a vast valley, Korean ink-wash illustration style",
+    "prompt": "A lone figure standing at the edge of a misty cliff overlooking a vast valley below, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, towering rock face with wisps of cloud, no text, no people, muted grey-blue and earthy tones with subtle golden light from above"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/falling-off-cliff-dream/auspicious.png",
+      "alt_ko": "황금빛 일출과 매화나무가 있는 절벽, 길몽을 상징하는 따뜻한 봄 풍경",
+      "alt_en": "A golden sunrise over a cliff edge with blossoming plum tree, symbolizing auspicious fortune",
+      "prompt": "A golden sunrise over a mountain cliff with a blossoming plum tree on the edge, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike warm atmosphere, warm golden and amber tones, cherry blossom petals drifting upward, auspicious fortune motifs, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/falling-off-cliff-dream/inauspicious.png",
+      "alt_ko": "폭풍이 몰아치는 밤, 흉흉한 절벽 아래로 거친 파도가 치는 장면",
+      "alt_en": "A dark storm-swept cliff at night with turbulent waters far below, representing an ominous omen",
+      "prompt": "A dark jagged cliff face at night with storm clouds gathering and a figure silhouetted at the crumbling edge, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), ominous foreboding atmosphere, deep indigo and charcoal tones, turbulent water visible far below, dramatic shadow play, no text, no faces"
+    }
+  ]
+}

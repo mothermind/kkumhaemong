@@ -1,0 +1,27 @@
+{
+  "slug": "getting-lost-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/getting-lost-dream/hero.png",
+    "alt_ko": "안개 낀 산속 갈림길에 홀로 선 여행자 — 길을 잃는 꿈 해몽",
+    "alt_en": "A lone traveler at a misty mountain crossroads — getting lost dream interpretation",
+    "prompt": "A lone traveler standing at a misty crossroads in a dense mountain forest, paths winding away into fog, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, muted earth tones with cool grays and deep greens, no text, no people visible, only the suggestion of a solitary figure from behind"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/getting-lost-dream/auspicious.png",
+      "alt_ko": "안개를 뚫고 나타나는 황금빛 길 — 길몽 이미지",
+      "alt_en": "A golden path emerging from fog into warm sunlight — auspicious omen",
+      "prompt": "A golden path emerging from fog into warm sunlight, a stone lantern glowing with amber light at the roadside, cherry blossoms drifting, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike warm atmosphere, golden and peach tones, hopeful and uplifting mood, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/getting-lost-dream/inauspicious.png",
+      "alt_ko": "어두운 숲속 갈림길 — 흉몽 이미지",
+      "alt_en": "Dark tangled forest path dissolving into fog — inauspicious omen",
+      "prompt": "A dark tangled forest path dissolving into thick fog, bare twisted branches overhead, deep shadows with moonlight casting eerie silver on the ground, a fork in the path leading nowhere, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike ominous atmosphere, cool deep blues and charcoals, no text, no people"
+    }
+  ]
+}

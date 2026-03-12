@@ -1,0 +1,27 @@
+{
+  "slug": "running-not-moving-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/running-not-moving-dream/hero.png",
+    "alt_ko": "달리는데 앞으로 나아가지 못하는 꿈 — 안개 속 멈춘 듯한 달리기",
+    "alt_en": "Dream of running but not moving forward — figure frozen mid-stride in misty path",
+    "prompt": "A lone figure frozen mid-stride on an endless misty path, legs blurred with motion yet the landscape unchanged, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike foggy atmosphere, muted indigo and grey tones, no text, no faces"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/running-not-moving-dream/auspicious.png",
+      "alt_ko": "달리기 꿈 길몽 — 황금빛 들판을 자유롭게 달리는 모습",
+      "alt_en": "Auspicious running dream — figure breaking free into golden sunlit fields",
+      "prompt": "A runner breaking free into open golden fields at sunrise, legs light and swift, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, warm golden and amber tones, spring blossoms, dreamlike luminous atmosphere, no text, no faces"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/running-not-moving-dream/inauspicious.png",
+      "alt_ko": "달리는데 앞으로 못 가는 꿈 흉몽 — 어둠 속에서 제자리인 달리기",
+      "alt_en": "Inauspicious running dream — shadowy figure unable to move forward through dark fog",
+      "prompt": "A shadowy figure straining to run through thick fog, legs sinking into dark ground, path vanishing ahead, soft ink-wash illustration, Korean traditional painting aesthetic, deep indigo and charcoal tones, moonless night, oppressive stillness, no text, no faces"
+    }
+  ]
+}

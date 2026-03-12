@@ -1,0 +1,27 @@
+{
+  "slug": "time-travel-dream",
+  "hero": {
+    "path": "/images/dreams/time-travel-dream/hero.png",
+    "alt_ko": "시간 여행하는 꿈 - 안개와 빛이 소용돌이치는 시간 포털과 한국 전통 정자",
+    "alt_en": "Time travel dream - a dreamlike portal through time with swirling mist and light, Korean pavilion in the distance",
+    "prompt": "A dreamlike portal through time swirling with mist and light, an ancient Korean pavilion visible in the distance, soft ink-wash illustration style, Korean traditional painting aesthetic, ethereal atmosphere with golden and indigo hues, swirling temporal energy, no text"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/time-travel-dream/auspicious.png",
+      "alt_ko": "시간 여행 길몽 - 밝은 미래로 통하는 시간 포털을 지나는 빛나는 여행자",
+      "alt_en": "Auspicious time travel dream - a luminous traveler stepping through a time portal into a bright future",
+      "prompt": "A luminous traveler stepping through a time portal into a bright future cityscape, soft watercolor illustration style, Korean traditional aesthetic blended with futuristic elements, warm golden light, hopeful and uplifting atmosphere, dreamlike quality, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/time-travel-dream/inauspicious.png",
+      "alt_ko": "시간 여행 흉몽 - 시계와 시간 파편으로 이루어진 어두운 미로 속의 고독한 인물",
+      "alt_en": "Inauspicious time travel dream - a lone figure trapped in a dark labyrinth of clocks and shattered time fragments",
+      "prompt": "A lone figure trapped in a dark labyrinth of clocks and time fragments, broken hourglasses and shattered memories surrounding them, soft ink-wash illustration style, Korean traditional painting aesthetic, deep indigo and grey tones, ominous and melancholic dreamlike atmosphere, no text"
+    }
+  ],
+  "generatedAt": "2026-03-12T00:00:00.000Z",
+  "provider": "imagen4"
+}

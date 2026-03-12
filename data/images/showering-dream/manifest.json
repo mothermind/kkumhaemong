@@ -1,0 +1,27 @@
+{
+  "slug": "showering-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/showering-dream/hero.png",
+    "alt_ko": "따뜻한 물이 돌 위로 흘러내리는 샤워 꿈 해몽 대표 이미지",
+    "alt_en": "Warm water cascading over smooth stones — hero image for showering dream interpretation",
+    "prompt": "A cascading shower of warm water flowing over smooth stones, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, steam rising gently, no text, no people, muted jade and warm amber tones with soft light"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/showering-dream/auspicious.png",
+      "alt_ko": "황금빛 햇살과 매화가지 — 샤워하는 꿈 길몽 이미지",
+      "alt_en": "Warm golden sunlight and plum blossoms — auspicious showering dream image",
+      "prompt": "Warm golden sunlight streaming through a bathroom window onto a blossoming plum branch, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike serene atmosphere, water droplets catching light, no text, no people, warm amber and soft golden tones, auspicious fortune motifs"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/showering-dream/inauspicious.png",
+      "alt_ko": "차가운 물방울과 어두운 돌 — 샤워하는 꿈 흉몽 이미지",
+      "alt_en": "Cold drips and dark rocks — inauspicious showering dream image",
+      "prompt": "A shower head with only cold drips falling onto dark rocks, murky water pooling below, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike foreboding atmosphere, bare winter branches visible, no text, no people, cool deep blues and muted grey tones, melancholy mood"
+    }
+  ]
+}

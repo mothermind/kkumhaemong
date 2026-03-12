@@ -1,0 +1,27 @@
+{
+  "slug": "rescuing-animal-dream",
+  "hero": {
+    "path": "/images/dreams/rescuing-animal-dream/hero.png",
+    "alt_ko": "동물을 구하는 꿈 — 부상당한 새를 들어올리는 손, 한국화 수묵 스타일",
+    "alt_en": "Dream of rescuing an animal — a gentle hand lifting an injured sparrow, Korean ink-wash style",
+    "prompt": "A gentle human hand carefully lifting an injured sparrow from the misty ground, soft ink-wash illustration style, Korean traditional painting aesthetic, dreamlike morning atmosphere, muted earth tones with warm golden light, delicate brushwork, nature background with pine trees and morning mist, no text, no people faces visible"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/rescuing-animal-dream/auspicious.png",
+      "alt_ko": "구한 비둘기가 황금빛 하늘로 자유롭게 날아오르는 모습, 길몽",
+      "alt_en": "A healed white dove soaring freely into golden sunrise sky — auspicious dream symbol",
+      "prompt": "A healed white dove flying freely into golden sunrise sky, hands gently releasing it, soft watercolor illustration, Korean traditional ink-wash style, warm golden and amber tones, auspicious atmosphere, cherry blossom petals, dreamlike quality, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/rescuing-animal-dream/inauspicious.png",
+      "alt_ko": "빗속에 쓰러진 동물에게 손을 뻗지만 닿지 않는 장면, 흉몽",
+      "alt_en": "Reaching out to an injured fox in dark rain but unable to grasp it — inauspicious dream symbol",
+      "prompt": "A small injured fox lying in dark rain, person reaching but unable to quite grasp it, moody ink-wash illustration, Korean traditional painting style, cool blue-gray tones, misty rainy atmosphere, sense of struggle and difficulty, dreamlike quality, no text"
+    }
+  ],
+  "generatedAt": "2026-03-12T00:00:00.000Z",
+  "provider": "imagen4"
+}

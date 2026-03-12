@@ -1,0 +1,27 @@
+{
+  "slug": "painting-art-dream",
+  "hero": {
+    "path": "/images/dreams/painting-art-dream/hero.png",
+    "alt_ko": "새벽 한국 전통 정원에서 캔버스 앞에 앉아 그림을 그리는 화가, 수묵화 스타일",
+    "alt_en": "A lone painter before a canvas in a misty Korean traditional garden at dawn, ink-wash style",
+    "prompt": "A lone painter sitting before a large canvas in a misty Korean traditional garden at dawn, soft ink-wash and watercolor illustration style, dreamlike quality, Korean traditional aesthetic, bamboo and lotus in the background, muted earth tones with subtle golden light, no text, peaceful and ethereal atmosphere"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/painting-art-dream/auspicious.png",
+      "alt_ko": "햇빛이 가득한 한국 전통 화실에서 빛나는 완성된 그림, 밝고 화려한 색채",
+      "alt_en": "A radiant completed painting glowing with vibrant colors in a sunlit Korean traditional studio",
+      "prompt": "A radiant completed painting on an easel glowing with vibrant colors — bright golds, blues, and pinks — in a sunlit Korean traditional studio, ink-wash watercolor style, dreamlike and uplifting atmosphere, symbolizing creative achievement and good fortune, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/painting-art-dream/inauspicious.png",
+      "alt_ko": "어두운 방 바닥에 찢어진 그림과 흩어진 붓들, 어둡고 침울한 수묵화 스타일",
+      "alt_en": "A torn painting lying on the floor of a dimly lit room, brushes scattered, dark ink-wash style",
+      "prompt": "A torn and darkened painting lying on the floor of a dimly lit room, brushes scattered, dark indigo and grey ink-wash style, dreamlike and melancholic, heavy shadows and mist, symbolizing failure and emotional turmoil, no text, Korean traditional art aesthetic"
+    }
+  ],
+  "generatedAt": "2026-03-12T00:00:00.000Z",
+  "provider": "imagen4"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "lying-dream",
+  "hero": {
+    "path": "/images/dreams/lying-dream/hero.png",
+    "alt_ko": "황혼 속 갈림길에 선 인물, 한쪽은 등불로 밝고 한쪽은 안개에 가린 수묵화 일러스트",
+    "alt_en": "A figure standing at a misty twilight crossroads, one path lit by lantern light and one shrouded in shadow, ink-wash illustration",
+    "prompt": "A figure standing at a crossroads in twilight mist, one path lit by lantern light and one shrouded in shadow, soft ink-wash illustration style, Korean traditional painting aesthetic, dreamlike atmosphere, muted indigo and deep teal tones with warm amber lantern glow, symbolizing hidden truth and concealment, no text"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/lying-dream/auspicious.png",
+      "alt_ko": "아침 안개 속에 떠오르는 빛나는 한지 등불, 진실이 드러나고 명예가 회복되는 상징",
+      "alt_en": "A glowing paper lantern rising through morning mist above a Korean garden, symbolizing truth revealed and honor restored",
+      "prompt": "A glowing paper lantern rising through morning mist above a tranquil Korean garden, symbolic of truth revealed and honor restored, soft ink-wash illustration style, Korean traditional painting aesthetic, warm golden and soft white tones, dreamlike serene atmosphere, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/lying-dream/inauspicious.png",
+      "alt_ko": "어두운 방 안에 실크 장막 뒤에 선 얼굴 없는 인물, 죄책감과 은폐를 상징하는 수묵화 일러스트",
+      "alt_en": "A solitary figure behind dark silk veils in a dim room, face obscured by layered shadows, symbolizing concealment and guilt",
+      "prompt": "A solitary figure standing behind a screen of dark silk veils in a dimly lit room, face obscured, shadows layered upon shadows, soft ink-wash illustration style, Korean traditional painting aesthetic, muted charcoal and deep indigo tones, oppressive dreamlike atmosphere symbolizing concealment and guilt, no text"
+    }
+  ],
+  "generatedAt": "2026-03-12T00:00:00.000Z",
+  "provider": "imagen4"
+}

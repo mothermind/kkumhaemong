@@ -1,0 +1,27 @@
+{
+  "slug": "diving-dream",
+  "generatedAt": "2026-03-12T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/diving-dream/hero.png",
+    "alt_ko": "맑은 바다로 과감히 뛰어드는 다이빙 꿈 해몽 일러스트",
+    "alt_en": "Ink-wash illustration of a figure diving into clear turquoise sea — diving dream meaning",
+    "prompt": "A lone figure plunging fearlessly into crystal-clear turquoise sea from a rocky cliff edge, misty ocean horizon in the background, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, no text, no faces, muted teal and jade tones with golden light beneath the surface"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/diving-dream/auspicious.png",
+      "alt_ko": "맑은 물속을 자유롭게 유영하는 길몽 다이빙 꿈",
+      "alt_en": "Diver gliding through luminous clear water — auspicious diving dream",
+      "prompt": "A diver gracefully gliding through luminous clear water filled with sunbeams and golden fish, sea anemones blooming in warm amber and jade hues, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, warm golden sunrise light filtering from above, no text, no faces"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/diving-dream/inauspicious.png",
+      "alt_ko": "탁한 물속으로 가라앉는 흉몽 다이빙 꿈",
+      "alt_en": "Figure sinking into dark murky water — inauspicious diving dream",
+      "prompt": "A solitary figure sinking into dark murky water, murky depths swirling with deep indigo and charcoal shadows, tangled seaweed reaching upward, no light from above, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), cold deep-sea atmosphere, no text, no faces, cool blues and deep navy tones"
+    }
+  ]
+}

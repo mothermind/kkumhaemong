@@ -1,0 +1,27 @@
+{
+  "slug": "burying-dream",
+  "generatedAt": "2026-03-12T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/burying-dream/hero.png",
+    "alt_ko": "안개 낀 산 속 빈터에서 땅 속에 빛나는 물건을 묻는 꿈 일러스트",
+    "alt_en": "Ink-wash illustration of a figure burying a glowing object in misty mountain earth",
+    "prompt": "A solitary figure kneeling at freshly turned earth in a misty mountain clearing, gently placing a glowing object into the ground, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, golden light filtering through pine trees, no text, no people visible from front, muted earth tones with golden highlights"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/burying-dream/auspicious.png",
+      "alt_ko": "황금빛 일출 아래 땅에 보물을 묻는 길몽 일러스트",
+      "alt_en": "Auspicious illustration of golden coins being placed into rich earth under a sunrise",
+      "prompt": "Glowing golden coins and treasure being placed into rich dark earth, golden sunrise light flooding the scene, blossoming peach branches overhead, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike warm atmosphere, warm earth tones with amber and gold highlights, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/burying-dream/inauspicious.png",
+      "alt_ko": "어두운 밤 깊은 구덩이에 묻히는 흉몽 일러스트",
+      "alt_en": "Inauspicious illustration of a shadowy pit under a stormy moonlit sky",
+      "prompt": "Dark pit in shadowy ground at night, figure surrounded by deep shadows being overwhelmed by earth, stormy moonlit sky, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike ominous atmosphere, cool deep blues and charcoal tones with pale moonlight, no text"
+    }
+  ]
+}

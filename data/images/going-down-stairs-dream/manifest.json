@@ -1,0 +1,27 @@
+{
+  "slug": "going-down-stairs-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/going-down-stairs-dream/hero.png",
+    "alt_ko": "안개 속으로 이어지는 돌계단을 내려가는 꿈 해몽 일러스트",
+    "alt_en": "Stone staircase descending into misty depths, Korean dream interpretation illustration",
+    "prompt": "A stone staircase descending into misty depths, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike atmospheric haze, cool blue-grey tones, ancient worn stone steps curving downward into fog, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/going-down-stairs-dream/auspicious.png",
+      "alt_ko": "따뜻한 햇살이 가득한 정원으로 이어지는 계단 길몽 일러스트",
+      "alt_en": "Gentle staircase leading to a sunlit garden courtyard, auspicious stairs dream illustration",
+      "prompt": "A gentle staircase leading down to a serene garden courtyard bathed in warm golden sunlight, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, spring blossoms visible at the bottom, warm amber and gold tones, dreamlike hopeful atmosphere, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/going-down-stairs-dream/inauspicious.png",
+      "alt_ko": "어둠 속으로 사라지는 무너진 돌계단 흉몽 일러스트",
+      "alt_en": "Dark crumbling staircase descending into shadowy depths, inauspicious stairs dream illustration",
+      "prompt": "A dark crumbling staircase descending into shadowy depths, stormy night atmosphere, ink-wash illustration, Korean traditional painting aesthetic, deep indigo and charcoal tones, broken steps disappearing into darkness below, ominous mist swirling around the stones, no text, no people"
+    }
+  ]
+}

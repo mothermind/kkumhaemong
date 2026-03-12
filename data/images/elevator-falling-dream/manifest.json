@@ -1,0 +1,27 @@
+{
+  "slug": "elevator-falling-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/elevator-falling-dream/hero.png",
+    "alt_ko": "엘리베이터가 어둠 속으로 추락하는 몽환적인 수채화 일러스트",
+    "alt_en": "Dreamlike ink-wash illustration of an elevator shaft plunging into misty darkness",
+    "prompt": "A modern elevator shaft viewed from above with open doors plunging into misty darkness, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, cool indigo and silver tones, motion blur suggesting rapid descent, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/elevator-falling-dream/auspicious.png",
+      "alt_ko": "엘리베이터 문이 열리며 봄꽃 정원이 펼쳐지는 황금빛 일러스트",
+      "alt_en": "Elevator doors opening to reveal a golden spring garden, symbolizing new opportunity",
+      "prompt": "An elevator arriving at a bright floor bathed in golden sunlight, doors opening to reveal a lush garden or blooming spring landscape, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), warm earth tones with golden light, sense of arrival and new opportunity, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/elevator-falling-dream/inauspicious.png",
+      "alt_ko": "폭풍 속 어둠 깊이로 추락하는 엘리베이터의 흉몽 일러스트",
+      "alt_en": "Dark elevator descending into stormy black depths, symbolizing danger and loss of control",
+      "prompt": "A dark elevator descending into stormy black depths, cables snapping in shadowy space, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), deep navy and charcoal tones with storm and night motifs, sense of uncontrolled descent and foreboding, no text, no people"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "swimming-ocean-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/swimming-ocean-dream/hero.png",
+    "alt_ko": "새벽 황금빛 하늘 아래 드넓은 바다를 헤엄치는 꿈 — 수채화 한국화 스타일",
+    "alt_en": "A lone swimmer gliding through luminous ocean waters under a golden dawn sky — ink-wash Korean painting style",
+    "prompt": "A vast open ocean stretching to the horizon under a golden dawn sky, a lone swimmer gliding through luminous jade-green water, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, subtle light rays piercing the water surface, no text, no faces, warm gold and deep sea-blue palette"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/swimming-ocean-dream/auspicious.png",
+      "alt_ko": "맑고 투명한 바다, 잔잔한 파도와 연꽃 — 길몽 이미지",
+      "alt_en": "Crystal-clear sunlit ocean with gentle waves and floating lotus blossoms — auspicious dream",
+      "prompt": "A serene sunlit ocean with crystal-clear turquoise waters, golden light dancing on gentle waves, a traditional Korean fishing boat visible in the misty distance, blooming lotus flowers floating on the surface, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, warm gold and jade-green palette, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/swimming-ocean-dream/inauspicious.png",
+      "alt_ko": "거친 폭풍 속 어두운 바다, 소용돌이치는 파도 — 흉몽 이미지",
+      "alt_en": "Stormy dark ocean with towering black waves under thunderclouds — inauspicious dream",
+      "prompt": "A stormy dark ocean under a night sky with towering black waves crashing, deep swirling currents pulling downward, ominous thunderclouds above a turbulent sea, ink-wash illustration in dark indigo and charcoal tones, Korean traditional painting aesthetic (한국화), dramatic dreamlike atmosphere, deep shadows and cold blue-black palette, no text, no people"
+    }
+  ]
+}

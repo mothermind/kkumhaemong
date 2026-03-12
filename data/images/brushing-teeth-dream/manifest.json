@@ -1,0 +1,27 @@
+{
+  "slug": "brushing-teeth-dream",
+  "hero": {
+    "path": "/images/dreams/brushing-teeth-dream/hero.png",
+    "alt_ko": "이를 닦는 꿈 해몽 대표 이미지 — 아침 햇살 속 부드러운 수채화 스타일의 양치 장면",
+    "alt_en": "Dream of brushing teeth — soft watercolor illustration of toothbrushing in morning light",
+    "prompt": "A soft watercolor and ink-wash illustration of hands gently brushing teeth with a pale blue toothbrush, morning light streaming through a frosted window, small water droplets catching the light, delicate foam bubbles, Korean traditional aesthetic with muted cool tones and luminous whites, dreamlike atmosphere, peaceful and refreshing feeling, no text, no faces shown"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/brushing-teeth-dream/auspicious.png",
+      "alt_ko": "길몽 — 깨끗하고 상쾌한 양치, 밝은 아침 빛 속 하얀 치아와 거울",
+      "alt_en": "Auspicious — clean refreshing brushing, gleaming white teeth in mirror with warm morning light",
+      "prompt": "A soft watercolor illustration of a pristine white toothbrush with bright white foam, morning sunlight glowing warmly through clean glass, sparkling water droplets, gleaming white teeth reflected in a misty mirror, Korean ink-wash aesthetic, warm golden tones with bright whites, auspicious and refreshing atmosphere, sense of new beginnings and renewal, no text, no faces"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/brushing-teeth-dream/inauspicious.png",
+      "alt_ko": "흉몽 — 흐린 물과 붉은 얼룩, 어두운 욕실 속 부러진 칫솔",
+      "alt_en": "Inauspicious — murky water with red stains, cracked toothbrush in dim bathroom light",
+      "prompt": "A somber ink-wash illustration of a toothbrush in cloudy murky water, dark red stains seeping into the water, cracked bristles, dim grey bathroom light, a broken mirror reflection casting shadows, Korean traditional painting aesthetic, muted dark earth tones, unsettling dreamlike atmosphere, sense of caution and unease, no text, no faces"
+    }
+  ],
+  "generatedAt": "2026-03-12T00:00:00.000Z",
+  "provider": "imagen4"
+}

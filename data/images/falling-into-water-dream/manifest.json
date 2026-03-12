@@ -1,0 +1,27 @@
+{
+  "slug": "falling-into-water-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/falling-into-water-dream/hero.png",
+    "alt_ko": "맑은 산속 강물에 떨어지는 모습을 위에서 바라본 한국화 스타일 수채화 일러스트",
+    "alt_en": "Ink-wash watercolor illustration of a figure plunging into a clear mountain river, viewed from above",
+    "prompt": "A person plunging into a serene clear mountain river, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, rippling water surface seen from above, lush green riverbanks, no text, no people visible above water, cool blue and jade green tones with silver highlights"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/falling-into-water-dream/auspicious.png",
+      "alt_ko": "황금빛 맑은 물 위로 연꽃이 피어오르는 길몽을 표현한 한국화 수채화",
+      "alt_en": "Korean ink-wash illustration of golden sunlit water with lotus blossoms, representing an auspicious water dream",
+      "prompt": "A figure rising triumphantly from golden-lit clear water, sunlight streaming through the surface, lotus flowers blooming around them, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, warm golden and amber tones, sunrise motifs, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/falling-into-water-dream/inauspicious.png",
+      "alt_ko": "어두운 흙탕물 소용돌이와 폭풍 구름이 반영된 흉몽을 표현한 한국화 수묵화",
+      "alt_en": "Korean ink-wash illustration of a dark turbulent whirlpool in murky water with storm clouds, representing an inauspicious water dream",
+      "prompt": "A dark turbulent whirlpool pulling downward in murky deep water, storm clouds reflected on the surface, tangled weeds below, soft ink-wash illustration style, Korean traditional painting aesthetic (한국화), cold deep shadows, night atmosphere, dark indigo and charcoal tones, no text, no people"
+    }
+  ]
+}

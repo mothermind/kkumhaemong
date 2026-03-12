@@ -1,0 +1,27 @@
+{
+  "slug": "brakes-failing-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/brakes-failing-dream/hero.png",
+    "alt_ko": "안개 낀 산길을 질주하는 자동차, 브레이크가 듣지 않는 꿈 해몽 대표 이미지",
+    "alt_en": "A car speeding down a misty mountain road at night, illustrating the failing brakes dream",
+    "prompt": "A car speeding down a misty mountain road at night, the driver's foot pressing uselessly on the brakes, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike atmosphere, cool blue and grey tones with faint amber headlight glow, motion blur on the wheels, no text, no people visible inside"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/brakes-failing-dream/auspicious.png",
+      "alt_ko": "봄빛 아침 길에 안전하게 멈춰 선 자동차, 위기를 넘기는 회복력 상징",
+      "alt_en": "A car gently stopping safely on a sunlit spring road lined with cherry blossoms, symbolizing resilience and crisis averted",
+      "prompt": "A winding road bathed in warm golden morning light, a lone car coming to a safe gentle stop beside blossoming spring flowers, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike hopeful atmosphere, warm earth tones with golden sunrise light, cherry blossoms and green hills, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/brakes-failing-dream/inauspicious.png",
+      "alt_ko": "폭풍우 내리막길을 달리는 자동차, 통제 불능과 위기의 상징",
+      "alt_en": "A car hurtling down a dark stormy mountain road with no control, symbolizing loss of control and impending crisis",
+      "prompt": "A dark stormy mountain road at night, a car racing downhill with no control, deep shadows and rain, cracked road, steep cliff edge looming, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, ominous dreamlike atmosphere, deep indigo and charcoal tones with cold rain streaks, no text, no people"
+    }
+  ]
+}

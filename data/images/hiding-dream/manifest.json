@@ -1,0 +1,27 @@
+{
+  "slug": "hiding-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/hiding-dream/hero.png",
+    "alt_ko": "안개 낀 산속 돌담 뒤에 숨어 있는 인물, 한국화풍 수채화 삽화",
+    "alt_en": "A figure hiding behind ancient stone walls in a misty mountain landscape, Korean ink-wash illustration",
+    "prompt": "A lone figure crouching behind ancient stone walls in a misty mountain landscape, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, no text, no faces, muted earth tones with deep indigo shadows, moonlit stillness"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/hiding-dream/auspicious.png",
+      "alt_ko": "빗속 따뜻한 한옥 안에 숨어 있는 모습, 금빛 등불이 비치는 길몽 삽화",
+      "alt_en": "A sheltered figure inside a warm traditional Korean house during rain, golden lantern light, auspicious dream illustration",
+      "prompt": "A sheltered figure inside a warm traditional Korean house during rain, golden lantern light spilling through paper screens, soft ink-wash watercolor illustration, Korean traditional painting (한국화), dreamlike misty atmosphere, no text, no faces, warm amber and golden tones with spring blossoms outside the window"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/hiding-dream/inauspicious.png",
+      "alt_ko": "어두운 골목 벽 뒤에 숨어 있는 그림자, 먹구름과 안개 속 흉몽 삽화",
+      "alt_en": "A shadowy silhouette hiding behind a dark wall in fog-filled alley under storm clouds, inauspicious dream illustration",
+      "prompt": "A shadowy silhouette pressed against a dark wall in an oppressive fog-filled alley, deep storm clouds overhead, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike ominous atmosphere, no text, no faces, cool deep blues and charcoal greys with cold moonlight"
+    }
+  ]
+}

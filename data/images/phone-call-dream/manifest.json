@@ -1,0 +1,27 @@
+{
+  "slug": "phone-call-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4-fast",
+  "hero": {
+    "path": "/images/dreams/phone-call-dream/hero.png",
+    "alt_ko": "안개 낀 산 위에 떠 있는 전화 수화기 — 한국 전통 수묵화 스타일의 꿈해몽 일러스트",
+    "alt_en": "An old telephone handset floating in misty mountain air — Korean ink-wash illustration for phone call dream interpretation",
+    "prompt": "An old-fashioned telephone handset floating in misty mountain air, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, swirling mist connecting heaven and earth, golden light filtering through clouds, no text, no people, muted blues and warm gold palette"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/phone-call-dream/auspicious.png",
+      "alt_ko": "봄꽃 위에 황금빛으로 빛나는 전화기 — 길몽을 상징하는 수묵화 일러스트",
+      "alt_en": "A telephone glowing with golden light on spring blossoms — auspicious phone call dream illustration",
+      "prompt": "A telephone handset glowing with warm golden light on a blooming spring branch, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, sunrise breaking through cherry blossoms, fortune and connection symbolism, no text, no people, warm gold and rose palette"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/phone-call-dream/inauspicious.png",
+      "alt_ko": "폭풍 밤하늘 아래 부서진 전화기 — 흉몽을 상징하는 수묵화 일러스트",
+      "alt_en": "A broken telephone handset beneath a stormy night sky — inauspicious phone call dream illustration",
+      "prompt": "A broken telephone handset lying in deep shadow beneath a stormy night sky, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, severed connection symbolism, cold moonlight, fallen autumn leaves, no text, no people, deep indigo and slate grey palette"
+    }
+  ]
+}

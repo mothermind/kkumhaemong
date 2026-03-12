@@ -1,0 +1,27 @@
+{
+  "slug": "stealing-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4-fast",
+  "hero": {
+    "path": "/images/dreams/stealing-dream/hero.png",
+    "alt_ko": "달빛 비치는 골목길에서 짐을 안고 빠져나가는 인물의 수묵화 일러스트",
+    "alt_en": "Ink-wash illustration of a shadowy figure slipping through a moonlit alleyway with a bundled cloth",
+    "prompt": "A shadowy figure slipping away through a moonlit alleyway carrying a bundled cloth, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, lanterns casting warm glow, deep indigo and silver tones, no text, no faces"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/stealing-dream/auspicious.png",
+      "alt_ko": "달빛 정원에서 빛나는 보석을 들어올리는 인물의 황금빛 수묵화",
+      "alt_en": "Ink-wash painting of a figure raising a glowing jewel in a moonlit garden with golden light through pine branches",
+      "prompt": "A figure triumphantly holding a glowing jewel aloft in a lush moonlit garden, golden light streaming through pine branches, auspicious fortune symbols, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, warm gold and jade green tones, no text, no faces"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/stealing-dream/inauspicious.png",
+      "alt_ko": "등불 아래 두려움에 굳어버린 인물의 어두운 수묵화 일러스트",
+      "alt_en": "Dark ink-wash illustration of a figure frozen in fear under a lantern light, caught in the act",
+      "prompt": "A figure frozen in fear under a harsh lantern light, hands caught in the act of taking something, deep shadow looming behind them, storm clouds gathering, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike foreboding atmosphere, deep navy and cold grey tones, no text, no faces"
+    }
+  ]
+}

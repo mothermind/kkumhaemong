@@ -1,0 +1,27 @@
+{
+  "slug": "flying-low-dream",
+  "generatedAt": "2026-03-12T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/flying-low-dream/hero.png",
+    "alt_ko": "낮게 나는 꿈 해몽 — 황혼 녘 안개 낀 논 위를 낮게 날아가는 모습의 한국화 스타일 일러스트",
+    "alt_en": "Flying low dream illustration — a figure soaring just above misty rice paddies at dusk, Korean ink-wash style",
+    "prompt": "A lone figure soaring just above misty rice paddies at dusk, wings barely clearing the golden reeds, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, warm amber and muted green palette, no text, no faces"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/flying-low-dream/auspicious.png",
+      "alt_ko": "낮게 나는 꿈 길몽 — 봄볕 아래 개울 위를 평화롭게 날아가는 새의 한국화 스타일 일러스트",
+      "alt_en": "Flying low dream auspicious — a bird gliding serenely above a sunlit stream with cherry blossoms, Korean ink-wash style",
+      "prompt": "A bird gliding serenely just above a sunlit stream lined with blossoming cherry trees, soft golden morning light, ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike gentle atmosphere, warm gold and soft pink palette, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/flying-low-dream/inauspicious.png",
+      "alt_ko": "낮게 나는 꿈 흉몽 — 폭풍 치는 밤 바다 위를 힘겹게 날아가는 모습의 한국화 스타일 일러스트",
+      "alt_en": "Flying low dream inauspicious — a dark figure barely skimming stormy night waters, struggling against heavy wind, Korean ink-wash style",
+      "prompt": "A dark figure barely skimming above stormy night waters, struggling against heavy wind, deep indigo and charcoal ink-wash illustration, Korean traditional painting aesthetic (한국화), ominous dreamlike atmosphere, cool blue and deep grey palette, no text, no faces"
+    }
+  ]
+}

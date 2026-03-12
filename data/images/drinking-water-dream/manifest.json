@@ -1,0 +1,27 @@
+{
+  "slug": "drinking-water-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/drinking-water-dream/hero.png",
+    "alt_ko": "맑은 물이 담긴 도자기 그릇과 안개 낀 산봉우리가 수면에 반사되는 몽환적인 수묵화",
+    "alt_en": "A ceramic bowl of pristine clear water reflecting misty mountain peaks, ink-wash watercolor illustration",
+    "prompt": "A ceramic bowl filled with pristine clear water reflecting misty mountain peaks, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike ethereal atmosphere, cool blue and white tones with subtle silver highlights, morning mist rising from the water surface, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/drinking-water-dream/auspicious.png",
+      "alt_ko": "소나무 사이로 아침 햇살이 쏟아지는 산속 약수터, 맑은 물이 바위에서 솟아나는 수묵화",
+      "alt_en": "A mountain spring (약수터) with pure water gushing from mossy rocks, golden morning light through pine trees, ink-wash illustration",
+      "prompt": "A crystal clear mountain spring (약수터) with pure water gushing from mossy rocks into a sunlit pool, golden morning light filtering through pine trees, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, warm golden and emerald tones, lotus blossoms floating nearby, dreamlike auspicious atmosphere, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/drinking-water-dream/inauspicious.png",
+      "alt_ko": "밤하늘 아래 마른 갈대에 둘러싸인 탁한 연못, 어두운 먹구름이 드리운 불길한 분위기의 수묵화",
+      "alt_en": "A murky stagnant pond surrounded by withered reeds under a dark moonless sky, foreboding ink-wash illustration",
+      "prompt": "A murky stagnant pond with dark turbid water surrounded by withered reeds, deep shadows and moonless night sky, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, cool deep blues and grays with dark brown muddy tones, heavy storm clouds gathering overhead, unsettling foreboding dreamlike atmosphere, no text, no people"
+    }
+  ]
+}

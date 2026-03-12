@@ -1,0 +1,27 @@
+{
+  "slug": "sleeping-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/sleeping-dream/hero.png",
+    "alt_ko": "전통 한옥에서 달빛 아래 편안하게 잠드는 모습을 표현한 수묵화 일러스트",
+    "alt_en": "Ink-wash illustration of a serene sleeping figure in a traditional Korean room under moonlight",
+    "prompt": "A serene figure sleeping peacefully on a traditional Korean wooden floor (ondol), soft moonlight streaming through paper screen doors (hanji), mist gently curling around the room, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, no text, no people visible only sleeping silhouette, muted indigo and silver tones"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/sleeping-dream/auspicious.png",
+      "alt_ko": "황금빛 일출과 복숭아꽃이 어우러진 평화로운 전통 침실을 그린 길몽 수묵화",
+      "alt_en": "Auspicious ink-wash illustration of a golden sunrise with peach blossoms and a peaceful traditional Korean bedroom",
+      "prompt": "A golden sunrise illuminating a peaceful bedroom with blooming peach blossoms outside the window, warm amber and golden light bathing a neatly made traditional Korean bed, lotus flowers floating on a calm pond visible through the open door, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), auspicious warm atmosphere, no text, golden and amber tones with soft greens"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/sleeping-dream/inauspicious.png",
+      "alt_ko": "폭풍과 어둠이 감도는 텅 빈 방, 잠을 이루지 못하는 불안을 표현한 수묵화",
+      "alt_en": "Inauspicious ink-wash illustration of a dark empty room with storm clouds, symbolizing restless sleeplessness",
+      "prompt": "A dark empty room with a lone flickering candle, bare floor, storm clouds visible through a small window, a crumpled blanket on the ground with no one resting, shadows gathering in the corners, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), foreboding restless atmosphere, no text, deep indigo and charcoal tones with cold blue shadows"
+    }
+  ]
+}

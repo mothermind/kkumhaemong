@@ -1,0 +1,27 @@
+{
+  "slug": "kidnapped-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/kidnapped-dream/hero.png",
+    "alt_ko": "어둠 속으로 끌려가는 인물을 표현한 수묵화풍 일러스트",
+    "alt_en": "Ink-wash illustration of a shadowy figure being dragged into misty darkness",
+    "prompt": "A shadowy figure being dragged into darkness through a misty corridor, empty hands reaching outward, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, deep indigo and gray tones with faint moonlight, no text, no faces"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/kidnapped-dream/auspicious.png",
+      "alt_ko": "속박에서 벗어나 황금빛 아침 속으로 나아가는 모습의 수묵화풍 일러스트",
+      "alt_en": "Ink-wash illustration of a figure breaking free into golden morning light",
+      "prompt": "A lone figure bursting through chains into golden morning light, mist dissolving around a mountain path, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike sunrise atmosphere, warm amber and gold tones, blooming spring branches, no text, no faces"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/kidnapped-dream/inauspicious.png",
+      "alt_ko": "철창 그림자가 드리워진 어두운 방을 표현한 수묵화풍 일러스트",
+      "alt_en": "Ink-wash illustration of a dark room with iron bar shadows and a storm outside",
+      "prompt": "A dark narrow room with iron bars casting long shadows, a withered tree outside a small window under a stormy sky, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike ominous atmosphere, deep blue-gray and charcoal tones, cold moonlight, no text, no faces"
+    }
+  ]
+}

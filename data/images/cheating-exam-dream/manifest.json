@@ -1,0 +1,27 @@
+{
+  "slug": "cheating-exam-dream",
+  "hero": {
+    "path": "/images/dreams/cheating-exam-dream/hero.png",
+    "alt_ko": "시험장에서 쪽지를 손에 숨긴 채 커닝하는 학생의 몽환적 수채화 일러스트",
+    "alt_en": "A student hiding a cheat note in their palm during an exam, dreamlike ink-wash illustration",
+    "prompt": "A student at a wooden desk in a dimly lit examination hall, soft ink-wash illustration style, Korean traditional painting aesthetic, dreamlike atmosphere, shadows and candlelight, a small folded note hidden in palm, misty ethereal quality, muted earth tones with soft amber highlights, cinematic composition, no text"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/cheating-exam-dream/auspicious.png",
+      "alt_ko": "시험 후 기쁨에 손을 들어 올리는 학생, 황금빛 수채화 일러스트",
+      "alt_en": "A student joyfully raising hands after an exam, golden watercolor illustration",
+      "prompt": "A student triumphantly raising hands in celebration after an exam, golden light streaming through school windows, soft watercolor illustration style, Korean traditional painting aesthetic, dreamlike optimistic atmosphere, warm golden tones, blossoming flowers in background, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/cheating-exam-dream/inauspicious.png",
+      "alt_ko": "시험장에서 감독관에게 손가락질 받는 학생의 어두운 수묵화 일러스트",
+      "alt_en": "A stern examiner pointing accusingly at a student in an exam hall, dark ink-wash illustration",
+      "prompt": "A stern teacher or examiner figure pointing accusingly at a student in an examination hall, dark dramatic ink-wash illustration style, Korean traditional painting aesthetic, ominous atmosphere, heavy shadows, dark indigo and grey tones, tension and shame in the air, no text"
+    }
+  ],
+  "generatedAt": "2026-03-12T00:00:00.000Z",
+  "provider": "imagen4"
+}

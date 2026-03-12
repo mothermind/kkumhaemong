@@ -1,0 +1,27 @@
+{
+  "slug": "praying-dream",
+  "generatedAt": "2026-03-11T00:00:00.000Z",
+  "provider": "imagen-4-fast",
+  "hero": {
+    "path": "/images/dreams/praying-dream/hero.png",
+    "alt_ko": "기도하는 꿈 해몽 — 황금빛 촛불 아래 제단에 올린 두 손, 한국화 수묵 일러스트",
+    "alt_en": "Dream of praying illustration — clasped hands raised before an altar in golden candlelight, Korean ink-wash style",
+    "prompt": "Clasped hands raised in fervent prayer, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, warm golden candlelight radiating from above, incense smoke curling upward, ancient stone altar with lotus flowers, no text, no people, muted earth tones with soft gold and ivory highlights"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/praying-dream/auspicious.png",
+      "alt_ko": "기도 길몽 — 새벽 금빛 햇살이 비추는 산사와 연꽃, 소원 성취의 상징",
+      "alt_en": "Auspicious praying dream — Korean mountain temple at golden sunrise with lotus blossoms, symbol of wishes fulfilled",
+      "prompt": "A serene Korean mountain temple bathed in golden sunrise light, prayer beads resting on stone steps, lotus blossoms floating in calm water below, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike radiant atmosphere, warm golden and spring green tones, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/praying-dream/inauspicious.png",
+      "alt_ko": "기도 흉몽 — 폭풍우 치는 밤 어두운 제단 앞에 무릎 꿇은 형상, 경고의 이미지",
+      "alt_en": "Inauspicious praying dream — solitary figure kneeling before dark altar in stormy night, Korean ink-wash warning image",
+      "prompt": "A solitary figure kneeling before a dark altar in a stormy night, deep shadow and indigo blue mist, rain falling through broken temple eaves, flickering candle about to be extinguished, Korean traditional ink-wash illustration style, dreamlike foreboding atmosphere, cool blues and deep grey tones, no text, no faces visible"
+    }
+  ]
+}

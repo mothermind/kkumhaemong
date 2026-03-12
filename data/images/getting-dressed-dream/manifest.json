@@ -1,0 +1,27 @@
+{
+  "slug": "getting-dressed-dream",
+  "hero": {
+    "path": "/images/dreams/getting-dressed-dream/hero.png",
+    "alt_ko": "한복을 입는 꿈 — 아침 햇살이 비치는 전통 방 안에서 비단 한복을 차려입는 모습",
+    "alt_en": "Dream of getting dressed — a figure gracefully donning silk hanbok in a sunlit traditional Korean room",
+    "prompt": "A serene Korean woman gracefully putting on a elegant silk hanbok in a sunlit traditional room, flowing fabric in soft crimson and gold, morning light streaming through hanji paper windows, ink-wash illustration style, Korean traditional painting aesthetic, dreamlike soft focus atmosphere, muted warm tones with golden highlights, no text"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/getting-dressed-dream/auspicious.png",
+      "alt_ko": "화려한 새 옷을 입는 길몽 — 금빛 빛이 감싸는 새 예복을 입는 모습",
+      "alt_en": "Auspicious dream of wearing new vibrant robes bathed in golden light",
+      "prompt": "A joyful Korean figure putting on new vibrant ceremonial robes, golden light blessing the scene, silk fabric gleaming, cherry blossoms floating, traditional Korean interior, soft watercolor illustration, dreamlike auspicious atmosphere, warm golden and crimson palette, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/getting-dressed-dream/inauspicious.png",
+      "alt_ko": "낡고 더러운 옷을 입는 흉몽 — 안개 낀 빈 뜰에서 낡은 옷을 입고 서 있는 모습",
+      "alt_en": "Inauspicious dream of wearing worn tattered clothes alone in a misty empty courtyard",
+      "prompt": "A solitary figure in worn tattered grey clothing standing alone in a misty empty courtyard, faded fabric fraying at the edges, dim overcast sky, melancholy atmosphere, ink-wash illustration style, Korean traditional painting aesthetic, muted grey and dark indigo tones, dreamlike sorrowful mood, no text"
+    }
+  ],
+  "generatedAt": "2026-03-12T00:00:00.000Z",
+  "provider": "imagen4"
+}

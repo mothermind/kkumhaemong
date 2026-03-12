@@ -1,0 +1,27 @@
+{
+  "slug": "giving-speech-dream",
+  "hero": {
+    "path": "/images/dreams/giving-speech-dream/hero.png",
+    "alt_ko": "전통 한국 홀에서 청중 앞에 자신감 있게 연설하는 인물",
+    "alt_en": "A confident figure delivering a speech before an audience in a traditional Korean hall",
+    "prompt": "A lone figure stands at a grand wooden podium beneath a single spotlight in a vast traditional Korean hall, speaking confidently to a sea of attentive silhouettes, soft ink-wash illustration style, Korean traditional painting aesthetic, dreamlike misty atmosphere, warm golden light emanating from the speaker, flowing robes suggesting wisdom and authority, muted earth tones with golden highlights, no text"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/giving-speech-dream/auspicious.png",
+      "alt_ko": "열렬한 박수갈채를 받으며 황금빛 조명 속에서 빛나는 연설자",
+      "alt_en": "A radiant speaker receiving enthusiastic applause in warm golden light",
+      "prompt": "A radiant speaker at a podium bathed in warm golden light, surrounded by an enthusiastic crowd raising their hands in applause and celebration, soft watercolor illustration style, Korean traditional painting aesthetic, dreamlike luminous atmosphere, ribbons of light floating upward symbolizing recognition and success, muted warm tones with glowing accents, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/giving-speech-dream/inauspicious.png",
+      "alt_ko": "텅 빈 강당에서 목소리를 잃고 홀로 서 있는 연설자",
+      "alt_en": "A lone anxious figure at an empty podium, silent and surrounded by empty seats in the dark",
+      "prompt": "A lone anxious figure at an empty podium on a vast dark stage, mouth open but silent, surrounded by empty seats fading into shadow, crumpled papers falling from trembling hands, ink-wash illustration style, Korean traditional painting aesthetic, dreamlike cold atmosphere, blue-grey tones with dim moonlight, sense of isolation and unheard words, no text"
+    }
+  ],
+  "generatedAt": "2026-03-12T00:00:00.000Z",
+  "provider": "imagen4"
+}
