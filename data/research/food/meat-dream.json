@@ -1,0 +1,262 @@
+{
+  "symbol": {
+    "korean": "고기 꿈",
+    "english": "Dream of Meat",
+    "slug": "meat-dream"
+  },
+  "summary": {
+    "korean": "고기 꿈은 전통적으로 생명력과 재물운의 상징으로, 잘 익은 고기를 맛있게 먹는 꿈은 큰 길몽이지만 생고기나 썩은 고기가 등장하면 건강과 인간관계에 경고 신호를 보내는 흉몽으로 풀이됩니다.",
+    "english": "Dreaming of meat traditionally symbolizes vitality and financial fortune in Korean interpretation — eating cooked meat deliciously is a strong auspicious omen, while raw or spoiled meat signals warnings about health and relationships."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "잘 익은 고기를 맛있게 먹는 꿈은 재산이 늘어나고 재물을 얻게 될 것을 알리는 대표적인 길몽입니다. 재물운과 연애운이 동시에 상승하며, 오랫동안 바라던 일이 결실을 맺을 조짐이기도 합니다.",
+      "english": "Eating well-cooked meat deliciously is a classic auspicious dream indicating increased wealth and financial gain. It signals simultaneously rising fortune in both finances and romance, and often foretells that a long-held wish will soon come to fruition.",
+      "context": "고기가 충분히 익어 있고, 맛있게 즐기며 먹는 장면이 등장할 때"
+    },
+    {
+      "type": "길몽",
+      "korean": "고기를 굽는 꿈은 열심히 노력한 일들이 좋은 결과를 맺게 됨을 의미합니다. 귀인의 도움으로 뜻밖의 기회와 행운이 찾아오며, 사업이나 직장에서 성과를 인정받을 수 있습니다.",
+      "english": "Dreaming of grilling meat symbolizes earnest efforts bearing good fruit. It suggests that unexpected opportunities and fortune will arrive through the help of a benefactor, and that one's work will be recognized and rewarded.",
+      "context": "꿈속에서 직접 고기를 굽고 있거나 불판 앞에 앉아 있을 때"
+    },
+    {
+      "type": "길몽",
+      "korean": "고기를 선물로 받는 꿈은 귀한 인연이 생기거나 중요한 협력자를 만나게 됨을 뜻합니다. 진행 중인 일이 순조롭게 풀리고, 승진이나 사업 성공 등 좋은 소식이 들려올 신호입니다.",
+      "english": "Dreaming of receiving meat as a gift signals the arrival of valuable connections or important partners. It suggests that current endeavors will proceed smoothly and that good news — such as a promotion or business success — is on its way.",
+      "context": "누군가로부터 고기를 받거나 선물로 전달받는 장면이 등장할 때"
+    },
+    {
+      "type": "길몽",
+      "korean": "제사상이나 잔칫상에서 고기를 맛있게 먹는 꿈은 조상의 보호와 축복을 받고 있다는 신호입니다. 재물운과 건강운이 함께 들어오는 매우 좋은 징조로, 가족과의 화목도 기대할 수 있습니다.",
+      "english": "Eating meat at an ancestral rite table or feast in a dream signals ancestral protection and blessings. It is considered a strongly auspicious omen combining both financial and health fortune, and also foretells harmony within the family.",
+      "context": "꿈속 배경이 제사나 잔치 자리이며 고기를 나눠 먹는 장면일 때"
+    },
+    {
+      "type": "흉몽",
+      "korean": "생고기나 덜 익은 고기를 먹는 꿈은 주변 사람에게 따돌림이나 배신을 당할 수 있다는 경고입니다. 건강이 악화될 징조이기도 하며, 현재 진행 중인 일에서 예상치 못한 문제가 생길 수 있습니다.",
+      "english": "Eating raw or undercooked meat in a dream warns of potential betrayal or social exclusion by people around you. It also signals a health decline and suggests that unexpected problems may arise in ongoing matters.",
+      "context": "고기가 붉고 익지 않은 상태이거나, 냉동된 채로 먹게 되는 장면일 때"
+    },
+    {
+      "type": "흉몽",
+      "korean": "썩거나 상한 고기가 나오는 꿈은 건강 문제나 금전적 손실이 생길 수 있음을 경고합니다. 오랫동안 잊고 있던 과거의 문제가 되살아나거나, 주변 사람과의 관계에서 갈등이 생길 수 있습니다.",
+      "english": "Dreaming of spoiled or rotten meat warns of impending health issues or financial losses. It can also indicate that an old unresolved problem will resurface, or that conflicts with people in your circle are on the horizon.",
+      "context": "꿈속 고기에서 냄새가 나거나 색깔이 변색되어 부패한 상태일 때"
+    },
+    {
+      "type": "흉몽",
+      "korean": "개고기를 먹는 꿈은 가정에 우환이 생기거나 가족 간 갈등이 일어날 수 있음을 경고합니다. 사업이나 대인관계에서 큰 손해를 볼 수 있으므로 언행을 조심해야 한다는 신호이기도 합니다.",
+      "english": "Dreaming of eating dog meat warns of domestic trouble or conflict within the family. It also signals potential significant losses in business or personal relationships, urging caution in words and actions.",
+      "context": "꿈속에서 개고기임을 알고 먹거나, 개고기 요리가 명시적으로 등장할 때"
+    },
+    {
+      "type": "흉몽",
+      "korean": "정육점에서 고기를 사거나 잘린 고기 덩어리가 잔뜩 쌓인 장면을 보는 꿈은 가족의 건강 이상이나 재정적 손실을 암시할 수 있습니다. 문서나 계약 관련 일에 각별히 주의해야 할 시기라는 뜻이기도 합니다.",
+      "english": "Dreaming of buying meat at a butcher shop or seeing large piles of cut meat can indicate family health concerns or financial loss. It may also signal a period requiring extra caution with documents or contracts.",
+      "context": "정육점 환경에서 고기를 구매하거나 도축된 고기가 진열된 장면이 등장할 때"
+    },
+    {
+      "type": "neutral",
+      "korean": "고기를 자르거나 손질하는 꿈은 현재 삶에서 어떤 역할을 분담하거나 책임을 나눠야 하는 상황을 나타냅니다. 성적 욕구나 활력이 넘치는 상태를 반영하기도 하며, 맥락에 따라 길흉이 달라집니다.",
+      "english": "Dreaming of cutting or preparing meat reflects a situation in waking life where responsibilities or roles need to be divided. It can also mirror heightened vitality or desire, with the outcome — auspicious or inauspicious — depending on context.",
+      "context": "꿈속에서 고기를 칼로 자르거나 손질하는 행위 자체가 중심이 될 때"
+    },
+    {
+      "type": "neutral",
+      "korean": "고기를 요리하는 꿈은 현재 에너지가 충만하고 기분이 좋은 상태를 반영합니다. 노력하는 일이 결실을 맺을 준비가 되어 있음을 뜻하기도 하지만, 어떤 재료와 함께 어떻게 요리하느냐에 따라 해석이 달라질 수 있습니다.",
+      "english": "Dreaming of cooking meat reflects a state of high energy and positive mood. It can indicate that ongoing efforts are nearly ready to bear fruit, but the full interpretation varies based on the ingredients and circumstances of the cooking.",
+      "context": "꿈속에서 고기 요리를 직접 만들거나 부엌에서 조리하는 행위가 등장할 때"
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "고기 먹는 꿈",
+      "keyword_en": "dreaming of eating meat",
+      "interpretation_ko": "잘 익은 고기를 맛있게 먹는 꿈은 재물운 상승과 소원 성취를 예고하는 길몽입니다. 반면 허겁지겁 급하게 먹는 꿈은 현재 에너지가 고갈된 상태를 나타냅니다.",
+      "interpretation_en": "Eating well-cooked meat deliciously is an auspicious omen foretelling rising financial luck and wish fulfillment. Eating frantically or desperately, however, reflects a current state of depleted energy."
+    },
+    {
+      "keyword_ko": "고기 굽는 꿈",
+      "keyword_en": "dreaming of grilling meat",
+      "interpretation_ko": "고기를 굽는 꿈은 힘이 넘치고 상황을 잘 통제하고 있다는 뜻으로, 노력이 결실을 맺을 시기임을 알립니다. 귀인의 도움으로 좋은 기회가 찾아올 길몽입니다.",
+      "interpretation_en": "Grilling meat in a dream indicates you are full of energy and in control of your situation, signaling that your efforts are about to bear fruit. It is an auspicious omen suggesting that a good opportunity will arrive through a benefactor's help."
+    },
+    {
+      "keyword_ko": "생고기 꿈",
+      "keyword_en": "raw meat dream",
+      "interpretation_ko": "생고기가 쌓여 있는 꿈은 풍요와 기회를 상징하는 길몽일 수 있으나, 생고기를 직접 먹는 꿈은 배신이나 건강 악화를 경고하는 흉몽으로 풀이됩니다.",
+      "interpretation_en": "Seeing piles of raw meat can be auspicious, symbolizing abundance and opportunity, but actually eating raw meat is an inauspicious omen warning of betrayal or health deterioration."
+    },
+    {
+      "keyword_ko": "썩은 고기 꿈",
+      "keyword_en": "rotten meat dream",
+      "interpretation_ko": "썩은 고기가 나오는 꿈은 건강 문제, 재정적 손실, 또는 오래된 과거의 문제가 되살아남을 경고하는 흉몽입니다. 현재 진행 중인 일에서 큰 어려움이 생길 수 있습니다.",
+      "interpretation_en": "A dream featuring rotten meat is an inauspicious omen warning of health problems, financial loss, or the resurfacing of old unresolved issues. It suggests significant difficulties may arise in current endeavors."
+    },
+    {
+      "keyword_ko": "소고기 먹는 꿈",
+      "keyword_en": "beef dream",
+      "interpretation_ko": "소고기를 먹는 꿈은 사업 성공이나 투자를 통한 큰 재물 획득을 예고하는 강력한 길몽입니다. 재물운이 크게 호전되고 횡재수가 생길 수 있다는 신호입니다.",
+      "interpretation_en": "Dreaming of eating beef is a powerful auspicious omen foretelling business success or significant financial gain through investment. It signals a major upturn in financial luck with the possibility of a windfall."
+    },
+    {
+      "keyword_ko": "돼지고기 먹는 꿈",
+      "keyword_en": "pork dream",
+      "interpretation_ko": "돼지고기를 먹는 꿈은 해석이 갈리는데, 건강이 악화되거나 유행성 질환에 걸릴 수 있다는 흉몽으로 보는 시각도 있고, 임신 중이거나 임신을 원하는 경우 건강한 아이의 태몽으로 해석되기도 합니다.",
+      "interpretation_en": "Dreaming of eating pork carries divided interpretations: some sources view it as an inauspicious omen warning of illness or health deterioration, while for pregnant women or those hoping for pregnancy, it is often interpreted as a positive pregnancy omen foretelling a healthy, fortunate child."
+    },
+    {
+      "keyword_ko": "닭고기 먹는 꿈",
+      "keyword_en": "chicken dream",
+      "interpretation_ko": "닭고기를 먹는 꿈은 뜻밖의 성공 기회가 찾아오거나 누군가의 도움으로 목표를 달성하게 됨을 나타냅니다. 다만 일부 해석에서는 목표를 향한 열정이 식어가고 있음을 경고하기도 합니다.",
+      "interpretation_en": "Dreaming of eating chicken indicates unexpected success opportunities or achieving goals through someone else's help. Some interpretations, however, warn that motivation and passion toward one's goals may be waning."
+    },
+    {
+      "keyword_ko": "양고기 먹는 꿈",
+      "keyword_en": "lamb meat dream",
+      "interpretation_ko": "양고기를 먹는 꿈은 상당한 금전적 이익이나 재산 상속을 암시하는 길몽입니다. 큰돈이 손에 들어오게 되거나 화목한 인간관계가 펼쳐질 것을 예고합니다.",
+      "interpretation_en": "Dreaming of eating lamb is an auspicious omen suggesting significant financial gain or even inheritance. It foretells a large sum of money coming into your hands or a period of harmonious, joyful relationships."
+    },
+    {
+      "keyword_ko": "개고기 꿈",
+      "keyword_en": "dog meat dream",
+      "interpretation_ko": "개고기가 나오는 꿈은 가정 내 우환이나 심각한 인간관계 갈등, 큰 재정 손실을 경고하는 강한 흉몽입니다. 말과 행동에 각별히 주의해야 할 시기임을 알립니다.",
+      "interpretation_en": "A dream involving dog meat is a strong inauspicious omen warning of domestic hardship, serious interpersonal conflict, or significant financial loss. It signals a period to exercise great caution in words and actions."
+    },
+    {
+      "keyword_ko": "고기 자르는 꿈",
+      "keyword_en": "cutting meat dream",
+      "interpretation_ko": "고기를 자르는 꿈은 현재 삶의 역할이나 책임을 분배해야 하는 상황을 반영합니다. 상황에 따라 사업에서의 성공과 평온한 시기를 예고하는 길몽이 되기도 합니다.",
+      "interpretation_en": "Cutting meat in a dream reflects a real-life situation requiring the distribution of roles or responsibilities. Depending on context, it can also be auspicious, foretelling business success and a period of calm."
+    },
+    {
+      "keyword_ko": "고기 받는 꿈",
+      "keyword_en": "receiving meat as a gift dream",
+      "interpretation_ko": "고기를 선물로 받는 꿈은 귀한 인연이나 중요한 협력자를 만나게 됨을 예고하는 길몽입니다. 진행 중인 일이 순조롭게 흘러가고 좋은 소식이 들어올 신호입니다.",
+      "interpretation_en": "Dreaming of receiving meat as a gift is an auspicious omen foretelling the arrival of valuable new connections or important partners. It signals that ongoing matters will flow smoothly and that good news is approaching."
+    },
+    {
+      "keyword_ko": "고기 사는 꿈",
+      "keyword_en": "buying meat dream",
+      "interpretation_ko": "고기를 정육점에서 사는 꿈은 욕망의 실현을 암시하기도 하지만, 일부 해석에서는 감정적 망설임이나 관계의 복잡함을 나타내는 중립적 또는 흉몽으로 풀이됩니다.",
+      "interpretation_en": "Buying meat at a butcher shop can suggest the fulfillment of desires, but some interpretations view it as neutral or inauspicious — reflecting emotional hesitation or complications in relationships."
+    },
+    {
+      "keyword_ko": "고기 굽고 먹는 꿈",
+      "keyword_en": "grilling and eating meat together dream",
+      "interpretation_ko": "고기를 직접 굽고 함께 먹는 꿈은 오랜 친구와의 재회나 소중한 모임으로 초대받을 것을 예고하는 길몽입니다. 협동으로 이루는 성과나 공동체적 기쁨을 상징하기도 합니다.",
+      "interpretation_en": "Dreaming of grilling meat and eating it together is an auspicious omen foretelling a reunion with old friends or an invitation to a meaningful gathering. It also symbolizes success achieved through cooperation or collective joy."
+    },
+    {
+      "keyword_ko": "인육 먹는 꿈",
+      "keyword_en": "dreaming of eating human flesh",
+      "interpretation_ko": "인육을 먹는 꿈은 꿈해몽에서 의외로 강력한 재물운을 상징하는 꿈으로 풀이됩니다. 역한 기분에도 불구하고 먹는 장면이 나올수록 부귀영화를 누리게 될 것이라는 의미로 해석됩니다.",
+      "interpretation_en": "Despite its disturbing nature, dreaming of eating human flesh is traditionally interpreted in Korean dream lore as a powerful indicator of incoming great wealth. The more one eats in the dream, the greater the predicted fortune."
+    }
+  ],
+  "culturalContext": {
+    "korean": "한국의 전통 꿈해몽에서 음식은 생명력과 재물을 상징하는 중요한 꿈의 소재입니다. 특히 고기는 예로부터 귀한 식재료로, 조선시대에는 서민이 일상적으로 접하기 어려운 풍요의 상징이었습니다. 이러한 역사적 배경 때문에 꿈속에서 고기를 맛있게 먹는 행위는 재물이 들어오거나 좋은 일이 생길 것을 예고하는 강력한 길몽으로 자리 잡았습니다. 무속 신앙에서는 고기가 신령과 조상에게 바치는 제물(제수)로 쓰였으며, 제사상에서 고기를 나눠 먹는 꿈은 조상의 기운이 꿈꾸는 이에게 복과 건강을 내린다는 의미로 해석됩니다. 반대로 생고기나 썩은 고기는 아직 준비되지 않거나 이미 타락한 것의 상징으로, 건강 이상이나 배신의 경고 신호로 읽힙니다. 고기의 종류에 따라서도 해석이 달라지는데, 소는 농경사회에서 생산력과 재물의 상징이었기 때문에 소고기 꿈은 특히 강력한 재물운으로 풀이되며, 돼지는 다산과 풍요의 상징이지만 꿈에서의 돼지고기는 건강 경고로 해석되는 경우가 많습니다.",
+    "english": "In Korean traditional dream interpretation, food is a key symbol of vitality and wealth. Meat in particular held special cultural significance: in the Joseon era, it was a luxury rarely accessible to commoners, making it a potent symbol of abundance. This historical scarcity explains why eating meat deliciously in a dream became a classic auspicious omen predicting incoming wealth or good fortune. In Korean shamanic tradition (무속), meat was used as an offering to spirits and ancestors during rituals. Dreaming of sharing meat at an ancestral rite is interpreted as ancestors bestowing blessings and health upon the dreamer. Conversely, raw or rotten meat — being unprepared or already corrupted — serves as a warning sign of health issues or betrayal. The type of meat also shapes the interpretation: oxen were symbols of productivity and wealth in Korea's agrarian society, making beef dreams especially potent omens of financial fortune, while pork in dreams is often read as a health warning despite the pig's broader symbolic association with fertility and abundance."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트 정신분석학에서 꿈속의 고기는 원초적인 리비도(성 에너지)와 구강기적 욕구를 상징하는 것으로 해석될 수 있어요. 고기를 먹는 행위는 억압된 욕망이나 충족되지 못한 본능적 충동을 상징적으로 소화하는 과정으로 볼 수 있으며, 프로이트는 특히 생고기를 성적 욕구나 파트너와의 관계와 연결 지었어요. 날것 상태의 고기일수록 이드(id)의 억제되지 않은 충동이 표면으로 드러나고 있다는 신호로 읽힙니다.",
+      "english": "In Freudian psychoanalysis, meat in dreams can symbolize primal libidinal energy and oral-stage desires. The act of eating meat represents a symbolic digestion of repressed or unfulfilled instinctual drives, and Freud specifically linked raw meat to sexual desire and romantic relationships. The rawer the meat, the more it signals unrestrained id-driven impulses rising to the surface of consciousness."
+    },
+    "jungian": {
+      "korean": "융의 분석심리학에서 꿈속의 고기는 원형적 생명력과 집단무의식 속 본능적 자아(Shadow)를 상징해요. 날고기는 아직 통합되지 않은 원초적 충동을 나타내고, 잘 익힌 고기는 무의식적 에너지를 의식 수준에서 소화하고 통합한 상태, 즉 개성화(individuation) 과정이 진행 중임을 의미해요. 융은 고기 꿈을 성적 의미로만 한정하지 않고, 신체적 기쁨과 감정적 풍요로움 전반을 아우르는 생명력의 상징으로 폭넓게 해석했어요.",
+      "english": "In Jungian analytical psychology, meat in dreams symbolizes archetypal life force and the instinctual Shadow within the collective unconscious. Raw meat represents primal impulses not yet integrated, while well-cooked meat signifies the digestion and integration of unconscious energies at the conscious level — a sign of individuation in progress. Jung deliberately avoided limiting meat dreams to sexuality, interpreting them more broadly as symbols of physical pleasure, emotional richness, and overall life vitality."
+    },
+    "modern": {
+      "korean": "현대 인지심리학과 신경과학 관점에서 고기 꿈은 신체적 욕구나 스트레스 상태를 반영하는 꿈으로 이해돼요. 다이어트 중이거나 영양 섭취가 부족할 때 음식 꿈을 꾸는 경우가 많으며, 에너지 보충에 대한 뇌의 신호일 수 있어요. 또한 삶의 중요한 전환점이나 새로운 도전을 앞두고 '힘'과 '자원'을 갈망하는 심리가 고기 이미지로 나타날 수 있다는 연구 결과도 있어요.",
+      "english": "From the perspective of modern cognitive psychology and neuroscience, meat dreams often reflect physical needs or states of stress. People on restrictive diets or experiencing nutritional deficiency commonly dream of food, which may be the brain signaling a need for replenishment. Research also suggests that at major life transitions or ahead of new challenges, a psychological craving for 'strength' and 'resources' can manifest as meat imagery in dreams."
+    },
+    "crossCultural": {
+      "korean": "한국 전통 꿈해몽이 고기를 주로 재물운과 풍요의 상징으로 해석하는 반면, 서양 심리학은 고기를 원초적 본능과 무의식적 욕구의 언어로 읽는 경향이 있어요. 두 관점 모두 고기가 '생명력'과 깊이 연결된 상징임을 공유하지만, 한국 해몽은 현실에서의 운세 변화에 초점을 맞추고 서양 해석은 내면의 심리 상태를 탐색하는 데 중점을 둡니다.",
+      "english": "While Korean traditional dream interpretation views meat primarily as a symbol of wealth and abundance in the material world, Western psychology tends to read it as the language of primal instinct and unconscious desire. Both perspectives share the view that meat is deeply linked to life force, but Korean dream interpretation focuses on predicting changes in real-world fortune while Western analysis centers on exploring the dreamer's inner psychological state."
+    }
+  },
+  "relatedSymbols": [
+    "pig",
+    "cow",
+    "chicken",
+    "fire",
+    "cooking",
+    "feast",
+    "market",
+    "blood",
+    "knife"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "고기꿈",
+      "고기 꿈해몽",
+      "고기 먹는 꿈",
+      "고기 굽는 꿈",
+      "생고기 꿈해몽",
+      "썩은 고기 꿈",
+      "소고기 꿈해몽",
+      "돼지고기 꿈해몽",
+      "고기 꿈 길몽",
+      "고기 꿈 흉몽",
+      "고기 꿈 의미",
+      "고기 받는 꿈",
+      "고기 자르는 꿈",
+      "고기 사는 꿈",
+      "닭고기 꿈해몽",
+      "고기 꿈 재물"
+    ],
+    "english": [
+      "meat dream meaning",
+      "dreaming of eating meat korean interpretation",
+      "raw meat dream meaning",
+      "grilling meat dream",
+      "beef dream korean",
+      "pork dream meaning",
+      "rotten meat dream interpretation",
+      "receiving meat in a dream",
+      "korean food dream interpretation",
+      "dream about cooking meat"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "고기 먹는 꿈은 길몽인가요 흉몽인가요?",
+      "answer_ko": "잘 익은 고기를 맛있게 먹는 꿈은 대표적인 길몽으로, 재물운 상승과 소원 성취를 예고합니다. 반면 생고기나 썩은 고기를 먹는 꿈은 건강 악화나 주변의 배신을 경고하는 흉몽으로 풀이됩니다. 즉, 고기의 상태와 어떻게 먹느냐에 따라 길흉이 결정됩니다.",
+      "question_en": "Is dreaming of eating meat an auspicious or inauspicious dream?",
+      "answer_en": "Eating well-cooked meat deliciously is a classic auspicious dream predicting rising fortune and wish fulfillment. However, eating raw or rotten meat is inauspicious, warning of health decline or betrayal from those around you. The key factor is the state of the meat and how it is consumed."
+    },
+    {
+      "question_ko": "소고기 꿈과 돼지고기 꿈은 의미가 다른가요?",
+      "answer_ko": "네, 다릅니다. 소고기를 먹는 꿈은 사업 성공이나 투자로 큰 재물을 얻게 될 강력한 길몽으로 풀이됩니다. 반면 돼지고기 꿈은 건강이 나빠지거나 유행성 질환에 걸릴 수 있다는 경고로 보는 해석이 많지만, 임신을 원하는 여성에게는 복이 많은 아이의 태몽으로 해석되기도 합니다.",
+      "question_en": "Do beef dreams and pork dreams have different meanings?",
+      "answer_en": "Yes, they differ. Dreaming of eating beef is a powerful auspicious omen predicting significant financial gain through business or investment. Pork dreams, by contrast, are often interpreted as warnings about health deterioration or contagious illness — though for women hoping to conceive, eating pork in a dream can be read as a positive pregnancy omen for a fortunate, healthy child."
+    },
+    {
+      "question_ko": "고기 굽는 꿈을 꾸면 어떤 의미인가요?",
+      "answer_ko": "고기를 굽는 꿈은 현재 에너지가 충만하고 노력이 결실을 맺을 시기가 왔음을 알리는 길몽입니다. 귀인의 도움으로 뜻밖의 기회와 좋은 재물운이 찾아올 수 있으며, 직장이나 사업에서 성과를 인정받을 신호이기도 합니다.",
+      "question_en": "What does it mean to dream of grilling meat?",
+      "answer_en": "Dreaming of grilling meat is an auspicious omen signaling that your energy is high and your efforts are about to yield good results. It suggests unexpected opportunities and financial fortune may arrive through a helpful person, and it can also signal that your achievements at work or in business will soon be recognized."
+    },
+    {
+      "question_ko": "생고기 꿈은 무조건 나쁜 꿈인가요?",
+      "answer_ko": "반드시 그렇지는 않습니다. 생고기가 풍성하게 쌓여 있는 꿈은 풍요와 기회의 상징으로 길몽으로 보기도 합니다. 하지만 생고기를 직접 먹는 꿈, 특히 냉동된 상태로 먹는 꿈은 주변에서 배신을 당하거나 건강이 나빠질 수 있다는 경고의 흉몽으로 풀이됩니다.",
+      "question_en": "Is a raw meat dream always a bad omen?",
+      "answer_en": "Not necessarily. Dreaming of seeing large piles of fresh raw meat is often considered auspicious, symbolizing abundance and opportunity. However, actually eating raw meat in the dream — especially if it is frozen — is interpreted as an inauspicious warning of potential betrayal by someone close to you or an approaching health problem."
+    },
+    {
+      "question_ko": "제사상에서 고기를 먹는 꿈은 무슨 의미인가요?",
+      "answer_ko": "제사상이나 잔칫상에서 고기를 나눠 먹는 꿈은 조상으로부터 보호와 축복을 받고 있다는 매우 좋은 길몽입니다. 재물운과 건강운이 함께 들어오며, 가족 간 화목이 이어질 것을 예고합니다.",
+      "question_en": "What does it mean to eat meat at an ancestral rite in a dream?",
+      "answer_en": "Eating meat at an ancestral rite table or feast in a dream is a strongly auspicious omen indicating that you are under the protection and blessings of your ancestors. It foretells incoming fortune in both finances and health, and signals continued harmony within the family."
+    },
+    {
+      "question_ko": "고기 꿈을 자주 꾸면 무슨 의미가 있나요?",
+      "answer_ko": "고기 꿈을 반복적으로 꾼다면, 현재 삶에서 에너지나 영양을 더 채워야 한다는 신체적 신호이거나, 재물이나 성취에 대한 강한 내면적 욕구가 꿈으로 표출되고 있을 가능성이 있습니다. 꿈 속 고기의 상태(익은 것, 생것, 썩은 것)에 따라 현재 운의 흐름을 가늠해 볼 수 있습니다.",
+      "question_en": "What does it mean if I frequently dream about meat?",
+      "answer_en": "Recurring meat dreams may signal a physical need for more energy or nourishment, or they may reflect a strong inner drive for material achievement and abundance. The state of the meat in the dream — cooked, raw, or spoiled — can serve as an indicator of the current flow of your fortune."
+    }
+  ]
+}

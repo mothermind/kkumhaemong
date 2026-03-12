@@ -1,0 +1,255 @@
+{
+  "symbol": {
+    "korean": "돈꿈",
+    "english": "Dream of Money",
+    "slug": "money-dream"
+  },
+  "summary": {
+    "korean": "돈꿈은 전통적으로 재물운, 횡재, 또는 현실의 금전적 욕구와 불안을 반영하는 꿈으로, 돈을 받거나 줍는 꿈은 길몽, 잃거나 도둑맞는 꿈은 흉몽으로 해석됩니다.",
+    "english": "Dreaming of money in Korean tradition reflects wealth luck, unexpected fortune, or deep financial anxieties — receiving or finding money is auspicious, while losing or being robbed of money signals misfortune."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "돈을 받는 꿈은 예상치 못한 곳에서 행운과 재물이 들어올 것을 암시하는 대표적인 길몽입니다. 특히 깨끗한 새 지폐를 뭉치로 받는 꿈일수록 더 큰 재물운이 따르며, 사업 성공, 승진, 또는 뜻밖의 수입과 연결됩니다.",
+      "english": "Dreaming of receiving money is one of the most auspicious omens, signaling unexpected wealth and good fortune. Crisp new bills received in large bundles amplify the effect, connecting to business success, promotions, or sudden windfalls.",
+      "context": "돈을 다른 사람에게 받는 상황, 특히 기분이 좋은 감정과 함께 꿈을 꿀 때"
+    },
+    {
+      "type": "길몽",
+      "korean": "돈을 줍는 꿈은 예로부터 아주 좋은 길몽으로 여겨집니다. 땅에서 지폐나 돈뭉치를 줍는 꿈은 횡재수나 뜻밖의 수입을 암시하며, 하고 있는 일이 순조롭게 풀릴 것을 예고합니다. 동전을 줍는 꿈은 작지만 꾸준한 이득을, 지폐를 줍는 꿈은 큰 기회나 성공을 의미합니다.",
+      "english": "Picking up money in a dream is considered a strong auspicious omen. Finding bills or a bundle of cash on the ground signals an unexpected windfall or fortunate opportunity. Picking up coins suggests small but steady gains, while finding paper bills points to major opportunities or success.",
+      "context": "길이나 땅에서 돈을 발견하고 기쁘게 줍는 상황"
+    },
+    {
+      "type": "길몽",
+      "korean": "하늘에서 지폐나 동전이 무수히 쏟아지는 꿈은 최고의 대길몽 중 하나로, 아주 큰 행운과 횡재를 예고합니다. 이 꿈을 꾼 뒤에는 복권이나 로또를 구매해보는 것도 나쁘지 않다고 전통 꿈해몽에서는 권합니다.",
+      "english": "Money raining down from the sky in abundance is considered one of the greatest auspicious dreams, forecasting extraordinary luck and a massive windfall. Traditional Korean dream interpretation even recommends buying a lottery ticket after such a dream.",
+      "context": "하늘에서 돈이 폭우처럼 쏟아지는 장면을 꿈꿀 때"
+    },
+    {
+      "type": "길몽",
+      "korean": "돈을 세는 꿈은 지금까지의 노력이 결실을 맺고 그 성과를 직접 확인하게 됨을 암시하는 길몽입니다. 풍요로운 삶을 향해 나아가고 있다는 긍정적인 신호로, 재정적인 안정과 성취감을 의미합니다.",
+      "english": "Counting money in a dream is an auspicious sign that one's hard work is about to bear fruit. It signals financial stability ahead and the satisfaction of seeing one's efforts rewarded — a positive indicator of abundance and achievement.",
+      "context": "꿈속에서 차분하게 돈을 세고 기분 좋게 확인하는 상황"
+    },
+    {
+      "type": "길몽",
+      "korean": "돈을 남에게 주는 꿈은 역설적으로 자신의 재물운이 상승하는 것을 암시하는 길몽입니다. 베풀수록 더 크게 돌아온다는 전통 사상이 반영되어 있으며, 사회적 지위 상승과 좋은 인연을 의미하기도 합니다.",
+      "english": "Giving money away in a dream paradoxically signals rising wealth luck. This reflects the traditional Korean belief that generosity returns multiplied — it can indicate social advancement, new alliances, and favorable relationships ahead.",
+      "context": "기쁘게 또는 자발적으로 다른 사람에게 돈을 건네주는 꿈"
+    },
+    {
+      "type": "흉몽",
+      "korean": "돈을 잃어버리는 꿈은 금전적 손실, 사업의 실패, 또는 소중한 기회를 놓치게 됨을 경고하는 흉몽입니다. 지갑을 잃어버리는 꿈은 특히 자신의 신분이나 신뢰를 잃는 상황과도 연결됩니다.",
+      "english": "Losing money in a dream warns of financial loss, business setbacks, or the squandering of an important opportunity. Losing a wallet specifically can signal damage to one's reputation or the loss of someone's trust.",
+      "context": "돈이나 지갑을 잃어버리고 당황하거나 슬픈 감정이 드는 꿈"
+    },
+    {
+      "type": "흉몽",
+      "korean": "돈을 도둑맞거나 강도당하는 꿈은 예상치 못한 큰 금전 손실이나 주변인으로부터의 배신을 경고하는 흉몽입니다. 소매치기를 당하는 꿈은 갑작스러운 지출이나 재정적 위기를 예고하기도 합니다.",
+      "english": "Being robbed or having money stolen in a dream is a strong warning of unexpected financial loss or betrayal by someone close. A pickpocket dream can also foreshadow sudden, unexpected expenses or a financial crisis.",
+      "context": "타인이 강제로 돈을 빼앗아 가거나 몰래 훔쳐 가는 상황"
+    },
+    {
+      "type": "흉몽",
+      "korean": "찢어지거나 더럽혀진 돈을 받거나 보는 꿈은 재물이 손상되고 지출이 크게 늘 것을 예고하는 흉몽입니다. 경제적 궁핍이나 기대했던 수입이 줄어드는 상황이 찾아올 수 있습니다.",
+      "english": "Receiving or finding torn or dirty money is an inauspicious sign forecasting damaged finances and rising expenses. It warns that expected income may fall short or that economic hardship is approaching.",
+      "context": "상태가 좋지 않은 돈, 찢어진 지폐 또는 더럽고 낡은 돈을 꿈에서 보거나 받을 때"
+    },
+    {
+      "type": "흉몽",
+      "korean": "위조지폐를 받거나 사용하는 꿈은 가까운 사람의 진심에 의심이 생기거나, 사기·기만에 연루될 위험을 경고합니다. 자신의 능력을 충분히 발휘하지 못하고 있다는 심리적 불안감을 반영하기도 합니다.",
+      "english": "Receiving or spending counterfeit money warns of deception or fraud risk — either someone around you is being insincere, or you may become entangled in a dishonest situation. It can also reflect inner anxiety about whether you are being authentic in your abilities.",
+      "context": "가짜 돈인 줄 알면서도 받거나 사용하는 상황, 또는 나중에 위조지폐임을 알게 되는 꿈"
+    },
+    {
+      "type": "neutral",
+      "korean": "돈을 빌리는 꿈은 현실에서 재정적인 막막함이나 다른 사람의 도움이 필요한 상황을 반영합니다. 심리적 불안과 금전적 걱정이 꿈으로 표출된 것으로, 현재 상황을 점검하고 계획을 세워야 할 시점임을 암시합니다.",
+      "english": "Dreaming of borrowing money reflects a feeling of financial helplessness or a need for external support in waking life. It is often a direct expression of real financial stress, signaling the need to review one's situation and make practical plans.",
+      "context": "꿈속에서 다른 사람에게 돈을 빌리는 상황"
+    },
+    {
+      "type": "neutral",
+      "korean": "돈을 버리는 꿈은 금전운이 갑자기 상승할 것을 암시하는 길한 신호일 수 있지만, 자영업자나 사업가에게는 일시적인 재산 손실을 경고하기도 합니다. 꿈속 감정과 상황에 따라 해석이 달라지는 중립적 꿈입니다.",
+      "english": "Throwing money away can paradoxically signal a sudden rise in financial luck, but may also warn self-employed individuals or business owners of temporary property or income loss. The meaning depends heavily on the emotions and context within the dream.",
+      "context": "자발적으로 또는 어쩔 수 없이 돈을 버리는 상황"
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "돈 받는 꿈",
+      "keyword_en": "dream of receiving money",
+      "interpretation_ko": "예상치 못한 행운이 찾아올 것을 암시하는 길몽입니다. 새 지폐를 많이 받을수록 더욱 강한 재물운을 뜻하며, 직장에서의 승진이나 사업 성공을 예고합니다.",
+      "interpretation_en": "A classic auspicious dream foretelling unexpected good fortune. The newer and more plentiful the bills, the stronger the wealth omen — often connected to career advancement or business success."
+    },
+    {
+      "keyword_ko": "돈 줍는 꿈",
+      "keyword_en": "dream of finding / picking up money",
+      "interpretation_ko": "땅에서 돈을 줍는 꿈은 횡재나 뜻밖의 수입을 예고하는 대길몽입니다. 복권 구매도 긍정적으로 고려해 볼 수 있는 꿈으로 꼽힙니다.",
+      "interpretation_en": "Finding money on the ground is considered a major auspicious dream foreshadowing a windfall or unexpected income. Many Korean dream sources specifically suggest buying a lottery ticket after this dream."
+    },
+    {
+      "keyword_ko": "돈뭉치 꿈",
+      "keyword_en": "dream of a bundle / wad of money",
+      "interpretation_ko": "돈뭉치를 받거나 줍는 꿈은 재산이 크게 불어날 것을 암시하는 강력한 길몽입니다. 공공기관이나 사회적 네트워크를 통해 큰 재물을 다루게 될 기회가 생길 수도 있습니다.",
+      "interpretation_en": "Dreaming of bundles of cash is a powerful auspicious sign that wealth will accumulate substantially. It may also indicate the opportunity to manage or handle large sums through institutional or social channels."
+    },
+    {
+      "keyword_ko": "동전 꿈",
+      "keyword_en": "dream of coins",
+      "interpretation_ko": "동전이 쌓여 있는 꿈은 예로부터 길한 꿈으로, 하고 있는 일의 장애물이 제거되고 목표를 이루게 됨을 뜻합니다. 다만 동전이 조금씩 하늘에서 떨어지는 꿈은 걱정거리가 생길 수 있는 흉몽이기도 합니다.",
+      "interpretation_en": "A stack of coins in a dream is traditionally auspicious, suggesting obstacles will clear and goals will be achieved. However, a few coins falling slowly from the sky can warn of upcoming worries or minor household misfortune."
+    },
+    {
+      "keyword_ko": "지폐 꿈",
+      "keyword_en": "dream of paper bills / banknotes",
+      "interpretation_ko": "지폐는 동전보다 더 크고 명예로운 성취를 상징합니다. 새 지폐를 받는 꿈은 새로운 만남이나 기회를 의미하며, 주머니에 지폐가 가득한 꿈은 큰 재물과 사회적 인정을 예고합니다.",
+      "interpretation_en": "Paper bills represent larger-scale achievements and social recognition compared to coins. Receiving fresh bills signals new encounters or opportunities, while pockets full of bills forecasts substantial wealth and elevated status."
+    },
+    {
+      "keyword_ko": "하늘에서 돈이 떨어지는 꿈",
+      "keyword_en": "dream of money falling from the sky",
+      "interpretation_ko": "하늘에서 돈이 폭우처럼 무수히 쏟아지는 꿈은 대길몽 중 대길몽으로, 큰 횡재와 행운을 예고합니다. 반면 동전이나 지폐가 조금씩 떨어지는 꿈은 집안에 걱정거리가 생길 수 있는 흉몽입니다.",
+      "interpretation_en": "Money pouring from the sky like heavy rain is among the most auspicious dreams, heralding extraordinary luck and a windfall. In contrast, only a few coins or bills drifting slowly down warns of household worries or minor setbacks."
+    },
+    {
+      "keyword_ko": "돈 잃어버리는 꿈",
+      "keyword_en": "dream of losing money",
+      "interpretation_ko": "돈을 잃어버리는 꿈은 금전 손실, 사업의 차질, 또는 소중한 기회를 놓치게 됨을 경고합니다. 지갑을 잃어버리는 꿈은 신뢰나 신분 상의 손상을 의미하기도 합니다.",
+      "interpretation_en": "Losing money in a dream warns of financial loss, project delays, or missing an important opportunity. Losing a wallet specifically can signal damage to one's credibility or personal identity."
+    },
+    {
+      "keyword_ko": "돈 도둑맞는 꿈",
+      "keyword_en": "dream of money being stolen",
+      "interpretation_ko": "돈을 도둑맞는 꿈은 예상치 못한 큰 손실이나 주변인의 배신을 경고하는 흉몽입니다. 대인관계에서 신뢰를 잃거나 감정적으로 상처받을 가능성을 암시합니다.",
+      "interpretation_en": "Having money stolen in a dream warns of unexpected major loss or betrayal by someone in your circle. It also suggests the possibility of losing trust or being emotionally hurt in a close relationship."
+    },
+    {
+      "keyword_ko": "돈 세는 꿈",
+      "keyword_en": "dream of counting money",
+      "interpretation_ko": "돈을 차분하게 세는 꿈은 노력의 결실이 가시화되는 길몽입니다. 반면 강박적으로 돈을 세는 꿈은 낭비 성향이나 재정 관리에 대한 경고를 담고 있기도 합니다.",
+      "interpretation_en": "Calmly counting money signals that efforts are about to pay off — an auspicious sign of prosperity. However, obsessively counting in a frantic manner may warn of wasteful spending habits or anxiety about financial management."
+    },
+    {
+      "keyword_ko": "위조지폐 꿈",
+      "keyword_en": "dream of counterfeit money",
+      "interpretation_ko": "위조지폐를 받거나 사용하는 꿈은 주변의 기만이나 사기에 주의해야 한다는 경고입니다. 가까운 관계에서 진심이 아닌 행동이나 숨겨진 의도를 경계해야 할 시점임을 암시합니다.",
+      "interpretation_en": "Receiving or handling counterfeit money warns of deception — someone around you may not be acting in good faith, or you could be drawn into a fraudulent situation. It urges heightened vigilance in personal and financial dealings."
+    },
+    {
+      "keyword_ko": "돈 주는 꿈",
+      "keyword_en": "dream of giving money away",
+      "interpretation_ko": "꿈에서 남에게 돈을 주는 것은 역설적으로 자신의 재물운이 상승함을 암시하는 길몽입니다. 사회적 신망이 높아지거나 귀인을 만날 것을 예고하기도 합니다.",
+      "interpretation_en": "Giving money to others in a dream paradoxically signals a rise in your own wealth luck. It can also foretell an increase in social standing or an encounter with a helpful and influential person."
+    },
+    {
+      "keyword_ko": "돈을 불태우는 꿈",
+      "keyword_en": "dream of burning money",
+      "interpretation_ko": "돈이 불타는 꿈은 과거의 집착이나 구속에서 벗어나 새로운 출발을 맞이하게 됨을 상징합니다. 역설적으로 금전적 해방과 새로운 기회의 시작을 의미하는 길몽으로 해석되기도 합니다.",
+      "interpretation_en": "Money burning in a dream symbolizes release from past attachments or obligations, and the beginning of a fresh start. It is paradoxically interpreted as an auspicious sign of financial liberation and the opening of new opportunities."
+    }
+  ],
+  "culturalContext": {
+    "korean": "한국 전통 꿈해몽에서 돈은 단순한 화폐를 넘어 복(福), 재물(財物), 그리고 삶의 생기를 상징하는 강력한 꿈 소재입니다. 무속신앙(巫俗信仰)에서는 재물신(財物神)이나 업신(業神)이 집안에 복을 가져다준다고 믿었으며, 꿈에서 돈이나 귀한 물건이 들어오는 것은 신령의 은혜가 내리는 길조로 여겨졌습니다. 삼국 시대부터 꿈의 해석이 왕실과 민중 모두에게 중요한 의례적 행위였으며, 같은 꿈도 해몽가에 따라 길흉 해석이 달라질 수 있다는 유연한 전통이 있었습니다. 현대에도 돈꿈은 로또, 복권과 결부되어 폭발적인 관심을 받으며, 돈을 받거나 줍는 꿈을 꾼 날에 복권을 사는 문화가 자연스럽게 이어지고 있습니다.",
+    "english": "In Korean traditional dream interpretation, money represents far more than currency — it is a symbol of 복 (fortune, blessing), 재물 (material prosperity), and vital life energy. Korean shamanism (무속 신앙) held beliefs in wealth deities (재물신) and household spirit protectors (업신) who could bring abundance into the home, and dreams of money entering were read as signs of divine favor. Dream interpretation has been a meaningful cultural practice since at least the Three Kingdoms period, with records of royal figures having their dreams read as omens. The tradition is notably flexible — the same dream could be interpreted as auspicious or inauspicious depending on context and the interpreter's reading. In contemporary Korean culture, money dreams remain intimately connected to lottery tickets (로또/복권): it is widespread custom to buy a lottery ticket on the day one has an especially vivid wealth dream."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트는 꿈을 억압된 무의식적 욕망이 위장된 형태로 표출되는 통로로 보았어요. 돈에 관한 꿈은 단순한 부(富)에 대한 소망 충족일 수도 있지만, 프로이트의 관점에서는 돈이 권력, 지배, 또는 성적 에너지의 상징으로 읽히기도 해요. 돈을 잃어버리거나 도둑맞는 꿈은 자아(ego)가 현실의 불안을 꿈으로 처리하는 방식이며, 무의식 속의 두려움이나 죄책감이 투영된 것으로 해석될 수 있어요.",
+      "english": "Freud saw dreams as disguised expressions of repressed unconscious desires, using symbolism to bypass the mind's censors. Dreams of money can represent straightforward wish fulfillment — a desire for wealth or security — but in Freudian terms, money also symbolizes power, control, or libidinal energy. Losing or having money stolen may reflect the ego's anxiety processing, projecting repressed fears or guilt about one's desires into dream imagery."
+    },
+    "jungian": {
+      "korean": "융은 꿈을 자아(self)의 통합을 향한 무의식의 메시지로 이해했어요. 돈 꿈에서의 돈은 개인적인 가치(self-worth)와 자신감의 원형적 상징으로 볼 수 있어요. 돈을 줍는 꿈은 자신의 잠재력을 발견하는 개성화(individuation) 과정의 반영일 수 있고, 돈을 잃는 꿈은 그림자(shadow) — 즉 억압된 열등감이나 무력감 — 가 의식 표면으로 올라오는 신호일 수 있어요. 융의 관점에서 돈은 집단무의식 속 '가치와 교환'이라는 보편적 원형과 연결됩니다.",
+      "english": "Jung understood dreams as messages from the unconscious guiding the individual toward wholeness and self-integration. In Jungian terms, money in dreams is an archetypal symbol of self-worth and personal value. Picking up money may reflect the individuation process — discovering latent talents or inner resources — while losing money can signal the shadow archetype rising: repressed feelings of inadequacy or powerlessness surfacing into consciousness. Across the collective unconscious, money represents the universal archetype of value and exchange."
+    },
+    "modern": {
+      "korean": "현대 인지심리학과 뇌과학에서는 돈 꿈을 낮 동안 쌓인 금전적 스트레스나 불안이 수면 중에 처리되는 과정으로 봐요. 경제적 불확실성이 클수록 돈을 잃거나 쫓기는 꿈을 더 자주 꾸게 되며, 반대로 목표를 향해 나아가고 있을 때는 돈을 받거나 줍는 긍정적인 꿈이 많아진다는 연구도 있어요. 꿈은 기억을 재편하고 감정을 조절하는 뇌의 야간 처리 시스템이기에, 돈 꿈은 현재 자신의 재정적·심리적 상태를 그대로 반영하는 거울 같은 역할을 해요.",
+      "english": "Modern cognitive psychology and neuroscience view money dreams as the brain processing financial stress and anxiety accumulated during waking hours. Research suggests that higher levels of economic uncertainty correlate with more dreams of losing money or being chased for debts, while progress toward personal goals tends to produce positive wealth dreams. As the brain uses sleep to consolidate memories and regulate emotion, money dreams act as a nightly mirror of one's real financial and psychological state."
+    },
+    "crossCultural": {
+      "korean": "한국 전통 꿈해몽이 돈꿈을 신(神)이나 우주가 보내는 길흉의 메시지로 보는 반면, 서양 심리학은 이를 개인 내면의 욕망이나 불안이 반영된 것으로 해석해요. 흥미롭게도 두 전통 모두 '돈을 잃는 꿈은 부정적, 받는 꿈은 긍정적'이라는 직관적 해석에서는 일치하는 경향을 보입니다.",
+      "english": "Where Korean dream tradition reads money dreams as cosmic or divine messages about fortune, Western psychology interprets them as projections of the dreamer's internal anxieties and desires. Interestingly, both traditions converge on an intuitive baseline: losing money is a negative omen or signal, while receiving or finding it is a positive one."
+    }
+  },
+  "relatedSymbols": [
+    "pig",
+    "gold",
+    "lottery",
+    "wallet",
+    "dragon",
+    "feces",
+    "treasure",
+    "ancestor"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "돈꿈",
+      "돈꿈 해몽",
+      "돈 꿈해몽",
+      "돈 받는 꿈",
+      "돈 줍는 꿈",
+      "돈뭉치 꿈",
+      "돈꿈 길몽 흉몽",
+      "돈꿈 로또",
+      "하늘에서 돈 떨어지는 꿈",
+      "돈 잃어버리는 꿈",
+      "돈 도둑맞는 꿈",
+      "위조지폐 꿈",
+      "동전 꿈 해몽",
+      "지폐 꿈 해몽",
+      "돈꿈 의미",
+      "돈꿈 복권"
+    ],
+    "english": [
+      "dream of money meaning",
+      "money dream Korean interpretation",
+      "receiving money dream meaning",
+      "finding money dream Korean",
+      "dream about money bundles",
+      "losing money in a dream meaning",
+      "Korean money dream auspicious",
+      "money falling from sky dream",
+      "counterfeit money dream meaning",
+      "dream about being robbed of money"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "돈 받는 꿈을 꾸면 정말 돈이 생기나요?",
+      "answer_ko": "전통 꿈해몽에서 돈을 받는 꿈은 대표적인 길몽으로, 뜻밖의 수입이나 재물운이 상승할 것을 암시합니다. 물론 꿈이 현실을 보장하지는 않지만, 이런 꿈을 꾼 날은 긍정적인 마음으로 새로운 기회에 열린 자세를 가져보는 것이 좋겠어요.",
+      "question_en": "Does dreaming of receiving money mean I'll actually get money?",
+      "answer_en": "In Korean traditional dream interpretation, receiving money is a classic auspicious omen signaling rising wealth luck or an unexpected windfall. While dreams don't guarantee real-world outcomes, such a dream is traditionally seen as an encouraging sign — a good day to stay alert to opportunities."
+    },
+    {
+      "question_ko": "돈꿈을 꾸면 로또를 사야 하나요?",
+      "answer_ko": "전통 꿈해몽에서는 특히 하늘에서 돈이 폭우처럼 쏟아지거나 땅에서 돈뭉치를 줍는 꿈을 꿨을 때 복권 구매를 긍정적으로 권합니다. 모든 돈꿈이 복권 당첨을 보장하지는 않지만, 기분 좋은 재물 꿈을 꾼 날 복권 한 장 사보는 것은 우리나라 사람들이 자연스럽게 이어온 문화예요.",
+      "question_en": "Should I buy a lottery ticket after dreaming about money?",
+      "answer_en": "Korean dream interpretation specifically recommends buying a lottery ticket after dreaming of money raining from the sky or picking up a large bundle of cash — these are considered among the strongest auspicious omens. Not every money dream guarantees a win, but buying a ticket on a vivid wealth dream day is a well-established cultural tradition in Korea."
+    },
+    {
+      "question_ko": "돈을 잃어버리는 꿈은 무조건 나쁜 꿈인가요?",
+      "answer_ko": "일반적으로 돈을 잃는 꿈은 금전 손실이나 기회 상실을 경고하는 흉몽으로 해석됩니다. 다만, 일부 해몽 전통에서는 꿈속 돈 손실이 오히려 현실에서의 이득을 암시하는 '역몽(逆夢)'으로 풀이되는 경우도 있어요. 꿈속에서 어떤 감정을 느꼈는지, 어떤 상황에서 돈을 잃었는지를 함께 살펴보는 것이 중요합니다.",
+      "question_en": "Is dreaming of losing money always a bad omen?",
+      "answer_en": "Losing money in a dream is generally interpreted as a warning of financial loss or missed opportunity. However, some Korean dream interpretation traditions recognize the concept of 역몽 (reverse dream), where losing something in a dream actually foretells gaining it in reality. The key is to examine the emotions and context within the dream — anxiety and distress tend to confirm the negative reading, while calm or indifference might shift the interpretation."
+    },
+    {
+      "question_ko": "돈꿈 중에서 가장 길한 꿈은 무엇인가요?",
+      "answer_ko": "가장 강력한 재물 길몽으로는 하늘에서 돈이 폭우처럼 쏟아지는 꿈, 땅에서 큰 돈뭉치를 줍는 꿈, 조상이나 신령으로부터 돈을 받는 꿈이 꼽힙니다. 깨끗하고 새 지폐를 대량으로 받는 꿈도 강한 재물운을 상징하는 대길몽으로 여겨집니다.",
+      "question_en": "Which money dream is considered the most auspicious?",
+      "answer_en": "The most powerfully auspicious money dreams are: money pouring down like rain from the sky, picking up a large bundle of cash from the ground, and receiving money from an ancestor or a divine figure. Receiving a large amount of crisp, new bills is also considered one of the strongest wealth omens."
+    },
+    {
+      "question_ko": "위조지폐가 나오는 꿈은 무슨 의미인가요?",
+      "answer_ko": "위조지폐 꿈은 주변에서 진심이 아닌 사람이 있거나, 사기나 기만에 연루될 위험을 경고하는 꿈입니다. 중요한 계약이나 거래를 앞두고 있다면 상대방의 의도를 꼼꼼히 살펴보는 것이 좋습니다.",
+      "question_en": "What does it mean to dream about counterfeit money?",
+      "answer_en": "A counterfeit money dream warns of deception in your environment — someone close to you may not be acting in good faith, or you could be at risk of being drawn into fraud. If you have important contracts or deals coming up, this dream urges careful scrutiny of the other party's intentions."
+    },
+    {
+      "question_ko": "돈을 남에게 주는 꿈은 왜 길몽인가요?",
+      "answer_ko": "한국 전통 해몽에서는 꿈속의 행위가 현실에서 반대로 나타나는 '역몽' 원리가 적용되는 경우가 있습니다. 또한 베풀면 더 크게 돌아온다는 동양적 가치관이 반영되어, 남에게 돈을 주는 꿈은 자신의 사회적 신망이 높아지거나 더 큰 재물이 들어올 것을 상징하는 길몽으로 해석됩니다.",
+      "question_en": "Why is giving money away in a dream considered auspicious?",
+      "answer_en": "In Korean dream tradition, the 역몽 (reverse dream) principle sometimes applies — an action in a dream can foretell the opposite outcome in reality. Additionally, the Confucian and folk value of generosity returning multiplied is embedded in this interpretation: giving freely in a dream signals that greater wealth and social recognition will flow back to you."
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "symbol": {
+    "korean": "악몽",
+    "english": "Nightmare",
+    "slug": "nightmare-dream"
+  },
+  "summary": {
+    "korean": "악몽 꿈은 단순한 공포의 경험을 넘어 현실의 억압된 불안과 해결되지 않은 갈등을 드러내는 무의식의 경고 신호로, 때로는 변화를 앞둔 반전 길몽으로 해석되기도 합니다.",
+    "english": "Dreaming of nightmares is interpreted in Korean tradition as an urgent signal from the unconscious — reflecting suppressed anxiety and unresolved conflict — and can paradoxically serve as an auspicious omen heralding positive change."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "악몽을 꾸고 깨어난 뒤 두려움이 빠르게 가시는 꿈은 전통 해몽에서 전화위복의 징조로 봅니다. 한국 민간에서는 '꿈은 반대'라는 역몽(逆夢) 원칙이 널리 통용되어, 꿈속에서 극도로 무서운 경험을 할수록 현실에서는 예상치 못한 행운이나 좋은 소식이 찾아온다고 믿었습니다. 특히 꿈속에서 귀신이나 악령과 싸워 이기는 악몽은 건강 회복과 장수, 시련의 극복을 상징하는 대표적인 길몽으로 여겨졌습니다.",
+      "english": "In Korean folk interpretation, waking from a nightmare with rapidly fading fear is seen as a harbinger of a fortunate reversal. The widespread 'reversal principle' (역몽) holds that the more terrifying the dream experience, the greater the real-life blessing awaiting the dreamer. Nightmares in which the dreamer fights and defeats ghosts or malevolent spirits are considered especially auspicious, symbolizing restored health, longevity, and successful overcoming of hardship.",
+      "context": "Applies when the dreamer wakes frightened but the fear dissipates quickly, or when the dreamer defeats threatening figures within the nightmare. The reversal principle (역몽) is the key interpretive frame."
+    },
+    {
+      "type": "흉몽",
+      "korean": "귀신이나 악령에게 쫓기다 잡히는 악몽, 또는 높은 곳에서 떨어지다 바닥에 부딪히는 꿈은 전통적으로 건강 악화, 사업 실패, 인간관계의 갑작스러운 붕괴를 예고하는 흉몽으로 해석됩니다. 가위눌리는 꿈(수면 마비 악몽)은 극도의 육체적·정신적 소진 상태를 반영하며 중병의 전조로 여겨졌습니다. 망자나 귀신에게 끌려가는 꿈, 물귀신이 붙잡는 꿈은 익사·사고의 위험을 경고하는 심각한 흉몽으로 전해집니다.",
+      "english": "Nightmares in which the dreamer is caught by ghosts or demons, or in which falling results in a ground impact, are traditionally read as inauspicious omens warning of health decline, business failure, or sudden breakdown in relationships. Sleep paralysis nightmares reflect extreme physical and mental exhaustion and were historically treated as harbingers of serious illness. Dreams of being dragged away by the deceased or seized by water spirits carry severe warnings of accident, particularly drowning.",
+      "context": "Applies when the dreamer is overpowered, captured, or dragged by threatening entities; when sleep paralysis accompanies the nightmare; or when the nightmare involves water spirits. These are read as genuine warnings rather than symbolic reversals."
+    },
+    {
+      "type": "neutral",
+      "korean": "악몽의 내용이 일상적인 불안(시험, 지각, 낯선 장소에서 길을 잃는 꿈)을 반영할 때는 특정 길흉을 판단하기보다, 현재 꿈꾸는 사람이 처한 심리적 압박을 그대로 드러내는 거울로 해석합니다. 이러한 악몽은 현실에서 해결하지 못한 문제나 대인 갈등이 수면 중에 표출된 것이며, 흉한 예언이라기보다 자신의 내면 상태를 점검하라는 신호로 받아들이는 것이 적절합니다. 반복적으로 같은 악몽을 꾼다면 무의식이 특정 과제를 해결하도록 촉구하는 것으로 볼 수 있습니다.",
+      "english": "When nightmare content reflects everyday anxieties — being late for an exam, getting lost in an unfamiliar place, or feeling helplessly stuck — the interpretation is not one of specific fortune or misfortune, but rather a mirror of the dreamer's current psychological state. These nightmares reflect unresolved real-life problems or interpersonal tensions surfacing during sleep; they are best received as prompts for self-examination rather than ominous prophecies. Recurring nightmares of the same theme signal that the unconscious is urgently requesting resolution of a specific unaddressed issue.",
+      "context": "Applies to anxiety-driven nightmare content rooted in recognizable daily stressors: performance anxiety, fear of failure, social conflict, or life transitions such as job changes or relocation. Interpretation is context-dependent and highly personal."
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "귀신에게 쫓기는 악몽",
+      "keyword_en": "nightmare of being chased by a ghost",
+      "interpretation_ko": "귀신이나 악령에게 쫓기는 꿈은 현재 해결하지 못한 심리적 갈등이나 회피하고 싶은 현실 문제가 있다는 신호입니다. 잡히지 않고 도망치거나 귀신을 물리치면 어려움을 극복할 힘이 있다는 뜻이며, 잡히는 꿈은 건강 악화와 사업상 장애를 경고합니다.",
+      "interpretation_en": "Being chased by a ghost or evil spirit signals unresolved psychological conflict or a real-life problem the dreamer is actively avoiding. Escaping or defeating the ghost indicates inner strength to overcome difficulties; being caught warns of health deterioration and obstacles in ongoing endeavors."
+    },
+    {
+      "keyword_ko": "높은 곳에서 떨어지는 악몽",
+      "keyword_en": "nightmare of falling from a great height",
+      "interpretation_ko": "높은 곳에서 떨어지는 꿈은 자존심 상하는 일이나 목표 달성 실패에 대한 두려움을 반영합니다. 바닥에 닿기 전에 깨어나면 위기를 피할 수 있다는 암시이며, 바닥에 부딪히는 꿈은 사회적 체면 손상이나 지위 하락을 예고하는 흉몽으로 봅니다.",
+      "interpretation_en": "Falling nightmares reflect wounded pride and fear of failure to achieve goals. Waking before impact suggests the dreamer will avert the crisis; hitting the ground in the dream warns of social humiliation or a fall in status."
+    },
+    {
+      "keyword_ko": "반복되는 악몽",
+      "keyword_en": "recurring nightmare",
+      "interpretation_ko": "같은 내용의 악몽이 반복된다면 무의식이 해결되지 않은 과제나 감정을 계속해서 표면으로 올려보내는 것입니다. 반복성이 강할수록 심리적 긴장의 강도가 높다는 뜻이며, 스스로 인식하고 풀어내야 할 내면의 핵심 갈등이 존재함을 나타냅니다.",
+      "interpretation_en": "A recurring nightmare indicates the unconscious mind repeatedly surfacing an unresolved task or unprocessed emotion. The higher the recurrence frequency, the greater the underlying psychological tension — pointing to a core internal conflict that demands conscious recognition and resolution."
+    },
+    {
+      "keyword_ko": "가위눌리는 악몽",
+      "keyword_en": "sleep paralysis nightmare",
+      "interpretation_ko": "가위눌림을 동반한 악몽은 전통 해몽에서 육체적·정신적 에너지가 극도로 소진된 상태를 반영하며 건강의 적신호로 봅니다. 민간에서는 악귀나 이미 세상을 떠난 이의 기운이 눌러 오는 것이라 믿기도 했으며, 현대적으로는 과도한 스트레스와 수면 장애의 신호로 해석합니다.",
+      "interpretation_en": "Sleep paralysis nightmares are traditionally viewed as a serious health warning, reflecting extreme depletion of physical and mental energy. Korean folk belief sometimes attributed these experiences to the presence of malevolent spirits or deceased ancestors; in modern terms, they indicate severe stress and disordered sleep requiring attention."
+    },
+    {
+      "keyword_ko": "죽는 악몽",
+      "keyword_en": "nightmare of dying",
+      "interpretation_ko": "꿈속에서 자신이 죽는 악몽은 역설적으로 새로운 시작과 변화를 상징하는 경우가 많습니다. 한국 전통 해몽에서 죽음의 꿈은 낡은 것이 끝나고 새로운 국면이 열린다는 뜻으로, 재물운·건강·대인관계가 호전되는 신호로 풀이되기도 합니다. 다만 타인에게 살해당하거나 도주하지 못하는 꿈은 대인관계에서 외부 압력이나 배신의 위협을 경고합니다.",
+      "interpretation_en": "Dying in a nightmare is paradoxically often interpreted as a symbol of new beginnings and positive change in Korean tradition. The death of the self in a dream signals the close of an old chapter and the opening of a new phase, frequently associated with improving finances, health, and relationships. However, being murdered or unable to escape represents a warning of external pressure or betrayal in personal relationships."
+    },
+    {
+      "keyword_ko": "물귀신에게 잡히는 악몽",
+      "keyword_en": "nightmare of being seized by a water spirit",
+      "interpretation_ko": "물귀신(익사한 영혼)이 꿈에 나타나 잡아끄는 악몽은 한국 민간신앙에서 실제 익사 사고에 대한 강력한 경고로 여겨집니다. 이 꿈을 꾼 뒤에는 당분간 강이나 바다를 피하고 몸을 조심하라는 뜻으로 해석합니다.",
+      "interpretation_en": "Nightmares in which a water spirit (the soul of someone who drowned) seizes and drags the dreamer are taken very seriously in Korean folk belief as a direct warning against drowning or water-related accidents. After such a dream, people are traditionally advised to avoid rivers and the ocean for a period and to exercise caution."
+    },
+    {
+      "keyword_ko": "시험을 망치는 악몽",
+      "keyword_en": "nightmare of failing an exam",
+      "interpretation_ko": "시험에서 실패하거나 아무것도 모르는 채 시험지를 받는 악몽은 현실에서 평가받거나 중요한 일을 앞두고 있을 때 자주 나타납니다. 이는 특정 미래의 흉을 예고하는 것이 아니라 현재의 불안과 완벽주의적 압박이 반영된 것으로, 주변의 도움을 구하거나 충분히 준비함으로써 해소할 수 있습니다.",
+      "interpretation_en": "Nightmares of failing or being unprepared for an exam typically arise when the dreamer faces imminent evaluation or high-stakes situations in waking life. Rather than predicting a specific misfortune, this nightmare reflects current anxiety and perfectionist pressure — and can be resolved by seeking help and building adequate preparation."
+    },
+    {
+      "keyword_ko": "귀신과 싸워 이기는 악몽",
+      "keyword_en": "nightmare of fighting and defeating a ghost",
+      "interpretation_ko": "공포스러운 귀신이나 악령이 등장하는 꿈이라도 꿈속에서 이를 물리치거나 맞서 싸워 이기는 꿈은 건강 회복, 수명 연장, 어려움 극복의 길몽으로 해석됩니다. 싸워도 결판이 나지 않는 꿈 역시 강인한 체력과 장수를 상징한다고 봅니다.",
+      "interpretation_en": "Despite the frightening content, nightmares in which the dreamer successfully fights and defeats a ghost or malevolent spirit are interpreted as auspicious — symbolizing restored health, extended lifespan, and eventual triumph over hardship. Even an inconclusive battle with a ghost is seen as a positive sign of physical robustness and longevity."
+    }
+  ],
+  "culturalContext": {
+    "korean": "한국에서 꿈은 삼국시대부터 신의 계시나 미래의 전조로 여겨져 왔으며, 악몽도 예외가 아닙니다. 『삼국유사(三國遺事)』에는 꿈이 길흉 판단과 국정 결정에 중요한 역할을 했다는 기록이 남아 있으며, 무속 신화인 「바리공주」와 「제석본풀이」에도 꿈이 신의 뜻을 전달하는 매개로 등장합니다. 악몽은 민간에서 '몽조(夢兆)'라 불리며, 단순히 불쾌한 꿈이 아니라 앞으로 다가올 재앙이나 위험에 대한 신(神)·조상·자연의 경고로 받아들여졌습니다. 특히 가위눌림(수면 마비)과 물귀신 꿈은 실제 위험의 예고로 여겨 외출을 삼가거나 부적을 몸에 지니는 풍습이 있었습니다. 한편으로 한국 해몽에는 '역몽(逆夢)' 원칙이 강하게 작용하는데, 무서운 꿈일수록 현실에서는 좋은 일이 생긴다는 믿음이 서민층에 폭넓게 퍼져 있어, 악몽을 꾸고도 '오늘 좋은 일이 생기려나 보다'라고 긍정적으로 받아들이는 태도가 공존해 왔습니다.",
+    "english": "In Korean culture, dreams have been regarded as divine messages or portents of the future since the Three Kingdoms period, and nightmares are no exception. The Samguk Yusa records dream interpretation as central to royal decision-making and assessments of fortune. Shamanistic myths such as Bari Gongju and Jeseok Bonpuri present dreams as channels through which deities communicate their will. Nightmares — known as 'mongjio (夢兆)' — were received not merely as unpleasant sleep disturbances but as warnings from the spirits, ancestors, or natural forces of approaching calamity or danger. Sleep paralysis nightmares and water spirit dreams were taken seriously enough to prompt folk precautions such as avoiding travel, wearing protective charms (부적), or consulting a mudang (shaman). At the same time, the 'reversal principle' (역몽) runs deeply through Korean popular belief: the more terrifying the dream, the better the fortune awaiting in waking life — so even after a nightmare, many Koreans would say, 'Something good must be coming today.'"
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트는 악몽을 '꿈 작업(dream work)'의 실패로 설명했어요. 평소 억압된 욕망이나 두려움이 자아(ego)의 검열을 완전히 통과하지 못할 때, 왜곡되지 않은 날것의 불안이 꿈에 그대로 분출된다고 봤습니다. 즉, 악몽의 공포는 무의식 깊은 곳에 억눌려 있던 충동이나 죄책감이 표면으로 뚫고 올라오는 순간의 충격이에요. 프로이트의 제자 어니스트 존스(Ernest Jones)는 악몽이 강렬한 욕망과 그에 못지않게 강력한 억압 사이의 충돌에서 비롯된다고 결론지었습니다.",
+      "english": "Freud explained nightmares as failures of the 'dream work' mechanism. When deeply repressed desires or fears cannot be sufficiently disguised by the ego's censorship, raw, undisguised anxiety erupts directly into the dream. The terror of the nightmare is thus the shock of an unconscious impulse or buried guilt breaking through to awareness. Freud's student Ernest Jones concluded that nightmares arise from a clash between a powerful wish and an equally powerful repression."
+    },
+    "jungian": {
+      "korean": "융(Jung)은 악몽을 집단 무의식에 있는 '그림자(Shadow)' 원형이 표면으로 떠오르는 현상으로 해석했어요. 그림자는 의식이 인정하지 않으려 하는 자신의 어두운 측면으로, 충분히 통합되지 않았을 때 괴물·귀신·쫓아오는 존재 등의 형태로 꿈에 나타납니다. 융의 관점에서 악몽은 단순한 공포가 아니라, 자기(Self) 전체를 향한 여정에서 반드시 직면하고 통합해야 할 내면의 메시지예요. 반복적인 악몽일수록 그림자가 더 강하게 주의를 요구하고 있다는 신호입니다.",
+      "english": "Jung interpreted nightmares as manifestations of the Shadow archetype from the collective unconscious breaking into awareness. The Shadow — the dark, unacknowledged aspects of the self — appears in dreams as monsters, ghosts, or pursuing figures when it has not been sufficiently integrated into consciousness. From a Jungian perspective, nightmares are not merely frightening experiences but urgent messages demanding that the dreamer confront and integrate disowned aspects of the self. Recurring nightmares signal that the Shadow is insistently demanding recognition."
+    },
+    "modern": {
+      "korean": "현대 신경과학은 악몽을 렘(REM) 수면 중 편도체(amygdala) 과활성화와 전두엽의 억제 완화로 설명해요. 뇌가 감정 기억을 처리하고 공포 반응을 소거(fear extinction)하려는 과정에서 오히려 강렬한 공포 경험이 꿈으로 재현되는 것입니다. 반복적인 악몽은 PTSD(외상 후 스트레스 장애), 우울증, 불안장애와 깊은 연관이 있으며, 정서 조절 기능의 이상을 나타내는 진단적 지표로 활용됩니다. 인지행동치료(CBT) 기반의 '이미지 리허설 요법(IRT)'은 악몽의 내용을 의식적으로 바꾸는 훈련을 통해 악몽 빈도를 효과적으로 줄이는 것으로 입증되어 있어요.",
+      "english": "Modern neuroscience explains nightmares as products of hyperactivation of the amygdala combined with reduced prefrontal inhibition during REM sleep. As the brain attempts to process emotional memories and extinguish fear responses, it can inadvertently re-simulate intense fear experiences as vivid nightmares. Recurring nightmares are strongly associated with PTSD, depression, and anxiety disorders, and serve as clinical diagnostic indicators of disrupted emotional regulation. Cognitive-behavioral therapy approaches such as Image Rehearsal Therapy (IRT) — training the dreamer to consciously rewrite the nightmare narrative — have proven effective in reducing nightmare frequency."
+    },
+    "crossCultural": {
+      "korean": "한국 전통 해몽이 악몽을 신의 경고나 역몽의 전조로 외부적 의미를 부여하는 반면, 서양 심리학은 악몽을 내면 심리의 산물로 내부를 향한 시선을 유지해요. 그러나 양 전통 모두 악몽을 단순한 불쾌감이 아니라 무언가 주의를 기울여야 할 중요한 신호로 취급한다는 점에서 공통됩니다.",
+      "english": "Where Korean tradition assigns nightmares external significance — as divine warnings or harbingers of reversal — Western psychology turns the lens inward, reading them as products of the individual's own unconscious. Despite this difference in orientation, both traditions agree that nightmares are not mere discomfort but meaningful signals demanding attention."
+    }
+  },
+  "relatedSymbols": [
+    "ghost",
+    "falling",
+    "being-chased",
+    "sleep-paralysis",
+    "death",
+    "fear",
+    "darkness",
+    "monster"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "악몽 꿈해몽",
+      "악몽 꿈 의미",
+      "무서운 꿈 해몽",
+      "악몽 꿈 길몽 흉몽",
+      "악몽 반복해서 꾸는 이유",
+      "악몽 꿈풀이",
+      "귀신 나오는 악몽 해몽",
+      "가위눌리는 꿈 해몽",
+      "쫓기는 꿈 해몽",
+      "떨어지는 꿈 해몽",
+      "죽는 꿈 해몽",
+      "악몽 자주 꾸면"
+    ],
+    "english": [
+      "nightmare dream meaning Korean",
+      "nightmare dream interpretation",
+      "Korean nightmare dream symbolism",
+      "recurring nightmare meaning",
+      "being chased nightmare interpretation",
+      "falling nightmare meaning",
+      "ghost nightmare dream Korean",
+      "sleep paralysis dream meaning",
+      "nightmare auspicious bad omen",
+      "nightmare dream psychology"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "악몽을 꾸면 반드시 나쁜 일이 생기나요?",
+      "answer_ko": "꼭 그렇지는 않아요. 한국 전통 해몽에는 '역몽(逆夢)' 원칙이 있어서, 꿈이 무서울수록 현실에서는 오히려 좋은 일이 생긴다고 봅니다. 특히 꿈속에서 귀신을 물리치거나 위험에서 탈출하는 악몽은 길몽으로 해석돼요. 다만 귀신에게 잡히거나 물귀신에게 끌려가는 꿈, 가위눌리는 꿈은 건강과 안전에 주의하라는 경고로 받아들이는 것이 전통적인 해석입니다.",
+      "answer_en": "Not necessarily. Korean folk interpretation applies the 'reversal principle' (역몽), which holds that the more frightening the nightmare, the better the fortune awaiting in waking life. Nightmares in which the dreamer defeats a ghost or escapes danger are read as auspicious. However, nightmares of being captured by spirits, seized by water ghosts, or experiencing sleep paralysis are traditionally received as genuine warnings to guard one's health and safety.",
+      "question_en": "Does having a nightmare always mean something bad will happen?"
+    },
+    {
+      "question_ko": "같은 악몽을 반복해서 꾼다면 어떤 의미인가요?",
+      "answer_ko": "반복되는 악몽은 아직 해결하지 못한 심리적 갈등이나 감정적 과제가 있다는 강력한 신호예요. 무의식이 계속해서 그 문제에 주의를 기울이라고 촉구하는 것입니다. 꿈 일기를 작성하면서 꿈의 내용과 현실 상황을 연결해 보고, 반복이 몇 주 이상 지속된다면 전문가와 상담하는 것이 도움이 됩니다.",
+      "answer_en": "A recurring nightmare is a strong signal of an unresolved psychological conflict or unprocessed emotional burden. The unconscious mind is persistently calling attention to a specific issue. Keeping a dream journal and connecting the dream's themes to real-life circumstances can be illuminating; if the recurrence continues for several weeks, consulting a mental health professional is recommended.",
+      "question_en": "What does it mean if I keep having the same nightmare repeatedly?"
+    },
+    {
+      "question_ko": "가위눌리는 악몽은 어떻게 해석하나요?",
+      "answer_ko": "한국 민간에서 가위눌림은 악귀나 원혼이 잠든 사람을 누른다고 믿었으며, 체력 저하와 건강 위험의 신호로 여겼습니다. 현대 과학으로는 수면 마비(sleep paralysis)로 설명되며, 렘 수면 중 근육 이완이 깨어나는 순간과 겹쳐 몸을 못 움직이는 경험이 생기는 것입니다. 과도한 스트레스, 불규칙한 수면, 수면 부족이 주요 원인이므로 생활 습관 개선이 필요합니다.",
+      "answer_en": "Korean folk tradition interpreted sleep paralysis nightmares as malevolent spirits pressing down on a sleeping person, and as a warning of weakened health. Modern science explains it as a neurological phenomenon occurring when the muscle paralysis of REM sleep overlaps with the moment of waking consciousness. Primary causes include excessive stress, irregular sleep schedules, and sleep deprivation — all of which call for lifestyle improvements.",
+      "question_en": "How is a sleep paralysis nightmare interpreted in Korean tradition?"
+    },
+    {
+      "question_ko": "꿈속에서 귀신과 싸워 이기면 어떤 의미인가요?",
+      "answer_ko": "귀신이나 악령과 싸워 이기는 꿈은 전통 해몽에서 대표적인 길몽입니다. 건강이 회복되고 수명이 길어지며, 현실의 어려움을 스스로 극복할 힘이 있다는 것을 상징합니다. 싸워도 결판이 나지 않는 꿈 역시 강인한 체력과 생명력의 상징으로 긍정적으로 해석됩니다.",
+      "answer_en": "Fighting and defeating a ghost or malevolent spirit in a dream is considered a prime auspicious omen in Korean tradition. It symbolizes recovery of health, extended lifespan, and the personal strength to overcome real-life difficulties. Even an inconclusive battle with a ghost is interpreted positively, representing robust vitality and life force.",
+      "question_en": "What does it mean to fight and defeat a ghost in a nightmare?"
+    },
+    {
+      "question_ko": "악몽을 덜 꾸려면 어떻게 해야 하나요?",
+      "answer_ko": "전통적으로는 잠자리를 깨끗이 하고, 자기 전 나쁜 생각을 떨쳐내거나 부적을 지니는 방법을 썼어요. 현대적으로는 규칙적인 수면 시간 유지, 자기 전 카페인·알코올 삼가기, 스트레스 해소를 위한 명상이나 가벼운 운동이 효과적입니다. 반복적인 악몽에는 인지행동치료 기반의 '이미지 리허설 요법'이 도움이 됩니다.",
+      "answer_en": "Traditional Korean remedies included keeping the sleeping space clean, clearing one's mind before sleep, and carrying protective charms. Modern approaches include maintaining a consistent sleep schedule, avoiding caffeine and alcohol before bed, and practicing stress-relief techniques such as meditation or light exercise. For recurring nightmares, Image Rehearsal Therapy (IRT) — a cognitive-behavioral approach to consciously rewriting the nightmare — has proven clinically effective.",
+      "question_en": "How can I reduce the frequency of nightmares?"
+    },
+    {
+      "question_ko": "악몽과 흉몽은 같은 건가요?",
+      "answer_ko": "비슷해 보이지만 다른 개념이에요. 악몽(惡夢)은 꿈 자체가 무섭고 불쾌하다는 경험적 특성을 가리키고, 흉몽(凶夢)은 나쁜 미래를 예고하는 징조의 의미를 담습니다. 악몽이 반드시 흉몽은 아니며, 역몽 원칙에 따라 악몽이 길몽으로 해석되는 경우도 많습니다. 반면 겉으로 평화롭게 보이는 꿈도 내용에 따라 흉몽으로 풀이될 수 있습니다.",
+      "answer_en": "These are related but distinct concepts. 악몽 (nightmare) refers to the experiential quality of a dream — that it is frightening and distressing. 흉몽 (ominous dream) refers to a dream's prophetic quality — that it foretells misfortune. A nightmare is not automatically an ominous dream; under the reversal principle, many nightmares are interpreted as auspicious. Conversely, an outwardly calm dream can be read as inauspicious depending on its symbolic content.",
+      "question_en": "Are 악몽 (nightmare) and 흉몽 (inauspicious dream) the same thing?"
+    }
+  ]
+}

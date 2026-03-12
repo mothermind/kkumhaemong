@@ -1,0 +1,181 @@
+{
+  "symbol": {
+    "korean": "행복한 꿈",
+    "english": "Dream of happiness",
+    "slug": "happiness-dream"
+  },
+  "summary": {
+    "korean": "행복한 꿈은 전통 꿈해몽에서 현실과 반대로 풀이되어 슬픔이나 어려움을 암시하기도 하지만, 꿈속의 감정 자체가 긍정적이고 생생할수록 현실에서도 좋은 일이 이어진다는 희망의 상징으로 해석됩니다.",
+    "english": "A dream of happiness is interpreted in Korean folk tradition through the lens of reversal — vivid joy in a dream can warn of sorrow ahead — yet when the positive feeling feels earned and peaceful, it is also seen as a sign of coming fortune and inner harmony."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "꿈속에서 온몸으로 느끼는 충만한 행복감 — 가족과 따뜻하게 웃으며 함께하는 장면, 오래된 소원이 이루어지는 순간의 벅차오르는 기쁨 — 은 전통적으로 현실에서 좋은 소식이 찾아올 전조로 풀이됩니다. 특히 꿈에서 등장하는 인물이 편안하고 만족스러운 상태에 있을 때 그 사람에게 행운이 깃든다는 믿음이 전통 해몽에 깊이 뿌리내려져 있습니다.",
+      "english": "A dream filled with warm, wholehearted happiness — sharing laughter with loved ones, or experiencing the rush of a long-cherished wish coming true — is traditionally read as a herald of good news in waking life. When the people who appear in the dream look content and at ease, Korean folk belief holds that fortune is being sent their way.",
+      "context": "꿈속 장면이 평화롭고 조화롭게 느껴질 때, 혹은 가족·지인이 환하게 웃으며 행복해 보이는 모습이 나올 때 길몽으로 분류됩니다."
+    },
+    {
+      "type": "흉몽",
+      "korean": "한국 전통 꿈해몽에는 '반몽(反夢)' 개념이 있습니다. 꿈속에서 지나치게 들뜨고 넘칠 듯한 행복감을 느꼈다면, 이는 오히려 가까운 현실에서 슬픔이나 실망이 찾아올 수 있음을 암시한다고 전해집니다. 특히 꿈이 지나치게 완벽하거나 현실감이 없을 정도로 황홀한 경우, 깨어나고 나서도 알 수 없는 불안함이 남는다면 주의가 필요하다는 해석도 있습니다.",
+      "english": "Traditional Korean dream interpretation includes the concept of 'banmong' (反夢) — the reversal principle — by which an overwhelmingly euphoric dream can actually warn of sadness or disappointment to come. If the happiness in the dream feels too perfect, almost unreal, or if an inexplicable unease lingers upon waking, folk tradition suggests being cautious in the near term.",
+      "context": "꿈속의 행복이 비현실적으로 강렬하거나 지나치게 과장된 기쁨으로 느껴질 때, 또는 꿈에서 깨어난 뒤 감정의 낙차가 클 때 흉몽으로 해석될 수 있습니다."
+    },
+    {
+      "type": "neutral",
+      "korean": "행복한 꿈의 의미는 꿈의 맥락과 꿈을 꾼 사람의 현재 상황에 따라 크게 달라집니다. 요즘 힘든 일이 많았던 사람이 꾸는 행복한 꿈은 무의식이 보내는 위로이자 회복의 신호일 수 있고, 이미 삶이 순탄한 사람의 행복한 꿈은 현 상태의 지속을 뜻하기도 합니다. 꿈속에서의 행복감이 꿈 전체의 분위기를 결정짓는 열쇠라는 점에서, 긍정적 감정이 흐르는 꿈은 어떤 상징이 나오더라도 그 꿈 전체의 해석을 좋은 방향으로 이끈다고 봅니다.",
+      "english": "The meaning of a happiness dream shifts considerably depending on context and the dreamer's current life circumstances. For someone going through hardship, a joyful dream may be the unconscious mind offering consolation and a sign of emotional recovery. For someone whose life is already going well, it can simply affirm continuity. In Korean folk interpretation, the emotional tone of a dream acts as a master key — a positive feeling running through a dream tends to cast a favorable light on every symbol within it.",
+      "context": "꿈꾼 사람의 현실 상황, 꿈에 등장한 인물과의 관계, 그리고 꿈의 전체적인 분위기에 따라 길흉이 달라지므로 중립적 관점에서 맥락을 먼저 파악하는 것이 중요합니다."
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "가족과 행복한 꿈",
+      "keyword_en": "happy dream with family",
+      "interpretation_ko": "가족이 모두 모여 화목하게 웃고 있는 꿈은 가정운과 건강운의 상승을 상징합니다. 가족 간의 유대가 더욱 단단해지고 집안에 경사로운 일이 생길 징조로 풀이됩니다.",
+      "interpretation_en": "Dreaming of your family gathered together in laughter and warmth symbolizes rising family fortune and improved health. It is read as a sign that family bonds will strengthen and auspicious events are on the way."
+    },
+    {
+      "keyword_ko": "꿈에서 웃는 꿈",
+      "keyword_en": "dream of laughing",
+      "interpretation_ko": "크게 소리 내어 유쾌하게 웃는 꿈은 그동안 쌓였던 장애와 곤란이 해소되고 기쁜 일이 생기는 길몽입니다. 반면 지나치게 미칠 듯이 웃는 꿈은 현실에서 비애나 절망이 깊어질 수 있다는 반몽으로 해석되기도 합니다.",
+      "interpretation_en": "Dreaming of laughing out loud with genuine joy is an auspicious sign that obstacles and difficulties are about to be resolved. However, dreaming of laughing uncontrollably or hysterically can serve as a reversal sign, warning of sorrow or disappointment in waking life."
+    },
+    {
+      "keyword_ko": "행복하게 춤추는 꿈",
+      "keyword_en": "dream of dancing happily",
+      "interpretation_ko": "기쁨에 겨워 춤을 추는 꿈은 억눌렸던 에너지의 해방을 상징하며, 새로운 기회나 뜻밖의 행운이 찾아올 것을 암시하는 길몽입니다. 재물운과 대인관계운이 함께 상승하는 시기가 올 수 있습니다.",
+      "interpretation_en": "A dream of dancing with happiness symbolizes the release of pent-up energy and portends the arrival of new opportunities or unexpected good fortune. It is considered auspicious for financial luck and interpersonal relationships alike."
+    },
+    {
+      "keyword_ko": "연인과 행복한 꿈",
+      "keyword_en": "happy dream with a romantic partner",
+      "interpretation_ko": "연인 혹은 좋아하는 사람과 함께 행복하게 지내는 꿈은 두 사람 사이의 신뢰와 안정을 반영합니다. 관계의 발전을 암시하기도 하며, 연애운과 결혼운이 상승하는 길조로 풀이됩니다.",
+      "interpretation_en": "Dreaming happily alongside a romantic partner or someone you care for reflects trust and emotional stability in the relationship. It is considered a positive omen for relationship development, with improving romantic and marriage fortune."
+    },
+    {
+      "keyword_ko": "꿈에서 행복한데 슬픈 꿈",
+      "keyword_en": "dream of happiness turning to sadness",
+      "interpretation_ko": "꿈속에서 행복했다가 갑자기 슬퍼지거나, 눈을 떴을 때 묘한 상실감이 느껴지는 꿈은 현실에서 마음속 욕구가 아직 충족되지 않았음을 나타냅니다. 무의식이 현재의 결핍이나 억눌린 그리움을 행복과 슬픔의 대비를 통해 드러내는 것입니다.",
+      "interpretation_en": "A dream in which happiness suddenly gives way to sadness, or that leaves a lingering sense of loss upon waking, reflects an unfulfilled longing in your waking life. The unconscious uses the contrast of joy and grief to illuminate a need or suppressed yearning that has yet to be acknowledged."
+    },
+    {
+      "keyword_ko": "행복한 일상 꿈",
+      "keyword_en": "dream of a happy everyday life",
+      "interpretation_ko": "평범하지만 따뜻하고 행복한 일상이 펼쳐지는 꿈 — 맛있는 음식을 먹거나, 아늑한 집에서 쉬는 장면 — 은 현재 삶에 대한 만족감을 반영하거나, 그러한 안정을 간절히 바라는 마음을 나타냅니다.",
+      "interpretation_en": "A dream of ordinary but warm and happy daily life — sharing a good meal, resting comfortably at home — reflects contentment with your current life or a heartfelt longing for exactly that kind of stability and peace."
+    },
+    {
+      "keyword_ko": "꿈에서 행복해서 우는 꿈",
+      "keyword_en": "dream of crying from happiness",
+      "interpretation_ko": "행복해서 눈물을 흘리는 꿈은 오랫동안 기다려온 일이 마침내 이루어지거나, 깊은 감동이 찾아오는 경험을 상징합니다. 특히 소원 성취나 재회의 기쁨과 연결되는 경우가 많아 길몽으로 풀이됩니다.",
+      "interpretation_en": "Shedding tears of happiness in a dream symbolizes the long-awaited fulfillment of a wish or a deeply moving experience. It is often connected to the joy of reunion or the realization of a cherished goal and is typically read as an auspicious dream."
+    },
+    {
+      "keyword_ko": "행복한 꿈 태몽",
+      "keyword_en": "happy dream as pregnancy omen",
+      "interpretation_ko": "임신 중이거나 임신을 준비하는 여성이 행복하고 평화로운 꿈을 꾸는 것은 태아가 건강하고 순산을 예고하는 태몽으로 여겨지기도 합니다. 꿈 전체의 분위기가 밝고 따뜻할수록 긍정적인 태몽으로 해석합니다.",
+      "interpretation_en": "When a pregnant woman or a woman hoping to conceive dreams of happiness and peace, the dream is sometimes interpreted as a positive pregnancy omen (태몽), foretelling a healthy baby and a smooth delivery. The brighter and warmer the dream's overall mood, the more favorable the reading."
+    }
+  ],
+  "culturalContext": {
+    "korean": "한국의 전통 꿈해몽에서 감정은 단순한 꿈의 분위기가 아니라 해석의 방향을 결정짓는 핵심 열쇠입니다. 꿈에 등장하는 인물이나 상황이 행복하고 평화로워 보이면 그 사람에게 좋은 일이 온다고 보았고, 반대로 불행해 보이면 나쁜 일이 임박했다고 해석했습니다. 한국 무속 신앙(무속)에서 꿈은 조상신이나 수호신이 인간에게 메시지를 전달하는 통로였으며, 특히 생생하고 감정이 강렬한 꿈은 '몽림(夢臨)', 즉 신령이 실제로 찾아온 꿈으로 여겨 각별히 주의를 기울였습니다. 한편 한국 꿈해몽에는 '반몽(反夢)' 이론이 있어, 지나치게 황홀하거나 비현실적인 행복감을 주는 꿈은 현실에서 그 반대의 상황이 벌어질 수 있다는 경계의 의미로도 해석했습니다. 이는 불교의 인과응보 사상 및 유교의 중용(中庸) 정신과도 맞닿아 있어, 지나친 기쁨에 경계심을 늦추지 말라는 삶의 태도를 반영합니다.",
+    "english": "In Korean traditional dream interpretation, emotions are not mere atmosphere — they are the master key that determines the direction of the entire reading. When people or situations in a dream appear happy and at ease, it is taken as a sign that good fortune is coming their way; when they appear distressed, misfortune is considered imminent. In Korean shamanism (무속), dreams served as channels through which ancestral spirits and guardian deities delivered messages to the living, and vivid, emotionally charged dreams were treated as actual visitations from the spirit realm. Korean folk tradition also contains the 'banmong' (反夢) reversal principle: an overwhelmingly euphoric or unrealistically blissful dream was understood as a warning that the opposite might unfold in waking life. This reflects the influence of Buddhist karmic thought and Confucian values of moderation (중용) — a cultural reminder not to be lulled into complacency by even the most joyful dream."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트는 꿈을 억압된 무의식적 욕망이 위장된 형태로 표출되는 소망 충족(wish fulfillment)의 장으로 보았어요. 행복한 꿈은 현실에서 억눌린 욕구 — 사랑받고 싶은 마음, 성공에 대한 갈망, 혹은 잃어버린 것에 대한 그리움 — 가 꿈 속에서 안전하게 해소되는 과정이에요. 즉 꿈속의 행복은 단순한 기쁨이 아니라, 현실에서 채워지지 못한 무언가를 반영하는 거울일 수 있어요.",
+      "english": "Freud viewed dreams as a stage for wish fulfillment — repressed unconscious desires finding expression in disguised form. A happy dream, in his framework, represents the safe release of unmet needs from waking life: the longing to be loved, the desire for success, or grief over something lost. Rather than simple joy, the happiness in the dream may be a mirror reflecting something that remains unfulfilled in reality."
+    },
+    "jungian": {
+      "korean": "융은 꿈이 단순한 욕망 충족이 아니라 심리적 균형을 회복하려는 무의식의 보상 작용이라고 보았어요. 행복한 꿈은 자아(ego)가 현실에서 지나치게 긴장하거나 억압받고 있을 때, 집단 무의식이 심리적 조화와 전일성(individuation)을 향해 나아가도록 격려하는 메시지일 수 있어요. 융의 관점에서 꿈속의 진정한 기쁨은 내면의 성장이 이루어지고 있음을 알리는 긍정적인 원형(archetype)의 신호로 받아들일 수 있어요.",
+      "english": "Jung understood dreams not as simple wish fulfillment but as the unconscious mind's compensatory effort to restore psychological balance. A happy dream, in Jungian terms, can be an encouraging message from the collective unconscious when the ego has been under excessive tension or suppression in waking life — a nudge toward harmony and individuation. From this perspective, genuine joy experienced in a dream is a positive archetypal signal that inner growth is underway."
+    },
+    "modern": {
+      "korean": "현대 신경과학과 심리학은 꿈을 감정 조절 및 기억 통합의 메커니즘으로 이해해요. REM 수면 중 뇌의 편도체와 보상 회로가 활성화되면서 낮 동안의 감정적 경험이 재처리되는데, 긍정적인 감정의 꿈은 정서적 웰빙과 높은 삶의 만족도와 상관관계가 있는 것으로 연구에서 나타나요. 행복한 꿈을 자주 꾸는 사람은 다음날 부정적인 자극에도 덜 반응하는 경향이 있어, 꿈이 감정의 완충재 역할을 한다는 증거가 쌓이고 있어요.",
+      "english": "Modern neuroscience and psychology understand dreams as mechanisms for emotional regulation and memory consolidation. During REM sleep, the brain's amygdala and reward circuits reactivate, reprocessing the day's emotional experiences. Research shows that positive emotional content in dreams correlates with higher overall life satisfaction and emotional well-being. People who frequently experience happy dreams tend to react less strongly to negative stimuli the following day, providing growing evidence that dreams serve as an emotional buffer."
+    },
+    "crossCultural": {
+      "korean": "한국 전통 해몽이 행복한 꿈을 '반몽'의 경고로도 보는 반면, 서양 융 심리학은 꿈속의 긍정적 감정을 대체로 액면 그대로 받아들여 내면 성장의 신호로 해석한다는 점에서 흥미로운 차이가 있어요.",
+      "english": "Where Korean folk tradition may treat an excessively joyful dream with caution through the reversal principle, Jungian Western psychology generally takes positive dream emotions at face value as signals of inner growth — a meaningful divergence in how the two traditions interpret the same emotional experience."
+    }
+  },
+  "relatedSymbols": [
+    "laughter",
+    "joy",
+    "family",
+    "wedding",
+    "celebration",
+    "crying",
+    "sadness",
+    "love"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "행복한 꿈",
+      "행복한 꿈 해몽",
+      "행복한 꿈 의미",
+      "행복한 꿈 길몽",
+      "행복한 꿈 흉몽",
+      "꿈에서 행복한 꿈",
+      "꿈에서 웃는 꿈",
+      "꿈에서 기쁜 꿈",
+      "기분 좋은 꿈 해몽",
+      "행복한 꿈 꿈풀이",
+      "가족 행복한 꿈 해몽",
+      "행복한 꿈 태몽",
+      "즐거운 꿈 해몽",
+      "꿈에서 행복해서 우는 꿈"
+    ],
+    "english": [
+      "dream of happiness meaning",
+      "happy dream interpretation Korean",
+      "dreaming of happiness Korean tradition",
+      "feeling happy in a dream meaning",
+      "joyful dream symbolism",
+      "happy dream auspicious omen",
+      "dreaming of laughing meaning",
+      "happy dream reversal principle Korean",
+      "positive emotion dream interpretation",
+      "happiness dream good or bad omen"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "행복한 꿈은 길몽인가요, 흉몽인가요?",
+      "answer_ko": "행복한 꿈은 맥락에 따라 길몽이 될 수도, 흉몽이 될 수도 있어요. 전통 꿈해몽에는 '반몽(反夢)' 개념이 있어서, 지나치게 황홀하거나 비현실적인 행복감을 주는 꿈은 오히려 현실에서 슬픔이나 어려움이 찾아올 경고로 해석하기도 해요. 반면 따뜻하고 평화로운 행복감이 느껴지는 꿈, 특히 가족이나 소중한 사람들과 함께하는 행복한 장면은 길몽으로 봐요.",
+      "question_en": "Is dreaming of happiness an auspicious or inauspicious dream?",
+      "answer_en": "A happiness dream can be either auspicious or inauspicious depending on its context. Korean folk tradition includes the 'banmong' reversal principle, by which an overwhelmingly euphoric or unrealistically blissful dream may actually warn of coming sadness or hardship. On the other hand, a dream with gentle, peaceful happiness — especially one involving loved ones — is generally considered a positive omen."
+    },
+    {
+      "question_ko": "꿈에서 너무 행복하면 반대로 나쁜 일이 생기나요?",
+      "answer_ko": "전통 꿈해몽의 반몽 이론에 따르면 그럴 수도 있어요. 특히 꿈속의 행복이 지나치게 완벽하거나 깨어난 후 묘한 허전함이 느껴진다면 현실에서 조심하는 것이 좋다는 해석이 있어요. 그러나 이는 절대적인 법칙이 아니며, 꿈을 꾼 사람의 현재 심리 상태와 생활 환경에 따라 달라져요.",
+      "question_en": "If I feel too happy in a dream, does something bad happen in real life?",
+      "answer_en": "According to the Korean reversal principle (banmong), this is possible in certain cases. If the happiness in the dream feels impossibly perfect or you feel an inexplicable emptiness upon waking, traditional interpretation suggests exercising caution. However, this is not an absolute rule — the dreamer's current psychological state and life circumstances always shape the final reading."
+    },
+    {
+      "question_ko": "가족과 행복하게 함께하는 꿈은 무슨 의미인가요?",
+      "answer_ko": "가족 모두가 모여 화목하게 웃고 행복해하는 꿈은 전통적으로 가정운과 건강운이 상승하는 길조예요. 가족 간의 유대가 더욱 강해지거나 집안에 기쁜 소식이 올 것을 예고하는 꿈으로 풀이됩니다.",
+      "question_en": "What does it mean to dream of being happy together with family?",
+      "answer_en": "Dreaming of your entire family gathered together in warmth and laughter is traditionally read as an auspicious sign of rising family fortune and good health. It is interpreted as a portent of strengthening family bonds and joyful news to come for the household."
+    },
+    {
+      "question_ko": "행복해서 우는 꿈은 어떻게 해석하나요?",
+      "answer_ko": "행복해서 눈물을 흘리는 꿈은 오랫동안 기다렸던 소원이 이루어지거나 깊은 감동을 받을 일이 생길 징조로 풀이됩니다. 재회의 기쁨이나 오랜 노력의 결실과 연결되는 경우가 많아 길몽으로 해석됩니다.",
+      "question_en": "How is a dream of crying from happiness interpreted?",
+      "answer_en": "Shedding tears of joy in a dream is read as a portent of a long-awaited wish being fulfilled or a deeply moving experience arriving. It is often associated with the joy of reunion or the fruit of sustained effort, and is generally classified as an auspicious dream."
+    },
+    {
+      "question_ko": "행복한 꿈이 태몽이 될 수도 있나요?",
+      "answer_ko": "임신 중이거나 임신을 원하는 여성이 꾸는 행복하고 따뜻한 꿈은 순산과 건강한 아이를 예고하는 태몽으로 해석되기도 해요. 꿈의 전체적인 분위기가 밝고 포근할수록 긍정적인 태몽으로 받아들입니다.",
+      "question_en": "Can a happy dream be a pregnancy omen (태몽)?",
+      "answer_en": "Yes, for a pregnant woman or someone hoping to conceive, a warm and joyful dream is sometimes interpreted as a positive pregnancy omen (태몽), foretelling a healthy baby and smooth delivery. The brighter and more comforting the overall atmosphere of the dream, the more favorable the reading."
+    },
+    {
+      "question_ko": "행복한 꿈을 자주 꾸는 것은 좋은 신호인가요?",
+      "answer_ko": "심리학적으로는 긍정적인 신호예요. 연구에 따르면 행복한 꿈을 자주 꾸는 사람은 삶의 만족도가 높고 스트레스를 더 잘 조절하는 경향이 있어요. 전통 꿈해몽 관점에서도 꿈의 전반적인 분위기가 따뜻하고 긍정적이라면 현재 내면이 안정되어 있음을 반영하는 것으로 봅니다.",
+      "question_en": "Is it a good sign to frequently dream of happiness?",
+      "answer_en": "From a psychological standpoint, yes. Research suggests that people who frequently experience happy dreams tend to report higher life satisfaction and better stress regulation. In Korean folk interpretation, a consistently warm and positive dream atmosphere reflects inner stability and emotional well-being."
+    }
+  ]
+}

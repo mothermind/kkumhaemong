@@ -1,0 +1,211 @@
+{
+  "symbol": {
+    "korean": "벌레가 몸에 기어다니는 꿈",
+    "english": "Dream of Bugs Crawling on Body",
+    "slug": "bugs-crawling-body-dream"
+  },
+  "summary": {
+    "korean": "벌레가 몸에 기어다니는 꿈은 억눌린 스트레스와 내면의 불안을 반영하며, 상황에 따라 걱정거리가 사라지는 길몽이 되기도 하고 건강·재물에 주의가 필요한 흉몽이 되기도 하는 양면적인 꿈입니다.",
+    "english": "Dreaming of bugs crawling on your body reflects suppressed stress and inner anxiety; depending on context, it can be an auspicious sign that worries are lifting or a warning to watch your health and finances."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "몸에서 벌레가 기어 나와 떠나가는 꿈은 오랫동안 쌓였던 근심과 걱정거리가 마침내 해소되는 길몽입니다. 오랫동안 풀리지 않던 문제가 자연스럽게 정리되고 새로운 기운이 들어오는 시기가 됨을 알립니다. 마치 몸 안의 독소가 빠져나가듯 정신적·심리적 짐이 가벼워지는 긍정적인 변화의 전조로 해석됩니다.",
+      "english": "When bugs crawl out of and away from your body in the dream, it is an auspicious sign that longstanding worries and burdens are finally being released. Problems that have lingered unresolved begin to clear naturally, and new energy arrives. Like toxins leaving the body, this dream foretells a positive shift toward psychological and emotional lightness.",
+      "context": "벌레가 몸에서 나와 완전히 떠나가는 장면이 펼쳐질 때. 기분이 불쾌하지 않고 홀가분한 느낌이 동반될 때."
+    },
+    {
+      "type": "길몽",
+      "korean": "개미떼가 팔다리를 기어다니는 꿈은 전통 꿈해몽에서 사업 번창과 큰 재물 획득을 암시하는 길몽으로 해석됩니다. 많은 개미가 부지런히 움직이는 이미지가 풍요와 노력의 결실을 상징하며, 예상치 못한 수익이나 사업상의 호재가 찾아올 것을 예고합니다.",
+      "english": "Dreaming of ant swarms crawling over your arms and legs is interpreted in Korean tradition as an auspicious sign of business prosperity and significant financial gain. The image of many ants moving industriously symbolizes abundance and the fruits of hard work, foretelling unexpected income or favorable business developments.",
+      "context": "개미처럼 작고 질서 있는 벌레가 무리 지어 팔다리를 지나가는 경우. 혐오감보다 경이로움이 앞서는 꿈."
+    },
+    {
+      "type": "흉몽",
+      "korean": "온몸에 벌레가 들끓으며 기어다니는 꿈은 현재 감당하기 힘든 스트레스와 압박이 극에 달했음을 알리는 흉몽입니다. 재물운과 건강운 모두 좋지 않은 시기임을 암시하며, 특히 소화기나 피부 건강에 문제가 생길 수 있으니 주의가 필요합니다. 금전 관리에도 각별히 신경 써야 하는 시점으로 불필요한 지출을 자제해야 합니다.",
+      "english": "Dreaming of your entire body swarming with crawling bugs signals that stress and pressure in waking life have reached an overwhelming peak. Both financial fortune and physical health are in a vulnerable period; digestive or skin issues may arise, and financial management requires extra care to avoid unnecessary spending.",
+      "context": "벌레가 아주 많아 몸 전체를 뒤덮고 있는 경우. 꿈 속에서 극심한 불쾌감이나 공포를 느낄 때."
+    },
+    {
+      "type": "흉몽",
+      "korean": "벌레가 몸속으로 파고 들어가거나 계속해서 몸 안팎을 드나드는 꿈은 몸이 아프거나 인간관계에서 상처를 받을 것을 예고하는 흉몽입니다. 특히 누군가가 나의 사생활이나 감정적 경계를 침범하고 있다는 무의식적 신호로 해석되며, 주변 사람과의 마찰이나 소모적인 관계에 주의해야 합니다.",
+      "english": "Dreaming of bugs burrowing into your body or repeatedly moving in and out signals potential illness or emotional wounds from relationship conflicts. It is interpreted as an unconscious signal that someone is invading your privacy or emotional boundaries, and warns of friction with people around you.",
+      "context": "벌레가 피부 속으로 파고들거나, 나갔다가 다시 들어오는 반복적인 장면이 나타날 때."
+    },
+    {
+      "type": "흉몽",
+      "korean": "바퀴벌레가 몸에 붙어 기어다니는 꿈은 정신적·신체적 건강에 문제가 생길 것을 경고하는 흉몽입니다. 특히 머리에 기어다니면 정신적 스트레스와 두통을, 손발에 달라붙으면 신체 피로나 부상을 암시합니다. 부정적인 외부 영향이 자신의 내면을 잠식하고 있다는 신호로 해석됩니다.",
+      "english": "Dreaming of cockroaches crawling on your body warns of mental or physical health problems. Specifically, cockroaches on the head suggest mental stress and headaches, while those on the hands or feet indicate physical fatigue or injury. This dream signals that negative external influences are encroaching on your inner wellbeing.",
+      "context": "바퀴벌레처럼 특히 혐오감이 강한 벌레가 몸에 달라붙는 경우."
+    },
+    {
+      "type": "neutral",
+      "korean": "몸의 특정 부위에만 벌레가 기어다니는 꿈은 그 신체 부위와 연결된 삶의 영역에서 작은 문제나 걱정이 쌓이고 있음을 나타냅니다. 당장 위기 상황은 아니지만 방치하면 스트레스가 심화될 수 있으니, 해당 영역을 점검하고 미리 정비하는 것이 좋습니다. 꿈속에서 느낀 감정이 두려움인지 무덤덤함인지에 따라 길흉이 달라집니다.",
+      "english": "Bugs crawling only on a specific body part indicate that minor concerns are accumulating in the life domain that part represents. While not an immediate crisis, neglecting these concerns can deepen stress; it is worth examining that area of life. The emotional tone of the dream — fear versus calm indifference — further determines whether the overall omen is positive or negative.",
+      "context": "머리, 손, 발, 얼굴 등 특정 신체 부위에만 벌레가 기어다니는 꿈. 꿈 속 감정이 강하지 않고 관찰자 시점에 가까운 경우."
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "온몸에 벌레가 기어다니는 꿈",
+      "keyword_en": "bugs crawling all over body dream",
+      "interpretation_ko": "온몸이 벌레로 뒤덮이는 꿈은 현재 감당하기 힘든 감정적 부담과 스트레스가 극에 달해 있음을 상징하는 흉몽입니다. 내면의 도덕적 갈등이나 선악 사이의 고민이 심해지고 있음을 암시하기도 합니다.",
+      "interpretation_en": "A body completely covered in bugs is an inauspicious dream symbolizing overwhelming emotional burden and peak stress levels. It can also indicate intensifying inner moral conflict or struggles between right and wrong decisions."
+    },
+    {
+      "keyword_ko": "벌레가 몸속으로 들어가는 꿈",
+      "keyword_en": "bugs entering the body dream",
+      "interpretation_ko": "벌레가 피부나 몸 안으로 파고드는 꿈은 흉몽으로, 건강 문제, 가족 간의 갈등, 또는 직장에서의 어려움이 생길 것을 예고합니다. 외부의 부정적인 영향이 자신의 내면 깊숙이 침투하고 있다는 신호입니다.",
+      "interpretation_en": "Bugs burrowing into the body is an inauspicious dream forewarning health problems, family conflict, or workplace difficulties. It signals that negative external influences are penetrating deep into your inner world."
+    },
+    {
+      "keyword_ko": "몸에서 벌레가 기어 나오는 꿈",
+      "keyword_en": "bugs crawling out of body dream",
+      "interpretation_ko": "몸 안에서 벌레가 기어 나오는 꿈은 대표적인 길몽으로, 오랫동안 쌓인 근심걱정에서 해방될 것을 암시합니다. 껄끄럽던 상황이 정리되고 새로운 시작을 위한 정화가 이루어지는 시기입니다.",
+      "interpretation_en": "Bugs crawling out from inside the body is a classic auspicious dream, signaling liberation from long-accumulated worries. It marks a period when difficult situations resolve and a purification occurs in preparation for a fresh start."
+    },
+    {
+      "keyword_ko": "피부에서 벌레가 나오는 꿈",
+      "keyword_en": "bugs coming out of skin dream",
+      "interpretation_ko": "피부 표면에서 벌레가 나오는 꿈은 길몽에 가까우며, 그동안 마음을 짓누르던 걱정이 사라지고 어려움을 극복하는 계기를 상징합니다. 새로운 활력이 생기고 상황이 호전될 것을 예고합니다.",
+      "interpretation_en": "Bugs emerging from the skin's surface is generally an auspicious dream, symbolizing the disappearance of nagging worries and an opportunity to overcome difficulties. It foretells renewed vitality and improving circumstances."
+    },
+    {
+      "keyword_ko": "개미가 몸에 기어다니는 꿈",
+      "keyword_en": "ants crawling on body dream",
+      "interpretation_ko": "개미가 팔다리에 기어다니는 꿈은 사업 번창과 재물 획득을 암시하는 길몽입니다. 단, 온몸에 시커멓게 들끓으면 감당하기 힘든 일이 생겨 타인의 도움이 필요하게 될 것임을 암시하며, 건강에도 주의를 기울여야 합니다.",
+      "interpretation_en": "Ants crawling on arms and legs is an auspicious dream hinting at business success and financial gain. However, if the entire body is darkly swarming with ants, it suggests an overwhelming situation may arise requiring others' help, and one should also be mindful of health."
+    },
+    {
+      "keyword_ko": "바퀴벌레가 몸에 기어다니는 꿈",
+      "keyword_en": "cockroaches crawling on body dream",
+      "interpretation_ko": "바퀴벌레가 몸에 달라붙어 기어다니는 꿈은 흉몽입니다. 몸이나 마음에 부정적인 기운이 침투하고 있음을 의미하며, 머리에 기어다니면 정신적 스트레스나 두통을, 손발에 기어다니면 신체적 피로나 부상의 위험을 암시합니다.",
+      "interpretation_en": "Cockroaches crawling on the body is an inauspicious dream signifying negative energy encroaching on body and mind. Cockroaches on the head suggest mental stress or headaches; on the hands or feet, they warn of physical fatigue or injury risk."
+    },
+    {
+      "keyword_ko": "벌레가 얼굴에 기어다니는 꿈",
+      "keyword_en": "bugs crawling on face dream",
+      "interpretation_ko": "얼굴에 벌레가 기어다니는 꿈은 타인에게 자신이 어떻게 보이는지, 혹은 주변의 평판에 대한 깊은 불안감이 반영된 꿈입니다. 사회적 관계나 외부 시선에 대한 부담이 극도로 커져 있음을 암시합니다.",
+      "interpretation_en": "Bugs crawling on the face reflect deep anxiety about how one appears to others or about one's social reputation. The dream indicates that the burden of social relationships and external perception has become overwhelming."
+    },
+    {
+      "keyword_ko": "벌레가 등에 기어다니는 꿈",
+      "keyword_en": "bugs crawling on back dream",
+      "interpretation_ko": "등에 벌레가 기어다니는 꿈은 본인이 모르는 사이에 뒤에서 진행되고 있는 문제나 주변 사람의 험담, 보이지 않는 위협을 암시합니다. 주변 관계를 점검해볼 필요가 있습니다.",
+      "interpretation_en": "Bugs crawling on the back suggest problems developing behind your back without your awareness, such as gossip from those around you or unseen threats. It is a sign to carefully review your surrounding relationships."
+    },
+    {
+      "keyword_ko": "벌레를 몸에서 털어내는 꿈",
+      "keyword_en": "brushing bugs off body dream",
+      "interpretation_ko": "몸에 붙은 벌레를 털어내거나 잡아 제거하는 꿈은 길몽입니다. 현재 스트레스와 걱정에서 벗어나는 것을 상징하며, 문제를 능동적으로 해결하고 부정적인 영향력을 극복해나갈 의지와 능력이 있음을 나타냅니다.",
+      "interpretation_en": "Brushing or removing bugs from your body is an auspicious dream symbolizing escape from current stress and worry. It represents the will and ability to actively resolve problems and overcome negative influences in your life."
+    },
+    {
+      "keyword_ko": "몸에 죽은 벌레가 붙어 있는 꿈",
+      "keyword_en": "dead bugs on body dream",
+      "interpretation_ko": "몸에 죽은 벌레가 붙어 있는 꿈은 걱정의 끝을 알리는 길몽입니다. 골치 아팠던 문제가 별다른 개입 없이도 자연스럽게 해결될 것임을 상징하며, 부정적 상황이 소멸하고 있음을 나타냅니다.",
+      "interpretation_en": "Dead bugs on the body is an auspicious dream signaling the end of worries. It symbolizes that troublesome problems will resolve naturally without much intervention, and that negative circumstances are dissipating."
+    }
+  ],
+  "culturalContext": {
+    "korean": "한국 전통 꿈해몽에서 벌레는 복잡한 이중적 상징을 지닙니다. 한편으로는 인간의 몸과 마음을 갉아먹는 근심, 스트레스, 소소한 재앙의 상징으로 쓰이며, 다른 한편으로는 땅의 기운을 담은 생명체로서 재물과 풍요를 예고하는 길조로 해석되기도 합니다. 특히 개미처럼 부지런한 벌레가 떼를 지어 움직이는 이미지는 농경 사회에서 풍작과 집단적 노력의 결실을 상징했습니다. 한국 무속 신앙(무속)에서는 벌레가 몸 안팎을 드나드는 이미지가 신체에 깃든 나쁜 기운(邪氣)이 정화되거나 침입하는 과정을 나타낸다고 보았습니다. 이는 굿이나 부적으로 몸 안의 부정한 기운을 쫓아내는 무속 의식과도 연결됩니다. 불교적 관점에서 벌레는 윤회의 가장 낮은 단계로 여겨지며, 벌레가 몸에서 나오는 꿈은 전생의 업(業)이 소멸하는 징조로 해석되기도 합니다. 전통적으로 꿈에서 벌레와의 상호작용 결과가 핵심입니다. 벌레를 성공적으로 제거하거나 벌레가 저절로 떠나면 길몽, 반대로 벌레가 몸 안으로 파고들거나 온몸을 뒤덮는 꿈은 흉몽으로 간주됩니다.",
+    "english": "In Korean traditional dream interpretation, insects carry a complex dual symbolism. On one hand, they represent worries, stress, and minor misfortunes that gnaw at the body and mind. On the other hand, as creatures carrying the energy of the earth, they can also be interpreted as auspicious omens foretelling wealth and abundance. The image of industrious insects like ants moving in swarms symbolized a bountiful harvest and the fruits of collective labor in agrarian Korean society. In Korean shamanism (무속 신앙), insects moving in and out of the body represent the process by which negative spiritual energy (邪氣) is either purified or invading — connected to shamanic rituals that drive out impurities through gut ceremonies or talismans. From a Buddhist perspective, insects represent the lowest realm of reincarnation, and dreaming of bugs leaving the body can be interpreted as the dissolution of karma from past lives. Crucially, the outcome of the interaction with bugs determines the classification: successfully removing them or having them depart on their own is auspicious, while having them burrow in or swarm the entire body is considered inauspicious."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트 정신분석학에서 몸에 기어다니는 벌레 꿈은 억압된 충동과 죄책감의 표출로 해석돼요. 피부라는 신체 경계가 침범당하는 이미지는 자아(ego)의 방어 기제가 무너지고 억눌린 욕구나 불안이 의식 표면으로 올라오는 것을 상징해요. 벌레가 역겹고 불쾌한 생물로 인식되는 만큼, 꿈꾼이가 스스로도 인정하기 싫은 감정이나 욕망이 꿈의 형태로 왜곡되어 나타나는 전위(displacement) 현상으로 볼 수 있어요.",
+      "english": "In Freudian psychoanalysis, dreaming of bugs crawling on the body is interpreted as an eruption of repressed impulses and guilt. The image of bodily boundaries being violated — the skin as a border — symbolizes the breakdown of the ego's defenses, with suppressed drives or anxieties rising to the surface of consciousness. Since insects are perceived as repulsive, this dream is understood as displacement: feelings or desires the dreamer refuses to consciously acknowledge emerge in a distorted, viscerally unpleasant form."
+    },
+    "jungian": {
+      "korean": "융의 분석심리학에서 벌레는 '그림자(Shadow)' 원형, 즉 스스로 보기 싫어서 억누르고 있는 내면의 어두운 면을 상징해요. 몸에 기어다니는 벌레 꿈은 그 그림자가 더 이상 무시할 수 없을 정도로 강렬하게 자기통합(individuation)을 요구하고 있다는 메시지예요. 융의 관점에서 이 꿈은 두려운 신호라기보다 '내 안의 외면해온 부분을 직시하고 받아들이라'는 집단무의식의 촉구로 해석될 수 있어요.",
+      "english": "In Jungian analytical psychology, insects symbolize the Shadow archetype — the dark aspects of the self that one suppresses as undesirable. Dreaming of bugs crawling on the body is a message that the Shadow is demanding integration (individuation) with such intensity that it can no longer be ignored. From a Jungian perspective, this dream is less a frightening omen than an urging from the collective unconscious to confront and accept the parts of oneself that have been avoided."
+    },
+    "modern": {
+      "korean": "현대 인지심리학과 신경과학은 벌레가 몸에 기어다니는 꿈을 만성적 스트레스, 불안 장애, 또는 신체 감각에 대한 과민 반응과 연결 지어요. 실생활에서 오랫동안 해결되지 않은 골칫거리나 사회적 압박이 수면 중 뇌의 감각 처리 과정에서 피부 위의 이물감이라는 구체적 이미지로 변환된다는 설명이에요. 특히 '포름미케이션(formication)'이라 불리는 실제 피부 감각 이상이 수면 중 이 꿈을 유발하기도 하므로, 이 꿈이 반복된다면 스트레스 관리뿐 아니라 신체 건강도 함께 살펴보는 것이 권장돼요.",
+      "english": "Modern cognitive psychology and neuroscience link dreams of bugs crawling on the body to chronic stress, anxiety disorders, or heightened sensitivity to physical sensations. Long-unresolved daily irritants and social pressures are theorized to be converted during sleep — as the brain's sensory processing continues — into the concrete image of foreign objects on the skin. Notably, a real physical sensation called formication (the feeling of insects crawling on or under the skin) can also trigger this dream during sleep, so if the dream recurs, it is advisable to address both stress management and overall physical health."
+    },
+    "crossCultural": {
+      "korean": "한국 전통 해몽이 벌레와의 상호작용 결과(제거 vs. 침입)를 기준으로 길흉을 판단하는 데 반해, 서양 심리학은 꿈꾼이가 느끼는 감정과 개인적 맥락을 우선시해요. 두 전통 모두 이 꿈이 내면의 억압된 감정과 해소되지 않은 문제를 가리킨다는 점에서는 일치합니다.",
+      "english": "While Korean traditional dream interpretation classifies the dream as auspicious or inauspicious based on the outcome of the interaction with bugs (removal vs. invasion), Western psychology prioritizes the dreamer's emotional state and personal context. Both traditions converge in recognizing that this dream points to suppressed inner emotions and unresolved issues in the dreamer's life."
+    }
+  },
+  "relatedSymbols": [
+    "ants-dream",
+    "cockroach-dream",
+    "worm-dream",
+    "centipede-dream",
+    "spider-dream",
+    "bugs-dream",
+    "body-dream",
+    "skin-dream"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "벌레가 몸에 기어다니는 꿈",
+      "몸에 벌레 기어다니는 꿈해몽",
+      "벌레 몸에 붙는 꿈",
+      "몸에서 벌레 나오는 꿈",
+      "벌레 몸속에서 나오는 꿈",
+      "피부에서 벌레 나오는 꿈",
+      "온몸에 벌레 꿈해몽",
+      "개미 몸에 기어다니는 꿈",
+      "바퀴벌레 몸에 기어다니는 꿈",
+      "벌레 몸 기어다니는 꿈 길몽",
+      "벌레꿈 흉몽 의미",
+      "몸에 벌레 꿈 재물운",
+      "벌레 몸에 들어가는 꿈",
+      "벌레 털어내는 꿈해몽"
+    ],
+    "english": [
+      "bugs crawling on body dream meaning",
+      "dream about insects crawling on me",
+      "bugs crawling on skin dream korean interpretation",
+      "bugs coming out of body dream meaning",
+      "insects on body dream symbolism",
+      "dream of bugs crawling all over me",
+      "ants crawling on body dream",
+      "cockroaches crawling on body dream meaning",
+      "bug dream meaning auspicious",
+      "insects on skin dream psychology"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "몸에 벌레가 기어다니는 꿈은 길몽인가요, 흉몽인가요?",
+      "answer_ko": "꿈 속 상황에 따라 달라져요. 벌레가 몸에서 기어 나와 완전히 떠나가는 꿈은 걱정거리가 해소되는 길몽입니다. 반면 벌레가 몸 안으로 파고들거나 온몸을 뒤덮어 불쾌감이 심한 꿈은 건강이나 재물에 주의해야 하는 흉몽으로 해석됩니다.",
+      "question_en": "Is dreaming of bugs crawling on your body a good or bad omen?",
+      "answer_en": "It depends on the dream's context. If the bugs crawl out of and away from your body, it is an auspicious dream indicating worries are resolving. If bugs burrow into your body or swarm your entire body with intense discomfort, it is an inauspicious dream warning you to be careful of health and financial matters."
+    },
+    {
+      "question_ko": "몸에서 벌레가 나오는 꿈을 꾸면 어떤 의미인가요?",
+      "answer_ko": "몸 안에서 벌레가 기어 나오는 꿈은 전통적으로 길몽으로 해석돼요. 오랫동안 마음을 짓누르던 근심과 문제들이 마침내 빠져나가고, 새로운 시작을 위한 내면의 정화가 이루어지는 것을 상징합니다.",
+      "question_en": "What does it mean to dream of bugs coming out of your body?",
+      "answer_en": "Bugs emerging from inside the body is traditionally interpreted as an auspicious dream. It symbolizes that worries and problems that have long weighed on your mind are finally being released, and an inner purification is taking place in preparation for a fresh start."
+    },
+    {
+      "question_ko": "개미가 몸에 기어다니는 꿈은 무슨 의미인가요?",
+      "answer_ko": "개미떼가 팔다리를 기어다니는 꿈은 사업 번창과 재물 획득을 암시하는 길몽입니다. 단, 온몸이 새까맣게 뒤덮일 정도라면 감당하기 어려운 상황이 닥칠 수 있으니 건강과 주변 관계를 잘 살펴봐야 해요.",
+      "question_en": "What does it mean to dream of ants crawling on your body?",
+      "answer_en": "Ants crawling over your arms and legs is an auspicious dream hinting at business prosperity and financial gain. However, if your entire body is densely covered with ants, it may signal an overwhelming situation ahead, so pay attention to your health and relationships."
+    },
+    {
+      "question_ko": "바퀴벌레가 몸에 기어다니는 꿈은 흉몽인가요?",
+      "answer_ko": "네, 바퀴벌레가 몸에 달라붙어 기어다니는 꿈은 흉몽에 가깝습니다. 신체 건강에 부정적인 영향이 오거나 정신적 스트레스가 극심해질 수 있음을 경고해요. 특히 머리에 기어다니면 두통과 정신적 부담을, 손발이라면 신체 피로나 부상 위험을 암시합니다.",
+      "question_en": "Is dreaming of cockroaches crawling on your body an inauspicious sign?",
+      "answer_en": "Yes, cockroaches crawling on your body leans toward being an inauspicious dream. It warns that negative health effects or intense mental stress may be coming. Specifically, cockroaches on the head suggest headaches and mental burden, while those on the hands or feet indicate physical fatigue or injury risk."
+    },
+    {
+      "question_ko": "벌레가 몸속으로 들어가는 꿈은 어떤 의미인가요?",
+      "answer_ko": "벌레가 몸 안으로 파고드는 꿈은 흉몽으로, 건강 문제가 생기거나 주변 인간관계에서 상처를 받을 수 있음을 암시해요. 누군가가 나의 감정적 경계를 침범하고 있다는 무의식적 신호이기도 하니, 소모적인 관계는 정리하는 것이 좋습니다.",
+      "question_en": "What does it mean when bugs enter your body in a dream?",
+      "answer_en": "Bugs burrowing into your body is an inauspicious dream, suggesting potential health problems or emotional wounds from relationship conflicts. It is also an unconscious signal that someone may be invading your emotional boundaries, so it may be worth addressing draining relationships in your life."
+    },
+    {
+      "question_ko": "벌레가 몸에 기어다니는 꿈을 반복해서 꾸는 이유는 무엇인가요?",
+      "answer_ko": "같은 꿈이 반복된다면 현실의 만성적인 스트레스, 해소되지 않은 감정적 갈등, 또는 신체 건강에 대한 무의식적인 불안이 꿈으로 표출되고 있을 가능성이 높아요. 수면 중 피부 감각 이상(포름미케이션)이 원인이 되기도 하므로, 반복된다면 스트레스 관리와 함께 신체 건강 검진도 권장됩니다.",
+      "question_en": "Why do I keep having dreams about bugs crawling on my body?",
+      "answer_en": "Recurring dreams of this kind likely reflect chronic stress, unresolved emotional conflict, or unconscious anxiety about physical health surfacing through dreams. A physical sensation called formication — a crawling feeling on the skin during sleep — can also trigger the dream, so if it recurs, stress management and a health check-up are both recommended."
+    }
+  ]
+}

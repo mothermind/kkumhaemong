@@ -1,0 +1,205 @@
+{
+  "symbol": {
+    "korean": "불꿈",
+    "english": "Dream of Fire",
+    "slug": "fire-dream"
+  },
+  "summary": {
+    "korean": "불꿈은 전통적으로 재물운 상승과 사업 번창을 상징하는 강력한 길몽이지만, 불길의 상태와 꿈속 감정에 따라 해석이 크게 달라집니다.",
+    "english": "Dreaming of fire is traditionally considered a powerful auspicious sign symbolizing rising wealth and business success in Korean dream interpretation, though the meaning shifts significantly depending on how the fire burns and the dreamer's emotional state."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "불이 활활 크고 밝게 타오르는 꿈은 재물운 상승, 사업 번창, 승진을 암시하는 대표적인 길몽이에요. 불길이 크고 힘차게 타오를수록 다가오는 행운의 규모도 커진다고 해석합니다. 집에 불이 활활 붙는 꿈은 가정에 큰 재물이 들어오거나 복권 당첨, 뜻밖의 횡재를 암시할 만큼 강력한 행운의 징조예요.",
+      "english": "When fire burns brightly and powerfully in a dream, it is a quintessential auspicious omen signaling rising financial luck, business prosperity, and promotion. The larger and more vigorous the flames, the greater the fortune approaching. A house engulfed in bright flames is one of the strongest wealth omens in Korean folk interpretation, suggesting windfall gains, lottery luck, or unexpected inheritance.",
+      "context": "불이 크고 밝게, 힘차게 타오르며 두려움보다 장엄한 느낌을 줄 때. 불길이 활활 번지며 연기 없이 깨끗하게 타오르는 경우."
+    },
+    {
+      "type": "흉몽",
+      "korean": "불길이 꺼지거나 약해지는 꿈, 불을 끄려 하지만 실패하는 꿈, 연기만 자욱하게 피어오르는 꿈은 흉몽으로 풀이돼요. 이런 꿈은 진행 중인 일의 차질, 재물 손실, 건강 악화, 혹은 가정과 직장에서의 불화를 경고합니다. 특히 불이 완전히 꺼진 꿈은 사업 실패나 중요한 기회를 놓칠 수 있다는 강한 경고 신호예요.",
+      "english": "Dreams where fire weakens or goes out, where you fail to extinguish a blaze, or where thick smoke rises without clear flames are inauspicious signs. These dreams warn of setbacks in ongoing endeavors, financial losses, deteriorating health, or discord at home and work. A fire completely extinguished is a strong warning of potential business failure or a missed critical opportunity.",
+      "context": "불이 꺼지거나, 연기만 피어오르거나, 물을 끼얹어도 소용없는 경우. 불 앞에서 공포와 불안을 강하게 느끼는 경우."
+    },
+    {
+      "type": "neutral",
+      "korean": "불꿈의 해석은 불의 크기, 색깔, 장소, 꿈꾸는 사람이 느끼는 감정에 따라 180도 달라질 수 있어요. 같은 집에 불나는 꿈이라도 불길이 환하고 두려움이 없으면 재물운 상승(길몽), 연기가 자욱하고 두려우면 가정 불화(흉몽)로 봅니다. 불을 끄는 꿈도 성공적으로 끄면 문제 해결(길몽)이지만 끄지 못하면 지속되는 어려움(흉몽)으로 봐요.",
+      "english": "The interpretation of fire dreams can shift completely depending on the fire's size, color, location, and the dreamer's emotions. Even the same house fire dream is read as rising wealth (auspicious) if the flames are bright and the dreamer feels no fear, but as family discord (inauspicious) if smoke is thick and the dreamer feels dread. Extinguishing a fire successfully signals problem-solving ability, while failure to extinguish it signals ongoing difficulties.",
+      "context": "꿈속 불의 상태, 연기 여부, 꿈꾸는 사람의 감정(두려움 vs 장엄함)에 따라 판단. 불과 관련된 구체적 행동이나 결과가 핵심 판단 기준."
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "집에 불나는 꿈",
+      "keyword_en": "house fire dream",
+      "interpretation_ko": "집에 불이 활활 타오르는 꿈은 재물운 상승과 사업 번창을 알리는 강한 길몽이에요. 오래된 액운과 묵은 문제들이 불타 없어지고 새로운 행운이 들어설 징조로 봅니다. 다만 불길 대신 연기만 피어오른다면 가정 내 불화나 오해를 조심하라는 경고예요.",
+      "interpretation_en": "A house engulfed in bright, roaring flames is a strong auspicious omen in Korean folk interpretation, signaling wealth gains and the burning away of old misfortunes. If only smoke rises without clear flames, however, it warns of household discord or misunderstandings."
+    },
+    {
+      "keyword_ko": "불 끄는 꿈",
+      "keyword_en": "extinguishing fire dream",
+      "interpretation_ko": "불을 성공적으로 끄는 꿈은 문제 해결 능력과 연애 성공을 암시하는 길몽으로 볼 수 있어요. 반면 물을 뿌려도 꺼지지 않거나 끄지 못해 당황하는 꿈은 진행 중인 일의 실패, 재물 손실, 건강 악화를 경고하는 흉몽이에요.",
+      "interpretation_en": "Successfully extinguishing a fire in a dream signifies problem-solving ability and can be auspicious, including for romantic prospects. However, failing to put out the flames — or watching water have no effect — warns of business setbacks, financial loss, or declining health."
+    },
+    {
+      "keyword_ko": "산불 꿈",
+      "keyword_en": "forest fire / mountain fire dream",
+      "interpretation_ko": "산 전체가 웅장하고 장엄하게 타오르는 꿈은 인생의 큰 변화, 성공, 사회적 영향력 확대를 암시하는 길몽이에요. 불길이 환하게 퍼질수록 재물운과 기회가 늘어난다고 봅니다. 그러나 산과 들이 온통 불길에 휩싸여 혼란스럽고 두려운 꿈은 사회적 험담이나 스트레스, 심각한 변화를 경고해요.",
+      "interpretation_en": "A majestic mountain or forest ablaze — where the fire feels grand rather than frightening — is a powerful auspicious omen signaling major life advancement, growing social influence, and expanding fortune. Uncontrolled, chaotic mountain fires that inspire fear, however, warn of public gossip, stress, or unwanted upheaval."
+    },
+    {
+      "keyword_ko": "불에 타는 꿈",
+      "keyword_en": "being burned by fire dream",
+      "interpretation_ko": "자신이 불에 타는 꿈은 해석이 엇갈려요. 불타면서도 고통이 없거나 오히려 상쾌한 느낌이면 하는 일이 순탄하게 풀리고 사회적으로 인정받을 길몽이에요. 반면 뜨겁고 고통스러운 느낌이 강하면 건강 악화나 정신적 스트레스를 경고하는 흉몽으로 봐야 해요.",
+      "interpretation_en": "Being burned by fire carries opposite meanings depending on sensation. Burning without pain — or even with a sense of liberation — signals smooth progress in endeavors and growing recognition, making it auspicious. Burning with intense pain warns of health deterioration or severe mental stress."
+    },
+    {
+      "keyword_ko": "불덩이가 떨어지는 꿈",
+      "keyword_en": "fireball falling from sky dream",
+      "interpretation_ko": "하늘에서 불덩이가 떨어지는 꿈은 사회적으로 큰 변화나 중요한 사건이 일어날 것을 예고하는 꿈이에요. 특히 불덩이가 치마 속이나 뱃속으로 들어오는 꿈은 탁월한 재능을 가진 아이를 임신할 태몽이거나, 훌륭한 협력자를 만날 징조로 봐요.",
+      "interpretation_en": "A fireball falling from the sky foretells major social change or a significant event. When the fireball enters one's clothing or body, it is interpreted as a pregnancy dream (태몽) foretelling an exceptionally gifted child, or as a sign of meeting a remarkable partner or collaborator."
+    },
+    {
+      "keyword_ko": "불꽃이 하늘로 치솟는 꿈",
+      "keyword_en": "flames shooting up to the sky dream",
+      "interpretation_ko": "불길이 하늘 높이 치솟는 꿈은 귀인의 도움으로 사업이 번창하고 재물이 크게 쌓일 것을 암시하는 길몽이에요. 꿈속에서 위로 솟구치는 에너지는 운기 상승과 출세를 상징합니다.",
+      "interpretation_en": "Flames shooting high into the sky are a strong auspicious sign of business prosperity and substantial wealth accumulation, often through the help of an influential benefactor. Upward-surging fire energy symbolizes rising fortune and career advancement."
+    },
+    {
+      "keyword_ko": "물에 불이 붙는 꿈",
+      "keyword_en": "fire on water dream",
+      "interpretation_ko": "물 위에 불이 붙거나 물이 불타는 꿈은 사업의 대성공과 엄청난 재물을 암시하는 꿈해몽 중 최고의 길몽 중 하나예요. 불가능해 보이는 일이 이루어지는 것을 상징하며, 사회적 신분 상승도 기대할 수 있어요.",
+      "interpretation_en": "Fire burning on or in water is one of the most auspicious fire dream variations, symbolizing great business success and extraordinary wealth. It represents the impossible becoming possible, and suggests a significant rise in social status."
+    },
+    {
+      "keyword_ko": "촛불 꿈",
+      "keyword_en": "candle fire dream",
+      "interpretation_ko": "촛불이 밝게 타오르는 꿈은 희망, 재물운, 사업 번창을 상징하는 길몽이에요. 하지만 촛불이 약해지며 꺼져가는 꿈은 건강 악화, 과거의 실수가 현재에 장애물이 될 수 있음을 경고하는 흉몽이에요.",
+      "interpretation_en": "A brightly burning candle is an auspicious omen symbolizing hope, fortune, and business prosperity. A candle flickering and about to go out warns of health decline or past mistakes creating present obstacles."
+    },
+    {
+      "keyword_ko": "불씨가 꺼지는 꿈",
+      "keyword_en": "fire dying out dream",
+      "interpretation_ko": "불씨가 점점 작아져 꺼지는 꿈은 사업 쇠퇴, 재물과 명성의 손실을 암시하는 흉몽이에요. 활력이 소진되고 기회를 놓칠 수 있다는 경고이므로 건강과 재정 관리에 주의를 기울여야 해요.",
+      "interpretation_en": "A fire slowly dying out is an inauspicious omen signaling business decline and loss of wealth or reputation. It warns of diminishing vitality and missed opportunities, calling for careful attention to health and financial management."
+    },
+    {
+      "keyword_ko": "불을 피우는 꿈",
+      "keyword_en": "starting a fire dream",
+      "interpretation_ko": "직접 불을 피우는 꿈은 새로운 사업이나 프로젝트를 시작하는 것을 상징해요. 불이 잘 피워지면 새로운 시작이 순탄하다는 길몽이지만, 불이 잘 피워지지 않으면 노력이 결실을 맺기 어려운 상황임을 암시하는 흉몽이에요.",
+      "interpretation_en": "Starting a fire yourself represents launching a new business or project. If the fire lights easily, it is auspicious — the new endeavor will go smoothly. If the fire refuses to catch, it warns that current efforts may struggle to produce results."
+    },
+    {
+      "keyword_ko": "화재 현장에서 도망치는 꿈",
+      "keyword_en": "fleeing from a fire dream",
+      "interpretation_ko": "화재 현장에서 도망치는 꿈은 현실에서 해결하지 못한 문제나 감정적 상처로부터 회피하려는 심리를 반영해요. 현재 처한 어려운 상황이 쉽게 해결되지 않을 수 있으니 적극적으로 맞서야 한다는 경고이기도 해요.",
+      "interpretation_en": "Fleeing from a fire reflects avoidance of unresolved real-life problems or unhealed emotional wounds. It serves as a warning that the current difficulty will not resolve on its own, urging the dreamer to confront the situation directly."
+    },
+    {
+      "keyword_ko": "연기만 나는 꿈",
+      "keyword_en": "smoke without fire dream",
+      "interpretation_ko": "불꽃 없이 연기만 자욱하게 피어오르는 꿈은 근거 없는 소문, 억울한 누명, 혹은 자신의 능력을 제대로 발휘하지 못하는 상황을 암시하는 흉몽이에요. 주변의 험담이나 오해로 억울한 일을 겪을 수 있으니 주의가 필요해요.",
+      "interpretation_en": "Thick smoke rising without visible flames is an inauspicious sign pointing to baseless rumors, false accusations, or situations where one's true abilities cannot be demonstrated. Beware of gossip or misunderstandings in the near future."
+    }
+  ],
+  "culturalContext": {
+    "korean": "한국 전통에서 불은 오행(五行) 사상 중 화(火)의 기운으로, 생명력과 양기(陽氣)의 정수를 담고 있어요. 음양오행 철학에서 불은 남쪽 방향, 여름, 그리고 강렬한 생명 에너지를 상징하며, 활활 타오르는 불꿈은 이 양기가 왕성하게 올라오는 길조로 풀이됩니다. 한국 무속 신앙에서도 불은 정화와 벽사(辟邪)의 역할을 맡아왔어요. 무당의 굿 의식에서 불은 잡귀와 액운을 태워 없애고 복을 불러들이는 신성한 매개로 여겨졌으며, 정월 대보름의 달집태우기나 논두렁 태우기 풍습도 이 사상의 연장선이에요. 집에 불이 나는 꿈을 길몽으로 보는 근거는 바로 이 '불=정화=새로운 시작'의 등식에서 나옵니다. 동아시아 문화 전반에서도 불은 비슷하게 재물과 번영의 상징으로 기능해요. 중국 전통 해몽에서도 밝은 불꿈은 재물과 명예를 암시하며, 이는 한국의 해석과 맥을 같이합니다. 다만 한국 꿈해몽의 독특한 점은 '불의 감정적 온도', 즉 꿈속에서 뜨거움과 고통을 느꼈는지 여부가 길흉 판단의 핵심 기준이 된다는 점이에요.",
+    "english": "In Korean traditional cosmology, fire embodies the Wood-Fire-Earth-Metal-Water (오행, Five Elements) system's fire element, representing life force and concentrated yang energy (양기). Fire is associated with the south direction, summer, and intense vitality — a roaring fire dream is read as a surge of this yang energy, an auspicious portent. Korean shamanism (무속신앙) has long used fire as a purifying and protective force: in gut (무당 ritual) ceremonies, fire burns away malevolent spirits and misfortune while inviting good fortune. Folk customs like burning straw bales on the first full moon (달집태우기) and burning rice paddy borders (논두렁 태우기) express this same worldview — fire cleanses the old and makes room for new blessings. The seemingly paradoxical belief that a house burning in a dream is good luck directly stems from this 'fire equals purification equals renewal' equation. Across East Asian cultures, bright fire similarly signals prosperity and honor; Chinese traditional dream interpretation aligns closely with the Korean reading. A uniquely Korean interpretive key, however, is the focus on the dreamer's felt sensation: whether one feels heat and pain in the dream is the primary determinant of whether the fire dream is auspicious or inauspicious."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트는 불을 인간의 리비도, 즉 억압된 성적 에너지와 강렬한 욕망의 상징으로 해석했어요. 그의 1932년 논문 '불의 획득(The Acquisition of Fire)'에서 프로이트는 프로메테우스 신화를 분석하며, 불이 '인간을 특징짓는 사랑의 열정'을 표상한다고 주장했어요. 꿈에서 불이 나타난다면 그것은 의식적으로 억압하고 있는 강렬한 감정—분노, 욕구, 좌절감—이 무의식 깊은 곳에서 솟구쳐 오르는 것으로 볼 수 있어요.",
+      "english": "Freud interpreted fire as a symbol of the libido and repressed passion. In his 1932 essay 'The Acquisition of Fire,' he analyzed the Prometheus myth and argued that fire represents 'the loving passion that characterizes man.' In dreams, fire may signal that intensely suppressed emotions — anger, desire, or frustration — are erupting from the depths of the unconscious."
+    },
+    "jungian": {
+      "korean": "융은 불을 개인의 무의식을 넘어선 집단무의식의 원형(原型)으로 보았어요. 그에게 불은 정화와 변환의 상징이며, 연금술에서 납을 금으로 변화시키는 과정처럼 심리적 개성화(individuation)를 상징해요. 불꿈은 꿈꾼 사람이 자아의 낡은 껍질을 벗어던지고 더 통합된 자기(Self)로 나아가는 심층적 변화의 과정에 있다는 신호일 수 있어요. 융은 또한 불을 정신적 에너지와 영적 재탄생의 원천으로 연결 지었어요.",
+      "english": "Jung viewed fire as a primordial archetype of the collective unconscious, symbolizing transformation and purification much like the alchemical process of transmuting base metals into gold. A fire dream, in Jungian terms, signals that the dreamer is undergoing the process of individuation — shedding the old ego-self and moving toward a more integrated wholeness. Jung also connected fire to spiritual rebirth and the renewal of psychic energy."
+    },
+    "modern": {
+      "korean": "현대 심리학과 뇌과학에서 불꿈은 주로 극도의 스트레스, 강렬한 감정적 각성 상태, 또는 삶의 중요한 전환점에서 자주 나타나는 것으로 봐요. 꿈 연구자 로리 뢰벤버그(Lauri Loewenberg)는 불꿈을 꾸는 사람들이 현실에서 해결되지 않은 분노나 갈등을 안고 있는 경우가 많다고 지적해요. 또한 불꿈은 삶의 큰 변화(이직, 이별, 이사 등) 전후로 빈번하게 나타나는데, 이는 뇌가 변화에 대한 불안과 기대를 감각적인 이미지로 처리하는 방식으로 해석돼요.",
+      "english": "Modern psychology and neuroscience associate fire dreams with periods of extreme stress, intense emotional arousal, or major life transitions. Dream researcher Lauri Loewenberg notes that people who dream of fire frequently are processing unresolved anger or conflict in waking life. Fire dreams also tend to appear before and after significant changes — job shifts, relationship endings, relocations — as the brain processes anxiety and anticipation about transformation through vivid sensory imagery."
+    },
+    "crossCultural": {
+      "korean": "한국 전통 꿈해몽이 불꿈을 주로 재물과 번영의 길조로 보는 반면, 서양의 프로이트-융 전통은 불을 내면의 감정 에너지와 심리적 변화의 신호로 풀이해요. 두 전통 모두 불이 '변환(transformation)'을 상징한다는 점에서 맥락을 공유하지만, 한국 해몽이 현실적 행운에 초점을 맞추는 데 비해 서양 심리학은 꿈꾼 사람의 내면 세계를 탐구하는 방향으로 해석합니다.",
+      "english": "While Korean traditional interpretation primarily reads fire dreams as omens of wealth and prosperity, the Western Freudian-Jungian tradition treats fire as a signal of inner emotional energy and psychological transformation. Both traditions share the theme of 'transformation,' but Korean dream interpretation focuses on real-world fortune outcomes, whereas Western psychology uses fire dreams as a lens into the dreamer's inner emotional landscape."
+    }
+  },
+  "relatedSymbols": [
+    "smoke",
+    "water",
+    "house",
+    "mountain",
+    "candle",
+    "lightning",
+    "sun",
+    "explosion"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "불꿈",
+      "불꿈 해몽",
+      "불꿈 길몽 흉몽",
+      "불나는 꿈",
+      "집에 불나는 꿈",
+      "불 끄는 꿈 해몽",
+      "산불 꿈 해몽",
+      "불에 타는 꿈",
+      "불꿈 재물운",
+      "불꿈 로또",
+      "큰 불꿈",
+      "불꿈 의미",
+      "화재 꿈 해몽",
+      "불꿈 태몽"
+    ],
+    "english": [
+      "fire dream meaning",
+      "dream about fire Korean interpretation",
+      "house fire dream meaning",
+      "fire dream auspicious",
+      "burning dream Korean",
+      "forest fire dream meaning",
+      "extinguishing fire dream",
+      "fire dream wealth luck",
+      "Korean fire dream interpretation",
+      "fire dream good or bad omen"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "불꿈을 꾸면 로또를 사야 하나요?",
+      "answer_ko": "불이 활활 크고 밝게 타오르는 꿈, 특히 집에 불이 나서 활활 타는 꿈이나 물에 불이 붙는 꿈은 전통 꿈해몽에서 재물운 상승과 횡재를 암시하는 대표적인 길몽이에요. 이런 꿈을 꾼 뒤 복권을 구입하는 것은 오래된 한국 풍속이기도 하죠. 다만 꿈속에서 연기만 피어오르거나 불을 끄지 못해 당황했다면 불꿈이라도 재물운 꿈으로 보기 어려워요.",
+      "question_en": "Should I buy a lottery ticket after dreaming about fire?",
+      "answer_en": "Bright, vigorously burning fire dreams — especially a house fire with tall clear flames, or fire burning on water — are traditionally read as strong wealth omens in Korean dream interpretation. Buying a lottery ticket after such a dream is a longstanding Korean folk custom. However, if the dream featured mostly smoke, or you failed to extinguish the fire, it is generally not considered a wealth-luck dream."
+    },
+    {
+      "question_ko": "집에 불나는 꿈은 실제로 화재가 날 징조인가요?",
+      "answer_ko": "아니에요. 한국 전통 꿈해몽에서 집에 불이 나는 꿈은 실제 화재를 예고하는 것이 아니라, 오히려 재물운 상승과 사업 번창을 암시하는 강한 길몽으로 해석해요. 불이 묵은 액운을 태워 없애고 새로운 행운을 불러온다는 민속 신앙에서 비롯된 해석이에요. 물론 실제 화재 예방은 늘 중요하니, 집에서 불 안전 점검을 게을리하지 마세요.",
+      "question_en": "Does dreaming of a house fire predict a real fire?",
+      "answer_en": "No. In Korean traditional dream interpretation, dreaming that your house is on fire does not predict a real fire. It is actually interpreted as a strong auspicious omen of rising financial luck and business prosperity — the belief that fire burns away accumulated misfortune and invites fresh blessings. That said, practical fire safety at home is always important regardless of dream omens."
+    },
+    {
+      "question_ko": "불 끄는 꿈은 왜 흉몽인가요?",
+      "answer_ko": "한국 꿈해몽에서 불을 끄는 행위는 행운의 기운(불길)을 스스로 꺼뜨리는 것으로 해석되기도 해요. 특히 활활 타오르는 불을 물을 끼얹어 꺼버리는 꿈은 재물 손실이나 기회를 놓치는 것을 상징한다고 봐요. 다만 소화기로 작은 불씨를 끄는 꿈이나 성공적으로 화재를 진압하는 꿈은 문제 해결 능력이나 연애 성공으로 길하게 보는 경우도 있어 맥락이 중요해요.",
+      "question_en": "Why is extinguishing a fire dream considered a bad omen?",
+      "answer_en": "In Korean dream interpretation, putting out a fire is sometimes read as extinguishing one's own good fortune. Dousing a vigorously burning fire with water in particular is seen as symbolizing financial loss or missing an important opportunity. However, context matters: successfully extinguishing a small fire or handling a fire emergency calmly can be read as problem-solving ability or even romantic success, so the specific circumstances of the dream matter greatly."
+    },
+    {
+      "question_ko": "불꿈은 태몽이 될 수 있나요?",
+      "answer_ko": "네, 불꿈은 태몽으로 해석되는 경우가 있어요. 특히 하늘에서 불덩이가 떨어져 치마 속이나 뱃속으로 들어오는 꿈은 탁월한 재능과 강한 생명력을 지닌 아이를 잉태할 것을 예고하는 태몽으로 봐요. 불의 강렬한 에너지가 태어날 아이의 강한 기운과 특출난 능력을 상징한다고 여겨요.",
+      "question_en": "Can a fire dream be a pregnancy dream (태몽)?",
+      "answer_en": "Yes. In certain forms, fire dreams are interpreted as pregnancy dreams (태몽) in Korean tradition. Specifically, a fireball falling from the sky and entering the dreamer's body or clothing is regarded as a pregnancy omen foretelling a child of exceptional talent and strong vitality. The intense energy of fire is seen as symbolizing the future child's powerful spirit and outstanding abilities."
+    },
+    {
+      "question_ko": "연기만 나는 꿈과 불이 나는 꿈은 다른가요?",
+      "answer_ko": "네, 꿈해몽에서 연기와 불은 매우 다르게 해석돼요. 불꽃이 크고 밝게 타오르는 꿈은 대체로 재물운과 번영을 암시하는 길몽이지만, 연기만 자욱하게 피어오르고 불꽃이 보이지 않는 꿈은 근거 없는 소문, 억울한 오해, 실력을 인정받지 못하는 상황을 암시하는 흉몽으로 봐요. 불꿈을 해몽할 때는 불꽃과 연기의 비율, 투명도가 중요한 판단 기준이에요.",
+      "question_en": "Is a smoke dream different from a fire dream?",
+      "answer_en": "Yes, Korean dream interpretation distinguishes sharply between fire and smoke. Bright, clearly burning flames generally signal wealth and prosperity (auspicious), while thick smoke rising without visible flames is an inauspicious sign pointing to baseless rumors, false accusations, or a situation where one's abilities go unrecognized. When interpreting a fire dream, the ratio of flames to smoke — and how clear the flames are — is a key factor."
+    },
+    {
+      "question_ko": "불꿈을 자주 꾸면 어떤 의미가 있나요?",
+      "answer_ko": "같은 불꿈을 반복해서 꾼다면 전통 해몽 외에도 현실의 심리적 상태를 돌아볼 필요가 있어요. 현대 심리학에서는 반복되는 불꿈이 해결되지 않은 분노, 극심한 스트레스, 또는 삶의 큰 변화(이직, 이별, 환경 변화)에 대한 심리적 처리를 반영하는 경우가 많다고 봐요. 꿈에서 느낀 감정을 기록하고, 현재 내 삶에서 '불' 같이 타오르거나 억눌린 부분이 있는지 생각해보는 것이 도움이 될 수 있어요.",
+      "question_en": "What does it mean to dream about fire repeatedly?",
+      "answer_en": "Recurring fire dreams merit reflection beyond traditional interpretation. In modern psychology, repeated fire dreams often reflect unresolved anger, severe stress, or the mind's processing of a major life change — a career shift, a relationship ending, or a significant environmental upheaval. Keeping a dream journal and examining whether there are any 'burning' unresolved tensions in your waking life can offer valuable personal insight."
+    }
+  ]
+}

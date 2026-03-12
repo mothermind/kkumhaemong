@@ -346,20 +346,44 @@ All hooks are minimal — logging + security only, no TTS, no external API calls
 
 ---
 
-## Current State (last updated: session end)
+## Current State (last updated: 2026-03-12)
 
 ### Content Pipeline Progress
 - **actions.json: 161 / 161 complete** ✅ — all action dream symbols have content + images
 - Content files live in `data/content/actions/` (category subfolder, not flat)
 - `src/lib/content.ts` supports subdirectory scanning (one level deep: `data/content/{category}/{slug}.json`)
-- **Next category to process**: `animals.json` (234 symbols, highest traffic) — needs research first
-- Other categories pending: body (201), people (185), pregnancy (89), money (74), food (76), death (73), objects (78), places (75), nature (63), water (68), disasters (52), emotions (52), fire (52), marriage (48), celestial (48), transportation (48), clothing (41), colors (41), insects (41), numbers (41), weather (40), spirits (39), plants (39)
-- **Total remaining**: ~1,779 articles across 24 categories
+
+### Research Phase Progress (top-10 per category from `data/research/_plan.json`)
+- **animals**: 10/10 ✅
+- **body**: 10/10 ✅
+- **celestial**: 10/10 ✅
+- **clothing**: 10/10 ✅
+- **colors**: 10/10 ✅
+- **death**: 10/10 ✅
+- **disasters**: 10/10 ✅
+- **emotions**: 5/10 — remaining: anger, embarrassment, love, frustration, betrayal
+- **fire**: 1/10 — remaining: fire, house-fire, big-fire, extinguishing-fire, candle, body-on-fire, smoke, explosion, fireworks
+- **food**: 0/10
+- **insects**: 0/10
+- **marriage**: 0/10
+- **money**: 0/10
+- **nature**: 0/10
+- **numbers**: 0/10
+- **objects**: 0/10
+- **people**: 0/10
+- **places**: 0/10
+- **plants**: 0/10
+- **pregnancy**: 0/10
+- **spirits**: 0/10
+- **transportation**: 0/10
+- **water**: 0/10
+- **weather**: 0/10
+- **Total missing**: 164 research files remaining
 
 ### Pipeline to run next articles
-1. Run `dream-research-agent` for symbols in next category (batch 6 in parallel)
-2. Run `dream-content-agent` for each researched symbol (reads research → generates content + images)
-3. Content agent also calls Imagen 4 (`imagen-4.0-generate-001`) via Google Generative Language API
+1. Complete research phase: run `dream-research-agent` in batches of **6** (not more — avoid rate limits)
+2. After all research done: run `dream-content-agent` for each symbol (reads research → generates content + images)
+3. Content agent calls Imagen 4 (`imagen-4.0-generate-001`) via Google Generative Language API
 4. `source ~/.zshrc` required in bash for GOOGLE_API_KEY
 
 ---

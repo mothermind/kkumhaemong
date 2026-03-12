@@ -1,0 +1,200 @@
+{
+  "symbol": {
+    "korean": "정원 꿈",
+    "english": "Dream of a Garden",
+    "slug": "garden-dream"
+  },
+  "summary": {
+    "korean": "정원 꿈은 전통적으로 내면의 풍요로움과 가정의 번영을 상징하며, 정원의 상태에 따라 길몽과 흉몽이 갈립니다.",
+    "english": "Dreaming of a garden traditionally symbolizes inner prosperity and domestic well-being in Korean dream interpretation, with the garden's condition determining whether it foretells good or ill fortune."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "꽃이 만발하고 아름다운 정원을 꿈에서 보면 사업상 또는 여러 방면에서 경사로운 일이 생길 징조입니다. 집안에 좋은 일이 연달아 일어나고 재물이 들어오며, 하고 있는 일에 기반을 튼튼히 닦아 날로 번창하게 됩니다.",
+      "english": "Seeing a beautifully blooming garden in a dream signals auspicious events in business and other areas of life. Good things will follow one after another in the household, wealth will flow in, and whatever project you are working on will grow ever more prosperous.",
+      "context": "When the garden is lush, orderly, and full of blooming flowers, symbolizing family celebration and incoming fortune."
+    },
+    {
+      "type": "길몽",
+      "korean": "아름답고 반듯한 정원이 꿈에 보이면 마음의 정리와 평화가 깃들어 있음을 나타냅니다. 꽃밭에 물을 주는 꿈은 오랫동안 소원하던 바가 이루어지고, 어려운 사람을 도울 기회를 얻게 되어 마음의 여유와 즐거움을 찾게 됩니다.",
+      "english": "Dreaming of a neatly arranged and beautiful garden indicates inner peace and clarity of mind. Watering flowers in a garden predicts the fulfillment of long-held wishes and the opportunity to help others, bringing emotional abundance and joy.",
+      "context": "A well-maintained, orderly garden or the act of watering plants in a dream context."
+    },
+    {
+      "type": "길몽",
+      "korean": "정원이 넓은 꿈은 어떤 기관이나 사업체, 운세 등이 발전적이고 크게 뻗어나갈 것을 의미합니다. 과일나무를 정원에 심는 꿈은 생산적이고 창의적인 일에 종사하게 됨을 암시합니다.",
+      "english": "Dreaming of a large, expansive garden signals that your organization, business, or personal prospects will grow and flourish. Planting fruit trees in the garden foreshadows involvement in productive and creative work.",
+      "context": "A spacious garden dream suggests broad influence, while planting fruit trees points to creative productivity."
+    },
+    {
+      "type": "흉몽",
+      "korean": "잡초가 무성하고 손질이 안된 황폐한 정원에 서 있는 꿈은 가정생활이나 결혼생활에 불화가 싹틀 조짐입니다. 정원이 질서가 없고 어지럽다면 심신의 안정이 요구되는 신호로 해석됩니다.",
+      "english": "Standing in a neglected, weed-filled garden warns of discord brewing in domestic or married life. A chaotic, disordered garden signals that mental and physical balance are urgently needed.",
+      "context": "When the garden is abandoned, overgrown, or in disarray, reflecting inner turmoil or family conflict."
+    },
+    {
+      "type": "흉몽",
+      "korean": "정원에 피어있는 붉은 꽃을 보는 꿈은 화재가 발생할 것을 암시하며, 여성의 경우 신체적 변화(생리)를 예고하기도 합니다. 정원의 꽃 위를 나비가 날아다니는 꿈은 집안 가족 중 누군가의 건강에 이상이 생길 징조입니다.",
+      "english": "Dreaming of red flowers blooming in a garden can warn of fire or, for women, signal a physical change. Butterflies fluttering over flowers in a garden portend health troubles for a family member.",
+      "context": "Red blooms in the garden or butterflies hovering over garden flowers carry warning signs in traditional interpretation."
+    },
+    {
+      "type": "neutral",
+      "korean": "정원은 자신에게 소중한 것—가족, 사랑, 영혼, 내적 생활—을 상징합니다. 정원의 상태는 꿈꾸는 사람의 마음 상태를 반영하는 거울로, 정원이 풍요롭다면 내면도 충만하고, 황폐하다면 내면의 돌봄이 필요한 상태입니다.",
+      "english": "The garden symbolizes what the dreamer holds dear—family, love, spirit, and inner life. Its condition serves as a mirror of one's inner state: a thriving garden reflects emotional fullness, while a barren one signals a need for self-care.",
+      "context": "General interpretation applicable to any garden dream, depending on the garden's overall condition."
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "꽃이 만발한 정원 꿈",
+      "keyword_en": "dream of garden in full bloom",
+      "interpretation_ko": "집안에 경사스러운 일이 연달아 일어나고 새 식구를 맞이하게 됩니다. 사업이나 여러 방면에서 번창할 길몽입니다.",
+      "interpretation_en": "A garden in full bloom predicts a string of joyous family events and possibly a new family member. It is a strong auspicious omen for business and personal endeavors."
+    },
+    {
+      "keyword_ko": "황폐한 정원 꿈",
+      "keyword_en": "dream of neglected or overgrown garden",
+      "interpretation_ko": "잡초가 무성하고 손질이 안된 황폐한 정원은 가정이나 결혼생활에 불화가 생길 조짐입니다. 심신의 안정을 찾는 것이 시급합니다.",
+      "interpretation_en": "A neglected, weed-covered garden warns of domestic discord or marital tension. The dream urges the dreamer to restore balance and tend to neglected relationships."
+    },
+    {
+      "keyword_ko": "정원에서 꽃을 꺾는 꿈",
+      "keyword_en": "dream of picking flowers in a garden",
+      "interpretation_ko": "정원이나 꽃밭에서 꽃을 꺾어 가슴에 안는 꿈은 자신이 속한 단체나 직장에서 좋은 성과를 내고 인정을 받을 것을 의미합니다.",
+      "interpretation_en": "Picking flowers and holding them to your chest in a garden signals recognition and positive evaluation in your workplace or community."
+    },
+    {
+      "keyword_ko": "정원에 물을 주는 꿈",
+      "keyword_en": "dream of watering the garden",
+      "interpretation_ko": "꽃밭이나 정원에 물을 주는 꿈은 오랫동안 소원하던 바가 이루어지고, 어렵고 힘든 사람을 도와줄 기회가 생겨 마음의 여유와 즐거움을 찾게 되는 길몽입니다.",
+      "interpretation_en": "Watering a garden or flower bed in a dream is an auspicious sign that long-held wishes will be granted, and opportunities to help others will bring personal joy and fulfillment."
+    },
+    {
+      "keyword_ko": "정원에 과일나무 심는 꿈",
+      "keyword_en": "dream of planting fruit trees in a garden",
+      "interpretation_ko": "과일나무를 정원에 심는 꿈은 생산적이고 창의적인 일에 종사하거나, 새로운 사업이나 프로젝트를 시작하는 것과 관련이 있습니다. 노력의 결실을 거두게 됩니다.",
+      "interpretation_en": "Planting fruit trees in a garden suggests involvement in productive or creative pursuits, or the launch of a new project. The dreamer will reap the rewards of their efforts in due time."
+    },
+    {
+      "keyword_ko": "넓은 정원 꿈",
+      "keyword_en": "dream of a large expansive garden",
+      "interpretation_ko": "정원이 넓고 드넓게 펼쳐진 꿈은 사업체나 기관, 개인의 운세 등이 크고 발전적인 방향으로 뻗어나갈 것을 의미하는 길몽입니다.",
+      "interpretation_en": "An expansive garden in a dream predicts that your business, organization, or personal fortunes will expand and develop in a major way."
+    },
+    {
+      "keyword_ko": "정원 꽃밭에서 노는 꿈",
+      "keyword_en": "dream of playing in a flower garden",
+      "interpretation_ko": "꽃밭에서 즐겁게 노는 꿈은 태몽으로 해석되기도 하며, 장차 예쁜 여자아이를 얻게 될 것을 예고합니다.",
+      "interpretation_en": "Playing joyfully in a flower garden can be interpreted as a pregnancy dream (태몽), traditionally predicting the birth of a beautiful daughter."
+    },
+    {
+      "keyword_ko": "정원에서 장미꽃 보는 꿈",
+      "keyword_en": "dream of roses in a garden",
+      "interpretation_ko": "장미꽃이 활짝 핀 정원에 들어가는 꿈은 여러 사람들에게 축하를 받고 사교적으로 좋은 관계를 유지하게 됨을 나타냅니다.",
+      "interpretation_en": "Entering a garden full of fully bloomed roses predicts receiving congratulations from many people and maintaining harmonious social relationships."
+    },
+    {
+      "keyword_ko": "정원에서 나비 보는 꿈",
+      "keyword_en": "dream of butterflies in a garden",
+      "interpretation_ko": "정원에 핀 꽃 위를 나비가 날고 있는 꿈은 집안 가족 중 누군가의 건강에 이상이 생길 것을 경고하는 흉조로 해석됩니다.",
+      "interpretation_en": "Butterflies flying over flowers in a garden warn of potential health issues for a family member, and is generally considered an inauspicious omen."
+    },
+    {
+      "keyword_ko": "정원에서 산책하는 꿈",
+      "keyword_en": "dream of walking through a garden",
+      "interpretation_ko": "아름다운 정원을 거니는 꿈은 현재 내면에 평화와 여유가 깃든 상태임을 나타내며, 사랑하는 사람과 함께 정원을 걷는 꿈은 행복하고 충만한 인간관계를 예고합니다.",
+      "interpretation_en": "Walking through a beautiful garden reflects inner peace and contentment. Walking with a loved one in a garden foretells happiness and fulfilling relationships."
+    }
+  ],
+  "culturalContext": {
+    "korean": "정원은 한국 전통 문화에서 단순한 꾸밈 공간이 아니라 우주의 질서와 자연의 조화를 담아내는 철학적 공간으로 여겨졌습니다. 한국 전통 정원은 풍수지리(風水地理) 사상의 영향을 깊이 받아 땅의 기운과 물의 흐름을 중시했으며, 신선사상(神仙思想)과 도교적 이상향을 반영하여 장수, 번영, 신령한 힘과 연결된 상징물—학, 거북, 연꽃—을 정원 안에 배치했습니다. 이러한 전통 속에서 꿈에 나오는 정원은 꿈꾸는 이의 내면 상태와 가정의 운세를 반영하는 거울로 해석되어 왔습니다. 꽃이 만발하고 잘 가꾸어진 정원은 가족의 번영과 재물운을 상징하는 길몽으로 여겨졌고, 잡초가 무성하고 황폐한 정원은 가정불화와 내면의 혼란을 경고하는 흉조로 풀이되었습니다. 한국 무속 신앙에서 자연은 신령이 깃드는 공간으로 여겨졌기 때문에, 꿈 속의 자연 공간—특히 정원—은 영적인 메시지를 전달하는 통로로 이해되었습니다.",
+    "english": "In Korean traditional culture, the garden was far more than a decorative space — it was a philosophical arena where cosmic order and natural harmony were expressed. Korean classical gardens were deeply shaped by feng shui (풍수지리), which prioritized the flow of vital energy (기운) through the land and water. Taoist ideals of an earthly paradise influenced garden design, filling these spaces with symbolic elements tied to longevity and spiritual power — cranes, tortoises, lotus flowers, and rocks evoking the legendary three mountains of the immortals. Within this tradition, a garden appearing in a dream was understood as a mirror of the dreamer's inner state and household fortune. A flourishing, well-tended garden was a powerful auspicious omen for family prosperity and incoming wealth, while a neglected or weed-choked garden warned of domestic discord and inner turmoil. Korean shamanic belief held that nature harbors divine spirits, making garden spaces in dreams spiritually significant channels through which messages from the unseen world could pass."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트의 정신분석학적 관점에서 정원은 억압된 욕구와 무의식적 소망이 꽃피는 공간으로 해석될 수 있어요. 정원을 가꾸는 행위는 자신의 내면적 충동을 통제하고 사회적으로 수용 가능한 방식으로 표현하려는 욕구를 상징합니다. 풍요롭고 만개한 꽃밭은 충족된 리비도적 에너지와 성적 성숙을, 황폐하거나 방치된 정원은 억압된 욕망이나 정서적 결핍을 반영할 수 있어요.",
+      "english": "From a Freudian perspective, the garden can be interpreted as a space where repressed desires and unconscious wishes come to bloom. The act of tending a garden symbolizes the ego's attempt to control inner impulses and channel them into socially acceptable expression. A lush, flourishing garden may reflect satisfied libidinal energy and emotional maturity, while a neglected or barren garden can indicate repressed desires or emotional deprivation."
+    },
+    "jungian": {
+      "korean": "융의 분석심리학에서 정원은 집단 무의식의 상징인 '내면의 낙원'으로, 자기(Self)의 총체성과 개성화 과정을 나타내는 공간으로 해석돼요. 잘 가꾸어진 정원은 의식과 무의식이 조화롭게 통합된 상태—즉 심리적 성숙—를 상징하며, 울타리로 둘러싸인 정원(hortus conclusus)은 원형적 이미지로서 내면의 성역(聖域), 영혼의 쉼터를 의미합니다. 융은 자연과의 접촉이 본능적 층위를 회복시키는 데 필수적이라고 보았기 때문에, 꿈속 정원은 자신의 원초적 본성과 재연결되라는 심층 심리의 부름일 수 있어요.",
+      "english": "In Jungian psychology, the garden represents the 'inner paradise' of the collective unconscious — a symbol of the Self's wholeness and the individuation process. A well-tended garden reflects the harmonious integration of conscious and unconscious elements, pointing to psychological maturity. The enclosed garden (hortus conclusus) is an archetypal image representing an inner sanctuary, a sacred space of the soul. Because Jung believed contact with nature was essential for reconnecting with instinctual layers of the psyche, a garden in a dream may be the deep psyche's invitation to rediscover your primal, authentic self."
+    },
+    "modern": {
+      "korean": "현대 인지과학과 신경과학 연구에 따르면, 정원 꿈은 낮 동안 경험한 스트레스와 회복 욕구를 처리하는 뇌의 방식일 수 있어요. 자연 환경에 대한 꿈은 '주의력 회복 이론(Attention Restoration Theory)'과 연결되는데, 뇌가 피로와 과부하를 해소하기 위해 조화롭고 풍요로운 자연 공간을 꿈속에서 소환한다는 것이죠. 실제로 생활에서 자연과 단절된 현대인일수록 정원이나 숲 같은 자연 공간의 꿈을 더 자주 꾼다는 연구 결과도 있어요.",
+      "english": "Modern cognitive science and neuroscience suggest that garden dreams may be the brain's way of processing daytime stress and the desire for restoration. This aligns with Attention Restoration Theory (ART), which proposes that the mind evokes harmonious natural environments in dreams to alleviate mental fatigue and overload. Research indicates that people who are more disconnected from nature in waking life tend to dream more frequently of natural spaces like gardens and forests — the dreaming brain seeking what waking life fails to provide."
+    },
+    "crossCultural": {
+      "korean": "한국 전통 꿈해몽이 정원을 가정의 번영과 내면의 도덕적 질서를 반영하는 공간으로 해석하는 반면, 서양 심리학은 정원을 개인의 무의식과 자아 성장의 메타포로 봐요. 두 전통 모두 '정원의 상태가 꿈꾸는 이의 내면을 반영한다'는 핵심 통찰을 공유하고 있습니다.",
+      "english": "While Korean traditional dream interpretation reads the garden as a reflection of household prosperity and moral inner order, Western psychology views it as a metaphor for the individual unconscious and personal growth. Both traditions share a core insight: the condition of the garden in a dream mirrors the dreamer's inner state."
+    }
+  },
+  "relatedSymbols": ["flower", "tree", "water", "house", "spring", "nature", "plants", "butterfly", "fruit"],
+  "seoKeywords": {
+    "korean": [
+      "정원 꿈해몽",
+      "정원 꿈 의미",
+      "정원 꿈 길몽",
+      "꽃밭 꿈해몽",
+      "아름다운 정원 꿈",
+      "황폐한 정원 꿈",
+      "정원 꿈 흉몽",
+      "정원 가꾸는 꿈",
+      "정원에서 꽃 꺾는 꿈",
+      "꽃이 피는 정원 꿈",
+      "정원 산책 꿈 해몽",
+      "정원 꿈 재물운"
+    ],
+    "english": [
+      "garden dream meaning",
+      "dream about garden Korean interpretation",
+      "beautiful garden dream meaning",
+      "neglected garden dream",
+      "flower garden dream interpretation",
+      "dreaming of a garden",
+      "garden dream auspicious",
+      "Korean garden dream symbol",
+      "watering garden dream meaning",
+      "garden dream luck"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "정원 꿈은 길몽인가요, 흉몽인가요?",
+      "answer_ko": "정원 꿈은 정원의 상태에 따라 길몽과 흉몽이 갈립니다. 꽃이 만발하고 아름답게 가꾸어진 정원은 가정의 번영과 재물운을 암시하는 길몽입니다. 반면 잡초가 무성하고 황폐한 정원은 가정불화나 심신의 불안정을 경고하는 흉몽으로 해석됩니다.",
+      "question_en": "Is dreaming of a garden an auspicious or inauspicious dream?",
+      "answer_en": "It depends on the garden's condition. A blooming, well-tended garden is a strong auspicious omen, predicting household prosperity and good fortune. A neglected, weed-filled garden is inauspicious, warning of domestic discord or inner instability."
+    },
+    {
+      "question_ko": "정원 꿈이 재물운과 관계있나요?",
+      "answer_ko": "네, 꽃이 만발한 아름다운 정원 꿈은 전통적으로 재물이 들어오고 사업이 번창할 길몽으로 여겨집니다. 특히 넓은 정원 꿈은 사업 영역이나 재물운이 크게 확장될 것을 암시합니다.",
+      "question_en": "Does dreaming of a garden relate to financial luck?",
+      "answer_en": "Yes, dreaming of a beautiful, blooming garden is traditionally seen as a sign of incoming wealth and business prosperity. A particularly large or expansive garden dream suggests that your financial prospects or business influence will grow significantly."
+    },
+    {
+      "question_ko": "정원 꿈이 태몽이 될 수 있나요?",
+      "answer_ko": "꽃밭에서 즐겁게 노는 꿈은 태몽으로 해석되기도 합니다. 전통적으로 아름다운 꽃밭에서 노는 꿈을 꾸면 장차 예쁜 여자아이를 낳게 될 것이라는 징조로 풀이합니다.",
+      "question_en": "Can a garden dream be a pregnancy dream (태몽)?",
+      "answer_en": "Yes, playing joyfully in a flower garden or flower field is traditionally interpreted as a pregnancy dream (태몽), specifically predicting the birth of a beautiful daughter."
+    },
+    {
+      "question_ko": "정원에서 꽃을 꺾는 꿈은 무슨 의미인가요?",
+      "answer_ko": "정원이나 꽃밭에서 꽃을 꺾어 가슴에 안는 꿈은 자신이 속한 직장이나 단체에서 좋은 성과를 거두고 인정을 받게 될 것을 의미하는 길몽입니다.",
+      "question_en": "What does it mean to pick flowers in a garden in a dream?",
+      "answer_en": "Picking flowers and holding them to your chest in a garden is an auspicious dream, predicting that you will achieve good results and earn recognition in your workplace or community."
+    },
+    {
+      "question_ko": "황폐하고 잡초가 우거진 정원 꿈은 왜 흉몽인가요?",
+      "answer_ko": "전통 꿈해몽에서 정원은 가정과 내면의 상태를 반영하는 공간으로 봅니다. 손질되지 않고 방치된 정원은 가정 관계나 결혼 생활에 불화가 싹트거나 심신이 피폐해질 수 있다는 경고 신호입니다.",
+      "question_en": "Why is dreaming of a neglected, overgrown garden considered inauspicious?",
+      "answer_en": "In Korean traditional interpretation, the garden reflects the state of one's home and inner life. An untended, weed-filled garden warns that conflict may be brewing in family or marital relationships, or that mental and physical well-being needs urgent attention."
+    },
+    {
+      "question_ko": "정원에 물을 주는 꿈은 어떤 의미인가요?",
+      "answer_ko": "정원이나 꽃밭에 물을 주는 꿈은 오랫동안 소원하던 바가 이루어지고, 어려운 사람을 도울 기회가 생겨 마음의 여유와 즐거움을 얻게 되는 길몽으로 해석됩니다.",
+      "question_en": "What does it mean to water a garden in a dream?",
+      "answer_en": "Watering a garden or flower bed is an auspicious dream: long-held wishes will be fulfilled, opportunities to help others will arise, and you will find emotional abundance and satisfaction as a result."
+    }
+  ]
+}

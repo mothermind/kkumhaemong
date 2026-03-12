@@ -1,0 +1,229 @@
+{
+  "symbol": {
+    "korean": "달 꿈",
+    "english": "Dream of the Moon",
+    "slug": "moon-dream"
+  },
+  "summary": {
+    "korean": "달 꿈은 전통적으로 풍요, 재물운, 귀한 자녀의 탄생을 예고하는 길몽으로, 달의 모양과 상태에 따라 사랑운과 명예운도 함께 살펴야 합니다.",
+    "english": "Dreaming of the moon is traditionally one of the most auspicious signs in Korean folk interpretation, symbolizing abundance, fortune, and the birth of a remarkable child — though the moon's phase and condition determine whether the omen is bright or shadowed."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "밝고 둥근 보름달을 보는 꿈은 가정이 평화롭고 재물이 넉넉해지며 근심이 사라지는 최상의 길몽입니다. 사업을 하는 사람에게는 크게 번창할 조짐이며, 미혼 남녀에게는 좋은 인연을 만나 결혼으로 이어질 징조입니다.",
+      "english": "Seeing a bright, full moon is one of the most auspicious of all dream signs in Korean tradition. It promises peace at home, growing wealth, and the lifting of worries. For those in business, it signals a period of great prosperity; for unmarried individuals, it foretells meeting the right partner and marriage.",
+      "context": "보름달이 맑은 밤하늘에 뚜렷하고 밝게 떠 있는 경우"
+    },
+    {
+      "type": "길몽",
+      "korean": "달을 품에 안거나 삼키는 꿈은 매우 강력한 태몽으로 해석됩니다. 장차 세상에 이름을 떨칠 귀하고 빛나는 자녀를 낳을 것임을 예고하며, 임신과 무관하더라도 자신이 바라던 큰 목표나 지위를 손에 넣게 될 길몽입니다.",
+      "english": "Dreaming of embracing the moon in your arms or swallowing it whole is interpreted as a powerful 태몽 (pregnancy dream), foretelling the birth of an extraordinary, luminous child destined for greatness. Even outside the context of pregnancy, this dream signals that a long-held goal or position of honor is finally within reach.",
+      "context": "달을 직접 품에 안거나 입으로 삼키는 행위가 꿈에 나타날 때"
+    },
+    {
+      "type": "길몽",
+      "korean": "동쪽 하늘에서 달이 밝게 솟아오르는 꿈은 남성에게는 명예와 재물이 함께 따라오는 길몽이며, 미혼 여성에게는 훌륭한 배우자가 나타날 조짐입니다. 달빛이 창문이나 방 안으로 은은하게 비쳐드는 꿈 역시 행복한 이성 교제나 집안의 경사를 암시합니다.",
+      "english": "A moon rising brightly from the eastern sky brings honor and wealth to men, and signals the arrival of an ideal partner for unmarried women. Similarly, moonlight streaming gently through a window into a room foretells happy romantic encounters or a joyful family occasion on the horizon.",
+      "context": "달이 동쪽에서 솟아오르거나, 달빛이 집 안으로 부드럽게 비치는 꿈"
+    },
+    {
+      "type": "길몽",
+      "korean": "해와 달이 몸에 비추는 꿈, 또는 밝은 달이 점점 가까이 다가오는 꿈은 높은 관직이나 명예로운 지위를 얻게 될 것을 암시하는 길몽입니다. 지금까지 추구해 온 목표가 서서히 현실로 이루어지고 있다는 신호입니다.",
+      "english": "A dream in which the moonlight shines directly upon your body, or in which the moon slowly approaches you and grows larger, is a traditional sign of attaining a prestigious office or rank. It signals that goals long worked toward are now steadily coming to fruition.",
+      "context": "달빛이 꿈꾸는 사람의 몸을 직접 비추거나, 달이 점점 가까이 다가오는 경우"
+    },
+    {
+      "type": "흉몽",
+      "korean": "구름이나 물체가 달을 가리거나 달이 흐릿하게 보이는 꿈은 흉몽입니다. 부하나 믿었던 사람의 거짓말과 모함으로 큰 손해를 입거나, 하려는 일이 생각대로 풀리지 않을 것을 경고합니다.",
+      "english": "A moon obscured by clouds or any object is an inauspicious sign. It warns of deception from those you trust — subordinates or close associates whose lies may cause significant loss. Plans and projects will likely not unfold as expected during this period.",
+      "context": "달이 구름, 산, 또는 다른 물체에 가려져 빛을 잃는 꿈"
+    },
+    {
+      "type": "흉몽",
+      "korean": "달이 사라지거나 하늘에서 땅으로 떨어지는 꿈은 예로부터 크게 주의해야 할 흉몽으로 여겨집니다. 중요한 인물이나 기회를 잃는 것을 상징하며, 건강이나 재물에 뜻하지 않은 손실이 생길 수 있음을 경고합니다.",
+      "english": "A dream in which the moon disappears or falls from the sky to the ground has long been considered a serious inauspicious sign. It symbolizes the loss of an important person or opportunity, and warns of unexpected damage to health or finances.",
+      "context": "달이 갑자기 사라지거나 하늘에서 떨어지는 장면이 나오는 꿈"
+    },
+    {
+      "type": "흉몽",
+      "korean": "해와 달이 함께 떠 있는데 한쪽이 어두운 꿈, 또는 달이 겹치거나 비정상적으로 두 개 이상 보이는 꿈은 집안의 우환이나 사기, 배신에 휘말릴 수 있음을 경고하는 흉몽입니다. 특히 직장에서 모함을 당하거나 자신의 자리를 노리는 사람이 나타날 수 있음을 암시합니다.",
+      "english": "Dreaming of the sun and moon together with one appearing dark, or seeing two or more moons unnaturally overlapping in the sky, warns of family misfortune, fraud, or betrayal. In a workplace context, it specifically cautions against someone attempting to undermine your position.",
+      "context": "달이 두 개 이상 나타나거나, 해와 달 중 하나가 어두운 기이한 장면"
+    },
+    {
+      "type": "neutral",
+      "korean": "초승달을 보는 꿈은 새로운 시작과 가능성의 상징입니다. 무언가를 시작하려는 단계에 있거나 아직 결과가 정해지지 않은 상황에서 자주 꾸는 꿈으로, 앞으로 어떻게 노력하느냐에 따라 결과가 달라질 수 있음을 시사합니다.",
+      "english": "Dreaming of a crescent moon symbolizes new beginnings and untapped potential. It often appears when you are on the cusp of starting something new, or when the outcome of a situation has not yet been determined. How things unfold will depend largely on your own effort going forward.",
+      "context": "초승달(새벽달)이 선명하게 보이는 꿈으로, 무언가 시작하는 시기에 자주 등장"
+    },
+    {
+      "type": "neutral",
+      "korean": "물에 비친 달 그림자를 보는 꿈은 중립적이나 다소 경고적인 꿈으로, 매사가 겉으로 보이는 것과 실제가 다를 수 있음을 암시합니다. 손에 잡힐 듯 가까운 것이 실제로는 허상일 수 있으니 중요한 결정을 성급히 내리지 말라는 메시지로 해석됩니다.",
+      "english": "Seeing the moon's reflection in water rather than the moon itself is a somewhat cautionary dream. It suggests that what appears within reach may be an illusion — a reminder not to make hasty decisions on things that only seem certain on the surface.",
+      "context": "강물, 연못, 호수 등의 수면에 달이 비치는 모습을 보는 꿈"
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "보름달 꿈",
+      "keyword_en": "full moon dream",
+      "interpretation_ko": "보름달 꿈은 최고의 길몽 중 하나입니다. 완성과 풍요를 상징하며, 결혼·임신·재산 증가·사업 번창 등 삶의 모든 영역에서 좋은 결과가 나타날 것을 예고합니다. 달이 맑고 밝을수록 더욱 강한 길몽으로 해석합니다.",
+      "interpretation_en": "Dreaming of a full moon is among the most auspicious of all moon dreams. It symbolizes completion and abundance, foretelling positive outcomes across all areas of life — marriage, pregnancy, growing wealth, and business success. The brighter and clearer the moon, the stronger the omen."
+    },
+    {
+      "keyword_ko": "초승달 꿈",
+      "keyword_en": "crescent moon dream",
+      "interpretation_ko": "초승달 꿈은 새로운 출발과 잠재력을 상징합니다. 아직 결과가 무르익지 않은 상태이며, 꾸준한 노력으로 원하는 바를 이룰 수 있다는 격려의 메시지를 담고 있습니다. 새 사업이나 새로운 인간관계의 시작에 좋은 신호입니다.",
+      "interpretation_en": "A crescent moon dream represents new beginnings and latent potential. The situation has not yet fully matured, but steady effort will bring desired results. It is a positive sign for starting a new venture or building a new relationship."
+    },
+    {
+      "keyword_ko": "반달 꿈",
+      "keyword_en": "half moon dream",
+      "interpretation_ko": "반달 꿈은 변화의 중간 단계를 의미합니다. 진행 중인 일이 아직 완성되지 않았으며, 성공과 실패의 갈림길에 있음을 암시합니다. 현재 상황을 면밀히 점검하고 마무리를 잘 해야 한다는 조언의 꿈입니다.",
+      "interpretation_en": "A half moon dream signals an intermediate stage of transformation. What you are working on is not yet complete — you are at a crossroads between success and setback. This dream advises careful review of your current situation and a strong focus on seeing things through to completion."
+    },
+    {
+      "keyword_ko": "달을 품에 안는 꿈",
+      "keyword_en": "dream of embracing the moon",
+      "interpretation_ko": "달을 직접 품에 안는 꿈은 매우 강력한 길몽이자 태몽의 대표적 사례입니다. 임신 중이라면 장차 크게 빛날 귀한 자녀의 탄생을 예고합니다. 임신과 무관한 경우에는 결혼 상대를 만나거나 오랫동안 소망하던 큰 목표를 이루게 될 것을 암시합니다.",
+      "interpretation_en": "Dreaming of holding the moon in your arms is a powerfully auspicious dream and a classic 태몽 (pregnancy dream). For an expectant mother, it foretells the birth of a luminous, extraordinary child. For others, it signals meeting a life partner or achieving a long-held, significant ambition."
+    },
+    {
+      "keyword_ko": "달을 삼키는 꿈",
+      "keyword_en": "dream of swallowing the moon",
+      "interpretation_ko": "달을 입으로 삼키는 꿈은 태몽으로서 더할 나위 없는 대길몽입니다. 삼키는 행위는 그 대상의 기운과 광채를 완전히 자신의 것으로 만든다는 의미로, 장차 세상에 빛을 발할 위대한 인물을 낳게 되거나 본인이 큰 조직이나 분야를 장악하는 리더가 될 것임을 암시합니다.",
+      "interpretation_en": "Swallowing the moon in a dream is an exceptionally auspicious omen, especially as a pregnancy dream. The act of swallowing signifies fully absorbing the moon's radiance into oneself — foretelling the birth of a truly great figure, or indicating that the dreamer will rise to lead and command a large organization or field."
+    },
+    {
+      "keyword_ko": "달빛이 비치는 꿈",
+      "keyword_en": "dream of moonlight shining",
+      "interpretation_ko": "달빛이 창문이나 방 안으로 부드럽게 비치는 꿈은 행복한 이성 교제나 집안 경사를 예고하는 길몽입니다. 남성이라면 사랑하는 사람과의 달콤한 시간을, 독신 여성이라면 훌륭한 인연과의 만남을 기대해볼 수 있습니다.",
+      "interpretation_en": "Moonlight streaming softly through a window or filling a room in a dream is an auspicious sign of happy romantic encounters or joyful family events. For men, it suggests a sweet and satisfying relationship; for single women, it hints at meeting a wonderful partner."
+    },
+    {
+      "keyword_ko": "달이 구름에 가리는 꿈",
+      "keyword_en": "dream of moon covered by clouds",
+      "interpretation_ko": "달이 구름 뒤로 가려지는 꿈은 경고의 꿈입니다. 믿었던 사람에게 배신당하거나, 진행 중인 일이 예상치 못한 방해로 지연될 수 있음을 암시합니다. 중요한 결정이나 계약은 신중하게 접근하는 것이 좋습니다.",
+      "interpretation_en": "A moon hidden behind clouds is a cautionary dream warning of potential betrayal by trusted people or unexpected obstacles blocking progress on current plans. It advises extra caution with important decisions or contracts in the near future."
+    },
+    {
+      "keyword_ko": "달이 떨어지는 꿈",
+      "keyword_en": "dream of moon falling from sky",
+      "interpretation_ko": "달이 하늘에서 땅으로 떨어지는 꿈은 주의해야 할 흉몽입니다. 가까운 사람과의 이별이나 소중한 것을 잃게 될 위험을 상징하며, 건강이나 재물에 예상치 못한 손실이 생길 수 있으니 각별히 조심해야 합니다.",
+      "interpretation_en": "The moon falling from the sky to the earth is an inauspicious dream. It symbolizes the potential loss of something or someone precious — warning of unexpected setbacks in health, finances, or important relationships in the period ahead."
+    },
+    {
+      "keyword_ko": "달 태몽",
+      "keyword_en": "moon pregnancy dream (taemont)",
+      "interpretation_ko": "달 태몽은 예로부터 딸을 낳을 가능성이 높은 태몽으로 알려져 있지만, 반드시 그런 것은 아닙니다. 역사적으로도 달 태몽을 꾸고 아들을 낳은 사례가 있습니다. 공통된 해석은, 달처럼 세상을 환히 비출 빛나고 귀한 자녀를 낳게 된다는 것입니다.",
+      "interpretation_en": "A moon 태몽 is traditionally associated with conceiving a daughter, though this is not absolute — historical accounts record sons born after moon pregnancy dreams as well. The consistent interpretation across all cases is that the child will be radiant and distinguished, destined to illuminate the world like the moon itself."
+    },
+    {
+      "keyword_ko": "해와 달이 함께 뜨는 꿈",
+      "keyword_en": "dream of sun and moon rising together",
+      "interpretation_ko": "해와 달이 함께 하늘에 떠 있는데 한쪽이 어두운 꿈은 집안 우환, 직장에서의 모함, 또는 사기에 주의해야 할 흉몽입니다. 태몽으로 해석할 경우, 두 가지 권한이나 능력을 함께 갖춘 특별한 인물이 될 것임을 암시하기도 합니다.",
+      "interpretation_en": "Seeing both sun and moon in the sky simultaneously — with one of them appearing dark — is an inauspicious sign warning of family troubles, workplace scheming, or possible fraud. When interpreted as a 태몽, however, it suggests a child who will possess two distinct and exceptional gifts or authorities."
+    }
+  ],
+  "culturalContext": {
+    "korean": "한국 문화에서 달은 태양보다 훨씬 깊고 광범위한 영향을 삶 전체에 미쳐온 존재입니다. 삼국시대 이전부터 달은 왕실의 종교 의식 대상이었으며, 제주 무속을 비롯한 전통 무속 신앙에서는 '달궁전(달 신)'이 신의 위계에 오를 만큼 신성한 존재로 모셔졌습니다. 음력을 생활 기준으로 삼아온 한국인에게 달은 농사, 어업, 제사 등 생활 전반의 리듬을 조율하는 '삶의 척도' 그 자체였습니다. 설날 대보름의 정월 대보름달맞이, 추석의 달 감상은 단순한 풍습이 아니라 우주의 생명력과 인간을 연결하는 집단적 의례였습니다. 달빛은 구별하는 빛이 아닌 '융합하는 빛'으로 표현되어, 한국적 정서에서 달은 포용과 원융(圓融)의 상징으로 자리 잡았습니다. 이러한 문화적 배경이 달 꿈을 대체로 풍요, 귀한 자녀, 좋은 인연의 예고로 해석하게 만든 토대입니다.",
+    "english": "In Korean culture, the moon has historically exerted a far deeper and broader influence on daily life than the sun. Long before the Three Kingdoms period, the royal courts conducted ritual ceremonies dedicated to lunar worship, and in traditional shamanic faith — particularly in Jeju — the moon deity (달궁전) held a place of sacred rank. Since Korean agrarian society operated entirely by the lunar calendar (음력), the moon was literally the measure of life itself, governing farming cycles, fishing seasons, ancestral rites, and communal festivals. Daeboreum (the first full moon of the lunar year) and Chuseok (the harvest full moon) were not mere cultural customs but collective ritual moments connecting human existence to cosmic rhythm. Korean tradition describes moonlight as 'the light that unites rather than distinguishes' — making the moon a symbol of harmony, wholeness, and embrace. This profound cultural foundation explains why moon dreams are overwhelmingly interpreted as auspicious: they carry the weight of centuries of reverence for the moon as the source of life, fertility, and luminous destiny."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트 정신분석학에서 달은 어머니 상(像) 및 여성 원리와 깊이 연결된 상징으로 해석돼요. 달의 주기가 여성의 생리 주기와 대응한다는 점에서, 달 꿈은 어머니나 중요한 여성 인물에 대한 억압된 감정 또는 무의식적인 의존 욕구를 반영할 수 있다고 봐요. 또한 달이 태양의 빛을 반사하는 수동적 존재라는 점에서, 꿈속 달은 '아직 인식하지 못한 자신의 욕망이나 감정이 타인에게 투영된 것'을 상징하기도 해요.",
+      "english": "In Freudian psychoanalysis, the moon is closely associated with the mother figure and the feminine principle. Because the lunar cycle mirrors the female biological cycle, a moon dream may reflect repressed emotions toward a mother figure or an unconscious desire for nurturing and dependence. The moon's passive nature — receiving and reflecting the sun's light rather than generating its own — can also symbolize projected desires or feelings that the dreamer has not yet consciously acknowledged in themselves."
+    },
+    "jungian": {
+      "korean": "융 심리학에서 달은 집단 무의식 속의 핵심 원형(原型)으로, 특히 아니마(남성 내면의 여성적 측면)의 상징으로 자주 등장해요. 달은 직관, 감정, 무의식 그 자체를 나타내며, 달이 밝게 빛나는 꿈은 개인이 자신의 무의식적 측면과 건강하게 통합되어 가고 있다는 개성화(individuation) 과정의 신호로 해석할 수 있어요. 반면 달이 어둡거나 가려지는 꿈은 내면의 그림자(shadow)가 아직 통합되지 않았거나 직관적 지혜가 억압되어 있음을 시사해요.",
+      "english": "In Jungian psychology, the moon is a central archetype of the collective unconscious — most prominently representing the anima, the feminine dimension within the male psyche. The moon embodies intuition, emotion, and the unconscious itself. A brightly shining moon in a dream can signal healthy progress along the individuation journey, suggesting that the dreamer is integrating unconscious aspects of the self. Conversely, a dark or obscured moon may indicate unintegrated shadow material or suppressed intuitive wisdom that has not yet found expression."
+    },
+    "modern": {
+      "korean": "현대 인지심리학과 신경과학에서는 달 꿈을 감정 처리와 무의식적 자기 성찰의 산물로 이해해요. 달 꿈은 특히 감정적 변화나 인생의 전환점에 처한 사람에게 자주 나타나는 것으로 알려져 있으며, 이는 뇌가 수면 중 낮 동안 쌓인 감정 정보를 재구성하는 과정에서 강렬한 자연 이미지를 활용하는 것으로 설명해요. 보름달 꿈이 감정적으로 강렬하거나 불안한 느낌을 동반하는 경우가 많은 이유는, 보름달 주기와 수면의 질 사이에 실질적인 상관관계가 있다는 연구 결과와도 일치해요.",
+      "english": "Modern cognitive psychology and neuroscience understand moon dreams as products of emotional processing and unconscious self-reflection. They tend to appear during times of emotional upheaval or major life transitions, as the brain uses vivid natural imagery during sleep to reorganize and make sense of accumulated emotional experience. The frequently reported intensity or anxiety of full moon dreams is consistent with research suggesting a measurable correlation between the lunar cycle and sleep quality — a relationship the brain appears to register even without conscious awareness."
+    },
+    "crossCultural": {
+      "korean": "한국 전통 해몽이 달을 주로 풍요, 귀한 자녀, 명예의 길몽으로 해석하는 반면, 서양 심리학은 달을 감정과 무의식의 거울로 바라봐요. 두 전통 모두 달이 '이성 너머의 영역'을 상징한다는 점에서는 공통되지만, 한국 해몽은 사회적·현실적 결과에 초점을 맞추고 서양 해석은 내면의 심리 상태를 중시한다는 차이가 있어요.",
+      "english": "While Korean folk tradition interprets moon dreams primarily as auspicious omens tied to prosperity, distinguished children, and honor, Western psychology approaches the moon as a mirror of inner emotional life and the unconscious. Both traditions agree that the moon represents a realm beyond reason and logic — but Korean interpretation focuses on real-world outcomes, while Western analysis turns inward toward the dreamer's psychological state."
+    }
+  },
+  "relatedSymbols": [
+    "sun-dream",
+    "star-dream",
+    "sky-dream",
+    "pregnancy-dream",
+    "night-dream",
+    "water-dream",
+    "cloud-dream"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "달꿈",
+      "달 꿈해몽",
+      "달꿈 해몽",
+      "달꿈 의미",
+      "보름달 꿈해몽",
+      "초승달 꿈 의미",
+      "달 태몽",
+      "달을 품에 안는 꿈",
+      "달을 삼키는 꿈 해몽",
+      "달빛 꿈 해몽",
+      "달이 떨어지는 꿈",
+      "달꿈 길몽 흉몽",
+      "달 꿈 길몽",
+      "반달 꿈해몽",
+      "달꿈 로또"
+    ],
+    "english": [
+      "moon dream meaning Korean",
+      "dreaming about the moon",
+      "full moon dream interpretation",
+      "moon dream meaning",
+      "crescent moon dream Korean",
+      "moon pregnancy dream taemont",
+      "holding moon dream meaning",
+      "Korean moon dream lucky",
+      "moon dream auspicious inauspicious",
+      "moon dream symbolism East Asia"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "달꿈은 길몽인가요, 흉몽인가요?",
+      "answer_ko": "달꿈은 대체로 길몽에 속합니다. 특히 밝고 둥근 보름달을 보는 꿈, 달을 품에 안거나 삼키는 꿈, 달빛이 방 안으로 비치는 꿈은 모두 재물운, 명예, 좋은 인연을 예고하는 길몽입니다. 다만 달이 구름에 가리거나, 사라지거나, 땅으로 떨어지는 꿈은 경고의 흉몽으로 봅니다.",
+      "question_en": "Is dreaming about the moon a good or bad omen?",
+      "answer_en": "Moon dreams are generally auspicious in Korean tradition. Seeing a bright full moon, holding the moon in your arms, or moonlight entering your home all signal fortune, honor, and good connections ahead. However, a moon covered by clouds, disappearing, or falling to earth is considered a cautionary or inauspicious sign."
+    },
+    {
+      "question_ko": "달 태몽의 의미는 무엇인가요?",
+      "answer_ko": "달 태몽은 장차 세상에 빛을 발할 귀하고 빛나는 자녀를 낳게 될 것을 예고합니다. 전통적으로는 딸일 가능성이 높다고 알려져 있지만, 달 태몽을 꾸고 아들을 낳은 역사적 사례도 많습니다. 공통된 해석은 태어날 아이가 달처럼 뭇사람을 환히 비출 위대한 인물이 된다는 것입니다.",
+      "question_en": "What does it mean to dream of the moon as a pregnancy dream (태몽)?",
+      "answer_en": "A moon 태몽 (pregnancy dream) foretells the birth of a radiant and distinguished child — one who will shine brightly and bring honor, much like the moon illuminating the night sky. Traditionally associated with conceiving a daughter, historical records also show notable sons born after moon pregnancy dreams, so the gender prediction is not absolute. The consistent meaning is that the child will be exceptional."
+    },
+    {
+      "question_ko": "달을 품에 안는 꿈은 어떤 의미인가요?",
+      "answer_ko": "달을 품에 안는 꿈은 태몽의 대표적인 사례 중 하나로, 임신 중인 경우라면 귀한 자녀를 낳을 것임을 예고합니다. 임신과 무관한 경우에는 결혼 상대를 만나거나 오랫동안 소망하던 큰 목표를 마침내 이루게 될 것을 암시하는 강력한 길몽입니다.",
+      "question_en": "What does it mean to dream of holding or embracing the moon?",
+      "answer_en": "Dreaming of holding the moon in your arms is one of the most classic and powerful auspicious dreams in Korean tradition. For pregnant women, it strongly foretells the birth of an extraordinary child. For others, it signals that a long-cherished goal is finally within reach, or that a meaningful life partner is about to appear."
+    },
+    {
+      "question_ko": "달꿈을 꾸면 로또를 사야 하나요?",
+      "answer_ko": "밝고 선명한 보름달 꿈, 달을 품에 안거나 삼키는 꿈처럼 강한 길몽의 달꿈을 꾸었다면, 전통 꿈해몽에서는 재물운이 크게 상승하는 시기로 봅니다. 로또 구매를 고려해볼 만하지만, 꿈은 어디까지나 상징적 메시지이므로 과도한 기대보다는 일상에서 새로운 기회를 적극적으로 살피는 자세가 더 중요합니다.",
+      "question_en": "Should I buy a lottery ticket after dreaming about the moon?",
+      "answer_en": "If your moon dream featured a bright full moon, or involved holding or swallowing the moon, Korean folk tradition considers this a period of heightened fortune and financial luck. Buying a lottery ticket in the spirit of the tradition is perfectly reasonable — but the dream's deeper message is to stay alert and actively pursue new opportunities, rather than relying on luck alone."
+    },
+    {
+      "question_ko": "초승달 꿈과 보름달 꿈은 의미가 다른가요?",
+      "answer_ko": "네, 차이가 있습니다. 보름달 꿈은 완성과 풍요를 상징하는 강한 길몽으로, 현재 진행 중인 일이 크게 이루어질 것을 암시합니다. 반면 초승달 꿈은 새로운 시작과 가능성을 상징하며, 아직 씨앗이 싹트는 단계로 앞으로의 노력 여하에 따라 결과가 달라질 수 있음을 뜻합니다.",
+      "question_en": "Is dreaming of a crescent moon different from dreaming of a full moon?",
+      "answer_en": "Yes, significantly so. A full moon dream is a strong auspicious sign of completion and abundance — signaling that what you have been working toward will reach a satisfying conclusion. A crescent moon dream, on the other hand, symbolizes new beginnings and potential still unfolding. The outcome is not yet set, and how you apply yourself going forward will determine the result."
+    },
+    {
+      "question_ko": "구름에 가린 달 꿈은 왜 흉몽인가요?",
+      "answer_ko": "전통 꿈해몽에서 달이 가려지는 것은 밝음이 차단되는 것, 즉 순조롭게 진행되던 일이 숨겨진 방해나 배신으로 막히게 됨을 상징합니다. 특히 믿었던 사람의 거짓말이나 모함으로 손해를 볼 수 있으니, 이 꿈을 꾼 후에는 주변 사람과의 계약이나 중요한 결정에 신중을 기하는 것이 좋습니다.",
+      "question_en": "Why is dreaming of a moon covered by clouds considered inauspicious?",
+      "answer_en": "In Korean folk tradition, the moon being obscured represents brightness being blocked — a clear path becoming hidden through someone else's deception or interference. The specific warning is of a trusted person's lies or schemes causing setbacks. After this dream, it is wise to exercise extra caution with contracts, agreements, and important decisions involving others."
+    }
+  ]
+}
