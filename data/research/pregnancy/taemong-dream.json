@@ -1,0 +1,202 @@
+{
+  "symbol": {
+    "korean": "태몽",
+    "english": "Taemong (Conception Dream)",
+    "slug": "taemong-dream"
+  },
+  "summary": {
+    "korean": "태몽은 아이의 잉태를 알리는 예지몽으로, 태아의 성별·성격·미래 운명을 상징하는 동물·자연물·과일 등이 등장하는 한국 고유의 민간 신앙 꿈 문화입니다.",
+    "english": "Taemong is a uniquely Korean tradition of conception dreams believed to foretell a child's conception, gender, personality, and destiny through vivid symbols such as animals, celestial objects, and fruits."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "용, 호랑이, 돼지, 잉어, 자라 같은 크고 강건한 동물이 등장하거나, 태양·별·번개처럼 빛나는 천체가 꿈에 선명하게 나타나는 경우는 태몽 중 가장 상서로운 길몽으로 여겨집니다. 특히 꿈속에서 상징물을 손으로 잡거나, 품에 안거나, 삼키거나, 받아들이는 행위가 더해지면 기운을 온전히 받은 것으로 해석하여 아이가 크게 성공하고 재물과 명예를 모두 갖출 것이라고 봅니다.",
+      "english": "Dreams featuring large, powerful animals such as dragons, tigers, pigs, and carp — or brilliant celestial objects like the sun, stars, and lightning — are considered the most auspicious taemong. The key factor is the dreamer's interaction: catching, embracing, swallowing, or receiving the symbol indicates the child has fully absorbed its powerful energy, foretelling great success, wealth, and honor.",
+      "context": "상징물이 크고 선명하며, 꿈속에서 그 상징물을 획득하거나 품에 안는 장면이 있을 때 길몽으로 분류됩니다."
+    },
+    {
+      "type": "흉몽",
+      "korean": "상징물이 어둡거나, 훼손되거나, 썩었거나, 병들어 있는 경우는 흉몽으로 해석됩니다. 또한 상징물이 꿈속에서 사라지거나, 빼앗기거나, 잃어버리는 장면은 태아의 기운을 온전히 받지 못했다는 신호로 여겨져 임신 기간 중 각별한 주의를 기울여야 한다고 전통적으로 이야기해 왔습니다. 벼락을 맞거나 죽음과 연관된 꿈도 흉조로 해석됩니다.",
+      "english": "Dreams in which the symbolic object appears dark, damaged, rotting, or diseased are considered inauspicious. Scenes in which the symbol is lost, stolen, or slips away suggest the child has not fully received its destined energy. Dreams involving lightning striking the dreamer or imagery connected with death have traditionally been interpreted as requiring special care during the pregnancy.",
+      "context": "상징물이 훼손되거나 빼앗기는 장면이 있을 때, 또는 죽음이나 어둠이 지배적인 꿈일 때 흉몽으로 분류됩니다."
+    },
+    {
+      "type": "neutral",
+      "korean": "과일, 채소, 꽃처럼 일상적인 자연물이 등장하는 태몽은 맥락에 따라 길흉이 달라집니다. 과일이 잘 익고 탐스러우면 건강하고 복 많은 아이를 예고하지만, 꼭지가 떨어지거나 상한 과일이라면 다소 불길한 징조로 봅니다. 전문가들은 어떤 태몽이든 우선 긍정적으로 해석하는 것이 임산부의 심리적 안정에 도움이 된다고 조언합니다.",
+      "english": "Dreams featuring everyday natural objects such as fruits, vegetables, and flowers carry meanings that shift depending on their condition in the dream. Fresh, ripe, and abundant fruits signal a healthy, fortunate child; bruised, fallen, or spoiled fruits carry a less favorable omen. Dream experts generally advise interpreting any taemong positively, as anxiety during pregnancy is harmful to both mother and child.",
+      "context": "과일이나 꽃 등 자연물의 상태(신선함/손상 여부)와 수량, 꿈속 분위기에 따라 해석이 달라지는 중립적 상징 꿈."
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "용 태몽",
+      "keyword_en": "dragon taemong",
+      "interpretation_ko": "태몽 중 가장 상서로운 꿈으로 꼽힙니다. 용은 권세와 명예를 상징하며, 용 태몽을 꾸면 장차 큰 인물이 태어난다고 해석됩니다. 역사적으로 왕이나 영웅의 탄생을 예고하는 꿈으로 기록되어 있으며, 현대에는 사회 지도자나 큰 성공을 이룰 인물의 탄생을 뜻합니다. 일반적으로 아들 태몽으로 해석됩니다.",
+      "interpretation_en": "Considered the most auspicious of all conception dreams. The dragon symbolizes power, authority, and prestige — historically the omen of a king's or great hero's birth. Today it foretells a child destined for social leadership or exceptional achievement. Generally interpreted as a sign of a son."
+    },
+    {
+      "keyword_ko": "호랑이 태몽",
+      "keyword_en": "tiger taemong",
+      "interpretation_ko": "강한 리더십과 권위를 지닌 아이가 태어날 것임을 예고합니다. 호랑이 태몽을 꾼 아이는 장차 많은 사람을 이끄는 지도자가 된다고 전해지며, 강인하고 당당한 성품을 가질 것이라 해석됩니다. 한국 전통에서 호랑이는 산신(山神)의 사자로 여겨지는 신성한 동물이라 더욱 길한 태몽으로 여겨집니다.",
+      "interpretation_en": "Foretells a child with powerful leadership qualities and a commanding, assertive personality. In Korean tradition the tiger is the messenger of the mountain spirit (산신), a sacred guardian figure, making this one of the most revered animal omens. Generally indicates a son with the potential to lead many people."
+    },
+    {
+      "keyword_ko": "돼지 태몽",
+      "keyword_en": "pig taemong",
+      "interpretation_ko": "돼지는 재물운의 상징으로, 돼지 태몽을 꾼 아이는 평생 재물이 풍족하고 복이 넘칠 것이라 해석됩니다. 특히 황금 돼지나 살찐 돼지가 등장하면 최상의 길몽입니다. 재물뿐 아니라 복과 건강도 함께 따라온다고 봅니다.",
+      "interpretation_en": "The pig is Korea's foremost symbol of wealth and abundance. A pig conception dream foretells a child who will enjoy lifelong financial prosperity and good fortune. A golden or particularly plump pig elevates the omen further, signifying not only wealth but also robust health and happiness."
+    },
+    {
+      "keyword_ko": "뱀 태몽",
+      "keyword_en": "snake taemong",
+      "interpretation_ko": "뱀 태몽은 아이가 영리하고 머리가 좋으며 객관적인 판단력을 가질 것이라 해석됩니다. 큰 구렁이나 황금뱀이 등장하면 재물운도 좋다고 봅니다. 큰 뱀은 일반적으로 아들을, 작고 가는 뱀은 딸을 상징하는 경우가 많습니다. 색깔이 화려한 뱀이면 예술적 재능이 있는 아이를 예고합니다.",
+      "interpretation_en": "A snake in a conception dream indicates the child will be intelligent, sharp-minded, and capable of objective judgment. A large python or golden snake also hints at strong financial fortune. Large snakes typically suggest a son; small, slender snakes a daughter. A colorful, iridescent snake foretells a child with artistic gifts."
+    },
+    {
+      "keyword_ko": "잉어 태몽",
+      "keyword_en": "carp taemong",
+      "interpretation_ko": "잉어는 입신양명과 성취를 상징합니다. 특히 물살을 거슬러 오르는 잉어의 모습은 입지전적인 성공을 예고하는 강력한 길조로 여겨집니다. 잉어 태몽은 크게 학문이나 사업에서 이름을 떨칠 아이의 탄생을 뜻합니다.",
+      "interpretation_en": "The carp symbolizes achievement and upward mobility. A carp swimming upstream is one of the most powerful symbols of overcoming adversity to reach great success — a child who will rise through academia, career, or business to earn public recognition."
+    },
+    {
+      "keyword_ko": "곰 태몽",
+      "keyword_en": "bear taemong",
+      "interpretation_ko": "곰은 강인함과 모성, 인내를 상징합니다. 역사 기록(삼국유사 가락국기)에도 '곰의 꿈을 얻어 태자를 낳았다'는 기록이 있을 정도로 유서 깊은 태몽 상징입니다. 곰 태몽을 꾸면 의지가 강하고 인내심이 깊으며 위기에 강한 아이가 태어날 것이라 해석됩니다.",
+      "interpretation_en": "The bear signifies strength, maternal power, and endurance. Bear conception dreams have the longest recorded history in Korea, appearing in the Samguk Yusa (Memorabilia of the Three Kingdoms) where a queen's bear dream preceded the birth of a prince. The omen foretells a tenacious, resilient child with strong willpower."
+    },
+    {
+      "keyword_ko": "거북이 태몽",
+      "keyword_en": "turtle taemong",
+      "interpretation_ko": "거북이는 장수, 지혜, 재물을 두루 상징하는 길조입니다. 거북이 태몽을 꾸면 오래 살고 지혜로우며 재산이 풍요로운 아이가 태어날 것이라 해석됩니다. 꿈속에서 거북이를 잡거나 안으면 더욱 강한 길몽으로 봅니다.",
+      "interpretation_en": "The turtle encompasses longevity, wisdom, and wealth — a triple blessing. Catching or holding a turtle in the dream amplifies the positive omen, foretelling a child who will live long, accumulate wisdom, and enjoy abundant prosperity."
+    },
+    {
+      "keyword_ko": "복숭아 태몽",
+      "keyword_en": "peach taemong",
+      "interpretation_ko": "복숭아는 건강과 생명력, 행복을 상징하는 과일입니다. 탐스럽고 잘 익은 복숭아가 등장하는 태몽은 건강하고 복이 많은 아이의 탄생을 예고합니다. 도교에서 복숭아는 불로장생의 과일로 신성하게 여겨지기 때문에 아들 태몽으로 해석되기도 합니다.",
+      "interpretation_en": "The peach is the fruit of health, vitality, and happiness. A dream of ripe, abundant peaches foretells a healthy, blessed child. In Taoist cosmology, the peach is the fruit of immortality, lending this dream a deeply auspicious spiritual quality."
+    },
+    {
+      "keyword_ko": "해 태몽 (태양 태몽)",
+      "keyword_en": "sun taemong",
+      "interpretation_ko": "태양은 세상을 밝히는 존재로, 태양 태몽은 세상에 빛이 될 위대한 인물의 탄생을 예고합니다. 역사적으로 왕이나 영웅의 탄생과 연결된 경우가 많으며, 강인하고 빛나는 존재가 될 아이를 예고하는 최상위 길몽 중 하나입니다. 일반적으로 아들 태몽으로 해석됩니다.",
+      "interpretation_en": "The sun illuminates all, and a sun conception dream foretells the birth of a remarkable, world-brightening figure. Historically linked to the births of kings and national heroes, this is one of the highest-tier auspicious omens — a child destined to shine and inspire others. Typically interpreted as a son."
+    },
+    {
+      "keyword_ko": "꽃 태몽",
+      "keyword_en": "flower taemong",
+      "interpretation_ko": "꽃은 아름다움, 재능, 사랑받는 삶을 상징하며, 꽃이 등장하는 태몽은 일반적으로 딸 태몽으로 해석됩니다. 화려하고 아름다운 꽃이면 예쁘고 재능 있는 딸이 태어날 것을 예고하며, 주변에서 많은 사랑을 받는 아이가 될 것이라 봅니다.",
+      "interpretation_en": "Flowers symbolize beauty, talent, and a life filled with affection. Flower conception dreams are typically interpreted as foretelling a daughter — specifically one who will grow up beautiful and gifted, cherished by all those around her."
+    },
+    {
+      "keyword_ko": "고추 태몽",
+      "keyword_en": "red pepper taemong",
+      "interpretation_ko": "고추는 남아를 상징하는 대표적인 태몽 상징입니다. 탐스럽고 붉게 익은 고추가 등장하면 건강한 아들이 태어날 것을 예고합니다. 특히 밭에 고추가 풍성하게 열린 장면은 건강하고 활력 넘치는 아들의 탄생을 암시합니다.",
+      "interpretation_en": "The red pepper is one of the most recognized symbols for a son in Korean conception dream tradition. Plump, deeply red peppers ripening abundantly on the vine foretell a healthy, energetic baby boy."
+    },
+    {
+      "keyword_ko": "보석 태몽",
+      "keyword_en": "jewel / gem taemong",
+      "interpretation_ko": "보석이나 금은보화가 등장하는 태몽은 재물운이 뛰어나고 귀한 신분이 될 아이의 탄생을 예고합니다. 꿈속에서 보석을 받거나 줍는 장면은 특히 좋은 길몽으로, 아이가 부귀영화를 누릴 것이라 해석됩니다.",
+      "interpretation_en": "Dreams filled with jewels, gold, and precious objects foretell a child destined for wealth, high social standing, and prestige. Receiving or gathering jewels in the dream is especially auspicious, indicating the child will enjoy a life of abundance and distinction."
+    }
+  ],
+  "culturalContext": {
+    "korean": "태몽(胎夢)은 한국의 가장 오래되고 뿌리 깊은 민간 신앙 문화 중 하나로, 그 역사는 삼국시대까지 거슬러 올라갑니다. 『삼국유사』 가락국기에는 태자 거등공의 잉태를 알린 곰 꿈이 기록되어 있고, 『삼국사기』 김유신 열전에는 별이 떨어지는 꿈이 김유신의 잉태를 예고했다고 전합니다. 조선시대 기록인 『연려실기술』에도 용이 등장하는 태몽 이야기가 다수 남아 있습니다. 태몽의 문화적 뿌리는 무속 신앙(샤머니즘)과 밀접하게 연결되어 있으며, 새 생명의 탄생을 하늘이나 신령이 꿈을 통해 미리 알려준다는 세계관을 반영합니다. 도교적 음양오행 사상도 영향을 미쳐, 크고 빛나고 강한 상징은 양(陽)으로 아들과 연결하고, 작고 부드러운 상징은 음(陰)으로 딸과 연결하는 해석 체계가 자리잡았습니다. 태몽은 임신부 본인뿐 아니라 남편, 시부모, 친정 부모, 친한 지인도 대신 꿀 수 있다고 믿으며, 이 집단적 꿈 경험은 새 생명을 공동체 전체가 맞이하는 한국 특유의 공동체 문화를 반영합니다. 꿈을 사고파는 '꿈 거래' 풍습도 있었는데, 좋은 태몽을 꾼 사람이 임신을 원하는 이에게 꿈을 '팔면' 그 기운이 전달된다고 믿었습니다. 현대에도 태몽은 한국인의 일상에서 살아있는 전통으로, 산부인과 병원 게시판부터 SNS까지 태몽 공유 문화가 이어지고 있습니다.",
+    "english": "Taemong is one of Korea's oldest and most enduring folk traditions, with documented roots reaching back to the Three Kingdoms period (57 BCE – 668 CE). The Samguk Yusa (Memorabilia of the Three Kingdoms, compiled 1281 CE) records a bear dream preceding the birth of Prince Geodeung, and the biography of general Kim Yusin in the Samguk Sagi notes a falling-star dream that foretold his conception. The Yeollyeo Silgi (a Joseon-era historical miscellany) contains numerous dragon taemong accounts. Culturally, taemong is rooted in Korean shamanism (무속 신앙) — the belief that spirit forces announce a new life through vivid, unmistakable dreams. Taoist yin-yang cosmology overlaid a systematic gender framework: large, bright, and powerful symbols (yang) indicate sons, while small, delicate, and gentle symbols (yin) suggest daughters. Uniquely, the dream is not exclusive to the pregnant mother — fathers, grandparents, in-laws, and close friends are all believed capable of receiving the dream on the child's behalf, reflecting Korea's collectivist approach to welcoming new life. Historically there was even a custom of buying and selling auspicious dreams, as the transferable nature of dream energy was taken seriously. Today, taemong remains a living cultural practice: pregnancy forums, social media, and hospital waiting rooms all buzz with taemong stories."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트 정신분석학의 관점에서 보면, 태몽에 나타나는 강렬한 동물 상징은 억압된 무의식적 욕망이나 불안이 꿈의 언어로 표출된 것으로 해석할 수 있어요. 임신이라는 신체적·심리적 변화가 극대화된 시기에 뇌는 더욱 생생한 꿈을 만들어내는데, 프로이트라면 이를 모성 본능, 자녀에 대한 기대, 또는 죽음과 생명이라는 원초적 불안이 상징화된 것으로 봤을 거예요. 특히 뱀이나 고추 같은 남근적 상징이 아들 태몽으로 해석되는 전통은 프로이트의 성적 상징 이론과 흥미롭게 맞닿아 있답니다.",
+      "english": "From a Freudian psychoanalytic perspective, the vivid animal and object symbols in taemong can be understood as the unconscious mind's symbolic language during a period of heightened physical and psychological transformation. Freud viewed dream imagery as wish fulfillment — the expectant parent's hopes, anxieties, and primal desires about parenthood encoded in symbols. Notably, the traditional Korean association of phallic symbols (snakes, red peppers) with male children aligns intriguingly with Freud's theory of sexual symbolism in dreams."
+    },
+    "jungian": {
+      "korean": "칼 융의 관점에서 태몽은 집단 무의식에 내재된 원형(原型)이 임신이라는 생애 전환점에 강하게 활성화된 현상으로 이해할 수 있어요. 용, 호랑이, 뱀 같은 상징들은 융이 말한 '그레이트 마더(Great Mother)' 원형이나 '생명력(Libido)'의 집단적 표현이며, 문화를 초월해 공통적으로 나타나는 원형적 이미지들이에요. 융은 임신 중 꿈이 개인의 심리적 변화와 '자기(Self)' 실현 과정을 반영하는 중요한 신호라고 봤을 것이며, 새 생명의 탄생은 융의 개성화(Individuation) 여정에서 가장 상징적인 사건 중 하나랍니다.",
+      "english": "Carl Jung would likely interpret taemong as a spontaneous activation of archetypes from the collective unconscious, triggered by the profound life transition of pregnancy. The dragon, tiger, and serpent are among the most universal archetypal images across world cultures — appearing in the collective unconscious as symbols of transformative power, renewal, and the life force itself. Jung viewed pregnancy dreams as reflecting the individuation process, where the psyche prepares the self for a fundamental transformation of identity, and would find the Korean tradition's emphasis on vivid, numinous symbols deeply consistent with his theory of the dream as messenger of the deeper Self."
+    },
+    "modern": {
+      "korean": "현대 수면 과학과 심리학은 임신 중 호르몬 변화(특히 프로게스테론 증가)가 렘(REM) 수면을 늘려 꿈이 더 선명하고 기억에 남기 쉽게 만든다는 사실을 밝혔어요. 또한 임신이라는 심리적 긴장과 기대감이 무의식적으로 강렬한 상징 이미지를 만들어낸다고 봐요. 인지 과학적으로는 '확증 편향(confirmation bias)'이 작동해 인상적인 꿈이 나중에 태몽으로 기억되고, 맞지 않는 예측은 잊혀지는 경향이 있다는 점도 지적돼요. 그럼에도 태몽이 임산부와 가족에게 심리적 안정감과 유대감을 주는 문화적 기능은 현대 심리학도 긍정적으로 평가합니다.",
+      "english": "Modern sleep science confirms that hormonal changes during pregnancy — particularly elevated progesterone — increase REM sleep duration and intensity, producing more vivid and emotionally charged dreams that are easier to remember upon waking. Cognitive psychology points to confirmation bias as a key mechanism: memorable dreams are retrospectively categorized as taemong, while inaccurate predictions are quietly forgotten. Despite the absence of predictive validity, contemporary psychology recognizes that taemong serves a genuinely valuable function — providing psychological comfort, strengthening family bonds, and giving parents a narrative framework for anticipating their child's arrival."
+    },
+    "crossCultural": {
+      "korean": "서양에서 임신 중 꿈은 주로 개인 심리의 투영으로 해석되는 반면, 한국의 태몽은 집단이 함께 공유하고 해석하는 사회적·문화적 의식(儀式)에 가깝다는 점이 가장 큰 차이예요. 한국에서는 꿈이 개인의 무의식을 넘어 공동체 전체가 새 생명을 맞이하는 상징적 언어로 기능한다는 점에서 독특한 집단적 꿈 문화를 형성해 왔어요.",
+      "english": "Where Western traditions treat pregnancy dreams primarily as a window into individual psychology, Korean taemong functions as a shared communal ritual — dreamed by family members, discussed collectively, and woven into the social fabric of welcoming a new life. This collectivist dimension of dream culture, where a dream's meaning belongs to the community as much as the individual, is the most striking divergence from Western interpretive frameworks."
+    }
+  },
+  "relatedSymbols": [
+    "dragon",
+    "tiger",
+    "pig",
+    "snake",
+    "carp",
+    "sun",
+    "bear",
+    "turtle"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "태몽",
+      "태몽 꿈해몽",
+      "태몽 해석",
+      "태몽 종류",
+      "태몽 길몽 흉몽",
+      "태몽 아들 딸 구별",
+      "태몽 꾸는 시기",
+      "용 태몽",
+      "호랑이 태몽",
+      "돼지 태몽",
+      "뱀 태몽",
+      "잉어 태몽",
+      "태몽 의미",
+      "태몽 상징",
+      "임신 태몽",
+      "태몽 꿈 해석"
+    ],
+    "english": [
+      "taemong meaning",
+      "Korean conception dream",
+      "taemong dream interpretation",
+      "Korean pregnancy dream symbols",
+      "taemong boy or girl",
+      "conception dream Korea",
+      "taemong dragon tiger pig",
+      "Korean folk dream belief pregnancy",
+      "what is taemong",
+      "taemong auspicious symbols"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "태몽은 꼭 임산부 본인이 꿔야 하나요?",
+      "answer_ko": "아닙니다. 태몽은 임산부 본인 외에도 남편, 시부모, 친정 부모, 이모, 외할머니 등 가까운 가족이나 친한 지인이 대신 꿀 수 있다고 전통적으로 믿어져 왔습니다. 오히려 가족 중 여러 명이 비슷한 시기에 인상 깊은 꿈을 꾸는 경우, 그 아이의 태몽으로 해석하기도 합니다.",
+      "question_en": "Does only the pregnant mother dream taemong?",
+      "answer_en": "Not necessarily. Korean tradition holds that taemong can be dreamed by the father, grandparents on either side, or even close friends of the expectant mother. In fact, when several family members experience vivid, memorable dreams around the same time, all of them may be considered taemong for the same child."
+    },
+    {
+      "question_ko": "태몽을 꾸지 못하면 어떻게 되나요?",
+      "answer_ko": "태몽을 꾸지 못했다고 해서 아이에게 나쁜 영향이 생기는 것은 전혀 아닙니다. 다만 일부 임산부가 태몽 없이 임신했다는 사실에 불필요한 죄책감이나 스트레스를 받는 경우가 있는데, 전문가들은 이를 '무태몽 스트레스'라 부르며 전혀 걱정할 필요가 없다고 강조합니다. 태몽을 꾸지 못한 분들도 건강하고 훌륭한 아이를 낳고 있습니다.",
+      "answer_en": "Not experiencing a taemong has no effect whatsoever on the child. Some expectant parents feel unnecessary guilt or anxiety about not having a conception dream — sometimes called 'no-taemong stress' — but experts are clear that this worry is entirely unfounded. Countless healthy, wonderful children are born to parents who never had a taemong."
+    },
+    {
+      "question_ko": "태몽으로 아들인지 딸인지 알 수 있나요?",
+      "answer_ko": "전통적으로 크고 강한 동물(용, 호랑이, 큰 뱀, 잉어), 태양, 번개, 인삼, 고추 등은 아들 태몽으로, 꽃, 작은 동물, 조개, 나비, 과일 등은 딸 태몽으로 해석해 왔습니다. 그러나 실제 의학적으로 태몽이 아기의 성별을 예지한다는 근거는 없으며, 맞고 틀리는 경우가 반반 정도로 통계적으로 우연과 큰 차이가 없다는 연구도 있습니다. 재미있는 전통 문화로 즐기시는 것이 좋습니다.",
+      "answer_en": "Traditional interpretation links large, powerful animals (dragons, tigers, big snakes, carp), celestial objects, and phallic symbols (red peppers, ginseng) with boys, and flowers, small animals, shells, butterflies, and fruits with girls. However, there is no scientific evidence that taemong predict a baby's sex. Studies suggest the accuracy rate is roughly 50/50 — consistent with chance. It is best enjoyed as a meaningful cultural tradition rather than a reliable prediction."
+    },
+    {
+      "question_ko": "나쁜 태몽(흉몽)을 꿨을 때 어떻게 해야 하나요?",
+      "answer_ko": "전통적으로 나쁜 태몽을 꾼 뒤에는 흉몽을 길몽으로 바꾸는 주문('악몽착초목 호몽성주옥')을 외거나, 왼손으로 인중을 27번 두드리는 민간 방법이 전해져 왔습니다. 현대적으로는 전문가들이 어떤 태몽이든 긍정적으로 해석하는 것이 임산부의 심리적 안정에 이롭다고 조언합니다. 꿈 하나로 인해 임신 기간 내내 불안해하는 것이 오히려 더 해로울 수 있으니, 좋은 쪽으로 의미를 찾아보세요.",
+      "answer_en": "Traditionally, Koreans used specific remedies after an inauspicious taemong — including reciting an incantation ('bad dreams attach to grass and trees; good dreams become precious jewels') or tapping the philtrum 27 times with the left hand. In modern practice, experts advise interpreting any taemong in its most positive light, as prolonged anxiety during pregnancy is more harmful than the dream itself. Finding a hopeful meaning — or simply releasing the dream — is the wisest approach."
+    },
+    {
+      "question_ko": "태몽은 언제 꾸나요? 임신 몇 주차에 꾸는 건가요?",
+      "answer_ko": "태몽은 정해진 시기가 없습니다. 임신 직전부터 임신 사실을 알기 전, 임신 초기, 중기, 후기까지 언제든 나타날 수 있습니다. 가족이 대신 꾸는 경우, 임신 소식이 알려지기 훨씬 전에 꾸는 경우도 있습니다. 임신 중에는 호르몬 변화로 꿈이 더 생생해지기 때문에 어떤 꿈이든 강렬하게 기억에 남을 가능성이 높아집니다.",
+      "answer_en": "There is no fixed week or trimester for taemong. The dream can occur before conception, before the pregnancy is even known, or at any point during all three trimesters. Family members may dream it even before the expectant mother is aware of her pregnancy. Hormonal changes throughout pregnancy intensify dream vividness, making dreams at any stage more vivid and memorable than usual."
+    },
+    {
+      "question_ko": "태몽을 팔고 살 수 있다는 것이 사실인가요?",
+      "answer_ko": "네, 이는 실제로 전해 내려오는 한국의 전통 풍습입니다. 좋은 태몽을 꾼 사람이 아직 임신하지 못한 분이나 아이를 원하는 분에게 그 꿈의 기운을 '팔면', 꿈의 복이 그 사람에게 전해진다고 믿었습니다. 상징적인 의미에서 꿈 이야기를 들려주는 방식으로 진행되며, 이는 꿈을 살아있는 에너지로 여기는 한국 고유의 꿈 문화를 잘 보여줍니다.",
+      "answer_en": "Yes — this is a genuine Korean folk custom. It was believed that an auspicious taemong dreamed by someone who is not pregnant could be 'sold' to someone hoping to conceive, transferring the dream's fortunate energy. This was typically done by reciting or narrating the dream in detail to the recipient. This practice illustrates the distinctly Korean view of dreams as living, transferable energies rather than purely private mental events."
+    }
+  ]
+}

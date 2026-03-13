@@ -1,0 +1,261 @@
+{
+  "symbol": {
+    "korean": "귀신꿈",
+    "english": "Dream of a Ghost",
+    "slug": "ghost-dream"
+  },
+  "summary": {
+    "korean": "귀신 꿈은 전통적으로 억눌린 두려움과 미해결된 갈등을 반영하지만, 귀신과 싸워 이기거나 약을 받는 꿈은 재물운과 난관 극복을 예고하는 길몽으로 해석됩니다.",
+    "english": "Dreaming of a ghost traditionally reflects suppressed fears and unresolved conflicts, yet in Korean dream interpretation, overcoming or receiving gifts from a ghost is a powerful auspicious omen of fortune and breakthrough."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "귀신과 싸워 이기는 꿈은 경쟁자를 물리치고 현재의 난관을 극복할 강한 의지를 상징하는 대표적인 길몽입니다. 건강이 나빴다면 회복되고, 막혔던 일들이 순조롭게 풀릴 징조로 해석됩니다. 특히 시험을 앞두고 이 꿈을 꾸면 합격의 기운이 따른다고 봅니다.",
+      "english": "Dreaming of fighting a ghost and winning is a classic auspicious omen, symbolizing the willpower to overcome rivals and current hardships. It foretells recovery from illness, resolution of blocked endeavors, and — for those preparing for exams — a strong sign of success.",
+      "context": "귀신과의 대결에서 반드시 이겨야 길몽으로 분류됨. 지면 흉몽, 비기면 건강 강화와 장수의 징조로 따로 해석."
+    },
+    {
+      "type": "길몽",
+      "korean": "꿈속에서 귀신이 약을 건네주는 꿈은 뜻밖의 재물이 들어오거나 사업이 번창할 것을 예고하는 뜻밖의 길몽입니다. 귀인의 도움으로 재정적 어려움이 해결되거나 예상치 못한 행운이 찾아온다는 의미를 담고 있습니다.",
+      "english": "A dream in which a ghost hands you medicine is an unexpectedly auspicious sign predicting sudden wealth, business prosperity, or financial rescue through the help of an unexpected benefactor.",
+      "context": "귀신이 무언가를 '준다'는 행위가 핵심. 약, 음식, 선물 등을 받는 꿈 모두 재물운으로 연결됨."
+    },
+    {
+      "type": "길몽",
+      "korean": "귀신과 편안하게 대화하거나 친근하게 교류하는 꿈은 하는 일이 잘 풀리고 귀인의 도움을 받게 될 것임을 암시합니다. 꿈속에서 무섭지 않고 친숙한 귀신은 숨겨진 능력이나 직관이 깨어남을 상징하기도 합니다.",
+      "english": "Calmly conversing with or feeling at ease around a ghost in a dream signals that current endeavors will proceed smoothly and that a helpful benefactor will appear. A friendly, non-threatening ghost also symbolizes the awakening of hidden talents or intuition.",
+      "context": "공포감 없이 귀신과 소통하는 꿈이 핵심 조건. 무서운 느낌이 들면 해석이 달라짐."
+    },
+    {
+      "type": "길몽",
+      "korean": "꿈에서 귀신에게 죽임을 당하는 꿈은 깨고 나면 불쾌하지만 전통 해몽에서는 역설적으로 길몽으로 봅니다. 지금까지 힘들고 억눌렸던 상황이 반전되어 새로운 출발을 하게 될 조짐으로 해석합니다.",
+      "english": "Though unsettling upon waking, being killed by a ghost in a dream is paradoxically considered auspicious in traditional Korean interpretation — a sign that the current period of hardship is about to reverse dramatically, marking a new beginning.",
+      "context": "역몽(逆夢)의 원리로 해석. 극단적인 흉한 꿈 이미지가 오히려 좋은 변화를 예고한다는 전통 논리."
+    },
+    {
+      "type": "흉몽",
+      "korean": "귀신에게 쫓기는 꿈은 현실에서 감당하기 어려운 압박과 불안을 상징하는 대표적인 흉몽입니다. 가정에 우환이 생기거나, 뜻하지 않은 곳에서 사고가 날 수 있으며, 잘 되고 있던 일에 걸림돌이 생길 수 있음을 경고합니다.",
+      "english": "Being chased by a ghost is one of the most recognized inauspicious dreams in Korean interpretation, symbolizing unbearable pressure and anxiety in waking life. It warns of family troubles, unexpected accidents, or obstacles arising in work that had been progressing well.",
+      "context": "귀신에게 실제로 잡히면 흉조가 더 강함. 도망쳐서 벗어나면 다소 완화된 해석 가능."
+    },
+    {
+      "type": "흉몽",
+      "korean": "귀신이 집 안으로 들어오는 꿈은 가정과 주변 환경에 불운이 닥칠 것을 암시하는 흉몽입니다. 가족 간의 다툼이 발생하거나, 주변 지인이 나를 이용하려는 상황이 생길 수 있어 대인 관계에 각별한 주의가 필요합니다.",
+      "english": "A ghost entering the home in a dream is an inauspicious sign warning of misfortune descending on the household. It can foretell family conflict, betrayal by a trusted acquaintance, or a period of domestic strife requiring heightened caution in relationships.",
+      "context": "집이라는 공간은 전통적으로 가족과 보호를 상징. 침입 자체가 경계의 침범으로 해석됨."
+    },
+    {
+      "type": "흉몽",
+      "korean": "귀신이 나를 보며 웃고 있는 꿈은 구설수에 오르거나 주변 사람들과의 다툼이 생길 것을 예고합니다. 뜻밖의 사고나 수치스러운 일이 발생할 위험도 있어 각별히 언행에 주의해야 할 시기임을 알립니다.",
+      "english": "A ghost that stares and laughs at you in a dream foretells gossip, disputes with those around you, and possible unexpected accidents or humiliation. It is a warning to exercise particular caution in speech and behavior.",
+      "context": "귀신의 조소는 타인의 비웃음이나 사회적 비난을 상징. 표정과 분위기가 해몽의 핵심 단서."
+    },
+    {
+      "type": "흉몽",
+      "korean": "물귀신이 꿈에 나타나 나를 물속으로 끌어당기거나 붙잡는 꿈은 실제 물 관련 사고에 대한 강력한 경고로 해석됩니다. 이 꿈을 꾼 후에는 강가나 바닷가, 수영장 등 물가 출입을 삼가는 것이 좋다고 전통적으로 권고합니다.",
+      "english": "A water ghost (mul-gwisin) grabbing or dragging you into the water is interpreted as a strong traditional warning against water-related accidents. Those who have this dream are traditionally advised to avoid rivers, beaches, and swimming pools in the near future.",
+      "context": "물귀신은 한국 전통 귀신 중 특히 위험한 유형으로 분류. 꿈이 아닌 예지적 경고로 받아들이는 경향이 강함."
+    },
+    {
+      "type": "흉몽",
+      "korean": "처녀귀신이 꿈에 나타나는 것은 하는 일마다 안 풀리고 패가망신할 수 있다는 경고로 해석됩니다. 매사 답답하고 막히는 일들이 연이어 발생할 수 있어 중요한 결정이나 계약을 잠시 미루는 것이 좋습니다.",
+      "english": "The appearance of a virgin ghost (cheonyeo-gwisin) in a dream is a warning that all current endeavors may go wrong and lead to serious downfall. It advises postponing important decisions or contracts as a period of persistent obstruction lies ahead.",
+      "context": "처녀귀신은 억울하게 죽은 원귀의 대표적 형태. 한이 많을수록 흉조가 강하다고 봄."
+    },
+    {
+      "type": "neutral",
+      "korean": "돌아가신 조상이나 가족이 귀신으로 꿈에 나타나는 것은 길흉을 단정짓기 어려운 중립적 꿈으로 봅니다. 밝고 웃는 모습으로 나타난다면 좋은 일의 예지이거나 보살핌의 메시지이고, 어둡거나 슬픈 표정이라면 가족의 안녕에 관한 경고로 해석합니다.",
+      "english": "Deceased ancestors or family members appearing as ghosts occupy a neutral interpretive space — their emotional tone determines the meaning. A smiling, bright-looking ancestor brings good tidings or a message of blessing, while a sorrowful or dark-faced ancestor warns of a family matter requiring attention.",
+      "context": "조상 귀신은 원귀와 달리 후손을 음덕으로 돕는 존재로 유교 및 무속 전통에서 달리 취급됨. 표정과 분위기가 결정적 해석 변수."
+    },
+    {
+      "type": "neutral",
+      "korean": "귀신을 보았지만 별로 무섭지 않거나 무시하고 지나치는 꿈은 현실의 어떤 어려움도 별것 아닌 것으로 여기고 담담하게 대처할 수 있는 심리 상태를 반영합니다. 상황에 따라 문제가 쉽게 해결되거나 오히려 기쁜 소식이 들어올 수 있다는 해석도 있습니다.",
+      "english": "Seeing a ghost but feeling unafraid or simply ignoring it in a dream reflects a state of mental readiness to face difficulties calmly. Some interpretations suggest that problems will resolve with surprising ease, or that good news is on the way.",
+      "context": "공포 반응의 부재가 핵심. 무감각이 아닌 담담함이 포인트."
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "귀신에 쫓기는 꿈",
+      "keyword_en": "being chased by a ghost dream",
+      "interpretation_ko": "가정에 우환이 생기거나 뜻하지 않은 사고가 발생할 수 있음을 경고하는 흉몽입니다. 현실에서 느끼는 스트레스와 압박감의 심각성을 나타내기도 합니다. 귀신에게 잡히지 않고 도망치는 데 성공하면 흉조가 다소 완화될 수 있습니다.",
+      "interpretation_en": "An inauspicious dream warning of family troubles or unexpected accidents. It reflects the severity of stress and pressure felt in waking life. If you successfully escape without being caught, the omen is considered somewhat less severe."
+    },
+    {
+      "keyword_ko": "귀신과 싸워 이기는 꿈",
+      "keyword_en": "fighting and defeating a ghost dream",
+      "interpretation_ko": "경쟁자를 물리치고 어려운 상황을 극복할 것임을 예고하는 대표적인 길몽입니다. 건강이 회복되고 막혔던 일이 풀리며, 시험이나 사업에서 좋은 결과를 얻을 수 있다는 강력한 긍정 신호입니다.",
+      "interpretation_en": "A clear auspicious omen predicting victory over rivals and the overcoming of difficulties. Health improves, blocked matters clear up, and strong positive results are expected in exams or business ventures."
+    },
+    {
+      "keyword_ko": "귀신과 싸워 지는 꿈",
+      "keyword_en": "losing a fight against a ghost dream",
+      "interpretation_ko": "건강 악화나 사업 실패, 예상치 못한 손실이 발생할 수 있음을 경고하는 흉몽입니다. 현재 진행 중인 일을 재검토하고 무리한 도전은 잠시 미루는 것이 좋습니다.",
+      "interpretation_en": "An inauspicious dream warning of deteriorating health, business setbacks, or unexpected losses. It advises reviewing current endeavors and postponing risky challenges for the time being."
+    },
+    {
+      "keyword_ko": "귀신이 집에 들어오는 꿈",
+      "keyword_en": "ghost entering the house dream",
+      "interpretation_ko": "가정에 불운이 닥치거나 가족 간 다툼이 발생할 것을 암시하는 흉몽입니다. 주변 지인 중 나를 이용하거나 해를 끼치려는 사람이 있을 수 있으니 대인 관계를 주의해야 합니다.",
+      "interpretation_en": "An inauspicious dream foreshadowing misfortune in the household or family conflict. It also warns that someone in your social circle may be attempting to exploit or harm you."
+    },
+    {
+      "keyword_ko": "귀신에게 죽는 꿈",
+      "keyword_en": "being killed by a ghost dream",
+      "interpretation_ko": "꿈의 내용은 끔찍하지만 전통 해몽에서는 역설적으로 길몽으로 봅니다. 지금까지의 고난과 역경이 역전되고 새로운 시작이 찾아올 것을 예고합니다.",
+      "interpretation_en": "Paradoxically auspicious in traditional interpretation despite its frightening content. It signals that a long period of hardship is about to reverse and a fresh new beginning is imminent."
+    },
+    {
+      "keyword_ko": "귀신이 웃는 꿈",
+      "keyword_en": "ghost laughing at you dream",
+      "interpretation_ko": "구설수에 오르거나 주변 사람과의 다툼이 생길 것을 예고하는 흉몽입니다. 뜻밖의 사고나 창피스러운 일이 발생할 수 있어 언행에 주의해야 합니다.",
+      "interpretation_en": "An inauspicious omen forecasting gossip, disputes, or unexpected incidents that bring embarrassment. Exercise caution in speech and actions in the near term."
+    },
+    {
+      "keyword_ko": "귀신과 대화하는 꿈",
+      "keyword_en": "talking with a ghost dream",
+      "interpretation_ko": "꿈 분위기가 공포스럽지 않다면 하는 일이 잘 풀리거나 귀인의 도움을 받게 됨을 암시하는 길몽입니다. 숨겨진 능력이나 직관이 깨어날 조짐으로 보기도 합니다. 반면 귀신의 말이 위협적이거나 경고적이라면 흉몽으로 해석합니다.",
+      "interpretation_en": "If the atmosphere is calm rather than frightening, this is auspicious — predicting smooth progress in current work and support from a benefactor. Threatening or warning speech from the ghost shifts the interpretation to inauspicious."
+    },
+    {
+      "keyword_ko": "귀신이 약을 주는 꿈",
+      "keyword_en": "ghost giving medicine dream",
+      "interpretation_ko": "귀신으로부터 약이나 음식, 선물을 받는 꿈은 뜻밖의 재물이 들어오거나 재정적 어려움이 해결될 것을 예고하는 뜻밖의 길몽입니다.",
+      "interpretation_en": "Receiving medicine, food, or gifts from a ghost is an unexpectedly auspicious omen predicting sudden financial gain or the resolution of money troubles through an unforeseen source."
+    },
+    {
+      "keyword_ko": "물귀신 꿈",
+      "keyword_en": "water ghost dream",
+      "interpretation_ko": "물귀신이 나타나 나를 끌어당기거나 붙잡는 꿈은 물 관련 사고에 대한 강력한 경고 흉몽입니다. 꿈 이후 당분간 강이나 바다, 수영장 방문을 자제하고 안전에 각별히 주의해야 합니다.",
+      "interpretation_en": "The appearance of a water ghost grabbing or pulling you is a powerful warning omen against water-related accidents. Traditional advice strongly recommends avoiding bodies of water — rivers, seas, swimming pools — in the period following this dream."
+    },
+    {
+      "keyword_ko": "처녀귀신 꿈",
+      "keyword_en": "virgin ghost (cheonyeo-gwisin) dream",
+      "interpretation_ko": "원한을 품은 처녀귀신이 나타나는 꿈은 매사가 막히고 패가망신할 수 있다는 심각한 경고 흉몽입니다. 중요한 계약이나 결정을 뒤로 미루고 주변 환경을 정비하는 것이 좋습니다.",
+      "interpretation_en": "The appearance of a resentful virgin ghost (cheonyeo-gwisin) is a serious inauspicious warning that current endeavors will be blocked and may lead to significant downfall. Important decisions and contracts should be postponed."
+    },
+    {
+      "keyword_ko": "조상 귀신 꿈",
+      "keyword_en": "ancestor ghost dream",
+      "interpretation_ko": "돌아가신 조상이 꿈에 나타나는 것은 길흉이 표정과 분위기에 달려 있습니다. 밝고 웃는 조상은 가문의 번창과 행운을 예고하는 길몽이고, 슬프거나 어두운 표정의 조상은 가족 건강이나 대소사에 관한 경고로 해석합니다.",
+      "interpretation_en": "An ancestor appearing in a dream is interpreted based on their expression and mood. A smiling, radiant ancestor predicts family prosperity and good fortune (auspicious), while a sorrowful or dark-faced ancestor signals a warning about family health or an impending significant event."
+    },
+    {
+      "keyword_ko": "도깨비 꿈",
+      "keyword_en": "dokkaebi (Korean goblin) dream",
+      "interpretation_ko": "도깨비는 귀신과 다른 존재로, 꿈에서 큰 도깨비를 놀리거나 이기는 꿈은 사업에서 뛰어난 수완을 발휘해 큰 돈과 재물을 모을 길몽으로 해석됩니다. 도깨비에게 지거나 쫓기면 사업 손실을 조심해야 합니다.",
+      "interpretation_en": "Dokkaebi (goblins) are distinct from ghosts in Korean folklore. Tricking or defeating a large dokkaebi is a strong auspicious omen of outstanding business acumen and accumulation of great wealth. Being chased or defeated by one warns of business losses."
+    },
+    {
+      "keyword_ko": "자신이 귀신이 되는 꿈",
+      "keyword_en": "becoming a ghost dream",
+      "interpretation_ko": "꿈에서 자신이 귀신이 되는 꿈은 역설적으로 경쟁자를 물리치고 리더십을 발휘하게 될 것을 예고하는 길몽으로 해석됩니다. 어려운 상황을 내 편으로 만들 능력이 생긴다는 의미를 담기도 합니다.",
+      "interpretation_en": "Paradoxically auspicious, becoming a ghost yourself in a dream predicts defeating rivals and stepping into a position of leadership. It also suggests the ability to turn difficult circumstances to your advantage."
+    }
+  ],
+  "culturalContext": {
+    "korean": "한국에서 귀신(鬼神)은 단순한 공포의 대상이 아니라 저승과 이승 사이에 걸쳐 있는 복합적인 존재입니다. 고구려와 마한 시대부터 귀신에게 제사를 올리는 풍습이 문헌에 기록되어 있으며, 한국 무속신앙(巫俗信仰)에서 무당은 귀신과 산 자 사이를 중재하는 존재로 기능해 왔습니다. 특히 억울하게 죽거나 한(恨)을 품고 세상을 떠난 영혼은 원귀(寃鬼)가 되어 산 자들에게 재앙을 내린다고 여겨졌고, 이런 원귀를 달래기 위해 굿이나 진혼제를 지냈습니다. 조선 시대에는 유교의 조상 숭배 사상이 더해지면서 제대로 된 제례(祭禮)를 받은 조상 귀신은 후손에게 음덕(蔭德)을 베푸는 신성한 존재로, 그렇지 못한 귀신은 두려움의 대상으로 이분화되었습니다. 꿈에서 귀신을 마주하는 것은 이 두 세계가 접촉하는 순간으로, 결과(싸워 이기는지 지는지, 귀신이 무엇을 주는지)에 따라 길흉이 판가름나는 것이 한국 전통 꿈해몽의 핵심 논리입니다.",
+    "english": "In Korean tradition, ghosts (gwisin) are complex entities straddling the boundary between the living and the dead, not merely objects of fear. Ritual veneration of spirits appears in historical records as far back as the Goguryeo and Mahan kingdoms, and Korean shamanism (musok sinang) positions the mudang (shaman) as a mediator between the spirit world and the living. Spirits of those who died unjustly or with deep resentment — called won-gwi (원귀, wronged spirits) — were believed to bring calamity upon the living and required appeasement through gut rituals and requiem ceremonies. The Joseon Dynasty layered Confucian ancestor veneration on top of these shamanic beliefs, creating a duality: properly venerated ancestors become benevolent protectors (eumdŏk), while neglected spirits become sources of misfortune. In dream interpretation, encountering a ghost represents a moment of contact between these two realms — and the outcome of that encounter (whether you win or lose, what the ghost offers) determines whether the dream is auspicious or foreboding."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트의 정신분석학 관점에서 귀신은 억압된 무의식의 내용이 꿈이라는 '검열 완화' 상태에서 떠오른 것으로 해석해요. 평소 의식에서 밀어낸 죄책감, 금지된 욕망, 해결되지 않은 공포가 귀신이라는 형상을 빌려 표면화되는 것이죠. 귀신에게 쫓기는 꿈은 특히 회피하고 싶은 내면의 갈등이나 억눌린 불안감이 매우 강하게 축적된 상태를 반영한다고 봐요.",
+      "english": "From a Freudian perspective, ghosts in dreams represent repressed unconscious material surfacing under the relaxed censorship of sleep — guilt, forbidden desires, and unresolved fears taking on a ghostly form. Being chased by a ghost, in particular, reflects a highly charged accumulation of inner conflict or suppressed anxiety that the waking mind has been refusing to confront."
+    },
+    "jungian": {
+      "korean": "융의 분석심리학에서 귀신은 흔히 '그림자(Shadow)'의 원형으로 등장해요. 그림자란 자아가 인정하기 싫어서 외면해온 자신의 또 다른 면 — 분노, 열등감, 두려움 같은 것들이에요. 귀신을 두려워하며 도망치는 꿈은 자신의 그림자를 통합하지 못한 상태를 나타내고, 반대로 귀신과 정면 대결해 이기는 꿈은 자아의 성숙, 즉 개성화(individuation) 과정이 진전되고 있음을 상징해요. 귀신이 메시지를 전하거나 선물을 주는 꿈은 집단무의식(collective unconscious)이 중요한 통찰을 전달하려는 시도로 해석됩니다.",
+      "english": "In Jungian analytical psychology, ghosts often appear as manifestations of the Shadow — the disowned aspects of the self such as anger, inferiority, or fear that the ego refuses to acknowledge. Fleeing in terror from a ghost signals incomplete shadow integration, while facing and defeating a ghost symbolizes meaningful progress in individuation, the journey toward psychological wholeness. A ghost that delivers a message or offers gifts represents the collective unconscious attempting to transmit an important insight to the dreamer."
+    },
+    "modern": {
+      "korean": "현대 심리학과 뇌과학에서는 귀신 꿈을 과도한 스트레스, 외상 후 스트레스(PTSD), 수면 불규칙, 혹은 상실에 대한 애도 과정과 연결 지어 설명해요. 수면마비(가위눌림) 상태에서 귀신을 보는 경험은 뇌의 각성과 수면이 혼재하는 의식 상태에서 발생하는 신경학적 현상으로 밝혀져 있어요. 인지행동치료(CBT) 관점에서는 반복적인 귀신 꿈이 불안 장애의 신호일 수 있으며, 꿈의 내용을 정서적으로 처리하는 상담이 도움이 된다고 봅니다.",
+      "english": "Modern psychology and neuroscience link ghost dreams to elevated stress, post-traumatic stress disorder (PTSD), irregular sleep, or unresolved grief processes. The experience of seeing ghosts during sleep paralysis (gawirnullim in Korean) is now understood as a neurological phenomenon — a hybrid state between wakefulness and REM sleep that generates vivid hallucinations. From a cognitive-behavioral therapy (CBT) perspective, recurring ghost dreams may signal an anxiety disorder, and therapeutic processing of dream content is considered clinically beneficial."
+    },
+    "crossCultural": {
+      "korean": "한국 전통 해몽이 귀신과의 대결 결과(이기냐 지느냐)에서 길흉을 찾는 반면, 서양 심리학은 귀신 자체를 외면해온 내면의 상처나 억압된 감정의 상징으로 보는 경향이 있어요. 두 전통 모두 귀신 꿈을 무시할 수 없는 내면의 메시지로 본다는 점에서는 흥미롭게 일치합니다.",
+      "english": "While Korean traditional interpretation finds meaning in the outcome of the encounter — whether you defeat or are defeated by the ghost — Western psychology tends to treat the ghost itself as a symbol of inner wounds or repressed emotions. Both traditions converge, however, in treating ghost dreams as significant messages from an inner world that cannot simply be ignored."
+    }
+  },
+  "relatedSymbols": [
+    "ancestor-visit",
+    "death",
+    "cemetery",
+    "darkness",
+    "being-chased",
+    "demon",
+    "shamanic-ritual",
+    "deceased-family"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "귀신꿈",
+      "귀신꿈 해몽",
+      "귀신 나오는 꿈",
+      "귀신꿈 길몽 흉몽",
+      "귀신에 쫓기는 꿈",
+      "귀신과 싸우는 꿈 해몽",
+      "귀신이 집에 들어오는 꿈",
+      "귀신꿈 의미",
+      "물귀신 꿈 해몽",
+      "처녀귀신 꿈",
+      "조상 귀신 꿈 해석",
+      "귀신에게 죽는 꿈",
+      "귀신꿈 로또",
+      "귀신 보는 꿈 해몽",
+      "귀신꿈 좋은 꿈인가"
+    ],
+    "english": [
+      "ghost dream meaning Korean",
+      "dream about ghost Korean interpretation",
+      "being chased by ghost dream meaning",
+      "ghost dream auspicious inauspicious",
+      "gwisin dream meaning",
+      "Korean ghost dream analysis",
+      "fighting ghost in dream",
+      "ancestor ghost dream meaning",
+      "water ghost dream Korea",
+      "ghost entering house dream",
+      "what does dreaming of a ghost mean"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "귀신꿈은 무조건 나쁜 꿈인가요?",
+      "answer_ko": "아닙니다. 귀신꿈은 내용에 따라 길몽이 되기도 합니다. 귀신과 싸워 이기거나, 귀신이 약이나 선물을 건네거나, 귀신과 편안하게 대화하는 꿈은 재물운이나 어려움 극복을 예고하는 길몽으로 해석됩니다. 반면 귀신에게 쫓기거나 잡히는 꿈, 귀신이 집에 들어오는 꿈 등은 흉몽으로 봅니다.",
+      "question_en": "Is dreaming of a ghost always a bad omen?",
+      "answer_en": "Not at all. Ghost dreams can be auspicious depending on the content. Defeating a ghost in combat, receiving medicine or gifts from a ghost, or conversing calmly with a ghost are all interpreted as auspicious omens predicting financial gain or the overcoming of obstacles. Being chased or caught by a ghost, or a ghost entering the home, are the variations most associated with inauspicious interpretations."
+    },
+    {
+      "question_ko": "귀신에게 쫓기는 꿈을 꿨는데, 어떻게 해야 하나요?",
+      "answer_ko": "귀신에게 쫓기는 꿈은 현실에서 쌓인 스트레스나 불안감의 반영일 가능성이 높습니다. 전통적으로는 가정의 우환이나 사고를 조심하라는 경고로 받아들여지지만, 현대적으로는 자신의 심리 상태를 돌아보고 억눌린 걱정거리를 직면하는 계기로 삼는 것이 좋습니다. 평소보다 안전에 주의하고, 심리적으로 무거운 문제가 있다면 해결의 실마리를 찾아보세요.",
+      "question_en": "I dreamed of being chased by a ghost — what should I do?",
+      "answer_en": "Being chased by a ghost likely reflects accumulated stress or anxiety in your waking life. Traditional Korean interpretation treats it as a warning to be cautious of family troubles or accidents. From a modern perspective, it is an invitation to examine your psychological state and confront suppressed worries. Take extra care with safety in the near term and look for ways to address any underlying anxieties weighing on you."
+    },
+    {
+      "question_ko": "꿈에 돌아가신 가족이나 조상이 귀신처럼 나타나면 어떤 의미인가요?",
+      "answer_ko": "돌아가신 분이 꿈에 나타나는 것은 길흉을 단정 짓기 어렵고, 표정과 분위기가 중요합니다. 밝고 웃는 모습이라면 가문의 번창과 행운을 예고하거나 보살핌의 메시지를 전하는 것으로 봅니다. 슬프거나 어두운 표정이라면 가족의 건강이나 중요한 일에 관한 경고로 해석하는 것이 일반적입니다.",
+      "question_en": "What does it mean when a deceased family member or ancestor appears as a ghost in my dream?",
+      "answer_en": "The interpretation hinges on the ancestor's expression and emotional tone rather than their mere presence. A smiling, radiant ancestor brings a message of prosperity or protection — a good omen for the family. A sorrowful or darkened appearance is traditionally read as a warning related to family health or an important upcoming event requiring attention."
+    },
+    {
+      "question_ko": "물귀신 꿈을 꾸면 정말 물에 조심해야 하나요?",
+      "answer_ko": "전통 꿈해몽에서는 물귀신이 나타나 끌어당기는 꿈을 물 관련 사고의 강력한 예지몽으로 해석하여, 꿈을 꾼 후 강이나 바다, 수영장 방문을 삼가도록 권고합니다. 현대적 시각에서는 이것이 물이나 통제 불능의 상황에 대한 무의식적 두려움을 반영하는 것으로 볼 수 있지만, 전통적 믿음을 존중하여 물가 활동 시 안전을 각별히 신경 쓰는 것은 해로울 것이 없습니다.",
+      "question_en": "Should I really be careful around water after dreaming of a water ghost?",
+      "answer_en": "In traditional Korean dream interpretation, a water ghost pulling or grabbing you is treated as a strong predictive warning against water-related accidents, and people are advised to avoid rivers, beaches, and pools. Modern psychology would view it as reflecting unconscious fear of uncontrollable situations, but respecting the traditional caution and exercising extra care around water carries no downside."
+    },
+    {
+      "question_ko": "귀신에게 죽임을 당하는 꿈은 왜 길몽인가요?",
+      "answer_ko": "한국 전통 꿈해몽에는 '역몽(逆夢)'의 원리가 있습니다. 꿈속의 극단적으로 나쁜 상황이 현실에서는 반전되어 오히려 좋은 결과로 이어진다는 논리입니다. 귀신에게 죽는 꿈은 이 원리에 따라, 긴 고난과 역경의 시기가 끝나고 새로운 시작이 찾아올 것을 예고하는 것으로 해석합니다. 죽음이 상징하는 '끝'이 곧 새 출발을 의미하는 것이죠.",
+      "question_en": "Why is being killed by a ghost in a dream considered auspicious?",
+      "answer_en": "Korean traditional dream interpretation includes the principle of the 'reverse dream' (yeongmong) — an extremely negative dream image in sleep paradoxically predicts a positive reversal in reality. Being killed by a ghost follows this logic: it signals that a prolonged period of hardship and adversity is coming to an end, and a new beginning is on the horizon. The 'ending' that death symbolizes is reinterpreted as the dawn of something new."
+    },
+    {
+      "question_ko": "귀신꿈이 자주 반복된다면 어떤 신호인가요?",
+      "answer_ko": "귀신꿈이 반복된다면 단순한 예지적 해몽을 넘어 현재의 심리 상태를 점검해볼 필요가 있다는 신호일 수 있습니다. 만성 스트레스, 불안 장애, 외상 후 스트레스, 또는 해결되지 않은 감정적 상처가 꿈으로 반복 표출되는 경우가 많습니다. 전통적으로는 조상이나 귀신에게 제사나 의례를 올리는 것이 해결책으로 제시되었지만, 현대적으로는 심리 상담이나 스트레스 관리도 함께 고려하시는 것을 권장합니다.",
+      "question_en": "What does it mean if ghost dreams recur repeatedly?",
+      "answer_en": "Recurring ghost dreams signal something beyond a single predictive omen — they call for a genuine assessment of your current psychological state. Chronic stress, anxiety disorders, PTSD, or unresolved emotional wounds frequently manifest as recurring nightmare themes. Traditional Korean practice would recommend ancestral rites or shamanistic rituals for appeasement, while modern approaches would suggest psychological counseling or structured stress management alongside any spiritual practices."
+    }
+  ]
+}

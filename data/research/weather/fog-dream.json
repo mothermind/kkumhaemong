@@ -1,0 +1,188 @@
+{
+  "symbol": {
+    "korean": "안개 꿈",
+    "english": "Dream of Fog",
+    "slug": "fog-dream"
+  },
+  "summary": {
+    "korean": "안개 꿈은 전통적으로 불확실한 미래, 숨겨진 진실, 혼란스러운 현실을 상징하며, 안개가 걷히는 꿈은 고민 해결과 상황 호전의 징조로 해석됩니다.",
+    "english": "Dreaming of fog traditionally symbolizes uncertainty, hidden truths, and confusion in Korean dream interpretation, while fog clearing signals the resolution of worries and an improvement in one's situation."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "안개가 서서히 걷히거나 개이는 꿈은 오랫동안 앓던 질병이 회복되거나, 마음을 짓누르던 고민과 문제가 해결될 징조입니다. 막혀 있던 상황이 뚫리고 앞날이 점점 밝아지는 흐름을 암시합니다.",
+      "english": "A dream in which fog gradually clears and lifts is a sign that a long-standing illness will recover, or that burdensome worries and problems will finally be resolved. It suggests that blocked circumstances will open up and your path forward will gradually brighten.",
+      "context": "안개가 서서히 사라지거나 맑게 개이는 장면이 꿈에 나타날 때"
+    },
+    {
+      "type": "흉몽",
+      "korean": "짙은 안개가 자욱하게 끼어 앞이 보이지 않는 꿈은 질병이나 근심이 생길 것을 암시합니다. 형체를 분간할 수 없을 정도의 짙은 안개는 사상적 쇠퇴, 유행성 질병, 재난, 숨겨진 비밀 등 부정적인 일이 닥칠 수 있음을 경고합니다.",
+      "english": "A dream of dense fog so thick that you cannot see ahead warns of potential illness or mounting worries. Fog so heavy that shapes become indistinguishable signals ideological setbacks, epidemic disease, disaster, or hidden secrets that may come to light.",
+      "context": "안개가 매우 짙어 앞이 전혀 보이지 않거나 형체조차 구분하기 어려울 때"
+    },
+    {
+      "type": "흉몽",
+      "korean": "자욱한 안개와 구름이 몰려드는 꿈은 현재 적극적으로 행동하지 않으면 하는 일마다 실패할 확률이 높다는 경고입니다. 소극적인 자세로 상황을 방관하면 기회를 놓치고 사업이나 대인관계에서 어려움이 생길 수 있습니다.",
+      "english": "A dream of thick fog and gathering clouds is a warning that you may face repeated failures unless you take proactive action. Remaining passive and watching from the sidelines risks missing opportunities and encountering difficulties in business or relationships.",
+      "context": "안개와 구름이 함께 밀려드는 꿈으로, 수동적인 태도를 취하고 있을 때"
+    },
+    {
+      "type": "흉몽",
+      "korean": "특정 장소나 지역에만 안개가 국부적으로 덮이는 꿈은 불미스러운 사건이 생기거나 당사자와 관련된 소문이 세상에 퍼져나갈 일이 생길 수 있음을 뜻합니다.",
+      "english": "A dream of fog covering only a localized area or specific place suggests that an unpleasant incident may occur, or that rumors and gossip about you or someone close to you may spread.",
+      "context": "일부 지역에만 선택적으로 안개가 끼는 꿈"
+    },
+    {
+      "type": "neutral",
+      "korean": "산허리에 안개가 끼거나 산등성이를 따라 안개가 흐르는 꿈은 어떤 사업이나 프로젝트의 진행 과정이 한동안 비밀에 싸여 알려지지 않을 수 있음을 의미합니다. 또는 중요한 무언가나 누군가가 한동안 행방불명 상태에 놓일 수 있음을 암시하기도 합니다.",
+      "english": "A dream of fog drifting around a mountainside or ridge suggests that the progress of a business or project may remain shrouded in secrecy for a while. It can also hint that something or someone important may go missing or remain out of contact for a time.",
+      "context": "산의 중턱이나 허리 부분에 안개가 감도는 꿈"
+    },
+    {
+      "type": "neutral",
+      "korean": "안개 속을 걸어가거나 안개 속을 헤매는 꿈은 현재 진행 중인 일이나 사업의 미래가 불투명하다는 것을 상징합니다. 방향을 잃은 느낌과 함께 현재 상황에서 명확한 해답을 찾기 어렵다는 무의식의 반영이기도 합니다.",
+      "english": "Dreaming of walking through or wandering in fog symbolizes uncertainty about the future of a current project or endeavor. It can also reflect the subconscious sense that clear answers are hard to find in your present circumstances.",
+      "context": "꿈속에서 안개 속을 직접 걸어가거나 길을 잃고 헤매는 상황"
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "안개가 걷히는 꿈",
+      "keyword_en": "fog clearing dream",
+      "interpretation_ko": "안개가 서서히 걷히고 맑아지는 꿈은 질병 회복, 고민 해소, 오랜 문제의 해결을 뜻하는 길몽입니다. 막혔던 일이 풀리고 앞날이 밝아지는 전조로 해석됩니다.",
+      "interpretation_en": "Dreaming of fog slowly clearing and the air brightening is an auspicious sign pointing to recovery from illness, relief from worries, and the resolution of long-standing problems. It signals that things held up will begin to move forward."
+    },
+    {
+      "keyword_ko": "짙은 안개 꿈",
+      "keyword_en": "thick dense fog dream",
+      "interpretation_ko": "형체를 분간하기 어려울 만큼 짙은 안개가 끼는 꿈은 흉몽으로, 건강 악화, 재난, 숨겨진 비밀이 불거지거나 유행성 질병 등의 부정적인 사건이 닥칠 수 있음을 경고합니다.",
+      "interpretation_en": "A dream of fog so thick that shapes are unrecognizable is inauspicious, warning of deteriorating health, disaster, hidden secrets coming to light, or the spread of epidemic illness."
+    },
+    {
+      "keyword_ko": "안개 속을 걷는 꿈",
+      "keyword_en": "walking through fog dream",
+      "interpretation_ko": "안개 속을 걸어 나아가는 꿈은 현재 하는 일이나 사업의 미래가 불투명하고 앞이 잘 보이지 않는 상황을 반영합니다. 방향을 잃을 수 있으니 신중하게 행동하라는 암시입니다.",
+      "interpretation_en": "Walking through fog in a dream reflects an uncertain and unclear future for current work or business. It is a prompt to proceed with caution, as the path ahead is not yet visible."
+    },
+    {
+      "keyword_ko": "안개 속에서 헤매는 꿈",
+      "keyword_en": "lost in fog dream",
+      "interpretation_ko": "안개 속에서 길을 잃고 헤매는 꿈은 현실에서 중요한 결정을 앞두고 혼란스러운 상태에 있음을 나타냅니다. 내면의 불안과 방향 상실감이 꿈으로 표출된 것입니다.",
+      "interpretation_en": "Dreaming of being lost and wandering in fog indicates a state of confusion in waking life, particularly when facing an important decision. It reflects inner anxiety and a sense of having lost one's direction."
+    },
+    {
+      "keyword_ko": "아침 안개 꿈",
+      "keyword_en": "morning fog dream",
+      "interpretation_ko": "아침에 안개가 자욱하게 끼는 꿈은 한국 전통 속담의 영향을 받아 해가 뜨면 안개가 걷히듯 현재의 어려움이 결국 해결될 것이라는 희망적인 메시지를 담기도 합니다. 다만 안개 자체가 짙다면 당분간 고난이 지속될 수 있습니다.",
+      "interpretation_en": "A dream of thick morning fog can carry a hopeful message — just as morning fog lifts with the rising sun, current difficulties will eventually clear. However, if the fog is especially dense, it may indicate that hardships will persist for some time."
+    },
+    {
+      "keyword_ko": "산허리 안개 꿈",
+      "keyword_en": "fog on mountainside dream",
+      "interpretation_ko": "산의 중턱에 안개가 감도는 꿈은 진행 중인 사업이나 계획의 성공 과정이 한동안 비밀에 싸여 외부에 알려지지 않을 것임을 암시합니다. 또한 중요한 사람이나 물건이 잠시 행방불명될 수 있음을 경고하기도 합니다.",
+      "interpretation_en": "Fog drifting around a mountainside in a dream suggests that the progress of an ongoing project or plan will remain hidden or undisclosed for a while. It may also warn that an important person or object could temporarily go missing."
+    },
+    {
+      "keyword_ko": "국부적 안개 꿈",
+      "keyword_en": "localized fog dream",
+      "interpretation_ko": "넓은 지역이 아닌 특정 장소에만 안개가 끼는 꿈은 그 장소나 관련 인물과 연결된 불미스러운 사건이나 소문이 퍼질 수 있음을 나타냅니다.",
+      "interpretation_en": "Fog covering only a specific spot rather than spreading widely suggests that an unpleasant incident or spreading rumors may be linked to that place or the people associated with it."
+    },
+    {
+      "keyword_ko": "안개 속에서 빠져나오는 꿈",
+      "keyword_en": "escaping from fog dream",
+      "interpretation_ko": "안개 속에서 걸어 나와 맑은 곳에 도달하는 꿈은 오랫동안 막혀 있던 문제가 해결되거나, 혼란스러운 상황에서 벗어나 새로운 출발을 하게 될 것임을 상징하는 길몽입니다.",
+      "interpretation_en": "A dream of walking out of fog and arriving in a clear place is an auspicious sign indicating that long-standing problems will be resolved and that you will break free from confusion to make a fresh start."
+    }
+  ],
+  "culturalContext": {
+    "korean": "한국 전통에서 안개는 예로부터 '보이지 않음'과 '불명확함'의 상징으로 여겨져 왔습니다. 삼국시대부터 조선시대에 이르기까지 역사서에는 대무(大霧), 황무(黃霧), 흑무(黑霧) 등 안개의 짙기와 색깔에 따른 다양한 명칭이 기록되어 있으며, 이는 당시 사람들이 안개를 단순한 기상 현상이 아닌 하늘의 뜻이나 시대의 징조로 해석했음을 보여줍니다. 꿈해몽의 전통에서 안개는 주로 앞날이 불투명하거나 진실이 가려진 상황을 상징하는데, 이는 안개가 시야를 막아 길을 잃게 만드는 속성에서 유래한 것입니다. 한편 한국의 속담 '아침 안개 짙으면 맑을 징조'처럼, 짙은 안개가 곧 맑은 날씨로 이어진다는 자연관이 꿈해몽에도 영향을 미쳐, 안개가 걷히는 꿈이 문제 해결의 길몽으로 해석되는 전통이 형성되었습니다. 무속신앙에서 안개와 구름은 신령이 깃드는 공간을 가리는 장막으로 여겨지기도 하여, 산에 낀 안개는 신성한 존재의 은폐를 상징하기도 했습니다.",
+    "english": "In Korean tradition, fog has long been regarded as a symbol of invisibility and ambiguity. Historical records from the Three Kingdoms period through the Joseon Dynasty document fog under various names — daemu (大霧, heavy fog), hwangmu (黃霧, yellow fog), and heungmu (黑霧, black fog) — classified by density, color, and time of occurrence. This suggests that ancient Koreans interpreted fog not merely as a meteorological event but as a heavenly omen or sign of the times. In the dream interpretation tradition, fog primarily symbolizes an unclear future or a situation where truth is obscured — reflecting fog's natural property of blocking vision and causing one to lose one's way. The Korean proverb 'Dense morning fog heralds clear skies' also influenced dream interpretation: because thick fog naturally gives way to brilliant sunshine, dreams in which fog clears became understood as auspicious signs of resolution and clarity. In Korean shamanism (무속신앙), fog and clouds were also seen as veils concealing the realm of spirits, lending mountain fog a sacred, mystical quality."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트 정신분석학의 관점에서 안개는 억압된 감정이나 무의식 속에 숨겨진 욕구가 의식 표면으로 올라오지 못하고 흐릿하게 존재하는 상태를 상징해요. 시야를 가리는 안개는 불쾌한 진실이나 갈등을 직시하지 않으려는 자아 방어 기제를 나타낼 수 있어요. 프로이트는 이를 결단력 및 명확한 사고의 부재와 연결지으며, 안개 꿈이 심리적 우유부단함이나 현실 회피의 경향을 반영한다고 봤어요.",
+      "english": "From a Freudian psychoanalytic perspective, fog symbolizes repressed emotions or hidden desires that linger in the unconscious without fully breaking through to conscious awareness. The vision-obscuring quality of fog can represent ego defense mechanisms that prevent one from confronting uncomfortable truths or inner conflicts. Freud connected fog dreams to decisiveness and mental clarity, suggesting they may reflect psychological indecisiveness or a tendency toward avoidance."
+    },
+    "jungian": {
+      "korean": "융의 분석심리학에서 안개는 의식과 무의식의 경계 지점, 즉 자아가 아직 통합하지 못한 심리적 내용이 존재하는 영역을 상징해요. 안개는 집단 무의식에 접근하는 통로이면서 동시에 아직 명확히 인식되지 않은 그림자(Shadow)나 아니마/아니무스를 가리키는 표상이기도 해요. 융은 이 안개가 걷히는 과정을 개성화(individuation) — 무의식의 내용을 의식으로 통합해가는 자기 실현의 여정으로 해석했어요.",
+      "english": "In Jung's analytical psychology, fog symbolizes the threshold between the conscious and unconscious mind — the domain of psychic material that has not yet been integrated by the ego. Fog serves as both a gateway to the collective unconscious and a representation of the shadow, anima, or animus that has not yet been clearly recognized. Jung would interpret the clearing of fog as the process of individuation — the journey of integrating unconscious material into consciousness and moving toward self-realization."
+    },
+    "modern": {
+      "korean": "현대 인지심리학과 신경과학의 관점에서 안개 꿈은 주로 불안, 스트레스, 또는 중요한 결정을 앞두고 발생하는 감정적 혼란을 뇌가 처리하는 방식의 반영으로 봐요. 수면 중 전두엽 기능이 약해지면서 감정과 기억을 담당하는 변연계가 활성화되고, 이 과정에서 불분명한 이미지가 꿈으로 표출될 수 있어요. 연구에 따르면 불안장애나 우울증을 겪는 사람들은 시야가 제한되거나 방향을 잃는 꿈을 더 자주 꾸는 경향이 있어요.",
+      "english": "From a modern cognitive psychology and neuroscience perspective, fog dreams are understood as the brain's way of processing anxiety, stress, or emotional turmoil that arises when facing significant decisions or life transitions. During sleep, reduced frontal lobe activity allows the limbic system — responsible for emotion and memory — to generate vivid but unclear imagery. Research indicates that individuals with anxiety or depression tend to report dreams involving obscured vision or disorientation more frequently than others."
+    },
+    "crossCultural": {
+      "korean": "한국 전통 꿈해몽이 안개를 주로 재난, 숨겨진 비밀, 또는 문제 해결의 길몽으로 구체적인 사건과 연결 짓는 반면, 서양 심리학은 안개를 내면의 감정 상태와 자기 인식의 수준을 반영하는 심리적 상징으로 해석하는 경향이 있어요.",
+      "english": "Where Korean traditional dream interpretation links fog to specific external events — disasters, hidden secrets, or the resolution of troubles — Western psychology tends to treat fog as a psychological symbol reflecting inner emotional states and the degree of self-awareness rather than predicting concrete future outcomes."
+    }
+  },
+  "relatedSymbols": ["cloud", "rain", "mountain", "mist", "wind", "night", "darkness", "smoke"],
+  "seoKeywords": {
+    "korean": [
+      "안개꿈",
+      "안개 꿈해몽",
+      "안개 꿈 의미",
+      "안개 꿈 길몽 흉몽",
+      "안개가 걷히는 꿈",
+      "안개 속을 걷는 꿈",
+      "짙은 안개 꿈",
+      "안개 꿈 해석",
+      "안개 꿈 풀이",
+      "안개 낀 꿈",
+      "안개속 헤매는 꿈",
+      "안개 사라지는 꿈",
+      "날씨 꿈해몽"
+    ],
+    "english": [
+      "fog dream meaning",
+      "dream about fog Korean interpretation",
+      "fog clearing dream meaning",
+      "walking through fog dream",
+      "lost in fog dream meaning",
+      "fog dream auspicious",
+      "Korean fog dream interpretation",
+      "dense fog dream symbolism",
+      "foggy dream meaning uncertainty"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "안개 꿈은 길몽인가요, 흉몽인가요?",
+      "answer_ko": "안개 꿈의 길흉은 꿈의 상황에 따라 달라져요. 안개가 짙게 끼는 꿈이나 안개 속에서 헤매는 꿈은 흉몽으로 질병, 근심, 불미스러운 사건을 암시하는 경우가 많아요. 반면 안개가 서서히 걷히거나 맑게 개이는 꿈은 길몽으로 고민 해결과 건강 회복의 징조로 해석돼요.",
+      "question_en": "Is dreaming of fog a good omen or a bad omen?",
+      "answer_en": "The interpretation depends on what happens with the fog in the dream. Dense fog that obscures vision or wandering lost in fog tends to be inauspicious, signaling illness, worries, or unpleasant events. However, fog that gradually clears and gives way to clarity is a good omen, pointing to the resolution of problems and recovery from difficulties."
+    },
+    {
+      "question_ko": "안개가 걷히는 꿈은 무슨 의미인가요?",
+      "answer_ko": "안개가 걷히는 꿈은 전통적으로 매우 긍정적인 길몽이에요. 오랫동안 앓던 병이 낫거나, 고민하던 문제가 해결되거나, 막혀 있던 일이 다시 진전되는 것을 예고하는 꿈으로 해석돼요. 인생의 불투명했던 상황이 명확해지고 새로운 활로가 열릴 조짐이에요.",
+      "question_en": "What does it mean to dream of fog clearing?",
+      "answer_en": "Dreaming of fog clearing is traditionally a very positive omen in Korean interpretation. It foretells recovery from a long illness, resolution of problems that have been weighing on you, or the resumption of progress on something that has been stalled. It signals that an unclear or uncertain situation in your life is about to become clear and a new way forward will open up."
+    },
+    {
+      "question_ko": "안개 속을 걷는 꿈은 어떻게 해석하나요?",
+      "answer_ko": "안개 속을 걷는 꿈은 현재 진행 중인 일의 미래가 불투명하다는 것을 상징해요. 사업, 직장, 또는 인간관계에서 앞날이 보이지 않는 불확실한 상황에 처해 있거나, 중요한 결정을 앞두고 방향을 잡지 못하고 있을 때 이런 꿈을 꾸는 경우가 많아요. 신중하고 차분하게 현실을 직시할 필요가 있다는 메시지이기도 해요.",
+      "question_en": "How should I interpret walking through fog in a dream?",
+      "answer_en": "Walking through fog in a dream symbolizes an unclear and uncertain future for something currently underway. People often have this dream when they are in an uncertain situation at work, in business, or in relationships where the path forward is not visible, or when they face an important decision without a clear sense of direction. It is also a message to look at reality calmly and thoughtfully before moving forward."
+    },
+    {
+      "question_ko": "산에 안개가 낀 꿈은 무슨 의미인가요?",
+      "answer_ko": "산허리나 산등성이에 안개가 감도는 꿈은 두 가지 의미로 해석돼요. 하나는 현재 진행 중인 사업이나 계획의 성공 과정이 한동안 외부에 알려지지 않고 비밀로 유지될 수 있다는 뜻이에요. 또 하나는 중요한 사람이나 물건이 잠시 행방을 알 수 없는 상황이 생길 수 있다는 경고이기도 해요.",
+      "question_en": "What does fog on a mountain mean in a dream?",
+      "answer_en": "Fog drifting around a mountain or ridge carries two main interpretations. First, it may mean that the progress of an ongoing project or business plan will remain undisclosed or hidden from others for a while. Second, it can serve as a warning that an important person or object may temporarily go out of contact or become difficult to locate."
+    },
+    {
+      "question_ko": "안개 꿈을 꾸면 어떻게 해야 하나요?",
+      "answer_ko": "안개 꿈을 꿨다고 해서 너무 걱정할 필요는 없어요. 안개가 짙었다면 현재 진행 중인 일에 더욱 신중을 기하고 주변 상황을 꼼꼼히 점검해보는 것이 좋아요. 건강도 한 번 체크해보는 것을 권장해요. 안개가 걷히는 꿈을 꿨다면 긍정적인 신호이므로 진행 중인 일에 자신감을 갖고 앞으로 나아가도 좋아요.",
+      "question_en": "What should I do if I dream of fog?",
+      "answer_en": "There is no need to worry excessively after a fog dream. If the fog in your dream was very thick, it is worth being extra cautious about ongoing matters, carefully reviewing your circumstances, and checking in on your health. If the fog in your dream was clearing, take it as a positive sign and proceed with confidence in what you are working toward."
+    },
+    {
+      "question_ko": "안개 꿈과 구름 꿈은 어떻게 다른가요?",
+      "answer_ko": "안개 꿈은 주로 지상에서 시야가 가려지는 상황을 다루며, 현실적인 불확실성이나 숨겨진 진실을 상징하는 경우가 많아요. 구름 꿈은 하늘과 연관되어 더 큰 운세의 변화나 감정의 상태를 나타내는 경우가 많고, 먹구름은 흉조, 흰 구름은 길조로 해석되는 경우가 일반적이에요. 안개는 지상에 가까이 있는 만큼 일상적인 생활과 현실의 문제에 더 직결된 상징이라고 볼 수 있어요.",
+      "question_en": "How does dreaming of fog differ from dreaming of clouds?",
+      "answer_en": "Fog dreams primarily deal with obscured vision at ground level and often symbolize real-world uncertainty or hidden truths close to everyday life. Cloud dreams are linked to the sky and tend to represent larger shifts in fortune or emotional states — dark clouds are typically inauspicious and white clouds auspicious. Because fog stays close to the ground, it is generally seen as a more immediate symbol of practical, daily-life concerns than the more elevated imagery of clouds."
+    }
+  ]
+}

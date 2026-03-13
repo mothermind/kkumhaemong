@@ -1,0 +1,200 @@
+{
+  "symbol": {
+    "korean": "폭풍 꿈",
+    "english": "Dream of a Storm",
+    "slug": "storm-dream"
+  },
+  "summary": {
+    "korean": "폭풍 꿈은 억눌린 감정의 분출, 삶의 큰 전환점, 또는 예상치 못한 시련과 재난을 예고하는 꿈으로, 폭풍이 지나간 뒤의 상황에 따라 길흉이 크게 갈립니다.",
+    "english": "Dreaming of a storm in Korean folk interpretation signals suppressed emotional turmoil, a major life turning point, or impending hardship — with the outcome determined largely by whether the storm passes safely or brings destruction."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "폭풍이 몰아치다 갑자기 잦아들거나 맑은 하늘이 드러나는 꿈은 대표적인 길몽입니다. 오래 막혔던 일이 풀리고, 고민과 걱정이 사라지며 운이 크게 좋아질 징조로 해석됩니다. 폭풍을 정면으로 뚫고 나아가는 꿈이나, 폭풍 속에서도 집이 꿈쩍도 않는 꿈 역시 내면의 강한 의지와 위기 극복 능력을 상징하는 길몽으로 봅니다.",
+      "english": "A storm that suddenly calms or gives way to clear skies is a strongly auspicious dream — it signals that long-blocked matters will resolve, worries will lift, and fortune will shift in your favor. Dreaming of pressing through a storm head-on, or watching your house stand firm while the gale rages, represents formidable willpower and the ability to overcome crises.",
+      "context": "폭풍이 지나가고 평온함이 찾아오거나, 폭풍 속에서도 능동적으로 대처하는 상황일 때"
+    },
+    {
+      "type": "흉몽",
+      "korean": "폭풍우가 거세게 몰아쳐 두렵고 무서운 꿈은 대표적인 흉몽입니다. 사회적·경제적 기반이 흔들리고, 사고나 질병, 금전 손실이 발생할 수 있음을 경고합니다. 태풍에 집이 무너지거나, 나무가 뿌리째 뽑히거나, 폭풍이 쉬지 않고 계속되는 꿈은 가족 간 불화, 사업 실패, 또는 가까운 사람의 건강 이상을 암시하는 흉몽으로 해석됩니다.",
+      "english": "Being caught in a ferocious, terrifying storm is a strongly inauspicious dream. It warns of shaken social or financial foundations, accidents, illness, or monetary loss. A house collapsing in a typhoon, trees torn out by the roots, or a storm that rages without end signals family discord, business failure, or deteriorating health for someone close to you.",
+      "context": "폭풍의 파괴력을 속수무책으로 당하거나 폭풍이 끊임없이 이어지는 상황일 때"
+    },
+    {
+      "type": "neutral",
+      "korean": "폭풍이 몰아치는 한가운데 어딘가 낯선 곳으로 휩쓸려 가는 꿈은 중립적인 전환의 상징입니다. 현재의 상황에서 벗어나 새로운 환경이나 역할로 이동하게 됨을 뜻하며, 그 변화가 반드시 나쁜 것은 아닐 수 있습니다. 폭풍 속을 걸어가는 꿈도 현실에서 버거운 상황을 정면으로 감당하고 있음을 반영하며, 결과는 꿈 속 자신의 감정 상태에 따라 달라집니다.",
+      "english": "Being swept off to an unfamiliar place in a storm represents a neutral transition — a shift away from your current circumstances toward a new environment or role that may not be inherently bad. Walking through a storm reflects confronting an overwhelming real-life situation head-on; the final outcome depends on how you felt during the dream.",
+      "context": "폭풍에 휩쓸려 낯선 곳에 도달하거나, 폭풍 속을 걸으면서 두려움보다 결연함을 느끼는 상황일 때"
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "태풍이 오는 꿈",
+      "keyword_en": "typhoon approaching dream",
+      "interpretation_ko": "대형 태풍이 다가오는 꿈은 인생에 큰 위기나 시련이 찾아올 수 있음을 암시하는 흉몽입니다. 사업가라면 거래 실패나 큰 경제적 손실을 조심해야 하며, 직장인이라면 지위의 불안정을 경계해야 합니다.",
+      "interpretation_en": "A massive typhoon bearing down on you is an inauspicious dream warning of major upheaval in life. Business owners should be cautious about failed deals or financial loss; employees should watch for instability in their position."
+    },
+    {
+      "keyword_ko": "폭풍이 지나간 뒤 맑은 하늘 꿈",
+      "keyword_en": "clear sky after storm dream",
+      "interpretation_ko": "폭풍이 지나가고 맑은 하늘이 열리는 꿈은 가장 전형적인 길몽 중 하나입니다. 고난이 끝나고 평온이 찾아오며, 새로운 기회와 인생의 전환점이 열릴 것을 뜻합니다. 무지개가 함께 보이면 희망과 축복의 때가 임박했다는 신호입니다.",
+      "interpretation_en": "Skies clearing after a storm is one of the most classically auspicious dream signs — hardship gives way to peace, and a new turning point or opportunity is imminent. If a rainbow appears, blessings and good fortune are very near."
+    },
+    {
+      "keyword_ko": "폭풍에 집이 무너지는 꿈",
+      "keyword_en": "house destroyed by storm dream",
+      "interpretation_ko": "폭풍에 집이 무너지거나 크게 파손되는 꿈은 가족 관계나 경제적 기반이 심각하게 위협받고 있음을 상징하는 흉몽입니다. 가족 내 불화, 건강 이상, 재정 위기가 닥칠 수 있음을 경고합니다.",
+      "interpretation_en": "A house collapsing or severely damaged in a storm warns that your family relationships or financial foundation are under serious threat. It may foreshadow family discord, health problems, or an impending financial crisis."
+    },
+    {
+      "keyword_ko": "폭풍에 나무가 뽑히는 꿈",
+      "keyword_en": "trees uprooted in storm dream",
+      "interpretation_ko": "나무가 폭풍에 뿌리째 뽑히거나 꺾이는 꿈은 현실에서 자신을 지지해주던 든든한 사람이 떠나거나 중요한 기반이 무너질 것을 암시하는 흉몽입니다. 사업상 큰 손실이나 중요한 계약 파기를 조심해야 합니다.",
+      "interpretation_en": "Trees torn out by the roots in a storm signal that someone who has been a pillar of support in your life may leave, or that a key foundation will crumble. Beware of major financial losses or the breakdown of an important contract or partnership."
+    },
+    {
+      "keyword_ko": "폭풍 속에서 살아남는 꿈",
+      "keyword_en": "surviving a storm dream",
+      "interpretation_ko": "폭풍 속을 헤치고 살아남거나 무사히 피신하는 꿈은 현재 직면한 어려움을 내면의 힘으로 극복할 수 있다는 것을 뜻하는 길몽입니다. 강한 회복력과 위기 대처 능력을 갖고 있음을 상징합니다.",
+      "interpretation_en": "Surviving a storm or safely sheltering from it is an auspicious dream affirming that you have the inner resilience to overcome current challenges. It symbolizes your capacity to endure and recover from adversity."
+    },
+    {
+      "keyword_ko": "회오리바람 꿈",
+      "keyword_en": "whirlwind or tornado dream",
+      "interpretation_ko": "회오리바람이나 토네이도가 나타나는 꿈은 갑작스러운 변화나 예측 불가능한 혼란을 상징합니다. 회오리를 피하거나 낯선 사람 뒤에 숨어 피하는 꿈은 사업이나 일이 순조롭게 풀린다는 길몽으로 해석되지만, 회오리에 휩쓸리는 꿈은 돌발 장애로 인한 좌절을 암시하는 흉몽입니다.",
+      "interpretation_en": "A whirlwind or tornado signals sudden, unpredictable change. Evading a whirlwind — hiding behind a stranger or successfully escaping — is auspicious and suggests smooth progress ahead, but being swept up by one warns of sudden obstacles causing setbacks."
+    },
+    {
+      "keyword_ko": "폭풍우가 그치지 않는 꿈",
+      "keyword_en": "unending storm or nonstop rain dream",
+      "interpretation_ko": "폭풍과 장맛비가 끊임없이 계속되는 꿈은 사업상의 어려움이나 파산, 가정적·사회적 재난을 예고하는 흉몽입니다. 예상치 못한 사건·사고가 잇따르고 일이 뜻대로 되지 않을 것을 경고합니다.",
+      "interpretation_en": "An unending storm, with rain that simply won't stop, is an inauspicious omen warning of business difficulties, potential bankruptcy, or family and social troubles. Unexpected incidents may pile up and plans will be hard to execute."
+    },
+    {
+      "keyword_ko": "폭풍 속 번개 천둥 꿈",
+      "keyword_en": "storm with lightning and thunder dream",
+      "interpretation_ko": "폭풍 속에서 번개가 사방을 밝게 비추는 꿈은 어려운 문제가 단번에 해결되거나 좋은 소식이 도착할 것을 뜻하는 길몽으로 해석됩니다. 천둥소리가 크게 들린다면 명성을 얻거나 큰 성과를 이룰 징조이기도 합니다.",
+      "interpretation_en": "Lightning illuminating the storm in all directions is auspicious — it suggests a difficult problem will be resolved at once and good news is on its way. Loud thunder in the dream may also signal the coming of fame or a major achievement."
+    },
+    {
+      "keyword_ko": "폭풍 속에서 길을 잃는 꿈",
+      "keyword_en": "lost in a storm dream",
+      "interpretation_ko": "폭풍 속에서 방향을 잃고 헤매는 꿈은 현실에서 삶의 목표나 방향성을 잃고 혼란스러운 상태를 반영하는 흉몽입니다. 지금의 결정이나 선택을 재검토하고 삶의 기준을 다시 세울 필요가 있음을 시사합니다.",
+      "interpretation_en": "Getting lost in a storm reflects real-life confusion — a loss of direction or purpose. It is an inauspicious sign suggesting you need to reassess your current decisions and re-establish your life's guiding principles."
+    },
+    {
+      "keyword_ko": "폭풍 속에서 누군가를 구하는 꿈",
+      "keyword_en": "rescuing someone in a storm dream",
+      "interpretation_ko": "폭풍 속에서 다른 사람을 구출하는 꿈은 위기 상황에서 누군가를 도울 기회를 갖게 되거나, 협력과 공동체를 통해 위기를 극복할 수 있음을 뜻하는 길몽입니다.",
+      "interpretation_en": "Rescuing someone in a storm is auspicious — it signals an opportunity to help others in crisis and suggests that working together with others will be the key to overcoming hardship."
+    },
+    {
+      "keyword_ko": "폭풍 뒤 무너진 잔해 위에 서는 꿈",
+      "keyword_en": "standing on storm debris dream",
+      "interpretation_ko": "폭풍이 휩쓸고 간 잔해 위에 서 있는 꿈은 역경이 지나간 뒤 새로운 시작을 예고하는 길몽입니다. 힘든 시간이 끝난 자리에서 더욱 강해진 자신을 발견하게 될 것을 암시합니다.",
+      "interpretation_en": "Standing on the debris left after a storm passes is an auspicious sign of new beginnings after hardship. You will emerge from difficult times stronger and with a fresh start."
+    }
+  ],
+  "culturalContext": {
+    "korean": "한국 전통에서 꿈은 삼국시대 이래로 미래를 예시하는 중요한 징조로 여겨져 왔습니다. 『삼국유사』와 같은 고전 문헌에도 꿈과 그 해몽에 관한 기록이 다수 남아 있으며, 꿈해몽은 무속 신앙(샤머니즘)과도 깊이 맞닿아 있습니다. 바람과 폭풍은 한국 전통 우주관에서 자연의 기운이 크게 움직이는 현상으로 인식됐습니다. 오행(五行) 사상에서 바람은 목(木)의 기운과 연결되어 변화와 움직임, 때로는 격변을 상징하며, 농경 사회였던 한국에서 폭풍은 곧 농작물 피해와 생계 위협을 의미했기에 흉몽으로 받아들여지는 경우가 많았습니다. 그러나 태풍 뒤 맑은 하늘처럼 폭풍이 완전히 지나간 뒤의 이미지는 '고진감래(苦盡甘來)'의 정서와 맞닿아, 오랜 고난 뒤에 찾아오는 행운의 상징으로 해석되었습니다. 무속 신앙에서 바람은 신령의 메시지나 귀신의 움직임을 상징하기도 하여, 폭풍 꿈은 신령이 꿈꾼 이에게 경고나 예언을 보내는 것으로 여겨지기도 했습니다.",
+    "english": "In Korean tradition, dreams have been regarded as meaningful omens since the Three Kingdoms period, with records in the Samguk Yusa documenting their prophetic significance. Dream interpretation is closely tied to Korean shamanism (무속 신앙), where natural forces — especially wind — were understood as the movements of spirits or divine messengers. In the Five Elements (오행) cosmology, wind is associated with the Wood element, symbolizing change, movement, and upheaval. As an agrarian society, Korea feared storms as destroyers of crops and livelihoods, which is why storm dreams are predominantly inauspicious in traditional interpretation. However, the image of skies clearing after a storm beautifully embodies the Korean proverb 고진감래 ('sweetness comes after bitterness'), transforming the dream into a powerful symbol of fortune arriving after long hardship. In shamanic belief, wind sometimes carried messages from ancestral spirits, meaning storm dreams could be divine warnings sent directly to the dreamer."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트 정신분석학 관점에서 폭풍 꿈은 억압된 감정 — 특히 분노, 불안, 또는 통제하지 못한 욕동(驅動) — 이 무의식에서 폭발적으로 분출되는 것을 상징해요. 평소에 의식적으로 누르고 있던 강한 감정들이 꿈의 검열을 뚫고 폭풍이라는 이미지로 나타난다고 볼 수 있죠. 프로이트는 꿈이 잠을 보호하는 기능을 한다고 봤는데, 폭풍처럼 격렬한 꿈은 그 억압된 내용이 매우 강렬할 때 나타난다고 해석할 수 있어요.",
+      "english": "From a Freudian perspective, storm dreams represent the explosive eruption of repressed emotions — particularly rage, anxiety, or uncontrolled drives — breaking through the unconscious mind's censorship. The storm becomes a dream-distortion of intense feelings that the waking mind suppresses. Freud's view that dreams protect sleep suggests that a storm this vivid signals especially powerful repressed content that cannot be fully contained."
+    },
+    "jungian": {
+      "korean": "융의 분석심리학에서 폭풍은 자아(에고)와 그림자(Shadow) 간의 갈등, 또는 집단무의식의 거대한 에너지가 개인의 심리 구조를 뒤흔드는 장면으로 해석돼요. 폭풍은 개성화(Individuation) 과정에서 피할 수 없는 심리적 격변을 상징하며, 기존의 자아 구조를 허물고 더 통합된 자기(Self)로 나아가기 위한 과도기적 혼돈을 나타내요. 폭풍이 지나간 뒤의 맑은 하늘은 융적 관점에서 심리적 통합과 정화의 완성을 의미한다고 볼 수 있어요.",
+      "english": "In Jungian analytical psychology, a storm symbolizes the clash between the ego and the Shadow, or the eruption of vast energies from the collective unconscious that destabilize the dreamer's psychological structure. It represents the unavoidable turmoil of the Individuation process — the dismantling of an outgrown ego in order to rebuild a more integrated Self. The clear sky after the storm, viewed through a Jungian lens, signals the completion of psychological integration and renewal."
+    },
+    "modern": {
+      "korean": "현대 인지심리학과 신경과학에서는 폭풍 꿈을 스트레스, 불안 장애, 또는 아직 해소되지 않은 감정적 갈등의 반영으로 봐요. 뇌는 수면 중에 낮 동안 처리하지 못한 감정 정보를 재처리하는데, 이때 직장 스트레스나 대인관계 갈등 등이 폭풍이라는 강렬한 이미지로 상징화될 수 있어요. 인지행동치료(CBT) 관점에서는 폭풍 꿈의 강도가 현실에서의 부정적 사고 패턴이나 과잉 위협 평가와 관련될 수 있다고 해석하기도 해요.",
+      "english": "Modern cognitive psychology and neuroscience interpret storm dreams as reflections of stress, anxiety disorders, or unresolved emotional conflict. The brain uses sleep to reprocess emotional material not fully handled during the day — workplace stress, relational conflict, or unexpressed anger — and externalizes these as the vivid imagery of storms. From a cognitive-behavioral therapy (CBT) perspective, the intensity of a storm dream may correlate with catastrophic thinking patterns or an exaggerated appraisal of real-life threats."
+    },
+    "crossCultural": {
+      "korean": "한국 전통 해몽이 폭풍을 주로 재난과 전환점이라는 구체적 사건의 예고로 보는 반면, 서양 심리학은 폭풍을 내면 세계의 감정 상태를 반영하는 개인 심리의 은유로 해석한다는 점이 가장 큰 차이예요. 하지만 '폭풍이 지나면 새로운 시작이 온다'는 희망의 메시지는 동서양을 막론하고 공통적으로 나타나요.",
+      "english": "The key difference is that Korean folk interpretation treats storm dreams primarily as concrete omens of external events — disasters, turning points, or fortune shifts — while Western psychology reads them as metaphors for the dreamer's internal emotional landscape. Yet both traditions share the hopeful message that a storm's end signals renewal and fresh beginnings."
+    }
+  },
+  "relatedSymbols": [
+    "rain",
+    "lightning",
+    "thunder",
+    "wind",
+    "flood",
+    "tornado",
+    "earthquake",
+    "sky",
+    "clouds"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "폭풍 꿈해몽",
+      "태풍 꿈해몽",
+      "폭풍 꿈 의미",
+      "태풍 꿈 길몽 흉몽",
+      "폭풍우 꿈 해석",
+      "태풍 꿈 총정리",
+      "폭풍에 집 날아가는 꿈",
+      "폭풍 지나고 맑은 하늘 꿈",
+      "태풍 살아남는 꿈",
+      "회오리바람 꿈해몽",
+      "비바람 꿈 의미",
+      "강풍 꿈해몽",
+      "폭풍 꿈 재물운",
+      "자연재해 꿈해몽"
+    ],
+    "english": [
+      "storm dream meaning Korean",
+      "typhoon dream interpretation",
+      "dreaming of a storm",
+      "storm dream auspicious inauspicious",
+      "house destroyed in storm dream",
+      "surviving storm dream meaning",
+      "whirlwind tornado dream meaning",
+      "clear sky after storm dream",
+      "Korean dream interpretation storm",
+      "storm dream anxiety psychology"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "폭풍 꿈은 길몽인가요, 흉몽인가요?",
+      "answer_ko": "폭풍 꿈은 상황에 따라 길몽과 흉몽이 모두 될 수 있어요. 폭풍이 맹렬하게 몰아쳐 파괴가 일어나거나 두렵고 무섭게 느껴졌다면 흉몽으로, 폭풍을 무사히 헤쳐 나가거나 폭풍이 지나간 뒤 맑은 하늘이 보인다면 길몽으로 해석합니다.",
+      "question_en": "Is dreaming of a storm a good omen or a bad one?",
+      "answer_en": "It depends on the outcome in the dream. If the storm was ferocious, frightening, and brought destruction, it is generally an inauspicious sign. If you survived the storm, navigated through it successfully, or saw clear skies afterward, it is considered auspicious — a sign that hardship will pass and fortune will improve."
+    },
+    {
+      "question_ko": "태풍에 집이 무너지는 꿈을 꿨어요. 무슨 의미인가요?",
+      "answer_ko": "태풍에 집이 무너지거나 크게 부서지는 꿈은 가족 관계나 경제적 기반이 크게 흔들릴 수 있다는 경고성 흉몽이에요. 가족 내 불화나 건강 이상, 재정적 위기에 대비하는 것이 좋습니다.",
+      "question_en": "I dreamed that a storm destroyed my house. What does that mean?",
+      "answer_en": "This is generally an inauspicious warning dream suggesting that your family relationships or financial foundation may be under serious threat. It is wise to prepare for potential family conflict, health concerns for a loved one, or a looming financial difficulty."
+    },
+    {
+      "question_ko": "폭풍 꿈을 꾸고 나서 로또를 사도 될까요?",
+      "answer_ko": "폭풍이 무사히 지나가거나 폭풍 뒤 맑은 하늘이 보이는 꿈은 행운의 전환점을 암시하는 길몽으로 해석하기도 해요. 하지만 폭풍이 맹렬하게 몰아치고 피해를 입는 꿈이라면 재물 손실을 경고하는 흉몽이므로, 꿈의 구체적인 상황을 잘 살펴보는 것이 중요합니다.",
+      "question_en": "Should I buy a lottery ticket after dreaming of a storm?",
+      "answer_en": "If the storm passed safely or gave way to clear skies, some Korean folk interpreters would consider this a lucky turning point worth marking with a lottery ticket. However, if the storm was devastating and frightening, it warns of financial loss — so the specific details of the dream matter enormously before acting on it."
+    },
+    {
+      "question_ko": "폭풍 속에서 방향을 잃고 헤매는 꿈은 무슨 뜻인가요?",
+      "answer_ko": "폭풍 속에서 길을 잃고 헤매는 꿈은 현실에서 삶의 방향이나 목표를 잃고 혼란스러운 상태를 반영하는 흉몽이에요. 지금의 선택이나 방향성을 차분히 재검토해볼 필요가 있다는 신호로 받아들이는 것이 좋아요.",
+      "question_en": "What does it mean to get lost in a storm in my dream?",
+      "answer_en": "Getting lost in a storm reflects real-life confusion and a sense of lost direction or purpose — an inauspicious sign that suggests you should slow down and carefully reassess the choices and goals currently guiding your life."
+    },
+    {
+      "question_ko": "회오리바람 꿈과 폭풍 꿈의 해몽이 다른가요?",
+      "answer_ko": "네, 조금 달라요. 폭풍(태풍)은 전반적인 위기·압박·재난을 상징하는 반면, 회오리바람(토네이도)은 갑작스럽고 예측 불가능한 변화나 돌발 장애를 상징하는 경향이 있어요. 회오리를 성공적으로 피하는 꿈은 일이 순조롭게 풀린다는 길몽, 회오리에 휩쓸리는 꿈은 돌발 장애로 인한 좌절을 암시하는 흉몽으로 해석됩니다.",
+      "question_en": "Is a whirlwind dream interpreted differently from a general storm dream?",
+      "answer_en": "Yes, there are nuances. A typhoon or storm broadly symbolizes crisis, pressure, and potential disaster, while a whirlwind or tornado tends to represent sudden, unpredictable change or abrupt obstacles. Successfully evading a whirlwind is auspicious and suggests smooth progress; being swept away by one is inauspicious, warning of sudden setbacks."
+    },
+    {
+      "question_ko": "폭풍 꿈이 태몽이 될 수도 있나요?",
+      "answer_ko": "폭풍 꿈은 일반적으로 태몽으로 해석되지 않아요. 태몽은 주로 용, 뱀, 호랑이, 과일, 빛나는 물체 등 특정 상징물이 등장하는 꿈이 해당됩니다. 다만 폭풍 속에서 빛이 나타나거나 신이한 존재를 만나는 꿈이라면 태몽의 가능성을 배제할 수는 없어요.",
+      "question_en": "Can a storm dream be a pregnancy dream (태몽)?",
+      "answer_en": "Storm dreams are not typically classified as pregnancy dreams (태몽) in Korean tradition. Pregnancy dreams usually involve specific auspicious symbols such as dragons, snakes, tigers, fruit, or radiant light. However, if a shining light or a divine being appears within the storm, some interpreters would consider a pregnancy connection possible."
+    }
+  ]
+}

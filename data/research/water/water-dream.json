@@ -1,0 +1,221 @@
+{
+  "symbol": {
+    "korean": "물꿈",
+    "english": "Dream of Water",
+    "slug": "water-dream"
+  },
+  "summary": {
+    "korean": "물꿈은 맑고 풍요로운 물일수록 재물운과 새로운 기회를 상징하는 강력한 길몽이지만, 탁하거나 범람하는 물은 갈등이나 위기를 경고하는 흉몽이 될 수 있어요.",
+    "english": "Dreaming of water is a powerful omen in Korean tradition — clear, abundant water signals wealth and new beginnings, while murky or flooding water warns of conflict and hardship ahead."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "맑고 깨끗한 물이 흐르거나 넘치는 꿈은 재물운이 크게 상승하는 대표적인 길몽이에요. 물이 집 안으로 흘러들어 오거나 그릇에 가득 차는 꿈은 재물과 기회가 삶 속으로 직접 흘러 들어오는 것을 상징하며, 복권이나 예상치 못한 횡재와도 연결되곤 해요. 물이 맑을수록 복의 크기도 커진다고 해석해요.",
+      "english": "Dreaming of clear, clean flowing water or water overflowing is one of the strongest auspicious signs in Korean dream tradition. Water flowing into the home or filling a vessel symbolizes wealth and opportunity pouring directly into your life — often connected with lottery luck or unexpected financial windfalls. The clearer the water, the greater the fortune it signals.",
+      "context": "물이 맑고 깨끗하며 집 안으로 흘러들어 오거나 그릇에 넘치는 경우"
+    },
+    {
+      "type": "길몽",
+      "korean": "맑은 물을 마시는 꿈은 몸과 마음이 건강하고 운기가 상승하고 있다는 신호예요. 오랫동안 고민해 온 문제가 해결되거나 새로운 기회가 찾아올 징조로 보며, 특히 목마를 때 시원하게 물을 마시는 꿈은 걱정거리가 시원하게 해소될 것임을 뜻해요.",
+      "english": "Dreaming of drinking clean, refreshing water signals rising fortune and good health. It is seen as an omen that long-standing worries will be resolved and new opportunities will arrive. Drinking cool water while thirsty in a dream is especially positive — a sign that pressing concerns will soon be swept away.",
+      "context": "맑은 물을 마시거나 목마름을 해소하는 꿈"
+    },
+    {
+      "type": "길몽",
+      "korean": "맑은 물에서 헤엄치거나 물속을 자유롭게 움직이는 꿈은 건강이 좋아지고 근심 걱정이 사라지는 길몽이에요. 사업운이나 대인관계도 원만하게 풀릴 것을 예시하며, 무언가 새로운 것에 도전할 시기가 왔음을 알려주기도 해요.",
+      "english": "Swimming or moving freely through clear water in a dream is an auspicious sign of improving health and dissolving worries. It also suggests business or interpersonal matters will resolve smoothly, and may signal the right time to take on a new challenge.",
+      "context": "맑은 물 속을 자유롭게 헤엄치거나 수영하는 꿈"
+    },
+    {
+      "type": "흉몽",
+      "korean": "흙탕물이나 탁한 물이 나오는 꿈은 질병이나 건강 악화, 주변 사람과의 갈등, 또는 뜻하지 않은 손실을 경고하는 흉몽이에요. 흙탕물이 집 안으로 들어오거나 넘치면 가정에 불화나 재정적 어려움이 생길 수 있음을 뜻해요. 탁하고 어두운 물일수록 위기의 심각성이 크다고 봐요.",
+      "english": "Dreaming of murky, muddy, or dark water is an inauspicious warning of illness, interpersonal conflict, or unexpected loss. Murky water flooding into the home can indicate family discord or financial trouble ahead. The darker and dirtier the water, the more serious the warning it carries.",
+      "context": "물이 흙탕물이거나 탁하고 어두운 색일 때"
+    },
+    {
+      "type": "흉몽",
+      "korean": "물에 빠지거나 익사할 것 같은 꿈은 현재 심리 상태가 불안정하거나 해결하지 못한 문제들이 쌓여 있다는 신호예요. 주변의 도움을 거부당하거나 중요한 기회를 놓칠 수 있는 시기임을 경고하기도 해요. 단, 물에 빠졌다가 스스로 헤엄쳐 나오는 꿈은 위기를 극복하고 새롭게 출발하는 길몽으로 바뀌어요.",
+      "english": "Dreaming of drowning or being submerged signals psychological instability or accumulating unresolved problems. It may also warn that you are at risk of missing a key opportunity or being cut off from support. However, if you manage to swim free and escape in the dream, it transforms into an auspicious sign of overcoming crisis and making a fresh start.",
+      "context": "물에 빠지거나 익사할 위기에 처하는 꿈 — 탈출 여부에 따라 해석이 달라짐"
+    },
+    {
+      "type": "흉몽",
+      "korean": "강이나 바다가 말라 버리거나 물이 사라지는 꿈은 직장 상실, 재물의 감소, 또는 감정적인 공허함을 상징하는 흉몽이에요. 물은 생명과 재물의 근원이므로 그것이 사라지는 꿈은 현실에서 에너지나 기회가 고갈되어 가고 있음을 암시해요.",
+      "english": "Dreaming of a river or sea drying up or water disappearing is an inauspicious omen symbolizing job loss, financial decline, or emotional emptiness. Since water represents the source of life and wealth, its disappearance in a dream warns that energy or opportunity may be running out in waking life.",
+      "context": "강이나 바다, 우물 등의 물이 말라가거나 사라지는 꿈"
+    },
+    {
+      "type": "neutral",
+      "korean": "홍수나 물난리가 나는 꿈은 물의 상태에 따라 길몽과 흉몽이 갈려요. 맑은 물이 넘쳐 홍수가 나면 재물이 가득 들어오는 길몽이고, 흙탕물이 범람하면 사회적 혼란이나 예상치 못한 사건을 경고하는 흉몽이에요. 홍수 속에서 침착하게 서 있는 꿈은 권력이나 조직에서의 위상이 높아지는 것을 뜻하기도 해요.",
+      "english": "Dreaming of a flood or water disaster falls into either auspicious or inauspicious territory depending on the water's condition. Clear flooding water signals an incoming surge of wealth; muddy flooding warns of social chaos or unexpected events. Standing calm and unshaken in a flood can mean rising authority or prestige within an organization.",
+      "context": "홍수나 물난리 꿈 — 물의 맑고 탁함에 따라 길흉이 결정됨"
+    },
+    {
+      "type": "neutral",
+      "korean": "비가 오는 꿈은 감정의 정화와 새 출발을 상징하는 경우가 많아요. 부드럽게 내리는 봄비는 긍정적인 정화와 재생을 뜻하고, 강하게 쏟아지는 폭우는 감정적 격동이나 외부 압력을 나타낼 수 있어요. 비를 맞아 옷이 젖는 꿈은 큰 기회가 다가오고 있다는 신호로 보기도 해요.",
+      "english": "Dreaming of rain most often symbolizes emotional cleansing and fresh beginnings. Gentle spring rain is a positive sign of renewal and purification, while a heavy downpour may indicate emotional turmoil or outside pressures. Being drenched by rain in a dream can also be read as a major opportunity approaching.",
+      "context": "비의 강도와 상황에 따라 길흉이 달라지는 꿈"
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "맑은 물 꿈",
+      "keyword_en": "clear water dream",
+      "interpretation_ko": "맑고 투명한 물이 나오는 꿈은 대표적인 길몽이에요. 목표 달성, 승진, 정신적 안정, 재물운 상승을 의미하며, 고민하던 문제가 해결될 징조로 봐요.",
+      "interpretation_en": "Dreaming of clear, transparent water is one of the most auspicious water dreams, signaling goal achievement, promotion, mental clarity, and rising wealth. It is seen as an omen that a long-standing worry will soon be resolved."
+    },
+    {
+      "keyword_ko": "흙탕물 꿈",
+      "keyword_en": "muddy water dream",
+      "interpretation_ko": "흙탕물이 나오는 꿈은 질병, 갈등, 재물 손실을 경고하는 흉몽이에요. 주변 사람과의 구설수가 생기거나 계획이 틀어질 수 있으니 신중하게 행동해야 할 시기예요.",
+      "interpretation_en": "Dreaming of muddy or turbid water is an inauspicious sign warning of illness, conflict, or financial loss. It suggests gossip from those around you or plans going awry — a time to act with caution."
+    },
+    {
+      "keyword_ko": "물에 빠지는 꿈",
+      "keyword_en": "drowning or falling into water dream",
+      "interpretation_ko": "물에 빠지는 꿈은 심리적 불안이나 풀리지 않는 문제를 상징하는 흉몽이에요. 단, 스스로 헤엄쳐 나오거나 탈출하는 데 성공하면 위기를 극복하고 새롭게 출발할 길몽으로 해석이 바뀌어요.",
+      "interpretation_en": "Falling into water in a dream is inauspicious, symbolizing psychological distress and unresolved problems. However, if you successfully swim free or escape, the dream flips to an auspicious sign of overcoming crisis and starting anew."
+    },
+    {
+      "keyword_ko": "집에 물이 들어오는 꿈",
+      "keyword_en": "water entering the house dream",
+      "interpretation_ko": "집 안으로 맑은 물이 흘러들어 오거나 차오르는 꿈은 재물이 집으로 들어오는 대표적인 길몽이에요. 가정에 경사가 있거나 뜻밖의 재물이 생길 징조예요. 단, 탁한 물이 들어오면 가정의 불화나 재난을 암시해요.",
+      "interpretation_en": "Dreaming of clear water flowing or rising inside your house is a classic auspicious sign of wealth entering the household — a harbinger of good news or an unexpected financial windfall. If the water is murky, however, it warns of domestic discord or misfortune."
+    },
+    {
+      "keyword_ko": "물 마시는 꿈",
+      "keyword_en": "drinking water dream",
+      "interpretation_ko": "맑은 물을 마시는 꿈은 운기 상승과 건강 회복을 의미하는 길몽이에요. 반대로 흙탕물을 마시는 꿈은 컨디션 저하나 일이 계획대로 풀리지 않을 것을 암시하는 흉몽이에요.",
+      "interpretation_en": "Drinking clean water is an auspicious dream signaling rising fortune and health recovery. Drinking murky or dirty water is inauspicious, hinting at declining condition and plans failing to proceed as intended."
+    },
+    {
+      "keyword_ko": "홍수 꿈",
+      "keyword_en": "flood dream",
+      "interpretation_ko": "맑은 물의 홍수는 재물과 기회가 쏟아져 들어오는 길몽이에요. 탁한 물의 홍수는 사회적 혼란, 가족의 건강 이상, 또는 금전적 손실을 경고해요. 홍수 속에서 침착하게 서 있으면 지위 상승을 뜻하고, 도망치면 기회를 놓치는 것을 뜻해요.",
+      "interpretation_en": "A flood of clear water is auspicious — wealth and opportunity surging in. A flood of murky water warns of social upheaval, family health concerns, or financial loss. Standing calm amid the flood means rising status; fleeing it means a missed opportunity."
+    },
+    {
+      "keyword_ko": "우물 꿈",
+      "keyword_en": "well dream",
+      "interpretation_ko": "맑은 우물물을 보거나 두레박으로 물을 길어 올리는 꿈은 시험 합격, 중요한 직책을 맡게 됨, 또는 귀한 자식을 얻는 태몽으로도 봐요. 우물물이 말라 있거나 탁하면 재물이나 건강에 이상이 생길 수 있어요.",
+      "interpretation_en": "Seeing clear well water or drawing water from a well is auspicious, associated with passing an exam, taking on an important position, or conceiving a gifted child. A dried or murky well warns of financial or health trouble."
+    },
+    {
+      "keyword_ko": "강물 꿈",
+      "keyword_en": "river dream",
+      "interpretation_ko": "맑고 잔잔하게 흐르는 강물은 삶의 방향이 순탄하고 발전이 있음을 뜻하는 길몽이에요. 탁하거나 거세게 흐르는 강물은 앞길에 장애물이 있음을 암시해요. 강물을 무사히 건너는 꿈은 어려운 고비를 넘기는 것을 상징해요.",
+      "interpretation_en": "A clear, calmly flowing river is auspicious, signaling a smooth life path and steady progress. Turbulent or murky river water warns of obstacles ahead. Successfully crossing a river in a dream symbolizes overcoming a difficult hurdle."
+    },
+    {
+      "keyword_ko": "바닷물 꿈",
+      "keyword_en": "ocean or sea dream",
+      "interpretation_ko": "잔잔하고 맑은 바다는 큰 포부와 성취를 상징하는 길몽이에요. 바닷물이 집 안으로 들어오는 꿈은 사업 번창과 재물의 크게 늘어남을 뜻해요. 거친 파도나 폭풍우가 치는 바다는 큰 감정적 혼란이나 외부의 위협을 경고해요.",
+      "interpretation_en": "A calm, clear ocean is an auspicious dream of grand ambitions and achievement. Seawater entering the home signals thriving business and major financial growth. Rough seas or stormy ocean waves warn of great emotional turmoil or external threats."
+    },
+    {
+      "keyword_ko": "물 위를 걷는 꿈",
+      "keyword_en": "walking on water dream",
+      "interpretation_ko": "물 위를 걸어가는 꿈은 어려운 상황을 극복하는 자신감과 강한 의지를 상징하는 길몽이에요. 현재 직면한 문제들을 능숙하게 헤쳐나갈 수 있음을 뜻해요.",
+      "interpretation_en": "Walking on water in a dream is auspicious, symbolizing confidence and strong willpower to overcome difficult circumstances. It suggests you have the capacity to navigate current challenges skillfully."
+    },
+    {
+      "keyword_ko": "물 태몽",
+      "keyword_en": "water pregnancy dream (taemong)",
+      "interpretation_ko": "맑고 깨끗한 물이 넘치거나 용이 물에서 나오는 꿈, 또는 샘물이 솟아나는 꿈은 태몽으로 해석되기도 해요. 물에서 태어난 아이는 훗날 세상에 이름을 드높일 큰 인물이 될 것이라는 믿음이 있어요.",
+      "interpretation_en": "Dreams of clear overflowing water, a dragon emerging from water, or a gushing spring are sometimes interpreted as taemong (pregnancy omens). The child conceived under this sign is believed to grow into someone who will achieve great fame and distinction."
+    }
+  ],
+  "culturalContext": {
+    "korean": "한국 전통 문화에서 물은 단순한 자연 요소를 훨씬 넘어서는 신성한 생명의 근원이에요. 무속 신앙(샤머니즘)에서 물은 용신(龍神)과 깊이 연결되어 있으며, 어촌에서는 용왕당을 세워 바다의 신에게 풍어와 안전을 기원했어요. 우물과 샘물은 마을 공동체의 신성한 공간으로 여겨졌고, 천수신앙(泉水信仰)이라 부르는 샘물 숭배 전통이 오래전부터 이어져 왔어요. 고구려 건국 시조 주몽의 어머니가 강의 신의 딸이었다는 신화에서 볼 수 있듯, 물은 왕권의 정통성과 위대한 인물의 탄생을 상징했어요. 불교가 전래된 이후에는 용신 사상과 호국 불교가 결합되어 물을 보호의 신이 깃드는 공간으로 더욱 신성시했고, 기우제(祈雨祭)라는 집단적 물 기원 의식도 중요한 민속 전통으로 자리 잡았어요. 이러한 맥락에서 꿈에 맑은 물이 나오는 것은 신령의 축복과 자연의 풍요가 꿈꾼 이에게 흘러드는 길조로 해석되어 왔어요.",
+    "english": "In Korean traditional culture, water is far more than a natural element — it is a sacred source of life deeply embedded in folk belief and shamanism. Water deities (수신) were revered across different water domains: ocean gods, river spirits, pond deities, and well spirits. Coastal communities built Dragon King shrines (용왕당) to pray for abundant catches and safe voyages. Sacred wells and springs were communal holy spaces, forming the tradition of 천수신앙 (spring water veneration). The founding myth of Goguryeo — where the kingdom's founder Jumong was born of the River God's daughter — illustrates how water symbolized royal legitimacy and the birth of great figures. After Buddhism arrived, water deity beliefs merged with protective Buddhism, further elevating water's sacred status. Rain-calling rituals (기우제) became important community ceremonies during drought. In this cultural landscape, dreaming of clear water is understood as a blessing flowing from divine favor and natural abundance."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트의 정신분석학에서 물은 무의식의 깊이와 억압된 감정적 욕구를 상징해요. 물속에 잠기는 꿈은 의식의 통제가 느슨해지면서 억눌린 소망이나 충동이 표면으로 떠오르려는 시도를 나타낸다고 봐요. 프로이트는 또한 물을 자궁이나 어머니 원형과 연결하여, 물에 관한 꿈이 탄생이나 최초의 삶으로 돌아가고자 하는 소망과 관련될 수 있다고 해석했어요.",
+      "english": "In Freudian psychoanalysis, water symbolizes the depths of the unconscious and suppressed emotional drives. Dreams of being submerged represent the ego's loosening grip as repressed wishes or impulses attempt to surface. Freud also connected water with the womb and the mother archetype, suggesting water dreams may relate to a longing to return to a primal state of birth or early security."
+    },
+    "jungian": {
+      "korean": "칼 융에게 물은 집단무의식의 핵심 원형 상징이에요. 물은 정신의 심층, 즉 의식이 닿지 못하는 무한한 내면 세계를 나타내요. 맑은 물은 자기 자신(Self)과의 통합과 개성화 과정의 진전을 상징하고, 탁하거나 거친 물은 그림자(Shadow) — 우리가 인정하지 않으려는 내면의 어두운 측면 — 와의 대면을 나타낼 수 있어요. 융의 관점에서 물꿈은 단순한 개인적 감정을 넘어 인류 공통의 심층적 변환 과정을 반영해요.",
+      "english": "For Carl Jung, water is a central archetype of the collective unconscious. It represents the depths of the psyche — the vast inner world beyond conscious reach. Clear water symbolizes progress in individuation and integration with the Self, while murky or turbulent water may signal a confrontation with the Shadow — those darker aspects of the personality we resist acknowledging. From a Jungian perspective, water dreams reflect not just personal emotion but a universal human process of deep psychological transformation."
+    },
+    "modern": {
+      "korean": "현대 심리학과 신경과학에서는 물꿈을 수면 중 감정 조절 시스템이 활성화되면서 나타나는 현상으로 봐요. 스트레스나 불안이 높을 때 익사하거나 홍수에 휩쓸리는 꿈을 자주 꾸는 경향이 있으며, 이는 뇌가 낮 동안 처리하지 못한 감정적 압박을 꿈이라는 형태로 시뮬레이션하는 것으로 해석해요. 반면 맑고 고요한 물꿈은 스트레스 수준이 낮고 심리적으로 안정된 상태를 반영하는 경우가 많다는 연구 결과도 있어요.",
+      "english": "Modern psychology and neuroscience view water dreams as a product of the brain's emotional regulation system activating during sleep. People under high stress or anxiety tend to dream more frequently of drowning or being swept away by floods, which researchers interpret as the brain simulating and processing unresolved emotional pressures from waking life. Conversely, dreams featuring calm, clear water are often associated with lower stress levels and a more psychologically stable state."
+    },
+    "crossCultural": {
+      "korean": "한국 전통 꿈해몽이 물을 재물과 신령의 축복으로 보는 것과 달리, 서양 심리학은 물을 무의식과 감정 세계의 상징으로 바라봐요. 두 전통 모두 물의 맑음과 탁함을 긍정·부정 해석의 핵심 기준으로 삼는다는 점에서 흥미로운 공통점을 가지고 있어요.",
+      "english": "While Korean tradition reads water dreams through a lens of wealth and divine blessing, Western psychology views water as a symbol of the unconscious and inner emotional life. Interestingly, both traditions converge on one key point: the clarity or murkiness of the water is the central factor determining whether the dream carries a positive or negative meaning."
+    }
+  },
+  "relatedSymbols": ["fish", "rain", "flood", "ocean", "river", "well", "dragon", "wave"],
+  "seoKeywords": {
+    "korean": [
+      "물꿈",
+      "물 꿈해몽",
+      "물꿈 해몽",
+      "물꿈 길몽 흉몽",
+      "맑은 물 꿈",
+      "흙탕물 꿈해몽",
+      "물에 빠지는 꿈",
+      "집에 물 들어오는 꿈",
+      "물 마시는 꿈 해몽",
+      "홍수 꿈 해몽",
+      "물꿈 재물운",
+      "물꿈 로또",
+      "물꿈 태몽",
+      "강물 꿈해몽",
+      "바다 꿈해몽"
+    ],
+    "english": [
+      "water dream meaning",
+      "dream about water Korean interpretation",
+      "clear water dream meaning",
+      "muddy water dream",
+      "drowning dream meaning Korean",
+      "flood dream interpretation",
+      "drinking water in a dream meaning",
+      "water in house dream",
+      "water dream auspicious sign",
+      "Korean dream water symbol"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "물꿈을 꾸면 로또를 사야 하나요?",
+      "answer_ko": "맑고 깨끗한 물이 집 안으로 흘러들어 오거나 풍성하게 넘치는 꿈은 재물운이 상승하는 길몽으로 여겨지기 때문에, 복권 구매와 연결 짓는 분들이 많아요. 하지만 꿈해몽은 삶을 바라보는 하나의 문화적 관점이니, 너무 맹신하지 말고 즐거운 마음으로 참고하는 정도가 좋아요.",
+      "question_en": "Should I buy a lottery ticket after dreaming of water?",
+      "answer_en": "Dreams of clear water flowing abundantly into the home are widely regarded in Korean tradition as auspicious signs of rising wealth, which is why many people associate them with lottery luck. That said, dream interpretation is a cultural lens for reflection rather than a guarantee — enjoy the good omen lightly."
+    },
+    {
+      "question_ko": "물에 빠지는 꿈은 나쁜 꿈인가요?",
+      "answer_ko": "물에 빠지는 꿈은 기본적으로 심리적 불안이나 스트레스의 신호예요. 하지만 꿈 속에서 스스로 헤엄쳐 나왔다면 오히려 현재의 어려움을 극복하고 새롭게 출발할 수 있다는 좋은 징조로 해석해요. 탈출에 성공했는지 여부가 해석의 핵심이에요.",
+      "question_en": "Is dreaming of drowning a bad sign?",
+      "answer_en": "Dreaming of drowning is generally a sign of psychological stress or unresolved problems. However, if you successfully swim free in the dream, Korean interpretation flips it into a positive omen — an indication that you can overcome current hardships and start fresh. Whether you escape or not is the key to interpretation."
+    },
+    {
+      "question_ko": "물꿈은 태몽이 될 수 있나요?",
+      "answer_ko": "네, 맑고 풍성한 물이 솟아오르거나 넘치는 꿈, 또는 물속에서 용이나 큰 물고기가 나타나는 꿈은 태몽으로 해석되기도 해요. 이런 태몽을 꿨을 때 태어날 아이가 훗날 크게 출세하거나 이름을 드높일 것이라는 기대를 담고 있어요.",
+      "question_en": "Can dreaming of water be a pregnancy omen (taemong)?",
+      "answer_en": "Yes, dreams of gushing springs, abundantly overflowing water, or creatures like dragons and large fish emerging from water are sometimes interpreted as taemong (conception omens) in Korean tradition. Such a dream is believed to herald the birth of a child destined for great achievement and distinction."
+    },
+    {
+      "question_ko": "흙탕물 꿈을 꿨는데 어떻게 해야 하나요?",
+      "answer_ko": "흙탕물 꿈은 건강이나 인간관계, 재정 면에서 주의가 필요한 시기임을 알려주는 신호예요. 지나친 불안보다는 건강 체크나 주변 관계 살피기 등 현실적인 준비를 하는 계기로 삼는 것이 현명해요.",
+      "question_en": "What should I do after dreaming of muddy water?",
+      "answer_en": "A muddy water dream is a signal to be more cautious in matters of health, relationships, and finances. Rather than worrying excessively, treat it as a prompt to check in on your health, be mindful in your relationships, and review any financial decisions — a practical nudge rather than a dire prophecy."
+    },
+    {
+      "question_ko": "집에 물이 차오르는 꿈은 무슨 뜻인가요?",
+      "answer_ko": "집 안으로 맑은 물이 들어오거나 차오르는 꿈은 재물이나 행운이 가정으로 들어오는 대표적인 길몽이에요. 복권이나 예상치 못한 수입과 연결되기도 해요. 단, 물이 탁하거나 더럽다면 가정에 불화나 재난의 징조일 수 있으니 물의 상태를 잘 살펴보세요.",
+      "question_en": "What does it mean to dream of water rising in your home?",
+      "answer_en": "Dreaming of clear water rising or flowing into your home is a classic Korean auspicious sign that wealth and good fortune are entering the household — sometimes linked to lottery winnings or unexpected income. However, if the water is murky or dirty, it may instead warn of domestic discord or misfortune, so the condition of the water matters greatly."
+    },
+    {
+      "question_ko": "맑은 물 꿈과 탁한 물 꿈의 가장 큰 차이는 뭔가요?",
+      "answer_ko": "물 꿈해몽의 핵심 원칙은 '맑을수록 길몽, 탁할수록 흉몽'이에요. 맑은 물은 재물운, 건강, 성취, 정신적 안정을 상징하고, 탁하거나 어두운 물은 갈등, 질병, 재정적 손실의 경고예요. 물의 투명도가 꿈 전체의 길흉을 결정하는 가장 중요한 기준이에요.",
+      "question_en": "What is the main difference between dreaming of clear water versus murky water?",
+      "answer_en": "The core principle in Korean water dream interpretation is simple: the clearer the water, the more auspicious the dream. Clear water represents wealth, health, achievement, and inner peace, while murky or dark water warns of conflict, illness, and financial loss. The transparency of the water is the single most important factor determining whether a water dream is a blessing or a warning."
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "symbol": {
+    "korean": "비 꿈",
+    "english": "Dream of Rain",
+    "slug": "rain-weather-dream"
+  },
+  "summary": {
+    "korean": "비 꿈은 전통적으로 재물운과 소원 성취를 상징하며, 비를 흠뻑 맞을수록 큰 행운이 찾아온다는 대표적인 길몽입니다.",
+    "english": "Dreaming of rain is traditionally one of the most auspicious omens in Korean dream interpretation, symbolizing incoming wealth, wish fulfillment, and abundance — the more thoroughly you get soaked, the greater the fortune ahead."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "비가 흡족하게 넉넉히 내리는 꿈은 간절히 바라던 소원이 반드시 이루어질 것을 알리는 최고의 길몽 중 하나입니다. 내리는 비의 양이 많을수록 물질적 풍요와 정신적 안정이 더 커진다고 풀이하며, 사업적으로 큰 계약을 맺거나 예상치 못한 재물이 들어오는 신호로 해석합니다.",
+      "english": "A dream of abundant, satisfying rainfall is considered one of the finest auspicious omens — a sign that a deeply held wish will surely come true. The heavier the rain, the greater the material prosperity and emotional peace that follow. It is particularly read as a signal of major business contracts or unexpected financial windfalls.",
+      "context": "비가 시원하고 풍성하게 내릴 때, 논밭이 흠뻑 젖거나 물이 가득 찰 때"
+    },
+    {
+      "type": "길몽",
+      "korean": "세차게 쏟아지는 비에 온몸이 흠뻑 젖는 꿈은 성공, 재산, 부귀, 명예를 상징하는 대길의 꿈입니다. 머리부터 발끝까지 흠뻑 젖었다면 현재 운이 강하게 흐르고 있으니 어떤 일이든 적극적으로 추진해도 좋다는 뜻으로, 복권 구매나 새 사업 시작에 좋은 신호로 여겨집니다.",
+      "english": "Being thoroughly drenched in a heavy downpour is an exceptionally auspicious dream symbolizing success, wealth, status, and honor. Getting soaked from head to toe signals that fortune is strongly in your favor — a green light to pursue any venture boldly, and a popular sign associated with lottery luck.",
+      "context": "소나기나 폭우에 온몸이 흠뻑 젖는 꿈"
+    },
+    {
+      "type": "길몽",
+      "korean": "소나기를 갑자기 만나는 꿈은 예상치 못한 횡재나 귀인과의 만남을 암시합니다. 갑작스러운 소나기가 세차게 쏟아지는 꿈은 사회적으로 주목받고 소원이 성취되는 것을 뜻합니다.",
+      "english": "Unexpectedly encountering a sudden shower in a dream signals an unexpected windfall or a chance meeting with someone who will become a key benefactor. A vigorous sudden downpour suggests social recognition and the fulfillment of a cherished goal.",
+      "context": "예상치 못하게 소나기를 만나는 꿈"
+    },
+    {
+      "type": "길몽",
+      "korean": "빗물이 천장에서 새어 방 안으로 떨어지는 꿈은 뜻밖의 횡재와 집안의 번영을 예고하는 길몽입니다. 재물이 집 안으로 스며드는 이미지로 해석되어 재산이 모이게 된다는 신호로 풀이합니다.",
+      "english": "Dreaming of rainwater seeping through the ceiling and dripping into the room is an auspicious omen foretelling unexpected fortune and household prosperity. The image of water entering the home is read as wealth flowing in, a sign that savings and assets will accumulate.",
+      "context": "천장에서 빗물이 새어 집 안으로 들어오는 꿈"
+    },
+    {
+      "type": "흉몽",
+      "korean": "폭우가 내려 한 치 앞도 보이지 않는 꿈은 현재 상황이 매우 어둡고 해결책이 보이지 않는 답답한 처지임을 암시합니다. 또한 사업이나 진로에 큰 장애물이 생길 수 있다는 경고로 해석됩니다.",
+      "english": "A dream where torrential rain blocks all visibility signals that circumstances have become oppressively dark with no clear solution in sight. It is read as a warning that major obstacles may emerge in business or career path.",
+      "context": "폭우로 인해 앞을 전혀 볼 수 없는 꿈"
+    },
+    {
+      "type": "흉몽",
+      "korean": "장마가 계속해서 그치지 않는 꿈은 끝이 없는 시련과 사회적 혼란을 상징합니다. 문제가 장기적으로 이어지면서 쉽게 해소되지 않을 것임을 예고하는 흉몽입니다.",
+      "english": "A dream of relentless monsoon rain that refuses to stop symbolizes prolonged hardship and social turmoil. It is an inauspicious omen warning that current troubles will persist and resist easy resolution.",
+      "context": "장마가 며칠이고 계속 내리는 꿈"
+    },
+    {
+      "type": "흉몽",
+      "korean": "비가 내리는데 눈이나 우박이 섞여 쏟아지는 꿈은 과도한 욕심이 화를 불러올 수 있다는 경고입니다. 또한 우박이 마구 쏟아지는 꿈은 사방에서 비난과 걱정이 쏟아지는 상황을 예고합니다.",
+      "english": "A dream where rain mixes with snow or hail warns that excessive greed may bring misfortune. A dream of hailstorm pelting down warns of criticism and mounting anxieties coming from multiple directions.",
+      "context": "비에 눈이나 우박이 섞이는 꿈, 우박이 쏟아지는 꿈"
+    },
+    {
+      "type": "흉몽",
+      "korean": "보슬비를 맞으며 우울하게 걷는 꿈은 풀리지 않는 어려운 문제가 오랫동안 고통을 줄 것임을 암시합니다. 도움 없이 홀로 비를 맞고 있는 이미지는 고독과 막막함을 상징합니다.",
+      "english": "Dreaming of walking gloomily through a drizzle suggests a difficult problem that will cause prolonged suffering and difficulty. The image of being caught alone in the rain without shelter symbolizes loneliness and a sense of helplessness.",
+      "context": "우산도 없이 보슬비를 맞으며 힘겹게 걷는 꿈"
+    },
+    {
+      "type": "neutral",
+      "korean": "비가 내리다가 그치고 맑게 개는 꿈은 현재의 고생이나 어려움이 곧 끝나고 좋은 시절이 올 것을 암시합니다. 노력이 결실을 맺고 기쁜 일이 찾아오는 전환점의 신호로 풀이됩니다.",
+      "english": "A dream where rain falls but then stops and the sky clears signals that current hardships are nearing their end and better times are coming. It is read as a turning point — the fruits of effort are about to be realized.",
+      "context": "비가 그치고 날씨가 맑게 변하는 꿈"
+    },
+    {
+      "type": "neutral",
+      "korean": "우산을 쓰고 비를 피하는 꿈은 사랑받고 보호받는 시기를 뜻하기도 하지만, 비밀이 드러날 수 있다는 경고의 의미도 함께 담고 있어 상황에 따라 해석이 달라집니다.",
+      "english": "Sheltering under an umbrella during rain can suggest a period of love and protection, but also carries a warning that secrets may come to light — the interpretation shifts depending on the emotional tone of the dream.",
+      "context": "우산을 들고 비를 피하는 꿈"
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "비를 흠뻑 맞는 꿈",
+      "keyword_en": "getting drenched in rain dream",
+      "interpretation_ko": "온몸이 흠뻑 젖을 정도로 비를 맞는 꿈은 성공, 재산, 부귀, 명예를 상징하는 대길몽입니다. 취업준비생에게는 합격, 직장인에게는 승진을 예고하며, 복권이나 횡재 운과도 강하게 연결됩니다.",
+      "interpretation_en": "Being thoroughly drenched in rain is one of the strongest auspicious omens — symbolizing success, wealth, prestige, and honor. For job seekers it predicts employment success, for workers a promotion, and it is strongly associated with lottery luck and unexpected windfalls."
+    },
+    {
+      "keyword_ko": "소나기 꿈",
+      "keyword_en": "sudden shower dream",
+      "interpretation_ko": "갑작스러운 소나기를 만나는 꿈은 예상치 못한 횡재나 귀인과의 만남을 암시하는 길몽입니다. 세차게 쏟아지는 소나기는 사회적 인정과 소원 성취를 뜻합니다.",
+      "interpretation_en": "Encountering a sudden shower is an auspicious omen hinting at an unexpected windfall or meeting a key benefactor. A fierce sudden downpour specifically points to social recognition and the fulfillment of a cherished wish."
+    },
+    {
+      "keyword_ko": "폭우 꿈",
+      "keyword_en": "torrential rain dream",
+      "interpretation_ko": "폭우가 쏟아져 앞이 보이지 않는 꿈은 삶에 큰 장애물이 생기고 방향을 잃을 수 있다는 흉몽입니다. 다만 폭우를 맞고도 굳건히 서 있거나 이겨낸다면 역경을 이겨낼 것이라는 길몽으로 전환됩니다.",
+      "interpretation_en": "A dream of torrential rain obscuring all visibility is inauspicious, warning of major life obstacles and loss of direction. However, if you stand firm or overcome the downpour in the dream, it flips to a positive sign of overcoming adversity."
+    },
+    {
+      "keyword_ko": "이슬비 보슬비 꿈",
+      "keyword_en": "drizzle dream",
+      "interpretation_ko": "이슬비나 보슬비를 맞으며 걷는 꿈은 대체로 흉몽으로 풀이됩니다. 답답하고 해결되지 않는 문제들이 서서히 고통을 주는 상황, 또는 외로움과 막막함을 상징합니다.",
+      "interpretation_en": "Walking through a drizzle or light rain is generally an inauspicious sign. It symbolizes persistent, low-grade troubles that are hard to shake, or feelings of loneliness and a lack of clear direction."
+    },
+    {
+      "keyword_ko": "장마 꿈",
+      "keyword_en": "monsoon rainy season dream",
+      "interpretation_ko": "장마가 끝없이 계속되는 꿈은 시련이 장기화될 것을 예고하는 흉몽입니다. 사회적 불안이나 주변 환경의 혼란이 쉽게 해소되지 않을 것임을 암시합니다.",
+      "interpretation_en": "A dream of an unending rainy season is inauspicious, warning that current hardships will extend for a prolonged period. It also hints at social instability or a chaotic environment in the dreamer's surroundings."
+    },
+    {
+      "keyword_ko": "비가 그치는 꿈",
+      "keyword_en": "rain stopping dream",
+      "interpretation_ko": "비가 그치고 날씨가 맑게 개는 꿈은 현재의 어려움이 끝나고 기쁜 일이 다가올 것을 알리는 희망적인 꿈입니다. 노력이 결실을 맺는 시점을 암시합니다.",
+      "interpretation_en": "Rain stopping and skies clearing in a dream is a hopeful sign that current difficulties are coming to an end and joyful events are on the horizon. It suggests the dreamer's efforts are about to bear fruit."
+    },
+    {
+      "keyword_ko": "비 오는 날 걷는 꿈",
+      "keyword_en": "walking in rain dream",
+      "interpretation_ko": "빗속을 걷는 꿈은 걷는 방식과 감정에 따라 해석이 달라집니다. 경쾌하게 걷는다면 어려움 속에서도 앞으로 나아가는 의지를 뜻하고, 우울하게 걷는다면 현재의 고독과 막막함을 반영합니다.",
+      "interpretation_en": "Walking in rain depends greatly on the emotional tone. Walking lightly suggests inner resilience and forward momentum despite adversity, while walking glumly reflects current loneliness and a sense of being lost."
+    },
+    {
+      "keyword_ko": "집 안에 비가 새는 꿈",
+      "keyword_en": "rain leaking into house dream",
+      "interpretation_ko": "천장에서 빗물이 새어 집 안으로 들어오는 꿈은 뜻밖의 횡재와 가정의 번영을 예고하는 길몽입니다. 재물이 집으로 흘러 들어오는 이미지로 해석됩니다.",
+      "interpretation_en": "Rain seeping into the house through the ceiling is an auspicious dream foretelling unexpected windfall and household prosperity. The image is read as wealth flowing into the home."
+    },
+    {
+      "keyword_ko": "비와 무지개 꿈",
+      "keyword_en": "rain and rainbow dream",
+      "interpretation_ko": "비가 내린 뒤 무지개가 나타나는 꿈은 큰 행운과 사업적 성공을 상징하는 최고의 길몽 중 하나입니다. 시련 뒤에 반드시 좋은 결과가 따라올 것을 암시합니다.",
+      "interpretation_en": "Rain followed by a rainbow is one of the finest auspicious omens, symbolizing great luck and business success. It carries the message that hardship will be followed by an excellent outcome."
+    },
+    {
+      "keyword_ko": "우박 꿈",
+      "keyword_en": "hail dream",
+      "interpretation_ko": "우박이 쏟아지는 꿈은 사방에서 비난과 걱정이 쏟아지는 상황을 예고하는 흉몽입니다. 과도한 욕심이나 무리한 계획이 화를 불러올 수 있다는 경고로도 해석됩니다.",
+      "interpretation_en": "A hailstorm in a dream is an inauspicious sign warning of criticism and mounting worries coming from multiple directions. It can also be a warning that excessive ambition or overreach may bring trouble."
+    },
+    {
+      "keyword_ko": "창밖에 비 오는 꿈",
+      "keyword_en": "watching rain through window dream",
+      "interpretation_ko": "창밖에서 내리는 비를 실내에서 바라보는 꿈은 행운이 아직 나의 것이 되지 않았으나 인내하고 노력하면 결국 성취할 수 있다는 중립적인 꿈입니다.",
+      "interpretation_en": "Watching rain fall outside from indoors suggests that good fortune is visible but not yet within reach. It is a neutral sign — persistence and effort will eventually bring the desired outcome."
+    },
+    {
+      "keyword_ko": "천둥 번개 비 꿈",
+      "keyword_en": "thunder lightning and rain dream",
+      "interpretation_ko": "천둥과 번개를 동반한 비가 내리는 꿈은 예상치 못한 기회가 갑작스럽게 찾아오거나, 인생에서 큰 전환점이 될 사건을 예고하는 꿈으로 풀이됩니다.",
+      "interpretation_en": "Rain with thunder and lightning signals that an unexpected opportunity may arrive suddenly, or that a pivotal, life-changing event is on the horizon."
+    }
+  ],
+  "culturalContext": {
+    "korean": "한국 전통 문화에서 비는 단순한 기상 현상이 아니라 하늘과 땅을 잇는 신성한 매개체로 여겨졌습니다. 농경 사회였던 조선 시대에 비는 풍요로운 수확과 생명의 원천을 의미했으며, 가뭄을 해소하는 단비는 곧 재물과 복의 상징이었습니다. 무속 신앙에서는 용(龍)이 물과 비를 관장하는 신으로 숭배받았고, 용왕 신앙과 함께 비를 기원하는 기우제(祈雨祭)가 국가적 의례로 거행되기도 했습니다. 이러한 문화적 배경 때문에 꿈에서 비가 내리는 것은 하늘이 내리는 은혜, 즉 재물과 복이 위에서 흘러내려 오는 것으로 해석되었습니다. 비가 논밭에 고이면 풍년이 드는 것처럼, 꿈속에서도 비에 흠뻑 젖는 것은 물질적 풍요와 소원 성취를 상징하는 강력한 길몽으로 자리 잡았습니다. 반면 폭우나 홍수는 자연재해의 공포를 반영하여 흉몽으로 분류됩니다.",
+    "english": "In traditional Korean culture, rain was far more than a meteorological event — it was regarded as a sacred intermediary between heaven and earth. In the agrarian Joseon society, rain meant abundant harvests and the very source of life. A welcome shower ending a drought was synonymous with wealth and blessing. In Korean shamanism (무속 신앙), the dragon (용) was venerated as the deity governing water and rainfall, and state-level rain-prayer rituals (기우제) were held by the royal court to invoke timely rains. Against this backdrop, rain in a dream was interpreted as heaven's grace flowing downward — divine wealth and fortune descending from above. Just as rain pooling in the fields signals a bountiful harvest, being drenched in a dream became one of the strongest auspicious omens for material prosperity and wish fulfillment. In contrast, violent storms and floods, reflecting the terror of natural disasters, are classified as inauspicious dreams."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트의 정신분석학적 관점에서 비는 억압된 감정과 무의식적 욕망의 표출을 상징해요. 빗속에서 느끼는 시원함이나 흠뻑 젖는 감각은 해소되지 못한 감정적 긴장이 꿈을 통해 분출되는 과정으로 해석되며, 감정적 정화(카타르시스)의 이미지로 읽혀요. 또한 프로이트는 비와 물을 성적 에너지(리비도)와 연결지어, 폭우는 강렬한 욕망이나 감정적 갈등의 표현일 수 있다고 보았어요.",
+      "english": "From a Freudian perspective, rain symbolizes the release of repressed emotions and unconscious desires. The sensation of being cooled or drenched by rain is interpreted as emotional tension finding an outlet through the dream — a form of catharsis. Freud also associated rain and water with libidinal energy, viewing heavy downpours as expressions of intense desire or emotional conflict that the waking mind keeps suppressed."
+    },
+    "jungian": {
+      "korean": "칼 융은 비와 물을 집단무의식(集團無意識)의 원형적 상징으로 바라보았어요. 꿈속의 비는 자아(ego)가 무의식과 만나는 경계, 즉 심리적 변환과 내면의 갱신(renewal)을 나타내는 이미지예요. 특히 땅을 적시는 비는 생명력을 부활시키는 원형적 에너지, 즉 아니마(Anima)의 여성적이고 수용적인 측면과 연결되며, 이는 내면의 통합(individuation) 과정이 진행 중임을 암시해요.",
+      "english": "Carl Jung viewed rain and water as archetypal symbols of the collective unconscious. Rain in dreams represents the boundary where the ego meets the unconscious — a threshold of psychological transformation and inner renewal. Rain nourishing the earth connects to the anima archetype's receptive, feminine energy, suggesting that an individuation process — the integration of the self — is actively underway."
+    },
+    "modern": {
+      "korean": "현대 인지과학과 신경과학의 관점에서 비 꿈은 뇌가 감정적 기억과 스트레스를 처리하는 REM 수면 중에 자주 나타나요. 비는 일상에서 강한 감각적 자극을 주는 환경 요소이기 때문에 기억 속에 깊이 새겨지기 쉬우며, 꿈에서 비를 만나는 것은 해결되지 않은 감정이나 변화에 대한 내면의 반응일 수 있어요. 연구자들은 비 꿈이 특히 삶의 전환기나 감정적 압박이 높은 시기에 더 자주 나타나는 경향이 있다고 봐요.",
+      "english": "From a modern cognitive and neuroscientific perspective, rain dreams frequently appear during REM sleep as the brain processes emotional memories and stress. Because rain is a powerful sensory stimulus in waking life — involving sound, temperature, and touch — it becomes deeply encoded in memory and readily surfaces in dreams. Researchers note that rain dreams tend to increase during periods of major life transition or heightened emotional pressure, serving as the mind's metaphor for internal change."
+    },
+    "crossCultural": {
+      "korean": "한국 전통 해몽이 비를 재물과 복의 상징으로 보는 것과 달리, 서양 심리학은 비를 주로 감정 정화와 무의식적 전환의 이미지로 해석해요. 그러나 '비 뒤의 햇살'처럼 시련 후의 희망을 상징한다는 점에서 두 전통은 공통된 낙관적 메시지를 공유하고 있어요.",
+      "english": "While Korean folk tradition reads rain as a symbol of incoming wealth and heavenly blessing, Western psychology interprets it primarily as emotional release and unconscious transformation. The two traditions converge, however, in their shared optimism — both recognize rain as a precursor to renewal, like sunshine breaking through after a storm."
+    }
+  },
+  "relatedSymbols": ["flood", "cloud", "thunder", "umbrella", "water", "rainbow", "snow", "storm"],
+  "seoKeywords": {
+    "korean": [
+      "비 꿈해몽",
+      "비오는 꿈",
+      "비 맞는 꿈 해몽",
+      "비 꿈 의미",
+      "비에 흠뻑 젖는 꿈",
+      "소나기 꿈해몽",
+      "폭우 꿈 해석",
+      "장마 꿈해몽",
+      "비 꿈 길몽 흉몽",
+      "비 꿈 재물운",
+      "비 꿈 로또",
+      "이슬비 꿈해몽",
+      "비 그치는 꿈",
+      "우박 꿈해몽",
+      "비와 무지개 꿈"
+    ],
+    "english": [
+      "rain dream meaning Korean",
+      "dream about rain Korean interpretation",
+      "getting soaked in rain dream meaning",
+      "heavy rain dream symbolism",
+      "rain dream lucky or unlucky",
+      "sudden shower dream interpretation",
+      "monsoon dream meaning",
+      "rain and rainbow dream Korean",
+      "Korean dream interpretation rain wealth",
+      "drizzle dream meaning"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "비에 흠뻑 젖는 꿈을 꾸면 복권을 사도 될까요?",
+      "answer_ko": "네, 비에 온몸이 흠뻑 젖는 꿈은 전통 꿈해몽에서 성공, 재산, 부귀, 명예를 상징하는 대길몽으로 꼽힙니다. 특히 소나기나 폭우에 흠뻑 젖었다면 큰 재물운과 횡재 운이 따른다고 해석되기 때문에, 복권 구매 시기로 좋다고 여겨집니다.",
+      "question_en": "Is dreaming of getting soaked in rain a good sign to buy a lottery ticket?",
+      "answer_en": "Yes — being thoroughly drenched in rain is one of the strongest auspicious dream signs in Korean tradition, symbolizing success, wealth, and honor. Particularly if the soaking came from a sudden shower or downpour, it is traditionally associated with major financial luck and windfall, making it a popular cue to try your luck."
+    },
+    {
+      "question_ko": "비 꿈은 무조건 길몽인가요?",
+      "answer_ko": "아닙니다. 비 꿈은 내용에 따라 길흉이 크게 갈립니다. 비에 흠뻑 젖거나, 비가 논밭을 적시거나, 비가 개는 꿈은 길몽입니다. 반면 앞이 보이지 않는 폭우, 장마가 계속되는 꿈, 우박 꿈은 흉몽에 가깝습니다. 비의 강도, 감정, 상황을 함께 살펴보는 것이 중요합니다.",
+      "question_en": "Is every rain dream an auspicious omen?",
+      "answer_en": "Not at all — the luck of a rain dream depends heavily on the details. Getting drenched, rain soaking dry fields, or rain clearing up are auspicious signs. But rain you cannot see through, an endless monsoon, or hailstorms lean inauspicious. The intensity, your emotional state in the dream, and the situation all matter."
+    },
+    {
+      "question_ko": "비 꿈이 태몽이 될 수도 있나요?",
+      "answer_ko": "비 꿈 자체가 대표적인 태몽으로 분류되지는 않지만, 비가 넉넉하게 내려 논밭을 가득 채우거나 맑은 물이 고이는 꿈은 생명력과 풍요를 상징하여 간혹 태몽으로 해석되기도 합니다. 태몽 여부는 꿈의 전반적인 인상과 맥락을 함께 고려하는 것이 좋습니다.",
+      "question_en": "Can a rain dream be a pregnancy dream (태몽)?",
+      "answer_en": "Rain is not a classic pregnancy dream symbol, but a dream of abundant rain filling dry fields with clear water is sometimes interpreted as one, given its associations with life-giving nourishment and fertility. Whether it counts as a 태몽 depends on the overall impression and context of the entire dream."
+    },
+    {
+      "question_ko": "폭우나 홍수가 나오는 꿈은 나쁜 꿈인가요?",
+      "answer_ko": "일반적으로 폭우나 홍수는 통제할 수 없는 상황, 갑작스러운 위기, 또는 감정적 혼란을 상징하는 흉몽으로 해석됩니다. 다만 폭우를 맞으면서도 당당하게 서 있거나 홍수를 헤쳐 나오는 꿈이라면 역경을 이겨내는 강한 의지와 성공을 암시하는 길몽으로 전환되기도 합니다.",
+      "question_en": "Is dreaming of a torrential downpour or flood a bad omen?",
+      "answer_en": "Generally yes — torrential rain and floods symbolize uncontrollable circumstances, sudden crises, or emotional turmoil and are considered inauspicious. However, if you stand firm through the downpour or successfully navigate a flood, the dream flips to a positive sign of resilience and coming triumph over adversity."
+    },
+    {
+      "question_ko": "비가 그치고 무지개가 뜨는 꿈은 무슨 의미인가요?",
+      "answer_ko": "비가 그치고 무지개가 나타나는 꿈은 전통 해몽에서 최고의 길몽 중 하나로 꼽힙니다. 시련이 끝나고 크게 행운이 찾아올 것을 암시하며, 사업 성공이나 대형 기쁜 소식과 연결 지어 해석됩니다.",
+      "question_en": "What does it mean to dream of a rainbow appearing after rain?",
+      "answer_en": "A rainbow following rain is considered one of the finest auspicious omens in Korean dream tradition. It signals that a period of hardship is coming to an end and that great luck — particularly in business or a major life event — is soon to arrive."
+    },
+    {
+      "question_ko": "빗속에서 우산 없이 걷는 꿈은 어떤 의미인가요?",
+      "answer_ko": "우산 없이 비를 맞으며 걷는 꿈은 현재 누군가의 도움을 간절히 기다리는 심리 상태를 반영하는 꿈입니다. 경제적으로 어려운 상황이나 도움받지 못하는 외로움을 상징하기도 합니다. 다만 비를 맞으며 홀가분하게 걷는다면, 어려움 속에서도 자신만의 길을 가는 독립심을 뜻하는 긍정적 해석도 가능합니다.",
+      "question_en": "What does it mean to dream of walking in rain without an umbrella?",
+      "answer_en": "Walking in rain without an umbrella often reflects a psychological state of desperately waiting for someone's help. It can symbolize financial difficulty or a feeling of lonely isolation without support. However, if you walk freely and unbothered through the rain, it can also be read positively — as independent spirit and self-reliance in the face of adversity."
+    }
+  ]
+}

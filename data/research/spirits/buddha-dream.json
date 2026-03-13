@@ -1,0 +1,242 @@
+{
+  "symbol": {
+    "korean": "부처님 꿈",
+    "english": "Dream of Buddha",
+    "slug": "buddha-dream"
+  },
+  "summary": {
+    "korean": "부처님 꿈은 전통적으로 귀인의 도움, 소원 성취, 재물운 상승을 상징하는 대표적인 길몽으로, 지혜롭고 덕망 높은 존재가 꿈꾼 이를 보살펴 준다는 의미를 담고 있습니다.",
+    "english": "Dreaming of Buddha is a quintessential auspicious dream in Korean folk tradition, symbolizing the arrival of a noble benefactor, fulfillment of wishes, and rising fortune — indicating that a wise and virtuous force is watching over the dreamer."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "꿈에서 부처님을 만나거나 부처님이 나타나는 꿈은 크게 길한 징조입니다. 현실에서 자신을 도와줄 귀인이 나타나 하는 일이 순조롭게 풀리고 좋은 결과를 맺게 됩니다. 오랫동안 막혀 있던 일이 뚫리고, 바라던 소망이 이루어질 것을 알리는 꿈입니다.",
+      "english": "Encountering or seeing Buddha in a dream is a highly auspicious omen. It indicates that a noble helper or benefactor will appear in waking life, allowing endeavors to proceed smoothly and reach favorable outcomes. Long-stalled matters will finally break through, and cherished wishes will be fulfilled.",
+      "context": "부처님이 온화하고 빛나는 모습으로 나타날 때, 또는 부처님과 눈을 마주치거나 대화를 나눌 때"
+    },
+    {
+      "type": "길몽",
+      "korean": "꿈속에서 부처님께 절을 하거나 공양을 드리는 꿈은 물질적, 정신적으로 소원하는 바를 성취하게 될 징조입니다. 윗사람이나 실력자의 도움으로 사업이나 시험, 경력에서 큰 성과를 이루게 됩니다. 마음먹은 대로 일이 순리대로 풀리고 귀인의 조력을 받게 됩니다.",
+      "english": "Bowing to or making offerings to Buddha in a dream foretells the fulfillment of material and spiritual wishes. Support from a superior or influential figure will lead to major achievements in business, examinations, or one's career. Plans will unfold smoothly and a helpful patron will lend their assistance.",
+      "context": "꿈속에서 절을 하거나 향을 피우거나 음식을 공양하는 행위가 포함될 때"
+    },
+    {
+      "type": "길몽",
+      "korean": "황금빛 불상이나 빛을 발하는 부처님이 꿈에 나타나면 학문, 명예, 재물 모두에서 운기가 크게 오르는 길몽입니다. 계획 중인 일이 잘 성취되고 하는 일마다 성과가 좋을 것을 암시합니다. 특히 금불상을 직접 얻거나 발굴하는 꿈은 뜻밖의 횡재나 대박이 찾아올 징조입니다.",
+      "english": "A golden or radiant Buddha appearing in a dream is a highly auspicious sign forecasting great gains in scholarship, honor, and wealth. Planned endeavors will succeed and all efforts will bear fruit. Specifically, finding or unearthing a golden Buddha statue in a dream portends unexpected windfall or extraordinary financial fortune.",
+      "context": "불상이 황금색으로 빛나거나, 부처님 몸에서 광명이 발산될 때, 또는 금불상을 손에 넣는 꿈"
+    },
+    {
+      "type": "길몽",
+      "korean": "임산부가 부처님이나 불상을 꿈에서 안거나 얻는 태몽은 장차 크게 훌륭한 인물이 될 아이를 낳을 것을 암시합니다. 사회를 이끌 지도자, 깊은 정신적 업적을 이룰 인물, 또는 학문이나 예술에서 이름을 떨칠 아이를 잉태하는 태몽으로 해석됩니다.",
+      "english": "For a pregnant woman, dreaming of holding or receiving Buddha or a Buddha statue is a auspicious pregnancy dream (태몽) foretelling the birth of an exceptionally gifted child. The child is fated to become a social leader, achieve profound spiritual or intellectual accomplishments, or earn great renown in scholarship or the arts.",
+      "context": "임산부 또는 임신을 바라는 여성이 꾸는 꿈일 때, 혹은 주변 가족이 그 여성을 위해 꾸는 태몽"
+    },
+    {
+      "type": "흉몽",
+      "korean": "꿈속에서 부처님이 화를 내거나 꾸짖는 모습으로 나타나면 하는 일에 장애가 생기거나 심각한 어려움에 처할 것을 경고합니다. 인간관계에서 다툼이 생기거나 손재수가 따를 수 있으므로 언행을 조심하고 무리한 계획을 자제해야 할 시기입니다.",
+      "english": "If Buddha appears angry or scolding in a dream, it warns of impending obstacles and serious difficulties in current endeavors. Conflicts in personal relationships and financial losses may follow. This is a signal to be cautious in speech and actions, and to avoid overreaching plans.",
+      "context": "부처님 얼굴이 일그러지거나 화난 표정이거나, 꿈속에서 꾸지람이나 훈계를 받는 상황"
+    },
+    {
+      "type": "흉몽",
+      "korean": "꿈속에서 부처님께 맞거나 부처님으로부터 신체적 고통을 당하는 꿈은 질병에 걸리거나 오랫동안 몸이 불편해질 것을 예고합니다. 건강 관리에 각별히 신경 쓰고, 정기적인 건강 검진을 받아보는 것이 좋습니다.",
+      "english": "Dreaming of being struck or physically harmed by Buddha is an omen of illness or prolonged physical discomfort. This dream urges the dreamer to pay special attention to their health and to seek a medical checkup.",
+      "context": "꿈속에서 부처님이 꿈꾼 이를 치거나 벌을 내리는 상황"
+    },
+    {
+      "type": "흉몽",
+      "korean": "불상이 깨지거나 훼손된 모습으로 나타나는 꿈은 불길한 징조입니다. 가정이나 사업에서 예상치 못한 손실이나 불행이 찾아올 수 있으므로 주의가 필요합니다. 또한 절하다가 일어서지 못하는 꿈은 추진 중인 일이 좌절되거나 사업에 차질이 생길 것을 암시합니다.",
+      "english": "A cracked or damaged Buddha statue in a dream is an inauspicious omen signaling unexpected loss or misfortune in the home or in business. Similarly, dreaming of being unable to rise after bowing to Buddha suggests that a current project will stall or encounter serious setbacks.",
+      "context": "불상이 부서지거나 넘어지거나 손상된 모습, 또는 절하는 행위가 완료되지 못하는 상황"
+    },
+    {
+      "type": "neutral",
+      "korean": "꿈속에서 부처님을 멀리서 바라보거나 법당 안에 혼자 있는 광경을 목격하는 꿈은 현재 삶에서 내면의 안정과 평화를 갈구하고 있음을 반영할 수 있습니다. 직접적인 길흉보다는 스스로를 돌아보고 내적 성찰이 필요한 시기임을 알려주는 꿈으로 해석되기도 합니다.",
+      "english": "Observing Buddha from afar, or seeing Buddha alone inside a temple hall, may reflect a deep longing for inner stability and peace in one's current life. Rather than a clear auspicious or inauspicious sign, this type of dream can indicate that a period of self-reflection and inner work is needed.",
+      "context": "부처님과 직접적인 상호작용 없이 멀리서 지켜보거나, 고요한 법당 안에서 불상만 있는 장면"
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "부처님 나오는 꿈",
+      "keyword_en": "dream of Buddha appearing",
+      "interpretation_ko": "부처님이 꿈에 나타나는 것 자체가 길몽입니다. 현실에서 귀인이 등장하여 도움을 주고, 하는 일이 뜻대로 잘 풀릴 것을 암시합니다.",
+      "interpretation_en": "Buddha simply appearing in a dream is auspicious. A helpful patron will emerge in real life, and current endeavors will unfold as hoped."
+    },
+    {
+      "keyword_ko": "부처님께 절하는 꿈",
+      "keyword_en": "dream of bowing to Buddha",
+      "interpretation_ko": "물질적, 정신적으로 소원하는 것을 성취하게 될 징조입니다. 귀인의 도움으로 목표를 이루게 됩니다.",
+      "interpretation_en": "An omen that material and spiritual wishes will be fulfilled. A benefactor's assistance will help the dreamer achieve their goals."
+    },
+    {
+      "keyword_ko": "부처님께 공양 드리는 꿈",
+      "keyword_en": "dream of making offerings to Buddha",
+      "interpretation_ko": "윗사람이나 실력자의 도움으로 사업이 일어나거나 어려웠던 일이 풀리게 될 것을 암시합니다. 시험 합격, 작품 당선 등의 경사도 따릅니다.",
+      "interpretation_en": "Indicates that a superior or influential figure will support the dreamer, resolving difficulties or launching a business. Passing an exam or having creative work recognized is also foreshadowed."
+    },
+    {
+      "keyword_ko": "부처님이 빛나는 꿈",
+      "keyword_en": "dream of Buddha radiating light",
+      "interpretation_ko": "운기가 크게 상승하여 하는 일마다 좋은 성과를 거두게 됩니다. 덕망 있는 인물이나 감동적인 작품을 만나게 될 암시이기도 합니다.",
+      "interpretation_en": "Fortune rises sharply, and all endeavors will bear good fruit. May also indicate encountering a person of great virtue or a profoundly moving work of art."
+    },
+    {
+      "keyword_ko": "황금 불상 꿈",
+      "keyword_en": "dream of golden Buddha statue",
+      "interpretation_ko": "지위, 명예, 재물을 얻게 될 길몽입니다. 황금불상을 발굴하거나 얻는 꿈은 특히 뜻밖의 횡재를 암시합니다.",
+      "interpretation_en": "An auspicious dream foretelling gains in rank, honor, and wealth. Unearthing or receiving a golden statue specifically hints at unexpected windfall."
+    },
+    {
+      "keyword_ko": "부처님과 대화하는 꿈",
+      "keyword_en": "dream of talking with Buddha",
+      "interpretation_ko": "하는 일이 성사되고 원하는 바가 이루어질 길몽입니다. 중요한 결정에 있어 지혜로운 조언이나 뜻밖의 도움을 얻게 됩니다.",
+      "interpretation_en": "A highly auspicious dream indicating that ongoing endeavors will succeed and wishes will come true. Wise counsel or unexpected help will arrive for important decisions."
+    },
+    {
+      "keyword_ko": "부처님이 화내는 꿈",
+      "keyword_en": "dream of angry Buddha",
+      "interpretation_ko": "하는 일에 장애가 생기고 대인관계에서 다툼이나 손재수가 따를 수 있음을 경고합니다. 언행을 조심해야 할 시기입니다.",
+      "interpretation_en": "A warning of obstacles ahead and possible conflicts or financial losses in relationships. A time to be careful with words and actions."
+    },
+    {
+      "keyword_ko": "부처님께 맞는 꿈",
+      "keyword_en": "dream of being hit by Buddha",
+      "interpretation_ko": "건강에 이상이 생기거나 오랫동안 질병에 시달릴 수 있음을 경고하는 꿈입니다. 건강 검진을 받아보는 것이 좋습니다.",
+      "interpretation_en": "A warning of potential health issues or prolonged illness. A medical checkup is advisable."
+    },
+    {
+      "keyword_ko": "부처가 되는 꿈",
+      "keyword_en": "dream of becoming Buddha",
+      "interpretation_ko": "스스로 성공하여 이름을 떨치고 부귀영화를 얻을 대길몽입니다. 자신의 노력으로 큰 성취를 이루게 될 것을 암시합니다.",
+      "interpretation_en": "A supremely auspicious dream indicating that the dreamer will achieve great personal success, fame, and prosperity through their own efforts."
+    },
+    {
+      "keyword_ko": "불상을 안는 꿈 (태몽)",
+      "keyword_en": "dream of holding a Buddha statue (pregnancy dream)",
+      "interpretation_ko": "임산부가 꾸면 뛰어난 자손을 얻을 태몽으로 해석됩니다. 장차 사회의 지도자나 정신적 업적을 이룰 위대한 인물이 될 아이를 잉태한다는 의미입니다.",
+      "interpretation_en": "For a pregnant woman, this is an auspicious pregnancy omen (태몽) indicating the birth of an exceptional child destined to become a leader or achieve great spiritual and intellectual accomplishments."
+    },
+    {
+      "keyword_ko": "절에 가는 꿈",
+      "keyword_en": "dream of going to a Buddhist temple",
+      "interpretation_ko": "자신을 보호해주는 어떤 힘이 있어 위험을 피하게 되고 하는 일도 순조롭게 될 것을 암시합니다. 학업, 직업, 사업 모두에서 좋은 소식이 기대됩니다.",
+      "interpretation_en": "Indicates a protective force watching over the dreamer, keeping them from harm and allowing matters to proceed smoothly. Good news is expected in studies, career, or business."
+    },
+    {
+      "keyword_ko": "관세음보살 꿈",
+      "keyword_en": "dream of Guanyin (Goddess of Mercy)",
+      "interpretation_ko": "자비와 구원을 상징하는 관세음보살이 꿈에 나타나면 어려운 상황에서 도움을 받게 됩니다. 특히 현재 고민이나 어려움을 겪고 있는 사람에게는 위로와 해결의 징조입니다.",
+      "interpretation_en": "When Guanyin, the Bodhisattva of Compassion, appears in a dream, help will arrive in difficult circumstances. For someone currently facing hardship, this is a sign of comfort and resolution."
+    },
+    {
+      "keyword_ko": "깨진 불상 꿈",
+      "keyword_en": "dream of a broken Buddha statue",
+      "interpretation_ko": "가정이나 사업에서 예상치 못한 손실이나 불행이 올 수 있다는 불길한 징조입니다. 중요한 결정을 서두르지 말고 신중하게 대처해야 합니다.",
+      "interpretation_en": "An inauspicious omen indicating possible unexpected losses or misfortune in the home or in business. Important decisions should not be rushed, and caution is advised."
+    }
+  ],
+  "culturalContext": {
+    "korean": "부처님 꿈은 한국의 불교 전통과 민간 신앙이 깊이 융합된 꿈해몽 문화의 핵심에 자리합니다. 불교가 삼국시대에 한반도에 전래된 이후, 부처님은 단순한 종교적 대상을 넘어 지혜와 자비, 소원 성취의 상징으로 민중의 의식 속에 깊이 뿌리내렸습니다. 조선시대의 고전 소설 「구운몽」(김만중, 17세기)은 인생이 꿈과 같다는 불교적 무상관을 문학으로 형상화한 대표적 예로, 꿈과 불교 사상의 긴밀한 연결 고리를 보여줍니다. 전통 꿈해몽에서 부처님은 학자, 고승, 성인, 위대한 은인을 상징하며, 이는 유교적 덕목인 '귀인(貴人)'의 개념과도 맞닿아 있습니다. 한국 무속 신앙에서도 부처님은 신령한 존재의 하나로 받아들여지며, 꿈에 나타나는 부처님은 신의 계시나 보호의 메시지로 해석됩니다. 불교 신자가 아닌 일반인도 부처님 꿈을 꾸면 길몽으로 받아들이는 것은, 오랜 세월 불교가 한국 문화 전반에 스며들었음을 잘 보여주는 현상입니다.",
+    "english": "The dream of Buddha sits at the heart of Korean folk dream interpretation, where Buddhist tradition and shamanic folk belief have long been intertwined. After Buddhism arrived on the Korean peninsula during the Three Kingdoms period (4th–7th centuries CE), Buddha transcended purely religious meaning to become a cultural symbol of wisdom, compassion, and wish fulfillment embedded in the popular imagination. The classic Joseon-era novel Guwunmong (구운몽, Kim Man-jung, 17th century) — in which worldly glory is revealed as an empty dream and the protagonist returns to Buddhist dharma — illustrates the deep cultural link between dreams and Buddhist thought in Korea. In traditional 꿈해몽, Buddha typically stands as a proxy for a wise benefactor, an eminent scholar, or a saintly protector, echoing the Confucian concept of the 귀인 (noble helper). In Korean shamanic (무속) practice, Buddha is accepted as one among many divine beings, and his appearance in a dream carries the weight of divine guidance or protection. The fact that even non-Buddhists treat a Buddha dream as auspicious reflects just how thoroughly Buddhist imagery has permeated Korean culture across more than fifteen centuries."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트의 정신분석학적 관점에서 꿈속 부처님은 이상화된 아버지상 또는 초자아(superego)의 상징으로 해석될 수 있어요. 꿈꾼 이가 도덕적 갈등이나 내면의 죄책감을 느낄 때, 엄격하거나 자비로운 권위적 존재가 부처의 형태로 나타날 수 있습니다. 부처님께 혼나는 꿈은 양심의 목소리가 꿈에 투사된 것으로 볼 수 있고, 부처님께 선물을 받는 꿈은 사랑받고 인정받고 싶은 소망의 표현일 수 있어요.",
+      "english": "From a Freudian psychoanalytic perspective, Buddha in a dream can represent the idealized father figure or the superego — the internalized voice of moral authority. When a dreamer feels moral conflict or unconscious guilt, a benevolent or stern authoritative figure may appear in the form of Buddha. Being scolded by Buddha could be the superego's censure made visible, while receiving a gift from Buddha may express the dreamer's wish for approval and unconditional love."
+    },
+    "jungian": {
+      "korean": "융의 분석심리학에서 부처님은 '현명한 노인(Wise Old Man)' 원형의 가장 순수한 표현 중 하나로 여겨져요. 이 원형은 집단 무의식 속에서 지혜, 통찰, 인도(引導)의 힘을 인격화한 것으로, 꿈꾼 이가 중요한 삶의 기로에 서 있을 때 자주 출현합니다. 또한 융은 '자기(Self)'—개인의 전체성과 내면의 완전함을 상징하는 원형—를 종종 붓다나 그리스도 같은 성스러운 존재로 시각화한다고 보았어요. 부처님 꿈은 따라서 자기 실현(individuation)의 여정에서 내면의 지혜와 조화를 이루라는 무의식의 메시지일 수 있습니다.",
+      "english": "In Jungian analytical psychology, Buddha is considered one of the purest expressions of the Wise Old Man archetype — the personification of wisdom, insight, and guiding intelligence residing in the collective unconscious. This figure tends to appear when the dreamer stands at a significant crossroads in life and needs deep guidance. Jung also observed that the archetype of the Self — representing the wholeness and inner completeness of the individual — is often visualized as a sacred being such as Buddha or Christ. A Buddha dream may therefore carry an unconscious message urging the dreamer toward individuation, calling them into deeper harmony with their inner wisdom."
+    },
+    "modern": {
+      "korean": "현대 인지심리학과 신경과학의 관점에서 부처님 꿈은 주로 스트레스 감소와 의미 탐색의 심리적 기제로 해석돼요. 불안하거나 중요한 결정을 앞둔 상황에서 뇌는 평온과 안전을 상징하는 이미지를 꿈으로 생성해 정서적 균형을 회복하려 할 수 있습니다. 명상이나 불교 수련에 노출된 사람일수록 부처님이 꿈에 등장할 확률이 높으며, 이는 낮 동안 처리된 기억과 정서가 꿈으로 재활성화되는 '기억 통합 이론'과 일치해요. 꿈속 부처님이 주는 평안함은 꿈꾼 이의 내면이 현재 갈망하는 안도감과 자기 수용을 표현한 것으로 볼 수 있습니다.",
+      "english": "From a modern cognitive psychology and neuroscience perspective, dreaming of Buddha is most often interpreted as the brain's mechanism for stress reduction and meaning-seeking. Facing anxiety or a major life decision, the brain may generate imagery of calm and safety — embodied by Buddha — as a way of restoring emotional equilibrium. Those exposed to meditation or Buddhist practice are more likely to dream of Buddha, consistent with the memory consolidation theory in which daytime experiences and emotions are reactivated during sleep. The peace a dream Buddha conveys may reflect the dreamer's inner expression of the relief and self-acceptance their waking mind is longing for."
+    },
+    "crossCultural": {
+      "korean": "한국 전통 꿈해몽이 부처님 꿈을 외적 행운과 귀인의 도움이라는 현실적 축복으로 해석하는 데 비해, 서양 심리학은 같은 꿈을 내면의 지혜와 자아 실현이라는 내적 여정의 신호로 봐요. 동서양 모두 이 꿈을 긍정적이고 의미 있는 것으로 간주한다는 점은 공통적이지만, 한국식 해석은 현실의 변화를 기대하게 하고, 서양식 해석은 내면의 변화에 집중한다는 차이가 있습니다.",
+      "english": "While Korean traditional dream interpretation reads a Buddha dream as a practical blessing — the arrival of fortune or a real-world benefactor — Western psychology interprets the same dream as a signal of an inward journey toward self-realization and inner wisdom. Both traditions regard the dream as deeply positive and meaningful, but the Korean reading points outward toward expected changes in circumstances, while the Western reading looks inward toward personal transformation."
+    }
+  },
+  "relatedSymbols": [
+    "temple",
+    "monk",
+    "lotus-flower",
+    "gold",
+    "guanyin",
+    "ancestor",
+    "light",
+    "prayer"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "부처님 꿈해몽",
+      "부처님 꿈",
+      "부처 꿈",
+      "불상 꿈해몽",
+      "부처님 나오는 꿈",
+      "부처님 꿈 길몽",
+      "부처님 꿈 의미",
+      "황금불상 꿈",
+      "부처님께 절하는 꿈",
+      "부처님 공양 꿈",
+      "부처님 꿈 재물운",
+      "부처님 꿈 태몽",
+      "관세음보살 꿈해몽",
+      "절에 가는 꿈 해몽",
+      "부처가 되는 꿈"
+    ],
+    "english": [
+      "dream of Buddha meaning",
+      "Buddha dream interpretation",
+      "dreaming about Buddha Korean",
+      "golden Buddha statue dream",
+      "seeing Buddha in dream meaning",
+      "Buddhist temple dream meaning",
+      "Buddha dream auspicious",
+      "dreaming of Buddha and luck",
+      "Guanyin dream meaning",
+      "Buddha dream pregnancy omen"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "부처님 꿈은 길몽인가요, 흉몽인가요?",
+      "answer_ko": "대부분의 경우 부처님 꿈은 길몽으로 해석됩니다. 부처님이 온화하고 빛나는 모습으로 나타나거나, 부처님께 절하거나 공양을 드리는 꿈은 귀인의 도움, 소원 성취, 재물운 상승을 상징합니다. 다만 부처님이 화를 내거나 꾸짖는 모습이라면 주의가 필요한 흉몽으로 해석합니다.",
+      "question_en": "Is dreaming of Buddha an auspicious or inauspicious dream?",
+      "answer_en": "In most cases, dreaming of Buddha is considered highly auspicious in Korean folk tradition. Seeing a calm, radiant Buddha, or bowing and making offerings to Buddha, symbolizes the arrival of a benefactor, fulfillment of wishes, and rising fortune. However, if Buddha appears angry or scolding, the dream is interpreted as a caution sign requiring care."
+    },
+    {
+      "question_ko": "부처님 꿈을 꾸면 로또를 사도 될까요?",
+      "answer_ko": "전통 꿈해몽에서 부처님 꿈, 특히 황금불상을 얻거나 발굴하는 꿈은 뜻밖의 횡재나 재물운 상승을 암시하는 꿈으로 여겨져 왔습니다. 꿈해몽이 복권 당첨을 보장하지는 않지만, 재물과 관련된 길몽으로 해석되는 만큼 소액으로 즐겨보는 것도 나쁘지 않습니다.",
+      "question_en": "Should I buy a lottery ticket after dreaming about Buddha?",
+      "answer_en": "In Korean folk tradition, Buddha dreams — especially dreams of finding or receiving a golden Buddha statue — are associated with unexpected windfall and improved financial luck. While no dream can guarantee lottery winnings, a Buddha dream is considered among the more favorable omens for material fortune, so trying a small ticket is a popular impulse."
+    },
+    {
+      "question_ko": "부처님 꿈이 태몽이 될 수 있나요?",
+      "answer_ko": "네, 부처님 또는 불상이 등장하는 꿈은 태몽으로 해석되는 경우가 있습니다. 임산부가 부처님을 안거나 금불상을 얻는 꿈을 꾸면, 장차 사회 지도자나 정신적·학문적으로 크게 이름을 떨칠 훌륭한 인물이 될 아이를 잉태한다는 태몽으로 봅니다.",
+      "question_en": "Can a Buddha dream be a pregnancy omen (태몽)?",
+      "answer_en": "Yes, dreams featuring Buddha or a Buddha statue can be interpreted as a pregnancy omen (태몽). If a pregnant woman dreams of holding Buddha or receiving a golden statue, it is traditionally seen as a sign that she will give birth to an exceptionally gifted child — one destined for social leadership or great spiritual and intellectual achievement."
+    },
+    {
+      "question_ko": "불교 신자가 아닌데 부처님 꿈을 꾸면 어떻게 해석하나요?",
+      "answer_ko": "꼭 불교 신자가 아니더라도 부처님 꿈을 꾸는 것은 흔한 일입니다. 한국 전통 꿈해몽에서 부처님은 종교적 의미를 넘어 '지혜롭고 덕망 있는 귀인'을 상징합니다. 비신자가 꾸는 부처님 꿈도 마찬가지로 귀인의 도움이나 좋은 일이 찾아올 길몽으로 해석됩니다.",
+      "question_en": "What does a Buddha dream mean if I am not Buddhist?",
+      "answer_en": "A Buddha dream is common even for non-Buddhists. In Korean folk dream interpretation, Buddha symbolizes a wise, virtuous benefactor beyond strictly religious meaning. For a non-Buddhist, a Buddha dream is equally interpreted as an auspicious sign — pointing to the arrival of helpful people or favorable events in waking life."
+    },
+    {
+      "question_ko": "꿈에서 부처님이 저를 야단쳤어요. 무슨 의미인가요?",
+      "answer_ko": "부처님이 꿈에서 꾸짖거나 야단치는 모습은 흉몽에 가깝습니다. 하는 일에 장애가 생기거나 인간관계에서 갈등과 손재수가 따를 수 있다는 경고로 해석됩니다. 당분간 언행을 조심하고 중요한 결정이나 투자를 서두르지 않는 것이 좋습니다.",
+      "question_en": "I dreamed that Buddha scolded me. What does that mean?",
+      "answer_en": "If Buddha appears scolding or reprimanding in a dream, it leans toward an inauspicious interpretation. It is read as a warning of obstacles in current endeavors and possible conflict or financial loss in relationships. It is advisable to be careful with words and actions for a while, and to avoid rushing important decisions or investments."
+    },
+    {
+      "question_ko": "부처님 꿈과 관세음보살 꿈은 같은 의미인가요?",
+      "answer_ko": "비슷하지만 약간의 차이가 있습니다. 부처님 꿈이 전반적인 성공, 귀인, 재물운을 상징한다면, 관세음보살 꿈은 특히 자비와 구원, 어려운 상황에서의 도움을 강조합니다. 현재 고통이나 어려움을 겪고 있는 사람에게 관세음보살이 꿈에 나타나면 그 고난에서 벗어날 수 있다는 위로와 해결의 신호로 해석합니다.",
+      "question_en": "Is dreaming of Guanyin (관세음보살) the same as dreaming of Buddha?",
+      "answer_en": "Similar, but with a slight difference in emphasis. While a Buddha dream broadly symbolizes success, a benefactor, and rising fortune, dreaming of Guanyin (the Bodhisattva of Compassion) highlights compassion, rescue, and relief from hardship. For someone currently suffering difficulty, Guanyin's appearance in a dream is specifically interpreted as a comforting sign that relief and resolution are on the way."
+    }
+  ]
+}

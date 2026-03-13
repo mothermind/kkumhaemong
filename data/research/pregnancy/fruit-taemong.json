@@ -1,0 +1,230 @@
+{
+  "symbol": {
+    "korean": "과일 태몽",
+    "english": "Fruit Taemong",
+    "slug": "fruit-taemong"
+  },
+  "summary": {
+    "korean": "과일 태몽은 태어날 아이의 건강과 풍요로운 미래를 상징하며, 과일의 종류·상태·수량에 따라 성별 예고와 길흉이 달라지는 한국 전통 임신 태몽입니다.",
+    "english": "Fruit taemong is a traditional Korean pregnancy dream symbolizing the health and abundant future of the unborn child, with the specific fruit type, condition, and quantity traditionally interpreted as predicting the baby's gender and fortune."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "탐스럽게 잘 익은 과일이 풍성하게 달려 있거나, 과일을 직접 따는 꿈은 건강하고 총명한 아이를 잉태하게 될 대표적인 길몽입니다. 빛깔이 좋고 윤기 나는 과일일수록 아이의 미래가 밝고 풍요로울 것임을 암시합니다.",
+      "english": "Dreaming of plump, fully ripened fruit hanging abundantly from trees, or actively picking fruit, is a classic auspicious taemong signaling the conception of a healthy, gifted child. The more lustrous and vibrant the fruit, the brighter and more prosperous the child's future is believed to be.",
+      "context": "Ripe, abundant, or freshly picked fruit — especially when the dreamer holds or carries it with joy"
+    },
+    {
+      "type": "길몽",
+      "korean": "과일 나무 아래에 서 있거나 과일이 스스로 품 안으로 굴러 들어오는 꿈은 자녀를 통해 집안에 큰 복이 들어올 것을 예고하며, 사업이나 재물운도 함께 크게 열린다고 전해집니다.",
+      "english": "Dreaming of standing beneath a fruit-laden tree, or of fruit rolling naturally into one's arms, foretells great fortune entering the family through the child's birth, along with expanded prosperity and business success.",
+      "context": "Fruit comes to the dreamer effortlessly — a sign of blessings arriving without struggle"
+    },
+    {
+      "type": "흉몽",
+      "korean": "썩거나 벌레 먹은 과일이 나오는 꿈은 산모에게 유산의 위험이나 건강 이상을 암시하는 흉몽으로 해석됩니다. 임신 중이 아닌 경우에도 사랑하는 사람과의 이별, 사업 쇠퇴, 노력에 비해 보잘것없는 결과를 경고합니다.",
+      "english": "Dreaming of rotten or insect-eaten fruit is interpreted as an inauspicious omen warning of miscarriage risk or health complications for the expectant mother. For non-pregnant dreamers, it signals the breakdown of a relationship, business decline, or efforts yielding poor results.",
+      "context": "Fruit that is visibly spoiled, infested, or fallen and rotting on the ground"
+    },
+    {
+      "type": "흉몽",
+      "korean": "덜 익거나 쪼개진 과일을 먹는 꿈은 마음속에 불만이 쌓이거나 건강에 문제가 생길 수 있음을 경고합니다. 임신부가 이런 꿈을 꾸면 순산보다는 어려움이 따를 수 있다는 신호로 여겨졌습니다.",
+      "english": "Dreaming of eating unripe or split fruit warns of accumulating dissatisfaction or emerging health issues. For pregnant women, such a dream was traditionally seen as a sign that the birth may involve difficulties rather than an easy delivery.",
+      "context": "Unripe, split, or damaged fruit being consumed, or a fruit that tastes sour or bitter in the dream"
+    },
+    {
+      "type": "neutral",
+      "korean": "과일의 수량이 홀수이면 아들, 짝수이면 딸을 암시한다고 전해집니다. 또한 과일을 따는 행위는 아들 태몽으로, 탐스럽게 생겼지만 작은 과일은 딸 태몽으로 해석하는 경우가 많습니다. 어느 쪽이든 건강한 아이를 예고한다는 점에서 두 해석 모두 긍정적입니다.",
+      "english": "An odd number of fruits in the dream traditionally suggests a son, while an even number suggests a daughter. Picking fruit tends to be read as a son taemong, while small but attractive fruit is often interpreted as a daughter taemong. Both predictions are considered positive signs for the child's health.",
+      "context": "Gender-prediction readings that depend on fruit quantity, type, or the dreamer's action in the dream"
+    },
+    {
+      "type": "neutral",
+      "korean": "과일의 색깔에 따라 해석이 달라지기도 합니다. 붉고 선명한 과일은 딸을, 크고 황금빛 과일은 아들을 암시하는 경향이 있으며, 노란 과일은 희망과 긍정적인 변화를 상징합니다. 어떤 색이든 과일 상태가 좋으면 아이의 밝은 미래를 예고합니다.",
+      "english": "Fruit color also shapes interpretation: bright red or small fruits tend to indicate a daughter, while large golden-yellow fruits lean toward a son. Yellow fruit broadly symbolizes hope and positive change. In all cases, good fruit condition signals a bright future for the child.",
+      "context": "Color and size of the fruit as secondary indicators layered on top of the primary taemong reading"
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "복숭아 태몽",
+      "keyword_en": "peach taemong",
+      "interpretation_ko": "복숭아는 오랜 옛날부터 생명·건강·복(福)을 상징하는 과일로, 탐스럽고 잘 익은 복숭아를 얻는 꿈은 건강하고 복 많은 아이가 태어날 길몽입니다. 황도(노란 복숭아) 태몽은 예쁜 딸을 낳을 징조로 해석하는 경우가 많습니다.",
+      "interpretation_en": "The peach has long symbolized life, health, and fortune in Korean culture. Dreaming of obtaining a ripe, plump peach is an auspicious sign that a healthy, blessed child will be born. Yellow peach dreams are frequently interpreted as predicting a daughter."
+    },
+    {
+      "keyword_ko": "사과 태몽",
+      "keyword_en": "apple taemong",
+      "interpretation_ko": "크고 붉은 사과 태몽은 아들, 작고 붉은 사과 태몽은 딸을 암시한다고 알려져 있습니다. 사과는 재물과 성취를 상징하기도 해서, 빛나는 사과를 받거나 따는 꿈은 총명하고 성공할 아이를 잉태하는 길몽입니다.",
+      "interpretation_en": "A large red apple taemong traditionally suggests a son, while a small red apple points to a daughter. Since apples also symbolize wealth and achievement, dreaming of receiving or picking a gleaming apple is an auspicious sign of conceiving a bright, successful child."
+    },
+    {
+      "keyword_ko": "포도 태몽",
+      "keyword_en": "grape taemong",
+      "interpretation_ko": "포도 태몽은 예쁜 딸을 낳을 징조로 가장 많이 알려진 과일 태몽 중 하나입니다. 다만 청포도를 따는 꿈은 건강한 아들을 잉태할 징조로도 해석되며, 풍성한 포도송이는 재물운이 함께 열린다는 의미도 있습니다.",
+      "interpretation_en": "Grape taemong is one of the most widely recognized fruit pregnancy dreams, traditionally indicating the birth of a beautiful daughter. However, dreaming of picking green grapes may indicate a healthy son, while abundant grape clusters also symbolize incoming prosperity alongside the birth."
+    },
+    {
+      "keyword_ko": "딸기 태몽",
+      "keyword_en": "strawberry taemong",
+      "interpretation_ko": "딸기는 붉고 작으며 달콤한 과일이라는 특성 때문에 딸 태몽으로 해석되는 경우가 많습니다. 탐스러운 딸기를 따거나 받는 꿈은 귀엽고 사랑스러운 딸을 얻게 될 길몽으로 여겨집니다.",
+      "interpretation_en": "Strawberries, being small, red, and sweet, are most commonly interpreted as predicting the birth of a daughter. Dreaming of picking or receiving plump, beautiful strawberries is considered an auspicious sign of welcoming a lovely, cherished daughter."
+    },
+    {
+      "keyword_ko": "수박 태몽",
+      "keyword_en": "watermelon taemong",
+      "interpretation_ko": "크고 둥근 수박은 큰 복덩이를 잉태한다는 의미의 길몽 태몽으로 알려져 있습니다. 수박을 통째로 얻거나 안고 오는 꿈은 건강하고 넉넉한 아이를 낳을 것을 예고하며, 일부 해석에서는 아들 태몽으로 분류됩니다.",
+      "interpretation_en": "A large, round watermelon is regarded as a highly auspicious taemong symbolizing the conception of a great blessing. Dreaming of receiving or carrying a whole watermelon predicts the birth of a healthy, prosperous child, and is sometimes classified specifically as a son taemong."
+    },
+    {
+      "keyword_ko": "감 태몽",
+      "keyword_en": "persimmon taemong",
+      "interpretation_ko": "잘 익은 감을 따는 꿈은 전통적으로 아들 태몽으로 해석하는 지역이 많습니다. 나무에 풍성하게 달린 감을 보거나 따는 꿈은 장차 재력이나 사회적 성취를 이룰 아이를 잉태하는 길몽으로 전해집니다.",
+      "interpretation_en": "Dreaming of picking ripe persimmons is traditionally interpreted in many regions as a son taemong. Seeing or gathering persimmons hanging abundantly from a tree foretells the conception of a child who will achieve wealth or social distinction."
+    },
+    {
+      "keyword_ko": "밤 태몽",
+      "keyword_en": "chestnut taemong",
+      "interpretation_ko": "밤(밤나무 열매)은 한국 전통 태몽에서 아들을 상징하는 과일 중 하나입니다. 큰 밤을 따거나 품 안 가득 담는 꿈은 건강하고 든든한 아들을 잉태한다는 대표적인 태몽으로 전해집니다. 반면 밤송이(가시 달린 껍질)는 딸 태몽으로 보기도 합니다.",
+      "interpretation_en": "The chestnut is one of the classic son-predicting fruits in Korean taemong tradition. Dreaming of picking large chestnuts or gathering them into one's arms is considered a quintessential auspicious taemong predicting the birth of a strong, healthy boy. However, the spiky chestnut burr alone can indicate a daughter."
+    },
+    {
+      "keyword_ko": "석류 태몽",
+      "keyword_en": "pomegranate taemong",
+      "interpretation_ko": "석류는 씨가 많아 풍요와 다산을 상징하며, 딸 태몽으로 해석하는 경향이 있습니다. 석류를 받거나 먹는 태몽은 예쁘고 총명한 딸을 낳을 것을 예고하며, 씨앗이 많은 석류 특성상 복이 가득한 아이임을 암시합니다.",
+      "interpretation_en": "The pomegranate, rich in seeds, symbolizes abundance and fertility. In taemong tradition it tends to predict the birth of a daughter. Receiving or eating a pomegranate in a pregnancy dream foretells a beautiful, bright girl, with the fruit's many seeds signifying a life filled with blessings."
+    },
+    {
+      "keyword_ko": "대추 태몽",
+      "keyword_en": "jujube (Korean date) taemong",
+      "interpretation_ko": "대추는 전통적으로 아들 태몽 식물군에 속하는 과일로 알려져 있으나, 지역에 따라 해석이 다릅니다. 경기도 지방에서는 대추 꿈을 아들로 풀이하고, 경상도 지방에서는 딸로 보기도 합니다. 어느 해석이든 탐스러운 대추 태몽은 복된 아이를 예고하는 길몽입니다.",
+      "interpretation_en": "Jujubes are traditionally classified in the son-predicting category of taemong, though regional variation exists. In Gyeonggi Province the jujube dream predicts a son, while in Gyeongsang Province some interpret it as predicting a daughter. Regardless of the regional reading, a dream of plump, ripe jujubes is considered an auspicious sign of a blessed child."
+    },
+    {
+      "keyword_ko": "참외 태몽",
+      "keyword_en": "Korean melon (chamoe) taemong",
+      "interpretation_ko": "참외는 딸 태몽으로 알려진 과일 중 하나입니다. 노랗고 달콤한 참외를 얻거나 먹는 꿈은 활발하고 예쁜 딸을 잉태하는 태몽으로 해석되며, 참외가 크고 탐스러울수록 아이의 건강과 복이 더 크다고 봅니다.",
+      "interpretation_en": "The Korean melon (chamoe) is one of the fruits associated with a daughter taemong. Dreaming of receiving or eating a yellow, sweet chamoe is interpreted as a sign of conceiving a lively, beautiful girl, with larger and more appealing melons indicating even greater health and fortune for the child."
+    },
+    {
+      "keyword_ko": "썩은 과일 태몽",
+      "keyword_en": "rotten fruit taemong",
+      "interpretation_ko": "썩거나 벌레 먹은 과일이 나오는 꿈은 태몽으로서 좋지 않은 신호로 여겨집니다. 유산의 위험, 순산의 어려움, 또는 아이의 건강에 대한 걱정을 암시하는 흉몽입니다. 이런 꿈을 꿨다면 산부인과 정기 검진에 더 신경 쓰라는 전통적인 경고로 해석했습니다.",
+      "interpretation_en": "A dream featuring rotten or insect-damaged fruit is regarded as an unfavorable taemong sign. It traditionally warned of risks of miscarriage, difficult delivery, or health concerns for the unborn child. Historically, such a dream prompted expectant families to be extra diligent about prenatal care and health checks."
+    },
+    {
+      "keyword_ko": "과일 따는 꿈 태몽",
+      "keyword_en": "picking fruit taemong",
+      "interpretation_ko": "나무에서 과일을 손수 따는 행동이 담긴 태몽은 아들을 잉태하는 길몽으로 가장 많이 알려져 있습니다. 깊은 산속 나무에서 과일을 따는 꿈은 장차 재력가로 성장할 아들을, 집 정원에서 따는 꿈은 가업을 이을 건강한 자녀를 예고합니다.",
+      "interpretation_en": "A taemong in which the dreamer actively picks fruit from a tree is most commonly associated with conceiving a son. Picking fruit from trees deep in a mountain predicts a son who will become financially successful; picking from a home garden foretells a healthy child who will carry on the family."
+    }
+  ],
+  "culturalContext": {
+    "korean": "과일 태몽은 한국의 태몽 문화 중에서도 가장 널리 퍼진 유형 중 하나로, 그 뿌리는 삼국 시대 이전까지 거슬러 올라갑니다. 《삼국유사》와 《삼국사기》에는 태몽 관련 기록이 다수 등장하며, 고려·조선 시대를 거치면서 과일이나 식물류 태몽이 성별 예고의 중요한 지표로 자리 잡았습니다. 전통적으로 과일·식물은 음양오행 사상에서 '음(陰)'의 기운에 해당하는 경우가 많아 딸과 연결되는 경향이 있지만, 크고 씨앗이 단단한 과일(밤·대추·호두)은 '양(陽)'의 기운으로 아들을 상징한다고 보았습니다. 과일의 탐스럽고 윤기 있는 상태는 생명력과 복의 충만함을 뜻하며, 썩거나 미완성된 상태는 그 반대를 암시했습니다. 한국 민간 신앙에서는 태몽의 과일을 '기운이 아이에게 실리는 매개체'로 여겼기 때문에, 태몽을 꾼 사람이 임산부에게 과일의 생동감 있는 이미지를 그대로 전달해 아이에게 좋은 기운이 이어지도록 하는 풍습도 있었습니다.",
+    "english": "Fruit taemong is one of the most widespread categories within Korea's pregnancy dream tradition, with roots stretching back to before the Three Kingdoms period. The Samguk Yusa and Samguk Sagi contain numerous taemong accounts, and through the Goryeo and Joseon dynasties, fruit and plant imagery became firmly established as key indicators of a baby's gender and fortune. In traditional yin-yang cosmology, fruits and plants were generally classified as yin energy, linking them to daughters; however, large fruits with hard seeds — chestnuts, jujubes, walnuts — were associated with yang energy and therefore with sons. A fruit's lushness and sheen signified abundant life-force and blessings for the child, while rottenness or incompleteness hinted at the opposite. In Korean folk belief, the fruit in a taemong was treated as a vessel through which spiritual energy was transferred to the child, which is why the dreamer was traditionally expected to describe the fruit's appearance in vivid, positive detail when sharing the dream with the expectant mother."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트는 꿈이 억압된 욕망과 무의식적 소망이 변형된 형태로 나타난다고 보았어요. 임신 중 과일 꿈은 생명을 창조하고자 하는 무의식의 소망 충족이자, 풍요·성숙·양육에 대한 강렬한 내적 욕구의 표현으로 해석될 수 있어요. 또한 프로이트 관점에서 과일의 풍부한 씨앗과 달콤함은 생식 본능 및 리비도적 에너지와 연결되며, 잘 익은 과일은 출산에 대한 준비된 심리 상태를 상징할 수 있어요.",
+      "english": "Freud viewed dreams as disguised expressions of repressed desires and unconscious wish-fulfillment. From a Freudian lens, dreaming of fruit during pregnancy can be read as the unconscious fulfilling the wish to create life and as an expression of intense inner drives toward abundance, ripeness, and nurturing. The seeds and sweetness of fruit also connect to reproductive instinct and libidinal energy, while fully ripened fruit may symbolize a psychologically prepared readiness for birth."
+    },
+    "jungian": {
+      "korean": "융은 꿈에 등장하는 과일을 집단 무의식 속의 원형 이미지로 이해했어요. 과일은 개성화(individuation) 과정에서 잠재력이 완전히 실현된 상태, 즉 씨앗이 성숙한 생명체로 발현된 상태를 상징하는 '셀프(Self)' 원형과 연결됩니다. 임신 중 과일 태몽은 융적 관점에서 새로운 생명의 탄생과 함께 어머니 자신이 새로운 자아로 변화하는 심리적 초월을 반영하며, 이는 모성 원형(Mother Archetype)의 발현이기도 해요.",
+      "interpretation_en": "Jung understood fruit appearing in dreams as an archetypal image from the collective unconscious, linked to the Self archetype — the full realization of potential, the seed becoming a complete living being through the individuation process. In Jungian terms, a fruit taemong during pregnancy reflects not only the emergence of new life but also the dreamer's own psychological transformation into a new self, a manifestation of the Mother Archetype awakening within the individual's psyche.",
+      "english": "Jung understood fruit appearing in dreams as an archetypal image from the collective unconscious, linked to the Self archetype — the full realization of potential, the seed becoming a complete living being through the individuation process. In Jungian terms, a fruit taemong during pregnancy reflects not only the emergence of new life but also the dreamer's own psychological transformation into a new self, a manifestation of the Mother Archetype awakening within the individual's psyche."
+    },
+    "modern": {
+      "korean": "현대 심리학과 신경과학은 임신 중 꿈이 훨씬 더 선명하고 감정적으로 강렬해지는 이유를 호르몬 변화(에스트로겐·프로게스테론 급증)와 REM 수면 패턴의 변화로 설명해요. 과일처럼 생생하고 감각적인 이미지가 등장하는 임신 꿈은 산모가 아이의 건강, 출산, 양육에 대한 기대와 불안을 무의식적으로 처리하는 과정으로 이해돼요. 연구에 따르면 임신 중 꿈은 대부분 창조, 성장, 새로운 시작이라는 주제를 담고 있으며, 과일은 이러한 심리적 준비 상태를 시각화한 전형적 이미지 중 하나예요.",
+      "english": "Modern psychology and neuroscience explain the heightened vividness and emotional intensity of pregnancy dreams through hormonal changes — the surge of estrogen and progesterone — and shifts in REM sleep patterns. Vivid, sensory images such as fruit in pregnancy dreams are understood as the expectant mother's unconscious mind processing anxieties and hopes surrounding the baby's health, the birth, and parenthood. Research consistently shows that pregnancy dreams center on themes of creation, growth, and new beginnings, making fruit one of the most psychologically fitting dream images for this life stage."
+    },
+    "crossCultural": {
+      "korean": "한국 전통 해몽이 과일의 종류와 상태에서 성별과 아이의 운명을 읽어내는 반면, 서양 심리학은 과일을 성별 예고보다 내면의 풍요로움과 성장 가능성의 상징으로 해석하는 경향이 있어요. 두 전통 모두 과일을 긍정적 생명력의 이미지로 공유하고 있다는 점에서는 맥락이 맞닿아 있습니다.",
+      "english": "While Korean traditional dream interpretation reads the type and condition of fruit as predictors of gender and the child's destiny, Western psychology tends to interpret fruit as a symbol of inner abundance and growth potential rather than a literal gender sign. Both traditions, however, converge in treating fruit as a fundamentally positive image of life-force and new beginnings."
+    }
+  },
+  "relatedSymbols": [
+    "peach",
+    "apple",
+    "grape",
+    "pregnancy",
+    "snake-taemong",
+    "tiger-taemong",
+    "pig-taemong",
+    "flower",
+    "tree",
+    "harvest"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "과일 태몽",
+      "과일 태몽 아들 딸",
+      "과일 꿈 태몽 의미",
+      "복숭아 태몽",
+      "사과 태몽 아들 딸",
+      "포도 태몽",
+      "딸기 태몽",
+      "수박 태몽",
+      "감 태몽",
+      "밤 태몽 아들",
+      "석류 태몽",
+      "대추 태몽 성별",
+      "참외 태몽 딸",
+      "과일 꿈해몽 길몽 흉몽",
+      "썩은 과일 꿈해몽",
+      "과일 따는 꿈 태몽",
+      "태몽 과일 종류",
+      "태몽 성별 구분 과일"
+    ],
+    "english": [
+      "fruit taemong meaning",
+      "Korean pregnancy dream fruit",
+      "fruit taemong son or daughter",
+      "peach taemong Korean dream",
+      "grape taemong Korean meaning",
+      "Korean conception dream fruit symbols",
+      "taemong fruit gender prediction",
+      "chestnut taemong son meaning",
+      "pomegranate taemong Korean tradition",
+      "Korean pregnancy dream interpretation fruit"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "과일 태몽은 아들 태몽인가요, 딸 태몽인가요?",
+      "answer_ko": "과일 태몽은 과일의 종류와 상태에 따라 다르게 해석됩니다. 밤·대추·호두처럼 크고 씨앗이 단단한 과일은 아들 태몽, 포도·딸기·석류·참외처럼 작고 달콤한 과일은 딸 태몽으로 전해집니다. 또한 과일을 직접 따는 꿈은 아들, 과일을 받는 꿈은 딸과 연결되는 경우가 많습니다.",
+      "question_en": "Is a fruit taemong for a son or a daughter?",
+      "answer_en": "Fruit taemong gender readings depend on the specific fruit. Hard-seeded, large fruits like chestnuts, jujubes, and walnuts traditionally predict a son, while small, sweet fruits like grapes, strawberries, pomegranates, and Korean melons tend to predict a daughter. Actively picking fruit in the dream also leans toward a son, while receiving fruit often points to a daughter."
+    },
+    {
+      "question_ko": "복숭아 태몽의 의미는 무엇인가요?",
+      "answer_ko": "복숭아는 오랫동안 생명과 건강, 복을 상징하는 과일로, 잘 익은 복숭아 태몽은 건강하고 복 받은 아이가 태어날 것을 예고하는 대표적인 길몽입니다. 특히 노란 복숭아는 딸 태몽으로 해석하는 경우가 많으며, 꿈속에서 복숭아가 탐스럽고 달콤할수록 아이의 미래도 밝다고 봅니다.",
+      "question_en": "What does a peach taemong mean?",
+      "answer_en": "The peach has long symbolized life, health, and fortune in Korean culture, making a ripe peach taemong one of the most auspicious pregnancy dreams — a sign that a healthy, well-blessed child will be born. Yellow peaches are often specifically associated with a daughter, and the sweeter and more luscious the peach appears in the dream, the brighter the child's future is believed to be."
+    },
+    {
+      "question_ko": "썩은 과일 태몽을 꿨는데 어떻게 해야 하나요?",
+      "answer_ko": "전통 꿈해몽에서 썩은 과일은 흉몽으로 여겨져 유산이나 건강 이상을 경고하는 신호로 해석되었습니다. 단, 태몽은 과학적으로 검증된 현상이 아니며, 꿈 하나로 태아의 건강을 판단할 수 없습니다. 걱정이 되신다면 정기 산전 검진을 받으시는 것이 가장 좋으며, 전통적으로는 좋은 꿈을 '덮어쓰는' 의미로 긍정적인 꿈 이야기를 나누거나 가까운 사람에게 꿈을 팔기도 했습니다.",
+      "question_en": "I dreamed of rotten fruit — should I be worried?",
+      "answer_en": "In traditional Korean dream interpretation, rotten fruit is considered an inauspicious sign that historically prompted concern about miscarriage or the baby's health. However, taemong is not a scientifically verified phenomenon, and a single dream cannot determine the health of a pregnancy. If you're feeling anxious, the most helpful step is attending your regular prenatal checkups. Traditionally, Koreans would counter an inauspicious dream by sharing a positive dream story or symbolically 'selling' the bad dream to neutralize it."
+    },
+    {
+      "question_ko": "태몽은 누가 꿔야 하나요? 엄마가 아니어도 되나요?",
+      "answer_ko": "태몽은 반드시 임산부 본인이 꿔야 하는 것은 아닙니다. 한국 전통에서는 임산부의 어머니, 시어머니, 남편, 가까운 친척이 태몽을 꾸는 경우도 흔합니다. 누가 꿨든 꿈속에서 과일이 생생하고 탐스럽게 나타날수록 강한 태몽으로 여기며, 꿈을 꾼 사람이 임산부에게 내용을 직접 전해주는 것이 중요하다고 여겼습니다.",
+      "question_en": "Does the expectant mother have to have the taemong herself, or can someone else dream it?",
+      "answer_en": "In Korean tradition, a taemong does not have to be dreamed by the expectant mother herself. It is quite common for the mother's own mother, mother-in-law, husband, or close relatives to receive the conception dream on the mother's behalf. Whoever has the dream, a vivid and beautiful fruit image is considered a stronger taemong sign, and it was traditionally important for the dreamer to relay the vision directly to the pregnant woman."
+    },
+    {
+      "question_ko": "과일 꿈이 모두 태몽인가요?",
+      "answer_ko": "아닙니다. 태몽이 되려면 꿈이 매우 선명하고 강렬하며, 잠에서 깬 뒤에도 생생하게 기억되는 특별한 느낌이 있어야 합니다. 일반적인 과일 꿈은 재물운·건강·성취 등 다른 의미로 해석됩니다. 임신 사실이 확인되기 전후에 꾸는 유독 강렬하고 선명한 과일 꿈일 때 태몽으로 여기는 경우가 많습니다.",
+      "question_en": "Does every fruit dream count as a taemong?",
+      "answer_en": "No. For a dream to be considered a taemong, it typically needs to be extraordinarily vivid and intense, leaving a lasting impression that feels unlike an ordinary dream upon waking. Regular fruit dreams are more commonly interpreted as signs of wealth, health, or achievement rather than pregnancy omens. A fruit dream is most often read as a taemong when it occurs around the time of confirmed or suspected conception and carries an unusually powerful emotional quality."
+    },
+    {
+      "question_ko": "포도 태몽을 꾸면 정말 딸인가요?",
+      "answer_ko": "포도 태몽은 한국에서 딸을 예고하는 가장 유명한 태몽 중 하나로, 많은 분들이 실제로 딸을 낳은 뒤 포도 태몽이었다고 이야기합니다. 하지만 태몽은 민간 전통이며 과학적 근거는 없습니다. 청포도를 따는 꿈은 아들 태몽으로 해석하는 경우도 있어, 과일의 세부 상황도 함께 보는 것이 전통적인 해석 방식입니다.",
+      "question_en": "If I dream of grapes, is it really going to be a girl?",
+      "answer_en": "Grape taemong is one of the most famous daughter-predicting pregnancy dreams in Korea, and many people do share stories of dreaming about grapes before giving birth to girls. That said, taemong is a folk tradition without scientific backing. Interestingly, dreaming of picking green grapes is sometimes interpreted as a son taemong instead, so the traditional approach considers the specific details of the dream rather than applying a single fixed rule."
+    }
+  ]
+}
