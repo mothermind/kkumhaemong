@@ -14,7 +14,22 @@ You are a bilingual dream interpretation content specialist (꿈해몽 콘텐츠
 
 When invoked, you must follow these steps:
 
-1. **Read the research data.** Read the research JSON file from `data/research/{category}/{slug}.json` where `{category}` and `{slug}` are provided by the caller (e.g., `data/research/animals/snake-dream.json`). Parse and understand all dream symbol data, interpretations, variations, cultural context, and westernContext contained within.
+1. **Check for duplicates before doing any work.** Some slugs appear in multiple taxonomy categories. To prevent writing the same content twice, apply this rule:
+
+   **Canonical category map** (slug → one true category):
+   - `chased-by-animal-dream` → `animals`
+   - `winning-lottery-dream` → `money`
+   - `elevator-dream` → `transportation`
+
+   First, check whether a content file for this slug already exists anywhere under `data/content/`:
+   ```bash
+   find /Users/llnormll/WorkSpace/my-fortune-site/data/content -name "{slug}.json" 2>/dev/null
+   ```
+   If a file is found, **stop immediately** and report: "Content for `{slug}` already exists at `{found_path}` — skipping to avoid duplicate." Do not regenerate or overwrite.
+
+   If the caller-provided category conflicts with the canonical map above (e.g., caller passes `places` but the canonical is `transportation`), use the canonical category and notify the caller.
+
+2. **Read the research data.** Read the research JSON file from `data/research/{category}/{slug}.json` where `{category}` and `{slug}` are provided by the caller (e.g., `data/research/animals/snake-dream.json`). Parse and understand all dream symbol data, interpretations, variations, cultural context, and westernContext contained within.
 
 2. **Read the taxonomy entry.** Read the relevant taxonomy category file (e.g., `data/taxonomy/actions.json`) to find the symbol's `koreanSlug` field. This is required for constructing the correct Korean URL (`/ko/꿈해몽/{koreanSlug}`). Search the taxonomy files in `data/taxonomy/` for an entry whose `slug` matches the research slug.
 
@@ -163,7 +178,7 @@ When invoked, you must follow these steps:
    - Structured data is valid JSON-LD
    - All required fields are present including `westernContext` in both `ko` and `en`
 
-9. **Write the output file.** Write the complete content JSON to `data/content/{slug}.json`.
+10. **Write the output file.** Write the complete content JSON to `data/content/{category}/{slug}.json` using the canonical category (see step 1). The category subfolder must match — e.g., `data/content/animals/snake-dream.json`, not `data/content/snake-dream.json`.
 
 **Best Practices:**
 
@@ -179,7 +194,7 @@ When invoked, you must follow these steps:
 
 ## Output JSON Structure
 
-The output file at `data/content/{slug}.json` must follow this exact structure:
+The output file at `data/content/{category}/{slug}.json` must follow this exact structure:
 
 ```json
 {

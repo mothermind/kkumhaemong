@@ -5927,5 +5927,32 @@
     "hook_event_name": "Stop",
     "stop_hook_active": false,
     "last_assistant_message": "**Research phase complete** \u2705\n\nAll 24 categories \u00d7 10 symbols = 240 research files done. Next step when you're ready: run `dream-content-agent` for each category to generate full bilingual articles."
+  },
+  {
+    "session_id": "2c61336a-2648-429a-8eae-a46ad585bcc2",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/2c61336a-2648-429a-8eae-a46ad585bcc2.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "last_assistant_message": "Yes \u2014 `\ub3d9\ubb3c\uc5d0\uac8c \ucad3\uae30\ub294 \uafc8` (`chased-by-animal-dream`) exists in both `animals.json` and `actions.json` in the taxonomy. It's a genuine overlap.\n\nFor the **research + content phase**, this is a non-issue because the _plan.json top-10 lists don't include it for either category. But it's a real design question for the full 1,779-article run.\n\n**The right approach is a single canonical content file with cross-category linking:**\n\n- Pick one category as the canonical home (animals wins here \u2014 the specific animal is the primary search intent: \"\ub3d9\ubb3c\uc5d0\uac8c \ucad3\uae30\ub294 \uafc8\ud574\ubabd\" is searched as an animal context)\n- The content file lives at `data/content/animals/chased-by-animal-dream.json`\n- The actions category page can reference/link to it without duplicating content (same slug resolves to the same page)\n- The URL is single: `/ko/\uafc8\ud574\ubabd/\ub3d9\ubb3c\uc5d0\uac8c-\ucad3\uae30\ub294-\uafc8`\n\n**Duplicate content pages = duplicate URLs = canonical confusion = bad for both Google and Naver.** One page, two category paths pointing to it.\n\nThe two confirmed cross-category duplicates in the plan are:\n- `winning-lottery-dream` \u2192 money + numbers (canonical: **money**)\n- `elevator-dream` \u2192 places + transportation (canonical: **transportation**, since the elevator experience is the action)\n\nThese are rare edge cases (~3 slugs out of 1,779). The content agent just needs to write to one canonical path and the taxonomy can reference the slug from both categories for browse/discovery purposes."
+  },
+  {
+    "session_id": "2c61336a-2648-429a-8eae-a46ad585bcc2",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/2c61336a-2648-429a-8eae-a46ad585bcc2.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "last_assistant_message": "Done. Three changes made to `dream-content-agent.md`:\n\n1. **New step 1** \u2014 deduplication guard: runs `find` to check if `{slug}.json` already exists anywhere under `data/content/` before doing any work. If found, stops immediately with a skip message.\n\n2. **Canonical category map** embedded in that step \u2014 the 3 known cross-category slugs and their authoritative homes:\n   - `chased-by-animal-dream` \u2192 `animals`\n   - `winning-lottery-dream` \u2192 `money`\n   - `elevator-dream` \u2192 `transportation`\n\n3. **Output path corrected** \u2014 `data/content/{slug}.json` \u2192 `data/content/{category}/{slug}.json` (consistent with the category subfolder structure already used for actions)."
+  },
+  {
+    "session_id": "2c61336a-2648-429a-8eae-a46ad585bcc2",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/2c61336a-2648-429a-8eae-a46ad585bcc2.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "last_assistant_message": "That's actually a different question from what we fixed. Let me separate the two concerns:\n\n**Content file (article page)** \u2014 should only exist once, at one canonical URL. \u2705 Already fixed \u2014 the content agent now writes to one path and skips if it already exists.\n\n**Category browse pages (listing/explore)** \u2014 appearing in both is actually *good*. A user browsing the \"actions\" category who searches for \"\ucad3\uae30\ub294 \uafc8\" should find it there, and a user browsing \"animals\" should also find it. It's just a link to the same article page in both places. No SEO issue since there's only one canonical URL.\n\nThink of it like tags on a blog post \u2014 one article, multiple tags/categories pointing to it. The duplicate risk was always only about accidentally *generating two different articles* for the same dream, which is what the content agent fix prevents.\n\nSo the current setup is correct:\n- Taxonomy: symbol appears in both animals + actions \u2705 (good for discoverability)\n- Article page: one canonical URL, one content file \u2705 (good for SEO)\n\nNo change needed to the taxonomy or the browse UI."
   }
 ]
