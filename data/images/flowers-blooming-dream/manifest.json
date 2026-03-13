@@ -1,0 +1,27 @@
+{
+  "slug": "flowers-blooming-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/flowers-blooming-dream/hero.png",
+    "alt_ko": "한국 산골짜기에 모란, 연꽃, 벚꽃, 장미가 만발하게 피어 있는 수채화풍 꿈해몽 일러스트",
+    "alt_en": "Korean ink-wash illustration of a misty mountain valley filled with blooming peonies, lotus, cherry blossoms, and roses at dawn",
+    "prompt": "A breathtaking field of vibrant mixed wildflowers in full bloom — peonies, lotus blossoms, cherry blossoms, and roses — across a misty Korean mountain valley at dawn, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, golden morning light filtering through petals, no text, no people, warm earth tones with soft pink and gold highlights"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/flowers-blooming-dream/auspicious.png",
+      "alt_ko": "따뜻한 황금빛 햇살 아래 모란과 장미가 활짝 피어 있는 봄 정원 수채화 일러스트",
+      "alt_en": "Korean watercolor illustration of peonies and roses in full bloom under warm golden sunlight, spring garden",
+      "prompt": "A lush garden of peonies and roses bursting into bloom under warm golden sunlight, petals glowing with rich reds, pinks, and yellows, a butterfly resting on a blossom, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike spring morning atmosphere, celebratory and joyful mood, no text, no people, warm golden and rosy palette"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/flowers-blooming-dream/inauspicious.png",
+      "alt_ko": "차가운 가을바람에 꽃잎이 우수수 떨어지고 시든 꽃들이 어두운 정원에 흩어져 있는 수채화 일러스트",
+      "alt_en": "Korean ink-wash illustration of withered flowers with petals falling in a cold dark misty garden",
+      "prompt": "Withered flowers with falling petals scattering in a cold autumn wind, dry brown leaves and wilting blossoms on cracked earth, a single rose losing its last petals in a dark misty garden, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, melancholic and foreboding atmosphere, cool blue-grey and deep shadow tones, no text, no people"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "lotus-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/lotus-dream/hero.png",
+    "alt_ko": "새벽 안개 낀 연못 위에 청아하게 피어난 연꽃 수묵화 일러스트",
+    "alt_en": "A pristine lotus blooming serenely on a misty dawn pond, ink-wash illustration",
+    "prompt": "A pristine lotus flower blooming serenely on a misty pond at dawn, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, no text, no people, muted jade and white color palette with golden morning light"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/lotus-dream/auspicious.png",
+      "alt_ko": "황금빛 연꽃이 햇살 가득한 연못에 만발한 길몽 이미지",
+      "alt_en": "Golden lotus flowers in full bloom on a sunlit pond, symbolizing prosperity and good fortune",
+      "prompt": "Golden lotus flowers in full bloom floating on a sunlit pond with koi fish, warm autumn sunrise, abundant golden light and prosperity symbolism, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike atmosphere, no text, no people, warm earth tones with golden highlights"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/lotus-dream/inauspicious.png",
+      "alt_ko": "폭풍우 치는 밤하늘 아래 시든 연꽃과 떨어진 꽃잎 수묵화",
+      "alt_en": "A wilting withered lotus under a stormy moonlit sky with petals falling on dark water",
+      "prompt": "A wilting withered lotus flower half-submerged in dark murky water under a stormy moonlit sky, fallen petals drifting on still dark water, foreboding atmosphere, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, deep blues and grey shadows, no text, no people"
+    }
+  ]
+}

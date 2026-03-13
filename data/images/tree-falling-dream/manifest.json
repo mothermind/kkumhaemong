@@ -1,0 +1,27 @@
+{
+  "slug": "tree-falling-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/tree-falling-dream/hero.png",
+    "alt_ko": "안개 낀 산속에서 거대한 나무가 쓰러지는 꿈 해몽 이미지",
+    "alt_en": "A massive ancient tree falling in a misty Korean mountain valley — dream interpretation illustration",
+    "prompt": "A massive ancient tree slowly falling in a misty Korean mountain valley, uprooted roots exposed, ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, no text, no people, muted earth tones with deep grey and twilight blues"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/tree-falling-dream/auspicious.png",
+      "alt_ko": "큰 나무가 집 쪽으로 쓰러져 재물이 들어오는 길몽 이미지",
+      "alt_en": "A large tree falling toward a traditional Korean house — auspicious wealth omen illustration",
+      "prompt": "A large tree falling toward a traditional Korean house with warm golden light streaming in, harvest of timber gathered by a farmhouse, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike sunrise atmosphere, no text, no people, warm golden earth tones with soft amber light"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/tree-falling-dream/inauspicious.png",
+      "alt_ko": "폭풍 속 거목이 집 지붕을 무너뜨리는 흉몽 이미지",
+      "alt_en": "A giant ancient tree crashing through a Korean village rooftop in a storm — inauspicious omen illustration",
+      "prompt": "A giant ancient tree crashing down in a stormy night, roots ripped from dark earth, traditional Korean village rooftop crumbling beneath, ink-wash watercolor illustration, Korean traditional painting aesthetic, dark dreamlike atmosphere, no text, no people, deep indigo and charcoal tones with storm-grey sky"
+    }
+  ]
+}

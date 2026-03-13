@@ -1,0 +1,27 @@
+{
+  "slug": "cherry-blossom-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/cherry-blossom-dream/hero.png",
+    "alt_ko": "안개 낀 봄 길을 따라 활짝 핀 벚꽃나무, 수채화 풍 한국화 일러스트",
+    "alt_en": "Cherry blossom trees in full bloom along a misty spring path, soft ink-wash watercolor illustration",
+    "prompt": "Cherry blossom trees in full magnificent bloom along a misty spring path, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, delicate pink petals catching soft morning light, no text, no people, pale pink and soft white color palette with golden light"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/cherry-blossom-dream/auspicious.png",
+      "alt_ko": "따뜻한 황금빛 일출 아래 가득 핀 벚꽃 가지, 봄날의 길몽",
+      "alt_en": "Cherry blossom branches in full bloom under warm golden sunrise light, auspicious spring energy",
+      "prompt": "Cherry blossom branches heavy with blooms under warm golden sunrise light, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty morning atmosphere, petals glowing with warm golden light, auspicious spring energy, no text, no people, warm golden and soft pink color palette with sunrise hues"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/cherry-blossom-dream/inauspicious.png",
+      "alt_ko": "황혼 속 차가운 바람에 흩날리는 벚꽃잎, 이별의 쓸쓸한 분위기",
+      "alt_en": "Cherry blossom petals falling and scattering in a cold wind at dusk, melancholy mood of parting",
+      "prompt": "Cherry blossom petals falling and scattering in a cold wind at dusk, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), melancholy dreamlike atmosphere, bare branches visible as petals fall into darkness, bittersweet parting mood, no text, no people, cool blue and deep grey palette with fading lavender tones"
+    }
+  ]
+}

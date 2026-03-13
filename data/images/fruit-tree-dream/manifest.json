@@ -1,0 +1,27 @@
+{
+  "slug": "fruit-tree-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/fruit-tree-dream/hero.png",
+    "alt_ko": "잎이 무성하고 탐스러운 열매가 가득 달린 나무, 한국화 수묵 수채화 스타일",
+    "alt_en": "A lush fruit-bearing tree with abundant ripe fruit, soft ink-wash Korean painting style",
+    "prompt": "A lush fruit-bearing tree with abundant ripe fruit hanging from every branch, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty mountain atmosphere, warm golden afternoon light filtering through leaves, no text, no people, muted earth tones with golden accents"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/fruit-tree-dream/auspicious.png",
+      "alt_ko": "황금빛 아침 햇살을 받으며 탐스러운 열매가 가득 달린 나무, 풍요와 길몽 상징",
+      "alt_en": "A majestic fruit tree overflowing with golden ripe fruit in warm sunrise light, symbolizing abundance and good fortune",
+      "prompt": "A majestic fruit tree overflowing with golden ripe fruit bathed in warm sunrise light, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, harvest season abundance, warm earth tones with golden and amber hues, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/fruit-tree-dream/inauspicious.png",
+      "alt_ko": "썩은 열매가 어두운 땅으로 떨어지는 앙상한 나무, 흉몽 경고의 상징",
+      "alt_en": "A bare tree with rotting fruit falling to dark ground under stormy skies, symbolizing inauspicious warning",
+      "prompt": "A bare tree with rotting fruit falling to the dark ground, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), overcast stormy night atmosphere, cold blue-grey tones with deep shadows, decaying fruit scattered on dark earth, no text, no people"
+    }
+  ]
+}

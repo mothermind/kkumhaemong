@@ -1,0 +1,11 @@
+{
+  "_comment": "Maps slugs that appear in multiple taxonomy categories to their single canonical content category. Only one content file should exist per slug — this file is the source of truth. When adding a new multi-category symbol, add it here before running the content agent.",
+  "canonicals": {
+    "chased-by-animal-dream": "animals",
+    "winning-lottery-dream": "money",
+    "elevator-dream": "transportation",
+    "drowning-dream": "water",
+    "falling-into-water-dream": "water",
+    "war-dream": "disasters"
+  }
+}

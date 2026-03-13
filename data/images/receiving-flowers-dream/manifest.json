@@ -1,0 +1,27 @@
+{
+  "slug": "receiving-flowers-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/receiving-flowers-dream/hero.png",
+    "alt_ko": "아름다운 꽃다발을 받는 꿈 — 한국화 스타일의 수채화 일러스트",
+    "alt_en": "A beautiful bouquet of vibrant flowers — Korean ink-wash watercolor illustration",
+    "prompt": "A beautiful bouquet of vibrant flowers being gently held, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, blooming peonies and roses with golden morning light, no text, no people, warm peach and gold color palette"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/receiving-flowers-dream/auspicious.png",
+      "alt_ko": "찬란하게 피어난 붉고 황금빛 꽃들 — 길몽을 상징하는 봄날의 꽃",
+      "alt_en": "Radiant red and golden blooming flowers in warm sunrise light — auspicious dream symbol",
+      "prompt": "A radiant arrangement of blooming red and golden flowers bathed in warm sunrise light, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, fortune and celebration motifs, spring blossoms, no text, no people, warm earth tones and golden light"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/receiving-flowers-dream/inauspicious.png",
+      "alt_ko": "시들고 어두운 꽃다발 — 흉몽을 암시하는 어둠 속의 꽃",
+      "alt_en": "Wilted and decaying darkened flowers in shadow — inauspicious dream symbol",
+      "prompt": "A wilted and decaying bouquet of darkened flowers lying in shadow, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike somber atmosphere, fallen petals, night mist and dark storm clouds, no text, no people, cool blue and deep indigo color palette"
+    }
+  ]
+}

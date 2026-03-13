@@ -1,0 +1,27 @@
+{
+  "slug": "flowers-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/flowers-dream/hero.png",
+    "alt_ko": "새벽 안개 속 한국 산등성이에 활짝 핀 야생화 — 꽃 꿈해몽 대표 이미지",
+    "alt_en": "Wildflowers in full bloom on a misty Korean hillside at dawn — flowers dream interpretation hero image",
+    "prompt": "Vibrant wildflowers in full bloom on a misty Korean hillside at dawn, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, golden morning light filtering through petals, no text, no people, soft earth tones with warm golden highlights"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/flowers-dream/auspicious.png",
+      "alt_ko": "황금빛 봄 햇살 아래 활짝 피어난 꽃다발 — 꽃 꿈 길몽",
+      "alt_en": "A bouquet of golden and red flowers glowing in warm spring sunlight — auspicious flower dream",
+      "prompt": "A bouquet of golden and red flowers glowing with warm light, blossoms opening on a sunlit spring morning, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, warm earth tones, golden sunrise light, abundant petals, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/flowers-dream/inauspicious.png",
+      "alt_ko": "폭풍 밤하늘 아래 흩날리는 꽃잎들 — 꽃이 지는 꿈 흉몽",
+      "alt_en": "Wilting flower petals scattering in the wind under a stormy night sky — inauspicious wilting flower dream",
+      "prompt": "Wilting and falling flower petals scattering in the wind under a stormy night sky, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike dark atmosphere, deep blue-grey shadows, bare branches, petals drifting downward, mournful mood, no text, no people"
+    }
+  ]
+}

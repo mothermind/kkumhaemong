@@ -1,0 +1,27 @@
+{
+  "slug": "rose-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/rose-dream/hero.png",
+    "alt_ko": "꿈속에서 이슬에 젖은 잎 위에 활짝 핀 완벽한 붉은 장미 — 장미 꿈해몽",
+    "alt_en": "A perfect red rose in full bloom resting on dewy leaves in a dream — rose dream interpretation",
+    "prompt": "A single perfect red rose in full bloom resting on misty morning dew-covered leaves, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, no text, no people, rich crimson and deep green palette with golden morning light"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/rose-dream/auspicious.png",
+      "alt_ko": "황금빛 일출 아래 만발한 장미꽃밭 — 길몽 장미 꿈",
+      "alt_en": "A lush rose garden in full bloom under golden sunrise light — auspicious rose dream",
+      "prompt": "A lush rose garden in full bloom under warm golden sunrise light, roses in vibrant reds and pinks cascading over a stone garden wall, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, no text, no people, warm golden and crimson palette with soft spring haze"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/rose-dream/inauspicious.png",
+      "alt_ko": "폭풍우 속에 시들고 가시만 남은 장미 — 흉몽 장미 꿈",
+      "alt_en": "A wilting rose with fallen petals under a stormy sky — inauspicious rose dream",
+      "prompt": "A single wilting rose with fallen petals scattered on dark wet ground, thorns prominent, under a stormy grey sky with deep shadows, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), somber dreamlike atmosphere, no text, no people, cool blues and deep greys with muted crimson tones"
+    }
+  ]
+}

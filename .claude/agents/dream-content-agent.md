@@ -16,10 +16,7 @@ When invoked, you must follow these steps:
 
 1. **Check for duplicates before doing any work.** Some slugs appear in multiple taxonomy categories. To prevent writing the same content twice, apply this rule:
 
-   **Canonical category map** (slug → one true category):
-   - `chased-by-animal-dream` → `animals`
-   - `winning-lottery-dream` → `money`
-   - `elevator-dream` → `transportation`
+   **Read the canonical map** from `data/taxonomy/canonical-map.json`. This is the single source of truth for slugs that appear in multiple categories. The `canonicals` object maps slug → canonical category.
 
    First, check whether a content file for this slug already exists anywhere under `data/content/`:
    ```bash
@@ -27,7 +24,9 @@ When invoked, you must follow these steps:
    ```
    If a file is found, **stop immediately** and report: "Content for `{slug}` already exists at `{found_path}` — skipping to avoid duplicate." Do not regenerate or overwrite.
 
-   If the caller-provided category conflicts with the canonical map above (e.g., caller passes `places` but the canonical is `transportation`), use the canonical category and notify the caller.
+   If the caller-provided category conflicts with the canonical map (e.g., caller passes `water` but canonical is `actions`), use the canonical category and notify the caller.
+
+   If this slug is not in the canonical map and no existing file is found, proceed with the caller-provided category.
 
 2. **Read the research data.** Read the research JSON file from `data/research/{category}/{slug}.json` where `{category}` and `{slug}` are provided by the caller (e.g., `data/research/animals/snake-dream.json`). Parse and understand all dream symbol data, interpretations, variations, cultural context, and westernContext contained within.
 
@@ -179,6 +178,8 @@ When invoked, you must follow these steps:
    - All required fields are present including `westernContext` in both `ko` and `en`
 
 10. **Write the output file.** Write the complete content JSON to `data/content/{category}/{slug}.json` using the canonical category (see step 1). The category subfolder must match — e.g., `data/content/animals/snake-dream.json`, not `data/content/snake-dream.json`.
+
+    **IMPORTANT: Do NOT upload content to Firestore.** Never run the migration script or write directly to Firestore. Firestore migration is done separately by the user after content generation is complete.
 
 **Best Practices:**
 

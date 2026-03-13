@@ -45,3 +45,6 @@ scripts/firebase-service-account.json
 
 # Dream images — stored in Firebase Storage, not git
 /public/images/dreams/
+
+# Temp files
+/temp

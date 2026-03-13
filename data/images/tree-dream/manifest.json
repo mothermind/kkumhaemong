@@ -1,0 +1,27 @@
+{
+  "slug": "tree-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/tree-dream/hero.png",
+    "alt_ko": "안개 낀 산속에 우뚝 서 있는 거목, 한국화 수묵화 스타일의 꿈 같은 풍경",
+    "alt_en": "A magnificent ancient tree standing in misty mountain landscape, ink-wash Korean painting style dreamscape",
+    "prompt": "A magnificent ancient tree with lush spreading branches in misty mountain landscape, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, golden morning light filtering through leaves, no text, no people, muted greens and earth tones with golden highlights"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/tree-dream/auspicious.png",
+      "alt_ko": "황금 열매와 꽃이 가득한 나무, 풍요와 길몽을 상징하는 따뜻한 봄 풍경",
+      "alt_en": "A tree laden with golden fruit and blossoms in warm sunrise light, symbolizing auspicious wealth and fortune",
+      "prompt": "A vibrant tree laden with golden fruit and blossoms under warm sunrise light, coins and wealth symbols falling like petals, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike atmosphere, warm golden and amber tones, spring motifs, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/tree-dream/inauspicious.png",
+      "alt_ko": "폭풍 속 번개에 쓰러지는 앙상한 나무, 흉몽을 암시하는 어두운 밤 풍경",
+      "alt_en": "A bare dead tree struck by lightning in a stormy night scene, symbolizing inauspicious fallen fortune",
+      "prompt": "A bare dead tree struck by lightning in a stormy night landscape, broken branches falling, dark storm clouds and rain, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, foreboding dreamlike atmosphere, deep cool blues and dark grey tones, no text, no people"
+    }
+  ]
+}
