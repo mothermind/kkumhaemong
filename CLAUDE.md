@@ -21,7 +21,7 @@ A comprehensive bilingual (Korean + English) Korean dream interpretation website
 | i18n | `next-intl` | `/[locale]/` route prefix |
 | Package manager | npm | |
 
-**Important**: Migrating to Firebase (Storage + Firestore) + Vercel Hobby. Content JSON will move from `data/content/` filesystem to Firestore. Images will move from `public/images/dreams/` to Firebase Storage. `fs/promises` stays for taxonomy files only (small/stable). Never use `fs` in client components or non-server code.
+**Important**: Running on Firebase (Storage + Firestore) + Vercel Hobby. Images are in Firebase Storage (`gs://my-fortune-site.firebasestorage.app`, asia-northeast3). Content JSON is in Firestore (collection: `dreams`, doc ID = english slug). `src/lib/content.ts` reads from Firestore via Admin SDK (`src/lib/firestore.ts`). `fs/promises` stays for taxonomy files only. Never use `fs` in client components or non-server code.
 
 ---
 
@@ -81,7 +81,8 @@ src/
 │   └── dream/    DreamHero, DreamSection, DreamVariations, DreamFAQ, RelatedDreams, DreamCard (blog-style)
 ├── lib/
 │   ├── taxonomy.ts  ← server-only, fs/promises, reads data/taxonomy/*.json
-│   └── content.ts   ← server-only, fs/promises; also exports getContentPreviews(), getAvailableContentSlugs()
+│   ├── firestore.ts ← Firebase Admin SDK singleton (credentials from env vars)
+│   └── content.ts   ← server-only, Firestore reads; exports getContent(), getContentPreviews(), getAvailableContentSlugs()
 └── messages/
     ├── ko.json      ← Korean UI strings (nav, labels, footer — NOT article content)
     └── en.json      ← English UI strings
@@ -340,7 +341,7 @@ All hooks are minimal — logging + security only, no TTS, no external API calls
 - **Images**: always use `next/image`, always provide `alt` in both languages, WebP format
 - **No keyword stuffing** — write naturally; FAQ coverage drives rankings more than density
 - **`server-only` on all lib files** — `src/lib/taxonomy.ts` and `src/lib/content.ts` import `"server-only"` to prevent accidental client-side use
-- **Path sanitization in data loaders** — slugs are sanitized (`/[^a-zA-Z0-9_-]/g → ""`) before use in `fs` paths to prevent traversal attacks
+- **Path sanitization in data loaders** — slugs are sanitized (`/[^a-zA-Z0-9_-]/g → ""`) before use as Firestore document IDs to prevent injection
 - **Data files are read-only at runtime** — agents write to `data/` during generation; Next.js only reads
 - **Custom agents must be invoked via general-purpose agent** — `.claude/agents/*.md` files are not directly usable as `subagent_type` in the Agent tool. To run one, read the agent's `.md` file and pass its instructions to a `general-purpose` agent with the appropriate model
 
@@ -348,11 +349,18 @@ All hooks are minimal — logging + security only, no TTS, no external API calls
 
 ## Current State (last updated: 2026-03-13)
 
+### Infrastructure Migration — COMPLETE ✅
+- **Firebase Storage**: All 404 slug image folders uploaded as WebP (was PNG, ~90% size reduction). Bucket: `my-fortune-site.firebasestorage.app` (asia-northeast3). Public URL: `https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/{slug}/{name}.webp`
+- **Firestore**: 408 content docs migrated to collection `dreams` (doc ID = english slug). `src/lib/content.ts` reads from Firestore via Admin SDK.
+- **`public/images/dreams/`**: Added to `.gitignore`, removed from git tracking (795 MB freed)
+- **Env vars required**: `FIREBASE_PROJECT_ID`, `FIREBASE_CLIENT_EMAIL`, `FIREBASE_PRIVATE_KEY` (set in `.env` locally, Vercel env vars for production)
+- **`next.config.ts`**: `remotePatterns` added for `storage.googleapis.com`
+- **Migration scripts**: `scripts/migrate-images-to-firebase.mjs`, `scripts/migrate-content-to-firestore.mjs`
+
 ### Content Pipeline Progress — PHASE 1 COMPLETE ✅
-- **Total articles with content + images: ~401** (161 actions + 240 research-phase symbols)
-- Content files live in `data/content/{category}/{slug}.json` (category subfolder structure)
-- `src/lib/content.ts` supports subdirectory scanning (one level deep)
-- **One known issue**: `crossing-river-dream` content is complete but images are empty placeholders (Imagen 4 returned 403 mid-batch). Prompts saved in `data/images/crossing-river-dream/manifest.json` — retry when convenient.
+- **Total articles: 408** across all 24 categories
+- Content files live in `data/content/{category}/{slug}.json` (also mirrored in Firestore)
+- `crossing-river-dream` images fixed and uploaded ✅
 
 ### All 24 Categories — Research + Content Complete ✅
 - actions: 161/161 ✅
@@ -375,13 +383,8 @@ All hooks are minimal — logging + security only, no TTS, no external API calls
 - [x] ~~Homepage redesign~~ → Hero image + searchbar + category chips + popular dreams list ✅
 - [x] ~~Explorer UI~~ → `/explore` category grid + `/explore/[category]` with subcategory filter pills ✅
 - [x] ~~Bash permission for subagents~~ → `Bash(*)` in `.claude/settings.json` allow list ✅
-- [ ] **URGENT — Infrastructure migration** (replaces Cloudflare R2 plan):
-  - **Images**: Upload `public/images/dreams/` (795 MB) to **Firebase Storage**, update image URLs in content JSONs, add `public/images/dreams/` to `.gitignore`
-  - **Content JSON**: Migrate `data/content/{category}/{slug}.json` files to **Firestore** (one doc per article, keyed by slug)
-  - **Hosting**: Remove `@opennextjs/cloudflare`, deploy to **Vercel Hobby**
-  - **`src/lib/content.ts`**: Replace `fs` reads with Firestore SDK
-  - **`src/lib/taxonomy.ts`**: Keep on filesystem (small/stable)
-- [ ] Fix `crossing-river-dream` images (retry Imagen 4 — prompts in `data/images/crossing-river-dream/manifest.json`)
+- [x] ~~Infrastructure migration~~ → Firebase Storage + Firestore + Vercel Hobby ✅
+- [ ] **Deploy to Vercel**: Remove `@opennextjs/cloudflare`, connect repo, set Firebase env vars in Vercel dashboard
 - [ ] Ad slot implementation: replace placeholder divs with real AdSense + Kakao AdFit units
 - [ ] Naver Blog mirroring: manual vs semi-automated
 - [ ] Rename `src/middleware.ts` → `src/proxy.ts` (Next.js 16 deprecation)
@@ -412,6 +415,6 @@ WordPress blog, 217+ pages, `.co.kr` domain (Naver advantage from domain age/reg
 
 - ✅ URL structure: Option A — `/ko/꿈해몽/[koreanSlug]` + `/en/dream/[englishSlug]`
 - ✅ i18n: `next-intl` v3 with App Router, `[locale]` segment, pathname localization
-- ✅ Data loading: `fs/promises` + `server-only` (Cloudflare Workers Node.js compat)
+- ✅ Data loading: Firestore (content) + `fs/promises` (taxonomy only) — both `server-only`
 - ✅ Fonts: Noto Sans KR (Korean locale) + Geist (English locale), applied via `font-[family-name:var()]`
 - ✅ Language toggle: `Link` with `locale` prop (navigates to equivalent URL, not in-place swap)

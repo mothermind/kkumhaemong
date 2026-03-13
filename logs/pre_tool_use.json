@@ -3976,5 +3976,505 @@
       "replace_all": false
     },
     "tool_use_id": "toolu_015tUPuujkdBjhSB8KArtmgu"
+  },
+  {
+    "session_id": "2c61336a-2648-429a-8eae-a46ad585bcc2",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/2c61336a-2648-429a-8eae-a46ad585bcc2.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Bash",
+    "tool_input": {
+      "command": "ls /Users/llnormll/WorkSpace/my-fortune-site/data/content/ && echo \"---\" && ls /Users/llnormll/WorkSpace/my-fortune-site/data/content/ | wc -l",
+      "description": "Check content directory structure"
+    },
+    "tool_use_id": "toolu_01Dhs8uacf6fRzsvtAJEzyDP"
+  },
+  {
+    "session_id": "2c61336a-2648-429a-8eae-a46ad585bcc2",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/2c61336a-2648-429a-8eae-a46ad585bcc2.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Bash",
+    "tool_input": {
+      "command": "ls /Users/llnormll/WorkSpace/my-fortune-site/data/content/animals/ | head -5 && echo \"---\" && find /Users/llnormll/WorkSpace/my-fortune-site/data/content -name \"*.json\" | wc -l",
+      "description": "Check total content JSON count"
+    },
+    "tool_use_id": "toolu_01XtmUeXFLRE16htptYNYYyh"
+  },
+  {
+    "session_id": "2c61336a-2648-429a-8eae-a46ad585bcc2",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/2c61336a-2648-429a-8eae-a46ad585bcc2.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Write",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/scripts/migrate-content-to-firestore.mjs",
+      "content": "/**\n * Migrate content JSONs to Firestore\n * Collection: \"dreams\", document ID: slug (e.g. \"snake-dream\")\n *\n * Usage:\n *   node scripts/migrate-content-to-firestore.mjs\n *   node scripts/migrate-content-to-firestore.mjs --dry-run\n *   node scripts/migrate-content-to-firestore.mjs --slug snake-dream\n */\n\nimport { readdir, readFile } from \"fs/promises\";\nimport { join, dirname, basename } from \"path\";\nimport { fileURLToPath } from \"url\";\nimport { existsSync } from \"fs\";\nimport admin from \"firebase-admin\";\n\nconst __dirname = dirname(fileURLToPath(import.meta.url));\nconst PROJECT_ROOT = join(__dirname, \"..\");\nconst CONTENT_DIR = join(PROJECT_ROOT, \"data/content\");\nconst SERVICE_ACCOUNT_PATH = join(__dirname, \"firebase-service-account.json\");\n\nconst DRY_RUN = process.argv.includes(\"--dry-run\");\nconst SINGLE_SLUG = process.argv.includes(\"--slug\")\n  ? process.argv[process.argv.indexOf(\"--slug\") + 1]\n  : null;\n\n// Firestore batch limit is 500 writes per batch\nconst BATCH_SIZE = 400;\n\n// Initialize Firebase Admin\nconst serviceAccount = JSON.parse(await readFile(SERVICE_ACCOUNT_PATH, \"utf8\"));\nadmin.initializeApp({\n  credential: admin.credential.cert(serviceAccount),\n});\nconst db = admin.firestore();\nconst collection = db.collection(\"dreams\");\n\nlet uploaded = 0;\nlet skipped = 0;\nlet failed = 0;\n\nasync function getAllContentFiles() {\n  const results = [];\n  const categories = await readdir(CONTENT_DIR, { withFileTypes: true });\n  for (const cat of categories.filter((e) => e.isDirectory())) {\n    const files = await readdir(join(CONTENT_DIR, cat.name));\n    for (const file of files.filter((f) => f.endsWith(\".json\"))) {\n      results.push({\n        category: cat.name,\n        slug: basename(file, \".json\"),\n        path: join(CONTENT_DIR, cat.name, file),\n      });\n    }\n  }\n  return results.sort((a, b) => a.slug.localeCompare(b.slug));\n}\n\nasync function migrateInBatches(files) {\n  let batch = db.batch();\n  let batchCount = 0;\n  let batchNum = 1;\n\n  for (const { category, slug, path } of files) {\n    let data;\n    try {\n      const raw = await readFile(path, \"utf8\");\n      data = JSON.parse(raw);\n    } catch (err) {\n      console.error(`\u274c Invalid JSON [${slug}]: ${err.message}`);\n      failed++;\n      continue;\n    }\n\n    // Add category field so we can query by category later\n    const doc = { ...data, category, slug };\n\n    if (DRY_RUN) {\n      console.log(`  [DRY RUN] Would write: dreams/${slug}`);\n      uploaded++;\n      continue;\n    }\n\n    batch.set(collection.doc(slug), doc);\n    batchCount++;\n    uploaded++;\n\n    // Commit batch when full\n    if (batchCount >= BATCH_SIZE) {\n      process.stdout.write(`  Committing batch ${batchNum} (${batchCount} docs)... `);\n      await batch.commit();\n      console.log(\"\u2705\");\n      batch = db.batch();\n      batchCount = 0;\n      batchNum++;\n    }\n  }\n\n  // Commit remaining\n  if (batchCount > 0 && !DRY_RUN) {\n    process.stdout.write(`  Committing batch ${batchNum} (${batchCount} docs)... `);\n    await batch.commit();\n    console.log(\"\u2705\");\n  }\n}\n\n// Main\nconsole.log(`\ud83d\ude80 Firestore Content Migration`);\nconsole.log(`   Collection: dreams`);\nconsole.log(`   Batch size: ${BATCH_SIZE}`);\nif (DRY_RUN) console.log(`   Mode: DRY RUN`);\nif (SINGLE_SLUG) console.log(`   Slug: ${SINGLE_SLUG} only`);\nconsole.log(\"\");\n\nlet files = await getAllContentFiles();\n\nif (SINGLE_SLUG) {\n  files = files.filter((f) => f.slug === SINGLE_SLUG);\n  if (files.length === 0) {\n    console.error(`No content file found for slug: ${SINGLE_SLUG}`);\n    process.exit(1);\n  }\n}\n\nconsole.log(`\ud83d\udcc1 Found ${files.length} content files\\n`);\n\n// List all files being migrated\nfor (const { category, slug } of files) {\n  console.log(`  ${category}/${slug}`);\n}\nconsole.log(\"\");\n\nawait migrateInBatches(files);\n\nconsole.log(`\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\u2705 Done\n   Uploaded: ${uploaded}\n   Failed:   ${failed}\n${DRY_RUN ? \"\\n\u26a0\ufe0f  DRY RUN \u2014 nothing was written to Firestore\" : \"\"}\n`);\n\nprocess.exit(0);\n"
+    },
+    "tool_use_id": "toolu_017Ysb1AU7oRuUcmGY67y2Ft"
+  },
+  {
+    "session_id": "2c61336a-2648-429a-8eae-a46ad585bcc2",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/2c61336a-2648-429a-8eae-a46ad585bcc2.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Bash",
+    "tool_input": {
+      "command": "node scripts/migrate-content-to-firestore.mjs --dry-run --slug snake-dream 2>&1",
+      "description": "Dry run on single slug"
+    },
+    "tool_use_id": "toolu_01Qtre1trzUHmUv8sZDvJhnR"
+  },
+  {
+    "session_id": "2c61336a-2648-429a-8eae-a46ad585bcc2",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/2c61336a-2648-429a-8eae-a46ad585bcc2.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Bash",
+    "tool_input": {
+      "command": "node scripts/migrate-content-to-firestore.mjs --slug snake-dream 2>&1",
+      "description": "Test real write for snake-dream"
+    },
+    "tool_use_id": "toolu_01ANRuRk9M5LnGH4sHbRMbf6"
+  },
+  {
+    "session_id": "2c61336a-2648-429a-8eae-a46ad585bcc2",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/2c61336a-2648-429a-8eae-a46ad585bcc2.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Bash",
+    "tool_input": {
+      "command": "node scripts/migrate-content-to-firestore.mjs 2>&1",
+      "timeout": 300000,
+      "description": "Migrate all 408 content files to Firestore"
+    },
+    "tool_use_id": "toolu_01EJP1CY2rsfFU6cknmXmXze"
+  },
+  {
+    "session_id": "2c61336a-2648-429a-8eae-a46ad585bcc2",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/2c61336a-2648-429a-8eae-a46ad585bcc2.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Bash",
+    "tool_input": {
+      "command": "python3 -c \"import json; json.load(open('/Users/llnormll/WorkSpace/my-fortune-site/data/content/actions/sleep-paralysis-dream.json'))\" 2>&1",
+      "description": "Find JSON error in sleep-paralysis-dream"
+    },
+    "tool_use_id": "toolu_0134un6y8AU8AG6pKw3ajPXh"
+  },
+  {
+    "session_id": "2c61336a-2648-429a-8eae-a46ad585bcc2",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/2c61336a-2648-429a-8eae-a46ad585bcc2.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Bash",
+    "tool_input": {
+      "command": "find /Users/llnormll/WorkSpace/my-fortune-site/data/content -name \"sleep-paralysis-dream.json\"",
+      "description": "Find sleep-paralysis-dream file"
+    },
+    "tool_use_id": "toolu_01UjAry7u7MRG8L7xAg3UtBL"
+  },
+  {
+    "session_id": "2c61336a-2648-429a-8eae-a46ad585bcc2",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/2c61336a-2648-429a-8eae-a46ad585bcc2.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Read",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/data/content/body/sleep-paralysis-dream.json",
+      "offset": 55,
+      "limit": 8
+    },
+    "tool_use_id": "toolu_01WkfA2hzY6NfVCVyHyKjCWv"
+  },
+  {
+    "session_id": "2c61336a-2648-429a-8eae-a46ad585bcc2",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/2c61336a-2648-429a-8eae-a46ad585bcc2.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Bash",
+    "tool_input": {
+      "command": "python3 -c \"\ndata = open('/Users/llnormll/WorkSpace/my-fortune-site/data/content/body/sleep-paralysis-dream.json').read()\npos = 4369\nprint(repr(data[pos-50:pos+50]))\n\"",
+      "description": "Show characters around the JSON error position"
+    },
+    "tool_use_id": "toolu_01FvrkLfvJGmPTbpzXtF6WLJ"
+  },
+  {
+    "session_id": "2c61336a-2648-429a-8eae-a46ad585bcc2",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/2c61336a-2648-429a-8eae-a46ad585bcc2.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Bash",
+    "tool_input": {
+      "command": "python3 -c \"\ndata = open('/Users/llnormll/WorkSpace/my-fortune-site/data/content/body/sleep-paralysis-dream.json', 'rb').read()\npos = 4369\nchunk = data[pos-100:pos+100]\nfor i, b in enumerate(chunk):\n    if b > 127 or b < 32:\n        continue\n    print(f'offset {pos-100+i}: {chr(b)!r} (0x{b:02x})')\n\" | grep -E '0x22|0x27'",
+      "description": "Find unescaped quotes near error position"
+    },
+    "tool_use_id": "toolu_01PXUxxzaEKmQvDhHpnDwUhe"
+  },
+  {
+    "session_id": "2c61336a-2648-429a-8eae-a46ad585bcc2",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/2c61336a-2648-429a-8eae-a46ad585bcc2.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Bash",
+    "tool_input": {
+      "command": "python3 -c \"\nimport json\ndata = open('/Users/llnormll/WorkSpace/my-fortune-site/data/content/body/sleep-paralysis-dream.json').read()\n# Find all unescaped double quotes inside strings\n# Try parsing and see what the actual issue is\ntry:\n    json.loads(data)\nexcept json.JSONDecodeError as e:\n    print(f'Error at pos {e.pos}, line {e.lineno}, col {e.colno}')\n    print(repr(data[e.pos-30:e.pos+30]))\n\"",
+      "description": "Get exact error context in sleep-paralysis-dream JSON"
+    },
+    "tool_use_id": "toolu_01WwWWEm2qWv6kS6CkXNZL6u"
+  },
+  {
+    "session_id": "2c61336a-2648-429a-8eae-a46ad585bcc2",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/2c61336a-2648-429a-8eae-a46ad585bcc2.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Bash",
+    "tool_input": {
+      "command": "python3 -c \"\ndata = open('/Users/llnormll/WorkSpace/my-fortune-site/data/content/body/sleep-paralysis-dream.json').read()\npos = 4369\n# Show 200 chars around the error\nprint(data[pos-50:pos+150])\n\"",
+      "description": "Show the broken section"
+    },
+    "tool_use_id": "toolu_01G1fzvhyTg2RuTGCTPTM5GW"
+  },
+  {
+    "session_id": "2c61336a-2648-429a-8eae-a46ad585bcc2",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/2c61336a-2648-429a-8eae-a46ad585bcc2.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/data/content/body/sleep-paralysis-dream.json",
+      "old_string": "\uadf8 \uc124\uba85\uc744 \ubcf4\uba74 \"\uc7a0\ub4e4\uc5c8\uc744 \ub54c \ud63c\ubc31\uc774 \ubab8 \ubc16\uc73c\ub85c \uc7a0\uc2dc \ub098\uac00\ub294\ub370 \uadf8 \ud2c8\uc5d0 \uadc0\uc0ac(\u9b3c\u90aa)\uac00 \uce68\uc785\ud558\uc5ec \uc815\uc2e0\uc744 \uad74\ubcf5\uc2dc\ud0a4\ub294 \uac83\"\uc774\ub77c\uace0 \uae30\ub85d\ub418\uc5b4 \uc788\uc5b4\uc694.",
+      "new_string": "\uadf8 \uc124\uba85\uc744 \ubcf4\uba74 \\\"\uc7a0\ub4e4\uc5c8\uc744 \ub54c \ud63c\ubc31\uc774 \ubab8 \ubc16\uc73c\ub85c \uc7a0\uc2dc \ub098\uac00\ub294\ub370 \uadf8 \ud2c8\uc5d0 \uadc0\uc0ac(\u9b3c\u90aa)\uac00 \uce68\uc785\ud558\uc5ec \uc815\uc2e0\uc744 \uad74\ubcf5\uc2dc\ud0a4\ub294 \uac83\\\"\uc774\ub77c\uace0 \uae30\ub85d\ub418\uc5b4 \uc788\uc5b4\uc694.",
+      "replace_all": false
+    },
+    "tool_use_id": "toolu_013wAmtEC1MAdRnjn6xATJAg"
+  },
+  {
+    "session_id": "2c61336a-2648-429a-8eae-a46ad585bcc2",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/2c61336a-2648-429a-8eae-a46ad585bcc2.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Bash",
+    "tool_input": {
+      "command": "python3 -c \"import json; json.load(open('/Users/llnormll/WorkSpace/my-fortune-site/data/content/body/sleep-paralysis-dream.json')); print('OK')\"",
+      "description": "Verify JSON is now valid"
+    },
+    "tool_use_id": "toolu_01E2PgLEdw5Bn2YUzZpnjgdK"
+  },
+  {
+    "session_id": "2c61336a-2648-429a-8eae-a46ad585bcc2",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/2c61336a-2648-429a-8eae-a46ad585bcc2.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/scripts/migrate-content-to-firestore.mjs",
+      "old_string": "const BATCH_SIZE = 400;",
+      "new_string": "const BATCH_SIZE = 20;",
+      "replace_all": false
+    },
+    "tool_use_id": "toolu_01FZXq677XgFFbGwtSvtqoUr"
+  },
+  {
+    "session_id": "2c61336a-2648-429a-8eae-a46ad585bcc2",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/2c61336a-2648-429a-8eae-a46ad585bcc2.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Bash",
+    "tool_input": {
+      "command": "find /Users/llnormll/WorkSpace/my-fortune-site/data/content -name \"*.json\" | sort | xargs -I{} python3 -c \"\nimport json, sys\ntry:\n    json.load(open('{}'))\nexcept Exception as e:\n    print('INVALID: {} \u2014 ' + str(e))\n\" 2>/dev/null | grep INVALID",
+      "description": "Scan all content JSONs for invalid syntax"
+    },
+    "tool_use_id": "toolu_01SYoZ4YqALChTTUnYnAMLGP"
+  },
+  {
+    "session_id": "2c61336a-2648-429a-8eae-a46ad585bcc2",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/2c61336a-2648-429a-8eae-a46ad585bcc2.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Bash",
+    "tool_input": {
+      "command": "node scripts/migrate-content-to-firestore.mjs 2>&1",
+      "timeout": 300000,
+      "description": "Migrate all 408 content files to Firestore"
+    },
+    "tool_use_id": "toolu_01S62nkHR2joPZzjjRUkJ8Vf"
+  },
+  {
+    "session_id": "2c61336a-2648-429a-8eae-a46ad585bcc2",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/2c61336a-2648-429a-8eae-a46ad585bcc2.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Read",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/lib/content.ts"
+    },
+    "tool_use_id": "toolu_01DqBq7bERnKQSTxhwJQJ51v"
+  },
+  {
+    "session_id": "2c61336a-2648-429a-8eae-a46ad585bcc2",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/2c61336a-2648-429a-8eae-a46ad585bcc2.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Bash",
+    "tool_input": {
+      "command": "npm list firebase-admin | head -3 && npm list firebase | head -3",
+      "description": "Check firebase packages installed"
+    },
+    "tool_use_id": "toolu_01YY3hSBsTWvfhbv1zDuen8X"
+  },
+  {
+    "session_id": "2c61336a-2648-429a-8eae-a46ad585bcc2",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/2c61336a-2648-429a-8eae-a46ad585bcc2.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Bash",
+    "tool_input": {
+      "command": "npm install firebase-admin --save 2>&1 | tail -3",
+      "description": "Move firebase-admin to regular dependency"
+    },
+    "tool_use_id": "toolu_0166aW37mx8FZztuZTrawAni"
+  },
+  {
+    "session_id": "2c61336a-2648-429a-8eae-a46ad585bcc2",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/2c61336a-2648-429a-8eae-a46ad585bcc2.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Write",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/lib/firestore.ts",
+      "content": "/**\n * Firebase Admin SDK singleton for server-side Firestore access.\n * Credentials come from environment variables set in Vercel (or .env.local for dev).\n */\n\nimport \"server-only\";\nimport admin from \"firebase-admin\";\n\nfunction getApp(): admin.app.App {\n  if (admin.apps.length > 0) return admin.apps[0]!;\n\n  return admin.initializeApp({\n    credential: admin.credential.cert({\n      projectId: process.env.FIREBASE_PROJECT_ID,\n      clientEmail: process.env.FIREBASE_CLIENT_EMAIL,\n      // Vercel stores multiline env vars with literal \\n \u2014 replace them\n      privateKey: process.env.FIREBASE_PRIVATE_KEY?.replace(/\\\\n/g, \"\\n\"),\n    }),\n  });\n}\n\nexport function getFirestore(): admin.firestore.Firestore {\n  return getApp().firestore();\n}\n"
+    },
+    "tool_use_id": "toolu_01KRcRyhrVPtkcjwYQV1Mt1x"
+  },
+  {
+    "session_id": "2c61336a-2648-429a-8eae-a46ad585bcc2",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/2c61336a-2648-429a-8eae-a46ad585bcc2.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Write",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/lib/content.ts",
+      "content": "/**\n * Content data access utilities.\n * Reads from Firestore collection \"dreams\", document ID = english slug.\n */\n\nimport \"server-only\";\nimport type { Locale } from \"@/i18n/routing\";\nimport { getSymbolBySlug } from \"./taxonomy\";\nimport { getFirestore } from \"./firestore\";\n\nexport type ContentSection = {\n  type: string;\n  heading: string;\n  body: string;\n  imageRef?: string;\n};\n\nexport type ContentVariation = {\n  keyword: string;\n  heading: string;\n  body: string;\n};\n\nexport type ContentFAQ = {\n  question: string;\n  answer: string;\n};\n\nexport type LocaleContent = {\n  title: string;\n  metaDescription: string;\n  h1: string;\n  intro: string;\n  sections: ContentSection[];\n  variations: ContentVariation[];\n  culturalContext: string;\n  /** Bilingual western psychology section (Freud/Jung/modern/cross-cultural). Markdown string. */\n  westernContext?: string;\n  faqs: ContentFAQ[];\n  conclusion: string;\n};\n\nexport type DreamContent = {\n  ko: LocaleContent;\n  en: LocaleContent;\n  images: {\n    hero?: string;\n    sections?: Record<string, string>;\n  };\n  seo: {\n    slug: string;\n    koreanSlug: string;\n    ogTitle: { ko: string; en: string };\n    ogDescription: { ko: string; en: string };\n    ogImage?: string;\n    structuredData: {\n      faqSchema: object | null;\n      articleSchema: object | null;\n    };\n    hreflang: { ko: string; en: string };\n    relatedSlugs?: string[];\n    naverSEO: { blogPostTitle: string; tags: string[] };\n  };\n};\n\nexport type ContentPreview = {\n  slug: string;\n  koreanSlug: string;\n  title: { ko: string; en: string };\n  excerpt: { ko: string; en: string };\n  heroImage?: string;\n  badgeType: \"auspicious\" | \"inauspicious\" | \"neutral\";\n};\n\nfunction detectBadge(heading: string): ContentPreview[\"badgeType\"] {\n  if (heading.includes(\"\uae38\ubabd\") || /auspicious/i.test(heading)) return \"auspicious\";\n  if (heading.includes(\"\ud749\ubabd\") || /inauspicious/i.test(heading)) return \"inauspicious\";\n  return \"neutral\";\n}\n\nexport async function getAvailableContentSlugs(): Promise<string[]> {\n  try {\n    const db = getFirestore();\n    const refs = await db.collection(\"dreams\").listDocuments();\n    return refs.map((r) => r.id);\n  } catch {\n    return [];\n  }\n}\n\nexport async function getContentPreviews(slugs?: string[]): Promise<ContentPreview[]> {\n  try {\n    const db = getFirestore();\n    const targetSlugs = slugs ?? (await getAvailableContentSlugs());\n\n    // Fetch in batches of 10 (Firestore `in` query limit)\n    const previews: ContentPreview[] = [];\n    for (let i = 0; i < targetSlugs.length; i += 10) {\n      const batch = targetSlugs.slice(i, i + 10);\n      const snap = await db\n        .collection(\"dreams\")\n        .where(admin.firestore.FieldPath.documentId(), \"in\", batch)\n        .get();\n\n      for (const doc of snap.docs) {\n        // eslint-disable-next-line @typescript-eslint/no-explicit-any\n        const data = doc.data() as any;\n        const firstHeading = data?.ko?.sections?.[0]?.heading ?? \"\";\n        previews.push({\n          slug: doc.id,\n          koreanSlug: data?.seo?.koreanSlug ?? \"\",\n          title: { ko: data?.ko?.title ?? \"\", en: data?.en?.title ?? \"\" },\n          excerpt: {\n            ko: (data?.ko?.intro ?? \"\").slice(0, 130).trim() + \"\u2026\",\n            en: (data?.en?.intro ?? \"\").slice(0, 130).trim() + \"\u2026\",\n          },\n          heroImage: data?.images?.hero,\n          badgeType: detectBadge(firstHeading),\n        });\n      }\n    }\n    return previews;\n  } catch {\n    return [];\n  }\n}\n\nexport async function getContent(\n  slug: string,\n  locale: Locale\n): Promise<DreamContent | null> {\n  const resolvedSlug = await resolveToEnglishSlug(slug, locale);\n  if (!resolvedSlug) return null;\n\n  // Sanitize slug\n  const safe = resolvedSlug.replace(/[^a-zA-Z0-9_-]/g, \"\");\n\n  try {\n    const db = getFirestore();\n    const doc = await db.collection(\"dreams\").doc(safe).get();\n    if (!doc.exists) return null;\n    return doc.data() as DreamContent;\n  } catch {\n    return null;\n  }\n}\n\n// Korean pages use koreanSlug in the URL \u2014 resolve to english slug for Firestore lookup\nasync function resolveToEnglishSlug(\n  slug: string,\n  locale: Locale\n): Promise<string | null> {\n  if (locale === \"en\") return slug;\n\n  const symbol = await getSymbolBySlug(slug, \"ko\");\n  return symbol?.slug ?? null;\n}\n\n// Need admin import for FieldPath in getContentPreviews\nimport admin from \"firebase-admin\";\n"
+    },
+    "tool_use_id": "toolu_01G38oEQrKY48RF1ginZxAvM"
+  },
+  {
+    "session_id": "2c61336a-2648-429a-8eae-a46ad585bcc2",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/2c61336a-2648-429a-8eae-a46ad585bcc2.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Write",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/lib/content.ts",
+      "content": "/**\n * Content data access utilities.\n * Reads from Firestore collection \"dreams\", document ID = english slug.\n */\n\nimport \"server-only\";\nimport { FieldPath } from \"firebase-admin/firestore\";\nimport type { Locale } from \"@/i18n/routing\";\nimport { getSymbolBySlug } from \"./taxonomy\";\nimport { getFirestore } from \"./firestore\";\n\nexport type ContentSection = {\n  type: string;\n  heading: string;\n  body: string;\n  imageRef?: string;\n};\n\nexport type ContentVariation = {\n  keyword: string;\n  heading: string;\n  body: string;\n};\n\nexport type ContentFAQ = {\n  question: string;\n  answer: string;\n};\n\nexport type LocaleContent = {\n  title: string;\n  metaDescription: string;\n  h1: string;\n  intro: string;\n  sections: ContentSection[];\n  variations: ContentVariation[];\n  culturalContext: string;\n  /** Bilingual western psychology section (Freud/Jung/modern/cross-cultural). Markdown string. */\n  westernContext?: string;\n  faqs: ContentFAQ[];\n  conclusion: string;\n};\n\nexport type DreamContent = {\n  ko: LocaleContent;\n  en: LocaleContent;\n  images: {\n    hero?: string;\n    sections?: Record<string, string>;\n  };\n  seo: {\n    slug: string;\n    koreanSlug: string;\n    ogTitle: { ko: string; en: string };\n    ogDescription: { ko: string; en: string };\n    ogImage?: string;\n    structuredData: {\n      faqSchema: object | null;\n      articleSchema: object | null;\n    };\n    hreflang: { ko: string; en: string };\n    relatedSlugs?: string[];\n    naverSEO: { blogPostTitle: string; tags: string[] };\n  };\n};\n\nexport type ContentPreview = {\n  slug: string;\n  koreanSlug: string;\n  title: { ko: string; en: string };\n  excerpt: { ko: string; en: string };\n  heroImage?: string;\n  badgeType: \"auspicious\" | \"inauspicious\" | \"neutral\";\n};\n\nfunction detectBadge(heading: string): ContentPreview[\"badgeType\"] {\n  if (heading.includes(\"\uae38\ubabd\") || /auspicious/i.test(heading)) return \"auspicious\";\n  if (heading.includes(\"\ud749\ubabd\") || /inauspicious/i.test(heading)) return \"inauspicious\";\n  return \"neutral\";\n}\n\nexport async function getAvailableContentSlugs(): Promise<string[]> {\n  try {\n    const db = getFirestore();\n    const refs = await db.collection(\"dreams\").listDocuments();\n    return refs.map((r) => r.id);\n  } catch {\n    return [];\n  }\n}\n\nexport async function getContentPreviews(slugs?: string[]): Promise<ContentPreview[]> {\n  try {\n    const db = getFirestore();\n    const targetSlugs = slugs ?? (await getAvailableContentSlugs());\n\n    // Fetch in batches of 10 (Firestore `in` query limit)\n    const previews: ContentPreview[] = [];\n    for (let i = 0; i < targetSlugs.length; i += 10) {\n      const batch = targetSlugs.slice(i, i + 10);\n      const snap = await db\n        .collection(\"dreams\")\n        .where(FieldPath.documentId(), \"in\", batch)\n        .get();\n\n      for (const doc of snap.docs) {\n        // eslint-disable-next-line @typescript-eslint/no-explicit-any\n        const data = doc.data() as any;\n        const firstHeading = data?.ko?.sections?.[0]?.heading ?? \"\";\n        previews.push({\n          slug: doc.id,\n          koreanSlug: data?.seo?.koreanSlug ?? \"\",\n          title: { ko: data?.ko?.title ?? \"\", en: data?.en?.title ?? \"\" },\n          excerpt: {\n            ko: (data?.ko?.intro ?? \"\").slice(0, 130).trim() + \"\u2026\",\n            en: (data?.en?.intro ?? \"\").slice(0, 130).trim() + \"\u2026\",\n          },\n          heroImage: data?.images?.hero,\n          badgeType: detectBadge(firstHeading),\n        });\n      }\n    }\n    return previews;\n  } catch {\n    return [];\n  }\n}\n\nexport async function getContent(\n  slug: string,\n  locale: Locale\n): Promise<DreamContent | null> {\n  const resolvedSlug = await resolveToEnglishSlug(slug, locale);\n  if (!resolvedSlug) return null;\n\n  // Sanitize slug\n  const safe = resolvedSlug.replace(/[^a-zA-Z0-9_-]/g, \"\");\n\n  try {\n    const db = getFirestore();\n    const doc = await db.collection(\"dreams\").doc(safe).get();\n    if (!doc.exists) return null;\n    return doc.data() as DreamContent;\n  } catch {\n    return null;\n  }\n}\n\n// Korean pages use koreanSlug in the URL \u2014 resolve to english slug for Firestore lookup\nasync function resolveToEnglishSlug(\n  slug: string,\n  locale: Locale\n): Promise<string | null> {\n  if (locale === \"en\") return slug;\n\n  const symbol = await getSymbolBySlug(slug, \"ko\");\n  return symbol?.slug ?? null;\n}\n"
+    },
+    "tool_use_id": "toolu_01J2b6KMrXDnDkPCz7av2Xtw"
+  },
+  {
+    "session_id": "2c61336a-2648-429a-8eae-a46ad585bcc2",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/2c61336a-2648-429a-8eae-a46ad585bcc2.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Bash",
+    "tool_input": {
+      "command": "ls /Users/llnormll/WorkSpace/my-fortune-site/.env* 2>/dev/null || echo \"no env files\"",
+      "description": "Check existing env files"
+    },
+    "tool_use_id": "toolu_013qH8hVMTbaNMZAqgysPDTB"
+  },
+  {
+    "session_id": "2c61336a-2648-429a-8eae-a46ad585bcc2",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/2c61336a-2648-429a-8eae-a46ad585bcc2.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Bash",
+    "tool_input": {
+      "command": "npm run build 2>&1 | tail -30",
+      "timeout": 120000,
+      "description": "Check build compiles with new Firestore content.ts"
+    },
+    "tool_use_id": "toolu_01KhUcdjKoJfzWULQjugk724"
+  },
+  {
+    "session_id": "2c61336a-2648-429a-8eae-a46ad585bcc2",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/2c61336a-2648-429a-8eae-a46ad585bcc2.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Read",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/.gitignore"
+    },
+    "tool_use_id": "toolu_01AMUvNX99r5Rc2KHfbAbN6L"
+  },
+  {
+    "session_id": "2c61336a-2648-429a-8eae-a46ad585bcc2",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/2c61336a-2648-429a-8eae-a46ad585bcc2.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/.gitignore",
+      "old_string": "# Firebase service account key\nscripts/firebase-service-account.json",
+      "new_string": "# Firebase service account key\nscripts/firebase-service-account.json\n\n# Dream images \u2014 stored in Firebase Storage, not git\n/public/images/dreams/",
+      "replace_all": false
+    },
+    "tool_use_id": "toolu_01Dgo5S8HgFPd1ra1GYcD9Pk"
+  },
+  {
+    "session_id": "2c61336a-2648-429a-8eae-a46ad585bcc2",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/2c61336a-2648-429a-8eae-a46ad585bcc2.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/CLAUDE.md",
+      "old_string": "**Important**: Migrating to Firebase (Storage + Firestore) + Vercel Hobby. Content JSON will move from `data/content/` filesystem to Firestore. Images will move from `public/images/dreams/` to Firebase Storage. `fs/promises` stays for taxonomy files only (small/stable). Never use `fs` in client components or non-server code.",
+      "new_string": "**Important**: Running on Firebase (Storage + Firestore) + Vercel Hobby. Images are in Firebase Storage (`gs://my-fortune-site.firebasestorage.app`, asia-northeast3). Content JSON is in Firestore (collection: `dreams`, doc ID = english slug). `src/lib/content.ts` reads from Firestore via Admin SDK (`src/lib/firestore.ts`). `fs/promises` stays for taxonomy files only. Never use `fs` in client components or non-server code.",
+      "replace_all": false
+    },
+    "tool_use_id": "toolu_01YPs77jNbNxjPX2caYgCXbL"
+  },
+  {
+    "session_id": "2c61336a-2648-429a-8eae-a46ad585bcc2",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/2c61336a-2648-429a-8eae-a46ad585bcc2.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/CLAUDE.md",
+      "old_string": "\u251c\u2500\u2500 lib/\n\u2502   \u251c\u2500\u2500 taxonomy.ts  \u2190 server-only, fs/promises, reads data/taxonomy/*.json\n\u2502   \u2514\u2500\u2500 content.ts   \u2190 server-only, fs/promises; also exports getContentPreviews(), getAvailableContentSlugs()",
+      "new_string": "\u251c\u2500\u2500 lib/\n\u2502   \u251c\u2500\u2500 taxonomy.ts  \u2190 server-only, fs/promises, reads data/taxonomy/*.json\n\u2502   \u251c\u2500\u2500 firestore.ts \u2190 Firebase Admin SDK singleton (credentials from env vars)\n\u2502   \u2514\u2500\u2500 content.ts   \u2190 server-only, Firestore reads; exports getContent(), getContentPreviews(), getAvailableContentSlugs()",
+      "replace_all": false
+    },
+    "tool_use_id": "toolu_019CQoqFjGb7dgiWvByCXHuf"
+  },
+  {
+    "session_id": "2c61336a-2648-429a-8eae-a46ad585bcc2",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/2c61336a-2648-429a-8eae-a46ad585bcc2.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/CLAUDE.md",
+      "old_string": "- **Path sanitization in data loaders** \u2014 slugs are sanitized (`/[^a-zA-Z0-9_-]/g \u2192 \"\"`) before use in `fs` paths to prevent traversal attacks",
+      "new_string": "- **Path sanitization in data loaders** \u2014 slugs are sanitized (`/[^a-zA-Z0-9_-]/g \u2192 \"\"`) before use as Firestore document IDs to prevent injection",
+      "replace_all": false
+    },
+    "tool_use_id": "toolu_01JkJtQr7oBxFXiVFS2JE74h"
+  },
+  {
+    "session_id": "2c61336a-2648-429a-8eae-a46ad585bcc2",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/2c61336a-2648-429a-8eae-a46ad585bcc2.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/CLAUDE.md",
+      "old_string": "## Current State (last updated: 2026-03-13)\n\n### Content Pipeline Progress \u2014 PHASE 1 COMPLETE \u2705\n- **Total articles with content + images: ~401** (161 actions + 240 research-phase symbols)\n- Content files live in `data/content/{category}/{slug}.json` (category subfolder structure)\n- `src/lib/content.ts` supports subdirectory scanning (one level deep)\n- **One known issue**: `crossing-river-dream` content is complete but images are empty placeholders (Imagen 4 returned 403 mid-batch). Prompts saved in `data/images/crossing-river-dream/manifest.json` \u2014 retry when convenient.",
+      "new_string": "## Current State (last updated: 2026-03-13)\n\n### Infrastructure Migration \u2014 COMPLETE \u2705\n- **Firebase Storage**: All 404 slug image folders uploaded as WebP (was PNG, ~90% size reduction). Bucket: `my-fortune-site.firebasestorage.app` (asia-northeast3). Public URL: `https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/{slug}/{name}.webp`\n- **Firestore**: 408 content docs migrated to collection `dreams` (doc ID = english slug). `src/lib/content.ts` reads from Firestore via Admin SDK.\n- **`public/images/dreams/`**: Added to `.gitignore`, removed from git tracking (795 MB freed)\n- **Env vars required**: `FIREBASE_PROJECT_ID`, `FIREBASE_CLIENT_EMAIL`, `FIREBASE_PRIVATE_KEY` (set in `.env` locally, Vercel env vars for production)\n- **`next.config.ts`**: `remotePatterns` added for `storage.googleapis.com`\n- **Migration scripts**: `scripts/migrate-images-to-firebase.mjs`, `scripts/migrate-content-to-firestore.mjs`\n\n### Content Pipeline Progress \u2014 PHASE 1 COMPLETE \u2705\n- **Total articles: 408** across all 24 categories\n- Content files live in `data/content/{category}/{slug}.json` (also mirrored in Firestore)\n- `crossing-river-dream` images fixed and uploaded \u2705",
+      "replace_all": false
+    },
+    "tool_use_id": "toolu_01BRAGgN6MYmXp3bDtkJrBJW"
+  },
+  {
+    "session_id": "2c61336a-2648-429a-8eae-a46ad585bcc2",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/2c61336a-2648-429a-8eae-a46ad585bcc2.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/CLAUDE.md",
+      "old_string": "- [ ] **URGENT \u2014 Infrastructure migration** (replaces Cloudflare R2 plan):\n  - **Images**: Upload `public/images/dreams/` (795 MB) to **Firebase Storage**, update image URLs in content JSONs, add `public/images/dreams/` to `.gitignore`\n  - **Content JSON**: Migrate `data/content/{category}/{slug}.json` files to **Firestore** (one doc per article, keyed by slug)\n  - **Hosting**: Remove `@opennextjs/cloudflare`, deploy to **Vercel Hobby**\n  - **`src/lib/content.ts`**: Replace `fs` reads with Firestore SDK\n  - **`src/lib/taxonomy.ts`**: Keep on filesystem (small/stable)\n- [ ] Fix `crossing-river-dream` images (retry Imagen 4 \u2014 prompts in `data/images/crossing-river-dream/manifest.json`)",
+      "new_string": "- [x] ~~Infrastructure migration~~ \u2192 Firebase Storage + Firestore + Vercel Hobby \u2705\n- [ ] **Deploy to Vercel**: Remove `@opennextjs/cloudflare`, connect repo, set Firebase env vars in Vercel dashboard",
+      "replace_all": false
+    },
+    "tool_use_id": "toolu_01XfPWGQCK7GAx2hU1CqW8W8"
+  },
+  {
+    "session_id": "2c61336a-2648-429a-8eae-a46ad585bcc2",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/2c61336a-2648-429a-8eae-a46ad585bcc2.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/CLAUDE.md",
+      "old_string": "- \u2705 Data loading: `fs/promises` + `server-only` (Cloudflare Workers Node.js compat)",
+      "new_string": "- \u2705 Data loading: Firestore (content) + `fs/promises` (taxonomy only) \u2014 both `server-only`",
+      "replace_all": false
+    },
+    "tool_use_id": "toolu_018ySk3rKMWhwKsD2EJdpbpf"
+  },
+  {
+    "session_id": "2c61336a-2648-429a-8eae-a46ad585bcc2",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/2c61336a-2648-429a-8eae-a46ad585bcc2.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Read",
+    "tool_input": {
+      "file_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/memory/MEMORY.md"
+    },
+    "tool_use_id": "toolu_01DicUzSPGKbUdu3JokFkWX8"
+  },
+  {
+    "session_id": "2c61336a-2648-429a-8eae-a46ad585bcc2",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/2c61336a-2648-429a-8eae-a46ad585bcc2.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Write",
+    "tool_input": {
+      "file_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/memory/MEMORY.md",
+      "content": "# Project Memory: my-fortune-site (\uafc8\ud574\ubabd)\n\n## Key Behavioral Rules\n- [feedback_no_autonomous_execution.md] \u2014 Never launch agents or pipelines unless explicitly asked. \"Pick up where we left off\" = brief on state, then wait.\n\n## Project Overview\nKorean dream interpretation website (\uafc8\ud574\ubabd) \u2014 bilingual KO + EN, SEO-first, ad revenue model.\n- Target: Both Naver and Google\n- Language: Korean + English with language switch toggle\n- Runtime: Next.js on Vercel Hobby\n- Content: LLM-generated from scratch\n\n## Infrastructure (COMPLETE \u2705 as of 2026-03-13)\nSee [project_infrastructure_decision.md] for full context.\n- **Hosting**: Vercel Hobby (replacing Cloudflare Workers + @opennextjs/cloudflare)\n- **Images**: Firebase Storage \u2014 `gs://my-fortune-site.firebasestorage.app` (asia-northeast3). Public URL: `https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/{slug}/{name}.webp`. Format: WebP (~90% smaller than original PNGs).\n- **Content JSON**: Firestore collection `dreams`, doc ID = english slug (408 docs migrated)\n- **Taxonomy**: stays on filesystem (`data/taxonomy/*.json`) \u2014 small/stable\n- **Image generation**: Imagen 4 (`imagen-4.0-generate-001`), same GCP project as Firebase\n- **`public/images/dreams/`**: in `.gitignore`, removed from git tracking\n- **Env vars required**: `FIREBASE_PROJECT_ID`, `FIREBASE_CLIENT_EMAIL`, `FIREBASE_PRIVATE_KEY`\n- **Key files**: `src/lib/firestore.ts` (Admin SDK singleton), `src/lib/content.ts` (Firestore reads)\n- **Migration scripts**: `scripts/migrate-images-to-firebase.mjs`, `scripts/migrate-content-to-firestore.mjs`\n- **Next step**: Deploy to Vercel (remove @opennextjs/cloudflare, set env vars in Vercel dashboard)\n\n## Agents Created\nAll in `.claude/agents/`:\n- `dream-taxonomy-agent` \u2014 enumerates all dream symbols \u2192 `data/taxonomy/*.json`\n- `dream-research-agent` \u2014 researches one symbol deeply \u2192 `data/research/{category}/{slug}.json`\n- `dream-content-agent` \u2014 generates bilingual SEO page content \u2192 `data/content/{category}/{slug}.json`\n- `dream-image-agent` \u2014 generates images via Imagen 4 \u2192 `public/images/dreams/{slug}/` + uploads to Firebase\n- `meta-agent` \u2014 creates new subagents (use for new agent creation)\n- Custom agents (.claude/agents/*.md) cannot be used as subagent_type \u2014 read .md and pass to general-purpose agent\n\n## Data Pipeline\n```\ndream-taxonomy-agent\n  \u2192 data/taxonomy/*.json\n      \u2193 per symbol (parallel: research + image)\ndream-research-agent \u2192 data/research/{category}/{slug}.json\ndream-image-agent    \u2192 Firebase Storage + public/images/dreams/{slug}/\n      \u2193\ndream-content-agent  \u2192 data/content/{category}/{slug}.json + Firestore (dreams/{slug})\n      \u2193\nNext.js dynamic pages (reads from Firestore)\n```\n\n## Data Schema\n### Taxonomy entry\n`id`, `korean`, `english`, `slug`, `category`, `subcategory`, `related`, `searchTier` (high/medium/longtail)\n\n### Research entry (`data/research/{category}/{slug}.json`)\n- `symbol`: { korean, english, slug }\n- `summary`: { korean, english }\n- `interpretations`: [{ type: \uae38\ubabd|\ud749\ubabd|neutral, korean, english, context }]\n- `variations`: [{ keyword_ko, keyword_en, interpretation_ko, interpretation_en }]\n- `culturalContext`: { korean, english }\n- `westernContext`: { freudian, jungian, modern, crossCultural } \u2014 each { korean, english }\n- `relatedSymbols`: string[] (slugs)\n- `seoKeywords`: { korean[], english[] }\n- `faqs`: [{ question_ko, answer_ko, question_en, answer_en }]\n\n### Content entry (`data/content/{category}/{slug}.json` + Firestore `dreams/{slug}`)\n- ko + en versions of: title, metaDescription, h1, intro, sections, variations, culturalContext, westernContext, faqs, conclusion\n- images: { hero: Firebase Storage URL, sections: { auspicious, inauspicious } }\n- seo: { slug, koreanSlug, ogTitle, ogDescription, ogImage, structuredData, hreflang, relatedSlugs, naverSEO }\n- **`relatedSlugs` must be inside `seo` object** (not root level)\n\n### Image manifest (`data/images/{slug}/manifest.json`)\nWritten AFTER image generation \u2014 audit trail only, NOT used as input to Imagen 4.\nContains: prompts used, output paths, alt text (KO+EN), provider, generatedAt.\n\n## Hooks (`.claude/settings.json`)\n- PreToolUse: blocks .env access + dangerous rm -rf (via pre_tool_use.py)\n- Stop: logs to logs/stop.json\n- SubagentStop: logs to logs/subagent_stop.json\n- Notification (permission_prompt only): logs to logs/notification.json\n\n## App Structure (implemented, build \u2705)\n- `src/middleware.ts` \u2192 next-intl locale routing (deprecation: rename to proxy.ts in Next.js 16)\n- `src/i18n/routing.ts` \u2192 locales + pathnames map (ko: /\uafc8\ud574\ubabd/[slug], en: /dream/[slug], + /\ud0d0\uc0c9/[category])\n- `src/lib/firestore.ts` \u2192 Firebase Admin SDK singleton (credentials from env vars)\n- `src/lib/taxonomy.ts` \u2192 server-only, fs/promises, reads data/taxonomy/*.json\n- `src/lib/content.ts` \u2192 server-only, Firestore reads via Admin SDK\n- `src/components/layout/` \u2192 Header, Footer\n- `src/components/dream/` \u2192 DreamHero, DreamSection, DreamVariations, DreamFAQ, RelatedDreams, DreamCard\n- `src/components/common/AdSlot.tsx` \u2192 placeholder ad div (ready for AdSense)\n- `src/components/home/SearchBar.tsx` \u2192 client component search form\n- `src/components/explore/CategoryDreamList.tsx` \u2192 client component with subcategory filter pills\n- `next.config.ts` \u2192 remotePatterns for storage.googleapis.com (Firebase Storage images)\n- `public/images/home/hero.png` \u2192 homepage hero background (in git, fine \u2014 only dreams/ is excluded)\n\n## Content Progress \u2014 PHASE 1 COMPLETE \u2705 (2026-03-13)\n- **408 articles total** across all 24 categories\n- Content in `data/content/{category}/{slug}.json` + mirrored in Firestore\n- All images in Firebase Storage as WebP\n- Batch size: 6 agents in parallel (confirmed optimal \u2014 more causes rate limit crashes)\n- Image generation: Imagen 4 via Google Generative Language API. `source ~/.zshrc` required for GOOGLE_API_KEY.\n\n## Permissions\n- `.claude/settings.json` allow list: `Bash(*)` + WebSearch + WebFetch\n- Pre-tool-use hook blocks .env access and dangerous rm -rf\n\n## Resolved Decisions\n- URL: `/ko/\uafc8\ud574\ubabd/[koreanSlug]` + `/en/dream/[englishSlug]`\n- i18n: next-intl v3, [locale] segment, pathname localization\n- Data loading: Firestore (content) + fs/promises (taxonomy only) \u2014 both server-only\n- Fonts: Noto Sans KR (ko locale) + Geist (en locale)\n\n## Content Quality Values (locked)\n1. **Immediate interpretation + hook** \u2014 meaning in first sentence, pull-forward cliffhanger\n2. **Enjoyable, confident voice** \u2014 warm authority, like a knowledgeable friend\n3. **Credibility via sourcing** \u2014 DEFERRED (needs \ud55c\uad6d\ubbfc\uc18d\ub300\ubc31\uacfc\uc0ac\uc804 dataset)\n\n### Intro Templates (locked in dream-content-agent.md)\n**B-style (default):** Immediate verdict \u2192 cultural credibility \u2192 \"\uadf8\ub7f0\ub370 \ud55c \uac00\uc9c0\u2014...\" cliffhanger\n**A-style (straightforward symbol):** Core meaning \u2192 most important nuance, punchy\n\n## Open Decisions\n- [x] Domain: **kkumhaemong.com** purchased \u2705\n- [x] Infrastructure migration \u2192 Firebase + Vercel \u2705\n- [ ] **Deploy to Vercel**: remove @opennextjs/cloudflare, set FIREBASE_* env vars in Vercel dashboard\n- [ ] Ad slot implementation (AdSense + Kakao AdFit)\n- [ ] Naver Blog mirroring strategy\n- [ ] Rename `src/middleware.ts` \u2192 `src/proxy.ts` (Next.js 16 deprecation)\n\n## Competitive Landscape\n- **kkumhaemong.co.kr** \u2014 primary competitor, WordPress, 217+ pages, Korean-only, no structure\n- Our advantages: bilingual, JSON-LD SEO, category taxonomy, variations+FAQ+westernContext, mobile-first UX\n\n## Key SEO Notes\n- High-volume symbols: \ub3fc\uc9c0\uafc8, \ubc40\uafc8, \uc774\ube68\ube60\uc9c0\ub294\uafc8, \ub625\uafc8, \uc784\uc2e0\uafc8\n- Long-tail is competitive advantage (color/action/context variations)\n- Each page: 800-1500 words per language, FAQ critical for featured snippets\n"
+    },
+    "tool_use_id": "toolu_01NmMRkLQ1F8NHeoxdbSeGQ4"
+  },
+  {
+    "session_id": "2c61336a-2648-429a-8eae-a46ad585bcc2",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/2c61336a-2648-429a-8eae-a46ad585bcc2.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Write",
+    "tool_input": {
+      "file_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/memory/project_infrastructure_decision.md",
+      "content": "---\nname: Infrastructure stack decision\ndescription: Migrated from Cloudflare Workers to Firebase Storage + Firestore + Vercel Hobby \u2014 COMPLETE\ntype: project\n---\n\nMigrated away from Cloudflare Workers to a Firebase + Vercel stack. **COMPLETE as of 2026-03-13.**\n\n**Why:** Cloudflare Workers has a 25 MB bundle limit that becomes a hard blocker at 1,779+ articles (~60-70 MB of content JSON). The `@opennextjs/cloudflare` adapter also lags behind Next.js and causes friction.\n\n**Stack (live):**\n- **Images \u2192 Firebase Storage** (`gs://my-fortune-site.firebasestorage.app`, asia-northeast3). All 404 slug folders uploaded as WebP. Public URL: `https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/{slug}/{name}.webp`. `public/images/dreams/` is in `.gitignore`.\n- **Content JSON \u2192 Firestore** \u2014 collection `dreams`, doc ID = english slug. 408 docs. `src/lib/content.ts` reads via Admin SDK (`src/lib/firestore.ts`).\n- **Hosting \u2192 Vercel Hobby** \u2014 next step is to deploy (remove @opennextjs/cloudflare, set env vars)\n- **Taxonomy \u2192 stays on filesystem** \u2014 small/stable files, fine to bundle\n- **Image generation \u2192 stays on Google Cloud** (Imagen 4, same GCP project as Firebase)\n\n**Env vars required:** `FIREBASE_PROJECT_ID`, `FIREBASE_CLIENT_EMAIL`, `FIREBASE_PRIVATE_KEY`\n\n**How to apply:**\n- New content written by agents goes to `data/content/{category}/{slug}.json` locally, then must be synced to Firestore via `scripts/migrate-content-to-firestore.mjs`\n- New images go to `public/images/dreams/{slug}/` locally, then uploaded to Firebase via `scripts/migrate-images-to-firebase.mjs`\n- Vercel Hobby has 10s function timeout \u2014 fine for single Firestore reads (50-200ms each). Do not do batch reads in a single request.\n"
+    },
+    "tool_use_id": "toolu_01Kp9kqqCYAUCDpTat6b2cwY"
   }
 ]

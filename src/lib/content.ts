@@ -1,17 +1,13 @@
 /**
  * Content data access utilities.
- * Reads from data/content/{slug}.json — written by dream-content-agent.
- *
- * Uses fs/promises (Node.js compat mode on Cloudflare Workers via @opennextjs/cloudflare).
+ * Reads from Firestore collection "dreams", document ID = english slug.
  */
 
 import "server-only";
-import { readFile } from "fs/promises";
-import path from "path";
+import { FieldPath } from "firebase-admin/firestore";
 import type { Locale } from "@/i18n/routing";
 import { getSymbolBySlug } from "./taxonomy";
-
-const CONTENT_DIR = path.join(process.cwd(), "data", "content");
+import { getFirestore } from "./firestore";
 
 export type ContentSection = {
   type: string;
@@ -85,83 +81,49 @@ function detectBadge(heading: string): ContentPreview["badgeType"] {
 
 export async function getAvailableContentSlugs(): Promise<string[]> {
   try {
-    const { readdir } = await import("fs/promises");
-    const slugs: string[] = [];
-    const entries = await readdir(CONTENT_DIR, { withFileTypes: true });
-    for (const entry of entries) {
-      if (entry.isFile() && entry.name.endsWith(".json")) {
-        slugs.push(entry.name.replace(".json", ""));
-      } else if (entry.isDirectory()) {
-        const subEntries = await readdir(path.join(CONTENT_DIR, entry.name), { withFileTypes: true });
-        for (const sub of subEntries) {
-          if (sub.isFile() && sub.name.endsWith(".json")) {
-            slugs.push(sub.name.replace(".json", ""));
-          }
-        }
-      }
-    }
-    return slugs;
+    const db = getFirestore();
+    const refs = await db.collection("dreams").listDocuments();
+    return refs.map((r) => r.id);
   } catch {
     return [];
   }
 }
 
-async function findContentFilePath(safe: string): Promise<string | null> {
-  const { access, readdir } = await import("fs/promises");
-  const direct = path.join(CONTENT_DIR, `${safe}.json`);
+export async function getContentPreviews(slugs?: string[]): Promise<ContentPreview[]> {
   try {
-    await access(direct);
-    return direct;
-  } catch {
-    // not in root, search one level of subdirectories
-  }
-  try {
-    const entries = await readdir(CONTENT_DIR, { withFileTypes: true });
-    for (const entry of entries) {
-      if (entry.isDirectory()) {
-        const candidate = path.join(CONTENT_DIR, entry.name, `${safe}.json`);
-        try {
-          await access(candidate);
-          return candidate;
-        } catch {
-          continue;
-        }
+    const db = getFirestore();
+    const targetSlugs = slugs ?? (await getAvailableContentSlugs());
+
+    // Fetch in batches of 10 (Firestore `in` query limit)
+    const previews: ContentPreview[] = [];
+    for (let i = 0; i < targetSlugs.length; i += 10) {
+      const batch = targetSlugs.slice(i, i + 10);
+      const snap = await db
+        .collection("dreams")
+        .where(FieldPath.documentId(), "in", batch)
+        .get();
+
+      for (const doc of snap.docs) {
+        // eslint-disable-next-line @typescript-eslint/no-explicit-any
+        const data = doc.data() as any;
+        const firstHeading = data?.ko?.sections?.[0]?.heading ?? "";
+        previews.push({
+          slug: doc.id,
+          koreanSlug: data?.seo?.koreanSlug ?? "",
+          title: { ko: data?.ko?.title ?? "", en: data?.en?.title ?? "" },
+          excerpt: {
+            ko: (data?.ko?.intro ?? "").slice(0, 130).trim() + "…",
+            en: (data?.en?.intro ?? "").slice(0, 130).trim() + "…",
+          },
+          heroImage: data?.images?.hero,
+          badgeType: detectBadge(firstHeading),
+        });
       }
     }
+    return previews;
   } catch {
-    // ignore
+    return [];
   }
-  return null;
-}
-
-export async function getContentPreviews(slugs?: string[]): Promise<ContentPreview[]> {
-  const targetSlugs = slugs ?? (await getAvailableContentSlugs());
-  const previews: ContentPreview[] = [];
-  for (const slug of targetSlugs) {
-    try {
-      const safe = slug.replace(/[^a-zA-Z0-9_-]/g, "");
-      const filePath = await findContentFilePath(safe);
-      if (!filePath) continue;
-      const raw = await readFile(filePath, "utf-8");
-      // eslint-disable-next-line @typescript-eslint/no-explicit-any
-      const data = JSON.parse(raw) as any;
-      const firstHeading = data?.ko?.sections?.[0]?.heading ?? "";
-      previews.push({
-        slug,
-        koreanSlug: data?.seo?.koreanSlug ?? "",
-        title: { ko: data?.ko?.title ?? "", en: data?.en?.title ?? "" },
-        excerpt: {
-          ko: (data?.ko?.intro ?? "").slice(0, 130).trim() + "…",
-          en: (data?.en?.intro ?? "").slice(0, 130).trim() + "…",
-        },
-        heroImage: data?.images?.hero,
-        badgeType: detectBadge(firstHeading),
-      });
-    } catch {
-      continue;
-    }
-  }
-  return previews;
 }
 
 export async function getContent(
@@ -171,20 +133,20 @@ export async function getContent(
   const resolvedSlug = await resolveToEnglishSlug(slug, locale);
   if (!resolvedSlug) return null;
 
-  // Sanitize to prevent path traversal
+  // Sanitize slug
   const safe = resolvedSlug.replace(/[^a-zA-Z0-9_-]/g, "");
 
   try {
-    const filePath = await findContentFilePath(safe);
-    if (!filePath) return null;
-    const raw = await readFile(filePath, "utf-8");
-    return JSON.parse(raw) as DreamContent;
+    const db = getFirestore();
+    const doc = await db.collection("dreams").doc(safe).get();
+    if (!doc.exists) return null;
+    return doc.data() as DreamContent;
   } catch {
     return null;
   }
 }
 
-// Korean pages use koreanSlug in the URL — resolve to english slug for file lookup
+// Korean pages use koreanSlug in the URL — resolve to english slug for Firestore lookup
 async function resolveToEnglishSlug(
   slug: string,
   locale: Locale
