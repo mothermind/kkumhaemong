@@ -248,10 +248,10 @@
     "conclusion": "In Korean dream tradition, eating dreams are among the most meaningful and nuanced omens — their meaning turning on the food's taste, condition, and the company you keep. Eating abundantly and deliciously signals wealth, health, and harmonious relationships on the horizon. Eating spoiled food or dining alone in gloom, however, is a prompt to check in on your health and relationships. Whatever your dream table looked like last night, the tradition invites you to pay attention — because in Korean folk wisdom, a dream is never just a dream."
   },
   "images": {
-    "hero": "/images/dreams/eating-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/eating-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/eating-dream/auspicious.png",
-      "inauspicious": "/images/dreams/eating-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/eating-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/eating-dream/inauspicious.webp"
     }
   },
   "seo": {
@@ -266,7 +266,7 @@
       "ko": "먹는 꿈 해몽 완벽 분석. 맛있게 먹는 꿈은 재물운 상승의 길몽, 썩은 음식·혼자 쓸쓸히 먹는 꿈은 흉몽. 상황별 음식 꿈 해몽을 전문가가 정리했어요.",
       "en": "Complete guide to eating dream meanings in Korean dream interpretation. Eating delicious food signals wealth; spoiled food or eating alone warns of problems. Full analysis inside."
     },
-    "ogImage": "/images/dreams/eating-dream/hero.png",
+    "ogImage": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/eating-dream/hero.webp",
     "hreflang": {
       "ko": "https://kkumhaemong.com/ko/꿈해몽/meongneun-kkum",
       "en": "https://kkumhaemong.com/en/dream/eating-dream"

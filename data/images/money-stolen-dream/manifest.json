@@ -1,0 +1,27 @@
+{
+  "slug": "money-stolen-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/money-stolen-dream/hero.png",
+    "alt_ko": "안갯속 밤거리에 흩어진 동전과 열린 지갑, 한국 수묵화 스타일",
+    "alt_en": "Scattered coins and open purse on a misty night street, Korean ink-wash illustration style",
+    "prompt": "A hand reaching into a shadowy open purse on a misty night, scattered coins glinting on wet cobblestones, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, muted indigo and silver tones, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/money-stolen-dream/auspicious.png",
+      "alt_ko": "황금빛 동전 주머니와 벚꽃이 흩날리는 봄날, 재물운 상승을 상징하는 수묵화",
+      "alt_en": "Overflowing golden coin pouch with cherry blossoms in warm sunrise light, auspicious fortune symbol",
+      "prompt": "A glowing golden coin pouch overflowing with light, cherry blossoms drifting in warm sunrise air, a sense of relief and abundance, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), warm golden and coral tones, dreamlike misty atmosphere, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/money-stolen-dream/inauspicious.png",
+      "alt_ko": "폭풍 치는 밤 빈 잠금 상자와 겨울 나무, 재물 손실을 암시하는 수묵화",
+      "alt_en": "Empty broken lockbox in a stormy night with bare winter trees, symbolizing financial loss",
+      "prompt": "An empty broken lockbox in a dark rainy night, storm clouds gathering over barren winter trees, deep shadows and cold blue tones, a sense of loss and foreboding, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), deep indigo and charcoal palette, dreamlike misty atmosphere, no text, no people"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "cow-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/cow-dream/hero.png",
+    "alt_ko": "새벽 안개 속 한국 전통 농가 앞에 서 있는 누렁소 — 수묵화 스타일의 몽환적 일러스트",
+    "alt_en": "A majestic yellow-brown cow standing before a traditional Korean farmhouse in misty dawn light — dreamlike ink-wash illustration",
+    "prompt": "A majestic yellow-brown cow standing peacefully in a misty Korean countryside at dawn, traditional thatched farmhouse in background, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, golden morning light, no text, no people, warm earth tones with golden highlights"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/cow-dream/auspicious.png",
+      "alt_ko": "황금빛 소가 한국 전통 마당으로 들어오는 장면 — 풍요와 재물을 상징하는 수묵화 일러스트",
+      "alt_en": "A golden glowing cow walking through the gate into a traditional Korean courtyard at sunrise — auspicious wealth dream illustration",
+      "prompt": "A golden glowing cow walking through an open gate into a traditional Korean courtyard at sunrise, coins and rice scattered on the ground symbolizing abundance, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike warm atmosphere, warm golden light, red and gold lanterns, no text, no people, rich warm earth tones with golden light"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/cow-dream/inauspicious.png",
+      "alt_ko": "폭풍 치는 밤하늘 아래 한국 농가를 떠나 달아나는 어두운 소 — 흉몽을 상징하는 수묵화 일러스트",
+      "alt_en": "A dark shadowy cow fleeing a traditional Korean farmhouse under a stormy night sky — inauspicious dream illustration",
+      "prompt": "A dark shadowy cow with glowing red eyes running away from a traditional Korean farmhouse at night under a stormy sky, lightning in the distance, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), foreboding dreamlike atmosphere, deep indigo and charcoal tones, cold blue moonlight, no text, no people"
+    }
+  ]
+}

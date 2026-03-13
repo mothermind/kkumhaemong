@@ -343,10 +343,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/praying-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/praying-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/praying-dream/auspicious.png",
-      "inauspicious": "/images/dreams/praying-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/praying-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/praying-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

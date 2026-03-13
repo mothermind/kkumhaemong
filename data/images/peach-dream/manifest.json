@@ -1,0 +1,27 @@
+{
+  "slug": "peach-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/peach-dream/hero.png",
+    "alt_ko": "안개 낀 산 바위 위에 놓인 탐스러운 복숭아와 꽃가지, 수묵화 스타일",
+    "alt_en": "A plump ripe peach resting on misty mountain rocks beside a blooming branch, ink-wash illustration style",
+    "prompt": "A single plump ripe peach resting on misty mountain rocks beside a blooming branch, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, warm golden hues with soft pink, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/peach-dream/auspicious.png",
+      "alt_ko": "황금빛 햇살 아래 탐스럽게 익은 복숭아가 주렁주렁 달린 복숭아나무, 수묵화 스타일",
+      "alt_en": "A peach tree laden with golden ripe peaches glowing in warm sunrise light, ink-wash illustration",
+      "prompt": "A lush peach tree laden with golden ripe peaches glowing in warm sunrise light, petals falling gently, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike spring morning atmosphere, warm earth tones and golden light, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/peach-dream/inauspicious.png",
+      "alt_ko": "달빛 아래 땅에 떨어진 썩은 복숭아, 어두운 수묵화 스타일",
+      "alt_en": "A rotting peach on dark wet ground beneath a bare tree in dim moonlight, ink-wash illustration",
+      "prompt": "A lone rotting peach on dark wet ground beneath a bare tree in dim moonlight, decaying fruit with deep shadows, soft ink-wash illustration, Korean traditional painting aesthetic, cool blues and dark greens, foreboding night atmosphere, no text, no people"
+    }
+  ]
+}

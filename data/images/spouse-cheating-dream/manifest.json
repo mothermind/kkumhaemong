@@ -1,0 +1,27 @@
+{
+  "slug": "spouse-cheating-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/spouse-cheating-dream/hero.png",
+    "alt_ko": "안개 낀 황혼의 갈림길에 놓인 결혼반지 — 배우자 바람꿈 해몽",
+    "alt_en": "A wedding ring at a misty twilight crossroads — dream of spouse cheating",
+    "prompt": "A solitary figure standing at a misty crossroads at dusk, a wedding ring on a stone path, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike atmosphere, muted indigo and silver tones, no text, no people faces"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/spouse-cheating-dream/auspicious.png",
+      "alt_ko": "황금빛 아침에 피어난 매화와 학 — 길몽 상징",
+      "alt_en": "Blossoming plum tree and crane in golden morning light — auspicious omen",
+      "prompt": "A blossoming plum tree in morning golden light with a lone crane in flight, traditional Korean ink-wash illustration style, warm golden and peach tones, dreamlike spring atmosphere, abundance and renewal symbolism, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/spouse-cheating-dream/inauspicious.png",
+      "alt_ko": "폭풍 밤하늘 아래 끊어진 붉은 실 — 흉몽 상징",
+      "alt_en": "A broken red thread of fate under stormy night sky — inauspicious omen",
+      "prompt": "A broken red thread of fate unraveling under a stormy night sky, dark indigo clouds over an old Korean courtyard, fallen autumn leaves, cool blues and deep shadows, ink-wash illustration style, foreboding atmosphere, no text"
+    }
+  ]
+}

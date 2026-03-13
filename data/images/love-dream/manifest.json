@@ -1,0 +1,27 @@
+{
+  "slug": "love-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/love-dream/hero.png",
+    "alt_ko": "달빛 아래 안개 낀 연못 다리 위에서 서로에게 손을 뻗는 두 실루엣 — 사랑 꿈 해몽",
+    "alt_en": "Two silhouettes reaching toward each other across a misty moonlit bridge over a Korean pond — love dream interpretation",
+    "prompt": "Two silhouettes gently reaching toward each other across a misty moonlit bridge over a serene Korean pond, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, cherry blossom petals drifting, warm rose-gold and silver moonlight, no text, no faces"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/love-dream/auspicious.png",
+      "alt_ko": "황금빛 아침 햇살과 연꽃 사이에서 붉은 실로 묶인 두 손 — 사랑 길몽",
+      "alt_en": "Two hands tied with red string intertwined among lotus blossoms in golden morning light — auspicious love dream",
+      "prompt": "A pair of red-string-tied hands intertwined amidst blooming lotus flowers and golden morning light, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike warm atmosphere, sunrise hues of peach and golden yellow, auspicious fortune symbolism, no text, no faces"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/love-dream/inauspicious.png",
+      "alt_ko": "폭풍 하늘 아래 어두운 물 위로 떨어지는 시든 장미 꽃잎 — 사랑 흉몽",
+      "alt_en": "A wilting rose petal falling into dark still water under a stormy sky — inauspicious love dream",
+      "prompt": "A single wilting rose petal falling into dark still water under a stormy sky, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike melancholic atmosphere, deep indigo and charcoal tones with muted silver rain, emotional separation symbolism, no text, no people"
+    }
+  ]
+}

@@ -314,10 +314,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/strangling-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/strangling-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/strangling-dream/auspicious.png",
-      "inauspicious": "/images/dreams/strangling-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/strangling-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/strangling-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

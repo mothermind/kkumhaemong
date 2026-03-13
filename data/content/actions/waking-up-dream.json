@@ -298,10 +298,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/waking-up-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/waking-up-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/waking-up-dream/auspicious.png",
-      "inauspicious": "/images/dreams/waking-up-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/waking-up-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/waking-up-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

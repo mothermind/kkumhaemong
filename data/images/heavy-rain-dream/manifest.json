@@ -1,0 +1,27 @@
+{
+  "slug": "heavy-rain-dream",
+  "hero": {
+    "path": "/images/dreams/heavy-rain-dream/hero.png",
+    "alt_ko": "폭우가 쏟아지는 한옥 마당, 먹빛 수채화 스타일",
+    "alt_en": "Torrential rain over a traditional Korean hanok courtyard, ink-wash illustration style",
+    "prompt": "Torrential rain pouring over a traditional Korean tiled-roof house (hanok) at dusk, rivers of clear water streaming through courtyard, soft ink-wash illustration style, Korean traditional painting aesthetic, dreamlike atmosphere, muted blue-grey tones with golden lantern light, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/heavy-rain-dream/auspicious.png",
+      "alt_ko": "맑은 빗물이 한옥 마당을 가득 채우는 풍요의 이미지",
+      "alt_en": "Clear rain filling a traditional Korean courtyard with golden abundance, auspicious wealth imagery",
+      "prompt": "Clear crystal rain filling a traditional Korean courtyard, golden coins and abundance symbols emerging from sparkling rainwater, soft watercolor style, dreamlike prosperity imagery, warm golden and blue tones, Korean folk art aesthetic, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/heavy-rain-dream/inauspicious.png",
+      "alt_ko": "흙탕물 폭풍우 속 혼자 빗속을 걷는 인물, 흉몽 이미지",
+      "alt_en": "Person alone in muddy storm through Korean village alley, ominous inauspicious heavy rain dream",
+      "prompt": "Dark turbulent storm with muddy floodwater rushing through narrow Korean village alley at night, ominous dark clouds, person alone without umbrella struggling against wind and rain, ink-wash illustration style, dramatic dark tones, Korean traditional painting aesthetic, no text"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "being-naked-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/being-naked-dream/hero.png",
+    "alt_ko": "새벽 안개 속 들판에서 두 팔을 활짝 벌리고 당당하게 서 있는 인물, 한국화 수묵 수채화 스타일",
+    "alt_en": "A serene figure standing with arms outstretched in a misty dawn field, Korean ink-wash watercolor style",
+    "prompt": "A lone figure standing serenely in an open misty field at dawn, arms outstretched with complete ease and confidence, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, warm golden morning light, cherry blossoms drifting, no text, no faces, muted earth tones with golden highlights"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/being-naked-dream/auspicious.png",
+      "alt_ko": "맑은 산속 시냇가에서 자유롭게 수영하는 인물, 황금빛 햇살과 초록 풀밭, 한국화 수묵 스타일",
+      "alt_en": "A figure swimming freely in a crystal clear mountain stream with golden sunlight, Korean ink-wash watercolor style",
+      "prompt": "A joyful figure swimming freely in a crystal clear mountain stream surrounded by lush green banks and golden sunlight, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike luminous atmosphere, warm golden and jade green tones, no text, no faces, spring blossoms, sense of liberation and good fortune"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/being-naked-dream/inauspicious.png",
+      "alt_ko": "밤의 어두운 광장에서 군중에게 노출된 불안한 인물의 실루엣, 남색과 회색 수묵 수채화",
+      "alt_en": "A vulnerable silhouette exposed in a dark night square watched by shadowy onlookers, Korean ink-wash watercolor in deep indigo tones",
+      "prompt": "A vulnerable silhouette standing exposed in a crowded shadowy public square at night, people watching from the darkness, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), deep indigo and charcoal tones, moonlit mist, atmosphere of unease and exposure, no text, no clear faces, cold blue shadows, rain-slicked ground"
+    }
+  ]
+}

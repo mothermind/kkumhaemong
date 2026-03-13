@@ -1,0 +1,27 @@
+{
+  "slug": "mountain-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/mountain-dream/hero.png",
+    "alt_ko": "안개 속에 우뚝 솟은 한국의 신성한 산, 수묵화 스타일의 몽환적인 산꿈 일러스트",
+    "alt_en": "A majestic Korean mountain rising above misty clouds, ink-wash illustration style, dreamlike mountain dream artwork",
+    "prompt": "A majestic mountain rising above misty clouds, ancient Korean landscape, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, pine trees clinging to rocky slopes, golden morning light touching the summit, no text, no people, muted earth tones with golden highlights"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/mountain-dream/auspicious.png",
+      "alt_ko": "황금빛 일출과 함께 빛나는 산 정상, 길몽을 상징하는 봄날의 산 풍경",
+      "alt_en": "A mountain summit glowing with golden sunrise light, auspicious spring mountain landscape with cranes soaring",
+      "prompt": "A mountain bathed in golden sunrise light, auspicious Korean landscape, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike warm atmosphere, cherry blossoms on mountain slopes, rays of golden light streaming from the summit, crane birds soaring, no text, no people, warm golden earth tones, spring colors"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/mountain-dream/inauspicious.png",
+      "alt_ko": "폭풍우와 어둠으로 뒤덮인 험준한 산, 흉몽을 상징하는 산사태와 먹구름의 산 풍경",
+      "alt_en": "A dark forbidding mountain shrouded in storm clouds and landslide, inauspicious ominous mountain landscape",
+      "prompt": "A dark forbidding mountain shrouded in storm clouds, inauspicious Korean landscape, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike ominous atmosphere, mountain shrouded in dark mist and heavy rain, landslide rocks tumbling, deep shadows and cold blue tones, no text, no people, deep indigo and charcoal tones with silver rain"
+    }
+  ]
+}

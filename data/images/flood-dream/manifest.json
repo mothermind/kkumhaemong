@@ -1,0 +1,27 @@
+{
+  "slug": "flood-dream",
+  "hero": {
+    "path": "/images/dreams/flood-dream/hero.png",
+    "alt_ko": "맑은 물이 한국 전통 마을로 흘러드는 홍수 꿈 장면",
+    "alt_en": "Crystal-clear floodwater flowing into a traditional Korean village, dream illustration",
+    "prompt": "Massive flood with crystal-clear blue water rushing through a Korean village, traditional hanok houses partially submerged in clean transparent water, soft ink-wash illustration style, Korean traditional painting aesthetic, dreamlike atmosphere, golden morning light reflecting on calm flood waters, muted earth tones with golden highlights, no text, wide panoramic view"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/flood-dream/auspicious.png",
+      "alt_ko": "집 안으로 맑은 물이 흘러들어오는 재물운 길몽 장면",
+      "alt_en": "Clean water flooding into a Korean home courtyard, symbolizing incoming wealth and fortune",
+      "prompt": "Auspicious flood dream scene, clear pristine water flowing into a traditional Korean home courtyard, golden coins and fortune symbols floating in clean transparent water, soft warm sunrise light, ink-wash watercolor illustration style, Korean folk painting aesthetic, abundant and prosperous atmosphere, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/flood-dream/inauspicious.png",
+      "alt_ko": "흙탕물 홍수가 다리를 쓸어버리는 흉몽 장면",
+      "alt_en": "Turbulent muddy floodwater sweeping away a bridge, ominous dream warning scene",
+      "prompt": "Inauspicious flood dream, turbulent murky brown muddy floodwater surging through dark stormy landscape, broken bridge swept away, dramatic moody atmosphere, dark ink-wash painting style, Korean traditional art aesthetic, ominous overcast sky, no text"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "dalle3"
+}

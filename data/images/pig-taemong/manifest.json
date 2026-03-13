@@ -1,0 +1,30 @@
+{
+  "slug": "pig-taemong",
+  "hero": {
+    "path": "/images/dreams/pig-taemong/hero.png",
+    "alt_ko": "황금빛 돼지가 새벽 안개 속 한국 전통 마당에 앉아 있는 태몽 일러스트",
+    "alt_en": "A golden pig resting in a misty Korean traditional courtyard at dawn, taemong conception dream illustration",
+    "prompt": "A large golden pig resting peacefully in a misty Korean traditional courtyard at dawn, soft ink-wash illustration style, Korean traditional painting aesthetic (한국화), dreamlike ethereal atmosphere, warm golden light emanating from the pig, lotus flowers and auspicious clouds surrounding it, muted earth tones with rich gold highlights, no text, taemong conception dream imagery",
+    "aspectRatio": "16:9"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/pig-taemong/auspicious.png",
+      "alt_ko": "살찐 돼지가 한국 전통 가옥 대문으로 들어오는 길몽 장면",
+      "alt_en": "A plump pig entering a traditional Korean house gate, symbolizing great fortune and blessings",
+      "prompt": "A plump healthy pig entering a traditional Korean wooden house through the gate, golden sunlight streaming in, auspicious red lanterns hanging above, soft watercolor style, warm glowing tones, Korean folk painting aesthetic, prosperity and abundance symbolism, flowers blooming, no text, dreamlike quality",
+      "aspectRatio": "4:3"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/pig-taemong/inauspicious.png",
+      "alt_ko": "대나무 숲을 달리는 멧돼지 태몽 일러스트",
+      "alt_en": "A wild boar charging through misty bamboo forest, representing the strong-willed wild boar taemong",
+      "prompt": "A wild boar charging through misty bamboo forest at twilight, powerful and untamed, ink-wash illustration style, Korean traditional painting aesthetic, dramatic light and shadow, muted dark tones with moonlight filtering through bamboo leaves, strong dynamic movement, no text, dreamlike quality",
+      "aspectRatio": "4:3"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

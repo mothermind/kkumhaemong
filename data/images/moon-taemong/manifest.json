@@ -1,0 +1,27 @@
+{
+  "slug": "moon-taemong",
+  "hero": {
+    "path": "/images/dreams/moon-taemong/hero.png",
+    "alt_ko": "밤하늘 한국 산 위로 떠오르는 보름달 — 달 태몽 해몽",
+    "alt_en": "Full moon rising over misty Korean mountains at night — moon taemong dream interpretation",
+    "prompt": "A luminous full moon rising over misty Korean mountains at night, soft ink-wash illustration style, Korean traditional painting aesthetic, dreamlike atmosphere, the moon reflected in a still mountain lake, muted indigo and silver tones with warm golden moonlight, gentle mist curling around pine trees, no text, taemong conception dream symbolism"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/moon-taemong/auspicious.png",
+      "alt_ko": "보름달을 두 손으로 안는 장면 — 달 태몽 길몽",
+      "alt_en": "Hands cradling a glowing full moon — auspicious moon taemong",
+      "prompt": "A glowing full moon being gently cradled in open hands, soft watercolor and ink-wash illustration style, Korean traditional painting aesthetic, warm golden and silver light radiating outward, symbolic of a blessed conception dream taemong, dreamlike and ethereal atmosphere, no text, auspicious and sacred mood"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/moon-taemong/inauspicious.png",
+      "alt_ko": "먹구름 속으로 사라지는 달 — 달 태몽 흉몽",
+      "alt_en": "Moon falling through dark stormy sky — inauspicious moon dream omen",
+      "prompt": "A moon falling from a dark stormy sky, ink-wash illustration style, Korean traditional painting aesthetic, dark indigo and charcoal tones, dramatic clouds obscuring the moon, sense of foreboding and warning, dreamlike atmosphere, no text, inauspicious omen symbolism"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

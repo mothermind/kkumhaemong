@@ -306,7 +306,10 @@
         "description": "Comprehensive guide to the meaning of funeral dreams in Korean tradition. Covers auspicious vs inauspicious patterns, variations by scenario, cultural context, and Western psychological perspectives.",
         "datePublished": "2026-03-11",
         "dateModified": "2026-03-11",
-        "inLanguage": ["ko", "en"],
+        "inLanguage": [
+          "ko",
+          "en"
+        ],
         "author": {
           "@type": "Organization",
           "name": "kkumhaemong.com"
@@ -347,10 +350,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/attending-funeral-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/attending-funeral-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/attending-funeral-dream/auspicious.png",
-      "inauspicious": "/images/dreams/attending-funeral-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/attending-funeral-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/attending-funeral-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

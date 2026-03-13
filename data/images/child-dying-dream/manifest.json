@@ -1,0 +1,30 @@
+{
+  "slug": "child-dying-dream",
+  "hero": {
+    "path": "/images/dreams/child-dying-dream/hero.png",
+    "alt_ko": "달빛 아래 평화롭게 잠든 아이, 한국화 수묵담채 스타일",
+    "alt_en": "A child sleeping peacefully beneath moonlight, Korean ink-wash illustration style",
+    "prompt": "A small child sleeping peacefully beneath a glowing moonlit sky, soft ink-wash illustration style, Korean traditional painting aesthetic, dreamlike atmosphere, misty ethereal light, willow branches, pale blue and silver tones, symbol of transformation and new beginnings, no text, no people awake, serene and mysterious",
+    "aspectRatio": "16:9"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/child-dying-dream/auspicious.png",
+      "alt_ko": "봄날 복숭아나무와 황금빛 요람, 길몽과 가정의 복을 상징",
+      "alt_en": "Blooming peach tree with a glowing golden cradle, symbolizing good fortune and family blessings",
+      "prompt": "A blooming peach tree in spring dawn mist, a small empty cradle beneath it glowing with warm golden light, Korean traditional ink-wash style, auspicious symbolism, soft peach and gold tones, symbol of good fortune and family blessings arriving, dreamlike atmosphere, no text",
+      "aspectRatio": "4:3"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/child-dying-dream/inauspicious.png",
+      "alt_ko": "빗속에 홀로 흔들리는 등불, 부모의 불안과 걱정을 상징",
+      "alt_en": "A lone lantern flickering in dark rain, symbolizing parental worry and anxiety",
+      "prompt": "A lone lantern flickering in dark rain, abandoned shoes by a puddle reflecting gray sky, Korean ink-wash style, somber and melancholic atmosphere, muted grey and dark blue tones, symbol of worry and parental anxiety, dreamlike quality, no text, no figures",
+      "aspectRatio": "4:3"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

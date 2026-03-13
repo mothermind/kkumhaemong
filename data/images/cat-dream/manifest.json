@@ -1,0 +1,27 @@
+{
+  "slug": "cat-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/cat-dream/hero.png",
+    "alt_ko": "한옥 문간에 앉은 고양이 — 수묵화 스타일 꿈 일러스트",
+    "alt_en": "A cat sitting in the doorway of a traditional Korean hanok house — ink-wash dream illustration",
+    "prompt": "A cat sitting calmly in the doorway of a traditional Korean hanok house, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, warm golden light, no text, no people, muted earth tones with soft amber glow"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/cat-dream/auspicious.png",
+      "alt_ko": "황금빛 고양이가 한옥으로 들어오는 길몽 장면",
+      "alt_en": "A golden cat entering a traditional Korean home — auspicious wealth omen",
+      "prompt": "A healthy golden cat entering through the open door of a traditional Korean home, sunlight streaming in, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), warm golden tones, spring blossoms in background, prosperous atmosphere, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/cat-dream/inauspicious.png",
+      "alt_ko": "달밤에 우는 검은 고양이 — 흉몽 경고 장면",
+      "alt_en": "A black cat wailing under the moon at night — inauspicious warning dream",
+      "prompt": "A black cat sitting alone on a dark rooftop at night, wailing under a pale moon, ink-wash illustration, Korean traditional painting aesthetic (한국화), cold blue and grey tones, ominous misty atmosphere, deep shadows, no text, no people"
+    }
+  ]
+}

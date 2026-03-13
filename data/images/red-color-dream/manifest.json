@@ -1,0 +1,27 @@
+{
+  "slug": "red-color-dream",
+  "hero": {
+    "path": "/images/dreams/red-color-dream/hero.png",
+    "alt_ko": "빨간색 꿈해몽 — 붉은 실크와 홍등이 있는 한국 전통 수묵화 스타일의 몽환적인 풍경",
+    "alt_en": "Red color dream interpretation — dreamlike Korean ink-wash landscape with crimson silk and red lanterns",
+    "prompt": "A dreamlike scene bathed in rich crimson and vermillion hues, soft ink-wash illustration style inspired by Korean traditional Minhwa painting, a misty landscape with red silk fabric flowing through ancient pine trees, glowing red lanterns, warm golden light, dreamlike atmosphere, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/red-color-dream/auspicious.png",
+      "alt_ko": "빨간색 길몽 — 활짝 핀 빨간 장미와 타오르는 붉은 불꽃, 번영과 열정의 상징",
+      "alt_en": "Red color auspicious dream — vibrant red roses and burning flames symbolizing prosperity and passion",
+      "prompt": "Auspicious red color dream, vibrant red roses in full bloom against a golden sunrise, red flames dancing upward in a ceremonial brazier, Korean traditional ink-wash painting style, warm crimson and gold tones, symbols of prosperity and passion, soft brushwork, dreamlike quality, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/red-color-dream/inauspicious.png",
+      "alt_ko": "빨간색 흉몽 — 바래지는 붉은 하늘과 어두운 풍경, 운이 기울고 있음을 경고하는 이미지",
+      "alt_en": "Red color inauspicious dream — fading crimson sky and dark landscape warning of declining fortune",
+      "prompt": "Inauspicious red dream, fading and dimming crimson color washing out to grey, stormy blood-red sky over a dark landscape, red clothing being lost in strong wind, Korean ink-wash painting style, ominous atmosphere, warning energy, muted and draining tones, no text, no people"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

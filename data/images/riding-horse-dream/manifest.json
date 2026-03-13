@@ -1,0 +1,27 @@
+{
+  "slug": "riding-horse-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/riding-horse-dream/hero.png",
+    "alt_ko": "안개 낀 산악 지형을 힘차게 달리는 말의 수묵화 일러스트",
+    "alt_en": "Ink-wash watercolor illustration of a powerful horse galloping across misty mountain terrain",
+    "prompt": "A magnificent horse galloping powerfully across misty mountain terrain, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike hazy atmosphere, golden sunrise light filtering through mist, dynamic flowing mane and tail, no text, no people, muted earth tones with golden highlights"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/riding-horse-dream/auspicious.png",
+      "alt_ko": "황금빛 구름 위를 나는 천마의 수묵화 — 길몽과 상서로운 기운을 상징",
+      "alt_en": "Majestic winged heavenly horse ascending through golden clouds — symbolizing auspicious fortune",
+      "prompt": "A majestic horse soaring through golden clouds, winged heavenly horse ascending toward sunrise, Korean traditional ink-wash watercolor style, warm golden and amber tones, celestial divine atmosphere, flowing ribbons of light, misty mountain peaks below, no text, no people, auspicious fortune symbolism"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/riding-horse-dream/inauspicious.png",
+      "alt_ko": "폭풍우 속 어둠 속에서 넘어지는 말의 수묵화 — 흉몽과 경고의 상징",
+      "alt_en": "Horse stumbling in dark storm — symbolizing inauspicious warning in dream interpretation",
+      "prompt": "A horse stumbling and falling on dark stormy ground, dramatic Korean ink-wash illustration, deep indigo and dark blue tones, heavy storm clouds gathering, ominous shadowy atmosphere, wild untamed horse losing footing in darkness, no text, no people, foreboding warning symbolism"
+    }
+  ]
+}

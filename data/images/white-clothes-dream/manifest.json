@@ -1,0 +1,30 @@
+{
+  "slug": "white-clothes-dream",
+  "hero": {
+    "path": "/images/dreams/white-clothes-dream/hero.png",
+    "alt_ko": "새벽 안개 속에서 빛나는 흰옷을 입은 인물",
+    "alt_en": "A luminous figure in radiant white robes standing in misty dawn light",
+    "prompt": "A luminous figure draped in radiant white Korean traditional robes, standing in misty dawn light, soft ink-wash illustration style, Korean traditional painting aesthetic, dreamlike atmosphere, ethereal glow emanating from the white garments, muted pearl tones with subtle golden highlights, no text, wide cinematic composition",
+    "aspectRatio": "16:9"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/white-clothes-dream/auspicious.png",
+      "alt_ko": "흰옷을 선물로 건네는 할머니",
+      "alt_en": "An elderly woman in white hanbok presenting white robes as a gift",
+      "prompt": "An elderly wise woman in pristine white Korean hanbok presenting a folded white robe as a gift, warm golden morning light, soft watercolor illustration style, Korean traditional painting aesthetic, auspicious celebratory atmosphere, cherry blossoms in background, serene and dignified, no text",
+      "aspectRatio": "4:3"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/white-clothes-dream/inauspicious.png",
+      "alt_ko": "소복을 입은 귀신이 달빛 속에 나타나는 장면",
+      "alt_en": "A ghostly figure in white mourning robes appearing in moonlit darkness",
+      "prompt": "A ghostly figure in tattered white Korean mourning robes (소복) appearing in misty moonlit darkness, ink-wash illustration style, Korean traditional ghost aesthetic, haunting dreamlike atmosphere, pale white fabric with dark stains, weeping willow branches, somber mood, no text",
+      "aspectRatio": "4:3"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

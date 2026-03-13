@@ -1,0 +1,27 @@
+{
+  "slug": "wedding-ring-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4-fast",
+  "hero": {
+    "path": "/images/dreams/wedding-ring-dream/hero.png",
+    "alt_ko": "황금빛 결혼반지와 곶감꽃이 어우러진 한국화 스타일 수채화 일러스트",
+    "alt_en": "A golden wedding ring resting on silk and dried persimmon flowers, Korean ink-wash watercolor illustration",
+    "prompt": "A golden wedding ring resting on a bed of silk and dried persimmon flowers, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, warm golden candlelight glow, no text, no people, soft ivory and gold palette"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/wedding-ring-dream/auspicious.png",
+      "alt_ko": "벚꽃 아래 빛나는 황금 결혼반지 두 개가 교차된 한국화 수채화 일러스트",
+      "alt_en": "Two intertwined golden wedding rings glowing beneath cherry blossoms, Korean watercolor illustration",
+      "prompt": "Two intertwined golden wedding rings glowing beneath a blooming cherry blossom branch, warm sunlight filtering through petals, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike spring atmosphere, golden and pale pink palette, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/wedding-ring-dream/inauspicious.png",
+      "alt_ko": "어두운 빗속에 깨진 결혼반지가 돌 위에 놓인 한국화 수채화 일러스트",
+      "alt_en": "A cracked wedding ring lying on dark stone under a stormy night sky, Korean ink-wash watercolor illustration",
+      "prompt": "A cracked wedding ring lying on dark stone under a stormy night sky, raindrops falling, deep shadows and cold blue moonlight, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, foreboding and melancholic atmosphere, dark indigo and charcoal palette, no text, no people"
+    }
+  ]
+}

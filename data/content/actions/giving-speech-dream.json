@@ -299,10 +299,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/giving-speech-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/giving-speech-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/giving-speech-dream/auspicious.png",
-      "inauspicious": "/images/dreams/giving-speech-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/giving-speech-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/giving-speech-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

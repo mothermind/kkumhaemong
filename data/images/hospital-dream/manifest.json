@@ -1,0 +1,27 @@
+{
+  "slug": "hospital-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4",
+  "hero": {
+    "path": "/images/dreams/hospital-dream/hero.png",
+    "alt_ko": "새벽 안개 속 한국 전통 병원 건물 — 병원 꿈해몽",
+    "alt_en": "Traditional Korean hospital building through misty dawn air — hospital dream interpretation",
+    "prompt": "A large traditional Korean hospital building viewed through misty mountain air at dawn, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, lantern-lit entrance, pine trees flanking the entrance, muted grey-blue tones with warm amber glow at the doorway, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/hospital-dream/auspicious.png",
+      "alt_ko": "매화꽃 피는 병원 마당 — 길몽 병원 꿈",
+      "alt_en": "Blooming plum blossoms in a hospital courtyard at golden sunrise — auspicious hospital dream",
+      "prompt": "A serene hospital courtyard bathed in golden morning light, a healing garden with blooming plum blossoms and a gentle stream, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, warm golden and spring-green tones, sunrise symbolism, dreamlike hopeful atmosphere, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/hospital-dream/inauspicious.png",
+      "alt_ko": "어두운 병원 복도 — 흉몽 병원 꿈",
+      "alt_en": "Dim hospital corridor at night with flickering lantern light — inauspicious hospital dream",
+      "prompt": "A dim hospital corridor at night, empty stretcher in a shadowy hallway, flickering lantern light casting long shadows, soft ink-wash illustration, Korean traditional painting aesthetic, cool indigo and deep grey tones, misty eerie atmosphere, no text, no people"
+    }
+  ]
+}

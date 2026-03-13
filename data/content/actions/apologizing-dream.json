@@ -308,10 +308,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/apologizing-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/apologizing-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/apologizing-dream/auspicious.png",
-      "inauspicious": "/images/dreams/apologizing-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/apologizing-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/apologizing-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

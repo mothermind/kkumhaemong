@@ -1,0 +1,27 @@
+{
+  "slug": "hair-falling-out-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/hair-falling-out-dream/hero.png",
+    "alt_ko": "꿈속에서 머리카락이 안개 속으로 흩날리는 한국화 수묵 수채화 일러스트",
+    "alt_en": "Long black hair strands drifting through mist, Korean ink-wash watercolor illustration",
+    "prompt": "Long strands of black hair drifting slowly downward through mist, scattered on weathered wooden floor, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike misty atmosphere, muted grey and deep indigo tones, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/hair-falling-out-dream/auspicious.png",
+      "alt_ko": "봄날 새싹이 돋아나는 대지, 황금빛 일출과 함께 운기가 회복되는 한국화 수채화",
+      "alt_en": "New growth sprouting from earth with golden sunrise light, Korean watercolor illustration representing recovery of fortune",
+      "prompt": "New hair sprouting from bare earth, surrounded by blooming spring wildflowers and morning dew, warm golden sunrise light, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, hopeful and luminous atmosphere, warm earth tones with golden highlights, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/hair-falling-out-dream/inauspicious.png",
+      "alt_ko": "차가운 밤바람에 잎을 잃어가는 가지, 먹구름이 몰려오는 산, 흉몽을 상징하는 한국화 수묵화",
+      "alt_en": "Withered branches losing last leaves in cold night wind, storm clouds over lone mountain, Korean ink-wash watercolor representing an inauspicious dream",
+      "prompt": "Withered branches losing the last of their leaves in a cold night wind, dark storm clouds gathering over a lone mountain, deep blue and charcoal shadows, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, foreboding dreamlike atmosphere, no text, no people"
+    }
+  ]
+}

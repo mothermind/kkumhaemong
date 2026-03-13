@@ -1,0 +1,27 @@
+{
+  "slug": "falling-from-mountain-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4",
+  "hero": {
+    "path": "/images/dreams/falling-from-mountain-dream/hero.png",
+    "alt_ko": "안개 자욱한 한국 산 정상에서 떨어지는 꿈을 표현한 수묵화 풍 일러스트",
+    "alt_en": "Ink-wash illustration of a dreamlike fall from a mist-shrouded Korean mountain peak",
+    "prompt": "A lone figure tumbling from a mist-shrouded Korean mountain peak, ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty mountain atmosphere, deep purples and cool blues with moonlit silver highlights, ethereal fog rolling between rocky crags, no text, no people visible, abstract sense of falling motion"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/falling-from-mountain-dream/auspicious.png",
+      "alt_ko": "황금빛 아침 햇살이 내리쬐는 한국 산 정상과 꽃이 피는 계곡을 표현한 길몽 일러스트",
+      "alt_en": "Auspicious ink-wash illustration of a golden sunrise over a Korean mountain with a flower-filled valley below",
+      "prompt": "A majestic Korean mountain peak bathed in warm golden sunrise light, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), a serene landing on flower-filled valley below, warm earth tones with golden rays, spring blossoms, misty morning air, hopeful and auspicious atmosphere, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/falling-from-mountain-dream/inauspicious.png",
+      "alt_ko": "폭풍이 몰아치는 어두운 한국 절벽을 표현한 흉몽 일러스트",
+      "alt_en": "Inauspicious ink-wash illustration of a stormy dark Korean mountain cliff with jagged rocks",
+      "prompt": "A treacherous rocky Korean mountain in stormy darkness, ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), steep cliff edge with swirling dark storm clouds, deep cold blues and indigos, lightning in distance, jagged rocks below, ominous and foreboding atmosphere, no text"
+    }
+  ]
+}

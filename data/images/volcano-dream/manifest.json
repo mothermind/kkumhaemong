@@ -1,0 +1,27 @@
+{
+  "slug": "volcano-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/volcano-dream/hero.png",
+    "alt_ko": "화산이 불과 연기를 뿜으며 폭발하는 몽환적인 한국화 스타일 일러스트",
+    "alt_en": "A majestic volcanic eruption with fire and smoke in a dreamlike Korean ink-wash illustration style",
+    "prompt": "A majestic volcanic mountain erupting with towering pillars of fire and smoke against a twilight sky, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, no text, no people, deep indigo and amber color palette with golden ember glow"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/volcano-dream/auspicious.png",
+      "alt_ko": "분화구에서 황금빛 푸른 불꽃이 솟아오르는 길몽 화산 일러스트",
+      "alt_en": "A volcano shooting golden-blue flames skyward, representing auspicious fortune in a Korean traditional painting style",
+      "prompt": "A volcanic mountain glowing with golden-blue flames shooting skyward, warm sunrise light bathing the summit, auspicious fortune imagery, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, no text, no people, warm golden and cerulean blue color palette"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/volcano-dream/inauspicious.png",
+      "alt_ko": "화산재와 식어가는 용암으로 뒤덮인 황량한 흉몽 화산 풍경 일러스트",
+      "alt_en": "A desolate volcanic landscape covered in grey ash and cooling lava, representing inauspicious warning in a Korean ink-wash illustration style",
+      "prompt": "A dark volcanic landscape covered in grey ash and cooling lava flows under a stormy overcast sky, foreboding and desolate atmosphere, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, no text, no people, cool grey, deep charcoal and muted crimson color palette"
+    }
+  ]
+}

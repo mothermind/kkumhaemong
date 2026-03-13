@@ -1,0 +1,28 @@
+{
+  "slug": "golden-pig-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/golden-pig-dream/hero.png",
+    "alt_ko": "황금 돼지가 한국 전통 마당에 서서 황금빛 빛을 발산하는 꿈 삽화",
+    "alt_en": "A radiant golden pig standing in a traditional Korean courtyard, emanating golden light — dream illustration",
+    "prompt": "A magnificent golden pig standing in a traditional Korean courtyard, radiant golden light emanating from its body, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, cherry blossom petals drifting, warm golden sunrise hues, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/golden-pig-dream/auspicious.png",
+      "alt_ko": "여의주를 입에 문 황금 돼지가 금화와 모란꽃에 둘러싸인 길몽 삽화",
+      "alt_en": "A golden pig holding a glowing jewel in its mouth, surrounded by golden coins and peony blossoms — auspicious fortune illustration",
+      "prompt": "A golden pig carrying a glowing jewel (여의주) in its mouth, surrounded by floating golden coins and blooming peonies, traditional Korean ink-wash painting style, warm amber and gold tones, sunbeams streaming through misty mountains, auspicious fortune atmosphere, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "type": "inauspicious",
+      "path": "/images/dreams/golden-pig-dream/inauspicious.png",
+      "alt_ko": "황금빛이 바래며 어둠 속으로 도망가는 돼지를 표현한 흉몽 삽화",
+      "alt_en": "A golden pig fleeing into dark mist, its golden sheen fading — cautionary dream illustration",
+      "prompt": "A golden pig fleeing into dark mist, its golden sheen fading to dull bronze, Korean ink-wash illustration style, deep shadow and cool blue tones, stormy night sky, withered autumn reeds, sense of fortune slipping away, melancholic dreamlike atmosphere, no text, no people"
+    }
+  ]
+}

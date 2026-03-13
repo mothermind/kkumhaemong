@@ -253,7 +253,10 @@
             "url": "https://kkumhaemong.com/logo.png"
           }
         },
-        "inLanguage": ["ko", "en"],
+        "inLanguage": [
+          "ko",
+          "en"
+        ],
         "about": {
           "@type": "Thing",
           "name": "떨어지는 꿈",
@@ -289,10 +292,10 @@
     ]
   },
   "images": {
-    "hero": "/images/dreams/falling-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/falling-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/falling-dream/auspicious.png",
-      "inauspicious": "/images/dreams/falling-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/falling-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/falling-dream/inauspicious.webp"
     }
   }
 }

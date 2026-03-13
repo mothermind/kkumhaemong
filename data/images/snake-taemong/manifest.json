@@ -1,0 +1,27 @@
+{
+  "slug": "snake-taemong",
+  "hero": {
+    "path": "/images/dreams/snake-taemong/hero.png",
+    "alt_ko": "새벽 안개 속 바위 위에 똬리를 튼 황금빛 구렁이 — 뱀 태몽 대표 이미지",
+    "alt_en": "A majestic golden python coiled on misty mountain rocks at dawn — snake taemong hero image",
+    "prompt": "A large majestic python serpent coiled among misty mountain rocks at dawn, soft ink-wash illustration style, Korean traditional painting aesthetic (한국화), dreamlike luminous atmosphere, the snake glowing with golden and white light, muted earth tones with subtle golden highlights, wisps of morning mist, no text, wide cinematic composition"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/snake-taemong/auspicious.png",
+      "alt_ko": "벚꽃 가지를 감싸는 황금 뱀 — 뱀 태몽 길몽 이미지",
+      "alt_en": "A radiant golden serpent coiled around blooming cherry blossom branches — snake taemong auspicious illustration",
+      "prompt": "A radiant golden serpent coiled gracefully around a branch of blooming cherry blossoms, soft watercolor illustration style, Korean traditional painting aesthetic, auspicious and joyful atmosphere, warm golden light bathing the scene, delicate pink petals falling, symbol of prosperity and new life, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/snake-taemong/inauspicious.png",
+      "alt_ko": "폭풍 구름 아래 어둠 속으로 사라지는 검은 뱀 — 뱀 태몽 흉몽 이미지",
+      "alt_en": "A dark coiled snake disappearing into shadows beneath storm clouds — snake taemong inauspicious illustration",
+      "prompt": "A dark coiled snake in shadows beneath storm clouds, Korean ink-wash illustration style, ominous grey and deep purple tones, threatening atmosphere, rain falling in the distance, the snake facing away and disappearing into darkness, symbol of caution and uncertainty, no text"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

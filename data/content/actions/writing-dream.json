@@ -332,10 +332,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/writing-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/writing-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/writing-dream/auspicious.png",
-      "inauspicious": "/images/dreams/writing-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/writing-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/writing-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

@@ -1,0 +1,27 @@
+{
+  "slug": "new-clothes-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/new-clothes-dream/hero.png",
+    "alt_ko": "새 한복 옷감이 나무 상자 위에 가지런히 놓여 있고 아침 안개가 자욱한 몽환적인 한국화 스타일 삽화",
+    "alt_en": "Neatly folded new Korean hanbok garments resting on a wooden chest in soft morning mist, dreamlike ink-wash illustration",
+    "prompt": "A neatly folded set of new traditional Korean hanbok garments resting on a wooden chest, surrounded by soft morning mist, ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike atmosphere, warm golden light filtering through paper screen doors, muted earth tones with soft jade and ivory, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/new-clothes-dream/auspicious.png",
+      "alt_ko": "황금빛 아침 햇살 속 화려한 새 한복이 걸려 있고 벚꽃이 흩날리는 길몽 장면",
+      "alt_en": "Radiant new silk hanbok displayed on a wooden stand in warm golden sunlight with cherry blossoms drifting, auspicious spring scene",
+      "prompt": "A joyful scene of radiant new silk hanbok garments displayed on a wooden stand in warm golden morning sunlight, cherry blossoms drifting in the background, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike golden atmosphere, auspicious warm tones of red and gold, spring motifs, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/new-clothes-dream/inauspicious.png",
+      "alt_ko": "어두운 방 구석에 방치된 새 옷이 달빛 아래 쓸쓸하게 놓여 있는 흉몽 장면",
+      "alt_en": "New garments left forgotten in a shadowy corner of an empty room under cold blue moonlight, a scene of neglect and loss",
+      "prompt": "A dark scene of new garments left forgotten and crumpled in a shadowy corner of an empty room, moonlight casting cold blue light through a narrow window, ink-wash watercolor illustration, Korean traditional painting aesthetic, somber dreamlike atmosphere, deep indigo and grey tones, falling leaves, an air of neglect and loss, no text, no people"
+    }
+  ]
+}

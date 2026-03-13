@@ -282,7 +282,10 @@
         "description": "씻는 꿈 해몽 — 목욕하는 꿈, 샤워하는 꿈, 손 씻는 꿈의 의미를 길몽·흉몽으로 완벽 정리. 씻어도 안 깨끗한 꿈의 경고 신호까지 자세히 알아보세요.",
         "datePublished": "2026-03-11",
         "dateModified": "2026-03-11",
-        "inLanguage": ["ko", "en"],
+        "inLanguage": [
+          "ko",
+          "en"
+        ],
         "publisher": {
           "@type": "Organization",
           "name": "꿈해몽 (kkumhaemong.com)",
@@ -320,10 +323,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/washing-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/washing-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/washing-dream/auspicious.png",
-      "inauspicious": "/images/dreams/washing-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/washing-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/washing-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

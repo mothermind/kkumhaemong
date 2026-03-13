@@ -1,0 +1,30 @@
+{
+  "slug": "subway-dream",
+  "hero": {
+    "path": "/images/dreams/subway-dream/hero.png",
+    "alt_ko": "지하철이 지하 터널에서 지상으로 올라오는 몽환적인 수채화 일러스트",
+    "alt_en": "Dreamlike ink-wash illustration of a subway train emerging from an underground tunnel into morning light",
+    "prompt": "A modern subway train emerging from an underground tunnel into the morning light above a city, soft ink-wash illustration style, Korean traditional painting aesthetic meets contemporary urban scene, dreamlike atmosphere, misty dawn light illuminating the train as it rises to the surface, muted blues and warm golden tones, no text, no people",
+    "aspectRatio": "16:9"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/subway-dream/auspicious.png",
+      "alt_ko": "밝은 지하철 플랫폼에서 목적지에 도착해 내리는 장면의 수채화 일러스트",
+      "alt_en": "Watercolor illustration of a person stepping off a subway at a bright destination platform, symbolizing achievement",
+      "prompt": "A person stepping off a subway train at a bright station platform, passengers celebrating success, warm golden light streaming in, soft watercolor illustration style, Korean artistic aesthetic, dreamlike and hopeful atmosphere, vibrant yellows and warm tones symbolizing achievement and arrival, no text",
+      "aspectRatio": "4:3"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/subway-dream/inauspicious.png",
+      "alt_ko": "어두운 지하철 플랫폼에서 떠나는 열차를 바라보는 외로운 인물의 수묵화 일러스트",
+      "alt_en": "Ink-wash illustration of a lone figure watching a subway train depart into darkness, symbolizing missed opportunity",
+      "prompt": "A lone figure standing on a dark subway platform as a train departs into a black tunnel, soft ink-wash illustration style, Korean painting aesthetic, moody and melancholic atmosphere, dark blues and deep shadows, the train lights fading into darkness representing missed opportunity and isolation, no text",
+      "aspectRatio": "4:3"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

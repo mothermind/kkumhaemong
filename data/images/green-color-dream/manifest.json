@@ -1,0 +1,27 @@
+{
+  "slug": "green-color-dream",
+  "hero": {
+    "path": "/images/dreams/green-color-dream/hero.png",
+    "alt_ko": "초록색 꿈해몽 — 울창한 초록 숲 풍경",
+    "alt_en": "Green color dream interpretation — lush green forest landscape",
+    "prompt": "A serene lush green forest landscape in soft Korean ink-wash watercolor style, towering trees with vibrant emerald leaves filtering misty morning light, moss-covered ground, dreamlike atmosphere, traditional Korean painting aesthetic inspired by 한국화, no text, no people, wide panoramic view"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/green-color-dream/auspicious.png",
+      "alt_ko": "초록색 길몽 — 초록 새와 꽃이 있는 풍요로운 자연",
+      "alt_en": "Green auspicious dream — vivid green bird on blossoming branch symbolizing good fortune",
+      "prompt": "A vivid green bird perched on a blooming branch, surrounded by lush green foliage and delicate green flowers, soft watercolor illustration in Korean traditional painting style, warm golden morning light, dreamlike serene atmosphere, symbol of good fortune and harmony, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/green-color-dream/inauspicious.png",
+      "alt_ko": "초록색 흉몽 — 어두운 늪과 부패한 식물",
+      "alt_en": "Green inauspicious dream — dark swamp with decaying plants warning of stagnation",
+      "prompt": "A dark murky swamp with decaying moss-covered rotting plants, sickly dark olive-green tones, wilting vegetation half-submerged in shadowy water, eerie and unsettling atmosphere, Korean ink-wash style illustration, muted oppressive palette, dreamlike but foreboding mood, no text, no people"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

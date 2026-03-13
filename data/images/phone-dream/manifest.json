@@ -1,0 +1,27 @@
+{
+  "slug": "phone-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4-fast",
+  "hero": {
+    "path": "/images/dreams/phone-dream/hero.png",
+    "alt_ko": "안개 낀 돌 위에 놓인 핸드폰을 그린 수묵화 풍 일러스트",
+    "alt_en": "Ink-wash illustration of a glowing smartphone resting on misty stones",
+    "prompt": "A glowing smartphone resting on a misty stone surface, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike hazy atmosphere, gentle blue-grey mist, subtle moonlight reflections, no text, no people, cool silver and midnight blue tones"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/phone-dream/auspicious.png",
+      "alt_ko": "봄꽃과 황금빛 빛 속의 새 핸드폰을 그린 길몽 일러스트",
+      "alt_en": "Auspicious illustration of a new phone glowing in golden sunrise light with spring flowers",
+      "prompt": "A golden glowing new smartphone wrapped in radiant sunrise light, blooming spring flowers and golden coins nearby, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike warm atmosphere, no text, no people, warm gold and peach tones"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/phone-dream/inauspicious.png",
+      "alt_ko": "폭풍우 속 부서진 핸드폰을 그린 흉몽 일러스트",
+      "alt_en": "Inauspicious illustration of a shattered phone on dark wet stones in a storm",
+      "prompt": "A cracked broken smartphone lying shattered on dark wet stones in heavy rain, dark storm clouds overhead, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), ominous dreamlike atmosphere, no text, no people, deep indigo and charcoal tones"
+    }
+  ]
+}

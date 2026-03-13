@@ -1,0 +1,27 @@
+{
+  "slug": "affair-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4",
+  "hero": {
+    "path": "/images/dreams/affair-dream/hero.png",
+    "alt_ko": "달빛 아래 한국 전통 마당에서 멀리 서 있는 두 실루엣, 바람피우는 꿈 해몽 이미지",
+    "alt_en": "Two distant silhouettes apart on a moonlit Korean traditional courtyard, dream of affair illustration",
+    "prompt": "A misty silhouette of two distant figures standing apart on a moonlit Korean traditional courtyard, shadows of separation, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, no text, no faces visible, muted indigo and silver tones with subtle warm lantern glow"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/affair-dream/auspicious.png",
+      "alt_ko": "황금빛 일출과 한국 전통 마을 지붕 위 홍등, 명예 상승을 상징하는 길몽 이미지",
+      "alt_en": "Golden sunrise over Korean traditional village rooftop with glowing lanterns, symbolizing rising honor and good fortune",
+      "prompt": "A golden sunrise over a Korean traditional village rooftop, warm glowing lanterns, blooming plum blossoms framing a path leading upward, symbolic of rising honor and new beginnings, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike warm atmosphere, no text, no people, golden and rose tones"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/affair-dream/inauspicious.png",
+      "alt_ko": "폭풍 구름 아래 한국 전통 마당의 어두운 밤, 부서진 대문과 시든 가지, 갈등과 비밀을 암시하는 흉몽 이미지",
+      "alt_en": "Dark Korean traditional courtyard at night under stormy clouds, broken gate and withered branches, symbolizing hidden secrets and domestic conflict",
+      "prompt": "A dark Korean traditional inner courtyard at night, heavy storm clouds obscuring a cold moon, broken gate hanging ajar, withered winter branches casting long shadows, symbolic of hidden secrets and domestic conflict, soft ink-wash illustration, Korean traditional painting aesthetic (한국화), dreamlike foreboding atmosphere, no text, no people, deep indigo, slate grey, and cold blue tones"
+    }
+  ]
+}

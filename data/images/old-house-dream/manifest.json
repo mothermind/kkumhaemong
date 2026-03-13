@@ -1,0 +1,27 @@
+{
+  "slug": "old-house-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4-fast",
+  "hero": {
+    "path": "/images/dreams/old-house-dream/hero.png",
+    "alt_ko": "안개 낀 언덕 위의 낡은 한옥 — 옛날 집 꿈해몽",
+    "alt_en": "Ancient Korean traditional house on a misty hillside — old house dream interpretation",
+    "prompt": "An ancient Korean traditional house nestled on a misty hillside at dusk, overgrown with moss and weathered with age, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, muted earth tones with soft grey-blue shadows, no text, no people, melancholy yet nostalgic mood"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/old-house-dream/auspicious.png",
+      "alt_ko": "따뜻한 햇살 가득한 한옥 마당 — 새로운 인연과 귀인을 만나는 길몽",
+      "alt_en": "Warmly lit Korean hanok courtyard at sunrise — auspicious omen of new connections",
+      "prompt": "A warmly lit old Korean hanok courtyard at sunrise, golden morning light streaming through paper screen doors, blooming plum blossoms in the courtyard, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike atmosphere, warm golden and amber tones, joyful reunion mood, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/old-house-dream/inauspicious.png",
+      "alt_ko": "달빛 아래 무너진 폐가 — 건강 쇠퇴와 재물 손실 경고",
+      "alt_en": "Decaying abandoned Korean house under cold moonlight — warning of health decline and financial loss",
+      "prompt": "A dark and decaying abandoned Korean house at night, broken roof tiles, crumbling earthen walls, cold blue moonlight illuminating overgrown weeds and empty windows, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike eerie atmosphere, deep navy blue and dark grey tones, foreboding mood, no text, no people"
+    }
+  ]
+}

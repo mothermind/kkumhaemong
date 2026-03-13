@@ -1,31 +1,27 @@
 {
   "slug": "drowning-dream",
-  "generatedAt": "2026-03-11T00:00:00.000Z",
-  "provider": "imagen-4.0-generate-001",
-  "status": "complete",
   "hero": {
     "path": "/images/dreams/drowning-dream/hero.png",
-    "alt_ko": "깊은 물속에서 수면 위 빛을 바라보는 인물, 남색과 청록 수묵화 일러스트",
-    "alt_en": "A figure submerged in dark water gazing up toward shimmering surface light, deep indigo ink-wash illustration",
-    "prompt": "A figure submerged in deep dark water looking upward toward shimmering light filtering through the surface, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike misty underwater atmosphere, deep indigo and cerulean tones with golden light shafts, no text",
-    "aspectRatio": "16:9"
+    "alt_ko": "물 아래로 가라앉는 꿈 — 익사하는 꿈 해몽 대표 이미지",
+    "alt_en": "Sinking beneath dark water — hero image for drowning dream interpretation",
+    "prompt": "A person sinking beneath dark water, viewed from below looking up toward a rippling surface with soft light filtering through, Korean ink-wash illustration style, dreamlike atmosphere, deep indigo and teal tones with glimmers of moonlight, no text, no people faces visible, symbolic and evocative, traditional East Asian aesthetic"
   },
   "sections": [
     {
       "type": "auspicious",
       "path": "/images/dreams/drowning-dream/auspicious.png",
-      "alt_ko": "황금빛 새벽 속에서 물 위로 솟아오르는 인물과 연꽃, 따뜻한 수묵화 일러스트",
-      "alt_en": "A figure rising from water into golden dawn light with lotus blossoms, warm ink-wash illustration",
-      "prompt": "A figure rising triumphantly from water into golden dawn light, arms outstretched, lotus blossoms floating on the surface, rebirth and renewal imagery, warm amber and gold palette, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, no text",
-      "aspectRatio": "4:3"
+      "alt_ko": "물 위로 솟아오르는 모습 — 익사 꿈 길몽 해석 이미지",
+      "alt_en": "Rising triumphantly from water toward light — auspicious interpretation of drowning dream",
+      "prompt": "A figure rising triumphantly from water toward bright light above, emerging from the deep, soft watercolor style, Korean traditional painting aesthetic, golden and warm tones, lotus flowers floating on the surface, symbol of rebirth and overcoming hardship, no text, dreamlike and hopeful atmosphere"
     },
     {
       "type": "inauspicious",
       "path": "/images/dreams/drowning-dream/inauspicious.png",
-      "alt_ko": "거센 파도에 휩쓸리는 실루엣, 어두운 심해 수묵화 일러스트",
-      "alt_en": "A silhouette engulfed in dark swirling water, deep navy and black ink-wash illustration",
-      "prompt": "Dark swirling water engulfing a silhouette, stormy ocean depths, turbulent waves pulling downward, sense of being overwhelmed and unable to surface, deep navy and black palette, ink-wash style with heavy expressive brushstrokes, Korean traditional painting aesthetic, no text",
-      "aspectRatio": "4:3"
+      "alt_ko": "거친 파도에 휩쓸리는 배 — 익사 꿈 흉몽 해석 이미지",
+      "alt_en": "Small boat engulfed by dark ocean waves — inauspicious interpretation of drowning dream",
+      "prompt": "Dark turbulent ocean waves engulfing a small boat, storm clouds above, ink-wash illustration style, Korean traditional painting aesthetic, deep blues and grays, ominous atmosphere conveying danger and being overwhelmed, no text, symbolic and moody, no people"
     }
-  ]
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
 }

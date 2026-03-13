@@ -1,0 +1,27 @@
+{
+  "slug": "airplane-crash-dream",
+  "hero": {
+    "path": "/images/dreams/airplane-crash-dream/hero.png",
+    "alt_ko": "폭풍 속 추락하는 비행기 수묵화 일러스트",
+    "alt_en": "Ink-wash illustration of an airplane falling through a stormy night sky",
+    "prompt": "A passenger airplane falling from a stormy night sky, soft ink-wash illustration style, Korean traditional painting aesthetic, dark dramatic clouds, muted navy and charcoal tones with faint amber glow from below, dreamlike atmospheric perspective, no text, no people visible"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/airplane-crash-dream/auspicious.png",
+      "alt_ko": "역경을 이겨낸 후 아침 빛 속에 선 인물의 수채화",
+      "alt_en": "Watercolor of a lone figure standing in golden morning light, symbolizing triumph over adversity",
+      "prompt": "A lone survivor standing in a misty field after overcoming adversity, soft watercolor illustration style, Korean traditional painting aesthetic, warm golden morning light breaking through clouds, hopeful and serene atmosphere, crane or phoenix silhouette in background, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/airplane-crash-dream/inauspicious.png",
+      "alt_ko": "폭풍우 속 부서진 비행기 날개와 어두운 바다의 수묵화",
+      "alt_en": "Ink-wash illustration of a broken airplane wing amid dark storm clouds and turbulent sea",
+      "prompt": "A broken airplane wing amid dark storm clouds and turbulent sea below, ink-wash illustration style, Korean traditional painting aesthetic, dramatic dark tones, ominous and foreboding atmosphere, heavy rain and lightning in distance, no text, no people"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

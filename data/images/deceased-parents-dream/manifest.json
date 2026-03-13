@@ -1,0 +1,27 @@
+{
+  "slug": "deceased-parents-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4",
+  "hero": {
+    "path": "/images/dreams/deceased-parents-dream/hero.png",
+    "alt_ko": "새벽 안개 속 한국 전통 마을 위를 감싸는 조상의 기운 — 돌아가신 부모님 꿈해몽",
+    "alt_en": "Ethereal ancestral spirit over a misty Korean village at dawn — deceased parents dream interpretation",
+    "prompt": "A serene ancestral spirit hovering over a tranquil Korean village at dawn, ethereal misty light filtering through pine trees, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, no text, no people, muted earth tones with soft golden dawn light"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/deceased-parents-dream/auspicious.png",
+      "alt_ko": "황금빛 아침 햇살이 한옥 대문을 비추는 길몽 — 조상의 축복과 재물운",
+      "alt_en": "Golden morning light illuminating a Korean hanok gate with plum blossoms — ancestral blessing and wealth fortune",
+      "prompt": "Golden morning light streaming through an open Korean hanok gate, warm sunlight illuminating traditional wooden beams, a serene garden with blooming plum blossoms and scattered gold coins symbolizing ancestral blessing, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, no text, warm earth tones and golden sunrise hues"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/deceased-parents-dream/inauspicious.png",
+      "alt_ko": "깊은 밤 안개 속 사라지는 한국 산길 — 경고의 흉몽",
+      "alt_en": "Dark moonlit Korean mountain path disappearing into deep mist — inauspicious warning dream",
+      "prompt": "A dark moonlit Korean mountain path disappearing into deep mist, shadowy pine trees looming overhead, a lantern casting cold blue-grey light on an empty stone path, foreboding stillness, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, no text, cool blue and deep grey tones, ominous night atmosphere"
+    }
+  ]
+}

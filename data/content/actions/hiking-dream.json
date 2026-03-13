@@ -328,10 +328,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/hiking-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/hiking-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/hiking-dream/auspicious.png",
-      "inauspicious": "/images/dreams/hiking-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/hiking-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/hiking-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

@@ -1,0 +1,30 @@
+{
+  "slug": "losing-shoes-dream",
+  "hero": {
+    "path": "/images/dreams/losing-shoes-dream/hero.png",
+    "alt_ko": "안개 낀 한국 전통 마을 돌길에 홀로 남겨진 신발",
+    "alt_en": "A lone shoe left behind on a misty stone path in a traditional Korean village at dusk",
+    "prompt": "A lone shoe left behind on a misty stone path in a traditional Korean village at dusk, soft ink-wash illustration style, Korean traditional painting aesthetic, dreamlike atmosphere, muted earth tones with subtle moonlight, no text, no people",
+    "aspectRatio": "16:9"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/losing-shoes-dream/auspicious.png",
+      "alt_ko": "햇살 아래 한국 전통 돌다리 위에서 다시 찾은 신발",
+      "alt_en": "Lost shoes found again on a sunlit stone bridge over a peaceful Korean stream",
+      "prompt": "Lost shoes found again on a sunlit stone bridge over a peaceful Korean stream, soft watercolor illustration style, Korean traditional painting aesthetic, warm golden morning light, hopeful dreamlike atmosphere, no text, no people",
+      "aspectRatio": "4:3"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/losing-shoes-dream/inauspicious.png",
+      "alt_ko": "달빛 아래 텅 빈 한옥 문 앞 돌계단 — 신발이 사라진 자리",
+      "alt_en": "Empty doorstep at a traditional Korean hanok house at night with shoes missing under cold moonlight",
+      "prompt": "An empty doorstep at a traditional Korean hanok house at night, shoes missing from where they should be placed, bare stone steps under cold moonlight, ink-wash illustration style, Korean traditional painting aesthetic, somber dreamlike atmosphere, muted blues and grays, no text, no people",
+      "aspectRatio": "4:3"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

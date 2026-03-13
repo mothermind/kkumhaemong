@@ -1,0 +1,27 @@
+{
+  "slug": "rabbit-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/rabbit-dream/hero.png",
+    "alt_ko": "달빛 아래 계수나무 옆 바위 위에 앉은 흰 토끼, 수묵화 스타일 꿈해몽 일러스트",
+    "alt_en": "White rabbit resting on moonlit mountain rocks beneath a cinnamon tree, ink-wash watercolor dream illustration",
+    "prompt": "A white rabbit resting on misty moonlit mountain rocks beneath a cinnamon tree, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmospheric mist, cool silver moonlight with golden accents, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/rabbit-dream/auspicious.png",
+      "alt_ko": "봄 들판에서 뛰노는 황금빛 토끼들, 풍요와 재물운을 상징하는 길몽 일러스트",
+      "alt_en": "Golden rabbits leaping across a sunlit spring meadow, symbolizing abundance and financial fortune",
+      "prompt": "Multiple golden rabbits leaping joyfully across a sunlit meadow with spring blossoms and glowing sunrise light, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), warm earth tones with golden radiance, abundant prosperity symbols, dreamlike atmosphere, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/rabbit-dream/inauspicious.png",
+      "alt_ko": "밤의 어두운 바위 사이로 사라지는 검은 토끼, 흉몽을 상징하는 수묵화 일러스트",
+      "alt_en": "A lone black rabbit vanishing into dark rocky underbrush at nightfall, symbolizing inauspicious fortune",
+      "prompt": "A lone black rabbit disappearing into dark rocky underbrush at nightfall, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), deep cool blues and charcoal shadows, stormy overcast sky, ominous moonless night, dreamlike foreboding atmosphere, no text, no people"
+    }
+  ]
+}

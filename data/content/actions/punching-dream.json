@@ -288,10 +288,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/punching-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/punching-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/punching-dream/auspicious.png",
-      "inauspicious": "/images/dreams/punching-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/punching-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/punching-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

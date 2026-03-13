@@ -1,0 +1,27 @@
+{
+  "slug": "rainbow-dream",
+  "hero": {
+    "path": "/images/dreams/rainbow-dream/hero.png",
+    "alt_ko": "비 온 뒤 한국 산골짜기에 걸린 선명한 무지개 수채화 일러스트",
+    "alt_en": "Vivid rainbow arching over a misty Korean mountain valley after rain, watercolor illustration",
+    "prompt": "A vivid rainbow arching across a misty Korean mountain valley after rain, soft watercolor illustration style, dreamlike atmosphere, Korean traditional painting aesthetic (한국화), morning light filtering through clouds, lush green hillsides, calm river below, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/rainbow-dream/auspicious.png",
+      "alt_ko": "황금빛 일출 하늘에 펼쳐진 쌍무지개 한국화 일러스트",
+      "alt_en": "Brilliant double rainbow spanning a golden sunrise sky over Korean countryside, ink-wash illustration",
+      "prompt": "A brilliant double rainbow spanning a golden sunrise sky over Korean countryside, auspicious and celebratory atmosphere, soft ink-wash illustration style, Korean traditional painting, warm golden and amber hues, cherry blossoms in foreground, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/rainbow-dream/inauspicious.png",
+      "alt_ko": "폭풍 먹구름 속으로 사라져 가는 끊어진 무지개 한국화 일러스트",
+      "alt_en": "Broken fading rainbow dissolving into stormy dark clouds over Korean landscape, ink-wash illustration",
+      "prompt": "A fading broken rainbow dissolving into stormy dark clouds over a misty Korean landscape, ominous and melancholic atmosphere, soft ink-wash illustration style, Korean traditional painting aesthetic, muted grey and dark blue tones, rain beginning to fall, no text, no people"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

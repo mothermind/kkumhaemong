@@ -1,0 +1,30 @@
+{
+  "slug": "taemong-dream",
+  "hero": {
+    "path": "/images/dreams/taemong-dream/hero.png",
+    "alt_ko": "태몽 — 황금 빛 안개 속 용이 승천하는 한국 전통 수묵화 스타일의 꿈 그림",
+    "alt_en": "Taemong — a luminous dragon ascending through golden mist over Korean mountains, ink-wash illustration style",
+    "prompt": "A luminous conception dream scene: a radiant dragon ascending through golden mist over Korean mountains, surrounded by soft glowing light, ink-wash illustration style inspired by Korean traditional painting (한국화), dreamlike atmosphere, misty mountain peaks, warm golden tones with ethereal blue-white light, no text, no watermark",
+    "aspectRatio": "16:9"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/taemong-dream/auspicious.png",
+      "alt_ko": "길몽 태몽 — 용과 빛나는 태양이 함께 등장하는 상서로운 태몽 장면",
+      "alt_en": "Auspicious taemong — a majestic dragon and glowing golden sun rising over serene mountains, symbols of great fortune",
+      "prompt": "An auspicious Korean taemong dream: a majestic dragon and glowing golden sun rising over serene mountains, vibrant and powerful symbols of fortune and new life, traditional Korean ink-wash painting style with warm gold and red tones, dreamlike soft glow, no text",
+      "aspectRatio": "4:3"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/taemong-dream/inauspicious.png",
+      "alt_ko": "흉몽 태몽 — 시들어가는 꽃과 사라지는 상징물이 등장하는 어두운 태몽 장면",
+      "alt_en": "Inauspicious taemong — a faded withered flower and symbolic object slipping away into dark mist",
+      "prompt": "An inauspicious Korean taemong dream: a faded withered flower and a symbolic object slipping away into dark mist, melancholy dreamlike atmosphere, muted grey and blue tones, traditional Korean ink-wash painting style, no text",
+      "aspectRatio": "4:3"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

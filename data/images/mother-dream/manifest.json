@@ -1,0 +1,27 @@
+{
+  "slug": "mother-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/mother-dream/hero.png",
+    "alt_ko": "한복을 입고 매화나무 아래 앉아 있는 어머니의 꿈 이미지",
+    "alt_en": "A gentle mother figure in hanbok seated beneath a blossoming plum tree, dreamlike ink-wash illustration",
+    "prompt": "A gentle elderly Korean woman in hanbok seated beneath a blossoming plum tree, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, warm morning light filtering through mist, no text, no faces visible, muted earth tones with soft pink and gold highlights"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/mother-dream/auspicious.png",
+      "alt_ko": "어머니가 음식을 차려주는 따뜻한 부엌 장면 — 어머니 꿈 길몽",
+      "alt_en": "A warm traditional Korean kitchen with steaming food, symbolizing the auspicious mother dream",
+      "prompt": "A warm kitchen scene with steaming bowls of rice and traditional Korean food on a low wooden table, golden morning sunlight streaming through paper screen doors, a pair of hands in hanbok sleeves arranging food, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike joyful atmosphere, warm golden and amber tones, no text, no faces"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/mother-dream/inauspicious.png",
+      "alt_ko": "빗속에 홀로 놓인 한복 — 어머니 꿈 흉몽",
+      "alt_en": "A lone candle in an empty Korean room at night, cold moonlight and rain, symbolizing the inauspicious mother dream",
+      "prompt": "An empty Korean traditional room at night, a lone candle flickering on a wooden floor, rain streaking down a paper screen window, moonlight casting cold blue shadows on a neatly folded hanbok left alone, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike melancholic atmosphere, cool blues and deep indigo tones, no text, no people"
+    }
+  ]
+}

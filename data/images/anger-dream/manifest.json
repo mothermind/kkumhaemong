@@ -1,0 +1,30 @@
+{
+  "slug": "anger-dream",
+  "hero": {
+    "path": "/images/dreams/anger-dream/hero.png",
+    "alt_ko": "꿈속 분노 — 안개 낀 산 위에서 폭풍을 맞이하는 인물, 수묵화 스타일",
+    "alt_en": "Anger dream — lone figure on misty mountain confronting storm clouds, ink-wash illustration style",
+    "prompt": "A lone figure standing on a misty mountainside at dusk, fists clenched, storm clouds gathering overhead with lightning in the distance, ink-wash illustration style, Korean traditional painting aesthetic, dreamlike atmosphere, deep indigo and charcoal tones with flashes of amber, emotional tension in the brushwork, no text, no people faces visible",
+    "aspectRatio": "16:9"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/anger-dream/auspicious.png",
+      "alt_ko": "화해와 평화 — 등불이 켜진 마당에서 마주 선 두 인물, 조화로운 분위기, 수묵화 스타일",
+      "alt_en": "Reconciliation and peace — two silhouettes facing each other in a lantern-lit courtyard, harmonious mood, ink-wash illustration",
+      "prompt": "Two silhouettes facing each other across a lantern-lit courtyard at night, one bowing respectfully while the other stands tall with open arms, soft ink-wash illustration, Korean traditional painting aesthetic, warm golden and soft pink tones, harmony and reconciliation, dreamlike quality, no text",
+      "aspectRatio": "4:3"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/anger-dream/inauspicious.png",
+      "alt_ko": "억눌린 감정과 고독 — 빗속에 홀로 웅크린 인물, 어두운 수묵화 스타일",
+      "alt_en": "Suppressed emotion and isolation — solitary figure hunched under heavy rain, dark ink-wash illustration",
+      "prompt": "A solitary figure sitting hunched under heavy rain in an empty room, shadows pressing inward, cracked ink-wash brushwork, Korean traditional painting aesthetic, deep grey and cold blue tones, emotional exhaustion and inner storm, dreamlike atmosphere, no text",
+      "aspectRatio": "4:3"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00Z",
+  "provider": "imagen4"
+}

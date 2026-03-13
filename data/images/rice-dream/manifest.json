@@ -1,0 +1,27 @@
+{
+  "slug": "rice-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/rice-dream/hero.png",
+    "alt_ko": "전통 나무 쟁반 위에 김이 오르는 흰 쌀밥 그릇, 한국화 스타일 수묵 수채화",
+    "alt_en": "A steaming bowl of white rice on a traditional Korean wooden tray, ink-wash watercolor illustration",
+    "prompt": "A steaming bowl of white rice placed on a traditional Korean wooden tray, surrounded by misty morning light and delicate ink-wash brushwork, soft watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, warm golden tones, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/rice-dream/auspicious.png",
+      "alt_ko": "황금빛 쌀이 넘쳐흐르는 밥솥과 전통 도자기 그릇, 풍요를 상징하는 한국화 수채화",
+      "alt_en": "An overflowing rice cooker with golden rice and traditional Korean ceramic bowls, symbolizing abundance",
+      "prompt": "An overflowing rice cooker pouring abundant golden rice, surrounded by warm sunrise light, autumn harvest symbols, and traditional Korean ceramic bowls, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, warm earth tones and golden highlights, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/rice-dream/inauspicious.png",
+      "alt_ko": "검게 탄 밥솥과 쏟아진 밥, 어두운 폭풍 분위기의 한국화 수채화",
+      "alt_en": "A burnt black rice pot with charred rice spilling over on a dark stormy night, Korean ink-wash illustration",
+      "prompt": "A burnt black rice pot with charred rice spilling over, cracked ceramic bowls on a dark storm-lit table, cold blue shadows and moonless night atmosphere, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike foreboding atmosphere, deep cool blues and grey tones, no text, no people"
+    }
+  ]
+}

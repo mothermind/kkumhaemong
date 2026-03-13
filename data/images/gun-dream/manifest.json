@@ -1,0 +1,27 @@
+{
+  "slug": "gun-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4",
+  "hero": {
+    "path": "/images/dreams/gun-dream/hero.png",
+    "alt_ko": "안개 낀 산 바위 위에 놓인 장식적인 고풍스러운 권총, 한국 수묵화 스타일의 몽환적인 일러스트",
+    "alt_en": "An ornate antique pistol resting on misty mountain rocks, dreamlike Korean ink-wash illustration",
+    "prompt": "An ornate antique pistol resting on misty mountain rocks surrounded by swirling ink-wash mist, soft watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, muted earth tones with subtle golden highlights, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/gun-dream/auspicious.png",
+      "alt_ko": "황금빛 햇살 아래 비단 방석 위에 놓인 황금 권총과 매화꽃, 길몽을 상징하는 한국화 스타일 일러스트",
+      "alt_en": "A golden ornate pistol on a silk cushion surrounded by plum blossoms and coins in warm sunrise light, auspicious Korean painting style",
+      "prompt": "A golden ornate pistol gleaming in warm sunrise light on a silk cushion surrounded by blooming plum blossoms and coins, soft watercolor illustration, Korean traditional painting aesthetic, dreamlike auspicious atmosphere, warm golden tones, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/gun-dream/inauspicious.png",
+      "alt_ko": "폭풍우 속 어두운 그림자에 가려진 총신, 흉몽을 상징하는 한국화 스타일의 불길한 일러스트",
+      "alt_en": "A dark gun barrel aimed through stormy rain and deep shadows, foreboding Korean ink-wash illustration",
+      "prompt": "A dark weathered gun barrel aimed through stormy rain and deep shadows with broken chains nearby, ink-wash illustration, Korean traditional painting aesthetic, foreboding dreamlike atmosphere, cool deep blues and dark grays, no text, no people"
+    }
+  ]
+}

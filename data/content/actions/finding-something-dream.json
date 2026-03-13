@@ -297,10 +297,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/finding-something-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/finding-something-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/finding-something-dream/auspicious.png",
-      "inauspicious": "/images/dreams/finding-something-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/finding-something-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/finding-something-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

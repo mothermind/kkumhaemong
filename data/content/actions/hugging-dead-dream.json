@@ -300,10 +300,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/hugging-dead-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/hugging-dead-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/hugging-dead-dream/auspicious.png",
-      "inauspicious": "/images/dreams/hugging-dead-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/hugging-dead-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/hugging-dead-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

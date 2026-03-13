@@ -302,10 +302,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/sewing-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/sewing-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/sewing-dream/auspicious.png",
-      "inauspicious": "/images/dreams/sewing-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/sewing-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/sewing-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

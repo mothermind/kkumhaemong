@@ -1,0 +1,27 @@
+{
+  "slug": "catching-snake-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4-fast",
+  "hero": {
+    "path": "/images/dreams/catching-snake-dream/hero.png",
+    "alt_ko": "안개 낀 산 위에서 황금빛 뱀을 손으로 잡는 장면, 수묵화 스타일",
+    "alt_en": "Hands grasping a coiled serpent amid golden mist on mountain rocks, ink-wash illustration",
+    "prompt": "A human hand grasping a coiled serpent amid swirling golden mist on misty mountain rocks, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, warm golden light, muted earth tones with subtle golden highlights, no text, no people faces"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/catching-snake-dream/auspicious.png",
+      "alt_ko": "황금빛 뱀을 두 손으로 들어올리는 길몽 장면, 봄꽃과 금화가 흩어진 안개 낀 언덕",
+      "alt_en": "Triumphant hands holding a golden serpent with spring blossoms and golden coins on a misty hillside",
+      "prompt": "Hands triumphantly holding a golden serpent coiled around wrists, glowing warm sunrise light, scattered golden coins and blooming spring flowers on mist-covered hillside, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, warm earth tones and golden yellows, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/catching-snake-dream/inauspicious.png",
+      "alt_ko": "밤안개 속 강가에서 어둠 속으로 사라지는 검은 뱀을 잡으려 뻗은 손, 수묵화 스타일",
+      "alt_en": "Reaching hands grasping at a dark serpent escaping into shadowy reeds by a moonlit river",
+      "prompt": "A dark serpent slipping away through shadowy reeds near a moonlit river, reaching hands grasping at empty air, stormy night sky with deep indigo clouds, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, cool blues and deep shadows, no text"
+    }
+  ]
+}

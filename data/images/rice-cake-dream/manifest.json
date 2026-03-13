@@ -1,0 +1,27 @@
+{
+  "slug": "rice-cake-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4",
+  "hero": {
+    "path": "/images/dreams/rice-cake-dream/hero.png",
+    "alt_ko": "전통 한국 떡 모음이 나무 쟁반에 담겨 아침 안개 속에 놓여 있는 수채화 일러스트",
+    "alt_en": "Traditional Korean tteok rice cakes arranged on a lacquered wooden tray in misty morning light, ink-wash watercolor illustration",
+    "prompt": "A beautifully arranged assortment of traditional Korean tteok rice cakes in a lacquered wooden tray, steam rising gently, misty morning light filtering through a paper screen window, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, no text, no people, warm golden earth tones with soft white highlights"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/rice-cake-dream/auspicious.png",
+      "alt_ko": "황금빛 꿀떡과 매화꽃이 가득한 나무 쟁반, 황금 일출 빛이 가득한 길몽 이미지",
+      "alt_en": "Overflowing tray of golden honey-glazed tteok surrounded by plum blossoms and coins in warm sunrise light, auspicious fortune symbolism",
+      "prompt": "Overflowing wooden tray of golden honey-glazed tteok rice cakes with sesame seeds, surrounded by blooming plum blossoms and coins, warm sunrise light bathing the scene in golden radiance, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, no text, no people, warm amber and gold tones"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/rice-cake-dream/inauspicious.png",
+      "alt_ko": "폭풍 달빛 아래 돌 위에 놓인 곰팡이 핀 떡, 차가운 청색 톤의 흉몽 이미지",
+      "alt_en": "A cracked and mold-spotted tteok on a cold stone surface under stormy moonlit sky with scattered autumn leaves, inauspicious warning symbolism",
+      "prompt": "A single cracked and mold-spotted tteok rice cake on a cold stone surface under stormy moonlit sky, dark autumn leaves scattered around, deep shadows and cool blue-grey tones, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, no text, no people, cool indigo and charcoal palette"
+    }
+  ]
+}

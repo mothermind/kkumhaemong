@@ -294,10 +294,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/teaching-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/teaching-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/teaching-dream/auspicious.png",
-      "inauspicious": "/images/dreams/teaching-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/teaching-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/teaching-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

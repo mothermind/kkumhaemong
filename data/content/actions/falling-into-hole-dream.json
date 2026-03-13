@@ -331,10 +331,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/falling-into-hole-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/falling-into-hole-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/falling-into-hole-dream/auspicious.png",
-      "inauspicious": "/images/dreams/falling-into-hole-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/falling-into-hole-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/falling-into-hole-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

@@ -1,0 +1,30 @@
+{
+  "slug": "betrayal-dream",
+  "hero": {
+    "path": "/images/dreams/betrayal-dream/hero.png",
+    "alt_ko": "배신당하는 꿈 — 안개 속 홀로 선 인물, 멀어지는 두 그림자",
+    "alt_en": "Betrayal dream — a lone figure in misty twilight as shadow silhouettes drift apart",
+    "prompt": "A lone figure standing in a misty twilight landscape, their back turned, shadow-like silhouettes drifting apart in the distance, soft ink-wash illustration style, Korean traditional painting aesthetic, dreamlike atmosphere, muted blue-grey tones with subtle amber highlights, symbolizing emotional distance and broken trust, no text",
+    "aspectRatio": "16:9"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/betrayal-dream/auspicious.png",
+      "alt_ko": "달빛 아래 화해하는 두 인물, 안개 너머 손을 뻗는 장면",
+      "alt_en": "Two silhouettes reconciling under moonlit sky, hands reaching toward each other across mist",
+      "prompt": "Two silhouettes reconciling under a moonlit sky, hands reaching toward each other across mist, Korean traditional ink-wash painting style, dreamlike warm amber and soft gold tones, symbolic imagery of restored trust and healing, no text",
+      "aspectRatio": "4:3"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/betrayal-dream/inauspicious.png",
+      "alt_ko": "황혼의 절벽 위 한복 입은 인물, 끊어진 실이 바람에 흩날리는 장면",
+      "alt_en": "Solitary figure in traditional Korean clothing on a cliff at dusk, broken threads drifting in the wind",
+      "prompt": "A solitary figure in traditional Korean clothing standing on a cliff at dusk, surrounded by broken threads or severed strings drifting in the wind, dark indigo and grey ink-wash painting style, emotionally heavy atmosphere, symbolic of broken bonds and shattered trust, no text",
+      "aspectRatio": "4:3"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

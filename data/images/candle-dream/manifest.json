@@ -1,0 +1,27 @@
+{
+  "slug": "candle-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/candle-dream/hero.png",
+    "alt_ko": "어두운 한국 전통 방 안에서 홀로 빛나는 촛불",
+    "alt_en": "A single glowing candle casting warm light in a misty traditional Korean room",
+    "prompt": "A single glowing candle on an ancient wooden table in a misty Korean room, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike ethereal atmosphere, warm golden candlelight radiating into darkness, wisps of smoke curling upward, muted earth tones with luminous amber glow, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/candle-dream/auspicious.png",
+      "alt_ko": "봄꽃과 함께 환하게 타오르는 여러 개의 촛불 — 풍요와 행운의 상징",
+      "alt_en": "Multiple candles burning brightly on a ceremonial altar with spring blossoms, symbolizing abundance and good fortune",
+      "prompt": "Multiple candles burning brightly on a ceremonial altar with spring blossoms, warm golden sunrise light pouring through rice paper screens, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, radiant amber and gold tones, blooming plum branches, prosperous abundant feeling, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/candle-dream/inauspicious.png",
+      "alt_ko": "폭풍 속에서 꺼져가는 촛불 — 불안과 좌절을 상징하는 흉몽 이미지",
+      "alt_en": "A candle flame flickering and dying in a dark stormy room, symbolizing uncertainty and setbacks",
+      "prompt": "A lone candle flame flickering and about to extinguish in a dark stormy room, cold blue shadows consuming the space, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), ominous dreamlike atmosphere, deep indigo and ash grey tones, wisps of dying smoke, melted wax pooled beneath, sense of foreboding and uncertainty, no text, no people"
+    }
+  ]
+}

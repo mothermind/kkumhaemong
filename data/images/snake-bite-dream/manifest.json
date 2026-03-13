@@ -1,0 +1,27 @@
+{
+  "slug": "snake-bite-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/snake-bite-dream/hero.png",
+    "alt_ko": "안개 낀 산속 바위 위에 똬리를 튼 커다란 뱀, 한국 수묵화 스타일 몽환적 일러스트",
+    "alt_en": "A large serpent coiled on mist-covered mountain rocks, Korean ink-wash watercolor illustration",
+    "prompt": "A large serpent coiled on mist-covered mountain rocks, fang marks glowing faintly with golden light, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, no text, no people, muted earth tones with golden accents, wide cinematic composition"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/snake-bite-dream/auspicious.png",
+      "alt_ko": "봄꽃과 황금빛 속에서 위로 솟아오르는 황금 뱀, 재물운을 상징하는 한국화 스타일 일러스트",
+      "alt_en": "A golden serpent rising through spring blossoms and scattered coins, symbolizing wealth fortune, Korean painting style",
+      "prompt": "A golden serpent coiling upward through blooming spring flowers, coins and treasure scattered beneath it, warm sunrise light flooding the scene, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, warm golden and amber tones, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/snake-bite-dream/inauspicious.png",
+      "alt_ko": "폭풍 구름 속 어둠에서 나타나는 검은 뱀, 경고를 암시하는 한국화 스타일 일러스트",
+      "alt_en": "A dark serpent emerging from storm shadows at night, warning omen, Korean ink-wash illustration style",
+      "prompt": "A large dark serpent emerging from deep shadows and storm clouds at night, its scales gleaming with an ominous sheen, coiled in a threatening posture, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike foreboding atmosphere, deep navy and charcoal tones with cold blue shadows, no text, no people"
+    }
+  ]
+}

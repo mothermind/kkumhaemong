@@ -1,0 +1,27 @@
+{
+  "slug": "cliff-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4",
+  "hero": {
+    "path": "/images/dreams/cliff-dream/hero.png",
+    "alt_ko": "안개 낀 바다를 굽어보는 절벽의 수채화 일러스트",
+    "alt_en": "Ink-wash watercolor illustration of a dramatic cliff overlooking a misty sea",
+    "prompt": "A dramatic coastal cliff overlooking a vast misty sea, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike hazy atmosphere, muted grey-blue tones with soft golden horizon light, no text, no people, serene yet imposing"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/cliff-dream/auspicious.png",
+      "alt_ko": "절벽 정상에 도달한 일출 장면의 수채화 일러스트",
+      "alt_en": "Watercolor illustration of a sunlit cliff summit reached at golden sunrise",
+      "prompt": "A climber triumphantly reaching the sunlit summit of a rocky cliff, golden sunrise light flooding the scene, warm earth tones and glowing amber hues, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, no text, no faces, hopeful and victorious mood"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/cliff-dream/inauspicious.png",
+      "alt_ko": "폭풍 속 어두운 절벽 끝에 아슬아슬하게 매달린 장면의 수채화 일러스트",
+      "alt_en": "Ink-wash illustration of a figure barely clinging to a dark stormy cliff edge",
+      "prompt": "A dark foreboding cliff face shrouded in storm clouds and deep shadows, a figure barely clinging to the edge, cool indigo and charcoal grey tones, ominous moonlit atmosphere, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike and unsettling, no text, no faces"
+    }
+  ]
+}

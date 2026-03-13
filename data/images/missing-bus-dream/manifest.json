@@ -1,0 +1,27 @@
+{
+  "slug": "missing-bus-dream",
+  "hero": {
+    "path": "/images/dreams/missing-bus-dream/hero.png",
+    "alt_ko": "버스를 놓치는 꿈 — 빗속 버스 정류장에서 멀어지는 버스를 바라보는 사람",
+    "alt_en": "Missing the bus dream — a person watching a bus drive away from a rainy bus stop",
+    "prompt": "A person standing at an empty bus stop in the rain, watching a city bus drive away into the misty distance, soft ink-wash illustration style, Korean traditional painting aesthetic, dreamlike atmosphere, muted blue-grey tones with subtle amber streetlight highlights, cinematic wide shot, no text"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/missing-bus-dream/auspicious.png",
+      "alt_ko": "길몽 — 막 출발하는 버스에 간신히 탑승하는 꿈",
+      "alt_en": "Auspicious — just barely boarding a departing bus",
+      "prompt": "A person triumphantly boarding a bus at the last second, hand reaching for the handrail, warm golden light streaming through bus windows, soft watercolor illustration style, Korean urban dreamlike atmosphere, hopeful and energetic mood, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/missing-bus-dream/inauspicious.png",
+      "alt_ko": "흉몽 — 아무리 기다려도 버스가 오지 않는 쓸쓸한 정류장",
+      "alt_en": "Inauspicious — a desolate bus stop where no bus ever comes",
+      "prompt": "A lone figure standing at a desolate bus stop in deep fog, an empty road stretching into darkness, no bus in sight, soft ink-wash illustration style, Korean painting aesthetic, melancholic and uncertain mood, cool blue-grey tones, no text"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "sun-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/sun-dream/hero.png",
+    "alt_ko": "새벽 한국 산 위로 찬란하게 솟아오르는 태양, 몽환적인 수묵화 스타일",
+    "alt_en": "Radiant sun rising over misty Korean mountains at dawn, dreamlike ink-wash illustration",
+    "prompt": "Radiant sun rising over misty Korean mountains at dawn, golden light streaming through morning fog, traditional Korean ink-wash watercolor illustration style, Korean traditional painting aesthetic (한국화), dreamlike luminous atmosphere, warm gold and amber tones, sacred celestial light, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/sun-dream/auspicious.png",
+      "alt_ko": "황금빛 태양이 한국 전통 궁궐 위에 찬란하게 빛나는 길몽 장면",
+      "alt_en": "Golden sun blazing brilliantly over Korean traditional palace rooftops, representing supreme auspicious fortune",
+      "prompt": "Brilliant golden sun blazing in clear blue sky over Korean palace rooftops, golden light flooding a traditional courtyard, fortune and triumph, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike warm atmosphere, rich golden and amber palette, sunrise energy, prosperity symbolism, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/sun-dream/inauspicious.png",
+      "alt_ko": "먹구름에 가려진 어두운 태양, 흉몽을 암시하는 어스름한 하늘",
+      "alt_en": "Sun obscured by dark storm clouds over Korean mountains, foreboding dim light suggesting inauspicious omen",
+      "prompt": "Sun obscured by dark storm clouds over Korean mountains, dim pale light barely piercing heavy grey clouds, eclipse shadow creeping across landscape, foreboding twilight, soft ink-wash illustration, Korean traditional painting aesthetic (한국화), dreamlike ominous atmosphere, cool blues and deep greys, fading light, no text, no people"
+    }
+  ]
+}

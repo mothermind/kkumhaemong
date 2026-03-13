@@ -275,10 +275,10 @@
     ]
   },
   "images": {
-    "hero": "/images/dreams/being-chased-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/being-chased-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/being-chased-dream/auspicious.png",
-      "inauspicious": "/images/dreams/being-chased-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/being-chased-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/being-chased-dream/inauspicious.webp"
     }
   }
 }

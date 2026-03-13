@@ -1,0 +1,27 @@
+{
+  "slug": "clock-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4",
+  "hero": {
+    "path": "/images/dreams/clock-dream/hero.png",
+    "alt_ko": "안개 낀 산 위에 놓인 고풍스러운 시계, 한국화 스타일의 몽환적인 수채화 일러스트",
+    "alt_en": "An ornate antique clock resting on misty mountain rocks, dreamlike Korean ink-wash illustration",
+    "prompt": "An ornate antique clock face with Roman numerals resting on misty mountain rocks, surrounded by swirling dream mist, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmospheric quality, muted earth tones with subtle golden highlights, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/clock-dream/auspicious.png",
+      "alt_ko": "황금빛 회중시계와 매화꽃이 어우러진 길몽 이미지, 따뜻한 황금빛 아침 햇살",
+      "alt_en": "A glowing golden pocket watch surrounded by plum blossoms in warm golden morning light, auspicious Korean dream illustration",
+      "prompt": "A glowing golden pocket watch open on a silk cushion surrounded by blooming plum blossoms and golden morning light streaming through pine trees, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), warm auspicious atmosphere, golden and amber tones, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/clock-dream/inauspicious.png",
+      "alt_ko": "폭풍우 치는 밤하늘 아래 산산조각 난 시계, 어둡고 불길한 한국화 스타일 일러스트",
+      "alt_en": "A shattered broken clock face on dark wet stones under a stormy night sky, foreboding Korean ink-wash illustration",
+      "prompt": "A shattered broken clock face lying on dark wet stones under a stormy night sky, cracked glass and fallen clock hands scattered, deep blue and grey shadows, moonlight barely piercing storm clouds, soft ink-wash illustration, Korean traditional painting aesthetic (한국화), foreboding dreamlike atmosphere, cool blues and deep shadows, no text, no people"
+    }
+  ]
+}

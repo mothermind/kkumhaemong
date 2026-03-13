@@ -1,0 +1,27 @@
+{
+  "slug": "market-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/market-dream/hero.png",
+    "alt_ko": "전통 한국 시장의 활기찬 풍경 — 꿈속의 장터",
+    "alt_en": "A traditional Korean market overflowing with colorful goods in a dreamlike atmosphere",
+    "prompt": "A traditional Korean open-air market (장터) overflowing with colorful goods, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, bustling stalls with lanterns and fabrics, muted earth tones, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/market-dream/auspicious.png",
+      "alt_ko": "황금빛 햇살 아래 풍성한 시장 — 재물운 상승의 길몽",
+      "alt_en": "A golden, sunlit market stall overflowing with fresh goods — symbol of auspicious fortune",
+      "prompt": "A golden sunlit traditional Korean market stall overflowing with fresh fish, vegetables, and colorful silk fabrics, warm golden morning light, auspicious abundance, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, sunrise motifs, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/market-dream/inauspicious.png",
+      "alt_ko": "텅 빈 시장과 불길한 밤 — 손실과 위기를 암시하는 흉몽",
+      "alt_en": "A desolate Korean market at night with flickering fire — symbol of financial warning and loss",
+      "prompt": "A desolate traditional Korean market at night, empty stalls, overturned baskets, flickering fire casting shadows, ominous dark atmosphere, cool blue and grey tones, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike eerie atmosphere, deep shadows, no text, no people"
+    }
+  ]
+}

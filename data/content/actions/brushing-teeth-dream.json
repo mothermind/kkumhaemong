@@ -318,7 +318,10 @@
         },
         "datePublished": "2026-03-12",
         "dateModified": "2026-03-12",
-        "inLanguage": ["ko", "en"],
+        "inLanguage": [
+          "ko",
+          "en"
+        ],
         "about": {
           "@type": "Thing",
           "name": "Dream interpretation of brushing teeth",
@@ -356,10 +359,10 @@
     ]
   },
   "images": {
-    "hero": "/images/dreams/brushing-teeth-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/brushing-teeth-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/brushing-teeth-dream/auspicious.png",
-      "inauspicious": "/images/dreams/brushing-teeth-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/brushing-teeth-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/brushing-teeth-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

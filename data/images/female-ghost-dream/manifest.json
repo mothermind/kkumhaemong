@@ -1,0 +1,27 @@
+{
+  "slug": "female-ghost-dream",
+  "hero": {
+    "path": "/images/dreams/female-ghost-dream/hero.png",
+    "alt_ko": "달빛 어린 마당에 서 있는 소복 입은 여자 귀신, 한국 전통 건축 배경",
+    "alt_en": "A female ghost in white mourning robes standing in a moonlit Korean courtyard",
+    "prompt": "A lone female ghost in white mourning robes (소복) standing at the edge of a misty moonlit courtyard, long black hair flowing, Korean traditional architecture in the background, soft ink-wash illustration style, dreamlike atmosphere, muted blue-grey tones with ghostly silver highlights, ethereal and melancholy mood, no text"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/female-ghost-dream/auspicious.png",
+      "alt_ko": "온화하게 미소 짓는 여자 귀신, 연꽃과 황금빛 빛에 둘러싸인",
+      "alt_en": "A female ghost smiling warmly, surrounded by lotus flowers and golden light",
+      "prompt": "A female ghost smiling warmly, radiating soft golden light, surrounded by gentle lotus flowers and moonlit mist, Korean ink-wash painting style, auspicious and protective atmosphere, warm amber and ivory tones, dreamlike, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/female-ghost-dream/inauspicious.png",
+      "alt_ko": "한국 전통 가옥 어두운 복도에 서 있는 소복 입은 여자 귀신",
+      "alt_en": "A shadowy female ghost in white funeral robes lurking in a dark Korean traditional house corridor",
+      "prompt": "A shadowy female ghost in white funeral robes lurking in the dark corridor of a traditional Korean house, long disheveled black hair obscuring her face, ominous atmosphere, cold blue-grey ink-wash painting style, deep shadows with pale moonlight filtering through paper screen doors, foreboding and unsettling mood, no text"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

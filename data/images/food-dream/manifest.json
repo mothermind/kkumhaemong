@@ -1,0 +1,27 @@
+{
+  "slug": "food-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4",
+  "hero": {
+    "path": "/images/dreams/food-dream/hero.png",
+    "alt_ko": "전통 한식 잔치 상에 가득 차려진 음식들이 아침 안개 속에 빛나는 수채화 일러스트",
+    "alt_en": "Traditional Korean feast table laden with colorful dishes gleaming in morning mist, ink-wash illustration",
+    "prompt": "A lavish traditional Korean feast table (soban) laden with colorful jeongol, jeon pancakes, and ceramic bowls of steaming rice, surrounded by soft morning mist, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, no text, no people, warm golden and earthy tones"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/food-dream/auspicious.png",
+      "alt_ko": "황금빛 쌀밥 그릇에서 동전과 과일이 넘쳐흐르는 길몽 이미지",
+      "alt_en": "Golden overflowing rice bowl with coins and ripe fruit, warm sunrise light, auspicious dream illustration",
+      "prompt": "Golden overflowing rice bowl with coins and ripe fruit spilling onto a lacquered tray, warm sunrise light streaming through a lattice window, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, no text, no people, warm golden amber tones with crimson accents"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/food-dream/inauspicious.png",
+      "alt_ko": "뒤집어진 썩은 음식 그릇이 폭풍 밤하늘 아래 놓인 흉몽 이미지",
+      "alt_en": "Overturned bowl of rotting food on cracked stone under stormy night sky, inauspicious dream illustration",
+      "prompt": "Overturned bowl of rotting, mold-covered food on a cracked stone table under stormy night sky, deep shadows with cold blue moonlight filtering through dark clouds, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike foreboding atmosphere, no text, no people, cool blue-grey palette with deep shadow tones"
+    }
+  ]
+}

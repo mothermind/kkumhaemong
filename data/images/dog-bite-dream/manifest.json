@@ -1,0 +1,27 @@
+{
+  "slug": "dog-bite-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4-fast",
+  "hero": {
+    "path": "/images/dreams/dog-bite-dream/hero.png",
+    "alt_ko": "개에게 손을 물리는 꿈 일러스트 — 한국화 수묵 수채화 스타일",
+    "alt_en": "Dream of a dog biting a hand — Korean ink-wash watercolor illustration",
+    "prompt": "A dog's teeth sinking into a human hand, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, muted earth tones with subtle golden highlights, no text, no people, warm amber and ivory tones"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/dog-bite-dream/auspicious.png",
+      "alt_ko": "개에게 물리는 길몽 — 황금빛 재물운 일러스트",
+      "alt_en": "Auspicious dog bite dream — golden wealth luck illustration",
+      "prompt": "A glowing golden coin resting in open hands, a friendly dog sitting beside, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike warm golden light, spring blossoms in background, no text, warm gold and amber tones"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/dog-bite-dream/inauspicious.png",
+      "alt_ko": "개에게 물리는 흉몽 — 배신과 위험 경고 일러스트",
+      "alt_en": "Inauspicious dog bite dream — betrayal and danger warning illustration",
+      "prompt": "A dark snarling dog emerging from deep shadows, barking at a lone figure, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike dark atmosphere, deep blue and charcoal tones, storm clouds, no text, cold blue and dark grey palette"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "tiger-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/tiger-dream/hero.png",
+    "alt_ko": "안개 낀 산봉우리 사이로 나타나는 위엄 있는 호랑이 — 한국화 스타일 수묵 수채화",
+    "alt_en": "A majestic tiger emerging from misty mountain peaks — Korean ink-wash watercolor illustration",
+    "prompt": "A majestic tiger emerging from misty mountain peaks, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike ethereal atmosphere, muted earth tones with subtle gold highlights, pine trees in background, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/tiger-dream/auspicious.png",
+      "alt_ko": "황금빛 햇살 속에 한국 전통 마당으로 당당히 들어서는 호랑이 — 길몽 상징",
+      "alt_en": "A tiger striding confidently through golden sunlight into a traditional Korean courtyard — auspicious fortune symbolism",
+      "prompt": "A tiger striding confidently through golden sunlight into a traditional Korean courtyard, warm golden tones, sunrise light streaming through wooden gates, ink-wash watercolor illustration, Korean traditional painting aesthetic, auspicious fortune symbolism, cherry blossoms, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/tiger-dream/inauspicious.png",
+      "alt_ko": "폭풍 치는 밤 어두운 숲을 배회하는 호랑이 — 흉몽과 위협의 상징",
+      "alt_en": "A tiger prowling through a dark stormy forest at night — symbolizing inauspicious warning and threat",
+      "prompt": "A tiger prowling through a dark stormy forest at night, deep shadow and cool blue tones, rain falling, misty darkness between ancient trees, ink-wash watercolor illustration, Korean traditional painting aesthetic, foreboding atmosphere, no text, no people"
+    }
+  ]
+}

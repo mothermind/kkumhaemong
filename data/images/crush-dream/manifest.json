@@ -1,0 +1,27 @@
+{
+  "slug": "crush-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4",
+  "hero": {
+    "path": "/images/dreams/crush-dream/hero.png",
+    "alt_ko": "안개 낀 꽃길 끝에서 멀리 있는 실루엣을 바라보는 인물 — 한국화 수묵 수채화 스타일",
+    "alt_en": "A lone figure gazing toward a distant silhouette along a misty garden path with cherry blossoms — Korean ink-wash watercolor style",
+    "prompt": "A lone figure standing at the end of a garden path gazing toward a distant silhouette, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, cherry blossoms drifting in the air, muted rose and lavender tones, no text, no faces visible"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/crush-dream/auspicious.png",
+      "alt_ko": "봄날 황금빛 꽃잎이 흩날리는 밝은 길을 나란히 걷는 두 실루엣 — 한국화 수채화",
+      "alt_en": "Two silhouettes walking side by side on a sunlit path scattered with golden petals under spring blossoms — Korean ink-wash watercolor",
+      "prompt": "Two silhouettes walking side by side on a sunlit path strewn with golden flower petals, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), warm golden sunrise light, spring blossoms overhead, radiant earth tones and amber glow, no text, no faces"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/crush-dream/inauspicious.png",
+      "alt_ko": "겨울 빗속 텅 빈 마당을 바라보며 홀로 서 있는 인물 — 한국화 수묵 수채화",
+      "alt_en": "A solitary figure standing beneath a bare winter tree in heavy rain, gazing across an empty courtyard — Korean ink-wash watercolor",
+      "prompt": "A solitary figure standing beneath a bare winter tree in heavy rain, looking across an empty courtyard, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), deep indigo and steel-grey tones, cold night mist, no text, no faces"
+    }
+  ]
+}

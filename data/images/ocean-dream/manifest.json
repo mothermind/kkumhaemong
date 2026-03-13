@@ -1,0 +1,27 @@
+{
+  "slug": "ocean-dream",
+  "hero": {
+    "path": "/images/dreams/ocean-dream/hero.png",
+    "alt_ko": "새벽 바다 꿈해몽 — 잔잔한 파도와 일출이 어우러진 한국화 스타일 일러스트",
+    "alt_en": "Korean ocean dream interpretation — calm dawn waves and sunrise in ink-wash illustration style",
+    "prompt": "A vast Korean ocean at dawn, calm shimmering waves reflecting early sunlight, traditional Korean ink-wash painting style, soft muted blue-grey tones with warm golden sunrise, misty horizon, dreamlike atmosphere, no text, highly detailed watercolor illustration"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/ocean-dream/auspicious.png",
+      "alt_ko": "맑고 황금빛 바다 — 길몽을 상징하는 잔잔한 바다 꿈 일러스트",
+      "alt_en": "Sunlit golden ocean — auspicious ocean dream illustration symbolizing wealth and good fortune",
+      "prompt": "A sunlit calm ocean with golden light breaking through clouds, traditional Korean ink-wash painting style, auspicious and radiant atmosphere, fishing boat on serene waters, warm golden and blue tones, dreamlike illustration, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/ocean-dream/inauspicious.png",
+      "alt_ko": "폭풍우 치는 어두운 바다 — 흉몽을 암시하는 거친 파도 꿈 일러스트",
+      "alt_en": "Dark stormy ocean with crashing waves — inauspicious ocean dream illustration warning of turbulence",
+      "prompt": "A dark stormy ocean with crashing waves and turbulent skies, traditional Korean ink-wash painting style, dramatic dark blues and grey tones, ominous clouds, lone figure at the shore, foreboding dreamlike atmosphere, no text"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

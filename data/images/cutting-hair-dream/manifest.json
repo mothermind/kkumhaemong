@@ -1,0 +1,27 @@
+{
+  "slug": "cutting-hair-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/cutting-hair-dream/hero.png",
+    "alt_ko": "흰 천 위에 놓인 가위와 떨어진 머리카락 — 머리 자르는 꿈 해몽",
+    "alt_en": "Silver scissors resting on fallen strands of dark hair on white cloth — cutting hair dream meaning",
+    "prompt": "A pair of silver scissors resting on fallen strands of long dark hair on a white cloth, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, subtle dawn light, no text, no people, muted indigo and silver tones"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/cutting-hair-dream/auspicious.png",
+      "alt_ko": "따뜻한 아침 햇살 속에 짧게 자른 머리카락이 바람에 날리는 모습 — 길몽",
+      "alt_en": "Freshly cut short hair catching golden morning light in a gentle breeze — auspicious cutting hair dream",
+      "prompt": "A woman stepping into warm golden morning light with freshly cut short hair flowing in a gentle breeze, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike atmosphere, cherry blossoms drifting, warm gold and peach tones, no text, no faces shown"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/cutting-hair-dream/inauspicious.png",
+      "alt_ko": "어두운 방에서 허락 없이 머리를 자르는 그림자 — 흉몽",
+      "alt_en": "A shadowy figure cutting hair without permission in a dim room — inauspicious cutting hair dream",
+      "prompt": "A shadowy figure holding scissors above long dark hair in a dim room, overcast moonlight streaming through a paper screen window, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike foreboding atmosphere, deep navy and charcoal tones, no text, no clear faces"
+    }
+  ]
+}

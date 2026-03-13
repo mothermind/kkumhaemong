@@ -285,10 +285,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/teleporting-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/teleporting-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/teleporting-dream/auspicious.png",
-      "inauspicious": "/images/dreams/teleporting-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/teleporting-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/teleporting-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

@@ -1,0 +1,27 @@
+{
+  "slug": "new-house-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4",
+  "hero": {
+    "path": "/images/dreams/new-house-dream/hero.png",
+    "alt_ko": "달빛 아래 빛나는 새 한옥 — 새 집 꿈해몽",
+    "alt_en": "A pristine traditional Korean house glowing under moonlight — new house dream meaning",
+    "prompt": "A pristine traditional Korean hanok house glowing warmly under a full moon, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, no text, no people, cool moonlit silver and warm amber tones"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/new-house-dream/auspicious.png",
+      "alt_ko": "황금빛 꽃과 학이 둘러싼 새 집 — 길몽",
+      "alt_en": "New Korean house surrounded by golden flowers and cranes — auspicious dream",
+      "prompt": "A brand new Korean house surrounded by blooming golden chrysanthemums and crane birds in sunlit sky, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike warm atmosphere, no text, no people, golden sunrise palette with warm amber and spring green"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/new-house-dream/inauspicious.png",
+      "alt_ko": "폭풍 속 무너지는 집 — 흉몽 경고",
+      "alt_en": "Crumbling house in heavy storm rain — inauspicious warning dream",
+      "prompt": "A crumbling abandoned Korean house in heavy rain with dark storm clouds overhead and bare winter trees, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), ominous dreamlike atmosphere, no text, no people, deep indigo and grey palette with cold shadows"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "dragon-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/dragon-dream/hero.png",
+    "alt_ko": "안개 낀 산봉우리 사이로 승천하는 황금빛 용, 수묵화 스타일",
+    "alt_en": "A magnificent Eastern dragon ascending through misty mountain peaks, ink-wash watercolor illustration",
+    "prompt": "A magnificent Eastern dragon coiling upward through misty mountain peaks, golden scales catching ethereal light, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere with clouds and mist, no text, no people, deep indigo and gold color palette"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/dragon-dream/auspicious.png",
+      "alt_ko": "황금 용이 일출 구름 사이를 힘차게 승천하는 길몽 장면, 한국화 수채화 스타일",
+      "alt_en": "A golden dragon ascending triumphantly through sunrise clouds, auspicious Korean dream illustration",
+      "prompt": "A golden dragon ascending triumphantly through sunrise clouds, radiant golden and amber light, cherry blossoms and auspicious symbols, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), warm golden sunrise atmosphere, no text, no people, warm earth tones and golden light color palette"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/dragon-dream/inauspicious.png",
+      "alt_ko": "폭풍우 치는 밤하늘에서 추락하는 어두운 용, 수묵화 스타일 흉몽 장면",
+      "alt_en": "A dark dragon falling from a stormy night sky, ominous ink-wash illustration representing an inauspicious dragon dream",
+      "prompt": "A dark dragon falling from stormy night sky, lightning and dark clouds, ominous atmosphere, soft ink-wash illustration, Korean traditional painting aesthetic (한국화), deep shadows and cold blue tones, no text, no people, cool deep blues and charcoal grey color palette"
+    }
+  ]
+}

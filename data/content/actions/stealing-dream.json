@@ -334,10 +334,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/stealing-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/stealing-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/stealing-dream/auspicious.png",
-      "inauspicious": "/images/dreams/stealing-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/stealing-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/stealing-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

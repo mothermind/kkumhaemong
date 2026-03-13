@@ -282,10 +282,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/rescuing-animal-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/rescuing-animal-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/rescuing-animal-dream/auspicious.png",
-      "inauspicious": "/images/dreams/rescuing-animal-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/rescuing-animal-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/rescuing-animal-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

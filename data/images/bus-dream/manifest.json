@@ -1,0 +1,30 @@
+{
+  "slug": "bus-dream",
+  "hero": {
+    "path": "/images/dreams/bus-dream/hero.png",
+    "alt_ko": "새벽 도시 대로를 달리는 버스 — 버스 꿈해몽",
+    "alt_en": "A city bus traveling along a Korean urban boulevard at dawn — bus dream interpretation",
+    "prompt": "A city bus traveling along a wide Korean urban boulevard at dawn, soft ink-wash illustration style, Korean traditional painting aesthetic blended with modern cityscape, dreamlike misty atmosphere, muted blue-grey tones with warm amber streetlights, passengers visible as silhouettes through windows, no text, no letters",
+    "aspectRatio": "16:9"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/bus-dream/auspicious.png",
+      "alt_ko": "햇살 속 버스 정류장에 도착하는 버스 — 길몽",
+      "alt_en": "Bus arriving at a sunlit stop with happy passengers — auspicious bus dream",
+      "prompt": "A bus smoothly arriving at a sunlit Korean bus stop, cheerful passengers boarding with smiles, golden morning light streaming through windows, soft watercolor illustration style, dreamlike warm atmosphere, auspicious feel, lush green trees in background, no text, no letters",
+      "aspectRatio": "4:3"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/bus-dream/inauspicious.png",
+      "alt_ko": "빗속에서 떠나는 버스를 놓치는 사람 — 흉몽",
+      "alt_en": "Person stranded at empty bus stop in rain as bus drives away — inauspicious bus dream",
+      "prompt": "A bus driving away leaving a person stranded at an empty bus stop in heavy rain, dark moody atmosphere, Korean urban setting at night, ink-wash illustration style, dramatic shadows and mist, feeling of missed opportunity and anxiety, no text, no letters",
+      "aspectRatio": "4:3"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

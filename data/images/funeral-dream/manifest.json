@@ -1,0 +1,27 @@
+{
+  "slug": "funeral-dream",
+  "hero": {
+    "path": "/images/dreams/funeral-dream/hero.png",
+    "alt_ko": "한국 전통 장례식 장면 — 산길을 따라 늘어선 등불과 흰 상복을 입은 조문객들",
+    "alt_en": "Traditional Korean funeral ceremony at dusk with glowing lanterns along a mountain path and white mourning cloth",
+    "prompt": "A traditional Korean funeral ceremony at dusk, lanterns glowing softly along a mountain path, white mourning cloth draped over a wooden bier, misty peaks in the background, ink-wash illustration style, Korean traditional painting aesthetic, dreamlike atmosphere, muted earth tones with soft golden lantern light, peaceful and serene, no text"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/funeral-dream/auspicious.png",
+      "alt_ko": "봄날 벚꽃 사이로 흰 한복 차림의 조문객들이 상여를 메고 가는 장면",
+      "alt_en": "Funeral bier adorned with white chrysanthemums carried by mourners in white hanbok through cherry blossom trees in spring",
+      "prompt": "A traditional Korean funeral bier adorned with white chrysanthemums and silk ribbons, carried by mourners in white hanbok through cherry blossom trees in spring, soft watercolor illustration style, Korean folk painting aesthetic, golden morning light filtering through blossoms, symbols of transition and new beginnings, dreamlike and serene, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/funeral-dream/inauspicious.png",
+      "alt_ko": "달빛 아래 산속 바위 위에 놓인 어두운 관과 흔들리는 촛불",
+      "alt_en": "A solitary dark wooden coffin resting on stone in a misty mountain valley at night with pale moonlight and a flickering candle",
+      "prompt": "A solitary dark wooden coffin resting on stone in a misty mountain valley at night, pale moonlight casting long shadows, sparse pine trees, ink-wash illustration style, Korean traditional painting aesthetic, heavy atmosphere, muted dark blues and greys, a lone white candle flickering nearby, dreamlike and somber, no text"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "darkness-dream",
+  "hero": {
+    "path": "/images/dreams/darkness-dream/hero.png",
+    "alt_ko": "어두운 숲길에서 등불을 들고 걷는 사람, 한국 수묵화 스타일",
+    "alt_en": "A figure carrying a glowing lantern on a dark forest path, Korean ink-wash illustration style",
+    "prompt": "A solitary figure holding a glowing paper lantern on a pitch-dark forest path, ink-wash illustration style, Korean traditional painting aesthetic, misty atmosphere, deep shadows with warm amber light emanating from the lantern, dreamlike quality, muted tones with golden glow, no text, no people faces visible"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/darkness-dream/auspicious.png",
+      "alt_ko": "어두운 동굴 천장을 뚫고 내려오는 황금빛 빛줄기, 수묵화 스타일",
+      "alt_en": "A golden beam of light breaking through a dark cave ceiling, Korean ink-wash style",
+      "prompt": "A soft beam of light breaking through a dark cave ceiling, illuminating a path forward, Korean ink-wash watercolor illustration style, dreamlike atmosphere, warm golden rays cutting through deep indigo darkness, hopeful and serene mood, no text, no faces"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/darkness-dream/inauspicious.png",
+      "alt_ko": "어두운 폭풍 하늘 아래 갈림길에 혼자 선 사람, 수묵화 스타일",
+      "alt_en": "A lone figure at a dark crossroads under a stormy sky, Korean ink-wash style",
+      "prompt": "A dark stormy sky pressing down over a solitary figure standing at a crossroads with no light, Korean ink-wash style illustration, oppressive deep black clouds, lonely and disorienting atmosphere, muted grey and charcoal tones, traditional Korean painting aesthetic, dreamlike, no text, no visible faces"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

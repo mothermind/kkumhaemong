@@ -1,0 +1,27 @@
+{
+  "slug": "celebrity-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/celebrity-dream/hero.png",
+    "alt_ko": "화려한 무대 위의 스포트라이트와 관중을 묘사한 수묵화 스타일 일러스트",
+    "alt_en": "Ink-wash illustration of a luminous figure on a grand stage with golden spotlights and a misty audience",
+    "prompt": "A luminous figure standing on a grand stage bathed in golden spotlights, silhouetted audience stretching into misty distance, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere with radiant glow, muted gold and amber tones, no text, no faces"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/celebrity-dream/auspicious.png",
+      "alt_ko": "봄꽃과 황금빛 선물 상자를 묘사한 길몽 수묵화 일러스트",
+      "alt_en": "Ink-wash illustration of a golden gift being offered with cherry blossoms and warm sunrise light",
+      "prompt": "A gracious figure offering a radiant golden gift box tied with silk ribbon, cherry blossoms floating in warm spring air, rays of golden sunrise light, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike fortune atmosphere, warm amber and gold tones, no text, no faces"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/celebrity-dream/inauspicious.png",
+      "alt_ko": "어두운 무대와 시든 꽃을 묘사한 흉몽 수묵화 일러스트",
+      "alt_en": "Ink-wash illustration of an empty dark stage with wilted flowers and storm clouds in deep indigo tones",
+      "prompt": "An empty stage with a lone flickering candle casting long shadows, wilted flowers scattered on dark wooden floor, storm clouds gathering beyond tall curtains, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike foreboding atmosphere, deep indigo and charcoal grey tones, no text, no people"
+    }
+  ]
+}

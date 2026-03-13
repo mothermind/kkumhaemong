@@ -1,0 +1,27 @@
+{
+  "slug": "fish-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/fish-dream/hero.png",
+    "alt_ko": "새벽 강물 위로 힘차게 뛰어오르는 황금빛 잉어, 수묵화 스타일",
+    "alt_en": "A gleaming carp leaping through misty mountain waters at dawn, ink-wash illustration style",
+    "prompt": "A large gleaming carp leaping through misty mountain waters at dawn, reflected in a still river surface, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, golden morning light, no text, no people, muted earth tones with golden highlights"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/fish-dream/auspicious.png",
+      "alt_ko": "봄날 맑은 물속에서 떼지어 헤엄치는 황금빛 물고기들, 민화 스타일",
+      "alt_en": "Abundant school of golden fish swimming joyfully in clear spring water beneath cherry blossoms, Korean folk painting style",
+      "prompt": "Abundant school of golden fish swimming joyfully in clear spring water beneath cherry blossoms, coins and lotus flowers floating nearby, warm golden sunrise light, soft ink-wash watercolor illustration, Korean traditional folk painting (민화) aesthetic, dreamlike atmosphere, no text, no people, warm golden amber tones"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/fish-dream/inauspicious.png",
+      "alt_ko": "밤 어두운 연못 위에 죽어 떠 있는 물고기들, 수묵화 스타일",
+      "alt_en": "Dead fish floating motionless on a dark still pond at night, cold blue tones, ink-wash illustration style",
+      "prompt": "Dead fish floating motionless on a dark still pond surface at night, murky water with fallen leaves, deep shadows and moonless sky, cold blue and grey tones, soft ink-wash illustration, Korean traditional painting aesthetic, melancholic dreamlike atmosphere, no text, no people, cool dark indigo palette"
+    }
+  ]
+}

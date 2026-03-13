@@ -1,0 +1,27 @@
+{
+  "slug": "bright-light-dream",
+  "hero": {
+    "path": "/images/dreams/bright-light-dream/hero.png",
+    "alt_ko": "하늘에서 밝은 빛이 내려오는 한국 산수화 풍의 꿈 일러스트",
+    "alt_en": "A radiant beam of light descending from a misty sky in Korean ink-wash illustration style",
+    "prompt": "A radiant beam of light descending from a misty sky onto a lone figure in a serene Korean mountain landscape, soft ink-wash illustration style, Korean traditional painting aesthetic, dreamlike atmosphere, golden and white luminescence, warm ethereal glow, watercolor wash, no text"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/bright-light-dream/auspicious.png",
+      "alt_ko": "전통 한옥 문으로 따뜻한 황금빛이 쏟아지는 길몽 일러스트",
+      "alt_en": "Warm golden light flooding through a traditional Korean wooden doorway, auspicious dream illustration",
+      "prompt": "Warm golden light flooding through a traditional Korean wooden doorway into a peaceful room, rays of sunlight illuminating dust motes, soft watercolor illustration style, Korean traditional painting aesthetic, auspicious and hopeful atmosphere, muted gold and cream tones, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/bright-light-dream/inauspicious.png",
+      "alt_ko": "어두운 방에서 깜빡이는 촛불, 흉몽 일러스트",
+      "alt_en": "A flickering candle casting unstable shadows in a dark traditional Korean room, inauspicious dream illustration",
+      "prompt": "A flickering candle flame casting unstable, wavering shadows in a dark traditional Korean room, light fading and dimming against cold grey stone walls, ink-wash illustration style, ominous and uncertain atmosphere, muted grey and cold blue tones, no text"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

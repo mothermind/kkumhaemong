@@ -1,0 +1,27 @@
+{
+  "slug": "paralyzed-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/paralyzed-dream/hero.png",
+    "alt_ko": "달빛이 비치는 방 안에 홀로 누운 형상 위로 보이지 않는 무언가가 짓누르는 듯한 분위기를 표현한 수묵화 스타일 그림",
+    "alt_en": "Ink-wash illustration of a moonlit room with an invisible oppressive presence, evoking the sensation of sleep paralysis",
+    "prompt": "A lone figure lying still in a moonlit room, invisible weight pressing down, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike misty atmosphere, deep indigo and pale silver tones, shadowy presence suggested without explicit form, no text, no people visible"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/paralyzed-dream/auspicious.png",
+      "alt_ko": "새벽 햇살이 한지 창문을 통해 부드럽게 스며드는 조용한 한국 전통 방 수묵화",
+      "alt_en": "Ink-wash illustration of a peaceful Korean traditional room with soft golden dawn light filtering through paper screens",
+      "prompt": "An empty bedroom at dawn, sunlight gently breaking through paper screens, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, warm golden morning light, bedding neatly laid out, sense of peaceful awakening and relief, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/paralyzed-dream/inauspicious.png",
+      "alt_ko": "한밤중 어둠과 안개가 가득한 한국 전통 방을 표현한 수묵화 — 가위눌림의 무거운 분위기",
+      "alt_en": "Ink-wash illustration of a dark Korean traditional room at midnight with cold moonlight and ghostly mist — evoking the dread of sleep paralysis",
+      "prompt": "A dark traditional Korean room at midnight, heavy oppressive shadows filling the space, ghostly mist creeping along the floor, ink-wash watercolor illustration, Korean traditional painting aesthetic, deep indigo and charcoal tones, cold moonlight casting long shadows through closed lattice windows, no text, no people"
+    }
+  ]
+}

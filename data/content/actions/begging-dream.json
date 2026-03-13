@@ -280,7 +280,10 @@
         "@type": "Article",
         "headline": "구걸하는 꿈 해몽 - 거지 꿈의 숨겨진 의미와 길흉 완벽 정리",
         "description": "구걸하는 꿈, 거지 꿈해몽 완벽 정리. 역상의 원리로 재물운·근심 해소를 예고하는 길몽? 상황별 해석 총정리.",
-        "inLanguage": ["ko", "en"],
+        "inLanguage": [
+          "ko",
+          "en"
+        ],
         "author": {
           "@type": "Organization",
           "name": "꿈해몽닷컴"
@@ -316,10 +319,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/begging-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/begging-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/begging-dream/auspicious.png",
-      "inauspicious": "/images/dreams/begging-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/begging-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/begging-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

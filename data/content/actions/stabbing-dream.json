@@ -322,7 +322,10 @@
         "description": "칼로 찌르는 꿈의 한국 해몽 완벽 가이드. 상황별 길몽·흉몽 구분, 피의 의미, 심리학적 해석까지 총망라.",
         "datePublished": "2026-03-11",
         "dateModified": "2026-03-11",
-        "inLanguage": ["ko", "en"],
+        "inLanguage": [
+          "ko",
+          "en"
+        ],
         "url": "https://kkumhaemong.com/en/dream/stabbing-dream",
         "publisher": {
           "@type": "Organization",
@@ -362,10 +365,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/stabbing-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/stabbing-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/stabbing-dream/auspicious.png",
-      "inauspicious": "/images/dreams/stabbing-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/stabbing-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/stabbing-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

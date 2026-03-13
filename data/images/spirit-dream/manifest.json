@@ -1,0 +1,27 @@
+{
+  "slug": "spirit-dream",
+  "hero": {
+    "path": "/images/dreams/spirit-dream/hero.png",
+    "alt_ko": "밤안개 속 한국 산속을 떠도는 유령의 수묵화 일러스트",
+    "alt_en": "Ink-wash illustration of a translucent spirit drifting through misty Korean mountains at night",
+    "prompt": "A translucent spirit figure drifting through misty Korean mountain landscape at night, soft ink-wash illustration style, Korean traditional painting aesthetic, ghostly pale blue-white glow, dreamlike atmosphere, tall pine trees silhouetted in fog, moonlight casting soft shadows, ethereal flowing robes, no text, no faces, wide cinematic composition"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/spirit-dream/auspicious.png",
+      "alt_ko": "귀신을 물리치고 승리하는 한복 입은 인물의 수묵화",
+      "alt_en": "Traditional Korean figure triumphantly defeating a ghost in a golden morning light ink-wash illustration",
+      "prompt": "A warrior figure in traditional Korean hanbok triumphantly standing over a defeated ghost, golden morning light breaking through mist, ink-wash illustration style, Korean traditional painting aesthetic, victorious mood, auspicious golden tones, soft watercolor textures, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/spirit-dream/inauspicious.png",
+      "alt_ko": "한옥 문으로 들어오는 귀신의 불길한 수묵화",
+      "alt_en": "Ominous ghost entering through the dark doorway of a traditional Korean hanok house at night",
+      "prompt": "A ghost figure entering through the dark doorway of a traditional Korean hanok house at night, ominous dark blue and grey tones, ink-wash illustration style, Korean traditional painting aesthetic, moonlight casting eerie shadows, sense of foreboding, muted inauspicious palette, no text"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

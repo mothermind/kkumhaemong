@@ -278,7 +278,10 @@
           "name": "꿈해몽닷컴",
           "url": "https://kkumhaemong.com"
         },
-        "inLanguage": ["ko", "en"],
+        "inLanguage": [
+          "ko",
+          "en"
+        ],
         "about": {
           "@type": "Thing",
           "name": "프로포즈하는 꿈 해몽"
@@ -306,10 +309,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/proposing-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/proposing-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/proposing-dream/auspicious.png",
-      "inauspicious": "/images/dreams/proposing-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/proposing-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/proposing-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

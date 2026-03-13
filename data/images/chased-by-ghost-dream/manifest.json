@@ -1,0 +1,27 @@
+{
+  "slug": "chased-by-ghost-dream",
+  "hero": {
+    "path": "/images/dreams/chased-by-ghost-dream/hero.png",
+    "alt_ko": "밤 안개 속 한국 산속 숲에서 귀신에게 쫓기는 사람",
+    "alt_en": "A person being chased by a ghost through misty Korean mountain forest at night",
+    "prompt": "A translucent ghostly figure pursuing a person through misty dark Korean mountain forest at night, soft ink-wash illustration style, Korean traditional painting aesthetic, dreamlike ethereal atmosphere, muted blue-grey tones with pale moonlight, no text, no words"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/chased-by-ghost-dream/auspicious.png",
+      "alt_ko": "달빛 대나무 숲을 달려 귀신에서 탈출하는 사람",
+      "alt_en": "A person successfully escaping from a ghost through moonlit bamboo grove",
+      "prompt": "A person running swiftly through moonlit bamboo grove escaping from a ghost, successfully breaking free, soft ink-wash Korean traditional illustration style, warm silver moonlight, sense of triumph and motion, dreamlike quality, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/chased-by-ghost-dream/inauspicious.png",
+      "alt_ko": "흰 소복을 입은 귀신에게 구석으로 몰린 사람",
+      "alt_en": "A person cornered by a white-robed ghost in a traditional Korean house",
+      "prompt": "A fearful person cornered by a looming ghostly spirit in white funeral robes, dark shadowy traditional Korean house interior, ink-wash illustration style, cold blue and grey tones, sense of dread and entrapment, dreamlike atmosphere, no text"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

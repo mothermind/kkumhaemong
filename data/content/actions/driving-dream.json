@@ -303,10 +303,10 @@
     ]
   },
   "images": {
-    "hero": "/images/dreams/driving-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/driving-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/driving-dream/auspicious.png",
-      "inauspicious": "/images/dreams/driving-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/driving-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/driving-dream/inauspicious.webp"
     }
   }
 }

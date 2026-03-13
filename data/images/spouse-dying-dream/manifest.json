@@ -1,0 +1,27 @@
+{
+  "slug": "spouse-dying-dream",
+  "hero": {
+    "path": "/images/dreams/spouse-dying-dream/hero.png",
+    "alt_ko": "새벽 산안개 속 두 개의 빈 의자, 배우자가 죽는 꿈 해몽",
+    "alt_en": "Two empty chairs facing misty Korean mountains at dawn, spouse dying dream meaning",
+    "prompt": "A serene ink-wash illustration of two empty chairs facing a misty Korean mountain landscape at dawn, one chair draped with a traditional Korean white mourning cloth, soft golden light breaking through pale mist, dreamlike atmosphere, Korean traditional painting aesthetic, no text, peaceful and contemplative mood"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/spouse-dying-dream/auspicious.png",
+      "alt_ko": "잔잔한 물 위에 피어난 황금 연꽃, 배우자 죽는 꿈 길몽",
+      "alt_en": "Golden lotus flowers blooming on still water, auspicious omen of spouse dying dream",
+      "prompt": "A delicate Korean ink-wash illustration of golden lotus flowers blooming in still water, soft morning light filtering through mist, symbolizing renewal and good fortune emerging from darkness, dreamlike quality, traditional Korean painting style, warm golden and cream tones, no text, serene and hopeful atmosphere"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/spouse-dying-dream/inauspicious.png",
+      "alt_ko": "빗속의 한옥 대문 앞에 홀로 선 인물, 배우자 죽는 꿈 흉몽 경고",
+      "alt_en": "Solitary figure at a Korean hanok gate in heavy rain, warning sign of spouse dying dream",
+      "prompt": "A somber Korean ink-wash illustration of a solitary figure standing at a gate in heavy rain, storm clouds gathering over a traditional Korean hanok, dark indigo and grey tones, dreamlike quality, traditional Korean painting aesthetic, symbolizing warning and introspection, no text, atmospheric and contemplative"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

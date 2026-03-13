@@ -1,0 +1,27 @@
+{
+  "slug": "dragon-taemong",
+  "hero": {
+    "path": "/images/dreams/dragon-taemong/hero.png",
+    "alt_ko": "새벽 하늘로 승천하는 황금 용, 수묵화 스타일",
+    "alt_en": "A magnificent Eastern dragon ascending through dawn clouds, ink-wash illustration style",
+    "prompt": "A magnificent Eastern dragon soaring upward through parting clouds above misty mountains at dawn, lustrous golden-green scales catching the first light, the sacred orb glowing in its claws, soft ink-wash illustration style, Korean traditional painting aesthetic, dreamlike atmosphere, muted gold and jade tones, no text, no humans"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/dragon-taemong/auspicious.png",
+      "alt_ko": "황금빛 용이 여의주를 들고 하늘로 날아오르는 길몽",
+      "alt_en": "A golden dragon ascending with the sacred orb, radiant celestial light",
+      "prompt": "A resplendent golden dragon ascending through radiant clouds, carrying a glowing sacred orb (yeoiju), beams of celestial light streaming around it, soft ink-wash illustration style with fine brushwork, Korean traditional hanji paper texture, auspicious and joyful atmosphere, deep golds and luminous whites, no text, no humans"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/dragon-taemong/inauspicious.png",
+      "alt_ko": "상처 입고 땅에 쓰러진 용, 흉몽의 상징",
+      "alt_en": "A wounded dragon grounded on dark rain-soaked rocks, unable to rise",
+      "prompt": "A wounded dragon lying on dark rain-soaked rocks, its scales dimmed and one wing folded, unable to rise, heavy grey clouds overhead, somber ink-wash illustration style, Korean traditional painting aesthetic, muted slate and charcoal tones, melancholic dreamlike atmosphere, no text, no humans"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

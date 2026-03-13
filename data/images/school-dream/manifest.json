@@ -1,0 +1,27 @@
+{
+  "slug": "school-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4",
+  "hero": {
+    "path": "/images/dreams/school-dream/hero.png",
+    "alt_ko": "새벽 안개 속 전통 학교 정문이 열려 있는 수채화 일러스트",
+    "alt_en": "Traditional Korean school courtyard at dawn with open gate in ink-wash watercolor illustration",
+    "prompt": "A traditional Korean school courtyard at dawn, the front gate standing open inviting entry, ancient stone steps leading through a wooden torii-style gate, misty sunrise light filtering through pine trees, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, no text, no people, warm golden tones with misty blues"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/school-dream/auspicious.png",
+      "alt_ko": "무지개가 뜬 환한 학교 교정과 활짝 열린 교문 수채화 일러스트",
+      "alt_en": "Bright school courtyard with rainbow arching over open school gate in watercolor illustration",
+      "prompt": "A sunlit school gate swung wide open, rainbow arching over a traditional Korean school building, golden morning light streaming through, cherry blossom petals drifting across a bright courtyard, a school bell gleaming in warm sunlight, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, no text, no people, warm golden and rose tones"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/school-dream/inauspicious.png",
+      "alt_ko": "잠긴 교문과 무너지는 학교 건물이 있는 어두운 교정 수채화 일러스트",
+      "alt_en": "Dark school courtyard with padlocked gate and crumbling building in ink-wash watercolor illustration",
+      "prompt": "A school building crumbling in darkness, heavy iron gate padlocked shut, cracked stone steps leading nowhere, a lone figure running late through deep fog, cold moonlight casting long shadows over an empty schoolyard, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike foreboding atmosphere, no text, deep indigo blues and slate greys"
+    }
+  ]
+}

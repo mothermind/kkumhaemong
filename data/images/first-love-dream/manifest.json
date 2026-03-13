@@ -1,0 +1,27 @@
+{
+  "slug": "first-love-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/first-love-dream/hero.png",
+    "alt_ko": "달빛 아래 나무 책상 위의 편지와 말린 꽃 — 첫사랑 꿈 해몽",
+    "alt_en": "A letter and dried flower on a moonlit desk — first love dream interpretation",
+    "prompt": "A single delicate letter and a dried pressed flower resting on a moonlit wooden desk beside a softly glowing lantern, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike misty atmosphere, muted rose and silver tones with gentle golden highlights, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/first-love-dream/auspicious.png",
+      "alt_ko": "봄날 벚꽃 길 위의 두 켤레 신발 — 첫사랑 길몽",
+      "alt_en": "Two pairs of shoes on a sunlit cherry blossom path — auspicious first love dream",
+      "prompt": "Two pairs of shoes side by side on a sunlit spring path, cherry blossoms drifting gently, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike warm golden atmosphere, warm peach and gold tones with soft pink cherry blossom accents, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/first-love-dream/inauspicious.png",
+      "alt_ko": "빗속 돌계단 위의 찢긴 편지 — 첫사랑 흉몽",
+      "alt_en": "A torn letter in rain on cold stone steps — inauspicious first love dream",
+      "prompt": "A torn letter fragment caught in rain on cold stone steps, a single wilted rose petal nearby, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike somber atmosphere, deep indigo and slate grey tones with cold silver rain, no text, no people"
+    }
+  ]
+}

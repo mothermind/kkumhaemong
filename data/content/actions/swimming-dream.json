@@ -202,10 +202,10 @@
     "conclusion": "The heart of every swimming dream comes down to two questions: How clear is the water, and how easily are you moving through it? Clear water and confident swimming are among the most positive signals in Korean dream tradition — trust that your efforts are building toward something real. Murky water and struggling are your subconscious speaking honestly about burdens you may not have fully acknowledged yet. Dreams are not verdicts; they are compasses. Whichever direction your swimming dream pointed, now you have a clearer map for what it may be telling you."
   },
   "images": {
-    "hero": "/images/dreams/swimming-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/swimming-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/swimming-dream/auspicious.png",
-      "inauspicious": "/images/dreams/swimming-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/swimming-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/swimming-dream/inauspicious.webp"
     }
   },
   "seo": {
@@ -220,7 +220,7 @@
       "ko": "수영하는 꿈, 물의 상태가 모든 것을 결정해요. 맑은 물 길몽부터 탁한 물 흉몽까지, 바다·강·수영장별 해몽을 전문가가 정리했습니다.",
       "en": "What does a swimming dream mean? The water's condition tells all. Explore auspicious and cautionary interpretations from Korean tradition, Jungian psychology, and modern sleep science."
     },
-    "ogImage": "/images/dreams/swimming-dream/hero.png",
+    "ogImage": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/swimming-dream/hero.webp",
     "structuredData": {
       "faqSchema": {
         "@context": "https://schema.org",

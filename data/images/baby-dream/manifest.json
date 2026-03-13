@@ -1,0 +1,27 @@
+{
+  "slug": "baby-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4",
+  "hero": {
+    "path": "/images/dreams/baby-dream/hero.png",
+    "alt_ko": "흰 천에 싸인 신생아가 연꽃잎 위에 누워 있는 꿈같은 수묵화",
+    "alt_en": "A swaddled newborn baby resting on misty lotus leaves in a dreamlike ink-wash illustration",
+    "prompt": "A sleeping newborn baby swaddled in soft white cloth, resting on misty lotus leaves, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, warm golden light, no text, no people, muted ivory and gold tones"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/baby-dream/auspicious.png",
+      "alt_ko": "황금 동전과 모란꽃에 둘러싸인 환한 아기, 길몽의 재물운을 상징하는 수묵화",
+      "alt_en": "A radiant baby surrounded by golden coins and peony blossoms, symbolizing auspicious fortune in an ink-wash illustration",
+      "prompt": "A radiant healthy baby surrounded by golden coins and blooming peony flowers, warm sunrise light streaming through bamboo lattice, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike atmosphere, warm gold and rose tones, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/baby-dream/inauspicious.png",
+      "alt_ko": "달빛 아래 텅 빈 요람과 흔들리는 촛불, 흉몽을 암시하는 차갑고 어두운 수묵화",
+      "alt_en": "An empty cradle under moonlight with a flickering candle, cold blue shadows — inauspicious dream symbolism in ink-wash illustration",
+      "prompt": "An empty cradle in a moonlit room, deep shadows and silver-blue mist, a single candle flickering in the darkness, bare winter branches visible through a window, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, cold blue and slate tones, no text"
+    }
+  ]
+}

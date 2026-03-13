@@ -1,0 +1,27 @@
+{
+  "slug": "bugs-crawling-body-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4-fast",
+  "hero": {
+    "path": "/images/dreams/bugs-crawling-body-dream/hero.png",
+    "alt_ko": "안개 낀 돌 위에 앉은 벌레들 — 벌레가 몸에 기어다니는 꿈 해몽 대표 이미지",
+    "alt_en": "Delicate insects resting on misty ancient stone — dream of bugs crawling on body",
+    "prompt": "A cluster of delicate insects resting on misty ancient stone, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, no text, no people, muted earth tones with subtle green and amber highlights"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/bugs-crawling-body-dream/auspicious.png",
+      "alt_ko": "꽃 핀 가지 위를 행진하는 개미떼 — 재물운과 번창을 상징하는 길몽 이미지",
+      "alt_en": "Industrious ants moving in procession across flowering branches — auspicious omen of prosperity",
+      "prompt": "Industrious ants moving in an orderly procession across flowering branches, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike warm atmosphere, no text, no people, warm golden tones with spring blossoms, abundant and hopeful"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/bugs-crawling-body-dream/inauspicious.png",
+      "alt_ko": "폭풍 밤하늘 아래 갈라진 땅 위를 뒤덮는 벌레떼 — 스트레스와 건강 경고의 흉몽 이미지",
+      "alt_en": "Dark insects swarming over cracked earth under a stormy night sky — inauspicious warning of stress and health",
+      "prompt": "Dark insects swarming over cracked earth beneath a stormy night sky, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), foreboding dreamlike atmosphere, no text, no people, deep indigo and shadow tones, unsettling and oppressive mood"
+    }
+  ]
+}

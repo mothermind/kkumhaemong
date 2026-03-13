@@ -1,0 +1,27 @@
+{
+  "slug": "god-dream",
+  "hero": {
+    "path": "/images/dreams/god-dream/hero.png",
+    "alt_ko": "신령이 한국 산 위 하늘에서 내려오는 꿈 일러스트",
+    "alt_en": "A luminous divine figure descending from heavenly clouds above a misty Korean mountain",
+    "prompt": "A luminous divine figure descending from heavenly clouds above a misty Korean mountain landscape, soft ink-wash illustration style, Korean traditional painting aesthetic, ethereal golden light radiating from the deity, dreamlike atmosphere, ancient Korean spiritual imagery, white-bearded mountain god holding a staff, muted earth tones with celestial gold and white highlights, no text"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/god-dream/auspicious.png",
+      "alt_ko": "산신령이 산삼과 황금을 건네주는 길몽 일러스트",
+      "alt_en": "A benevolent mountain god offering wild ginseng and golden treasure — auspicious dream",
+      "prompt": "A benevolent mountain god with white beard offering a glowing wild ginseng root and golden treasure to a kneeling figure, soft watercolor illustration style, Korean traditional painting aesthetic, warm golden morning light, auspicious and serene atmosphere, celestial clouds parting, muted earth tones with gold accents, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/god-dream/inauspicious.png",
+      "alt_ko": "신령이 등을 돌리고 떠나가는 흉몽 일러스트",
+      "alt_en": "A stern divine figure departing into dark storm clouds — inauspicious dream warning",
+      "prompt": "A stern divine figure with back turned, walking away into dark storm clouds above a desolate Korean mountain, ink-wash illustration style, Korean traditional painting aesthetic, ominous grey and dark indigo tones, departing god symbolizing lost fortune, a lone figure below looking up in despair, dramatic somber atmosphere, no text"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

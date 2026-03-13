@@ -1,0 +1,30 @@
+{
+  "slug": "uniform-dream",
+  "hero": {
+    "path": "/images/dreams/uniform-dream/hero.png",
+    "alt_ko": "아침 햇살 아래 나무 옷걸이에 걸린 교복, 수채화 풍 한국화 스타일",
+    "alt_en": "A neatly pressed school uniform on a wooden hanger in soft morning light, Korean watercolor style",
+    "prompt": "A neatly pressed school uniform hanging on a wooden hanger, soft morning light streaming through a window, Korean traditional aesthetic with subtle ink-wash watercolor style, dreamlike atmosphere, muted indigo and white tones with golden highlights, cherry blossom petals floating gently, no text, no people",
+    "aspectRatio": "16:9"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/uniform-dream/auspicious.png",
+      "alt_ko": "황금빛으로 빛나는 단추가 달린 새 제복, 길몽을 상징하는 따뜻한 빛",
+      "alt_en": "A beautifully tailored uniform with gleaming brass buttons bathed in warm golden light, auspicious symbolism",
+      "prompt": "A beautifully tailored official uniform with gleaming brass buttons, bathed in warm golden light, soft watercolor illustration style, Korean traditional painting aesthetic, auspicious symbolism with rising sun motif in background, dreamlike quality, no text, no people",
+      "aspectRatio": "4:3"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/uniform-dream/inauspicious.png",
+      "alt_ko": "빗속 돌바닥에 버려진 낡고 찢어진 교복, 흉몽을 나타내는 어두운 분위기",
+      "alt_en": "A faded torn school uniform discarded on a rainy stone floor, dark moody Korean ink-wash style",
+      "prompt": "A faded torn school uniform discarded on a rainy stone floor, dark moody atmosphere, Korean ink-wash painting style, melancholic dreamlike quality, muted grey and blue tones, shadows and mist, no text, no people",
+      "aspectRatio": "4:3"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00Z",
+  "provider": "imagen4"
+}

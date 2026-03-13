@@ -1,0 +1,30 @@
+{
+  "slug": "coffin-dream",
+  "hero": {
+    "path": "/images/dreams/coffin-dream/hero.png",
+    "alt_ko": "안개 낀 산속 소나무 숲 사이의 전통 한국 목관, 수묵화 스타일 꿈 일러스트",
+    "alt_en": "Traditional Korean wooden coffin resting on misty mountain ground surrounded by pine trees, ink-wash illustration style",
+    "prompt": "A traditional Korean wooden coffin resting on misty mountain ground surrounded by pine trees, soft ink-wash illustration style, Korean traditional painting aesthetic, dreamlike ethereal atmosphere, moonlit night, muted earth tones with subtle silver and indigo highlights, wisps of incense smoke, no text, no people",
+    "aspectRatio": "16:9"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/coffin-dream/auspicious.png",
+      "alt_ko": "흰 상복을 입은 인물들이 전통 장식이 된 관을 마을 문으로 들고 들어오는 장면, 황금빛 아침 햇살",
+      "alt_en": "Figures in white mourning clothes carrying an ornamented Korean traditional coffin through a village gate in golden morning light",
+      "prompt": "A richly ornamented Korean traditional coffin being carried by several figures in white mourning clothes through a village gate, golden morning light, auspicious red ribbons and fortune symbols adorning the scene, soft watercolor illustration style, Korean folk painting aesthetic, dreamlike warm glow, no text",
+      "aspectRatio": "4:3"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/coffin-dream/inauspicious.png",
+      "alt_ko": "폭풍우 치는 밤하늘 아래 지붕 위에 놓인 어두운 빈 관, 차가운 청회색 수묵화 스타일",
+      "alt_en": "An empty dark Korean wooden coffin with its lid open resting on a rooftop under a stormy night sky, cold blue-grey ink-wash style",
+      "prompt": "An empty dark Korean wooden coffin with its lid open resting on a rooftop under a stormy night sky, ominous dark clouds, cold blue-grey ink-wash illustration style, Korean traditional painting aesthetic, eerie dreamlike atmosphere, moonlight partially obscured, no text, no people",
+      "aspectRatio": "4:3"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

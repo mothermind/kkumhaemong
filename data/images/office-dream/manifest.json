@@ -1,0 +1,27 @@
+{
+  "slug": "office-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4-fast",
+  "hero": {
+    "path": "/images/dreams/office-dream/hero.png",
+    "alt_ko": "새벽빛이 스며드는 사무실 내부 — 사무실 꿈해몽",
+    "alt_en": "Office interior bathed in soft dawn light — office dream meaning",
+    "prompt": "A modern office building interior at dawn, empty desks with soft golden light streaming through floor-to-ceiling windows, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike misty atmosphere, no text, no people, warm amber and soft grey tones with golden highlights"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/office-dream/auspicious.png",
+      "alt_ko": "황금빛 햇살이 쏟아지는 밝은 사무실 — 직장 꿈 길몽",
+      "alt_en": "Bright office desk with golden sunrise light — auspicious workplace dream",
+      "prompt": "A bright office desk with a golden light radiating from an open doorway, cherry blossoms floating past the window, a rising sun on the horizon, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike misty atmosphere, no text, no people, warm golden and spring green tones"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/office-dream/inauspicious.png",
+      "alt_ko": "어두운 밤 텅 빈 사무실 복도 — 직장 꿈 흉몽",
+      "alt_en": "Dark empty office corridor at night — inauspicious workplace dream",
+      "prompt": "A dark empty office corridor at night, flickering fluorescent lights casting cold shadows, a storm visible through rain-streaked windows, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike misty atmosphere, no text, no people, cool blue-grey and deep shadow tones"
+    }
+  ]
+}

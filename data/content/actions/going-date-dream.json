@@ -332,10 +332,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/going-date-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/going-date-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/going-date-dream/auspicious.png",
-      "inauspicious": "/images/dreams/going-date-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/going-date-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/going-date-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

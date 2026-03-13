@@ -326,10 +326,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/shooting-gun-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/shooting-gun-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/shooting-gun-dream/auspicious.png",
-      "inauspicious": "/images/dreams/shooting-gun-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/shooting-gun-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/shooting-gun-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

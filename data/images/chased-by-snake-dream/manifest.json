@@ -1,0 +1,27 @@
+{
+  "slug": "chased-by-snake-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/chased-by-snake-dream/hero.png",
+    "alt_ko": "어둑한 산길에서 뱀에게 쫓기는 장면, 수묵화 스타일",
+    "alt_en": "A serpent in relentless pursuit through a misty mountain path at dusk, ink-wash illustration style",
+    "prompt": "A coiled serpent in relentless pursuit through a misty mountain path at dusk, the fleeing figure barely visible ahead, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike foreboding atmosphere, deep indigo and shadow tones with cold moonlight, no text, no faces"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/chased-by-snake-dream/auspicious.png",
+      "alt_ko": "어두운 숲을 벗어나 황금빛 새벽 속으로 달려가는 모습, 탈출 성공의 희망",
+      "alt_en": "A lone figure successfully outrunning a serpent and emerging into golden dawn light, birds taking flight, ink-wash illustration",
+      "prompt": "A lone figure successfully outrunning a serpent, emerging from dark forest into golden dawn light, birds taking flight around them, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), triumphant and hopeful atmosphere, warm golden and amber tones, sunrise mist, no text, no faces"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/chased-by-snake-dream/inauspicious.png",
+      "alt_ko": "폭풍우 속 어두운 협곡에서 여러 마리의 뱀에게 둘러싸인 장면, 수묵화 스타일",
+      "alt_en": "Multiple dark serpents encircling a shadowed figure trapped in a dark misty ravine with storm clouds, ink-wash illustration",
+      "prompt": "Multiple dark serpents encircling a shadowed figure trapped in a dark misty ravine, storm clouds overhead, falling autumn leaves, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), ominous foreboding atmosphere, deep navy blue and charcoal tones with cold pale highlights, no text, no faces"
+    }
+  ]
+}

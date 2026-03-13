@@ -1,0 +1,27 @@
+{
+  "slug": "teeth-breaking-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/teeth-breaking-dream/hero.png",
+    "alt_ko": "어두운 돌 위에 부서진 치아 조각, 수묵화 스타일의 몽환적인 꿈 일러스트",
+    "alt_en": "A shattered tooth fragment resting on dark misty stone, dreamlike Korean ink-wash illustration",
+    "prompt": "A shattered tooth fragment resting on misty dark stone, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike dark atmosphere, cool blue-grey tones, cracked surface texture, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/teeth-breaking-dream/auspicious.png",
+      "alt_ko": "낡은 치아가 봄꽃과 새싹으로 변하는 희망적인 수묵화 일러스트",
+      "alt_en": "A withered tooth dissolving into spring blossoms and fresh green shoots, warm golden light illustration",
+      "prompt": "A withered old tooth crumbling away gently into blossoming spring petals and fresh green shoots, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), warm golden morning light, dreamlike hopeful atmosphere, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/teeth-breaking-dream/inauspicious.png",
+      "alt_ko": "폭풍 속 어두운 땅에 흩어진 이빨 조각들, 흉몽을 표현한 수묵화 일러스트",
+      "alt_en": "Jagged broken tooth shards on dark storm-wet ground under cold moonlight, ominous Korean ink-wash illustration",
+      "prompt": "Jagged broken tooth shards scattered on dark storm-wet ground, cracks spreading outward, deep indigo and charcoal shadows, cold moonlight, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), ominous dreamlike atmosphere, no text, no people"
+    }
+  ]
+}

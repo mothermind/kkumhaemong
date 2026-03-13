@@ -1,0 +1,27 @@
+{
+  "slug": "train-dream",
+  "hero": {
+    "path": "/images/dreams/train-dream/hero.png",
+    "alt_ko": "안개 낀 한국 산골짜기를 달리는 기차 — 기차 꿈해몽",
+    "alt_en": "A vintage train gliding through misty Korean mountain valleys — train dream interpretation",
+    "prompt": "A vintage steam train gliding through misty Korean mountain valleys at dusk, soft ink-wash illustration style, Korean traditional painting aesthetic, dreamlike atmosphere, pine trees framing the scene, warm golden light illuminating the tracks ahead, no text"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/train-dream/auspicious.png",
+      "alt_ko": "밝은 햇살 아래 목적지에 도착하는 여행자 — 기차 꿈 길몽",
+      "alt_en": "A traveler arriving joyfully at a sunlit destination — auspicious train dream",
+      "prompt": "A traditional Korean traveler joyfully arriving at a destination station, cherry blossoms and warm sunlight, soft ink-wash watercolor style, dreamlike Korean aesthetic, auspicious golden tones, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/train-dream/inauspicious.png",
+      "alt_ko": "안개 속으로 사라지는 기차를 바라보는 인물 — 기차 놓치는 꿈 흉몽",
+      "alt_en": "A lone figure watching a train depart into fog — inauspicious train dream",
+      "prompt": "A lone figure standing on an empty train platform as a train departs into fog, somber ink-wash Korean painting style, muted grey and blue tones, dreamlike mist, melancholic atmosphere, no text"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

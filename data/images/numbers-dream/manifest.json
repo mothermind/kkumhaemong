@@ -1,0 +1,27 @@
+{
+  "slug": "numbers-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/numbers-dream/hero.png",
+    "alt_ko": "꿈속에서 빛나는 숫자들이 안개 낀 산 위에 황금빛 등처럼 떠오르는 한국화 스타일 삽화",
+    "alt_en": "Luminous numbers floating like golden lanterns over misty Korean mountains, ink-wash illustration",
+    "prompt": "Ancient Korean counting beads and luminous numerals floating in misty mountain air, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere with golden mist, no text, warm golden and ivory tones with celestial blue accents"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/numbers-dream/auspicious.png",
+      "alt_ko": "황금빛 숫자 7과 8이 새벽 산 위로 등불처럼 떠오르는 길몽 이미지",
+      "alt_en": "Lucky numbers 7 and 8 glowing like golden lanterns rising over a serene mountain lake at dawn",
+      "prompt": "Glowing lucky numbers 7 and 8 rising like golden lanterns over a serene mountain lake at dawn, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), warm sunrise golden light, auspicious atmosphere, lotus blossoms floating on water, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/numbers-dream/inauspicious.png",
+      "alt_ko": "어두운 달빛 아래 돌문에 새겨진 불길한 숫자 4의 흉몽 이미지",
+      "alt_en": "Ominous number 4 carved on a dark stone gate in moonlit mist, foreboding atmosphere",
+      "prompt": "Ominous number 4 carved on a dark stone gate in a moonlit mist, deep shadows and indigo night tones, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), foreboding atmosphere, no text, cool blues and charcoal grey palette"
+    }
+  ]
+}

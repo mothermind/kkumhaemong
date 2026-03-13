@@ -248,7 +248,10 @@
           "name": "꿈해몽닷컴",
           "url": "https://kkumhaemong.com"
         },
-        "inLanguage": ["ko", "en"],
+        "inLanguage": [
+          "ko",
+          "en"
+        ],
         "about": "살인을 목격하는 꿈 해몽"
       }
     },
@@ -273,10 +276,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/witnessing-murder-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/witnessing-murder-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/witnessing-murder-dream/auspicious.png",
-      "inauspicious": "/images/dreams/witnessing-murder-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/witnessing-murder-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/witnessing-murder-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

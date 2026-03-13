@@ -1,0 +1,27 @@
+{
+  "slug": "ghost-dream",
+  "hero": {
+    "path": "/images/dreams/ghost-dream/hero.png",
+    "alt_ko": "달빛 아래 떠도는 귀신의 한국 수묵화 일러스트",
+    "alt_en": "Korean ink-wash illustration of a ghost drifting in moonlit mist",
+    "prompt": "A pale translucent Korean ghost (gwisin) hovering in misty moonlit darkness, long flowing white hanbok garment, ethereal ink-wash illustration style, Korean traditional painting aesthetic, dreamlike atmosphere, cold blue-grey tones with ghostly luminescence, mountain fog background, no text, no people, spirit realm feeling"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/ghost-dream/auspicious.png",
+      "alt_ko": "귀신을 물리치는 승리의 장면, 황금빛 한국 전통 수묵화",
+      "alt_en": "Triumphant figure defeating a ghost in golden Korean ink-wash style",
+      "prompt": "A victorious warrior figure standing triumphantly over a defeated ghost in dreamlike mist, soft Korean ink-wash illustration style, golden warm light breaking through darkness, traditional Korean aesthetic, symbolic victory and fortune, auspicious energy, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/ghost-dream/inauspicious.png",
+      "alt_ko": "어두운 숲 속에서 귀신에게 쫓기는 인물의 한국 수묵화",
+      "alt_en": "Silhouette fleeing a terrifying ghost through dark misty forest, Korean ink-wash style",
+      "prompt": "A terrifying pale ghost (cheonyeo gwisin) with long black hair chasing a silhouette through a dark misty forest, Korean traditional ink-wash illustration style, cold dark atmosphere, shadows and fog, ominous foreboding feeling, deep blues and blacks, no text"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

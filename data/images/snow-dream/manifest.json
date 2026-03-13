@@ -1,0 +1,27 @@
+{
+  "slug": "snow-dream",
+  "hero": {
+    "path": "/images/dreams/snow-dream/hero.png",
+    "alt_ko": "함박눈이 내리는 한국 전통 마을의 몽환적인 풍경",
+    "alt_en": "Dreamlike heavy snowfall blanketing a Korean traditional landscape",
+    "prompt": "Soft ink-wash illustration of gentle heavy snowfall blanketing a serene Korean traditional landscape, white snow covering tiled rooftops and pine trees, dreamlike atmosphere, misty mountains in background, warm golden light glowing through paper windows, Korean traditional painting aesthetic, muted blues and whites with subtle warm gold accents, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/snow-dream/auspicious.png",
+      "alt_ko": "풍요로운 마을을 덮는 하얀 눈과 빛나는 등불",
+      "alt_en": "Abundant white snow covering a prosperous Korean village with glowing golden lanterns",
+      "prompt": "Soft watercolor illustration of abundant white snow covering a prosperous Korean village, bright white snowflakes falling from a clear sky, glowing warm lanterns and golden light, abundant rice stacks visible through the snow, auspicious celebratory atmosphere, Korean traditional painting aesthetic, dreamlike quality, muted whites and gold tones, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/snow-dream/inauspicious.png",
+      "alt_ko": "눈보라 속에서 길을 잃은 나그네의 암울한 풍경",
+      "alt_en": "A lone traveler lost in a dark swirling blizzard on a mountain path",
+      "prompt": "Ink-wash illustration of a dark swirling snowstorm blizzard obscuring a lone traveler on a mountain path, disorienting white chaos, ominous dark grey sky, lost figure barely visible through swirling snow, Korean traditional painting aesthetic, dreamlike foreboding atmosphere, cold blue-grey tones, no text"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

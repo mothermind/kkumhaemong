@@ -1,0 +1,27 @@
+{
+  "slug": "door-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/door-dream/hero.png",
+    "alt_ko": "고즈넉한 안개 속에 살짝 열린 한국 전통 나무 대문, 황금빛 빛이 문 너머로 스며드는 수묵화 일러스트",
+    "alt_en": "An ancient Korean wooden gate standing ajar in the mist, soft golden light streaming through the opening, ink-wash illustration",
+    "prompt": "An ancient Korean wooden gate standing ajar, mist drifting through the opening to reveal soft golden light beyond, surrounded by pine trees and stone walls, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, no text, no people, muted earth tones with subtle golden highlights"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/door-dream/auspicious.png",
+      "alt_ko": "붉은 등롱과 매화꽃이 장식된 화려한 대문이 활짝 열리며 황금빛 일출이 쏟아지는 길몽 장면",
+      "alt_en": "A grand Korean main gate thrown wide open with golden sunrise light and red lanterns, auspicious dream scene illustration",
+      "prompt": "A grand ornate Korean main gate (대문) thrown wide open, warm golden sunrise light streaming through, auspicious red lanterns hanging above, blooming plum blossoms framing the entrance, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike warm atmosphere, no text, no people, warm golden tones with crimson accents"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/door-dream/inauspicious.png",
+      "alt_ko": "폭풍우 치는 밤하늘 아래 경첩이 뜯겨 부서진 한국 전통 나무 문, 흉몽을 상징하는 수묵화 일러스트",
+      "alt_en": "A broken Korean wooden door hanging off its hinges under storm clouds at night, inauspicious dream scene ink-wash illustration",
+      "prompt": "A broken and splintered Korean wooden door hanging off its hinges at night, dark storm clouds overhead, shadows pooling at the threshold, cracked wood and rusted iron fittings, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike foreboding atmosphere, no text, no people, cool blue-grey tones with deep shadow"
+    }
+  ]
+}

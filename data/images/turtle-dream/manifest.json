@@ -1,0 +1,27 @@
+{
+  "slug": "turtle-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/turtle-dream/hero.png",
+    "alt_ko": "안개 낀 바다 속을 헤엄치는 고대 거북이 — 한국화 스타일 수채화 일러스트",
+    "alt_en": "An ancient turtle gliding through misty emerald waters — Korean ink-wash watercolor illustration",
+    "prompt": "A large ancient sea turtle gliding through misty emerald waters toward shore, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike ethereal atmosphere, muted jade and deep teal tones with golden light filtering from above, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/turtle-dream/auspicious.png",
+      "alt_ko": "황금빛으로 빛나는 거북이와 연꽃 — 재물운을 상징하는 길몽 장면",
+      "alt_en": "A radiant golden turtle resting by a mountain stream surrounded by lotus blossoms — symbol of wealth fortune",
+      "prompt": "A radiant golden turtle resting on a rocky shore beside a flowing mountain stream, its shell gleaming with warm golden light, coins and lotus blossoms surrounding it, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike golden sunrise atmosphere, warm earth tones and golden hues, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/turtle-dream/inauspicious.png",
+      "alt_ko": "폭풍우 아래 깨진 거북이 등껍데기 — 기반의 흔들림을 경고하는 흉몽 장면",
+      "alt_en": "A cracked turtle shell abandoned on dark rocks beneath a stormy night sky — an omen warning of instability",
+      "prompt": "A cracked turtle shell lying abandoned on dark wet rocks beneath a stormy night sky, mist curling around broken fragments, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike foreboding atmosphere, deep indigo and cold grey tones with pale moonlight, no text, no people"
+    }
+  ]
+}

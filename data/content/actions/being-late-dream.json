@@ -315,10 +315,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/being-late-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/being-late-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/being-late-dream/auspicious.png",
-      "inauspicious": "/images/dreams/being-late-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/being-late-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/being-late-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

@@ -1,0 +1,27 @@
+{
+  "slug": "ant-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/ant-dream/hero.png",
+    "alt_ko": "질서정연하게 먹이를 나르는 개미 행렬, 한국화 수묵화 스타일",
+    "alt_en": "An organized procession of ants carrying food through a misty mountain trail, Korean ink-wash illustration style",
+    "prompt": "A massive organized procession of ants carrying food through a misty Korean mountain trail, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, muted earth tones with warm amber highlights, no text, no people, golden morning light"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/ant-dream/auspicious.png",
+      "alt_ko": "여왕개미 주위로 황금 곡식을 나르는 일개미들, 풍요와 길몽을 상징",
+      "alt_en": "A queen ant surrounded by worker ants carrying golden grains into an abundant underground chamber, symbolizing wealth and fortune",
+      "prompt": "A queen ant surrounded by loyal worker ants carrying golden grains into a richly stocked underground chamber, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, warm golden sunlight streaming in, abundant harvest, auspicious fortune, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/ant-dream/inauspicious.png",
+      "alt_ko": "뒤집힌 밥그릇 위에 개미 떼가 우글거리는 어두운 방, 폭풍우가 치는 밤",
+      "alt_en": "Ants swarming over a fallen rice bowl in a dark empty room during a heavy rainstorm, foreboding night atmosphere",
+      "prompt": "Ants swarming over a fallen rice bowl in a dark empty room, heavy storm rain outside, ants scattering chaotically, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, deep indigo and grey tones, foreboding night atmosphere, no text, no people"
+    }
+  ]
+}

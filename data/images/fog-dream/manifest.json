@@ -1,0 +1,27 @@
+{
+  "slug": "fog-dream",
+  "hero": {
+    "path": "/images/dreams/fog-dream/hero.png",
+    "alt_ko": "새벽 안개가 자욱하게 낀 산골짜기의 몽환적인 수묵화 풍경",
+    "alt_en": "Dreamlike ink-wash painting of a misty valley at dawn with dense fog",
+    "prompt": "Dense fog drifting over a misty valley at dawn, soft ink-wash illustration style, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, layered mountain silhouettes barely visible through fog, muted grey-blue tones with faint golden light, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/fog-dream/auspicious.png",
+      "alt_ko": "안개가 서서히 걷히며 따뜻한 햇살이 산봉우리를 밝히는 수묵화",
+      "alt_en": "Ink-wash painting of fog lifting from mountain peaks as warm golden sunlight breaks through",
+      "prompt": "Fog slowly lifting from a mountain landscape at sunrise, warm golden light breaking through, soft ink-wash illustration style, Korean traditional painting (한국화) aesthetic, hopeful and serene mood, pine trees emerging from mist, muted earth tones with soft golden highlights, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/fog-dream/inauspicious.png",
+      "alt_ko": "짙은 안개에 뒤덮인 어두운 산골짜기의 불안한 수묵화 풍경",
+      "alt_en": "Dark ink-wash painting of an oppressive dense fog swallowing a shadowy valley at night",
+      "prompt": "Impenetrable thick fog engulfing a dark valley at night, oppressive and disorienting atmosphere, ink-wash illustration style, Korean traditional painting (한국화) aesthetic, deep grey and indigo tones, shadowy forms barely visible, sense of being lost, no text, no people"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

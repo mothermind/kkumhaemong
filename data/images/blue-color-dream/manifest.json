@@ -1,0 +1,30 @@
+{
+  "slug": "blue-color-dream",
+  "hero": {
+    "path": "/images/dreams/blue-color-dream/hero.png",
+    "alt_ko": "새벽 한국 산맥 위로 펼쳐진 맑고 청명한 파란 하늘, 수묵화 스타일",
+    "alt_en": "A vast clear blue sky over misty Korean mountains at dawn, ink-wash illustration style",
+    "prompt": "A vast clear blue sky over misty Korean mountains at dawn, soft ink-wash illustration style, Korean traditional painting aesthetic, dreamlike atmosphere, luminous cerulean and indigo tones, flowing clouds, tranquil and hopeful mood, no text, no people",
+    "aspectRatio": "16:9"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/blue-color-dream/auspicious.png",
+      "alt_ko": "봄 풍경 위를 날아오르는 찬란한 파란 새, 수채화 스타일",
+      "alt_en": "A radiant blue bird soaring over a blooming spring landscape, watercolor illustration style",
+      "prompt": "A radiant blue bird soaring over a blooming spring landscape, soft watercolor illustration style, Korean traditional painting aesthetic, bright cerulean tones, golden light, hopeful and uplifting mood, no text, no people",
+      "aspectRatio": "4:3"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/blue-color-dream/inauspicious.png",
+      "alt_ko": "거칠고 어두운 남색 하늘과 파도치는 바다, 수묵화 스타일",
+      "alt_en": "A stormy dark indigo sky over a turbulent sea, ink-wash illustration style",
+      "prompt": "A stormy dark indigo sky over a turbulent sea, ink-wash illustration style, Korean traditional painting aesthetic, heavy dark blue and slate tones, ominous brooding atmosphere, oppressive weight of clouds, no text, no people",
+      "aspectRatio": "4:3"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "haunted-house-dream",
+  "hero": {
+    "path": "/images/dreams/haunted-house-dream/hero.png",
+    "alt_ko": "밤의 폐가에서 창문으로 새어나오는 귀신의 빛, 한국 전통 수묵화 스타일",
+    "alt_en": "Eerie abandoned Korean traditional house at night with ghostly pale light from windows, ink-wash style",
+    "prompt": "An eerie abandoned Korean traditional house at night, ghostly pale light emanating from windows, wisps of spectral mist drifting through the courtyard, ink-wash illustration style, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, muted indigo and silver tones with cold moonlight, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/haunted-house-dream/auspicious.png",
+      "alt_ko": "귀신이 나오는 집 안에서 담담하게 귀신을 마주하는 사람, 용기와 해결의 상징",
+      "alt_en": "A person standing calmly facing a ghost in a haunted Korean house, symbolizing courage and resolution",
+      "prompt": "A person standing calmly inside a traditional Korean haunted house, facing a translucent ghost with serene confidence, soft golden light breaking through dusty windows, ink-wash illustration style, Korean traditional painting aesthetic, dreamlike atmosphere, warm earth tones contrasting with pale spectral blue, symbolic of inner courage and resolution, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/haunted-house-dream/inauspicious.png",
+      "alt_ko": "어두운 한국 전통 가옥 안에 나타난 처녀귀신, 흰 소복에 긴 머리",
+      "alt_en": "A white-robed maiden ghost with long flowing hair appearing in a dark traditional Korean house interior",
+      "prompt": "A ghostly white-robed maiden spirit (처녀귀신) with long flowing hair appearing in a dark traditional Korean house interior, pale moonlight, cold grey and white tones, ominous atmosphere, ink-wash illustration style, Korean traditional painting aesthetic (한국화), dreamlike and unsettling quality, no text, no faces shown clearly"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "teeth-falling-out-dream",
+  "generatedAt": "2026-03-13T01:34:35Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/teeth-falling-out-dream/hero.png",
+    "alt_ko": "안개 낀 바위 위에 놓인 하얀 치아, 한국 수묵화 스타일 몽환적 일러스트",
+    "alt_en": "A single human tooth resting on misty mountain rocks, Korean ink-wash watercolor dream illustration",
+    "prompt": "A single human tooth resting on misty mountain rocks, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike atmosphere, pale mist, muted grey and ivory tones with faint golden light, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/teeth-falling-out-dream/auspicious.png",
+      "alt_ko": "봄꽃 위에 빛나는 하얀 치아, 새로운 시작과 행운을 상징하는 길몽 일러스트",
+      "alt_en": "A luminous white tooth among blooming spring flowers, symbolizing new beginnings and good fortune",
+      "prompt": "A single luminous white tooth on a bed of blooming spring flowers, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, warm golden sunrise light, pastel pink and gold tones, new growth emerging, dreamlike hopeful atmosphere, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/teeth-falling-out-dream/inauspicious.png",
+      "alt_ko": "폭풍우 치는 밤 땅에 흩어진 부서진 치아들, 흉몽을 상징하는 한국 수묵화 스타일 일러스트",
+      "alt_en": "Scattered broken teeth on dark storm-wet ground under a moonless night sky, inauspicious dream illustration",
+      "prompt": "Scattered broken teeth on dark storm-wet ground under a moonless night sky, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, deep midnight blue and charcoal tones, foreboding atmosphere, rain-washed shadows, no text, no people"
+    }
+  ]
+}

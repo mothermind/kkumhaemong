@@ -1,0 +1,30 @@
+{
+  "slug": "new-shoes-dream",
+  "hero": {
+    "path": "/images/dreams/new-shoes-dream/hero.png",
+    "alt_ko": "문지방에 놓인 새 신발, 새로운 여정의 시작을 상징하는 한국화 스타일 일러스트",
+    "alt_en": "A pair of pristine new shoes placed at a threshold, Korean ink-wash style illustration symbolizing a new journey",
+    "prompt": "A pair of pristine new shoes placed at a threshold doorway, soft ink-wash illustration style, Korean traditional painting aesthetic, dreamlike misty atmosphere, delicate brushwork, golden morning light, sense of new journey beginning, no text, no people",
+    "aspectRatio": "16:9"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/new-shoes-dream/auspicious.png",
+      "alt_ko": "황금빛 길로 이어지는 새 신발, 매화꽃이 피어난 길몽 일러스트",
+      "alt_en": "New shoes on a path leading into golden light with plum blossoms, auspicious Korean ink-wash illustration",
+      "prompt": "Elegant new shoes on a path leading upward into golden light, blooming plum blossoms framing the scene, Korean ink-wash watercolor style, auspicious warm tones, symbols of advancement and success, dreamlike soft focus, no text, no people",
+      "aspectRatio": "4:3"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/new-shoes-dream/inauspicious.png",
+      "alt_ko": "울퉁불퉁한 바위 위에 놓인 작은 새 신발, 불편함과 제약을 상징하는 흉몽 일러스트",
+      "alt_en": "New shoes that look too small placed on jagged rocks in mist, Korean ink-wash illustration symbolizing constraint and unease",
+      "prompt": "A pair of new shoes that look too small and tight, placed on jagged rocks in mist, Korean ink-wash illustration style, cool grey and blue tones, sense of constraint and unease, dreamlike atmosphere, no text, no people",
+      "aspectRatio": "4:3"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

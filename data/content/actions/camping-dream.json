@@ -336,10 +336,10 @@
     ]
   },
   "images": {
-    "hero": "/images/dreams/camping-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/camping-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/camping-dream/auspicious.png",
-      "inauspicious": "/images/dreams/camping-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/camping-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/camping-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

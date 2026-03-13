@@ -336,10 +336,10 @@
     ]
   },
   "images": {
-    "hero": "/images/dreams/confessing-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/confessing-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/confessing-dream/auspicious.png",
-      "inauspicious": "/images/dreams/confessing-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/confessing-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/confessing-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

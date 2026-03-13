@@ -1,0 +1,27 @@
+{
+  "slug": "alien-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/alien-dream/hero.png",
+    "alt_ko": "밤하늘 한국 산 위에 떠 있는 외계 우주선, 수묵화 스타일",
+    "alt_en": "Alien spacecraft hovering over misty Korean mountains at night, ink-wash illustration",
+    "prompt": "A large hovering alien spacecraft casting soft light over misty Korean mountains at night, ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike ethereal atmosphere, deep indigo and moonlit silver palette, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/alien-dream/auspicious.png",
+      "alt_ko": "황금빛 선물을 건네는 우호적인 외계인, 봄꽃과 안개 속 수묵화",
+      "alt_en": "Friendly alien offering a glowing gift amid cherry blossoms, warm golden ink-wash illustration",
+      "prompt": "A warm golden light streaming from a friendly alien figure offering a glowing gift, surrounded by cherry blossoms and gentle mist, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, sunrise golden tones and spring colors, dreamlike atmosphere, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/alien-dream/inauspicious.png",
+      "alt_ko": "폭풍우 치는 밤하늘 한국 지붕 위 어두운 외계 우주선, 수묵화",
+      "alt_en": "Dark alien spacecraft looming over Korean rooftops in a stormy night, ominous ink-wash illustration",
+      "prompt": "A dark alien spacecraft looming over a stormy night sky above Korean rooftops, cold blue light casting long shadows, ink-wash watercolor illustration, Korean traditional painting aesthetic, deep midnight blues and steel grays, threatening storm clouds, dreamlike ominous atmosphere, no text, no people"
+    }
+  ]
+}

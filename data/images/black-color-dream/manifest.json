@@ -1,0 +1,30 @@
+{
+  "slug": "black-color-dream",
+  "hero": {
+    "path": "/images/dreams/black-color-dream/hero.png",
+    "alt_ko": "검은색 꿈해몽 — 깊고 신비로운 어둠 속 달빛",
+    "alt_en": "Black color dream interpretation — moonlight piercing deep mysterious darkness",
+    "prompt": "A deep, velvety black expanse slowly shifting like ink in water, a single luminous orb of moonlight piercing through — soft ink-wash illustration style, Korean traditional painting aesthetic, dreamlike atmosphere, muted deep blacks with subtle silver and indigo highlights, sense of mystery and hidden power, no text",
+    "aspectRatio": "16:9"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/black-color-dream/auspicious.png",
+      "alt_ko": "검은 용이 산봉우리 위에 위엄 있게 서린 길몽 이미지",
+      "alt_en": "Auspicious black dragon coiled with dignity atop misty mountain peaks",
+      "prompt": "A dignified black dragon coiled atop misty mountain peaks, scales gleaming with deep authority, surrounded by swirling dark clouds with golden edges — Korean traditional ink-wash painting style, auspicious and powerful atmosphere, deep blacks with gold and emerald accents, dreamlike grandeur, no text",
+      "aspectRatio": "4:3"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/black-color-dream/inauspicious.png",
+      "alt_ko": "검은 구름이 드리운 흉몽 — 홀로 선 인물 위로 어둠이 몰려드는 장면",
+      "alt_en": "Inauspicious black clouds descending over a lone figure on a desolate path",
+      "prompt": "Dark murky black clouds swirling and descending over a lone figure on a desolate path, oppressive shadows closing in, bare twisted trees in the background — Korean ink-wash style, heavy foreboding atmosphere, deep cold blacks with muted grey tones, sense of unease and warning, no text",
+      "aspectRatio": "4:3"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "apple-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/apple-dream/hero.png",
+    "alt_ko": "안개 낀 산 속 이끼 바위 위에 놓인 탐스러운 빨간 사과 — 한국화풍 수채화 일러스트",
+    "alt_en": "A ripe red apple resting on a mossy rock beside a misty mountain stream — Korean ink-wash watercolor illustration",
+    "prompt": "A ripe red apple resting on a mossy rock beside a misty mountain stream, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, soft golden morning light filtering through pine branches, no text, no people, warm earth tones with deep crimson and muted jade"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/apple-dream/auspicious.png",
+      "alt_ko": "황금빛 일출 아래 사과나무에 주렁주렁 달린 탐스러운 빨간 사과들 — 길몽 한국화풍 일러스트",
+      "alt_en": "Abundant ripe red apples on a flourishing tree under golden sunrise — auspicious Korean ink-wash illustration",
+      "prompt": "Abundant ripe red apples hanging from a flourishing apple tree under warm golden sunrise, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, golden light and warm autumn harvest tones, no text, no people, rich crimson and golden yellow palette"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/apple-dream/inauspicious.png",
+      "alt_ko": "짙은 안개 속 앙상한 나무 아래 바닥에 떨어져 썩어가는 사과 — 흉몽 한국화풍 일러스트",
+      "alt_en": "A rotting apple fallen on dark wet ground beneath a bare tree in heavy fog — inauspicious Korean ink-wash illustration",
+      "prompt": "A single rotting apple fallen on dark wet ground beneath a bare twisted tree in heavy fog, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), somber dreamlike atmosphere, deep indigo and charcoal tones with muted grey, no text, no people, cool blues and dark earthy shadows"
+    }
+  ]
+}

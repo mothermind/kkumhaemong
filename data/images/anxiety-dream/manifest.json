@@ -1,0 +1,27 @@
+{
+  "slug": "anxiety-dream",
+  "hero": {
+    "path": "/images/dreams/anxiety-dream/hero.png",
+    "alt_ko": "어두운 복도를 걷는 불안한 꿈 일러스트",
+    "alt_en": "Illustration of a figure walking through a shadowy corridor in an anxiety dream",
+    "prompt": "A figure walking through a misty, shadowy corridor that stretches into infinite darkness, soft ink-wash illustration style, Korean traditional painting aesthetic, dreamlike atmosphere, muted indigo and grey tones, abstract swirling shadows suggesting unease and uncertainty, no text"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/anxiety-dream/auspicious.png",
+      "alt_ko": "어두운 구름을 뚫고 황금빛 하늘로 나오는 길몽 일러스트",
+      "alt_en": "Figure emerging from dark clouds into golden light, symbolizing overcoming anxiety",
+      "prompt": "A lone figure emerging from dark storm clouds into warm golden light, soft watercolor illustration style, Korean traditional painting aesthetic, dreamlike hopeful atmosphere, contrast of dark shadows below and luminous sky above, symbolic image of overcoming fear and inner strength, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/anxiety-dream/inauspicious.png",
+      "alt_ko": "어두운 안개 속에 갇힌 흉몽 일러스트",
+      "alt_en": "Figure trapped in a glass cage surrounded by dark fog, symbolizing psychological entrapment",
+      "prompt": "A figure trapped inside a glass cage surrounded by swirling dark fog and shadowy shapes, soft ink-wash illustration style, Korean traditional painting aesthetic, oppressive dreamlike atmosphere, deep indigo and charcoal tones with faint red hints, symbolic of psychological entrapment and unresolved fear, no text"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

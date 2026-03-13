@@ -321,10 +321,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/climbing-wall-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/climbing-wall-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/climbing-wall-dream/auspicious.png",
-      "inauspicious": "/images/dreams/climbing-wall-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/climbing-wall-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/climbing-wall-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

@@ -1,0 +1,27 @@
+{
+  "slug": "spider-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4-fast",
+  "hero": {
+    "path": "/images/dreams/spider-dream/hero.png",
+    "alt_ko": "이슬 맺힌 거미줄 위의 거미, 대나무 사이 아침 안개 속 수묵화 일러스트",
+    "alt_en": "An orb-weaver spider on a dew-covered web between bamboo stalks in misty morning light, ink-wash illustration",
+    "prompt": "A large orb-weaver spider resting at the center of an intricate dew-covered web stretched between bamboo stalks in misty morning light, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, no text, no people, muted jade and silver tones with soft golden highlights"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/spider-dream/auspicious.png",
+      "alt_ko": "황금빛 거미가 감나무 가지에서 내려오는 길몽 이미지, 따뜻한 일출 빛",
+      "alt_en": "A golden spider descending on silk from a persimmon branch in warm sunrise light, auspicious Korean dream illustration",
+      "prompt": "A golden spider descending on a silk thread from a blooming persimmon tree branch, warm sunrise light streaming through, coins and auspicious symbols in soft focus background, ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike warm atmosphere, no text, no people, warm earth tones with golden light"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/spider-dream/inauspicious.png",
+      "alt_ko": "검은 거미가 한옥 구석에 웅크린 흉몽 이미지, 어두운 폭풍 분위기",
+      "alt_en": "A dark black spider lurking in the shadowy corner of a Korean wooden room with storm clouds visible, inauspicious dream illustration",
+      "prompt": "A dark black spider lurking in the shadowy corner of an old Korean wooden room, ominous web filling the corner, storm clouds visible through a latticed window, ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), foreboding dark atmosphere, no text, no people, deep indigo and charcoal tones with cold blue shadows"
+    }
+  ]
+}

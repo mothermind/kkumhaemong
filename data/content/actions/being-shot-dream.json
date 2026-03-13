@@ -346,10 +346,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/being-shot-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/being-shot-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/being-shot-dream/auspicious.png",
-      "inauspicious": "/images/dreams/being-shot-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/being-shot-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/being-shot-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

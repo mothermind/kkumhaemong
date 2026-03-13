@@ -310,10 +310,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/packing-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/packing-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/packing-dream/auspicious.png",
-      "inauspicious": "/images/dreams/packing-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/packing-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/packing-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

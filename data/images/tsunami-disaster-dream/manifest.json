@@ -1,0 +1,30 @@
+{
+  "slug": "tsunami-disaster-dream",
+  "hero": {
+    "path": "/images/dreams/tsunami-disaster-dream/hero.png",
+    "alt_ko": "압도적인 쓰나미 해일이 한국 해안으로 밀려오는 꿈 같은 수묵화 일러스트",
+    "alt_en": "A colossal tidal wave rising above a misty Korean coastline, dreamlike ink-wash illustration",
+    "prompt": "A colossal tidal wave rising above a misty Korean coastline at dawn, enormous wall of dark blue-green water curling overhead, lone figure standing on rocky high cliff watching in awe, soft ink-wash illustration style, Korean traditional painting aesthetic, dreamlike atmosphere, muted earth tones with deep ocean blues and silver light, no text, wide cinematic composition",
+    "aspectRatio": "16:9"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/tsunami-disaster-dream/auspicious.png",
+      "alt_ko": "쓰나미를 피해 높은 산 정상에 오른 인물, 황금빛 일출과 함께 성공을 상징",
+      "alt_en": "A person standing triumphantly on a high mountain peak above the clouds, golden sunrise, distant swirling waters far below",
+      "prompt": "A person standing triumphantly on a high mountain peak above the clouds, golden sunrise breaking through, distant swirling waters far below, sense of survival and victory, soft watercolor illustration style, Korean traditional painting aesthetic, warm golden and amber tones, dreamlike peaceful atmosphere, no text",
+      "aspectRatio": "4:3"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/tsunami-disaster-dream/inauspicious.png",
+      "alt_ko": "밤에 어두운 홍수에 휩쓸리는 인물, 위기와 경고를 상징하는 수묵화 일러스트",
+      "alt_en": "A solitary figure being overwhelmed by dark churning floodwaters at night, mood of loss and helplessness",
+      "prompt": "A solitary figure being overwhelmed by dark churning floodwaters at night, debris swirling in the current, heavy storm clouds overhead, mood of loss and helplessness, soft ink-wash illustration style, dark indigo and charcoal tones, Korean traditional painting aesthetic, somber dreamlike atmosphere, no text",
+      "aspectRatio": "4:3"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

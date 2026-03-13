@@ -1,0 +1,27 @@
+{
+  "slug": "number-six-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/number-six-dream/hero.png",
+    "alt_ko": "황금빛 육각형과 연꽃 여섯 송이가 안개 낀 산속 연못 위에 떠 있는 수묵화 풍 숫자 6 꿈해몽 일러스트",
+    "alt_en": "Luminous golden hexagon floating above a misty mountain pond surrounded by six lotus blossoms, ink-wash illustration",
+    "prompt": "The number six rendered as a luminous golden hexagon floating above a misty mountain pond, surrounded by six lotus blossoms reflecting in still water, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, muted earth tones with golden highlights, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/number-six-dream/auspicious.png",
+      "alt_ko": "황금빛 여섯 꽃잎 꽃이 일출 아래 연못 위에 피어나고 황금 학 여섯 마리가 날아오르는 길몽 일러스트",
+      "alt_en": "A radiant golden six-petaled flower blooming at sunrise over a tranquil pond with six golden cranes in flight, auspicious dream illustration",
+      "prompt": "A radiant golden six-petaled flower blooming at sunrise over a tranquil pond, warm amber and golden light streaming through misty morning air, six golden cranes in flight, overflowing treasure basket nearby, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike atmosphere, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/number-six-dream/inauspicious.png",
+      "alt_ko": "폭풍 밤하늘 아래 탁한 물에 반쯤 잠긴 어두운 육각형 돌판, 흉몽 경고 수묵화 일러스트",
+      "alt_en": "A darkened hexagonal stone tablet half-submerged in murky water under a stormy night sky, inauspicious dream warning illustration",
+      "prompt": "A darkened six-cornered stone tablet half-submerged in murky water under a stormy night sky, lightning reflected in the turbulent surface, deep indigo and charcoal shadows, withered reeds bending in cold wind, soft ink-wash illustration, Korean traditional painting aesthetic, foreboding dreamlike atmosphere, no text, no people"
+    }
+  ]
+}

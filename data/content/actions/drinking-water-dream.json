@@ -290,7 +290,10 @@
         "description": "물을 마시는 꿈 해몽 완벽 정리. 맑은 물은 재물·건강의 길몽, 흙탕물은 흉몽. 약수·정화수·냉수·바닷물 등 상황별 해석과 서양 심리학적 의미까지.",
         "datePublished": "2026-03-11",
         "dateModified": "2026-03-11",
-        "inLanguage": ["ko", "en"],
+        "inLanguage": [
+          "ko",
+          "en"
+        ],
         "url": "https://kkumhaemong.com/en/dream/drinking-water-dream",
         "publisher": {
           "@type": "Organization",
@@ -329,10 +332,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/drinking-water-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/drinking-water-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/drinking-water-dream/auspicious.png",
-      "inauspicious": "/images/dreams/drinking-water-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/drinking-water-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/drinking-water-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

@@ -1,0 +1,27 @@
+{
+  "slug": "ex-lover-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/ex-lover-dream/hero.png",
+    "alt_ko": "안개 낀 황혼의 갈림길에 홀로 선 인물과 멀리 희미한 실루엣 — 전 연인 꿈해몽 대표 이미지",
+    "alt_en": "A solitary figure at a misty crossroads at dusk with a ghostly silhouette in the distance — ex-lover dream hero image",
+    "prompt": "A solitary figure standing at a misty crossroads at dusk, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, faded memories suggested by ghostly silhouette in distance, muted indigo and grey tones, no text, no faces"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/ex-lover-dream/auspicious.png",
+      "alt_ko": "봄 햇살 아래 활짝 핀 매화나무와 날리는 꽃잎 — 전 연인 꿈 길몽 이미지",
+      "alt_en": "Blossoming plum trees in warm spring sunrise with petals drifting on a golden breeze — ex-lover dream auspicious image",
+      "prompt": "Two blossoming plum trees in spring sunrise, petals drifting gently on warm golden breeze, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike hopeful atmosphere, warm amber and gold tones, new beginnings symbolism, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/ex-lover-dream/inauspicious.png",
+      "alt_ko": "밤비 속 끊어진 다리와 안개 낀 어두운 강 — 전 연인 꿈 흉몽 이미지",
+      "alt_en": "A broken bridge over a dark misty river at night with drooping willow branches in rain — ex-lover dream inauspicious image",
+      "prompt": "Broken bridge over a dark misty river at night, rain falling softly, willow branches drooping, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike melancholy atmosphere, deep indigo and slate blue tones, isolation and longing, no text, no people"
+    }
+  ]
+}

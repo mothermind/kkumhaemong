@@ -1,0 +1,27 @@
+{
+  "slug": "mountain-top-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4",
+  "hero": {
+    "path": "/images/dreams/mountain-top-dream/hero.png",
+    "alt_ko": "새벽 안개 속 산 정상을 묘사한 한국화풍 수채화 일러스트",
+    "alt_en": "Korean ink-wash watercolor illustration of a mountain summit emerging through morning mist",
+    "prompt": "A majestic mountain summit emerging through morning mist, solitary peak touching the clouds, Korean ink-wash watercolor illustration style, traditional Korean painting aesthetic (한국화), dreamlike misty atmosphere, golden sunrise light breaking over the mountaintop, soft earth tones with golden highlights, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/mountain-top-dream/auspicious.png",
+      "alt_ko": "황금빛 일출 속 꽃 피는 산 정상을 표현한 길몽 일러스트",
+      "alt_en": "Auspicious illustration of a mountain summit blooming with wildflowers in golden sunrise light",
+      "prompt": "A triumphant mountain summit bathed in golden sunrise light, blooming wildflowers at the peak, sunbeams breaking through clouds, Korean ink-wash watercolor illustration style, traditional Korean painting aesthetic, warm golden and amber tones, dreamlike celebratory atmosphere, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/mountain-top-dream/inauspicious.png",
+      "alt_ko": "먹구름과 폭풍에 휩싸인 어두운 산 정상을 표현한 흉몽 일러스트",
+      "alt_en": "Inauspicious illustration of a dark forbidding mountain summit shrouded in storm clouds",
+      "prompt": "A dark forbidding mountain summit shrouded in storm clouds, jagged rocky peak in deep shadows, lightning in the distance, Korean ink-wash watercolor illustration style, traditional Korean painting aesthetic, cool blue and grey tones, ominous dreamlike atmosphere, no text, no people"
+    }
+  ]
+}

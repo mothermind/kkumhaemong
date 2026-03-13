@@ -1,0 +1,27 @@
+{
+  "slug": "nightmare-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4",
+  "hero": {
+    "path": "/images/dreams/nightmare-dream/hero.png",
+    "alt_ko": "달빛 아래 안개 낀 산길에서 어두운 그림자가 소용돌이치는 악몽의 풍경",
+    "alt_en": "A dark misty dreamscape with swirling shadows and ghostly silhouettes on a moonlit mountain path",
+    "prompt": "A dark misty dreamscape with ethereal swirling shadows and ghostly silhouettes emerging from fog on a moonlit mountain path, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike surreal atmosphere, deep indigo and silver tones, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/nightmare-dream/auspicious.png",
+      "alt_ko": "어두운 폭풍 구름을 뚫고 황금빛 새벽이 밝아오는 산봉우리 위로 학이 날아오르는 길몽",
+      "alt_en": "Golden dawn breaking through dark storm clouds over a Korean mountain peak with a crane soaring upward",
+      "prompt": "A triumphant scene of golden dawn breaking through dark storm clouds over a Korean mountain peak, a single crane soaring upward in warm golden light, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, warm golden amber and sunrise tones with hope-filled radiance, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/nightmare-dream/inauspicious.png",
+      "alt_ko": "차가운 달빛 아래 검은 물 속에서 손을 뻗는 귀신이 있는 어두운 호수 풍경",
+      "alt_en": "Dark night scene with ghostly figures and grasping hands emerging from black water under a cold pale moon",
+      "prompt": "A foreboding dark night scene with shadowy ghostly figures emerging from black water, grasping hands reaching from a murky lake surface under a cold pale moon, barren dead trees along the shore, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike ominous atmosphere, deep cold blues and dark indigo with silver moonlight, no text, no people"
+    }
+  ]
+}

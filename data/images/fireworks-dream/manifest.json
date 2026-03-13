@@ -1,0 +1,27 @@
+{
+  "slug": "fireworks-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4",
+  "hero": {
+    "path": "/images/dreams/fireworks-dream/hero.png",
+    "alt_ko": "밤하늘에 화려하게 터지는 불꽃놀이 — 불꽃놀이 꿈해몽",
+    "alt_en": "Colorful fireworks bursting brilliantly across a dark night sky — fireworks dream meaning",
+    "prompt": "Colorful fireworks bursting brilliantly across a dark night sky, reflected in still water below, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, no text, no people, rich jewel tones with gold and crimson sparks against deep indigo sky"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/fireworks-dream/auspicious.png",
+      "alt_ko": "황금빛 불꽃이 한국 정자 위로 쏟아지는 길몽 이미지",
+      "alt_en": "Golden fireworks cascading over a Korean pavilion — auspicious fireworks dream",
+      "prompt": "Celebratory fireworks cascading in golden and warm crimson arcs over a tranquil Korean pavilion at dawn, petals of light raining down like falling flowers, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike warm atmosphere, no text, no people, golden sunrise tones with amber and rose hues"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/fireworks-dream/inauspicious.png",
+      "alt_ko": "불꽃 대신 연기만 자욱하게 남는 불길한 꿈 이미지",
+      "alt_en": "Fireworks erupting into thick smoke over a shadowed Korean landscape — inauspicious fireworks dream",
+      "prompt": "A lone figure watching a firework that erupts into thick acrid smoke rather than light, smouldering embers falling like dark rain over a shadowed Korean landscape, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), ominous moonless night, no text, no faces visible, cool midnight blues, deep grey smoke, muted charcoal tones"
+    }
+  ]
+}

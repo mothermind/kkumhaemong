@@ -1,0 +1,27 @@
+{
+  "slug": "plane-crash-dream",
+  "hero": {
+    "path": "/images/dreams/plane-crash-dream/hero.png",
+    "alt_ko": "폭풍우 치는 황혼 하늘 위로 추락하는 비행기, 안개 낀 산 위 수묵화 스타일 일러스트",
+    "alt_en": "A passenger airplane falling from a stormy twilight sky over misty mountains, ink-wash illustration style",
+    "prompt": "A passenger airplane falling from a stormy twilight sky over misty mountains, soft ink-wash illustration style, Korean traditional painting aesthetic, dreamlike surreal atmosphere, muted grey-blue tones with subtle amber highlights, no text, wide cinematic composition"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/plane-crash-dream/auspicious.png",
+      "alt_ko": "언덕 위에서 멀리서 비행기 추락을 목격하는 사람, 지평선의 황금빛 새벽빛, 수묵화 스타일",
+      "alt_en": "A person standing safely on a hilltop watching a distant airplane crash with golden dawn light on the horizon, Korean ink-wash style",
+      "prompt": "A person standing safely on a hilltop watching a distant airplane crash with soft glowing light on the horizon, symbolic of witnessing transformation from afar, Korean ink-wash watercolor style, dreamlike atmosphere, muted earth tones with golden dawn light, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/plane-crash-dream/inauspicious.png",
+      "alt_ko": "폭풍우 속 어두운 지면에 놓인 부서진 비행기 날개, 흩어진 짐과 안개, 수묵화 스타일",
+      "alt_en": "A broken airplane wing resting on dark storm-churned ground with scattered luggage and heavy mist, Korean ink-wash illustration style",
+      "prompt": "A broken airplane wing resting on dark storm-churned ground, scattered papers and luggage around it, heavy mist and overcast sky, symbolizing plans derailed and ambitions disrupted, Korean ink-wash illustration style, sombre indigo and charcoal tones, no text"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

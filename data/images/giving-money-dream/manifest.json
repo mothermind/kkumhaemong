@@ -1,0 +1,27 @@
+{
+  "slug": "giving-money-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4",
+  "hero": {
+    "path": "/images/dreams/giving-money-dream/hero.png",
+    "alt_ko": "손에서 손으로 부드럽게 건네지는 돈 — 돈을 주는 꿈 해몽 일러스트",
+    "alt_en": "Hands gently passing folded money — dream of giving money illustration",
+    "prompt": "A pair of hands gently offering folded paper money to an outstretched hand below, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, warm amber and pale gold tones, misty background suggesting a market scene, no text, no faces"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/giving-money-dream/auspicious.png",
+      "alt_ko": "봄꽃과 황금빛 동전 — 길몽, 베푸는 꿈의 복을 상징하는 일러스트",
+      "alt_en": "Golden coins and spring blossoms on an open palm — auspicious giving money dream",
+      "prompt": "Golden coins and folded banknotes resting on an open palm surrounded by blooming spring flowers, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), warm golden light streaming from upper right, sunrise motifs, abundant fortune symbolism, dreamlike atmosphere, no text, no faces"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/giving-money-dream/inauspicious.png",
+      "alt_ko": "어둠 속으로 떨어지는 돈뭉치 — 흉몽, 재물 손실을 암시하는 일러스트",
+      "alt_en": "A bundle of money falling into darkness — inauspicious giving money dream foretelling loss",
+      "prompt": "A bundle of money falling from an open hand into darkness below, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), cool blue and deep indigo tones, heavy shadows, stormy night sky background, loss and foreboding atmosphere, no text, no faces"
+    }
+  ]
+}

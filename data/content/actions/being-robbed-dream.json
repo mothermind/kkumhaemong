@@ -347,10 +347,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/being-robbed-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/being-robbed-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/being-robbed-dream/auspicious.png",
-      "inauspicious": "/images/dreams/being-robbed-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/being-robbed-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/being-robbed-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

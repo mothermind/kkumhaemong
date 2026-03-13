@@ -1,0 +1,27 @@
+{
+  "slug": "crossing-river-dream",
+  "hero": {
+    "path": "/images/dreams/crossing-river-dream/hero.png",
+    "alt_ko": "새벽 안개 낀 강을 건너는 꿈 — 인생의 전환점을 상징하는 꿈해몽 일러스트",
+    "alt_en": "A figure crossing a misty river at dawn — dream illustration symbolizing a major life transition",
+    "prompt": "A lone figure standing knee-deep in a wide mist-shrouded river at dawn, stepping stones visible beneath the surface, traditional Korean ink-wash illustration style, soft watercolor washes of grey and pale gold, dreamlike atmosphere, mountain silhouettes in background, no text, cinematic wide aspect"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/crossing-river-dream/auspicious.png",
+      "alt_ko": "맑은 강을 배로 건너는 길몽 — 귀인과 성공을 상징하는 꿈 이미지",
+      "alt_en": "A boat crossing a clear golden river at sunrise — auspicious dream image symbolizing a benefactor and success",
+      "prompt": "A small wooden boat gliding serenely across a glassy clear river under a golden sunrise, Korean traditional painting aesthetic, soft ink-wash style, warm amber and gold tones, lily pads along banks, tranquil and auspicious mood, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/crossing-river-dream/inauspicious.png",
+      "alt_ko": "흙탕물 급류를 건너지 못하는 흉몽 — 시련과 위험을 경고하는 꿈 이미지",
+      "alt_en": "A figure unable to cross a dark turbulent muddy river in a storm — inauspicious dream warning of hardship",
+      "prompt": "A turbulent dark muddy river rushing under a stormy overcast sky, figure struggling at the bank unable to cross, traditional Korean ink painting style, deep indigo and charcoal tones, foreboding and heavy atmosphere, rain visible, no text"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

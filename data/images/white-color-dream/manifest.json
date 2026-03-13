@@ -1,0 +1,27 @@
+{
+  "slug": "white-color-dream",
+  "hero": {
+    "path": "/images/dreams/white-color-dream/hero.png",
+    "alt_ko": "흰빛이 내려앉은 신비로운 산수화 속 흰색 꿈 이미지",
+    "alt_en": "Ethereal white light over a misty Korean landscape, ink-wash illustration style",
+    "prompt": "A vast luminous white landscape bathed in ethereal radiance, soft ink-wash illustration style, Korean traditional painting aesthetic, dreamlike mist rising from pristine white mountains, white egrets in flight, delicate moonlight filtering through white blossoms, serene and spiritual atmosphere, muted ivory and pearl tones with subtle silver highlights, no text"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/white-color-dream/auspicious.png",
+      "alt_ko": "흰 말과 흰 연꽃이 빛나는 길몽 이미지",
+      "alt_en": "White horse galloping through radiant light with white lotus blossoms, auspicious dream illustration",
+      "prompt": "Radiant white light descending like sunbeams through morning mist, a white horse galloping across a moonlit plain, white lotus flowers in full bloom, soft ink-wash illustration style, Korean traditional painting aesthetic, auspicious and celestial atmosphere, pure ivory and warm gold highlights, dreamlike glow, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/white-color-dream/inauspicious.png",
+      "alt_ko": "흰 상복을 입고 혼자 서 있는 인물의 쓸쓸한 흉몽 이미지",
+      "alt_en": "Solitary figure in white mourning clothes in a cold misty courtyard, inauspicious dream illustration",
+      "prompt": "A lone figure dressed in white mourning clothes standing in a cold misty courtyard, white clothes with ink stains spreading, bare winter branches reaching overhead, soft ink-wash illustration style, Korean traditional painting aesthetic, somber and melancholic atmosphere, muted grey-white tones with fading ink shadows, dreamlike and sorrowful, no text"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

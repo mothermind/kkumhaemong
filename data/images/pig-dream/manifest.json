@@ -1,0 +1,27 @@
+{
+  "slug": "pig-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/pig-dream/hero.png",
+    "alt_ko": "새벽 안개 속 한국 산악 배경에 황금빛 돼지가 앉아 있는 수채화 일러스트",
+    "alt_en": "Ink-wash watercolor of a golden pig resting amid misty Korean mountain peaks at dawn",
+    "prompt": "A large golden pig resting amid misty Korean mountain peaks at dawn, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike hazy atmosphere, warm amber and gold light filtering through mist, coins and treasure scattered around, no text, no people, muted earth tones with golden highlights"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/pig-dream/auspicious.png",
+      "alt_ko": "황금 돼지가 한옥으로 들어오는 봄날 아침 수채화 일러스트",
+      "alt_en": "Ink-wash watercolor of a golden pig trotting into a traditional Korean hanok at sunrise with golden coins and cherry blossoms",
+      "prompt": "A plump golden pig joyfully trotting into a traditional Korean wooden house (한옥) at sunrise, golden coins raining down, cherry blossoms blooming outside, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), warm golden light, spring morning atmosphere, abundant and prosperous mood, no text, no people, warm earth tones with gold and pink accents"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/pig-dream/inauspicious.png",
+      "alt_ko": "폭풍 빗속에 돼지가 우리를 탈출해 달아나는 흉몽을 표현한 수채화 일러스트",
+      "alt_en": "Ink-wash watercolor of a dark pig escaping through an open pen gate in stormy night rain, foreboding atmosphere",
+      "prompt": "A dark-hued pig running away through stormy night rain, empty pen gate swinging open, dark storm clouds overhead, deep shadows, ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), foreboding dreamlike atmosphere, cool deep blues and greys, moonless night, eerie mist, no text, no people"
+    }
+  ]
+}

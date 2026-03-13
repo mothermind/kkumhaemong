@@ -1,0 +1,27 @@
+{
+  "slug": "house-fire-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/house-fire-dream/hero.png",
+    "alt_ko": "전통 한옥에서 활활 타오르는 불길, 집에 불이 나는 꿈 해몽",
+    "alt_en": "Traditional Korean house engulfed in blazing flames, house fire dream interpretation",
+    "prompt": "A traditional Korean wooden house with thatched roof engulfed in brilliant blazing fire, towering orange and gold flames lighting up the night sky, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, glowing embers rising, no text, no people, warm gold and deep amber tones"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/house-fire-dream/auspicious.png",
+      "alt_ko": "황금빛 불길이 타오르는 집, 재물운 상승의 길몽",
+      "alt_en": "Korean house glowing with golden fire symbolizing wealth and fortune",
+      "prompt": "A traditional Korean wooden house glowing with warm golden fire, the rising flames bringing prosperity and fortune, coins and gold light raining from the sky, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, sunrise and spring blossoms in background, no text, no people, warm earth tones golden amber and crimson"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/house-fire-dream/inauspicious.png",
+      "alt_ko": "검은 연기만 피어오르는 불탄 집, 흉몽의 경고",
+      "alt_en": "Charred ruins of a Korean house with black smoke, inauspicious warning dream",
+      "prompt": "A burnt-out Korean wooden house with only charred ruins and dark billowing black smoke remaining, cold moonlight casting deep shadows over ash and embers, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike foreboding atmosphere, desolate night scene, no text, no people, cool deep blues dark charcoal and muted grey tones"
+    }
+  ]
+}

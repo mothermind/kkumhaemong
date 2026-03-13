@@ -1,0 +1,27 @@
+{
+  "slug": "snake-entering-house-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/snake-entering-house-dream/hero.png",
+    "alt_ko": "전통 한옥 문지방을 넘어 들어오는 큰 뱀, 수채화 풍 한국화 스타일",
+    "alt_en": "A large calm serpent gliding through the threshold of a traditional Korean hanok house, ink-wash watercolor illustration",
+    "prompt": "A large, calm serpent gracefully gliding through the threshold of a traditional Korean wooden house (hanok), soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, warm golden light filtering through paper screen doors, lush garden visible outside, no text, no people, muted earth tones with golden and jade green highlights"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/snake-entering-house-dream/auspicious.png",
+      "alt_ko": "황금빛 기운 속에 흰 뱀이 한옥 문 안으로 들어오는 길몽 장면, 매화꽃과 금화가 흩날리는 수채화",
+      "alt_en": "A magnificent white serpent gliding into a traditional Korean hanok home surrounded by golden coins and blooming plum blossoms, auspicious fortune scene",
+      "prompt": "A magnificent white serpent gliding into a traditional Korean hanok home, surrounded by golden coins and auspicious symbols, blooming plum blossoms framing the entrance, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), warm sunrise glow, prosperous and joyful atmosphere, dreamlike misty quality, no text, no people, rich gold and white color palette with crimson accents"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/snake-entering-house-dream/inauspicious.png",
+      "alt_ko": "폭풍우 치는 밤, 어두운 독사가 전통 한옥 문간에 또아리를 트는 흉몽 장면, 수채화 스타일",
+      "alt_en": "A dark venomous serpent coiling in the shadowy doorway of a traditional Korean house at night under storm clouds, ominous ink-wash illustration",
+      "prompt": "A dark venomous serpent coiling in the shadowy doorway of a traditional Korean house at night, ominous storm clouds gathering, moonlight casting cold shadows, soft ink-wash illustration style, Korean traditional painting aesthetic (한국화), foreboding and tense dreamlike atmosphere, no text, no people, deep indigo and charcoal color palette with silver moonlight"
+    }
+  ]
+}

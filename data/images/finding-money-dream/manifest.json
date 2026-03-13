@@ -1,0 +1,27 @@
+{
+  "slug": "finding-money-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/finding-money-dream/hero.png",
+    "alt_ko": "돌계단 위에 흩어진 한국 지폐와 동전, 전통 사찰 문 옆 새벽 안개 속 황금빛 풍경",
+    "alt_en": "Korean banknotes and coins scattered on mossy stone steps beside a traditional temple gate in misty morning light",
+    "prompt": "Scattered Korean won banknotes and coins resting on mossy stone steps beside a traditional Korean temple gate, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty morning atmosphere, golden light filtering through pine trees, no text, no people, warm amber and jade green tones"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/finding-money-dream/auspicious.png",
+      "alt_ko": "봄꽃과 황금 동전, 새 지폐가 가득한 길몽의 풍요로운 장면",
+      "alt_en": "Fortune-filled scene of golden coins and crisp banknotes beside a lucky pig figurine and spring blossoms",
+      "prompt": "A fortune-filled scene of golden coins and crisp new banknotes glowing warmly on a wooden table beside a lucky pig figurine and spring blossoms, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike atmosphere, warm golden sunlight and spring cherry blossom motifs, no text, no people, rich gold and rose tones"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/finding-money-dream/inauspicious.png",
+      "alt_ko": "폭풍우 치는 밤 젖은 돌바닥 위에 녹슨 동전과 낡은 지폐가 흩어진 경고의 장면",
+      "alt_en": "Rusty old coins and worn banknotes scattered on dark wet cobblestones under a stormy night sky",
+      "prompt": "Rusty old coins and worn banknotes scattered on dark wet cobblestones under a stormy night sky, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike foreboding atmosphere, cool midnight blues and deep charcoal shadows, storm clouds and bare winter branches overhead, no text, no people, muted grey and blue tones"
+    }
+  ]
+}

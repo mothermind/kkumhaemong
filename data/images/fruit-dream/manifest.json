@@ -1,0 +1,27 @@
+{
+  "slug": "fruit-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/fruit-dream/hero.png",
+    "alt_ko": "안개 낀 산자락의 열매 가득한 과일나무 — 한국화 스타일 수채화 일러스트",
+    "alt_en": "A bountiful fruit tree laden with ripe colorful fruits on a misty hillside, Korean ink-wash illustration",
+    "prompt": "A bountiful fruit tree laden with ripe colorful fruits on a misty hillside, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, dappled golden light filtering through leaves, warm earth tones with crimson and amber accents, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/fruit-dream/auspicious.png",
+      "alt_ko": "햇살 속에 풍성하게 담긴 잘 익은 과일 바구니 — 길몽 이미지",
+      "alt_en": "Golden ripe fruits overflowing from a basket in warm morning sunlight, auspicious fruit dream illustration",
+      "prompt": "Golden ripe fruits overflowing from a woven basket in warm morning sunlight, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), sunrise glow, lush abundance, warm golden tones with soft greens, dreamlike atmosphere, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/fruit-dream/inauspicious.png",
+      "alt_ko": "폭풍우 아래 썩어 떨어진 과일들 — 흉몽 이미지",
+      "alt_en": "Rotting fallen fruit scattered on dark wet ground under storm clouds, inauspicious fruit dream illustration",
+      "prompt": "Rotting fallen fruit scattered on dark wet ground under storm clouds, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), cold blue-grey tones, deep shadows, foreboding atmosphere, withered leaves, no text, no people"
+    }
+  ]
+}

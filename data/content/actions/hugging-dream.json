@@ -355,10 +355,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/hugging-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/hugging-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/hugging-dream/auspicious.png",
-      "inauspicious": "/images/dreams/hugging-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/hugging-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/hugging-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

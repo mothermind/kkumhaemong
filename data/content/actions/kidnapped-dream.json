@@ -290,7 +290,10 @@
         "description": "납치당하는 꿈의 의미를 한국 전통 해몽과 서양 심리학적 관점에서 완벽 분석. 탈출 꿈, 가족 납치 꿈, 감금 꿈 등 다양한 상황별 해석 제공.",
         "datePublished": "2026-03-11",
         "dateModified": "2026-03-11",
-        "inLanguage": ["ko", "en"],
+        "inLanguage": [
+          "ko",
+          "en"
+        ],
         "author": {
           "@type": "Organization",
           "name": "kkumhaemong.com"
@@ -331,10 +334,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/kidnapped-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/kidnapped-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/kidnapped-dream/auspicious.png",
-      "inauspicious": "/images/dreams/kidnapped-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/kidnapped-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/kidnapped-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

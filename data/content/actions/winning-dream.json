@@ -202,10 +202,10 @@
     "conclusion": "Winning dreams are among the most unambiguously positive experiences your dreaming mind can offer. Whether you conquered a sports championship, won a hard-fought argument, or claimed the top spot on an important exam — the message from your unconscious is clear: you are ready to win. Korean tradition and modern psychology agree that these dreams signal rising confidence, approaching success, and the imminent arrival of recognition you've worked hard to earn. Carry that feeling of victory with you into your waking day."
   },
   "images": {
-    "hero": "/images/dreams/winning-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/winning-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/winning-dream/auspicious.png",
-      "inauspicious": "/images/dreams/winning-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/winning-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/winning-dream/inauspicious.webp"
     }
   },
   "seo": {
@@ -220,7 +220,7 @@
       "ko": "이기는 꿈은 강한 길몽입니다. 경기·싸움·시험에서 이기는 꿈의 상황별 해석, 재물운·승진운, 심리학적 의미까지 완벽 정리.",
       "en": "Winning dreams are among the most auspicious in Korean dream lore. Explore what victory in competitions, fights, exams, and sports predicts for your waking life."
     },
-    "ogImage": "/images/dreams/winning-dream/hero.png",
+    "ogImage": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/winning-dream/hero.webp",
     "hreflang": {
       "ko": "https://kkumhaemong.com/ko/꿈해몽/igineun-kkum",
       "en": "https://kkumhaemong.com/en/dream/winning-dream"

@@ -1,0 +1,27 @@
+{
+  "slug": "golden-snake-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/golden-snake-dream/hero.png",
+    "alt_ko": "황금빛으로 빛나는 뱀이 안개 낀 산 바위 위에 똬리를 틀고 있는 수묵화풍 일러스트",
+    "alt_en": "A radiant golden serpent coiled on misty mountain rocks, ink-wash watercolor illustration in Korean traditional style",
+    "prompt": "A radiant golden serpent coiled on ancient misty mountain rocks, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike golden mist atmosphere, warm golden light, no text, no people, luminous gold and deep ink tones"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/golden-snake-dream/auspicious.png",
+      "alt_ko": "황금 뱀이 일출 산봉우리를 향해 승천하는 모습, 모란과 금화가 가득한 풍요의 장면",
+      "alt_en": "A glowing golden snake ascending toward sunrise over mountain peaks, surrounded by peonies and golden coins symbolizing great prosperity",
+      "prompt": "A glowing golden serpent ascending toward sunrise over mountain peaks, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, abundant golden coins and blooming peonies surrounding, warm sunrise light, auspicious prosperity scene, no text, no people, rich gold and amber tones"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/golden-snake-dream/inauspicious.png",
+      "alt_ko": "폭풍 구름 아래 그림자 속에 똬리를 튼 황금 뱀, 음울한 밤 분위기의 수묵화풍 일러스트",
+      "alt_en": "A golden serpent coiled in deep shadows beneath storm clouds, dark foreboding ink-wash illustration suggesting missed opportunity",
+      "prompt": "A golden serpent coiled in deep shadows beneath storm clouds, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dark foreboding atmosphere, cold blue and deep indigo tones, the snake watches with wary eyes from darkness, misty night scene, no text, no people"
+    }
+  ]
+}

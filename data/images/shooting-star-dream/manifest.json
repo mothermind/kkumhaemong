@@ -1,0 +1,27 @@
+{
+  "slug": "shooting-star-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/shooting-star-dream/hero.png",
+    "alt_ko": "밤하늘을 가로지르는 별똥별 — 한국 전통 수묵화 스타일의 몽환적인 일러스트",
+    "alt_en": "A luminous shooting star streaking across the night sky over misty Korean mountains — ink-wash watercolor illustration",
+    "prompt": "A single luminous shooting star streaking across a deep indigo night sky over misty Korean mountains, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike hazy atmosphere, long golden-white tail fading into darkness, distant pine silhouettes below, no text, no people, muted indigo and silver palette with warm golden accents"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/shooting-star-dream/auspicious.png",
+      "alt_ko": "황금빛 별똥별이 한국 전통 가옥 안으로 날아드는 길몽 장면 — 수묵화 스타일",
+      "alt_en": "A golden shooting star descending into a traditional Korean courtyard at dawn, transforming into glowing jewels — ink-wash watercolor illustration",
+      "prompt": "A brilliant golden shooting star falling into a traditional Korean home courtyard at dawn, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, warm golden sunrise light, the star transforming into glowing golden coins and jewels on the ground, auspicious fortune atmosphere, misty morning glow, no text, no people, warm gold and amber palette with ivory tones"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/shooting-star-dream/inauspicious.png",
+      "alt_ko": "어두운 밤하늘에서 별들이 무질서하게 쏟아지는 흉몽 장면 — 수묵화 스타일",
+      "alt_en": "A chaotic shower of dark falling stars raining over a stormy Korean landscape at night — ink-wash watercolor illustration",
+      "prompt": "A chaotic shower of dark falling stars raining down over stormy Korean landscape, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, ominous night sky with turbulent clouds, deep shadows and cold blue-grey tones, scattered meteor trails fading before reaching the ground, foreboding atmosphere, no text, no people, deep navy and charcoal palette with flashes of cold white"
+    }
+  ]
+}

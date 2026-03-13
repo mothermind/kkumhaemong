@@ -338,10 +338,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/diving-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/diving-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/diving-dream/auspicious.png",
-      "inauspicious": "/images/dreams/diving-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/diving-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/diving-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

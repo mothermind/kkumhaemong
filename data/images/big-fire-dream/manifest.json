@@ -1,0 +1,27 @@
+{
+  "slug": "big-fire-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4",
+  "hero": {
+    "path": "/images/dreams/big-fire-dream/hero.png",
+    "alt_ko": "밤하늘을 향해 활활 치솟는 큰불 꿈 해몽 삽화",
+    "alt_en": "A massive blazing fire rising into the night sky — Korean big fire dream interpretation illustration",
+    "prompt": "A massive blazing fire rising high into a night sky, vast flames consuming a traditional Korean mountain landscape, smoke billowing upward into stars, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, no text, no people, rich vermilion and deep amber tones with golden light"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/big-fire-dream/auspicious.png",
+      "alt_ko": "큰불 꿈 길몽 — 황금빛 불길과 번창하는 한옥 삽화",
+      "alt_en": "Big fire auspicious dream — golden flames and a prosperous Korean home illustration",
+      "prompt": "A glorious blazing fire rising toward a golden sunrise sky, warm radiant flames illuminating a prosperous Korean traditional home with golden rice fields and blooming flowers nearby, coins and auspicious symbols in warm light, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, no text, no people, warm golden amber and crimson tones"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/big-fire-dream/inauspicious.png",
+      "alt_ko": "큰불 꿈 흉몽 — 검은 연기와 잿더미 삽화",
+      "alt_en": "Big fire inauspicious dream — black smoke and smoldering ruins illustration",
+      "prompt": "A weak smoldering fire with thick black smoke rising from ruins of a building at night, dark foreboding atmosphere, ash and embers scattering in cold wind, shadows and moonlight, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike somber atmosphere, no text, no people, deep indigo blue and charcoal grey tones with pale cold light"
+    }
+  ]
+}

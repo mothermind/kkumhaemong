@@ -280,7 +280,10 @@
           "@type": "Organization",
           "name": "kkumhaemong.com"
         },
-        "inLanguage": ["ko", "en"],
+        "inLanguage": [
+          "ko",
+          "en"
+        ],
         "about": {
           "@type": "Thing",
           "name": "Fishing Dream Interpretation"
@@ -320,10 +323,10 @@
     ]
   },
   "images": {
-    "hero": "/images/dreams/fishing-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/fishing-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/fishing-dream/auspicious.png",
-      "inauspicious": "/images/dreams/fishing-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/fishing-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/fishing-dream/inauspicious.webp"
     }
   }
 }

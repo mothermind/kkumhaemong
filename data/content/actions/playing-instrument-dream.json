@@ -316,10 +316,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/playing-instrument-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/playing-instrument-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/playing-instrument-dream/auspicious.png",
-      "inauspicious": "/images/dreams/playing-instrument-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/playing-instrument-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/playing-instrument-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

@@ -262,10 +262,10 @@
     "conclusion": "In every kissing dream, two questions unlock the meaning: who, and how did it feel? A joyful kiss with a celebrity, a baby, or someone you love signals rising romantic and social fortune — while the seemingly strange kiss with a deceased person holds the tradition's single most powerful good omen. A forced kiss or a kiss with something frightening, on the other hand, is a call to protect your boundaries and address stress in waking life. Whatever your dream kiss looked like, it carries a message worth sitting with."
   },
   "images": {
-    "hero": "/images/dreams/kissing-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/kissing-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/kissing-dream/auspicious.png",
-      "inauspicious": "/images/dreams/kissing-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/kissing-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/kissing-dream/inauspicious.webp"
     }
   },
   "seo": {
@@ -280,7 +280,7 @@
       "ko": "키스하는 꿈 해몽 총정리. 연예인·모르는 사람·죽은 사람과의 키스 꿈 의미, 길몽 흉몽 구분, 상황별 상세 해석까지 한눈에.",
       "en": "What does a kissing dream mean? Full Korean dream interpretation guide — celebrities, strangers, deceased, forced kisses, and more. Auspicious and inauspicious meanings explained."
     },
-    "ogImage": "/images/dreams/kissing-dream/hero.png",
+    "ogImage": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/kissing-dream/hero.webp",
     "structuredData": {
       "faqSchema": {
         "@context": "https://schema.org",

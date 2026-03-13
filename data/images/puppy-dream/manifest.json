@@ -1,0 +1,27 @@
+{
+  "slug": "puppy-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/puppy-dream/hero.png",
+    "alt_ko": "새벽 한국 전통 마당을 걷는 흰 강아지, 수채화 스타일",
+    "alt_en": "A fluffy white puppy trotting through a misty Korean traditional courtyard at dawn, watercolor style",
+    "prompt": "A fluffy white puppy trotting through a misty Korean traditional courtyard at dawn, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, warm golden morning light, pine trees in background, no text, no people, muted earth tones with soft golden highlights"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/puppy-dream/auspicious.png",
+      "alt_ko": "봄꽃과 황금빛 빛 속에서 달려오는 흰 강아지, 길몽",
+      "alt_en": "A joyful white puppy bounding toward a golden sunrise surrounded by spring blossoms, auspicious dream",
+      "prompt": "A joyful white puppy bounding toward a golden sunrise, tail wagging, surrounded by spring blossoms and soft golden coins floating gently in the air, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), warm amber and gold color palette, dreamlike atmosphere, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/puppy-dream/inauspicious.png",
+      "alt_ko": "폭풍우 치는 밤에 나타난 검은 강아지, 흉몽",
+      "alt_en": "A dark black puppy lurking in a stormy Korean night landscape, inauspicious dream",
+      "prompt": "A dark shadowy black puppy lurking in a stormy Korean night landscape, deep indigo and charcoal tones, bare winter trees bending in wind, moonless overcast sky, foreboding atmosphere, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), cool blue and deep shadow palette, dreamlike ominous mood, no text, no people"
+    }
+  ]
+}

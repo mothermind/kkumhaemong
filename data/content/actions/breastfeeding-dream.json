@@ -350,10 +350,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/breastfeeding-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/breastfeeding-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/breastfeeding-dream/auspicious.png",
-      "inauspicious": "/images/dreams/breastfeeding-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/breastfeeding-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/breastfeeding-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

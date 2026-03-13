@@ -354,10 +354,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/taking-photos-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/taking-photos-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/taking-photos-dream/auspicious.png",
-      "inauspicious": "/images/dreams/taking-photos-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/taking-photos-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/taking-photos-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

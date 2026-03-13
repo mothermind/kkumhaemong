@@ -257,7 +257,16 @@
     },
     "naverSEO": {
       "blogPostTitle": "시험에서 커닝하는 꿈 해몽 - 들키면 흉몽, 성공하면 길몽인 이유",
-      "tags": ["시험커닝꿈", "커닝꿈해몽", "시험꿈해몽", "커닝들키는꿈", "수능커닝꿈", "시험불안꿈", "꿈해몽", "길몽흉몽"]
+      "tags": [
+        "시험커닝꿈",
+        "커닝꿈해몽",
+        "시험꿈해몽",
+        "커닝들키는꿈",
+        "수능커닝꿈",
+        "시험불안꿈",
+        "꿈해몽",
+        "길몽흉몽"
+      ]
     },
     "relatedSlugs": [
       "taking-exam-dream",
@@ -268,10 +277,10 @@
     ]
   },
   "images": {
-    "hero": "/images/dreams/cheating-exam-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/cheating-exam-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/cheating-exam-dream/auspicious.png",
-      "inauspicious": "/images/dreams/cheating-exam-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/cheating-exam-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/cheating-exam-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

@@ -1,0 +1,27 @@
+{
+  "slug": "yellow-color-dream",
+  "hero": {
+    "path": "/images/dreams/yellow-color-dream/hero.png",
+    "alt_ko": "노란빛 황금 빛이 가득한 꿈 — 오방색 황색의 우주적 에너지",
+    "alt_en": "A dream bathed in golden-yellow light representing cosmic abundance and the obangsaek yellow center",
+    "prompt": "A dream bathed in warm golden-yellow light, soft ink-wash illustration style, Korean traditional painting aesthetic, mist and radiance filling the scene, glowing yellow silk fabric draped over ancient objects, dreamlike atmosphere, obangsaek cosmological harmony, muted earth tones with brilliant golden highlights, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/yellow-color-dream/auspicious.png",
+      "alt_ko": "밝게 피어나는 황금빛 국화 — 풍요와 번영을 상징하는 길몽",
+      "alt_en": "Brilliant golden chrysanthemums blooming abundantly — a symbol of auspicious prosperity in yellow dreams",
+      "prompt": "Brilliant golden-yellow chrysanthemums blooming abundantly, Korean folk painting style, warm sunlight streaming through, golden coins and silk scattered nearby, auspicious prosperity symbolism, ink-wash technique with vivid yellow pigments, dreamlike glow, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/yellow-color-dream/inauspicious.png",
+      "alt_ko": "칙칙한 황색 안개 속 시든 풍경 — 건강 이상을 경고하는 흉몽",
+      "alt_en": "Murky yellowish fog over a withered landscape — a cautionary inauspicious yellow dream symbol",
+      "prompt": "Murky dull yellowish fog over a withered autumn landscape, Korean ink-wash style, faded sickly yellow hues, wilted leaves on bare branches, overcast atmosphere, melancholic and cautionary mood, muted tones with a jaundiced tint, no text, no people"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

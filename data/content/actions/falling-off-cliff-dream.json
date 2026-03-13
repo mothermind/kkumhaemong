@@ -258,7 +258,10 @@
         "description": "A comprehensive bilingual guide to the Korean dream interpretation of falling off a cliff, covering auspicious and inauspicious scenarios, 7 situational variations, cultural context, and Western psychological perspectives.",
         "datePublished": "2026-03-11",
         "dateModified": "2026-03-11",
-        "inLanguage": ["ko", "en"],
+        "inLanguage": [
+          "ko",
+          "en"
+        ],
         "author": {
           "@type": "Organization",
           "name": "꿈해몽 (kkumhaemong.com)"
@@ -295,10 +298,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/falling-off-cliff-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/falling-off-cliff-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/falling-off-cliff-dream/auspicious.png",
-      "inauspicious": "/images/dreams/falling-off-cliff-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/falling-off-cliff-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/falling-off-cliff-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

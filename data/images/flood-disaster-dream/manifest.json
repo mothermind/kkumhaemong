@@ -1,0 +1,30 @@
+{
+  "slug": "flood-disaster-dream",
+  "hero": {
+    "path": "/images/dreams/flood-disaster-dream/hero.png",
+    "alt_ko": "새벽 안개 속 한국 계곡을 덮치는 맑은 홍수 수채화 일러스트",
+    "alt_en": "Clear floodwaters sweeping through a misty Korean valley at dawn, soft ink-wash illustration",
+    "prompt": "A vast flood sweeping through a misty Korean valley at dawn, clear crystalline water rushing over rice paddies and stone bridges, soft ink-wash illustration style, Korean traditional painting aesthetic, dreamlike atmosphere, muted earth tones with subtle golden highlights on water surface, dramatic distant mountains wrapped in mist, no text, no people",
+    "aspectRatio": "16:9"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/flood-disaster-dream/auspicious.png",
+      "alt_ko": "전통 한국 가옥 안마당으로 맑은 물이 흘러들어오는 풍요로운 수채화",
+      "alt_en": "Clear sparkling water flowing into a traditional Korean courtyard home, coins and golden fish, prosperity symbolism watercolor",
+      "prompt": "Clear sparkling water flowing abundantly into a traditional Korean courtyard home, coins and golden fish swimming in the pristine water, prosperity and abundance symbolism, soft watercolor illustration style, Korean folk art aesthetic, warm golden light, auspicious and joyful atmosphere, no text",
+      "aspectRatio": "4:3"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/flood-disaster-dream/inauspicious.png",
+      "alt_ko": "밤에 흙탕물 홍수가 한국 마을을 덮치는 어두운 수채화 일러스트",
+      "alt_en": "Dark murky floodwaters engulfing a Korean village at night, ominous stormy atmosphere, ink-wash illustration",
+      "prompt": "Dark murky brown floodwaters engulfing a Korean village at night, turbid churning water sweeping through narrow alleys, ominous stormy sky with lightning, ink-wash illustration style, Korean traditional painting aesthetic, somber dark tones, sense of danger and loss, no text, no people",
+      "aspectRatio": "4:3"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

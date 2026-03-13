@@ -1,0 +1,27 @@
+{
+  "slug": "all-teeth-falling-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/all-teeth-falling-dream/hero.png",
+    "alt_ko": "달빛 아래 흩어진 이빨들 — 이빨이 다 빠지는 꿈 해몽 대표 이미지",
+    "alt_en": "Teeth scattered on a lacquered tray under moonlight — all teeth falling out dream illustration",
+    "prompt": "all teeth falling out scattered on a dark lacquered tray, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, night shadows and pale moonlight, no text, no people, muted greys and deep indigo with ivory accents"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/all-teeth-falling-dream/auspicious.png",
+      "alt_ko": "봄꽃 사이에서 새로 돋아나는 하얀 이 — 이빨 빠지는 꿈 길몽 이미지",
+      "alt_en": "A gleaming white tooth sprouting from earth among spring blossoms — auspicious teeth dream",
+      "prompt": "a single gleaming white tooth sprouting from rich earth with spring blossoms around it, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike warm golden morning light, no text, no people, warm cream and gold and pale pink tones, auspicious hopeful atmosphere"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/all-teeth-falling-dream/inauspicious.png",
+      "alt_ko": "폭풍 아래 젖은 돌 위에 흩어진 이빨들 — 이빨 빠지는 꿈 흉몽 이미지",
+      "alt_en": "Scattered teeth on dark wet stones under stormy sky — inauspicious teeth falling dream",
+      "prompt": "scattered teeth on dark storm-wet stones under a heavy overcast sky, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), deep foreboding atmosphere, cold grey-blue and charcoal tones with dark shadows, no text, no people, threatening night storm mood"
+    }
+  ]
+}

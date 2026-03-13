@@ -1,0 +1,27 @@
+{
+  "slug": "pregnancy-dream",
+  "hero": {
+    "path": "/images/dreams/pregnancy-dream/hero.png",
+    "alt_ko": "전통 한옥 창가에 앉아 배를 감싸 안은 임산부, 꿈같은 수채화 일러스트",
+    "alt_en": "A serene pregnant woman by a traditional Korean wooden window, dreamlike ink-wash watercolor illustration",
+    "prompt": "A serene pregnant woman sitting by a traditional Korean wooden window, soft morning light filtering through, her hands resting gently on her rounded belly, ethereal dreamlike atmosphere, soft ink-wash watercolor illustration style, Korean traditional painting aesthetic (한국화), muted warm tones with golden highlights, misty and peaceful, no text"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/pregnancy-dream/auspicious.png",
+      "alt_ko": "황금빛 연꽃과 풍요의 상징들, 한국 민화 스타일 수채화",
+      "alt_en": "Glowing lotus flower with symbols of prosperity and abundance, Korean folk art watercolor style",
+      "prompt": "Abundance and new beginnings, a glowing lotus flower blooming in still water surrounded by golden light, Korean traditional folk art style, dreamlike watercolor illustration, soft ink-wash technique, symbols of prosperity and fertility — golden coins, ripe fruits, auspicious clouds, warm golden tones, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/pregnancy-dream/inauspicious.png",
+      "alt_ko": "어두운 수면 위에 드리운 시든 나뭇가지, 한국 수묵화 스타일",
+      "alt_en": "A withered branch over dark still water at dusk, Korean ink-wash painting style, somber mood",
+      "prompt": "A withered branch over still dark water at dusk, fallen petals floating away, melancholy and contemplative atmosphere, Korean traditional ink-wash painting style, cool muted tones — grey, deep blue, faded purple, dreamlike and somber, symbolic of plans interrupted and unexpected burdens, no text"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

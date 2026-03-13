@@ -1,0 +1,27 @@
+{
+  "slug": "garden-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/garden-dream/hero.png",
+    "alt_ko": "꽃이 만발한 한국 전통 정원과 연못, 수채화 스타일",
+    "alt_en": "Lush Korean traditional garden in full bloom with lotus pond, ink-wash watercolor style",
+    "prompt": "A lush Korean traditional garden in full bloom with lotus pond and stone lanterns, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty morning atmosphere, vibrant flowers and weeping willows, no text, no people, muted greens and soft pinks with golden dawn light"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/garden-dream/auspicious.png",
+      "alt_ko": "복숭아꽃과 황금빛 햇살이 넘치는 번영의 정원, 수채화 스타일",
+      "alt_en": "Flourishing Korean garden with blooming peach blossoms and golden sunlight, ink-wash watercolor style",
+      "prompt": "A flourishing Korean garden with blooming peach blossoms and golden sunlight streaming through pine trees, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), warm golden sunrise atmosphere, abundant flowers and ripe fruit, no text, no people, warm earth tones with golden highlights and spring greens"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/garden-dream/inauspicious.png",
+      "alt_ko": "잡초가 무성하고 황폐한 정원, 폭풍 전 음산한 분위기, 수채화 스타일",
+      "alt_en": "Overgrown neglected garden with tangled weeds under a stormy sky, ink-wash watercolor style",
+      "prompt": "An overgrown neglected Korean garden with tangled weeds and barren twisted branches under a stormy sky, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dark brooding atmosphere with low mist and fading moonlight, no text, no people, cool blues and deep indigos with muted grey shadows"
+    }
+  ]
+}

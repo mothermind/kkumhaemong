@@ -1,0 +1,27 @@
+{
+  "slug": "bee-sting-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/bee-sting-dream/hero.png",
+    "alt_ko": "꿈속에서 꽃 위에 맴도는 꿀벌 — 벌에 쏘이는 꿈 해몽",
+    "alt_en": "A honeybee hovering above a wildflower in a dreamlike ink-wash illustration",
+    "prompt": "A single honeybee hovering above a blooming wildflower, its stinger glistening, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, golden-green hues, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/bee-sting-dream/auspicious.png",
+      "alt_ko": "황금빛 꿀벌과 꿀벌집 — 재물운과 행운을 상징하는 길몽 이미지",
+      "alt_en": "Golden honeybee and honeycomb in warm sunrise light symbolizing wealth and good fortune",
+      "prompt": "Golden honeybee landing gently on an open palm, warm sunrise light, honey dripping from a comb, blooming spring flowers in background, soft watercolor illustration, Korean traditional painting aesthetic, dreamlike golden atmosphere, abundance and good fortune symbolism, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/bee-sting-dream/inauspicious.png",
+      "alt_ko": "폭풍 속 말벌 떼 — 갈등과 경고를 상징하는 흉몽 이미지",
+      "alt_en": "Dark hornet swarm circling in a stormy night sky, ominous ink-wash illustration",
+      "prompt": "A dark hornet swarm circling in stormy night sky, deep indigo and black ink-wash illustration, Korean traditional painting aesthetic, ominous storm clouds, bare winter branches, threatening atmosphere, cool shadows, no text, no people"
+    }
+  ]
+}

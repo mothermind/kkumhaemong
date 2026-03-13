@@ -1,0 +1,27 @@
+{
+  "slug": "house-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/house-dream/hero.png",
+    "alt_ko": "황혼 속 한국 전통 한옥과 소나무, 안개 낀 산을 배경으로 한 집 꿈 일러스트",
+    "alt_en": "Traditional Korean hanok house at dusk surrounded by pine trees and misty mountains, ink-wash illustration",
+    "prompt": "A traditional Korean wooden hanok house at dusk, surrounded by ancient pine trees and misty mountains, glowing paper lanterns illuminating the courtyard, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, no text, no people, warm amber and indigo color palette"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/house-dream/auspicious.png",
+      "alt_ko": "황금빛 햇살이 가득한 웅장한 한옥과 풍요로운 마당, 길몽 상징 일러스트",
+      "alt_en": "Grand new hanok mansion bathed in golden sunlight with abundant harvest offerings and blooming peach trees, auspicious dream illustration",
+      "prompt": "A grand new hanok mansion with golden sunlight streaming through ornate wooden gates, abundant harvest offerings arranged in the courtyard, blooming peach trees and flowing wealth symbols, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, no text, no people, warm golden and spring green color palette"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/house-dream/inauspicious.png",
+      "alt_ko": "폭풍우 속 무너져 가는 낡은 한옥, 까마귀와 어둠의 흉몽 상징 일러스트",
+      "alt_en": "Crumbling old Korean house with broken roof and collapsed walls in night rain with storm clouds, inauspicious dream illustration",
+      "prompt": "A crumbling old Korean house with broken roof tiles and collapsed walls in the night rain, dark storm clouds overhead, overgrown weeds covering the courtyard, silhouettes of ravens perched on rotting beams, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, no text, no people, deep indigo and charcoal color palette"
+    }
+  ]
+}

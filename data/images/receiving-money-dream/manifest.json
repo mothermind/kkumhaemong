@@ -1,0 +1,27 @@
+{
+  "slug": "receiving-money-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/receiving-money-dream/hero.png",
+    "alt_ko": "황금빛 지폐와 동전이 새벽 안개 속으로 떨어지는 꿈 일러스트",
+    "alt_en": "Golden banknotes and coins falling through misty dawn light, dream illustration",
+    "prompt": "A cascade of golden banknotes and coins gently falling through misty dawn light, traditional Korean ink-wash watercolor illustration style, soft ethereal atmosphere, warm golden and amber tones, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, no text, no people, serene and auspicious"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/receiving-money-dream/auspicious.png",
+      "alt_ko": "연꽃과 종이학에 둘러싸인 황금 보화 일러스트, 길몽을 상징하는 이미지",
+      "alt_en": "Overflowing treasure chest with gold coins and banknotes surrounded by lotus flowers and paper cranes, auspicious dream illustration",
+      "prompt": "Overflowing treasure chest filled with gleaming gold coins and crisp banknotes, surrounded by blooming lotus flowers and floating paper cranes, soft watercolor illustration, Korean traditional painting aesthetic (한국화), warm golden sunrise light, dreamlike atmosphere, no text, no people, auspicious and joyful"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/receiving-money-dream/inauspicious.png",
+      "alt_ko": "먹구름 아래 재가 되어 부서지는 지폐들, 흉몽을 상징하는 일러스트",
+      "alt_en": "Crumbling paper bills dissolving into ash under dark stormy sky, inauspicious dream illustration",
+      "prompt": "A handful of crumbling paper bills dissolving into dust and ash, dark stormy sky with rolling ink-black clouds, soft ink-wash illustration style, Korean traditional painting aesthetic (한국화), cool deep blues and charcoal shadows, dreamlike foreboding atmosphere, no text, no people, ominous and cautionary"
+    }
+  ]
+}

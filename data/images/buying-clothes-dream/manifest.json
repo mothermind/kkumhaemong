@@ -1,0 +1,27 @@
+{
+  "slug": "buying-clothes-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/buying-clothes-dream/hero.png",
+    "alt_ko": "다채로운 옷들이 쌓인 시장 옷 가게, 수채화 풍 한국화 스타일",
+    "alt_en": "A vibrant Korean clothing market with colorful folded garments in watercolor illustration style",
+    "prompt": "A vibrant clothing market stall with colorful folded garments, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, warm golden morning light filtering through, silk fabrics catching the light, no text, no people, rich warm tones with crimson and saffron accents"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/buying-clothes-dream/auspicious.png",
+      "alt_ko": "황금빛 빛이 감도는 새 한복이 전시된 가게, 길몽을 상징하는 봄꽃 배경",
+      "alt_en": "A glowing new hanbok displayed in a warm golden-lit store with spring blossoms, symbolizing auspicious fortune",
+      "prompt": "A lucky clothing store with a glowing new silk hanbok displayed prominently, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), warm golden sunrise light, auspicious red and gold color palette, celebratory atmosphere, spring blossoms framing the scene, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/buying-clothes-dream/inauspicious.png",
+      "alt_ko": "텅 빈 옷걸이가 놓인 어두운 옷 가게, 흉몽을 상징하는 쓸쓸한 분위기",
+      "alt_en": "An empty clothing rack in a dimly lit store with bare hangers, symbolizing the inauspicious omen of failing to buy clothes",
+      "prompt": "An empty clothing rack in a dimly lit store, garments all sold out, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), cool blue and grey tones, deep evening shadows, a single bare hanger on an empty rack, melancholic misty atmosphere, no text, no people"
+    }
+  ]
+}

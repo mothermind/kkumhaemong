@@ -1,0 +1,27 @@
+{
+  "slug": "water-dream",
+  "hero": {
+    "path": "/images/dreams/water-dream/hero.png",
+    "alt_ko": "맑은 물이 흐르는 한국 전통 산속 계곡, 몽환적인 아침 안개",
+    "alt_en": "A serene Korean mountain stream flowing crystal clear in misty morning light",
+    "prompt": "A serene Korean mountain stream flowing crystal clear over mossy rocks, soft ink-wash illustration style, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, misty morning light filtering through pine trees, water shimmering with gentle golden reflections, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/water-dream/auspicious.png",
+      "alt_ko": "그릇에 맑은 물이 가득 넘치고 황금빛 빛이 퍼지는 길몽 이미지",
+      "alt_en": "A vessel overflowing with pure sparkling water surrounded by golden light",
+      "prompt": "A beautiful vessel overflowing with pure sparkling water, coins and golden light emerging from the water, soft watercolor illustration style, Korean traditional aesthetic, auspicious and abundant atmosphere, dreamlike golden morning light, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/water-dream/inauspicious.png",
+      "alt_ko": "밤에 흙탕물이 흘러넘치는 어두운 계곡, 불길한 홍수",
+      "alt_en": "Dark turbulent muddy floodwater surging through a narrow valley at night",
+      "prompt": "Dark turbulent muddy floodwater surging through a narrow valley at night, ominous swirling currents, ink-wash illustration style, Korean traditional painting aesthetic, foreboding atmosphere, dark indigo and grey tones, no text, no people"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "big-tree-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/big-tree-dream/hero.png",
+    "alt_ko": "거목이 안개 낀 한국 산 위로 웅장하게 뻗어 있는 수채화풍 일러스트",
+    "alt_en": "Ancient massive tree with sprawling branches reaching over misty Korean mountain, ink-wash watercolor illustration",
+    "prompt": "An ancient massive tree with sprawling branches reaching toward misty heavens, towering over sacred Korean mountain landscape, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, luminous golden-green foliage, no text, no people, muted earth tones with jade and amber highlights"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/big-tree-dream/auspicious.png",
+      "alt_ko": "황금빛 열매와 꽃이 가득 달린 나무에 따뜻한 일출빛이 비추는 길몽 일러스트",
+      "alt_en": "Lush ancient tree laden with golden fruit and blossoms under warm sunrise light, auspicious dream illustration",
+      "prompt": "Lush ancient tree laden with golden fruit and blossoms under warm sunrise light, abundant green foliage glowing with fortune, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike warm atmosphere, golden sunlight filtering through leaves, no text, no people, warm earth tones with gold and spring-green highlights"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/big-tree-dream/inauspicious.png",
+      "alt_ko": "폭풍 밤하늘 아래 넘어지는 거목과 앙상한 죽은 나무의 흉몽 일러스트",
+      "alt_en": "Massive tree falling in a stormy night sky, bare withered dead tree in cold moonlight, inauspicious dream illustration",
+      "prompt": "A massive tree falling in a stormy night, bare twisted branches against dark sky, withered dead tree with no leaves in cold moonlight, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), eerie and foreboding dreamlike atmosphere, no text, no people, cool deep blue and charcoal grey tones, stark shadows"
+    }
+  ]
+}

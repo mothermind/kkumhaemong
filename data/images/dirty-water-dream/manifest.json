@@ -1,0 +1,27 @@
+{
+  "slug": "dirty-water-dream",
+  "hero": {
+    "path": "/images/dreams/dirty-water-dream/hero.png",
+    "alt_ko": "탁한 흙탕물이 한국 전통 돌 수로를 흐르는 꿈해몽 일러스트",
+    "alt_en": "Turbid muddy water flowing through a traditional Korean stone channel — dirty water dream illustration",
+    "prompt": "Turbid muddy brown water flowing through a traditional Korean stone channel, murky and opaque, swirling with sediment, soft ink-wash illustration style, Korean traditional painting aesthetic, dreamlike misty atmosphere, muted earthy browns and grays with subtle dark blue undertones, weeping willow branches above, night mood, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/dirty-water-dream/auspicious.png",
+      "alt_ko": "황금빛 흙탕물이 한국 전통 항아리에서 넘치는 길몽 일러스트",
+      "alt_en": "Golden-tinted muddy water overflowing from an ancient Korean earthen jar — rare auspicious dream illustration",
+      "prompt": "Golden shimmering muddy water overflowing from an ancient Korean earthen jar, warm golden-brown hues glowing like treasure, soft watercolor illustration, Korean folk art aesthetic, dreamlike ethereal quality, autumn harvest symbolism, coins and abundance suggested in the liquid, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/dirty-water-dream/inauspicious.png",
+      "alt_ko": "탁한 물이 한국 전통 가옥에 차오르는 흉몽 일러스트",
+      "alt_en": "Dark murky floodwater rising inside a traditional Korean home — inauspicious dirty water dream illustration",
+      "prompt": "Dark murky floodwater rising inside a traditional Korean wooden home, turbid brown water creeping across ondol floor, ominous atmosphere, ink-wash illustration style, Korean traditional painting aesthetic, heavy rain visible through paper screen door, somber dark tones of charcoal and deep brown, no text, no people"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

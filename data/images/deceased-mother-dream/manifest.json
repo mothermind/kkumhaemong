@@ -1,0 +1,27 @@
+{
+  "slug": "deceased-mother-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/deceased-mother-dream/hero.png",
+    "alt_ko": "꿈속에서 이승과 저승의 경계에 서 있는 어머니의 영혼 — 수묵화 스타일 일러스트",
+    "alt_en": "An ethereal mother figure standing at the threshold between realms — ink-wash illustration",
+    "prompt": "A translucent, ethereal mother figure standing at the threshold between two misty realms, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike foggy mountain landscape, muted indigo and silver tones, ancestor spirit visiting in a dream, no text, no faces"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/deceased-mother-dream/auspicious.png",
+      "alt_ko": "돌아가신 어머니가 음식을 차려주는 길몽을 상징하는 따뜻한 금빛 제사상 — 수묵화 일러스트",
+      "alt_en": "A warm golden ancestor offering table with rice and seasonal fruit symbolizing auspicious fortune — ink-wash illustration",
+      "prompt": "A warm golden light emanating from a doorway where an ancestor spirit presence is felt, offerings of rice and seasonal fruit arranged on a low wooden table, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, warm amber and golden tones, spring morning atmosphere, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/deceased-mother-dream/inauspicious.png",
+      "alt_ko": "폭풍 치는 밤 빈 의자와 시든 국화 — 흉몽을 상징하는 수묵화 일러스트",
+      "alt_en": "An empty chair and wilting chrysanthemum on a stormy night symbolizing inauspicious warning — ink-wash illustration",
+      "prompt": "An empty chair beside a dark window on a stormy night, a single wilting chrysanthemum in a vase, shadow figures at the edge of a moonlit courtyard, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, deep indigo and charcoal tones, sorrowful atmosphere, no text, no people"
+    }
+  ]
+}

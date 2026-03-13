@@ -1,0 +1,27 @@
+{
+  "slug": "bathroom-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/bathroom-dream/hero.png",
+    "alt_ko": "새벽 안개 속 전통 한국 재래식 화장실(뒷간)과 대나무 숲",
+    "alt_en": "Traditional Korean pit toilet at misty dawn surrounded by bamboo and countryside",
+    "prompt": "A traditional Korean pit toilet (뒷간) surrounded by misty countryside at dawn, earthenware vessels and straw nearby, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, warm amber morning light filtering through bamboo, no text, no people, muted earth tones with subtle golden glow"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/bathroom-dream/auspicious.png",
+      "alt_ko": "황금빛 재물이 넘쳐흐르는 풍요로운 화장실 꿈 길몽",
+      "alt_en": "Overflowing toilet symbolizing abundant wealth and golden fortune in Korean dream tradition",
+      "prompt": "An overflowing pit toilet filled with abundant golden feces shimmering like treasure, coins and gold ingots spilling out, surrounded by blooming spring flowers and harvest crops, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, warm golden sunrise light, prosperity and abundance symbolism, no text, no people, rich earth tones with golden highlights"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/bathroom-dream/inauspicious.png",
+      "alt_ko": "막힌 변기와 잠긴 문, 화장실에 갇히는 흉몽",
+      "alt_en": "Clogged overflowing toilet in a dark bathroom with locked door, symbolizing stagnation and entrapment",
+      "prompt": "A dark and grimy bathroom with a clogged overflowing toilet, murky water spreading across cracked tiles, faded walls with peeling paint, a locked door that will not open, soft ink-wash illustration, Korean traditional painting aesthetic (한국화), ominous dreamlike atmosphere, deep midnight blues and cold grays, stormy shadow motifs, sense of entrapment and stagnation, no text, no people"
+    }
+  ]
+}

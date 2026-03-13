@@ -1,0 +1,27 @@
+{
+  "slug": "dead-person-appearing-dream",
+  "hero": {
+    "path": "/images/dreams/dead-person-appearing-dream/hero.png",
+    "alt_ko": "안개 속에서 빛나는 고인의 영혼이 나타나는 꿈 일러스트",
+    "alt_en": "Luminous ancestral spirit appearing in misty Korean traditional setting, dream illustration",
+    "prompt": "A translucent, luminous ancestral spirit appearing in a misty Korean traditional home, soft ink-wash illustration style, Korean traditional painting aesthetic, dreamlike atmosphere, the spirit figure glowing with gentle light amid swirling mist, muted blue and silver tones with warm golden glow, tatami room with wooden beams visible, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/dead-person-appearing-dream/auspicious.png",
+      "alt_ko": "환하게 웃으며 선물을 건네는 조상의 영혼 일러스트",
+      "alt_en": "Radiant ancestral spirit smiling and offering gifts, auspicious dream illustration",
+      "prompt": "A radiant ancestral spirit smiling warmly and offering a golden gift or coins with both hands, soft watercolor illustration style, Korean traditional aesthetic, auspicious golden and warm amber light, lotus flowers floating in air, sacred atmosphere of ancestral blessing, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/dead-person-appearing-dream/inauspicious.png",
+      "alt_ko": "어두운 안개 속에서 손짓하는 고인의 영혼 일러스트",
+      "alt_en": "Sorrowful spirit beckoning in dark swirling mist, inauspicious dream illustration",
+      "prompt": "A sorrowful spirit figure weeping in dark swirling mist, ink-wash illustration style, Korean traditional painting aesthetic, dark indigo and grey tones, ominous atmosphere, shadowy spirit reaching out with beckoning gesture in foggy night, no text"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00Z",
+  "provider": "imagen4"
+}

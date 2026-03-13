@@ -1,0 +1,27 @@
+{
+  "slug": "body-on-fire-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4-fast",
+  "hero": {
+    "path": "/images/dreams/body-on-fire-dream/hero.png",
+    "alt_ko": "황금빛 불꽃에 휩싸인 인물의 실루엣, 안개 낀 산봉우리 위, 한국화 스타일 수묵 일러스트",
+    "alt_en": "Silhouette of a figure engulfed in golden flames on a misty mountain peak, Korean ink-wash illustration style",
+    "prompt": "A human silhouette engulfed in luminous golden flames on a misty mountain peak at dusk, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, no text, no realistic faces, warm amber and deep indigo tones"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/body-on-fire-dream/auspicious.png",
+      "alt_ko": "황금빛 불꽃과 봄꽃에 둘러싸여 밝은 일출을 향해 오르는 빛나는 형상, 한국화 수묵 일러스트",
+      "alt_en": "A radiant figure surrounded by golden fire and blossoms ascending toward sunrise over Korean mountain valleys, Korean ink-wash illustration",
+      "prompt": "A radiant figure surrounded by golden fire and blossoms, ascending toward a bright sunrise over Korean mountain valleys, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike warm atmosphere, golden earth tones, spring imagery, no text, no realistic faces"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/body-on-fire-dream/inauspicious.png",
+      "alt_ko": "폭풍 치는 밤하늘을 배경으로 차가운 푸른 불꽃에 휩싸인 어두운 실루엣, 한국화 수묵 일러스트",
+      "alt_en": "Dark silhouette engulfed in cold blue-white flames against a stormy night sky, Korean ink-wash illustration style",
+      "prompt": "A dark silhouette engulfed in cold blue-white flames against a stormy night sky, ominous deep shadows, a figure desperately trying to extinguish the flames, soft ink-wash illustration, Korean traditional painting aesthetic (한국화), dreamlike foreboding atmosphere, deep indigo and charcoal tones, no text, no realistic faces"
+    }
+  ]
+}

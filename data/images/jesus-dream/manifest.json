@@ -1,0 +1,27 @@
+{
+  "slug": "jesus-dream",
+  "hero": {
+    "path": "/images/dreams/jesus-dream/hero.png",
+    "alt_ko": "빛나는 흰 옷을 입은 인물이 새벽 안개 자욱한 산 위에 서 있는 수묵화풍 삽화",
+    "alt_en": "A luminous figure in white robes standing on a misty mountain at dawn, ink-wash illustration style",
+    "prompt": "A luminous figure in white robes standing on a misty mountain at dawn, soft ink-wash illustration style inspired by Korean traditional painting, dreamlike atmosphere, golden light radiating outward, no text, no words, watercolor aesthetic, celestial and sacred mood, muted earth tones with soft golden and white highlights"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/jesus-dream/auspicious.png",
+      "alt_ko": "흰 옷을 입은 인물이 맑은 시냇가에 무릎 꿇은 사람을 축복하는 수채화 삽화",
+      "alt_en": "A gentle figure in white robes extending hands in blessing over a kneeling person by a clear stream, watercolor style",
+      "prompt": "A gentle radiant figure in white robes extending hands in blessing over a person kneeling by a clear stream, soft watercolor illustration style, Korean traditional painting aesthetic, warm golden light, dreamlike serene atmosphere, no text, auspicious and peaceful mood, spring cherry blossoms in background"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/jesus-dream/inauspicious.png",
+      "alt_ko": "슬픈 표정으로 등을 돌린 흰 옷의 인물, 안개 속 어둠 배경의 수묵화풍 삽화",
+      "alt_en": "A luminous figure in white robes with sorrowful expression turning away in misty darkness, ink-wash illustration style",
+      "prompt": "A luminous figure in white robes with a sorrowful expression, tears falling, standing in misty darkness with turned back, soft ink-wash illustration style Korean traditional painting aesthetic, somber cool tones, no text, melancholic and contemplative mood, warning and reflection atmosphere"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

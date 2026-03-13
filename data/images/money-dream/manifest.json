@@ -1,0 +1,27 @@
+{
+  "slug": "money-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4",
+  "hero": {
+    "path": "/images/dreams/money-dream/hero.png",
+    "alt_ko": "꿈속에서 황금빛 돈뭉치와 동전이 안개 속에 떠 있는 한국화 스타일 일러스트",
+    "alt_en": "Korean watercolor illustration of golden banknotes and coins floating in a misty dreamlike void",
+    "prompt": "Scattered Korean won banknotes and golden coins floating in a misty dreamlike void, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, warm golden light radiating from coins, no text, no people, muted gold and cream palette with gentle luminescence"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/money-dream/auspicious.png",
+      "alt_ko": "황금빛 일출 하늘 아래 산 위로 지폐가 쏟아지는 대길몽 한국화 일러스트",
+      "alt_en": "Korean ink-wash illustration of golden banknotes raining from a sunrise sky over lush mountains — auspicious wealth dream",
+      "prompt": "Golden rain of Korean banknotes falling from a glowing sunrise sky over lush mountain landscape, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), auspicious golden light, abundance and prosperity motifs, warm earth tones, sunrise colors, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/money-dream/inauspicious.png",
+      "alt_ko": "폭풍우 치는 밤하늘 아래 어두운 물속으로 사라지는 찢어진 지폐 한국화 일러스트",
+      "alt_en": "Korean ink-wash illustration of a torn banknote dissolving into dark water under a stormy night sky — inauspicious money dream",
+      "prompt": "A torn and crumpled Korean banknote dissolving into dark water under a stormy night sky, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), foreboding atmosphere, deep navy and charcoal palette, cold moonlight, shadows and mist, loss and warning imagery, no text, no people"
+    }
+  ]
+}

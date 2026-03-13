@@ -1,0 +1,27 @@
+{
+  "slug": "forest-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4",
+  "hero": {
+    "path": "/images/dreams/forest-dream/hero.png",
+    "alt_ko": "새벽 안개 속 고요한 한국 소나무 숲 — 숲 꿈해몽",
+    "alt_en": "A vast ancient Korean pine forest shrouded in morning mist — forest dream interpretation",
+    "prompt": "A vast ancient Korean forest of towering pines and oaks shrouded in morning mist, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, dappled golden light filtering through canopy, no text, no people, muted emerald and sage green tones with soft golden highlights"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/forest-dream/auspicious.png",
+      "alt_ko": "햇살이 가득한 울창한 여름 숲 — 길몽 숲 꿈",
+      "alt_en": "Sunlit lush Korean forest in full summer bloom — auspicious forest dream",
+      "prompt": "A sunlit lush Korean forest in full summer bloom, golden rays streaming through dense green canopy, vibrant ferns and wildflowers on the forest floor, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike warm atmosphere, no text, no people, warm gold and rich emerald green tones, spring sunrise mood"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/forest-dream/inauspicious.png",
+      "alt_ko": "밤의 어두운 황량한 숲 — 흉몽 숲 꿈",
+      "alt_en": "Dark foreboding forest at night with bare gnarled trees — inauspicious forest dream",
+      "prompt": "A dark foreboding Korean forest at night, gnarled bare trees with twisted branches, deep impenetrable shadows, eerie mist curling between dead trunks, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike ominous atmosphere, no text, no people, deep indigo and charcoal black tones with cold silver moonlight, haunting desolate mood"
+    }
+  ]
+}

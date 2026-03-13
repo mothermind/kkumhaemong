@@ -1,0 +1,27 @@
+{
+  "slug": "number-four-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/number-four-dream/hero.png",
+    "alt_ko": "한국 사신(四神)에 둘러싸인 숫자 4 — 사방위 수호 신들이 안개 속에 어렴풋이 나타나는 꿈해몽 일러스트",
+    "alt_en": "The number four surrounded by Korea's Four Guardian Deities in misty mountain air — dream interpretation illustration",
+    "prompt": "The number four glowing softly in misty mountain air, surrounded by the Four Guardian Deities of Korean tradition (blue dragon east, white tiger west, vermilion bird south, black tortoise north) suggested as ethereal silhouettes, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, muted earth tones with gentle golden light radiating from center, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/number-four-dream/auspicious.png",
+      "alt_ko": "사방에서 황금빛 빛이 쏟아지는 가운데 금빛으로 빛나는 숫자 4 — 재물과 사방이 열리는 길몽 일러스트",
+      "alt_en": "Golden number four rising above four sacred mountains with sunrise light from all directions — auspicious dream illustration",
+      "prompt": "The number four rendered in golden calligraphy floating above four sacred mountains representing east west south north, sunrise light streaming from all four directions, coins and blossoms raining gently, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), warm golden sunrise atmosphere, abundant prosperity motifs, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/number-four-dream/inauspicious.png",
+      "alt_ko": "음산한 병원 복도 앞 돌에 새겨진 검은 숫자 4 — 경고의 흉몽 일러스트",
+      "alt_en": "Dark number four on a weathered stone at a misty hospital entrance under storm clouds — inauspicious dream illustration",
+      "prompt": "The number four written in dark ink on a weathered stone at the entrance to a misty hospital corridor, deep indigo shadows, storm clouds gathering above a desolate mountain path, bare winter trees, cold moonlight casting pale blue glow, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), ominous and foreboding atmosphere, no text, no people"
+    }
+  ]
+}

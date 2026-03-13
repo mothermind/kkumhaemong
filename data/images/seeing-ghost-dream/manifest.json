@@ -1,0 +1,27 @@
+{
+  "slug": "seeing-ghost-dream",
+  "hero": {
+    "path": "/images/dreams/seeing-ghost-dream/hero.png",
+    "alt_ko": "달빛 안개 속 교차로에 선 귀신 - 귀신을 보는 꿈 해몽",
+    "alt_en": "Ghostly figure at a misty moonlit crossroads - seeing ghost dream meaning",
+    "prompt": "A ghostly figure standing at a misty moonlit crossroads, traditional Korean ink-wash illustration style, pale luminous spirit form with flowing white robes, eerie mist rising from the ground, ancient pine trees silhouetted in background, dreamlike atmosphere, soft blue and grey tones, no text, no people alive, ethereal and haunting beauty"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/seeing-ghost-dream/auspicious.png",
+      "alt_ko": "귀신 앞에서 당당하게 서 있는 인물 - 길몽 귀신꿈",
+      "alt_en": "Courageous figure facing a ghost without fear - auspicious ghost dream",
+      "prompt": "A courageous figure facing a translucent ghost without fear, traditional Korean ink-wash illustration style, warm golden light emanating from the person, ghost appearing to dissolve and fade, symbolic imagery of triumph over darkness, dreamlike atmosphere, muted gold and white tones, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/seeing-ghost-dream/inauspicious.png",
+      "alt_ko": "어두운 숲에서 귀신에게 쫓기는 인물 - 흉몽 귀신꿈",
+      "alt_en": "Person being chased by a dark ghostly figure in a forest - inauspicious ghost dream",
+      "prompt": "A frightened person being pursued by a dark ghostly presence, traditional Korean ink-wash illustration style, ominous shadow figure with flowing dark robes, person running in a dark forest, deep indigo and grey tones, eerie mist, dramatic composition, dreamlike and unsettling atmosphere, no text"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

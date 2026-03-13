@@ -1,0 +1,27 @@
+{
+  "slug": "moon-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4-fast",
+  "hero": {
+    "path": "/images/dreams/moon-dream/hero.png",
+    "alt_ko": "밝은 보름달이 안개 낀 한국 산 위로 떠오르는 몽환적인 달밤 풍경 수채화 삽화",
+    "alt_en": "A luminous full moon rising over misty Korean mountains in a dreamlike ink-wash watercolor illustration",
+    "prompt": "A luminous full moon rising over misty Korean mountains, ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere with silvery mist curling between pine trees, soft moonlight reflecting on a still mountain lake, cool silver and indigo tones, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/moon-dream/auspicious.png",
+      "alt_ko": "황금빛 보름달 아래 학이 날아오르는 길몽 달꿈 수채화 삽화",
+      "alt_en": "Golden full moon with cranes soaring beneath, representing auspicious moon dream fortune",
+      "prompt": "A glowing full moon in a clear night sky with golden light streaming down onto a tranquil Korean village, auspicious fortune symbols, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, warm golden and pearl tones, cranes flying toward the moon, spring blossoms, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/moon-dream/inauspicious.png",
+      "alt_ko": "먹구름에 가려진 달이 위험을 경고하는 흉몽 수채화 삽화",
+      "alt_en": "Moon obscured by dark storm clouds over Korean mountains, representing an inauspicious warning dream",
+      "prompt": "A moon obscured by dark storm clouds over a Korean mountain landscape at night, ominous ink-wash watercolor illustration, Korean traditional painting aesthetic, deep indigo and charcoal shadows, turbulent clouds swallowing moonlight, cold blue-grey palette, foreboding atmosphere, no text, no people"
+    }
+  ]
+}

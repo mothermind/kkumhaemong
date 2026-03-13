@@ -1,0 +1,27 @@
+{
+  "slug": "number-five-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/number-five-dream/hero.png",
+    "alt_ko": "안개 낀 한국 산봉우리 위에 오행을 상징하는 다섯 빛구슬과 함께 빛나는 숫자 5",
+    "alt_en": "Luminous numeral five floating above misty Korean mountain peaks surrounded by five glowing orbs of the Five Elements",
+    "prompt": "A luminous numeral five floating above misty Korean mountain peaks, surrounded by five glowing orbs representing the Five Elements — wood, fire, earth, metal, water — soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, no text, muted earth tones with golden highlights"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/number-five-dream/auspicious.png",
+      "alt_ko": "햇살 가득한 한국 정원 연못에 피어나는 다섯 송이 황금 연꽃과 오각별 반영",
+      "alt_en": "Five golden lotuses blooming in a sunlit Korean garden pond with a five-pointed star reflected in the water",
+      "prompt": "Five golden lotuses blooming in a sunlit Korean garden pond, warm sunrise light streaming through pine branches, a five-pointed star reflected in the water, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike golden atmosphere, warm earth tones and gentle amber light, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/number-five-dream/inauspicious.png",
+      "alt_ko": "다섯 갈래 갈림길과 균열 간 돌 비석에 새겨진 숫자 5, 깊은 안개 속 달빛",
+      "alt_en": "A shadowy crossroads with five diverging paths disappearing into deep fog, a cracked stone tablet etched with numeral five in cool moonlight",
+      "prompt": "A shadowy crossroads with five diverging paths disappearing into deep fog, a cracked ancient stone tablet marked with an etched numeral five, cool moonlight casting long shadows, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), cool blues and deep indigo, stormy night atmosphere, no text"
+    }
+  ]
+}

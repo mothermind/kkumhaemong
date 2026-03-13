@@ -1,0 +1,27 @@
+{
+  "slug": "outer-space-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/outer-space-dream/hero.png",
+    "alt_ko": "밤하늘의 혜성과 별빛이 한국 산맥 위를 수채화 스타일로 표현한 우주 꿈 이미지",
+    "alt_en": "Ink-wash watercolor of a luminous comet streaking across a starfield above misty Korean mountains",
+    "prompt": "A vast starfield with a luminous comet streaking across the sky above misty Korean mountains, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike ethereal atmosphere, muted indigo and silver tones with golden celestial highlights, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/outer-space-dream/auspicious.png",
+      "alt_ko": "황금빛 은하 속을 날아가는 우주선과 별똥별을 수채화 스타일로 표현한 길몽 이미지",
+      "alt_en": "Ink-wash watercolor of a spaceship soaring through a golden galaxy with shooting stars — auspicious space dream",
+      "prompt": "A spaceship soaring through a luminous golden galaxy, shooting stars and comets streaking past in radiant golden light, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), warm golden and amber tones, sunrise glow from a distant star, dreamlike auspicious atmosphere, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/outer-space-dream/inauspicious.png",
+      "alt_ko": "칠흑 같은 우주 속 블랙홀과 표류하는 형상을 수채화 스타일로 표현한 흉몽 이미지",
+      "alt_en": "Ink-wash watercolor of a figure drifting through a dark void with a black hole looming — inauspicious space dream",
+      "prompt": "A lone figure drifting helplessly through a pitch-black void of space, a distant black hole pulling everything inward with deep shadow tendrils, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), deep navy and cold indigo tones, ominous dark atmosphere, no text, no people"
+    }
+  ]
+}

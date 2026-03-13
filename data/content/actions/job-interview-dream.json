@@ -311,10 +311,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/job-interview-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/job-interview-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/job-interview-dream/auspicious.png",
-      "inauspicious": "/images/dreams/job-interview-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/job-interview-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/job-interview-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

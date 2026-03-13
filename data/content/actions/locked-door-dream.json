@@ -249,7 +249,10 @@
         "headline": "Locked Door Dream Meaning — Complete Korean Dream Interpretation Guide",
         "description": "A comprehensive bilingual guide to locked door dream symbolism in Korean tradition, covering auspicious and inauspicious interpretations, cultural context, and Western psychological perspectives.",
         "datePublished": "2026-03-11",
-        "inLanguage": ["ko", "en"],
+        "inLanguage": [
+          "ko",
+          "en"
+        ],
         "author": {
           "@type": "Organization",
           "name": "꿈해몽 (kkumhaemong.com)"
@@ -290,10 +293,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/locked-door-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/locked-door-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/locked-door-dream/auspicious.png",
-      "inauspicious": "/images/dreams/locked-door-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/locked-door-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/locked-door-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

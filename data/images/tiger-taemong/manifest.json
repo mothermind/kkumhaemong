@@ -1,0 +1,30 @@
+{
+  "slug": "tiger-taemong",
+  "hero": {
+    "path": "/images/dreams/tiger-taemong/hero.png",
+    "alt_ko": "새벽 안개 낀 산 위의 호랑이, 한국 수묵화 스타일",
+    "alt_en": "Majestic tiger on a misty mountain at dawn, Korean ink-wash illustration style",
+    "prompt": "A majestic tiger standing on a misty mountain at dawn, soft ink-wash illustration style, Korean traditional painting aesthetic, golden morning light filtering through pine trees, the tiger is calm and powerful, dreamlike atmosphere, muted earth tones with subtle golden highlights, no text, no people",
+    "aspectRatio": "16:9"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/tiger-taemong/auspicious.png",
+      "alt_ko": "황금 구름 사이를 당당하게 걷는 백호, 수채화 스타일",
+      "alt_en": "White tiger stepping proudly through golden clouds, Korean folk painting style",
+      "prompt": "A white tiger (baekho) stepping proudly through golden clouds, soft watercolor illustration, Korean folk painting style, celestial and auspicious atmosphere, the tiger radiates divine power and authority, sunrise colors of gold and amber, dreamlike quality, no text",
+      "aspectRatio": "4:3"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/tiger-taemong/inauspicious.png",
+      "alt_ko": "어두운 숲 속 달빛 아래의 호랑이, 경계의 분위기",
+      "alt_en": "Tiger in dark forest under moonlight, cautionary and mysterious atmosphere",
+      "prompt": "A tiger in a dark forest at night, misty and mysterious atmosphere, soft ink-wash illustration style, Korean traditional painting aesthetic, the tiger gazes intensely with amber eyes, moonlight casting shadows through bamboo, cautionary dreamlike mood, muted cool tones, no text",
+      "aspectRatio": "4:3"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

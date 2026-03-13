@@ -1,0 +1,30 @@
+{
+  "slug": "clothes-dream",
+  "hero": {
+    "path": "/images/dreams/clothes-dream/hero.png",
+    "alt_ko": "꿈속에서 빛나는 한복과 비단 옷감이 달빛 아래 놓여 있는 몽환적 장면",
+    "alt_en": "Dreamy scene of glowing hanbok and silk garments resting in moonlight",
+    "prompt": "A folded stack of beautifully embroidered Korean hanbok garments glowing softly in moonlight, silks in ivory and deep crimson draped over a cedarwood chest, wisps of dream-mist curling around the fabric, soft ink-wash illustration style, Korean traditional painting aesthetic, dreamlike atmosphere, muted earth tones with subtle golden highlights, no text",
+    "aspectRatio": "16:9"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/clothes-dream/auspicious.png",
+      "alt_ko": "화려한 새 옷을 선물받는 기쁨의 장면 — 재물과 신분 상승을 상징",
+      "alt_en": "A joyful scene of receiving luminous new garments as a gift, symbolizing prosperity and rising social standing",
+      "prompt": "A woman joyfully receiving a beautifully wrapped gift box from which luminous new silk garments spill out in warm golden and crimson hues, soft rays of morning light, lush abundance symbolizing prosperity and elevated social standing, Korean traditional painting aesthetic, soft watercolor illustration, dreamlike atmosphere, no text",
+      "aspectRatio": "4:3"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/clothes-dream/inauspicious.png",
+      "alt_ko": "비 내리는 돌길 위에 찢어진 옷이 떨어져 있는 쓸쓸한 장면 — 손실과 갈등의 경고",
+      "alt_en": "Torn and mud-stained garments on a rain-slicked stone path at dusk, symbolizing loss and vulnerability",
+      "prompt": "Torn and mud-stained garments fallen on a rain-slicked stone path at dusk, frayed threads unraveling in wind, somber indigo and grey palette, mood of loss and vulnerability, Korean traditional ink-wash painting aesthetic, dreamlike mist, no text",
+      "aspectRatio": "4:3"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

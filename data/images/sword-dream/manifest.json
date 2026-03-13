@@ -1,0 +1,27 @@
+{
+  "slug": "sword-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/sword-dream/hero.png",
+    "alt_ko": "안개 낀 한국 돌계단 위에 놓인 화려한 의식용 검, 한국 전통 수묵화 스타일",
+    "alt_en": "A magnificent ceremonial sword resting on ancient Korean stone steps in misty atmosphere, ink-wash watercolor style",
+    "prompt": "A magnificent ceremonial sword resting on ancient Korean stone steps, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, the blade gleaming with faint silver light, surrounded by wisps of morning mist and pine branches, no text, no people, muted silver and deep indigo palette"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/sword-dream/auspicious.png",
+      "alt_ko": "일출 빛 속에서 빛나는 황금 검, 한국 산봉우리와 매화꽃, 수묵화 스타일",
+      "alt_en": "A radiant golden sword held aloft in sunrise light over Korean mountain peaks with plum blossoms, ink-wash style",
+      "prompt": "A radiant golden sword held aloft in sunrise light over Korean mountain peaks, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, warm golden and amber tones, blooming plum blossoms in the foreground, cherry blossom petals floating, no text, no people, warm earth tones with golden highlights"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/sword-dream/inauspicious.png",
+      "alt_ko": "폭풍우 아래 젖은 돌 위에 버려진 녹슬고 부러진 검, 어두운 한국화 스타일",
+      "alt_en": "A rusted and broken sword abandoned on dark wet stones under storm clouds, dark Korean ink-wash style",
+      "prompt": "A rusted and broken sword lying abandoned on dark wet stones under storm clouds, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dark foreboding atmosphere, deep midnight blues and charcoal tones, rain streaks and mist, bare twisted branches framing the scene, no text, no people, cool blues and deep shadow palette"
+    }
+  ]
+}

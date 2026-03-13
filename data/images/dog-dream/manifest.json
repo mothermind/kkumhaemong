@@ -1,0 +1,27 @@
+{
+  "slug": "dog-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/dog-dream/hero.png",
+    "alt_ko": "전통 한옥 대문 앞에서 꼬리를 흔드는 황금빛 건강한 개 — 수묵화 스타일 꿈 일러스트",
+    "alt_en": "A healthy golden dog wagging its tail at a traditional Korean hanok gate — ink-wash dream illustration",
+    "prompt": "A healthy golden dog with a wagging tail sitting at the entrance of a traditional Korean hanok gate, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike misty morning atmosphere, warm golden light filtering through, no text, no people, warm earth tones with soft amber highlights"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/dog-dream/auspicious.png",
+      "alt_ko": "황금빛 일출 속 한옥 문으로 들어오는 흰 개 — 길몽을 상징하는 수묵화 일러스트",
+      "alt_en": "A white dog entering a Korean hanok doorway in golden sunrise light — auspicious dream illustration",
+      "prompt": "A white fluffy dog entering through a traditional Korean hanok doorway, golden sunrise light pouring in, scattered coins and blossoms on the floor, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike luminous atmosphere, no text, no people, warm golden and ivory tones with spring blossom motifs"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/dog-dream/inauspicious.png",
+      "alt_ko": "어두운 밤 한옥 골목에서 이빨을 드러내는 검은 개 — 흉몽을 상징하는 수묵화 일러스트",
+      "alt_en": "A black dog growling in a shadowy alley near a Korean gate at night — inauspicious dream illustration",
+      "prompt": "A black dog growling and baring teeth in a dark shadowy alley near a traditional Korean gate at night, storm clouds overhead, deep shadows, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, ominous dreamlike atmosphere, no text, no people, cool deep blues and dark charcoal tones with faint moonlight"
+    }
+  ]
+}

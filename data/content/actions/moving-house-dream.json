@@ -348,10 +348,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/moving-house-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/moving-house-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/moving-house-dream/auspicious.png",
-      "inauspicious": "/images/dreams/moving-house-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/moving-house-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/moving-house-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

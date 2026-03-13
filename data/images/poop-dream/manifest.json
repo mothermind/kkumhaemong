@@ -1,0 +1,27 @@
+{
+  "slug": "poop-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/poop-dream/hero.png",
+    "alt_ko": "황금빛 동전과 곡식이 쌓인 한국 전통 한지 위 풍요로운 정물화",
+    "alt_en": "Gleaming golden coins and grain on traditional Korean hanji paper, symbolizing wealth in poop dreams",
+    "prompt": "A pile of gleaming golden coins and nuggets resting on traditional Korean hanji paper, soft watercolor brush strokes, rice stalks and autumn harvest symbols surrounding the gold, misty dreamlike atmosphere, Korean traditional painting aesthetic (한국화), warm golden amber tones, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/poop-dream/auspicious.png",
+      "alt_ko": "황금빛 일출 속 전통 화장실 주변 가득한 벼와 풍요의 상징",
+      "alt_en": "Traditional Korean outhouse at golden sunrise surrounded by overflowing harvest baskets, symbolizing wealth fortune",
+      "prompt": "A traditional Korean outhouse surrounded by a bountiful rice field at golden sunrise, straw mats and harvest baskets overflowing with grain and coins, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), warm golden light, abundant prosperity symbolism, dreamlike misty morning atmosphere, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/poop-dream/inauspicious.png",
+      "alt_ko": "밤에 잠긴 어두운 화장실 문, 불안한 흉몽의 분위기",
+      "alt_en": "Dark locked bathroom door at night, foreboding atmosphere representing inauspicious poop dream",
+      "prompt": "An empty dark bathroom with a locked door at night, shadowy hallway with no visible exit, overcast moonlight filtering through a small window, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, deep indigo and charcoal tones, anxious foreboding atmosphere, dreamlike shadows, no text, no people"
+    }
+  ]
+}

@@ -294,10 +294,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/going-down-stairs-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/going-down-stairs-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/going-down-stairs-dream/auspicious.png",
-      "inauspicious": "/images/dreams/going-down-stairs-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/going-down-stairs-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/going-down-stairs-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

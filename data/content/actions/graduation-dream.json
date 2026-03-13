@@ -315,10 +315,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/graduation-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/graduation-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/graduation-dream/auspicious.png",
-      "inauspicious": "/images/dreams/graduation-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/graduation-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/graduation-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

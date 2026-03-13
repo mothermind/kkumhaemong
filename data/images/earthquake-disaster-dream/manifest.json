@@ -1,0 +1,30 @@
+{
+  "slug": "earthquake-disaster-dream",
+  "hero": {
+    "path": "/images/dreams/earthquake-disaster-dream/hero.png",
+    "alt_ko": "지진으로 흔들리는 땅과 건물을 한국 전통 수묵화 스타일로 표현한 이미지",
+    "alt_en": "Earthquake scene with shaking ground and buildings in Korean traditional ink-wash illustration style",
+    "prompt": "A dramatic earthquake scene with ground cracking open and buildings swaying, viewed from above through misty atmosphere, Korean traditional ink-wash illustration style, dreamlike ethereal quality, muted earth tones with deep indigo shadows, soft morning light breaking through dust, no text, no people, peaceful yet powerful energy",
+    "aspectRatio": "16:9"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/earthquake-disaster-dream/auspicious.png",
+      "alt_ko": "지진 속에서도 안전하게 서 있는 모습과 땅 틈에서 빛이 나오는 길몽 이미지",
+      "alt_en": "A figure standing safely amid earthquake with golden light emerging from earth cracks symbolizing hope",
+      "prompt": "A person standing safely on solid ground while earthquake shakes the landscape around them, glowing light emerging from cracks in the earth symbolizing hope and renewal, Korean traditional ink-wash style, dreamlike watercolor atmosphere, warm golden tones with soft greens, symbolic auspicious imagery, no text",
+      "aspectRatio": "4:3"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/earthquake-disaster-dream/inauspicious.png",
+      "alt_ko": "지진으로 무너지는 한국 전통 건축물 — 흉몽을 상징하는 어두운 수묵화 이미지",
+      "alt_en": "Crumbling traditional Korean architecture during earthquake, dark dramatic atmosphere in ink-wash style",
+      "prompt": "Crumbling traditional Korean architecture during an earthquake, walls splitting apart, dark dramatic atmosphere with falling debris, Korean traditional ink-wash painting style, deep indigo and charcoal tones, heavy emotional weight, muted palette with cracks of red-orange light escaping through fissures, no text, no people visible",
+      "aspectRatio": "4:3"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

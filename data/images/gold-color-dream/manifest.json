@@ -1,0 +1,30 @@
+{
+  "slug": "gold-color-dream",
+  "hero": {
+    "path": "/images/dreams/gold-color-dream/hero.png",
+    "alt_ko": "황금빛으로 물든 산과 구름 — 금색 꿈 해몽",
+    "alt_en": "Misty mountains and clouds bathed in radiant golden light — gold color dream",
+    "prompt": "A vast landscape bathed in radiant golden light at dawn, soft ink-wash illustration style, Korean traditional painting aesthetic, misty mountains and clouds glowing with brilliant gold, dreamlike atmosphere, warm luminous tones, no text, wide panoramic view",
+    "aspectRatio": "16:9"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/gold-color-dream/auspicious.png",
+      "alt_ko": "황금빛 속에 감싸인 인물 — 재물과 명예의 길몽",
+      "alt_en": "A person enveloped in brilliant golden light symbolizing wealth and honor",
+      "prompt": "A person standing in brilliant golden light, surrounded by golden clouds and radiant warm glow, soft watercolor illustration style, Korean traditional painting aesthetic, dreamlike atmosphere, prosperity and honor symbolism, warm gold and amber tones, no text",
+      "aspectRatio": "4:3"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/gold-color-dream/inauspicious.png",
+      "alt_ko": "황금빛이 서서히 사라지는 장면 — 금색 꿈 경고",
+      "alt_en": "Golden light slowly fading into shadow, a warning in dream interpretation",
+      "prompt": "Golden light slowly fading and dimming into shadow, tarnished gold color turning to dull grey, ink-wash illustration style, Korean traditional painting aesthetic, bittersweet melancholic atmosphere, muted fading tones, no text",
+      "aspectRatio": "4:3"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

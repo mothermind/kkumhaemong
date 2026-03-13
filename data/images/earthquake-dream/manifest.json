@@ -1,0 +1,27 @@
+{
+  "slug": "earthquake-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/earthquake-dream/hero.png",
+    "alt_ko": "전통 한국 마을 아래 땅이 갈라지는 지진 꿈 일러스트",
+    "alt_en": "Ink-wash illustration of cracked earth splitting beneath a traditional Korean village during an earthquake",
+    "prompt": "The earth splitting and trembling beneath a traditional Korean village, dramatic cracked ground glowing with deep amber light, misty mountains in the background, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, no text, no people, muted earth tones with golden and charcoal highlights"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/earthquake-dream/auspicious.png",
+      "alt_ko": "지진 후 황금빛 새벽이 밝아오는 한국 전통 산수화",
+      "alt_en": "Golden sunrise breaking over a traditional Korean landscape after the earthquake — symbol of auspicious transformation",
+      "prompt": "A traditional Korean landscape emerging peaceful and radiant after an earthquake, golden sunrise light breaking through misty mountains, lush green earth awakening, subtle ripples in the ground that suggest past trembling now settled, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), warm golden and jade green tones, dreamlike atmosphere, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/earthquake-dream/inauspicious.png",
+      "alt_ko": "지진으로 무너지는 한옥과 갈라지는 땅의 흉몽 일러스트",
+      "alt_en": "Traditional Korean house collapsing during an earthquake with deep fissures in the dark earth — inauspicious omen illustration",
+      "prompt": "A crumbling traditional Korean wooden house collapsing during a violent earthquake, deep cracks splitting the dark earth beneath, storm clouds gathering overhead, cold blue and indigo palette, falling roof tiles and debris, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), foreboding and dramatic atmosphere, no text, no people"
+    }
+  ]
+}

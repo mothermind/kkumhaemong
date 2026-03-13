@@ -324,10 +324,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/being-fired-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/being-fired-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/being-fired-dream/auspicious.png",
-      "inauspicious": "/images/dreams/being-fired-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/being-fired-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/being-fired-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

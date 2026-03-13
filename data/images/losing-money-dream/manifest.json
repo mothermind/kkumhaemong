@@ -1,0 +1,27 @@
+{
+  "slug": "losing-money-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4-fast",
+  "hero": {
+    "path": "/images/dreams/losing-money-dream/hero.png",
+    "alt_ko": "안개 낀 돌길 위에 흩어지는 금화와 지폐 — 돈을 잃는 꿈 해몽",
+    "alt_en": "Scattered gold coins and paper bills dissolving into mist on an ancient stone path — dream of losing money",
+    "prompt": "scattered gold coins and paper bills dissolving into mist on an ancient stone path, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, no text, no people, muted earth tones with ethereal blue-gray fog"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/losing-money-dream/auspicious.png",
+      "alt_ko": "황금빛 동전이 강처럼 흘러드는 길몽 장면 — 돈 잃는 꿈의 역몽 길몽 해석",
+      "alt_en": "Golden coins flowing like a river toward sunrise — auspicious reverse omen interpretation of losing money dream",
+      "prompt": "golden coins flowing like a river toward a sunrise, plum blossoms blooming beside an overflowing treasure pouch on a wooden table, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), warm golden light, spring morning atmosphere, no text, no people, warm earth tones with golden highlights"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/losing-money-dream/inauspicious.png",
+      "alt_ko": "폭풍우 내리는 밤 젖은 돌길 위에 찢어진 빈 지갑 — 돈 잃는 꿈 흉몽 해석",
+      "alt_en": "Empty torn wallet on wet cobblestones under a stormy night sky — inauspicious interpretation of losing money dream",
+      "prompt": "an empty torn wallet lying on wet cobblestones under a stormy night sky, coins scattered and sinking into dark puddles, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), cool blue-gray palette, heavy clouds and shadow, no text, no people, somber midnight atmosphere"
+    }
+  ]
+}

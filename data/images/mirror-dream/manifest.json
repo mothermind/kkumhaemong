@@ -1,0 +1,27 @@
+{
+  "slug": "mirror-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4",
+  "hero": {
+    "path": "/images/dreams/mirror-dream/hero.png",
+    "alt_ko": "안개 낀 산 위의 청동 거울에 달빛이 비치는 한국화 스타일 일러스트",
+    "alt_en": "An ornate bronze mirror reflecting moonlight on misty mountain rocks, Korean ink-wash illustration",
+    "prompt": "An ornate antique bronze mirror resting on misty mountain rocks with moonlight reflected within, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, no text, no people, silver and deep indigo color palette"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/mirror-dream/auspicious.png",
+      "alt_ko": "황금빛 거울 속에 용과 벚꽃이 비치는 길몽 장면의 한국화 일러스트",
+      "alt_en": "A golden mirror reflecting a soaring dragon amid cherry blossoms at sunrise, auspicious Korean ink-wash illustration",
+      "prompt": "A radiant golden mirror reflecting a soaring dragon amid cherry blossoms and sunrise light, auspicious fortune scene, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), warm golden earth tones, spring dawn atmosphere, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/mirror-dream/inauspicious.png",
+      "alt_ko": "차가운 돌 위에 산산조각 난 거울과 어두운 안개가 감도는 흉몽 장면의 한국화 일러스트",
+      "alt_en": "A shattered mirror lying on cold stone surrounded by dark mist and shadows, inauspicious Korean ink-wash illustration",
+      "prompt": "A cracked and shattered mirror lying on cold stone floor with dark mist and shadows surrounding it, ominous warning scene, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), cool blues deep shadows storm night motifs, no text, no people"
+    }
+  ]
+}

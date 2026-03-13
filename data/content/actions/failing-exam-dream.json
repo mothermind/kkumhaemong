@@ -284,10 +284,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/failing-exam-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/failing-exam-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/failing-exam-dream/auspicious.png",
-      "inauspicious": "/images/dreams/failing-exam-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/failing-exam-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/failing-exam-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

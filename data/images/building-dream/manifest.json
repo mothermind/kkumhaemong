@@ -1,0 +1,27 @@
+{
+  "slug": "building-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/building-dream/hero.png",
+    "alt_ko": "아침 안개 속에 솟아오르는 웅장한 한국 전통 건물 꿈해몽 일러스트",
+    "alt_en": "Grand Korean traditional building rising through morning mist — building dream illustration",
+    "prompt": "A grand traditional Korean pavilion-style building rising through morning mist, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, layered mountain backdrop, no text, no people, muted earth tones with subtle golden sunrise light"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/building-dream/auspicious.png",
+      "alt_ko": "황금빛 일출 아래 새로운 건물이 빛나는 길몽 이미지",
+      "alt_en": "New building gleaming under golden sunrise light — auspicious building dream",
+      "prompt": "A majestic new building gleaming under golden sunrise light with flames of fortune rising from its roof, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike atmosphere, warm golden and amber tones, auspicious motifs, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/building-dream/inauspicious.png",
+      "alt_ko": "밤 안개 속에 무너져 내리는 낡은 건물의 흉몽 이미지",
+      "alt_en": "Crumbling decaying building in night fog — inauspicious building dream",
+      "prompt": "A crumbling decaying building partially collapsed in deep night fog, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike ominous atmosphere, cool indigo and deep blue tones, shadows and cracks in stone walls, no text, no people"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "family-dying-dream",
+  "hero": {
+    "path": "/images/dreams/family-dying-dream/hero.png",
+    "alt_ko": "한국 전통 가족 의례 장면, 수묵화 스타일, 몽환적인 분위기",
+    "alt_en": "Korean traditional family ancestral ceremony scene, ink-wash illustration style, dreamlike atmosphere",
+    "prompt": "A Korean family in traditional hanbok gathered around a peaceful ancestral ceremony, soft ink-wash illustration style, Korean traditional painting aesthetic, misty atmosphere with gentle light filtering through paper screens, dreamlike quality, muted earth tones with subtle golden warmth, symbolic representation of transition and renewal, no text, no people dying depicted",
+    "aspectRatio": "16:9"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/family-dying-dream/auspicious.png",
+      "alt_ko": "새벽 물 위에 피어나는 연꽃, 수묵화 스타일, 변화와 새로운 시작의 상징",
+      "alt_en": "Lotus flower blooming from still water at dawn, ink-wash style, symbol of transformation and new beginnings",
+      "prompt": "A lotus flower blooming from still water at dawn, soft ink-wash illustration style, Korean traditional painting aesthetic, golden morning light, dreamlike serene atmosphere, symbol of transformation and new beginnings, crane flying in misty background, muted warm tones, no text",
+      "aspectRatio": "4:3"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/family-dying-dream/inauspicious.png",
+      "alt_ko": "어두운 한국 전통 방에 혼자 흔들리는 촛불, 수묵화 스타일, 고독과 경계의 분위기",
+      "alt_en": "Single candle flickering alone in a darkened traditional Korean room, ink-wash style, atmosphere of solitude and contemplation",
+      "prompt": "A single candle flame flickering alone in a darkened traditional Korean room, soft ink-wash illustration style, Korean traditional painting aesthetic, shadows and muted grey-blue tones, emotional atmosphere of solitude and contemplation, paper window casting dim light, dreamlike quality, no text",
+      "aspectRatio": "4:3"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

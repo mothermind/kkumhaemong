@@ -331,10 +331,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/singing-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/singing-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/singing-dream/auspicious.png",
-      "inauspicious": "/images/dreams/singing-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/singing-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/singing-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

@@ -1,0 +1,27 @@
+{
+  "slug": "tornado-dream",
+  "hero": {
+    "path": "/images/dreams/tornado-dream/hero.png",
+    "alt_ko": "토네이도 꿈해몽 — 폭풍 속 회오리바람",
+    "alt_en": "Tornado dream interpretation — massive funnel over Korean countryside",
+    "prompt": "A massive tornado funnel descending from dark storm clouds over Korean countryside at dusk, soft ink-wash illustration style, Korean traditional painting aesthetic, dreamlike atmosphere, muted earth tones with deep purples and grays, swirling winds carrying debris, ominous yet beautiful, no text, wide cinematic composition"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/tornado-dream/auspicious.png",
+      "alt_ko": "토네이도 후 무지개 — 시련 뒤 희망",
+      "alt_en": "Rainbow after the tornado — hope following hardship",
+      "prompt": "A person standing triumphantly on a hilltop after a storm has passed, rainbow emerging in the sky, soft watercolor illustration style, Korean traditional painting aesthetic, hopeful warm light breaking through clouds, mist clearing over mountains, dreamlike serene atmosphere, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/tornado-dream/inauspicious.png",
+      "alt_ko": "토네이도에 집이 날아가는 꿈 — 삶의 기반이 흔들리는 경고",
+      "alt_en": "House destroyed by tornado dream — warning of life foundations at risk",
+      "prompt": "A traditional Korean house being destroyed by a powerful dark whirlwind, tiles and wooden beams flying through the air, ink-wash illustration style, Korean traditional painting aesthetic, dark storm atmosphere, dramatic wind patterns, ominous swirling clouds, no text"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

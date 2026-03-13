@@ -1,0 +1,27 @@
+{
+  "slug": "mouse-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/mouse-dream/hero.png",
+    "alt_ko": "달빛 아래 볏단 위에 앉은 흰 쥐 — 쥐꿈 해몽 대표 이미지",
+    "alt_en": "A white mouse resting on moonlit rice stalks — hero image for mouse dream interpretation",
+    "prompt": "A white mouse sitting gracefully on misty moonlit rice stalks, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, glowing white fur, delicate brush strokes, muted gold and silver tones, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/mouse-dream/auspicious.png",
+      "alt_ko": "황금 곡식 위에 앉은 흰 쥐 — 쥐꿈 길몽, 재물운 상승",
+      "alt_en": "White mouse nestled in golden grain at sunrise — auspicious mouse dream, rising fortune",
+      "prompt": "A white mouse nestled in overflowing golden grain, warm sunrise light, auspicious fortune scene, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), warm earth tones with golden glow, spring blossoms in background, dreamlike serene atmosphere, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/mouse-dream/inauspicious.png",
+      "alt_ko": "어두운 집 안으로 들어오는 쥐 — 쥐꿈 흉몽, 위험 경고",
+      "alt_en": "Dark mouse emerging from shadows inside a stormy night house — inauspicious mouse dream warning",
+      "prompt": "A dark gray mouse emerging from shadows into a dimly lit empty house, stormy night sky visible through window, foreboding ominous atmosphere, soft ink-wash illustration, Korean traditional painting aesthetic (한국화), deep indigo and charcoal tones, moonless night, no text, no people"
+    }
+  ]
+}

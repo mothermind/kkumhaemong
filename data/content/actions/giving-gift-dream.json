@@ -309,10 +309,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/giving-gift-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/giving-gift-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/giving-gift-dream/auspicious.png",
-      "inauspicious": "/images/dreams/giving-gift-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/giving-gift-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/giving-gift-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

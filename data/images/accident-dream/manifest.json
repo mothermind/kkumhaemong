@@ -1,0 +1,30 @@
+{
+  "slug": "accident-dream",
+  "hero": {
+    "path": "/images/dreams/accident-dream/hero.png",
+    "alt_ko": "새벽 안개 낀 산길 위의 차 한 대 — 사고 꿈해몽",
+    "alt_en": "A lone vehicle on a misty mountain road at dawn — accident dream interpretation",
+    "prompt": "A lone vehicle on a misty mountain road at dawn, soft ink-wash illustration style, Korean traditional painting aesthetic, dreamlike atmosphere, subtle golden light breaking through fog, sense of journey and uncertainty, no text, no people visible",
+    "aspectRatio": "16:9"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/accident-dream/auspicious.png",
+      "alt_ko": "황금빛 빛 속에서 피어나는 봉황 — 사고에서 살아남는 길몽",
+      "alt_en": "A phoenix rising from wreckage surrounded by golden light and cherry blossoms — surviving accident auspicious dream",
+      "prompt": "A phoenix rising from broken vehicle wreckage surrounded by golden light and cherry blossoms, Korean traditional ink-wash painting style, dreamlike atmosphere, symbolizing survival triumph and fortune, warm golden tones, no text",
+      "aspectRatio": "4:3"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/accident-dream/inauspicious.png",
+      "alt_ko": "폭풍 구름 아래 갈라진 도로 — 사고 꿈 흉몽 경고",
+      "alt_en": "Cracked road under dark storm clouds with bare trees bending in wind — accident dream inauspicious warning",
+      "prompt": "A cracked road with dark storm clouds gathering overhead, bare trees bending in wind, Korean traditional ink-wash painting style, somber mood, muted grey and indigo tones, symbolizing warning and obstacles ahead, no text, no people",
+      "aspectRatio": "4:3"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

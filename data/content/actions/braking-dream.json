@@ -279,10 +279,10 @@
     ]
   },
   "images": {
-    "hero": "/images/dreams/braking-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/braking-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/braking-dream/auspicious.png",
-      "inauspicious": "/images/dreams/braking-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/braking-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/braking-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

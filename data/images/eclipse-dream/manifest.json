@@ -1,0 +1,27 @@
+{
+  "slug": "eclipse-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/eclipse-dream/hero.png",
+    "alt_ko": "신비로운 한국 산맥 위로 펼쳐지는 개기일식, 코로나 빛이 어둠을 감싸는 수채화 일러스트",
+    "alt_en": "A dramatic solar eclipse over misty Korean mountains with ethereal corona glow, ink-wash watercolor illustration",
+    "prompt": "A dramatic solar eclipse over misty Korean mountains, the sun's corona glowing ethereally around the dark moon, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, muted indigo and silver tones with faint golden corona, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/eclipse-dream/auspicious.png",
+      "alt_ko": "일식이 끝나고 황금빛 햇살이 안개 낀 산골에 쏟아지는 모습, 학이 하늘로 날아오르는 한국화 수채화",
+      "alt_en": "Golden sunlight flooding through misty mountain valley after eclipse ends, a white crane soaring upward, Korean ink-wash watercolor",
+      "prompt": "Sun emerging brilliantly after a solar eclipse, radiant golden light flooding through misty mountain valleys, a single white crane soaring upward toward the light, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), warm golden and amber tones, sunrise motifs, dreamlike hopeful atmosphere, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/eclipse-dream/inauspicious.png",
+      "alt_ko": "개기월식으로 달이 붉게 물든 밤하늘, 겨울 나뭇가지 실루엣과 먹구름, 불길한 분위기의 한국화 수채화",
+      "alt_en": "Blood moon lunar eclipse casting deep crimson light over dark Korean landscape with bare winter trees, foreboding ink-wash watercolor",
+      "prompt": "A blood moon lunar eclipse casting deep crimson light over a dark Korean landscape, bare winter trees silhouetted against the ominous red moon, storm clouds gathering at the edges, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), deep crimson and charcoal tones, foreboding night atmosphere, no text, no people"
+    }
+  ]
+}

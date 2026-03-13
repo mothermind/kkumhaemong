@@ -382,10 +382,10 @@
     ]
   },
   "images": {
-    "hero": "/images/dreams/giving-birth-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/giving-birth-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/giving-birth-dream/auspicious.png",
-      "inauspicious": "/images/dreams/giving-birth-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/giving-birth-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/giving-birth-dream/inauspicious.webp"
     }
   }
 }

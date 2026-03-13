@@ -1,0 +1,30 @@
+{
+  "slug": "no-clothes-dream",
+  "hero": {
+    "path": "/images/dreams/no-clothes-dream/hero.png",
+    "alt_ko": "안개 속에서 옷이 사라지는 몽환적인 한국화 스타일 일러스트",
+    "alt_en": "A dreamlike Korean ink-wash illustration of a figure with clothes dissolving into morning mist",
+    "prompt": "A solitary figure standing in an ethereal dreamscape with flowing mist and soft light, clothes dissolving into the morning fog like petals, Korean traditional ink-wash illustration style, dreamlike atmosphere, muted earth tones with soft blue-gray highlights, no text, no words, wide cinematic composition",
+    "aspectRatio": "16:9"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/no-clothes-dream/auspicious.png",
+      "alt_ko": "황금빛 새벽빛 속에 당당하게 걷는 인물의 한국화 스타일 일러스트",
+      "alt_en": "A confident figure walking through golden dawn light in Korean ink-wash style, symbolizing recognition and rising fortune",
+      "prompt": "A serene figure walking confidently through golden dawn light, surrounded by blooming Korean traditional scenery, wildflowers and morning mist, ink-wash illustration style, warm golden tones, dreamlike peaceful atmosphere, symbolizing self-recognition and social acknowledgment, no text, no words",
+      "aspectRatio": "4:3"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/no-clothes-dream/inauspicious.png",
+      "alt_ko": "어두운 거리에서 옷이 바람에 날아가는 불안한 한국화 스타일 일러스트",
+      "alt_en": "A lone figure on a dimly lit Korean street at dusk with fabric pieces drifting away, ink-wash style, symbolizing vulnerability and exposure",
+      "prompt": "A lone figure standing exposed on a dimly lit Korean street at dusk, shadows closing in, scattered pieces of fabric drifting away on the wind, ink-wash illustration style, dark indigo and gray tones, ominous dreamlike atmosphere, symbolizing vulnerability and secrets revealed, no text, no words",
+      "aspectRatio": "4:3"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

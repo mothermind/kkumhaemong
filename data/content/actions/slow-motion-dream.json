@@ -254,7 +254,10 @@
         "description": "느리게 움직이는 꿈, 슬로우모션 꿈 해몽. 달리려는데 몸이 안 따라오거나 도망가려는데 굳는 꿈 — 무력감과 스트레스의 신호를 깊이 풀어드립니다.",
         "datePublished": "2026-03-11",
         "dateModified": "2026-03-11",
-        "inLanguage": ["ko", "en"],
+        "inLanguage": [
+          "ko",
+          "en"
+        ],
         "author": {
           "@type": "Organization",
           "name": "꿈해몽 (kkumhaemong.com)"
@@ -296,10 +299,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/slow-motion-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/slow-motion-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/slow-motion-dream/auspicious.png",
-      "inauspicious": "/images/dreams/slow-motion-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/slow-motion-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/slow-motion-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

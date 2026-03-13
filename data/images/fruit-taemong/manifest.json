@@ -1,0 +1,27 @@
+{
+  "slug": "fruit-taemong",
+  "hero": {
+    "path": "/images/dreams/fruit-taemong/hero.png",
+    "alt_ko": "과일 태몽 — 황금빛 과수원에 탐스럽게 익은 복숭아, 감, 대추가 가득한 몽환적인 한국화 일러스트",
+    "alt_en": "Fruit taemong — a dreamlike Korean ink-wash illustration of a lush orchard with ripe persimmons, peaches, and jujubes glowing at golden hour",
+    "prompt": "A lush Korean orchard at golden hour, various ripe fruits hanging from branches — persimmons, peaches, jujubes — glowing warmly in soft afternoon light, Korean traditional ink-wash painting style with watercolor washes, dreamlike haze, muted earth tones with golden highlights, no text, serene and auspicious atmosphere, pregnancy taemong dream illustration"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/fruit-taemong/auspicious.png",
+      "alt_ko": "전통 목기에 탐스럽게 쌓인 복숭아, 감, 대추 — 길몽을 상징하는 풍요로운 과일 이미지",
+      "alt_en": "Abundant ripe peaches, persimmons, and golden jujubes in a traditional Korean wooden bowl — an auspicious symbol of blessing and prosperity",
+      "prompt": "Abundant ripe fruits in a wooden Korean traditional bowl — glowing peaches, red persimmons, golden jujubes — sunlight streaming through, soft ink-wash illustration style, Korean folk art aesthetic, warm golden tones, dreamlike quality, auspicious energy, no text, pregnancy blessing symbolism"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/fruit-taemong/inauspicious.png",
+      "alt_ko": "축축한 땅에 떨어져 쪼개진 과일 — 흉몽을 암시하는 쓸쓸한 한국화 일러스트",
+      "alt_en": "A single overripe, cracked fruit fallen on damp ground in a misty Korean garden — a cautionary dream image in muted ink-wash tones",
+      "prompt": "A single fallen fruit on damp ground in a misty Korean garden, overripe and cracked, surrounded by fallen leaves, somber ink-wash illustration style, muted grey and brown tones, foggy melancholic atmosphere, Korean traditional painting aesthetic, no text, cautionary dream symbolism, quiet and still scene"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

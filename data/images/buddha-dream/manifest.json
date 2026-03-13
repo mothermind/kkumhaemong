@@ -1,0 +1,27 @@
+{
+  "slug": "buddha-dream",
+  "hero": {
+    "path": "/images/dreams/buddha-dream/hero.png",
+    "alt_ko": "황금빛 부처님이 명상 자세로 앉아 있고 연꽃이 피어있는 한국 사찰 풍경",
+    "alt_en": "Golden Buddha seated in meditation surrounded by lotus blossoms in a misty Korean temple setting",
+    "prompt": "A serene golden Buddha statue seated in meditation pose, soft rays of warm golden light emanating from the figure, misty Korean mountain temple setting in background, ink-wash illustration style with soft watercolor tones, dreamlike atmosphere, Korean traditional painting aesthetic, lotus blossoms floating in foreground, no text"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/buddha-dream/auspicious.png",
+      "alt_ko": "향불 연기가 피어오르는 가운데 금빛 부처님 앞에 절하는 참배자",
+      "alt_en": "A worshipper bowing before a luminous golden Buddha in a Korean temple with incense smoke rising",
+      "prompt": "A worshipper bowing reverently before a luminous golden Buddha, warm amber and gold light filling a Korean Buddhist temple hall, incense smoke curling upward, lotus flowers in offering bowls, soft ink-wash watercolor style, dreamlike and serene atmosphere, Korean traditional art aesthetic, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/buddha-dream/inauspicious.png",
+      "alt_ko": "어두운 사원 안에 금이 가고 손상된 불상",
+      "alt_en": "A cracked and damaged Buddha statue in a shadowy stone temple",
+      "prompt": "A cracked and crumbling Buddha statue in a dimly lit stone temple, shadows falling across the damaged figure, muted grey and charcoal tones, wisps of dark smoke in the air, ink-wash illustration style, foreboding dreamlike atmosphere, Korean traditional painting aesthetic, no text"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

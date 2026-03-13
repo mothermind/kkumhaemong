@@ -1,0 +1,27 @@
+{
+  "slug": "ex-girlfriend-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/ex-girlfriend-dream/hero.png",
+    "alt_ko": "달빛 안개 속 문간에 서 있는 여인의 실루엣, 벚꽃이 흩날리는 전여친 꿈 해몽 이미지",
+    "alt_en": "Silhouette of a woman standing in a misty moonlit doorway with floating cherry blossoms, ex-girlfriend dream illustration",
+    "prompt": "A silhouette of a woman standing in misty moonlit doorway, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere with floating cherry blossom petals, cool blue and silver tones, no text, no faces"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/ex-girlfriend-dream/auspicious.png",
+      "alt_ko": "봄 정원의 황금빛 오솔길과 매화꽃, 전여친 꿈 길몽 이미지",
+      "alt_en": "Golden path through a spring garden with plum blossoms and warm sunrise light, auspicious ex-girlfriend dream",
+      "prompt": "A glowing golden path through a spring garden with blooming plum blossoms and warm sunrise light, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, warm golden and peach tones, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/ex-girlfriend-dream/inauspicious.png",
+      "alt_ko": "빗속 돌길 위 낙엽과 사그라드는 등롱, 전여친 꿈 흉몽 이미지",
+      "alt_en": "Rain-soaked stone path at night with fallen autumn leaves and a fading paper lantern, inauspicious ex-girlfriend dream",
+      "prompt": "An empty rain-soaked stone path at night with fallen autumn leaves and a fading paper lantern, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, deep indigo and grey tones with cold shadows, no text, no people"
+    }
+  ]
+}

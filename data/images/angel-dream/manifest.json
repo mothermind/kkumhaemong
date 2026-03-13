@@ -1,0 +1,27 @@
+{
+  "slug": "angel-dream",
+  "hero": {
+    "path": "/images/dreams/angel-dream/hero.png",
+    "alt_ko": "천사가 하늘에서 내려오는 꿈 일러스트",
+    "alt_en": "An angel descending from misty heavens, dreamlike illustration",
+    "prompt": "A luminous angel descending from misty heavens, soft ink-wash illustration style, Korean traditional painting aesthetic, dreamlike atmosphere, flowing white robes, gentle golden light radiating from wings, ethereal clouds and mountain silhouettes in background, muted celestial tones with soft luminous highlights, no text, wide cinematic composition"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/angel-dream/auspicious.png",
+      "alt_ko": "천사가 꽃을 건네는 길몽 일러스트",
+      "alt_en": "An angel offering a glowing flower, auspicious dream illustration",
+      "prompt": "A serene angel smiling and offering a luminous flower to a person, soft watercolor illustration style, Korean traditional painting aesthetic, warm golden light, misty background with gentle mountain landscape, dreamlike atmosphere, harmonious and uplifting mood, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/angel-dream/inauspicious.png",
+      "alt_ko": "어둠 속 검은 날개 천사 흉몽 일러스트",
+      "alt_en": "A dark-winged angel standing in shadow, inauspicious dream illustration",
+      "prompt": "A dark-winged angel figure standing in shadow, ink-wash illustration style, Korean traditional painting aesthetic, moody twilight atmosphere, faint storm clouds in background, muted dark tones with faint silver light, somber yet ethereal mood, no text"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

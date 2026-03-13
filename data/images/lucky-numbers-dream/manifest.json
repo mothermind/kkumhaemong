@@ -1,0 +1,27 @@
+{
+  "slug": "lucky-numbers-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/lucky-numbers-dream/hero.png",
+    "alt_ko": "안개 낀 한국 산골짜기 위로 황금빛 숫자 3, 7, 8이 등롱처럼 떠오르는 몽환적인 한국화 스타일 일러스트",
+    "alt_en": "Luminous golden lucky numbers 3, 7, 8 floating like lanterns above a misty Korean mountain valley at twilight, ink-wash watercolor illustration",
+    "prompt": "A cluster of luminous golden numbers — 3, 7, 8 — floating like lanterns above a mist-covered Korean mountain valley at twilight, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, warm amber and gold light, no text, no people, ethereal and auspicious mood"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/lucky-numbers-dream/auspicious.png",
+      "alt_ko": "봄날 벚꽃나무에서 황금 동전과 행운의 숫자가 쏟아지는 풍요로운 한국화 스타일 일러스트",
+      "alt_en": "Golden coins and radiant lucky numbers 7, 8, 777 bursting from a blossoming cherry tree, warm golden sunrise, Korean ink-wash illustration",
+      "prompt": "A shower of golden coins and radiant lucky numbers (7, 8, 777) bursting from a blossoming cherry tree in springtime, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), warm golden sunrise light, joyful abundance, no text, no people, dreamlike auspicious atmosphere"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/lucky-numbers-dream/inauspicious.png",
+      "alt_ko": "폭풍우 치는 밤하늘 아래 어두운 돌기둥에 새겨진 불길한 숫자 4와 시드는 꽃 한국화 스타일",
+      "alt_en": "The ominous number 4 carved into a dark stone pillar under a stormy night sky with wilting flower, Korean ink-wash watercolor illustration",
+      "prompt": "The ominous number 4 carved into a dark stone pillar under a stormy night sky, mist swirling around the base, a single wilting flower nearby, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), deep navy and grey tones, eerie and foreboding atmosphere, no text, no people"
+    }
+  ]
+}

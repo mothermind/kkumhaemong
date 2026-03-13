@@ -1,0 +1,27 @@
+{
+  "slug": "centipede-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4",
+  "hero": {
+    "path": "/images/dreams/centipede-dream/hero.png",
+    "alt_ko": "안개 낀 바위 위에 앉은 지네 — 수묵화 스타일의 몽환적 일러스트",
+    "alt_en": "A centipede resting on misty mountain rocks — dreamlike Korean ink-wash illustration",
+    "prompt": "A solitary centipede with many legs resting on misty mountain rocks, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike foggy atmosphere, muted earth tones with subtle golden highlights, no text, no people, ethereal mood"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/centipede-dream/auspicious.png",
+      "alt_ko": "황금빛 지네와 연꽃 — 재물과 번영을 상징하는 길몽 이미지",
+      "alt_en": "A golden centipede among lotus flowers and glowing coins — auspicious wealth and fortune imagery",
+      "prompt": "A golden centipede on a pile of glowing coins and lotus flowers, warm golden sunrise light, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, warm earth tones and golden hues, prosperity and fortune symbolism, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/centipede-dream/inauspicious.png",
+      "alt_ko": "어둠 속에서 나타나는 지네 — 경고와 위험을 상징하는 흉몽 이미지",
+      "alt_en": "A centipede emerging from darkness in a stormy night — ominous inauspicious dream imagery",
+      "prompt": "A dark centipede emerging from shadows in a stormy night scene, deep blue and black ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), ominous dreamlike atmosphere, cool dark tones with stormy night motifs, foreboding and threatening mood, no text, no people"
+    }
+  ]
+}

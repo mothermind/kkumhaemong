@@ -1,0 +1,27 @@
+{
+  "slug": "wedding-dress-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4",
+  "hero": {
+    "path": "/images/dreams/wedding-dress-dream/hero.png",
+    "alt_ko": "흰 웨딩드레스가 아침 안개 속 나무 옷걸이에 걸려 있고, 벚꽃 잎이 흩날리는 몽환적인 한국화 풍 일러스트",
+    "alt_en": "A pristine white wedding dress hanging on a wooden hanger in morning mist with falling cherry blossoms, dreamlike Korean ink-wash illustration",
+    "prompt": "A pristine white wedding dress hanging gracefully on a wooden hanger, soft morning mist drifting through shoji screens, delicate cherry blossoms falling, ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike ethereal atmosphere, pearl and ivory tones with soft golden light, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/wedding-dress-dream/auspicious.png",
+      "alt_ko": "황금 자수로 장식된 웨딩드레스가 매화나무 가지에 걸려 있고, 붉은 복주머니와 황금빛 빛이 가득한 길몽 장면",
+      "alt_en": "A beautiful wedding dress with golden embroidery draped over blossoming plum branches with warm sunrise light and red lucky envelopes, auspicious dream scene",
+      "prompt": "A beautiful white wedding dress adorned with golden embroidery draped over blossoming plum tree branches, warm sunrise light filtering through, red and gold lucky envelopes scattered on silk fabric below, ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike joyful atmosphere, warm amber and gold tones, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/wedding-dress-dream/inauspicious.png",
+      "alt_ko": "찢어지고 피로 얼룩진 웨딩드레스가 빗물에 젖은 돌계단에 구겨져 있고, 먹구름과 시든 국화꽃이 있는 흉몽 장면",
+      "alt_en": "A torn and bloodstained wedding dress crumpled on rain-soaked stone steps with storm clouds and wilted chrysanthemums, inauspicious dream scene",
+      "prompt": "A torn and bloodstained wedding dress crumpled on rain-soaked stone steps, dark storm clouds gathering above traditional Korean rooftop tiles, wilted white chrysanthemums scattered around, ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), foreboding dreamlike atmosphere, deep indigo and storm grey tones with cold blue shadows, no text, no people"
+    }
+  ]
+}

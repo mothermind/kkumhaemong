@@ -1,0 +1,27 @@
+{
+  "slug": "meat-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4",
+  "hero": {
+    "path": "/images/dreams/meat-dream/hero.png",
+    "alt_ko": "전통 도자기 접시 위에 놓인 구운 고기와 안개 낀 한국 산경을 담은 수묵화",
+    "alt_en": "Roasted meat on traditional Korean ceramic platter with misty mountain scenery, ink-wash illustration",
+    "prompt": "A succulent whole roasted meat centerpiece on a traditional Korean ceramic platter surrounded by misty mountain scenery, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmospheric glow, warm amber and golden tones, wooden table with antique grain, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/meat-dream/auspicious.png",
+      "alt_ko": "봄꽃이 흩날리는 가운데 숯불 위에서 황금빛으로 익어가는 고기가 가득한 잔칫상",
+      "alt_en": "A golden feast table overflowing with perfectly grilled meats, warm firelight and spring blossoms, Korean ink-wash illustration",
+      "prompt": "A golden feast table overflowing with perfectly grilled and braised meats, glowing brazier with warm firelight, spring blossoms drifting in, ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike auspicious atmosphere, rich warm earth tones and golden sunrise light, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/meat-dream/inauspicious.png",
+      "alt_ko": "차갑고 어두운 정육점 안에 창백하게 걸린 생고기, 폭풍우 치는 창밖 풍경의 수묵화",
+      "alt_en": "Dark butcher shop with pale raw meat hanging in cold shadows, stormy sky through a window, foreboding Korean ink-wash illustration",
+      "prompt": "Darkened butcher shop with pale raw and spoiled meat hanging in cold shadow, overcast stormy sky through a single window, deep midnight blues and cold grey tones, ink-wash watercolor illustration, Korean traditional painting aesthetic, foreboding dreamlike atmosphere, no text, no people"
+    }
+  ]
+}

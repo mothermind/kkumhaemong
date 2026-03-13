@@ -1,0 +1,27 @@
+{
+  "slug": "deceased-father-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/deceased-father-dream/hero.png",
+    "alt_ko": "황혼 무렵 안개 낀 산사 문 앞에 서 있는 조상의 영혼, 한국화 수묵 수채화 일러스트",
+    "alt_en": "An ancestral spirit standing at a misty mountain temple gate at dusk, Korean ink-wash watercolor illustration",
+    "prompt": "An elderly Korean man's spirit standing at the threshold of a mist-filled mountain temple gate at dusk, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, ethereal glow, muted earth tones with subtle golden light, no text, no faces visible, ancestral presence"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/deceased-father-dream/auspicious.png",
+      "alt_ko": "한국 조상 제단에 쌓인 제물과 황금빛 연꽃, 봄날 아침 황금 빛살, 한국화 수채화 일러스트",
+      "alt_en": "Korean ancestral altar with offerings and a glowing lotus flower bathed in golden morning light, Korean watercolor illustration",
+      "prompt": "Warm golden sunrise over a Korean ancestral altar with rice cakes and offerings, coins and a lotus flower glowing with gentle light, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike warm atmosphere, golden earth tones, spring morning light, no text, no faces"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/deceased-father-dream/inauspicious.png",
+      "alt_ko": "밤 안개 속 어두운 산비탈의 묘비, 빗속 소나무, 한국화 수묵화 일러스트",
+      "alt_en": "A lone grave marker on a dark misty hillside in the rain with shadowy pine trees, Korean ink-wash watercolor illustration",
+      "prompt": "A lone grave marker on a dark misty hillside at night, rain falling gently, shadowy pine trees surrounding, cool blues and deep grays, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), somber dreamlike atmosphere, no text, no faces, foreboding stillness"
+    }
+  ]
+}

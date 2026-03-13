@@ -327,10 +327,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/reading-book-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/reading-book-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/reading-book-dream/auspicious.png",
-      "inauspicious": "/images/dreams/reading-book-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/reading-book-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/reading-book-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

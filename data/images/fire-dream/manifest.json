@@ -1,0 +1,27 @@
+{
+  "slug": "fire-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/fire-dream/hero.png",
+    "alt_ko": "밤 산비탈에서 활활 타오르는 큰 불꿈 일러스트",
+    "alt_en": "A powerful bonfire blazing on a misty mountainside at night, fire dream illustration",
+    "prompt": "A great bonfire blazing powerfully on a misty mountainside at night, flames reaching skyward with golden and orange hues, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, no text, no people, warm earth tones with golden light"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/fire-dream/auspicious.png",
+      "alt_ko": "황금빛 일출 아래 장엄하게 타오르는 길몽 불꿈 일러스트",
+      "alt_en": "A magnificent bonfire under golden sunrise, auspicious fire dream symbolizing wealth and prosperity",
+      "prompt": "A magnificent bonfire blazing brightly under a golden sunrise sky, warm golden light streaming through rising sparks, coins and prosperity symbols emerging from the flames, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, warm earth tones, golden amber hues, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/fire-dream/inauspicious.png",
+      "alt_ko": "빗속에서 꺼져가는 불씨와 자욱한 연기, 흉몽 불꿈 일러스트",
+      "alt_en": "A dying fire reduced to thick smoke in darkness and rain, inauspicious fire dream illustration",
+      "prompt": "A dying fire reduced to thick grey smoke rising in darkness, embers fading and going cold on rain-wet rocks, storm clouds gathering overhead, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike ominous atmosphere, cool grey-blue tones, deep shadows, no text, no people"
+    }
+  ]
+}

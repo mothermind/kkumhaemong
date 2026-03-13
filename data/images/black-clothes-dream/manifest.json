@@ -1,0 +1,27 @@
+{
+  "slug": "black-clothes-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4-fast",
+  "hero": {
+    "path": "/images/dreams/black-clothes-dream/hero.png",
+    "alt_ko": "안개 낀 마당에 걸려 있는 검은 상복 — 검은 옷 꿈 해몽",
+    "alt_en": "Black funeral robes draped over a rack in a misty courtyard — black clothes dream interpretation",
+    "prompt": "Black funeral robes draped over a wooden clothes rack in a misty courtyard, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, dark indigo and charcoal tones with pale moonlight, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/black-clothes-dream/auspicious.png",
+      "alt_ko": "황금빛 아침 햇살 속 검은 정장 — 신분 상승과 지위 변화의 길몽",
+      "alt_en": "A dignified black formal suit in golden sunrise light — auspicious dream of status and authority",
+      "prompt": "A man in a dignified black formal suit standing on steps with golden sunrise light, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike mist, warm gold and amber tones, no text, no faces"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/black-clothes-dream/inauspicious.png",
+      "alt_ko": "빗속 빨랫줄에 걸린 검은 옷들 — 검은 옷 세탁 꿈의 흉몽",
+      "alt_en": "Black garments hanging on a laundry line in dark rain — inauspicious washing black clothes dream",
+      "prompt": "Black mourning garments hanging on a laundry line in a dark rainy courtyard, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), deep night atmosphere, cool deep blue and grey tones, falling rain, no text, no people"
+    }
+  ]
+}

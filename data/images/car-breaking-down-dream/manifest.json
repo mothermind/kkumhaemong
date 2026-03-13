@@ -1,0 +1,27 @@
+{
+  "slug": "car-breaking-down-dream",
+  "hero": {
+    "path": "/images/dreams/car-breaking-down-dream/hero.png",
+    "alt_ko": "안개 낀 밤길에 멈춰선 고장난 자동차, 후드에서 연기가 피어오르는 수묵화 스타일 일러스트",
+    "alt_en": "Broken-down car stopped on a foggy night road with steam rising from the hood, ink-wash illustration style",
+    "prompt": "A car stopped on a dark misty road at night, hood open with steam rising, soft ink-wash illustration style, Korean traditional painting aesthetic, dreamlike atmosphere, muted earth tones with subtle blue-grey highlights, no text, moody and atmospheric"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/car-breaking-down-dream/auspicious.png",
+      "alt_ko": "고장난 차를 직접 수리하는 사람, 따뜻한 황금빛 조명, 희망적인 분위기의 수묵화 일러스트",
+      "alt_en": "A person successfully repairing a broken car with warm golden light, hopeful atmosphere, ink-wash illustration",
+      "prompt": "A person successfully repairing a car engine with warm golden light, tools laid out neatly, hopeful atmosphere, soft ink-wash illustration style, Korean traditional painting aesthetic, dreamlike quality, warm amber and golden tones, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/car-breaking-down-dream/inauspicious.png",
+      "alt_ko": "브레이크가 고장난 차가 어두운 산길을 질주하는 장면, 통제력 상실을 표현한 수묵화 일러스트",
+      "alt_en": "Car with brake failure speeding on a dark winding road, loss of control, ink-wash illustration style",
+      "prompt": "A car with brake failure speeding on a dark winding road, foggy and ominous atmosphere, soft ink-wash illustration style, Korean traditional painting aesthetic, dreamlike quality, dark indigo and charcoal tones with faint red highlights, sense of loss of control, no text"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

@@ -303,10 +303,10 @@
     ]
   },
   "images": {
-    "hero": "/images/dreams/feeding-animal-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/feeding-animal-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/feeding-animal-dream/auspicious.png",
-      "inauspicious": "/images/dreams/feeding-animal-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/feeding-animal-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/feeding-animal-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

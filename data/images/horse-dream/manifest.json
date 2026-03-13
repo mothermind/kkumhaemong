@@ -1,0 +1,27 @@
+{
+  "slug": "horse-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/horse-dream/hero.png",
+    "alt_ko": "안개 낀 산속을 질주하는 백마 — 말꿈 해몽 대표 이미지",
+    "alt_en": "A white horse galloping through misty mountain clouds — horse dream interpretation",
+    "prompt": "A powerful white horse galloping through misty mountain clouds, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike ethereal atmosphere, horse mane flowing in wind, pale gold and silver tones with morning mist, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/horse-dream/auspicious.png",
+      "alt_ko": "황금빛 구름 사이를 날아오르는 백마 — 말꿈 길몽",
+      "alt_en": "A white horse soaring through golden sunrise clouds — auspicious horse dream",
+      "prompt": "A majestic white horse soaring through golden sunrise clouds, riders on celestial journey, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), warm golden light, spring blossoms scattered in wind, auspicious fortune symbolism, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/horse-dream/inauspicious.png",
+      "alt_ko": "폭풍우 속에서 날뛰는 검은 말 — 말꿈 흉몽",
+      "alt_en": "A dark horse rearing wildly in a stormy night — inauspicious horse dream",
+      "prompt": "A dark horse rearing wildly in stormy night landscape, dramatic ink-wash illustration, Korean traditional painting aesthetic (한국화), deep indigo and charcoal tones, heavy storm clouds, lightning shadows on ground, foreboding atmosphere, no text, no people"
+    }
+  ]
+}

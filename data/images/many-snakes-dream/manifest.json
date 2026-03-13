@@ -1,0 +1,27 @@
+{
+  "slug": "many-snakes-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/many-snakes-dream/hero.png",
+    "alt_ko": "안개 낀 산 바위 위에 수많은 뱀이 서려 있는 몽환적인 수묵화 스타일 일러스트",
+    "alt_en": "Countless serpents coiled across misty mountain rocks, dreamlike ink-wash illustration in Korean traditional painting style",
+    "prompt": "countless serpents coiled and gliding across misty mountain rocks, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, muted earth tones with subtle golden highlights, no text, no people, wide panoramic composition"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/many-snakes-dream/auspicious.png",
+      "alt_ko": "일출 빛 아래 황금빛 뱀들이 산속 계곡을 헤엄치는 길몽 일러스트",
+      "alt_en": "Golden serpents swimming through a glowing mountain stream at sunrise, auspicious wealth omen illustration",
+      "prompt": "golden serpents swimming through a glowing mountain stream at sunrise, abundant and auspicious, warm golden light reflecting on water, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, warm earth tones, golden sunrise, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/many-snakes-dream/inauspicious.png",
+      "alt_ko": "밤 숲속에서 검은 뱀들이 어둠 속에 뒤엉킨 흉몽 일러스트",
+      "alt_en": "Dark serpents writhing through shadowy night forest, foreboding inauspicious dream illustration",
+      "prompt": "dark serpents coiling and writhing through shadowy night forest, threatening and foreboding, deep blue shadows, moonlit fog, ink-wash illustration, Korean traditional painting aesthetic (한국화), ominous dreamlike atmosphere, cool deep blues and blacks, storm clouds, no text, no people"
+    }
+  ]
+}

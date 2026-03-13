@@ -222,10 +222,10 @@
     "conclusion": "A dancing dream is rarely just a dream. It is your unconscious speaking in the most visceral language available — movement, rhythm, the feeling of a body fully alive or awkwardly constrained. If your dance was joyful and free, look ahead with genuine anticipation. If it was anxious, compelled, or solitary in the wrong way, it may be time to listen more carefully to what your inner life is trying to tell you. Pay attention to the type of dance, who was with you, and above all the emotional quality of the experience — these three details will take you much further than the dream's surface image alone."
   },
   "images": {
-    "hero": "/images/dreams/dancing-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/dancing-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/dancing-dream/auspicious.png",
-      "inauspicious": "/images/dreams/dancing-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/dancing-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/dancing-dream/inauspicious.webp"
     }
   },
   "seo": {
@@ -240,7 +240,7 @@
       "ko": "춤추는 꿈, 길몽일까 흉몽일까? 혼자 추는 꿈, 무당 춤, 한복 춤, 무대 위 춤까지 상황별 해몽을 완벽 정리했어요.",
       "en": "What does a dancing dream mean? Explore Korean folk interpretations covering solo dance, shaman dance, hanbok, stage performance and more."
     },
-    "ogImage": "/images/dreams/dancing-dream/hero.png",
+    "ogImage": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/dancing-dream/hero.webp",
     "structuredData": {
       "faqSchema": {
         "@context": "https://schema.org",
@@ -315,7 +315,15 @@
           "@id": "https://kkumhaemong.com/en/dream/dancing-dream"
         },
         "inLanguage": "en",
-        "keywords": ["dancing dream meaning", "dream about dancing interpretation", "Korean dream interpretation dancing", "shaman dance dream", "hanbok dance dream", "dancing alone in dream", "dancing on stage dream"]
+        "keywords": [
+          "dancing dream meaning",
+          "dream about dancing interpretation",
+          "Korean dream interpretation dancing",
+          "shaman dance dream",
+          "hanbok dance dream",
+          "dancing alone in dream",
+          "dancing on stage dream"
+        ]
       }
     },
     "hreflang": {

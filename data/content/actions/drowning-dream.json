@@ -369,10 +369,10 @@
     ]
   },
   "images": {
-    "hero": "/images/dreams/drowning-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/drowning-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/drowning-dream/auspicious.png",
-      "inauspicious": "/images/dreams/drowning-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/drowning-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/drowning-dream/inauspicious.webp"
     }
   }
 }

@@ -1,0 +1,27 @@
+{
+  "slug": "thunder-dream",
+  "hero": {
+    "path": "/images/dreams/thunder-dream/hero.png",
+    "alt_ko": "밤하늘을 가르는 천둥번개와 한국 산악 풍경",
+    "alt_en": "Dramatic thunderstorm illuminating a Korean mountain landscape at night",
+    "prompt": "A dramatic thunderstorm over a Korean mountain landscape at night, massive rolling thunder clouds illuminated from within by lightning, misty valleys below, soft ink-wash illustration style with Korean traditional painting aesthetic, dreamlike atmosphere, dark indigo and silver tones, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/thunder-dream/auspicious.png",
+      "alt_ko": "폭풍 후 황금빛 빛이 쏟아지는 한국 전통 가옥과 풍요 상징",
+      "alt_en": "Golden light breaking through storm clouds over a Korean traditional house, symbolizing fortune and prosperity",
+      "prompt": "Golden light breaking through storm clouds after thunder, a Korean traditional house glowing with warm light, prosperity and abundance symbolism, falling coins and glowing fortune symbols in the rain, soft watercolor and ink-wash illustration style, Korean traditional painting aesthetic, dreamlike auspicious atmosphere, warm golden and amber tones, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/thunder-dream/inauspicious.png",
+      "alt_ko": "불길한 먹구름과 번개 아래 홀로 선 인물과 놀란 말",
+      "alt_en": "Ominous storm clouds with lightning above a solitary figure and a panicking horse",
+      "prompt": "Dark storm clouds gathering ominously above a solitary figure on an empty road, lightning crackling in the background with no escape, a horse panicking in the distance, foreboding atmosphere, soft ink-wash illustration style with Korean traditional painting aesthetic, muted dark blue and grey tones, dreamlike dread, no text"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "end-of-world-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/end-of-world-dream/hero.png",
+    "alt_ko": "우주 공간에서 산산이 부서진 지구, 파편들이 고요히 흩어지는 모습 — 세상 멸망 꿈 해몽 일러스트",
+    "alt_en": "A shattered Earth drifting apart in the void of space — end of world dream interpretation illustration",
+    "prompt": "A shattered Earth floating in the void of space, fragments drifting apart in silence, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, deep indigo and charcoal cosmos with faint golden light at the fracture lines, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/end-of-world-dream/auspicious.png",
+      "alt_ko": "폐허 위로 황금빛 새벽이 밝아오는 모습, 종말에서 살아남은 길몽 상징",
+      "alt_en": "A golden dawn rising over ruins, symbolizing survival and rebirth after the apocalypse",
+      "prompt": "A lone figure standing on a misty hilltop, arms outstretched, watching a new golden dawn rise over the ruins of the old world, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), warm earth tones with golden sunrise light, spring blossoms emerging from cracked earth, dreamlike hopeful atmosphere, no text, no faces"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/end-of-world-dream/inauspicious.png",
+      "alt_ko": "운석이 쏟아지고 도시가 무너지는 폭풍 속 흉몽 장면",
+      "alt_en": "Meteors raining down on a crumbling cityscape under a dark stormy sky — inauspicious apocalypse dream scene",
+      "prompt": "A dark stormy sky filled with falling meteors crashing into a crumbling cityscape, everything consumed in dark smoke and shadow, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), deep navy and charcoal tones with flashes of crimson fire, desolate and foreboding atmosphere, no text, no people"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "smoke-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4",
+  "hero": {
+    "path": "/images/dreams/smoke-dream/hero.png",
+    "alt_ko": "한국 전통 사당에서 향로의 연기가 하늘로 피어오르는 수채화 일러스트",
+    "alt_en": "Ink-wash illustration of incense smoke rising from a traditional Korean ancestral shrine",
+    "prompt": "Wisps of smoke rising from incense burners at a traditional Korean ancestral shrine, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, muted earth tones with subtle indigo and silver highlights, smoke curling upward toward a pale sky, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/smoke-dream/auspicious.png",
+      "alt_ko": "한국 전통 마당에서 흰 연기가 황금빛 하늘로 곧게 솟아오르는 길몽 일러스트",
+      "alt_en": "Auspicious illustration of white smoke rising cleanly into a golden sky from a ceremonial Korean fire bowl",
+      "prompt": "White smoke rising cleanly toward a golden sky from a ceremonial fire bowl in a Korean traditional courtyard, auspicious golden sunrise light, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), warm earth tones with golden highlights, dreamlike serene atmosphere, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/smoke-dream/inauspicious.png",
+      "alt_ko": "어두운 산에서 검은 연기가 뭉게뭉게 피어오르는 흉몽 일러스트",
+      "alt_en": "Inauspicious illustration of thick black smoke billowing from a dark mountain under storm clouds",
+      "prompt": "Thick black smoke billowing from a distant mountain shrouded in darkness, ominous storm clouds gathering overhead, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), cool deep blues and dark charcoal tones, foreboding dreamlike atmosphere, no text, no people"
+    }
+  ]
+}

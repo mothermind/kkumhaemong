@@ -1,0 +1,27 @@
+{
+  "slug": "bee-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/bee-dream/hero.png",
+    "alt_ko": "꿀벌들이 벌집 주변을 맴돌고 있는 한국화 스타일의 꿈 일러스트",
+    "alt_en": "Ink-wash illustration of honeybees hovering around a beehive on misty Korean plum branches",
+    "prompt": "Golden honeybees hovering around a misty beehive nestled in blossoming Korean plum branches, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike ethereal atmosphere, warm amber and ivory tones with subtle golden light, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/bee-dream/auspicious.png",
+      "alt_ko": "꿀이 가득 찬 항아리 주변에 꿀벌들이 모여드는 풍요로운 봄 풍경",
+      "alt_en": "Honeybees filling a traditional Korean pottery jar overflowing with honey surrounded by spring wildflowers",
+      "prompt": "Honeybees joyfully filling a traditional Korean pottery jar overflowing with golden honey, surrounded by blooming spring wildflowers, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), warm golden sunrise light, abundant and prosperous atmosphere, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/bee-dream/inauspicious.png",
+      "alt_ko": "폭풍 속에 버려진 벌집 위로 말벌들이 어두운 그림자를 드리우는 흉몽 장면",
+      "alt_en": "Dark storm clouds over an abandoned beehive on a bare winter branch with angry hornets circling in shadow",
+      "prompt": "A dark storm gathering over an abandoned beehive on a bare winter branch, angry hornets circling in deep shadow, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), cool deep blue and charcoal tones, foreboding and ominous atmosphere, no text, no people"
+    }
+  ]
+}

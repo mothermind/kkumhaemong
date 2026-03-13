@@ -329,10 +329,10 @@
     ]
   },
   "images": {
-    "hero": "/images/dreams/running-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/running-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/running-dream/auspicious.png",
-      "inauspicious": "/images/dreams/running-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/running-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/running-dream/inauspicious.webp"
     }
   }
 }

@@ -333,10 +333,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/being-strangled-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/being-strangled-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/being-strangled-dream/auspicious.png",
-      "inauspicious": "/images/dreams/being-strangled-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/being-strangled-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/being-strangled-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

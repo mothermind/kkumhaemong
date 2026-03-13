@@ -1,0 +1,27 @@
+{
+  "slug": "rain-dream",
+  "hero": {
+    "path": "/images/dreams/rain-dream/hero.png",
+    "alt_ko": "비 오는 전통 한국 마을 풍경, 안개 낀 산과 초가지붕",
+    "alt_en": "Soft rain falling over a traditional Korean village with misty mountains",
+    "prompt": "Soft rain falling gently over a traditional Korean village, mist rising from thatched rooftops, mountains in the background partially hidden by clouds, water droplets catching soft morning light, ink-wash illustration style inspired by Korean traditional painting (한국화), dreamlike atmosphere, muted blue-grey and jade tones, sense of peaceful abundance and renewal, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/rain-dream/auspicious.png",
+      "alt_ko": "비에 흠뻑 젖으며 기쁨을 느끼는 모습, 재물과 풍요를 상징",
+      "alt_en": "A joyful figure soaked in abundant rain, symbolizing fortune and prosperity",
+      "prompt": "A person standing joyfully in refreshing rain, arms outstretched, completely soaked through, golden coins and abundance symbols raining down alongside water droplets, soft watercolor illustration style with Korean folk art influences, warm golden and green tones, feeling of fortune and prosperity arriving, dreamlike quality, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/rain-dream/inauspicious.png",
+      "alt_ko": "폭우 속 우산 없이 홀로 서 있는 인물, 고립과 시련을 상징",
+      "alt_en": "A lone figure standing in torrential rain without an umbrella, symbolizing hardship and isolation",
+      "prompt": "A lone figure standing in heavy torrential rain without an umbrella, dark storm clouds overhead, flooded muddy path ahead, strong winds bending trees, ink-wash illustration style with Korean traditional painting aesthetic, dark blue-grey and storm tones, feeling of isolation and overwhelming difficulty, dreamlike atmosphere, no text"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

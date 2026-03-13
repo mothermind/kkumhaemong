@@ -1,0 +1,27 @@
+{
+  "slug": "dragon-flying-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/dragon-flying-dream/hero.png",
+    "alt_ko": "용이 안개 낀 산 구름 사이로 힘차게 날아오르는 수묵화 일러스트",
+    "alt_en": "Eastern dragon soaring through misty mountain clouds, Korean ink-wash watercolor illustration",
+    "prompt": "A magnificent Eastern dragon soaring through misty mountain clouds, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere with swirling mist and golden sunrise light, dragon scales glinting, vast open sky, muted earth tones and deep blues with golden highlights, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/dragon-flying-dream/auspicious.png",
+      "alt_ko": "황금 용이 여의주를 움켜쥐고 황금빛 하늘로 승천하는 길몽 수묵화",
+      "alt_en": "Golden dragon ascending triumphantly through sunrise clouds holding a glowing wish-granting jewel, auspicious Korean ink-wash illustration",
+      "prompt": "A golden Eastern dragon ascending triumphantly through glowing sunrise clouds, wish-granting jewel glowing in its claws, ink-wash watercolor illustration, Korean traditional painting aesthetic, warm golden and amber light flooding the sky, auspicious and celebratory atmosphere, cherry blossom petals drifting, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/dragon-flying-dream/inauspicious.png",
+      "alt_ko": "검은 용이 폭풍 밤하늘에서 추락하는 흉몽 수묵화",
+      "alt_en": "Dark dragon falling from a storm-blackened night sky, ominous Korean ink-wash illustration",
+      "prompt": "A dark Eastern dragon falling from storm-blackened night sky, ink-wash watercolor illustration, Korean traditional painting aesthetic, ominous deep blue and black tones, lightning cracking through heavy clouds, turbulent descending motion, foreboding shadows, rain and mist, no text, no people"
+    }
+  ]
+}

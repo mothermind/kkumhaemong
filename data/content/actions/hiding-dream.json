@@ -287,10 +287,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/hiding-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/hiding-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/hiding-dream/auspicious.png",
-      "inauspicious": "/images/dreams/hiding-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/hiding-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/hiding-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

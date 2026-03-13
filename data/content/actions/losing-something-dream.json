@@ -298,7 +298,10 @@
         "description": "A comprehensive bilingual guide to Korean dream interpretation for dreams of losing objects, covering wallet, phone, keys, shoes, ring, money, child, and more — including auspicious and inauspicious meanings.",
         "datePublished": "2026-03-11",
         "dateModified": "2026-03-11",
-        "inLanguage": ["ko", "en"],
+        "inLanguage": [
+          "ko",
+          "en"
+        ],
         "author": {
           "@type": "Organization",
           "name": "꿈해몽닷컴"
@@ -334,10 +337,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/losing-something-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/losing-something-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/losing-something-dream/auspicious.png",
-      "inauspicious": "/images/dreams/losing-something-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/losing-something-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/losing-something-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

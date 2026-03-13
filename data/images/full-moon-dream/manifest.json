@@ -1,0 +1,27 @@
+{
+  "slug": "full-moon-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/full-moon-dream/hero.png",
+    "alt_ko": "밤하늘에 떠오른 환한 보름달이 산 위 안개 낀 호수를 비추는 한국화 풍의 수채화 일러스트",
+    "alt_en": "A radiant full moon rising over misty Korean mountains, illuminating a still mountain lake — ink-wash watercolor illustration",
+    "prompt": "A perfectly round full moon rising over misty Korean mountains at night, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), luminous golden-white moonlight reflecting on a still mountain lake, dreamlike misty atmosphere, muted indigo and silver tones, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/full-moon-dream/auspicious.png",
+      "alt_ko": "보름달빛 아래 황금빛으로 물든 가을 들판 — 풍요와 길운을 상징하는 한국화 일러스트",
+      "alt_en": "A full moon casting golden light over autumn rice fields in harvest season — Korean ink-wash illustration of abundance and good fortune",
+      "prompt": "A radiant full moon bathing golden rice fields in warm harvest light, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), warm golden earth tones, autumn harvest abundance, glowing lanterns in the distance, dreamlike misty atmosphere, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/full-moon-dream/inauspicious.png",
+      "alt_ko": "먹구름에 가려지는 보름달과 황량한 산길 — 장애와 경고를 암시하는 한국화 풍 일러스트",
+      "alt_en": "A full moon obscured by dark storm clouds over a desolate mountain pass — Korean ink-wash illustration symbolizing obstacles and warning",
+      "prompt": "A full moon being obscured by dark storm clouds over a desolate Korean mountain pass at night, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), deep shadows, cold blue-grey tones, bare gnarled branches reaching toward the dimming moon, dreamlike foreboding atmosphere, no text, no people"
+    }
+  ]
+}

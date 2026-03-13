@@ -1,0 +1,27 @@
+{
+  "slug": "knife-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4",
+  "hero": {
+    "path": "/images/dreams/knife-dream/hero.png",
+    "alt_ko": "안개 낀 산 바위 위에 놓인 빛나는 칼, 달빛이 날 위에 반사되는 한국화 스타일 삽화",
+    "alt_en": "A gleaming knife resting on misty mountain rocks, moonlight reflected on the blade, Korean ink-wash illustration style",
+    "prompt": "A single gleaming knife resting on misty mountain rocks beside an ancient ink-stone, moonlight catching the polished blade, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, no text, no people, muted silver and deep blue tones with golden highlights"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/knife-dream/auspicious.png",
+      "alt_ko": "황금빛 일출 속 화려한 검 주변으로 벚꽃과 금화가 흩날리는 길몽 삽화",
+      "alt_en": "An ornate sword bathed in golden sunrise light with cherry blossoms and golden coins cascading around it, auspicious dream illustration",
+      "prompt": "A radiant ornate sword bathed in warm golden sunrise light, cherry blossoms drifting around the blade, coins and golden light cascading down, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, no text, no people, warm earth tones with golden sunrise hues"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/knife-dream/inauspicious.png",
+      "alt_ko": "폭풍 치는 밤하늘 아래 젖은 돌 위에 놓인 녹슨 부러진 칼, 흉몽 삽화",
+      "alt_en": "A rusted broken knife on dark wet stones under a stormy night sky, inauspicious dream illustration in Korean ink-wash style",
+      "prompt": "A rusted broken knife lying on dark wet stones under a stormy night sky, dark blood-red puddle reflecting lightning, shadows deep and foreboding, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, no text, no people, deep blues and muted grays with dark crimson shadows"
+    }
+  ]
+}

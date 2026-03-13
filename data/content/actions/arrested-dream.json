@@ -297,10 +297,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/arrested-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/arrested-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/arrested-dream/auspicious.png",
-      "inauspicious": "/images/dreams/arrested-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/arrested-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/arrested-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

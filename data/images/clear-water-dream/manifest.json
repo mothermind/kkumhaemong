@@ -1,0 +1,27 @@
+{
+  "slug": "clear-water-dream",
+  "hero": {
+    "path": "/images/dreams/clear-water-dream/hero.png",
+    "alt_ko": "맑은 산속 샘물이 흐르는 몽환적인 수채화 풍경",
+    "alt_en": "Dreamlike ink-wash illustration of crystal clear mountain spring water flowing over pebbles",
+    "prompt": "Crystal clear mountain spring water flowing over smooth pebbles, soft ink-wash illustration style, Korean traditional painting aesthetic, dreamlike atmosphere, muted blue-green and silver tones with subtle golden highlights, serene and pure, misty background, no text"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/clear-water-dream/auspicious.png",
+      "alt_ko": "맑고 투명한 물속에서 평화롭게 수영하는 꿈 — 길몽",
+      "alt_en": "A person swimming peacefully in translucent clear water with fish visible below — auspicious dream",
+      "prompt": "A person swimming peacefully in translucent clear water, fish visible below, gentle golden light filtering through, Korean traditional ink-wash style, dreamlike serene atmosphere, soft blue and jade green tones, auspicious fortune symbolism, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/clear-water-dream/inauspicious.png",
+      "alt_ko": "맑은 물에 갑자기 파도와 소용돌이가 치는 꿈 — 주의 신호",
+      "alt_en": "Clear water surface forming sudden turbulent waves and swirling currents — cautionary dream",
+      "prompt": "Calm clear water surface suddenly forming small turbulent waves and swirling currents, Korean traditional ink-wash style, dreamlike mood, muted grey-blue and white tones, subtle sense of unease beneath the clarity, symbolic warning, no text"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "snake-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/snake-dream/hero.png",
+    "alt_ko": "안개 낀 산속 바위 위에 똬리를 튼 뱀 — 한국화 수묵 수채화 스타일",
+    "alt_en": "A great serpent coiled on mossy mountain rocks in misty dreamlike atmosphere — Korean ink-wash illustration",
+    "prompt": "A great coiled serpent resting on ancient moss-covered rocks beside a misty mountain stream, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, muted earth tones with subtle golden highlights, no text, no people, twilight mountain mist"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/snake-dream/auspicious.png",
+      "alt_ko": "황금빛 뱀이 금화와 연꽃 위에 똬리를 튼 길몽 이미지",
+      "alt_en": "A golden snake coiled around ancient coins and lotus blossoms — auspicious fortune symbolism",
+      "prompt": "A magnificent golden snake coiled around a pile of ancient Korean gold coins and lotus blossoms, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), warm golden sunrise light, spring blossoms, auspicious fortune symbolism, no text, no people, warm earth tones with golden highlights"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/snake-dream/inauspicious.png",
+      "alt_ko": "폭풍우 치는 밤 갈대밭을 빠져나가는 어두운 뱀 — 흉몽 이미지",
+      "alt_en": "A dark serpent slithering away through shadowy reeds under a stormy night sky — inauspicious omen",
+      "prompt": "A dark serpent slithering away through shadowy reeds under a stormy night sky, soft ink-wash illustration, Korean traditional painting aesthetic (한국화), deep indigo and charcoal tones, moonlight barely visible through storm clouds, ominous foreboding atmosphere, no text, no people, cool blue-grey palette"
+    }
+  ]
+}

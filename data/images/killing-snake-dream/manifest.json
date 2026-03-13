@@ -1,0 +1,27 @@
+{
+  "slug": "killing-snake-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/killing-snake-dream/hero.png",
+    "alt_ko": "안개 낀 산 돌계단 위에 쓰러진 뱀, 먹으로 그린 한국 전통화 스타일",
+    "alt_en": "A defeated serpent lying still on misty mountain stone steps, Korean ink-wash illustration style",
+    "prompt": "A serpent lying defeated and still on ancient stone steps surrounded by misty mountain mist, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike atmosphere, muted earth tones with subtle golden dawn light, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/killing-snake-dream/auspicious.png",
+      "alt_ko": "황금빛 일출과 봄꽃 사이 바위 위에 놓인 빛나는 검, 길몽 상징",
+      "alt_en": "A gleaming sword resting on ancient rocks amid spring blossoms and golden sunrise light, symbolizing auspicious fortune",
+      "prompt": "Golden sunlight breaking through clouds over a mountainside path, a gleaming sword resting on ancient rocks surrounded by blooming spring flowers, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, warm golden tones with sunrise light, triumphant and prosperous atmosphere, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/killing-snake-dream/inauspicious.png",
+      "alt_ko": "달 없는 밤 어두운 늪가에 서린 뱀의 그림자, 흉몽 상징",
+      "alt_en": "A shadowy serpent coiled among dead reeds in a dark swamp under a stormy moonless sky, symbolizing inauspicious warning",
+      "prompt": "Dark stormy sky over a murky swamp, shadowy serpent coiled among dead reeds under a moonless night, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, deep indigo and charcoal tones, ominous foreboding atmosphere, no text, no people"
+    }
+  ]
+}

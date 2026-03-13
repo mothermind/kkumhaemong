@@ -304,10 +304,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/climbing-stairs-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/climbing-stairs-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/climbing-stairs-dream/auspicious.png",
-      "inauspicious": "/images/dreams/climbing-stairs-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/climbing-stairs-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/climbing-stairs-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

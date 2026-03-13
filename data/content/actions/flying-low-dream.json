@@ -305,10 +305,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/flying-low-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/flying-low-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/flying-low-dream/auspicious.png",
-      "inauspicious": "/images/dreams/flying-low-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/flying-low-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/flying-low-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

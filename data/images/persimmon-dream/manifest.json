@@ -1,0 +1,27 @@
+{
+  "slug": "persimmon-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4",
+  "hero": {
+    "path": "/images/dreams/persimmon-dream/hero.png",
+    "alt_ko": "가을 안개 낀 산 위의 감나무에 주렁주렁 달린 탐스러운 감들, 한국화 수묵 수채화 스타일",
+    "alt_en": "Ripe persimmons hanging heavily from a gnarled tree on a misty Korean autumn mountainside, ink-wash illustration style",
+    "prompt": "Ripe orange persimmons hanging heavily from a gnarled tree on a misty autumn mountainside, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, golden warm tones, gentle morning mist, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/persimmon-dream/auspicious.png",
+      "alt_ko": "일출의 황금빛 아래 탐스럽게 익은 감이 가득 달린 나무, 풍요와 결실의 상징",
+      "alt_en": "Abundant golden-orange ripe persimmons gleaming in warm sunrise light, symbolizing harvest prosperity",
+      "prompt": "Abundant clusters of golden-orange ripe persimmons gleaming in warm sunrise light, branches bowing under the weight of fruit, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike misty morning, warm earth tones with golden highlights, prosperity and harvest motifs, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/persimmon-dream/inauspicious.png",
+      "alt_ko": "황혼의 폭풍우 속 앙상한 나무 아래 썩어가는 감, 경고의 상징",
+      "alt_en": "A rotten persimmon fallen beneath a bare tree under dark storm clouds at dusk, foreboding warning symbol",
+      "prompt": "A single rotten persimmon fallen on cold damp ground beneath a bare tree, dark storm clouds gathering at dusk, ink-wash illustration, Korean traditional painting aesthetic, cool deep blues and grey shadows, foreboding atmosphere, withered leaves, no text, no people"
+    }
+  ]
+}

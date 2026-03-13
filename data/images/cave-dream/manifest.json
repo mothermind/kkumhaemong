@@ -1,0 +1,27 @@
+{
+  "slug": "cave-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/cave-dream/hero.png",
+    "alt_ko": "안개 속 한국 산의 신비로운 동굴 입구, 내부에서 새어 나오는 황금빛 — 동굴 꿈 해몽",
+    "alt_en": "Mysterious cave entrance in a misty Korean mountain with golden light glowing from within — cave dream meaning",
+    "prompt": "A mysterious cave entrance in a misty Korean mountain, ancient stalactites and glowing interior light visible within, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, no text, no people, deep indigo and muted earth tones with faint golden glow from within"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/cave-dream/auspicious.png",
+      "alt_ko": "황금빛 동굴 속 꽃과 샘물, 승천하는 용 — 동굴 꿈 길몽",
+      "alt_en": "Luminous cave with blooming flowers, spring water, and ascending dragon — auspicious cave dream",
+      "prompt": "Inside a luminous cave filled with golden light, blooming flowers and flowing spring water, a majestic dragon ascending from the cave depths, warm golden sunrise tones and glittering crystals, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike auspicious atmosphere, no text, no people, warm earth tones golden light spring motifs"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/cave-dream/inauspicious.png",
+      "alt_ko": "무너지는 어두운 동굴과 그림자 속 여우 — 동굴 꿈 흉몽",
+      "alt_en": "Dark collapsing cave with shadowy fox lurking in the depths — inauspicious cave dream",
+      "prompt": "A dark foreboding cave with collapsing walls and deep shadows, a shadowy fox lurking in the darkness, a person trapped behind falling rocks, ominous cool blue and deep indigo tones, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike threatening atmosphere, no text, storm and night motifs, deep shadows"
+    }
+  ]
+}

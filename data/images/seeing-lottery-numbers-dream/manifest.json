@@ -1,0 +1,27 @@
+{
+  "slug": "seeing-lottery-numbers-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/seeing-lottery-numbers-dream/hero.png",
+    "alt_ko": "안개 낀 달빛 하늘 위에 황금빛으로 빛나는 로또 번호들이 떠 있는 꿈해몽 삽화",
+    "alt_en": "Glowing lottery numbers floating in a misty moonlit sky above a traditional Korean landscape, dream interpretation illustration",
+    "prompt": "Six glowing lottery numbers floating in a misty moonlit sky above a traditional Korean landscape, each number radiating soft golden light, ink-wash watercolor illustration style, Korean traditional painting aesthetic (한국화), dreamlike ethereal atmosphere, muted indigo and gold palette, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/seeing-lottery-numbers-dream/auspicious.png",
+      "alt_ko": "황금빛 로또 공들이 조상신의 빛과 함께 복 전통 탁자 위에 쏟아지는 길몽 삽화",
+      "alt_en": "Golden lottery balls cascading onto a traditional Korean fortune table with ancestral spirit light in the background, auspicious dream illustration",
+      "prompt": "Radiant golden lottery balls cascading from heavens onto a traditional Korean fortune table draped in silk, an ancestral spirit depicted as soft glowing light in background, warm sunrise colors, golden and amber tones, ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike atmosphere, no text, no faces"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/seeing-lottery-numbers-dream/inauspicious.png",
+      "alt_ko": "어두운 폭풍 바다 위로 사라지는 흐릿한 번호들, 기회를 놓치는 꿈 삽화",
+      "alt_en": "Faded blurry numbers dissolving into dark mist over a stormy night sea, lottery balls sinking, inauspicious dream illustration",
+      "prompt": "Faded blurry numbers dissolving into dark mist over a stormy night sea, lottery balls sinking into deep water, eerie cool blue and charcoal tones, storm clouds gathering, ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike foreboding atmosphere, no text, no people"
+    }
+  ]
+}

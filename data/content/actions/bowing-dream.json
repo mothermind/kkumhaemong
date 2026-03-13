@@ -347,10 +347,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/bowing-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/bowing-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/bowing-dream/auspicious.png",
-      "inauspicious": "/images/dreams/bowing-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/bowing-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/bowing-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

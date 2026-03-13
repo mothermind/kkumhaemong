@@ -1,0 +1,27 @@
+{
+  "slug": "car-dream",
+  "hero": {
+    "path": "/images/dreams/car-dream/hero.png",
+    "alt_ko": "한국 산길을 달리는 자동차 꿈해몽 일러스트",
+    "alt_en": "Car driving on a Korean mountain road, dream interpretation illustration",
+    "prompt": "A sleek car driving on an open Korean mountain road at dawn, soft ink-wash illustration style, Korean traditional painting aesthetic, dreamlike misty atmosphere, muted earth tones with golden sunrise light, winding road disappearing into mountains, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/car-dream/auspicious.png",
+      "alt_ko": "하늘을 나는 자동차 길몽 일러스트",
+      "alt_en": "Car soaring through golden clouds, auspicious dream illustration",
+      "prompt": "A gleaming new black car soaring through golden clouds above Korean mountains, soft watercolor illustration style, dreamlike radiant atmosphere, auspicious golden light, Korean traditional ink-wash aesthetic, sense of triumph and elevation, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/car-dream/inauspicious.png",
+      "alt_ko": "절벽 앞에 선 자동차 흉몽 일러스트",
+      "alt_en": "Car stopped at cliff edge in fog, inauspicious dream illustration",
+      "prompt": "A car stopped at the edge of a misty cliff road in Korea, soft ink-wash illustration style, somber blue-grey tones, foggy mountain atmosphere, car with brake lights glowing red, ominous dreamlike mood, Korean traditional painting aesthetic, no text, no people"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

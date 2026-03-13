@@ -289,10 +289,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/forgetting-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/forgetting-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/forgetting-dream/auspicious.png",
-      "inauspicious": "/images/dreams/forgetting-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/forgetting-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/forgetting-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

@@ -1,0 +1,27 @@
+{
+  "slug": "cockroach-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4",
+  "hero": {
+    "path": "/images/dreams/cockroach-dream/hero.png",
+    "alt_ko": "밤의 돌담 위에 홀로 앉아 있는 바퀴벌레 수묵화",
+    "alt_en": "Ink-wash illustration of a lone cockroach on a cracked stone wall at night",
+    "prompt": "A lone cockroach perched on a cracked stone wall in a dimly lit alley at night, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, deep indigo and charcoal tones with faint amber lantern glow, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/cockroach-dream/auspicious.png",
+      "alt_ko": "황금빛 꽃 사이에서 바퀴벌레를 잡는 길몽 수묵화",
+      "alt_en": "Ink-wash illustration of a cockroach caught in golden light amid blooming flowers — auspicious dream",
+      "prompt": "A cockroach being gently caught in open hands, surrounded by golden light and blooming flowers, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike warm atmosphere, golden sunrise tones, spring motifs, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/cockroach-dream/inauspicious.png",
+      "alt_ko": "어두운 부엌의 밥그릇 위를 가득 채운 바퀴벌레 수묵화",
+      "alt_en": "Ink-wash illustration of cockroaches swarming over dark bowls in a shadowy kitchen — inauspicious dream",
+      "prompt": "Cockroaches swarming over a dark rice bowl and cracked ceramic plates in a shadowy kitchen, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike foreboding atmosphere, deep navy and charcoal tones with cold moonlight, no text, no people"
+    }
+  ]
+}

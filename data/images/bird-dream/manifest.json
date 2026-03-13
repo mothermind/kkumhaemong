@@ -1,0 +1,27 @@
+{
+  "slug": "bird-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/bird-dream/hero.png",
+    "alt_ko": "새벽 안개가 자욱한 한국 산 위를 자유롭게 날아오르는 학 — 새꿈 해몽 대표 이미지",
+    "alt_en": "A solitary white crane soaring freely over misty Korean mountains at dawn — bird dream interpretation",
+    "prompt": "A solitary white crane soaring freely over a vast misty Korean mountain valley at dawn, traditional ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike ethereal atmosphere, wide panoramic view with layered mountain ridges dissolving into morning mist, subtle golden dawn light on the horizon, no text, no people, muted blues and whites with gold accents"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/bird-dream/auspicious.png",
+      "alt_ko": "전통 한옥 마당으로 새들이 날아들어 오는 길몽 장면",
+      "alt_en": "Colorful birds flying into a traditional Korean hanok home courtyard — auspicious bird dream",
+      "prompt": "A flock of colorful birds joyfully flying into a traditional Korean hanok home through the open wooden gate, soft watercolor illustration, Korean folk painting aesthetic, warm golden morning light flooding the courtyard, cherry blossoms falling gently, abundant and auspicious atmosphere, no text, no people, warm earth tones and golden yellows with soft pinks"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/bird-dream/inauspicious.png",
+      "alt_ko": "겨울 밤 앙상한 나뭇가지에 홀로 앉아 우는 검은 새 — 흉몽 이미지",
+      "alt_en": "A solitary black bird crying on a bare winter branch at night — inauspicious bird dream",
+      "prompt": "A solitary black bird perched on a bare winter branch at night, crying into the darkness, traditional ink-wash illustration, Korean brush painting aesthetic, deep indigo and black night sky, cold moonlight casting long shadows, dead branches against a stormy overcast sky, ominous and foreboding mood, no text, no people, deep blues blacks and cold grey tones"
+    }
+  ]
+}

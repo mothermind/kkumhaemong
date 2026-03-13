@@ -303,10 +303,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/locking-door-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/locking-door-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/locking-door-dream/auspicious.png",
-      "inauspicious": "/images/dreams/locking-door-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/locking-door-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/locking-door-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

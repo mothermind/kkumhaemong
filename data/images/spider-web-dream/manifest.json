@@ -1,0 +1,27 @@
+{
+  "slug": "spider-web-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4",
+  "hero": {
+    "path": "/images/dreams/spider-web-dream/hero.png",
+    "alt_ko": "대나무 사이에 펼쳐진 이슬 맺힌 거미줄, 한국화 스타일 수채화 일러스트",
+    "alt_en": "Intricate dew-covered spider web suspended between bamboo branches in a misty Korean mountain forest, ink-wash illustration",
+    "prompt": "An intricate spider web glistening with morning dew, suspended between bamboo branches in a misty Korean mountain forest, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, no text, no people, muted silver and pearl tones with subtle golden highlights"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/spider-web-dream/auspicious.png",
+      "alt_ko": "황금빛 햇살에 빛나는 거미줄, 재물운과 사업 확장을 상징하는 길몽 이미지",
+      "alt_en": "Radiant golden spider web in a sunlit Korean courtyard symbolizing fortune and business expansion",
+      "prompt": "A radiant golden spider web spreading wide across a sun-drenched Korean courtyard, strands catching warm light like threads of fortune, coins and flowers reflected in the dew drops, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), warm golden sunrise tones, spring blossoms, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/spider-web-dream/inauspicious.png",
+      "alt_ko": "폐가 내부를 가득 채운 어두운 거미줄, 흉몽과 얽매임을 상징하는 이미지",
+      "alt_en": "Dark tangled spider webs filling the interior of an abandoned Korean house, symbolizing entrapment and misfortune",
+      "prompt": "A dark tangled spider web filling the inside of an abandoned Korean house interior, thick sticky strands stretching from ceiling to floor in shadowy corners, moonlit night atmosphere, deep blues and cold grey shadows, dust motes floating, ink-wash illustration style, Korean traditional painting aesthetic (한국화), foreboding dreamlike mood, no text, no people"
+    }
+  ]
+}

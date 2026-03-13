@@ -1,0 +1,30 @@
+{
+  "slug": "parents-dying-dream",
+  "hero": {
+    "path": "/images/dreams/parents-dying-dream/hero.png",
+    "alt_ko": "안개 속 버드나무 아래 쉬는 노부부, 한 사람이 아침 안개 속으로 사라지는 수채화 일러스트",
+    "alt_en": "Elderly Korean couple resting under a willow tree in mist, one figure fading into the morning fog, watercolor illustration",
+    "prompt": "A gentle watercolor scene of an elderly Korean couple resting beneath a willow tree, mist softly surrounding them, one figure fading into the morning fog, dreamlike and ethereal atmosphere, Korean ink-wash style, soft golden and muted blue tones, peaceful and transcendent mood, no text",
+    "aspectRatio": "16:9"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/parents-dying-dream/auspicious.png",
+      "alt_ko": "햇빛 속 나비를 날려 보내는 꿈꾸는 사람, 해방과 행운을 상징하는 수채화 일러스트",
+      "alt_en": "A dreamer releasing glowing butterflies into a sunlit Korean landscape, symbolizing liberation and fortune, watercolor illustration",
+      "prompt": "A dreamer opening hands to release glowing butterflies into a sunlit Korean landscape, symbolizing liberation and fortune, soft watercolor illustration, Korean traditional painting aesthetic, warm golden and jade tones, serene and joyful mood, dreamlike atmosphere, no text",
+      "aspectRatio": "4:3"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/parents-dying-dream/inauspicious.png",
+      "alt_ko": "폭우 속 한국 소나무 아래 혼자 서 있는 인물, 어두운 먹그림 스타일의 꿈 일러스트",
+      "alt_en": "A lone figure standing in heavy rain beneath a dark Korean pine, dramatic ink-wash illustration in deep indigo and charcoal tones",
+      "prompt": "A lone figure standing in heavy rain beneath a dark Korean pine, looking toward a distant empty house, dramatic ink-wash illustration style, deep indigo and charcoal tones, somber and anxious mood, dreamlike quality, no text",
+      "aspectRatio": "4:3"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00Z",
+  "provider": "imagen4"
+}

@@ -337,10 +337,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/eating-delicious-food-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/eating-delicious-food-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/eating-delicious-food-dream/auspicious.png",
-      "inauspicious": "/images/dreams/eating-delicious-food-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/eating-delicious-food-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/eating-delicious-food-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

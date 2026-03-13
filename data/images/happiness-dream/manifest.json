@@ -1,0 +1,27 @@
+{
+  "slug": "happiness-dream",
+  "hero": {
+    "path": "/images/dreams/happiness-dream/hero.png",
+    "alt_ko": "복숭아꽃 나무 아래 가족이 함께 웃고 있는 행복한 꿈 장면, 한국 수묵화 스타일",
+    "alt_en": "A family sharing warm laughter beneath a blossoming peach tree, Korean ink-wash illustration style, golden dreamlike light",
+    "prompt": "A radiant scene of pure happiness — a family sharing warm laughter beneath a blossoming peach tree, golden afternoon light, soft ink-wash illustration style, Korean traditional painting aesthetic, dreamlike atmosphere, muted warm tones with gentle golden glow, no text"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/happiness-dream/auspicious.png",
+      "alt_ko": "촛불 아래 가족이 손을 맞잡고 행복하게 함께하는 장면, 따뜻한 수채화 스타일",
+      "alt_en": "A joyful family gathered around a table with warm candlelight, gentle smiles and clasped hands, soft watercolor style",
+      "prompt": "A joyful family gathered around a table with warm candlelight, gentle smiles and clasped hands, soft watercolor illustration style, Korean traditional aesthetic, dreamlike and serene atmosphere, warm amber tones, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/happiness-dream/inauspicious.png",
+      "alt_ko": "안개 낀 황혼 속에 홀로 서서 멀리 빛나는 창문을 바라보는 인물, 한국 수묵화 스타일",
+      "alt_en": "A solitary figure standing in misty twilight, gazing at a distant warm window, Korean ink-wash illustration style, melancholy dreamlike atmosphere",
+      "prompt": "A solitary figure standing in misty twilight, looking at a fading bright window from outside, ink-wash illustration style, Korean traditional painting aesthetic, dreamlike melancholy atmosphere, cool blue-grey tones with a distant warm glow, no text"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

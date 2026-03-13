@@ -1,0 +1,27 @@
+{
+  "slug": "sadness-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4",
+  "hero": {
+    "path": "/images/dreams/sadness-dream/hero.png",
+    "alt_ko": "창가에 앉아 눈물 흘리는 모습, 슬픈 꿈 해몽 삽화",
+    "alt_en": "A figure weeping by a misty window at dusk, illustration for sadness dream interpretation",
+    "prompt": "A lone figure seated by a misty window at dusk, tears glistening on cheeks, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike melancholic atmosphere, muted indigo and silver tones with soft candlelight glow, willow branches outside the window, no text, no harsh lines"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/sadness-dream/auspicious.png",
+      "alt_ko": "새벽 빛이 비치는 한옥 마을과 봄꽃, 슬픈 꿈의 길몽 해석 삽화",
+      "alt_en": "Golden dawn over a Korean village with spring blossoms, auspicious interpretation of sadness dream",
+      "prompt": "A dawn landscape with golden sunrise over a traditional Korean village, spring blossoms falling gently, a sealed letter tied with silk ribbon resting on a stone, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), warm golden and rose tones, hopeful and luminous atmosphere, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/sadness-dream/inauspicious.png",
+      "alt_ko": "폭풍 속 앙상한 겨울 나무와 꺼진 석등, 슬픈 꿈의 흉몽 해석 삽화",
+      "alt_en": "A barren winter tree in a storm with an extinguished lantern, inauspicious interpretation of sadness dream",
+      "prompt": "A stormy night sky over a barren winter tree, rain pouring down, a cracked stone lantern with extinguished flame, dry riverbed with scattered fallen leaves, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), deep midnight blue and charcoal grey tones, desolate and foreboding atmosphere, no text, no people"
+    }
+  ]
+}

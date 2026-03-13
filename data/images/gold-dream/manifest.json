@@ -1,0 +1,27 @@
+{
+  "slug": "gold-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4",
+  "hero": {
+    "path": "/images/dreams/gold-dream/hero.png",
+    "alt_ko": "찬란하게 빛나는 황금 동전과 금괴가 비단 위에 놓인 꿈 속 장면",
+    "alt_en": "Radiant gold coins and golden ingots resting on silk in a dreamlike Korean illustration",
+    "prompt": "A radiant pile of ancient Korean gold coins and golden ingots resting on a silk cloth, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, warm golden light radiating outward, no text, no people, rich earth tones with brilliant gold highlights"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/gold-dream/auspicious.png",
+      "alt_ko": "황금빛 햇살이 가득한 전통 한국 방 안의 금화와 금괴",
+      "alt_en": "Golden sunlight flooding a traditional Korean room with gold coins and ingots, auspicious fortune",
+      "prompt": "Golden sunlight flooding a traditional Korean room, gold coins and glowing gold ingots arranged on a lacquered table with blooming plum blossoms nearby, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, warm sunrise golden tones, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/gold-dream/inauspicious.png",
+      "alt_ko": "어두운 폭풍 구름 아래 갈라진 땅에 버려진 금반지, 흉몽 상징",
+      "alt_en": "A gold ring abandoned on dark cracked earth under storm clouds at night, inauspicious gold dream",
+      "prompt": "A gold ring lying abandoned on dark cracked earth, deep shadows consuming the scene, a single faded golden glow under storm clouds at night, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike foreboding atmosphere, cool blue-grey tones with muted tarnished gold, no text, no people"
+    }
+  ]
+}

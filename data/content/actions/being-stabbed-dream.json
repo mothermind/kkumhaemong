@@ -358,10 +358,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/being-stabbed-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/being-stabbed-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/being-stabbed-dream/auspicious.png",
-      "inauspicious": "/images/dreams/being-stabbed-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/being-stabbed-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/being-stabbed-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

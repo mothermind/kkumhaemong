@@ -1,0 +1,27 @@
+{
+  "slug": "dead-person-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4",
+  "hero": {
+    "path": "/images/dreams/dead-person-dream/hero.png",
+    "alt_ko": "안개 속 이승과 저승의 경계에 서 있는 조상의 영혼 — 죽은 사람 꿈 해몽",
+    "alt_en": "An ancestral spirit standing at the misty threshold between the living and spirit worlds — dream of a dead person",
+    "prompt": "A misty ancestral spirit standing at the threshold between worlds, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike ethereal atmosphere, spirit figure radiating gentle white light, moonlit fog, ancient pine trees, muted silver and blue tones"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/dead-person-dream/auspicious.png",
+      "alt_ko": "황금빛 축복을 내리는 조상의 영혼 — 죽은 사람 웃는 꿈 길몽",
+      "alt_en": "Ancestor spirit offering golden blessings — auspicious dead person dream",
+      "prompt": "Ancestor spirit offering golden light and blessings to descendants, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), warm golden sunrise, cherry blossoms, flowing robes, joyful ethereal glow, warm amber and gold tones, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/dead-person-dream/inauspicious.png",
+      "alt_ko": "어두운 안개 속에서 슬피 우는 고인의 영혼 — 죽은 사람 우는 꿈 흉몽",
+      "alt_en": "Sorrowful ancestral spirit weeping in dark mist — inauspicious dead person dream",
+      "prompt": "Sorrowful ancestral spirit weeping in dark mist, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dark moonlit night, bare winter branches, deep indigo and shadow tones, ghostly ethereal sorrow, no text"
+    }
+  ]
+}

@@ -290,10 +290,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/elevator-falling-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/elevator-falling-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/elevator-falling-dream/auspicious.png",
-      "inauspicious": "/images/dreams/elevator-falling-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/elevator-falling-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/elevator-falling-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

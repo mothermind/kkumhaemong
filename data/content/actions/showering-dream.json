@@ -327,10 +327,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/showering-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/showering-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/showering-dream/auspicious.png",
-      "inauspicious": "/images/dreams/showering-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/showering-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/showering-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

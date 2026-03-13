@@ -286,7 +286,10 @@
           "name": "꿈해몽 (kkumhaemong.com)",
           "url": "https://kkumhaemong.com"
         },
-        "inLanguage": ["ko", "en"],
+        "inLanguage": [
+          "ko",
+          "en"
+        ],
         "about": {
           "@type": "Thing",
           "name": "Dream Interpretation - Hunting"
@@ -317,10 +320,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/hunting-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/hunting-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/hunting-dream/auspicious.png",
-      "inauspicious": "/images/dreams/hunting-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/hunting-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/hunting-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

@@ -1,0 +1,27 @@
+{
+  "slug": "winning-lottery-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4",
+  "hero": {
+    "path": "/images/dreams/winning-lottery-dream/hero.png",
+    "alt_ko": "황금빛 빛살이 쏟아지는 복권 당첨 꿈 일러스트",
+    "alt_en": "Ink-wash illustration of a glowing winning lottery ticket bathed in golden light",
+    "prompt": "A winning lottery ticket glowing with golden light on a wooden table, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, warm golden and amber tones, rays of fortune light, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/winning-lottery-dream/auspicious.png",
+      "alt_ko": "황금 동전과 복권이 쏟아지는 재물운 길몽 일러스트",
+      "alt_en": "Ink-wash illustration of golden coins and lottery tickets cascading in warm sunrise light with fortune symbols",
+      "prompt": "Golden coins and lottery tickets cascading in warm sunrise light, a lucky pig figurine and fortune symbols nearby, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, rich golden and orange tones, prosperity and abundance, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/winning-lottery-dream/inauspicious.png",
+      "alt_ko": "찢어진 복권이 빗속에 버려진 흉몽 일러스트",
+      "alt_en": "Ink-wash illustration of a torn lottery ticket on dark rainy ground under cold blue moonlight",
+      "prompt": "A torn lottery ticket lying on a dark rainy ground, scattered crumpled papers, cold blue moonlight, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, deep blues and grey shadows, sense of lost opportunity, no text, no people"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "grape-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4",
+  "hero": {
+    "path": "/images/dreams/grape-dream/hero.png",
+    "alt_ko": "포도송이가 주렁주렁 달린 포도 덩굴, 한국화 수묵화 스타일",
+    "alt_en": "Lush grape clusters hanging from a misty vine, Korean ink-wash illustration style",
+    "prompt": "A lush cluster of deep purple grapes hanging from a misty vine, morning dew on each berry, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, no text, no people, muted earth tones with rich purple and green accents"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/grape-dream/auspicious.png",
+      "alt_ko": "황금빛 햇살 아래 탐스러운 포도가 주렁주렁 달린 포도나무, 풍요와 길몽을 상징",
+      "alt_en": "Golden sunlit grapevines heavy with ripe grapes symbolizing abundance and good fortune",
+      "prompt": "Golden sunlit grapevines heavy with ripe purple and golden grapes, warm harvest morning light, abundance and prosperity symbolism, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike golden atmosphere, no text, no people, warm earth tones with golden sunrise light"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/grape-dream/inauspicious.png",
+      "alt_ko": "시든 포도 덩굴과 썩어가는 포도, 폭풍 밤의 어두운 분위기, 흉몽을 상징",
+      "alt_en": "Withered grapevine with shriveled falling grapes in a stormy dark night, symbolizing inauspicious dreams",
+      "prompt": "Withered grapevine with shriveled dark grapes falling to the ground, stormy night atmosphere, deep shadows, warning and foreboding mood, soft ink-wash illustration, Korean traditional painting aesthetic (한국화), dreamlike dark atmosphere, no text, no people, cool blues and deep charcoal shadows with faded purple tones"
+    }
+  ]
+}

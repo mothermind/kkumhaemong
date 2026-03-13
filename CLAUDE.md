@@ -17,11 +17,11 @@ A comprehensive bilingual (Korean + English) Korean dream interpretation website
 | Framework | Next.js 16 (App Router) | React 19, React Compiler enabled |
 | Language | TypeScript | strict mode |
 | Styling | Tailwind CSS v4 | mobile-first |
-| Hosting | Cloudflare (via `@opennextjs/cloudflare`) | Cloudflare Workers/Pages, NOT Vercel |
+| Hosting | Vercel Hobby | Migrating FROM Cloudflare Workers — see Open Decisions |
 | i18n | `next-intl` | `/[locale]/` route prefix |
 | Package manager | npm | |
 
-**Important**: Runs on Cloudflare Workers via OpenNext with Node.js compat mode. `fs/promises` and `path` are used in `server-only` lib files for data access — this works because Cloudflare Workers Node.js compat supports `fs`. Never use `fs` in client components or non-server code.
+**Important**: Migrating to Firebase (Storage + Firestore) + Vercel Hobby. Content JSON will move from `data/content/` filesystem to Firestore. Images will move from `public/images/dreams/` to Firebase Storage. `fs/promises` stays for taxonomy files only (small/stable). Never use `fs` in client components or non-server code.
 
 ---
 
@@ -346,61 +346,45 @@ All hooks are minimal — logging + security only, no TTS, no external API calls
 
 ---
 
-## Current State (last updated: 2026-03-12)
+## Current State (last updated: 2026-03-13)
 
-### Content Pipeline Progress
-- **actions.json: 161 / 161 complete** ✅ — all action dream symbols have content + images
-- Content files live in `data/content/actions/` (category subfolder, not flat)
-- `src/lib/content.ts` supports subdirectory scanning (one level deep: `data/content/{category}/{slug}.json`)
+### Content Pipeline Progress — PHASE 1 COMPLETE ✅
+- **Total articles with content + images: ~401** (161 actions + 240 research-phase symbols)
+- Content files live in `data/content/{category}/{slug}.json` (category subfolder structure)
+- `src/lib/content.ts` supports subdirectory scanning (one level deep)
+- **One known issue**: `crossing-river-dream` content is complete but images are empty placeholders (Imagen 4 returned 403 mid-batch). Prompts saved in `data/images/crossing-river-dream/manifest.json` — retry when convenient.
 
-### Research Phase Progress (top-10 per category from `data/research/_plan.json`)
-- **animals**: 10/10 ✅
-- **body**: 10/10 ✅
-- **celestial**: 10/10 ✅
-- **clothing**: 10/10 ✅
-- **colors**: 10/10 ✅
-- **death**: 10/10 ✅
-- **disasters**: 10/10 ✅
-- **emotions**: 5/10 — remaining: anger, embarrassment, love, frustration, betrayal
-- **fire**: 1/10 — remaining: fire, house-fire, big-fire, extinguishing-fire, candle, body-on-fire, smoke, explosion, fireworks
-- **food**: 0/10
-- **insects**: 0/10
-- **marriage**: 0/10
-- **money**: 0/10
-- **nature**: 0/10
-- **numbers**: 0/10
-- **objects**: 0/10
-- **people**: 0/10
-- **places**: 0/10
-- **plants**: 0/10
-- **pregnancy**: 0/10
-- **spirits**: 0/10
-- **transportation**: 0/10
-- **water**: 0/10
-- **weather**: 0/10
-- **Total missing**: 164 research files remaining
+### All 24 Categories — Research + Content Complete ✅
+- actions: 161/161 ✅
+- animals, body, celestial, clothing, colors, death: 10/10 ✅
+- disasters: 9/10 ✅ (car-accident-dream canonical to actions)
+- emotions, fire, food, insects, marriage, money, nature: 10/10 ✅
+- numbers: 9/10 ✅ (winning-lottery-dream canonical to money)
+- objects, people, places, plants, pregnancy, spirits, transportation, water, weather: 10/10 ✅
 
 ### Pipeline to run next articles
-1. Complete research phase: run `dream-research-agent` in batches of **6** (not more — avoid rate limits)
-2. After all research done: run `dream-content-agent` for each symbol (reads research → generates content + images)
-3. Content agent calls Imagen 4 (`imagen-4.0-generate-001`) via Google Generative Language API
-4. `source ~/.zshrc` required in bash for GOOGLE_API_KEY
+1. Content agent calls Imagen 4 (`imagen-4.0-generate-001`) via Google Generative Language API
+2. `source ~/.zshrc` required in bash for GOOGLE_API_KEY
+3. Batch size: **6 agents max** in parallel
 
 ---
 
 ## Open Decisions
 
 - [x] ~~Domain name~~ → **kkumhaemong.com** purchased ✅
-- [ ] **URGENT — Image storage migration to Cloudflare R2**: `public/images/dreams/` is 795 MB tracked in git. Git object store is 809 MB. Cannot push to GitHub or deploy to Cloudflare Workers as-is (Workers bundle limit ~25 MB). Plan: upload images to R2, update image URLs in content JSONs from `/images/dreams/{slug}/...` to `https://<r2-domain>/images/dreams/{slug}/...`, add `public/images/dreams/` to `.gitignore`.
-- [ ] Image generation provider: DALL-E 3 vs Replicate/SD
 - [x] ~~Homepage redesign~~ → Hero image + searchbar + category chips + popular dreams list ✅
 - [x] ~~Explorer UI~~ → `/explore` category grid + `/explore/[category]` with subcategory filter pills ✅
 - [x] ~~Bash permission for subagents~~ → `Bash(*)` in `.claude/settings.json` allow list ✅
+- [ ] **URGENT — Infrastructure migration** (replaces Cloudflare R2 plan):
+  - **Images**: Upload `public/images/dreams/` (795 MB) to **Firebase Storage**, update image URLs in content JSONs, add `public/images/dreams/` to `.gitignore`
+  - **Content JSON**: Migrate `data/content/{category}/{slug}.json` files to **Firestore** (one doc per article, keyed by slug)
+  - **Hosting**: Remove `@opennextjs/cloudflare`, deploy to **Vercel Hobby**
+  - **`src/lib/content.ts`**: Replace `fs` reads with Firestore SDK
+  - **`src/lib/taxonomy.ts`**: Keep on filesystem (small/stable)
+- [ ] Fix `crossing-river-dream` images (retry Imagen 4 — prompts in `data/images/crossing-river-dream/manifest.json`)
 - [ ] Ad slot implementation: replace placeholder divs with real AdSense + Kakao AdFit units
 - [ ] Naver Blog mirroring: manual vs semi-automated
-- [ ] CI/CD pipeline for batch content generation
 - [ ] Rename `src/middleware.ts` → `src/proxy.ts` (Next.js 16 deprecation)
-- [ ] Cloudflare KV migration for content data (when `data/` directory grows too large for the Worker bundle)
 
 ## Competitive Landscape
 

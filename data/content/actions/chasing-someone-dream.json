@@ -279,10 +279,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/chasing-someone-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/chasing-someone-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/chasing-someone-dream/auspicious.png",
-      "inauspicious": "/images/dreams/chasing-someone-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/chasing-someone-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/chasing-someone-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

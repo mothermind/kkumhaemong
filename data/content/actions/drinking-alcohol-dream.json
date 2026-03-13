@@ -338,10 +338,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/drinking-alcohol-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/drinking-alcohol-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/drinking-alcohol-dream/auspicious.png",
-      "inauspicious": "/images/dreams/drinking-alcohol-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/drinking-alcohol-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/drinking-alcohol-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

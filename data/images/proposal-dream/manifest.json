@@ -1,0 +1,27 @@
+{
+  "slug": "proposal-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4",
+  "hero": {
+    "path": "/images/dreams/proposal-dream/hero.png",
+    "alt_ko": "달빛 아래 벚꽃 위에 놓인 반짝이는 다이아몬드 반지 — 프로포즈 꿈 해몽",
+    "alt_en": "A glowing diamond ring resting on white cherry blossoms under moonlight — proposal dream illustration",
+    "prompt": "A glowing diamond ring resting on a bed of white cherry blossoms under a moonlit spring night, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, no text, no people, soft ivory and silver tones with warm golden light"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/proposal-dream/auspicious.png",
+      "alt_ko": "복사꽃 아래 황금빛 프로포즈 반지 — 길몽 프로포즈 꿈",
+      "alt_en": "A golden engagement ring beneath blooming peach blossoms in warm sunrise light — auspicious proposal dream",
+      "prompt": "A golden engagement ring held out beneath a canopy of blooming peach blossoms, warm sunrise light streaming through the petals, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, no text, no people, warm golden and peach tones"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/proposal-dream/inauspicious.png",
+      "alt_ko": "빗속 계단 위 빈 반지함 — 흉몽 프로포즈 꿈",
+      "alt_en": "An empty velvet ring box on rain-wet stone steps at night — inauspicious proposal dream",
+      "prompt": "An empty velvet ring box lying open on rain-wet stone steps at night, a single wilted rose petal nearby, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, no text, no people, deep navy blue and charcoal tones with muted cold light"
+    }
+  ]
+}

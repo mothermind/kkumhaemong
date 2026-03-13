@@ -1,0 +1,27 @@
+{
+  "slug": "riding-boat-dream",
+  "hero": {
+    "path": "/images/dreams/riding-boat-dream/hero.png",
+    "alt_ko": "새벽 안개 속 잔잔한 물 위를 떠가는 나무 배 — 배 타는 꿈 해몽",
+    "alt_en": "A wooden boat drifting on calm misty waters at dawn — Korean boat dream interpretation",
+    "prompt": "A wooden boat sailing on calm misty Korean waters at dawn, soft ink-wash illustration style, Korean traditional painting aesthetic, dreamlike atmosphere, reeds and distant mountains reflected in glassy water, warm golden light on the horizon, muted earth tones with subtle golden highlights, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/riding-boat-dream/auspicious.png",
+      "alt_ko": "화물 가득 싣고 항구에 입항하는 배 — 재물 길몽",
+      "alt_en": "A grand vessel arriving at harbor with golden cargo — auspicious wealth omen",
+      "prompt": "A grand vessel arriving at a Korean harbor at sunrise, cargo hold overflowing with golden light, soft ink-wash illustration style, Korean traditional painting aesthetic, auspicious and joyful mood, cranes flying overhead, glittering water, muted warm tones with gold accents, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/riding-boat-dream/inauspicious.png",
+      "alt_ko": "폭풍 속 위태롭게 기울어진 배 — 흉몽 경고",
+      "alt_en": "A small boat tilting dangerously in dark stormy waves — inauspicious warning",
+      "prompt": "A small wooden boat tilting dangerously in dark stormy waters, turbulent waves crashing, dramatic ink-wash illustration style, Korean traditional painting aesthetic, ominous dark clouds, deep navy and charcoal tones with cold grey highlights, dreamlike but foreboding atmosphere, no text, no people"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

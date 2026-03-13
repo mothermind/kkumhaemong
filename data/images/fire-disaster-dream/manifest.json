@@ -1,0 +1,27 @@
+{
+  "slug": "fire-disaster-dream",
+  "hero": {
+    "path": "/images/dreams/fire-disaster-dream/hero.png",
+    "alt_ko": "한국 전통 가옥이 활활 타오르는 화재 꿈 해몽 대표 이미지",
+    "alt_en": "Traditional Korean house engulfed in magnificent blazing flames — fire disaster dream",
+    "prompt": "A traditional Korean house engulfed in magnificent blazing flames at night, towering fire with brilliant orange and gold light, dreamlike atmosphere, ink-wash illustration style, Korean traditional painting aesthetic, dramatic chiaroscuro, warm glowing embers floating upward like lanterns, misty mountain background, symbolic purification energy, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/fire-disaster-dream/auspicious.png",
+      "alt_ko": "황금빛 불꽃이 높이 치솟는 화재 길몽 이미지 — 재물운과 번창",
+      "alt_en": "Brilliant golden flames rising high — auspicious fire dream symbolizing wealth and fortune",
+      "prompt": "Brilliant golden flames rising high into a night sky, auspicious Korean folk art style illustration, a traditional building surrounded by majestic fire with radiant light, gold and red tones symbolizing wealth and fortune, coins and prosperity symbols visible in the flames, dreamlike and celebratory atmosphere, soft watercolor wash technique, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/fire-disaster-dream/inauspicious.png",
+      "alt_ko": "짙은 검은 연기가 피어오르는 화재 흉몽 이미지 — 갈등과 손실 경고",
+      "alt_en": "Dark billowing smoke from a burning building — inauspicious fire dream warning of conflict and loss",
+      "prompt": "Dark billowing smoke rising from a burning building at night, ominous and foreboding atmosphere, Korean ink-wash illustration style, deep charcoal and dark grey tones, flames barely visible beneath thick black smoke, desolate mood, crumbling structure in background, warning and danger symbolism, dreamlike quality, no text, no people"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

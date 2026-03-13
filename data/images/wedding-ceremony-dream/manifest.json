@@ -1,0 +1,27 @@
+{
+  "slug": "wedding-ceremony-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/wedding-ceremony-dream/hero.png",
+    "alt_ko": "꿈속 전통 한국 혼례식장 — 비단 장막과 홍촉대가 있는 신비로운 분위기",
+    "alt_en": "A dreamlike traditional Korean wedding hall with silk drapery and golden candlelight",
+    "prompt": "Traditional Korean wedding ceremony hall filled with silk-draped tables and crimson candles, golden hanji lanterns casting warm light on an empty altar, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, no text, no people, warm gold and ivory palette"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/wedding-ceremony-dream/auspicious.png",
+      "alt_ko": "황금빛 일출과 벚꽃이 내리는 기쁜 전통 혼례 길몽 이미지",
+      "alt_en": "A warm auspicious Korean wedding scene with golden sunrise and cherry blossoms",
+      "prompt": "Vibrant Korean traditional wedding ceremony with a wooden goose on an ornate table, golden sunrise streaming through paper windows, cherry blossoms floating through the air, red and gold ceremonial fabrics, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike warm atmosphere, no text, no people, warm gold sunrise palette"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/wedding-ceremony-dream/inauspicious.png",
+      "alt_ko": "혼례가 중단된 어두운 빈 식장 — 흉몽을 암시하는 폭풍 이미지",
+      "alt_en": "A dark abandoned Korean wedding hall with storm clouds — inauspicious omen imagery",
+      "prompt": "A dark abandoned Korean wedding hall, overturned ceremonial table, wilted flowers scattered on the floor, dramatic storm clouds visible through broken windows, cool blue and deep grey tones, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), ominous dreamlike atmosphere, no text, no people, deep blue and shadow palette"
+    }
+  ]
+}

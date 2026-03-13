@@ -351,10 +351,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/getting-dressed-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/getting-dressed-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/getting-dressed-dream/auspicious.png",
-      "inauspicious": "/images/dreams/getting-dressed-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/getting-dressed-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/getting-dressed-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

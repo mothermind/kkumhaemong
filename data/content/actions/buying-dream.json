@@ -347,10 +347,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/buying-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/buying-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/buying-dream/auspicious.png",
-      "inauspicious": "/images/dreams/buying-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/buying-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/buying-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

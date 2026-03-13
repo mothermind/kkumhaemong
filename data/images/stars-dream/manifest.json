@@ -1,0 +1,27 @@
+{
+  "slug": "stars-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/stars-dream/hero.png",
+    "alt_ko": "밤하늘 가득 반짝이는 별들과 한국 산봉우리의 수묵화 일러스트",
+    "alt_en": "Ink-wash illustration of countless stars filling a night sky above misty Korean mountains",
+    "prompt": "countless stars brilliantly filling a vast night sky over misty Korean mountains, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmospheric depth, moonless sky with the Milky Way arc, cool indigo and silver palette, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/stars-dream/auspicious.png",
+      "alt_ko": "황금빛 별이 두 손 안으로 떨어지는 길몽 수묵화 일러스트",
+      "alt_en": "Ink-wash illustration of a luminous star falling into open hands bathed in golden light",
+      "prompt": "a single luminous star falling gently into open cupped hands, golden warm light radiating from the star, cherry blossoms drifting in spring breeze, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, auspicious golden sunrise palette, dreamlike atmosphere, no text, no faces"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/stars-dream/inauspicious.png",
+      "alt_ko": "먹구름이 별을 가리고 별이 땅으로 추락하는 흉몽 수묵화 일러스트",
+      "alt_en": "Ink-wash illustration of storm clouds swallowing stars as one falls toward barren ground",
+      "prompt": "dark storm clouds swallowing and obscuring stars one by one, a lone star falling from a turbulent sky toward barren ground, cold deep blue and charcoal palette, ink-wash illustration style, Korean traditional painting aesthetic, foreboding atmosphere, no text, no people"
+    }
+  ]
+}

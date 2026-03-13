@@ -1,0 +1,27 @@
+{
+  "slug": "storm-dream",
+  "hero": {
+    "path": "/images/dreams/storm-dream/hero.png",
+    "alt_ko": "폭풍이 몰아치는 한국 전통 산골 마을의 밤, 먹빛 구름과 번개",
+    "alt_en": "A fierce storm with lightning over a traditional Korean mountain village at night",
+    "prompt": "A fierce storm over a traditional Korean mountain village at night, dark swirling clouds with lightning illuminating the sky, ink-wash illustration style, Korean traditional painting aesthetic, dramatic and dreamlike atmosphere, heavy rain and wind bending ancient pine trees, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/storm-dream/auspicious.png",
+      "alt_ko": "폭풍 뒤 맑은 하늘과 무지개, 한국 전통 기와 지붕 위로 금빛 햇살",
+      "alt_en": "Clear sky and rainbow after a storm over traditional Korean tiled rooftops",
+      "prompt": "Clear sky and golden sunlight breaking through storm clouds after heavy rain, a rainbow arcing over Korean traditional tiled rooftops, soft watercolor illustration style, dreamlike and hopeful atmosphere, lush greenery glistening with rain drops, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/storm-dream/inauspicious.png",
+      "alt_ko": "폭풍에 지붕이 무너지고 소나무가 뽑힌 한국 전통 가옥의 잔해",
+      "alt_en": "A traditional Korean house with collapsed roof and uprooted pine trees after a devastating storm",
+      "prompt": "A traditional Korean house with collapsed roof and uprooted pine trees after a devastating storm, dark stormy sky, ink-wash illustration style, Korean traditional painting aesthetic, muted gray and black tones, sense of destruction and foreboding, no text, no people"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

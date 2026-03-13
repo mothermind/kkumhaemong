@@ -258,7 +258,10 @@
         "description": "Comprehensive Korean and Western interpretation of dreaming about running without making forward progress — covering career, financial, health, and psychological dimensions.",
         "datePublished": "2026-03-11",
         "dateModified": "2026-03-11",
-        "inLanguage": ["ko", "en"],
+        "inLanguage": [
+          "ko",
+          "en"
+        ],
         "author": {
           "@type": "Organization",
           "name": "꿈해몽 (Kkumhaemong)"
@@ -300,10 +303,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/running-not-moving-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/running-not-moving-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/running-not-moving-dream/auspicious.png",
-      "inauspicious": "/images/dreams/running-not-moving-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/running-not-moving-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/running-not-moving-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

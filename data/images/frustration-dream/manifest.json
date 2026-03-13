@@ -1,0 +1,30 @@
+{
+  "slug": "frustration-dream",
+  "hero": {
+    "path": "/images/dreams/frustration-dream/hero.png",
+    "alt_ko": "짙은 안개 속에서 손을 뻗으며 앞으로 나아가지 못하는 인물 — 답답한 꿈을 표현한 한국화 스타일의 몽환적 삽화",
+    "alt_en": "A figure reaching toward distant light in thick fog, unable to move forward — dreamlike ink-wash illustration representing a frustration dream",
+    "prompt": "A person standing alone in a thick fog, reaching out toward a distant light that is just barely visible, unable to move forward, soft ink-wash illustration style, Korean traditional painting aesthetic, dreamlike atmosphere, muted indigo and grey tones with a faint golden glow in the distance, no text, surreal and emotionally evocative",
+    "aspectRatio": "16:9"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/frustration-dream/auspicious.png",
+      "alt_ko": "갈라진 돌담 틈으로 빛이 쏟아지고 꽃이 피어나는 장면 — 막혔던 답답함이 해소되는 역몽을 표현한 삽화",
+      "alt_en": "Bright light streaming through a cracked stone wall with flowers blooming at the base — illustration of the reversal dream where frustration gives way to breakthrough",
+      "prompt": "A cracked stone wall with bright light streaming through the fracture, flowers beginning to bloom at the base, soft ink-wash illustration style, Korean traditional painting aesthetic, dreamlike atmosphere, warm golden and pale green tones, no text, symbol of breakthrough and hope",
+      "aspectRatio": "4:3"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/frustration-dream/inauspicious.png",
+      "alt_ko": "입을 벌리고 소리를 지르지만 목소리가 나오지 않는 인물 — 흉몽으로서의 답답한 꿈을 표현한 수묵화 스타일 삽화",
+      "alt_en": "A figure with mouth open in a silent scream, surrounded by dark fog — ink-wash illustration representing the inauspicious frustration dream",
+      "prompt": "A figure with mouth open in a silent scream, surrounded by thick dark fog, shadowy chains wrapping around the body but not quite touching, soft ink-wash illustration style, Korean traditional painting aesthetic, dreamlike and unsettling atmosphere, deep indigo and charcoal tones, no text, emotionally evocative",
+      "aspectRatio": "4:3"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "white-snake-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/white-snake-dream/hero.png",
+    "alt_ko": "안개 낀 산속 바위 위에 서린 신성한 흰뱀 — 수묵화 스타일 꿈 일러스트",
+    "alt_en": "A luminous white serpent coiled on moss-covered rocks in a misty mountain valley — ink-wash dream illustration",
+    "prompt": "A luminous white serpent coiled serenely on ancient moss-covered rocks in a misty mountain valley, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike ethereal atmosphere, moonlight filtering through bamboo, silver and pearl white tones with subtle gold accents, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/white-snake-dream/auspicious.png",
+      "alt_ko": "황금빛 새벽 하늘을 향해 승천하는 흰뱀 — 재물운과 길몽을 상징하는 한국화 일러스트",
+      "alt_en": "A radiant white serpent ascending toward golden dawn clouds — auspicious wealth and fortune illustration in Korean painting style",
+      "prompt": "A radiant white serpent gracefully ascending toward golden clouds at sunrise, coiled around an ancient pine tree, warm golden light and soft orange dawn glow, coins and treasure glimmering below, ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), auspicious and majestic atmosphere, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/white-snake-dream/inauspicious.png",
+      "alt_ko": "폭풍 속 어두운 그림자로 사라지는 창백한 흰뱀 — 흉몽을 상징하는 수묵화 일러스트",
+      "alt_en": "A pale white serpent disappearing into dark stormy shadows — inauspicious omen illustration in ink-wash style",
+      "prompt": "A pale white serpent vanishing into dark stormy shadows, bare winter branches and mist, deep indigo and slate blue tones, a lantern flickering in the distance, foreboding and melancholic atmosphere, ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), no text, no people"
+    }
+  ]
+}

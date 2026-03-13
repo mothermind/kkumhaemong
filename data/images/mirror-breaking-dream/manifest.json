@@ -1,0 +1,27 @@
+{
+  "slug": "mirror-breaking-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4",
+  "hero": {
+    "path": "/images/dreams/mirror-breaking-dream/hero.png",
+    "alt_ko": "차갑고 안개 낀 돌바닥 위로 산산조각 난 거울 파편들이 달빛을 받아 빛나는 몽환적인 수묵화 일러스트",
+    "alt_en": "A large ornate mirror shattering on a misty stone floor, shards catching cold moonlight in a dreamlike ink-wash illustration",
+    "prompt": "A large ornate mirror shattering into fragments on a misty stone floor, shards catching cold moonlight, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, muted silver and deep indigo tones, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/mirror-breaking-dream/auspicious.png",
+      "alt_ko": "금빛 아침 햇살 속에서 스스로 합쳐지는 거울 파편들, 매화꽃이 반사된 따뜻한 희망의 수묵화",
+      "alt_en": "A cracked mirror slowly piecing back together in warm golden morning light with plum blossoms reflected in the shards",
+      "prompt": "A cracked mirror slowly piecing itself back together in golden morning light, radiating warm glowing beams, plum blossoms reflected in the reforming shards, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike hopeful atmosphere, warm gold and rose tones, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/mirror-breaking-dream/inauspicious.png",
+      "alt_ko": "폭풍 치는 밤하늘 아래 젖은 땅 위에 흩어진 거울 파편들, 칙칙한 먹빛과 차가운 청색의 불길한 수묵화",
+      "alt_en": "Broken mirror shards scattered on dark wet ground under a stormy night sky, jagged reflections of dark clouds and bare winter branches",
+      "prompt": "Broken mirror shards scattered on dark wet ground under a stormy night sky, jagged reflections of dark clouds and bare winter branches, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), heavy atmosphere of foreboding, deep charcoal and cold blue tones, no text, no people"
+    }
+  ]
+}

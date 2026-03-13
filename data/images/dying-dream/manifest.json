@@ -1,0 +1,30 @@
+{
+  "slug": "dying-dream",
+  "hero": {
+    "path": "/images/dreams/dying-dream/hero.png",
+    "alt_ko": "새벽 안개 속 한국 산 위로 빛 속에 녹아드는 형상 — 죽음과 재탄생의 꿈 상징",
+    "alt_en": "A serene figure dissolving into golden light above a misty Korean mountain at dawn — symbolizing death and rebirth in a dream",
+    "prompt": "A serene figure dissolving into luminous golden light against a misty Korean mountainscape at dawn, soft ink-wash illustration style, Korean traditional painting aesthetic, dreamlike atmosphere, the soul ascending peacefully through mist and cherry blossoms, death-rebirth transformation symbolism, muted earth tones with ethereal golden and pearl highlights, no text",
+    "aspectRatio": "16:9"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/dying-dream/auspicious.png",
+      "alt_ko": "고요한 달빛 아래 피어나는 연꽃 — 죽음 후 새로운 탄생과 길몽의 상징",
+      "alt_en": "A lotus flower blooming beneath a full moon in still water — symbolizing auspicious rebirth after death in a dream",
+      "prompt": "A lotus flower blooming from still water beneath a full moon, golden light radiating upward, soft ink-wash illustration style, Korean traditional painting aesthetic, auspicious dream symbolism, renewal and rebirth, warm golden and white tones, no text",
+      "aspectRatio": "4:3"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/dying-dream/inauspicious.png",
+      "alt_ko": "어두운 달빛 아래 가시덤불에 엉킨 인물 — 고통스러운 죽음 꿈의 심리적 갈등 상징",
+      "alt_en": "A solitary figure tangled in dark thorny vines under dim moonlight — symbolizing inner conflict in a frightening death dream",
+      "prompt": "A solitary figure in dim moonlight, tangled in dark thorny vines, expression of anguish and struggle, soft ink-wash illustration style, Korean traditional painting aesthetic, moody blue-grey tones, symbolic of inner conflict and suppressed fear, no text",
+      "aspectRatio": "4:3"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00Z",
+  "provider": "imagen4"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "number-two-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4",
+  "hero": {
+    "path": "/images/dreams/number-two-dream/hero.png",
+    "alt_ko": "음양 문양으로 이루어진 숫자 2와 쌍학이 날아오르는 한국화 스타일 몽환적 일러스트",
+    "alt_en": "The numeral 2 formed from yin-yang symbols with paired cranes in Korean ink-wash dream illustration",
+    "prompt": "The numeral 2 formed from intertwined yin and yang symbols floating above misty mountain peaks, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, muted indigo and gold tones, paired cranes flying in harmony, no text"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/number-two-dream/auspicious.png",
+      "alt_ko": "두 마리 황금 학과 벚꽃이 조화를 이루는 길몽 일러스트",
+      "alt_en": "Two golden cranes in harmony over cherry blossoms — auspicious partnership dream illustration",
+      "prompt": "Two golden cranes flying together over a blooming cherry blossom landscape, paired golden rings resting on a silk cloth, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike warm golden sunrise light, spring abundance, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/number-two-dream/inauspicious.png",
+      "alt_ko": "두 갈래 어두운 길 앞에서 망설이는 인물과 두 개의 달이 있는 흉몽 일러스트",
+      "alt_en": "Figure hesitating at a dark forking road under two shadowy moons — inauspicious indecision dream illustration",
+      "prompt": "A solitary figure standing at a dark forking road under two shadowy moons, deep storm clouds, soft ink-wash illustration, Korean traditional painting aesthetic, cool indigo and deep grey tones, foreboding night atmosphere, no text"
+    }
+  ]
+}

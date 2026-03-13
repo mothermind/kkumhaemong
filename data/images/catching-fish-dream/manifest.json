@@ -1,0 +1,27 @@
+{
+  "slug": "catching-fish-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/catching-fish-dream/hero.png",
+    "alt_ko": "새벽 안개 속 산속 강에서 뛰어오르는 은빛 잉어, 한국 전통 수묵화 스타일",
+    "alt_en": "A large silver carp leaping from a misty mountain river at dawn, Korean ink-wash watercolor style",
+    "prompt": "A large silver carp leaping from a misty mountain river at dawn, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, muted blue-green and silver tones with golden morning light, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/catching-fish-dream/auspicious.png",
+      "alt_ko": "황금빛 햇살 속 물고기들이 넘쳐흐르는 강, 연꽃이 핀 길몽 풍경",
+      "alt_en": "Abundant fish leaping from a golden sunlit river with lotus flowers blooming on the banks, auspicious Korean watercolor illustration",
+      "prompt": "Abundant fish leaping from a golden sunlit river overflowing with fish, lotus flowers blooming on the banks, warm golden and amber tones, sunrise light reflecting on water, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike auspicious atmosphere, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/catching-fish-dream/inauspicious.png",
+      "alt_ko": "탁한 어두운 강물 속으로 도망치는 물고기와 찢어진 그물, 폭풍 구름이 드리운 흉몽 풍경",
+      "alt_en": "A tangled empty fishing net above dark churning water with a fish escaping into the murky depths, storm clouds gathering, Korean ink-wash illustration",
+      "prompt": "A fishing net tangled and empty above dark churning water, a fish slipping away into deep murky depths, storm clouds gathering over a river, cool deep blues and slate grays, night or dusk atmosphere, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), foreboding dreamlike mood, no text, no people"
+    }
+  ]
+}

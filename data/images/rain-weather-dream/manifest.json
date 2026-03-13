@@ -1,0 +1,27 @@
+{
+  "slug": "rain-weather-dream",
+  "hero": {
+    "path": "/images/dreams/rain-weather-dream/hero.png",
+    "alt_ko": "안개 낀 한국 산과 논밭에 비가 내리는 몽환적인 수묵화",
+    "alt_en": "Dreamlike ink-wash illustration of rain falling over misty Korean mountains and rice fields",
+    "prompt": "A dream scene of rain falling softly over misty Korean mountains and rice fields, droplets catching moonlight, soft ink-wash illustration style, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, muted blue-gray tones with silvery highlights, lush green fields drinking in the water, no text, wide cinematic composition"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/rain-weather-dream/auspicious.png",
+      "alt_ko": "풍성한 비 속에서 두 팔을 벌리고 서 있는 인물, 금화와 꽃잎이 빗방울과 함께 내리는 길몽 이미지",
+      "alt_en": "A figure standing arms outstretched in abundant rain with golden coins and blossoms falling alongside the raindrops",
+      "prompt": "A joyful figure standing in a warm summer rain shower, arms outstretched, being drenched in abundant rainfall, golden coins and blossoms falling with the raindrops, Korean traditional painting style, soft watercolor aesthetic, warm amber and gold tones, dreamlike abundance and prosperity, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/rain-weather-dream/inauspicious.png",
+      "alt_ko": "폭우 속에서 앞을 볼 수 없는 빈 길을 홀로 걷는 인물의 흉몽 이미지",
+      "alt_en": "A lone figure walking through torrential rain on an empty road unable to see ahead, dark storm clouds pressing low",
+      "prompt": "A lone figure walking through a torrential downpour on an empty road, unable to see ahead through the thick curtain of rain, dark storm clouds pressing low, cold blue-gray palette, ink-wash painting style, Korean traditional aesthetic, sense of isolation and overwhelming circumstances, no text"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

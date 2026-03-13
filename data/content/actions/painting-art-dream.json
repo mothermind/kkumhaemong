@@ -291,7 +291,10 @@
         },
         "datePublished": "2026-03-12",
         "dateModified": "2026-03-12",
-        "inLanguage": ["ko", "en"],
+        "inLanguage": [
+          "ko",
+          "en"
+        ],
         "mainEntityOfPage": {
           "@type": "WebPage",
           "@id": "https://kkumhaemong.com/en/dream/painting-art-dream"
@@ -324,10 +327,10 @@
     ]
   },
   "images": {
-    "hero": "/images/dreams/painting-art-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/painting-art-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/painting-art-dream/auspicious.png",
-      "inauspicious": "/images/dreams/painting-art-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/painting-art-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/painting-art-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

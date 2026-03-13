@@ -289,10 +289,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/breaking-things-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/breaking-things-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/breaking-things-dream/auspicious.png",
-      "inauspicious": "/images/dreams/breaking-things-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/breaking-things-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/breaking-things-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

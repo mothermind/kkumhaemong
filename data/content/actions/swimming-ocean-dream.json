@@ -337,10 +337,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/swimming-ocean-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/swimming-ocean-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/swimming-ocean-dream/auspicious.png",
-      "inauspicious": "/images/dreams/swimming-ocean-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/swimming-ocean-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/swimming-ocean-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

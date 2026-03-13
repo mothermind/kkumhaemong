@@ -1,0 +1,27 @@
+{
+  "slug": "embarrassment-dream",
+  "hero": {
+    "path": "/images/dreams/embarrassment-dream/hero.png",
+    "alt_ko": "안개 낀 마당에서 고개를 숙인 인물과 주변을 바라보는 사람들의 실루엣, 수묵화 스타일",
+    "alt_en": "A lone figure bowing in a misty courtyard, soft watercolor silhouettes watching from the edges, ink-wash style",
+    "prompt": "A lone figure standing in a misty courtyard, head bowed in embarrassment, soft ink-wash illustration style, Korean traditional painting aesthetic, dreamlike atmosphere, muted indigo and grey tones with subtle amber highlights, surrounding faces watching from a distance rendered as soft watercolor silhouettes, no text"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/embarrassment-dream/auspicious.png",
+      "alt_ko": "군중 앞에 공손히 인사하며 머리 위로 황금빛이 쏟아지는 인물, 발 아래 꽃이 피어나는 수묵화 삽화",
+      "alt_en": "A figure bowing in honor before a gathered crowd, golden light radiating from above, flowers blooming at their feet, ink-wash illustration",
+      "prompt": "A person bowing in respectful honor before a gathered crowd, golden light radiating from above, soft ink-wash illustration style, Korean traditional painting aesthetic, auspicious warm tones of gold and soft crimson, dreamlike atmosphere, flowers blooming at their feet, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/embarrassment-dream/inauspicious.png",
+      "alt_ko": "갈라진 도자기 가면 뒤로 취약한 얼굴이 드러나는 수묵화 삽화, 시들어가는 꽃잎이 주변에 흩어짐",
+      "alt_en": "A cracked ceramic mask falling apart revealing a vulnerable face beneath, wilting petals scattered around, dark ink-wash illustration",
+      "prompt": "A cracked ceramic mask falling apart revealing a vulnerable face beneath, dark ink-wash illustration style, Korean traditional painting aesthetic, inauspicious deep blue and charcoal tones, dreamlike atmosphere, scattered petals wilting around the figure, no text"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

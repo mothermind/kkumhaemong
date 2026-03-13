@@ -1,0 +1,27 @@
+{
+  "slug": "sun-taemong",
+  "hero": {
+    "path": "/images/dreams/sun-taemong/hero.png",
+    "alt_ko": "해 태몽 — 황금빛 태양이 안개 낀 한국 산 위로 떠오르는 꿈 이미지",
+    "alt_en": "Sun taemong — radiant golden sun rising over misty Korean mountains in a dreamlike scene",
+    "prompt": "A radiant sun rising over misty Korean mountains, golden light pouring from the sky into outstretched arms, soft ink-wash illustration style, Korean traditional painting aesthetic, dreamlike atmosphere, warm golden and amber tones, ethereal morning light, symbolic taemong pregnancy dream scene, no text"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/sun-taemong/auspicious.png",
+      "alt_ko": "길몽 — 하늘에서 내려오는 황금빛 태양을 두 팔로 받아 안는 꿈 장면",
+      "alt_en": "Auspicious sun taemong — golden celestial sun descending from the sky into open arms",
+      "prompt": "A glowing sun descending from the sky into open arms below, golden celestial light rays, traditional Korean ink-wash painting style, warm amber and gold palette, gentle dreamlike quality, auspicious blessing scene, no text, symbolic and serene"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/sun-taemong/inauspicious.png",
+      "alt_ko": "흉몽 — 두꺼운 먹구름에 가려진 태양, 어두운 하늘의 경고 장면",
+      "alt_en": "Inauspicious sun taemong — the sun hidden behind dark storm clouds, somber Korean ink-wash landscape",
+      "prompt": "A dark overcast sky with the sun hidden behind thick storm clouds, Korean ink-wash landscape style, muted grey and dark tones, somber and foreboding atmosphere, misty mountains barely visible, symbolic warning scene, no text, dreamlike quality"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "extinguishing-fire-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/extinguishing-fire-dream/hero.png",
+    "alt_ko": "꿈속에서 물로 불을 끄는 장면, 한국 전통 수묵화 스타일",
+    "alt_en": "Dream scene of extinguishing fire with water, Korean ink-wash illustration style",
+    "prompt": "A person calmly pouring water over diminishing flames, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, cool blues and deep shadows contrast with fading ember glow, no text, no people visible only hands and water stream"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/extinguishing-fire-dream/auspicious.png",
+      "alt_ko": "침착하게 불을 완전히 끄고 해결하는 길몽 장면, 새벽빛과 따뜻한 황금빛",
+      "alt_en": "Auspicious scene of calmly extinguishing fire to resolution, golden dawn light breaking through",
+      "prompt": "A serene scene of calm hands gently extinguishing the last ember of a small fire with water, golden sunrise light breaking through, soft watercolor ink-wash style, Korean traditional painting aesthetic (한국화), warm earth tones with dawn gold, symbolic peace and resolution, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/extinguishing-fire-dream/inauspicious.png",
+      "alt_ko": "꺼지지 않고 번지는 불에 물을 뿌리는 흉몽 장면, 어두운 밤과 차가운 연기",
+      "alt_en": "Inauspicious scene of fire spreading despite water being poured, dark night and cold smoke",
+      "prompt": "A dark night scene with deep blue smoke rising as someone desperately tries to douse raging flames, water splashing futilely onto spreading fire, ink-wash illustration style, Korean traditional painting aesthetic (한국화), cool indigo and grey tones, storm motifs, foreboding atmosphere, no text"
+    }
+  ]
+}

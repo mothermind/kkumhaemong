@@ -329,7 +329,10 @@
         "headline": "전화하는 꿈 해몽 - 전화 꿈의 의미와 길흉 완벽 정리",
         "description": "전화하는 꿈의 상황별 길흉 해몽. 전화 받는 꿈, 죽은 사람 전화 꿈, 연예인 전화 꿈, 전화 안 되는 꿈 등 13가지 변형 해몽과 서양 심리학적 분석까지.",
         "datePublished": "2026-03-11",
-        "inLanguage": ["ko", "en"],
+        "inLanguage": [
+          "ko",
+          "en"
+        ],
         "author": {
           "@type": "Organization",
           "name": "꿈해몽닷컴"
@@ -366,10 +369,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/phone-call-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/phone-call-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/phone-call-dream/auspicious.png",
-      "inauspicious": "/images/dreams/phone-call-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/phone-call-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/phone-call-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

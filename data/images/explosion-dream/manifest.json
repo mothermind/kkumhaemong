@@ -1,0 +1,27 @@
+{
+  "slug": "explosion-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/explosion-dream/hero.png",
+    "alt_ko": "화염이 치솟는 폭발 꿈 — 한국 전통 수묵화 스타일",
+    "alt_en": "An explosion with towering flames in a dreamlike Korean ink-wash illustration",
+    "prompt": "A dramatic volcanic explosion with towering flames and billowing clouds rising toward a misty sky, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, no text, no people, deep crimson and amber color palette with golden light"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/explosion-dream/auspicious.png",
+      "alt_ko": "황금빛 화산 폭발 — 길몽, 성공과 명성을 예고",
+      "alt_en": "Golden volcanic eruption symbolizing great fortune and fame — auspicious explosion dream",
+      "prompt": "A magnificent volcanic eruption with radiant golden flames soaring into a dawn sky, symbolizing great fortune and fame, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, no text, no people, warm golden sunrise tones with amber and crimson highlights"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/explosion-dream/inauspicious.png",
+      "alt_ko": "검은 연기 솟는 폭발 — 흉몽, 위기와 손실을 경고",
+      "alt_en": "Dark explosion with thick black smoke — inauspicious warning dream",
+      "prompt": "A dark ominous explosion with thick black smoke billowing over shadowy ruins under a stormy night sky, warning of danger and misfortune, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, no text, no people, deep charcoal greys and dark blues with cold storm tones"
+    }
+  ]
+}

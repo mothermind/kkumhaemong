@@ -1,0 +1,27 @@
+{
+  "slug": "marriage-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4",
+  "hero": {
+    "path": "/images/dreams/marriage-dream/hero.png",
+    "alt_ko": "한국 전통 결혼식 혼례청 — 기러기와 붉은 혼례 장식",
+    "alt_en": "Korean traditional wedding ceremony hall with wooden geese and ceremonial red silk decorations",
+    "prompt": "A grand Korean traditional wedding ceremony hall with silk curtains and red and blue ceremonial decorations, wooden geese symbol of fidelity on a ceremonial table, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, golden morning light, no text, no people, muted earth tones with gold accents"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/marriage-dream/auspicious.png",
+      "alt_ko": "나무 원앙 한 쌍과 모란꽃 — 결혼 길몽의 상징",
+      "alt_en": "Wooden mandarin ducks and blooming peony flowers symbolizing auspicious marriage fortune",
+      "prompt": "A pair of wooden mandarin ducks on a ceremonial table surrounded by golden silk cloth and blooming peony flowers, sunrise light streaming through latticed paper windows, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike warm golden atmosphere, no text, no people, warm earth tones with golden and crimson highlights"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/marriage-dream/inauspicious.png",
+      "alt_ko": "시든 웨딩 부케와 잃어버린 결혼반지 — 결혼 흉몽의 경고",
+      "alt_en": "Wilted bridal bouquet and lost wedding ring on dark stone floor warning of inauspicious marriage dream",
+      "prompt": "A wedding ceremony table with a wilted bridal bouquet, an overturned wine cup and a lost ring on dark stone floor, rain streaking through dark windows, heavy storm clouds visible outside, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), somber dreamlike atmosphere, cool blue and grey tones with deep shadows, no text, no people"
+    }
+  ]
+}

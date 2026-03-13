@@ -1,0 +1,27 @@
+{
+  "slug": "number-one-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4",
+  "hero": {
+    "path": "/images/dreams/number-one-dream/hero.png",
+    "alt_ko": "새벽 안개 낀 산봉우리 위에 황금빛으로 빛나는 숫자 1, 한국 전통 수묵화 스타일",
+    "alt_en": "Glowing golden numeral 1 standing on misty mountain peaks at dawn, Korean ink-wash illustration style",
+    "prompt": "The numeral 1 rendered as a glowing golden character standing alone on misty mountain peaks at dawn, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, pine trees and soft clouds, warm golden sunrise light, no text, no people, muted earth tones with golden highlights"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/number-one-dream/auspicious.png",
+      "alt_ko": "봄꽃과 황금 빛 햇살 속에 빛나는 숫자 1, 1등과 성공을 상징하는 길몽 이미지",
+      "alt_en": "The numeral 1 shining with golden light amid spring blossoms and sunrise rays, symbolizing first place and success",
+      "prompt": "The numeral 1 shining with golden light surrounded by blooming spring flowers and rising sun rays, celebration of first place victory, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike warm atmosphere, golden and amber tones, sunrise motifs, cherry blossoms, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/number-one-dream/inauspicious.png",
+      "alt_ko": "어둡고 쓸쓸한 안개 속에 홀로 서 있는 숫자 1, 고독과 고립을 암시하는 이미지",
+      "alt_en": "A lone numeral 1 standing isolated in a dark misty landscape, suggesting solitude and isolation",
+      "prompt": "A lone numeral 1 standing isolated in an empty dark misty landscape, solitary and cold, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike melancholic atmosphere, cool blues and deep shadows, bare winter trees, moonlit night, no text, no people"
+    }
+  ]
+}

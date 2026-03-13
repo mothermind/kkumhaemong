@@ -1,0 +1,27 @@
+{
+  "slug": "black-white-dream",
+  "hero": {
+    "path": "/images/dreams/black-white-dream/hero.png",
+    "alt_ko": "흑백 꿈 — 수묵화 스타일의 안개 낀 산과 홀로 선 인물",
+    "alt_en": "Black and white dream — ink-wash illustration of misty mountains and a solitary figure",
+    "prompt": "A dreamscape rendered entirely in monochrome, soft ink-wash illustration style with Korean traditional painting aesthetic, misty mountains and a lone figure standing at the edge of a vast black and white world, distant crane flying through silver fog, contemplative and ethereal atmosphere, dreamlike quality, no text, no color"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/black-white-dream/auspicious.png",
+      "alt_ko": "평온한 흑백 한국 정원 — 길몽 이미지",
+      "alt_en": "Serene black and white Korean courtyard garden — auspicious dream image",
+      "prompt": "A serene black and white ink-wash illustration of a peaceful Korean courtyard garden at dawn, gentle mist rising between pine trees, a stone path leading toward soft light, tranquil and hopeful mood, Korean traditional painting style, monochrome palette with delicate gradations, dreamlike quality, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/black-white-dream/inauspicious.png",
+      "alt_ko": "쓸쓸한 흑백 골목길 — 흉몽 이미지",
+      "alt_en": "Desolate black and white Korean alleyway in fog — inauspicious dream image",
+      "prompt": "A melancholy black and white ink-wash illustration of an empty traditional Korean alleyway in heavy fog, bare willow branches drooping over a silent path, broken stone steps, oppressive gray sky, desolate and lonely atmosphere, Korean traditional painting aesthetic, monochrome tones, dreamlike quality, no text"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

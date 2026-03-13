@@ -328,10 +328,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/building-house-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/building-house-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/building-house-dream/auspicious.png",
-      "inauspicious": "/images/dreams/building-house-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/building-house-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/building-house-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

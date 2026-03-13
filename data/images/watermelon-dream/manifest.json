@@ -1,0 +1,27 @@
+{
+  "slug": "watermelon-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4",
+  "hero": {
+    "path": "/images/dreams/watermelon-dream/hero.png",
+    "alt_ko": "여름 들판에 놓인 크고 잘 익은 수박, 한국화 스타일 수채화 일러스트",
+    "alt_en": "A large ripe watermelon resting in a summer field, Korean ink-wash watercolor illustration",
+    "prompt": "A single large ripe watermelon resting in a summer field under golden morning light, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, lush green vines and leaves surrounding the watermelon, warm golden tones with deep green accents, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/watermelon-dream/auspicious.png",
+      "alt_ko": "햇살 아래 풍성하게 쌓인 수박들, 풍요와 재물운을 상징하는 한국화 일러스트",
+      "alt_en": "An abundant pile of ripe watermelons in golden sunlight, symbolizing prosperity and wealth luck",
+      "prompt": "An abundant harvest of ripe watermelons piled high in a sunlit Korean countryside market, warm golden light streaming from the horizon, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike atmosphere, rich green and red tones with golden sunrise glow, overflowing prosperity and summer bounty, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/watermelon-dream/inauspicious.png",
+      "alt_ko": "어두운 폭풍 들판에 갈라지고 썩은 수박, 경고를 암시하는 한국화 스타일 일러스트",
+      "alt_en": "A cracked and rotting watermelon in a dark stormy field, an ominous Korean ink-wash illustration",
+      "prompt": "A cracked and rotting watermelon lying in a dark stormy field, deep shadows and cool blue-grey tones, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, ominous dreamlike atmosphere, withered vines and stormy night sky, no text, no people"
+    }
+  ]
+}

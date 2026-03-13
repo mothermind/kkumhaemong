@@ -1,0 +1,27 @@
+{
+  "slug": "lightning-weather-dream",
+  "hero": {
+    "path": "/images/dreams/lightning-weather-dream/hero.png",
+    "alt_ko": "어두운 폭풍 구름 사이로 번개가 내리치는 한국 산수화 스타일 일러스트",
+    "alt_en": "Lightning bolt striking down from dark storm clouds over a misty Korean mountain, ink-wash illustration style",
+    "prompt": "A dramatic lightning bolt striking down from dark storm clouds over a misty Korean mountain landscape, soft ink-wash illustration style, Korean traditional painting aesthetic, dreamlike atmosphere, electric blue and golden highlights against deep indigo sky, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/lightning-weather-dream/auspicious.png",
+      "alt_ko": "황금빛 번개가 한국 전통 가옥을 환하게 비추며 재물과 복을 내려주는 일러스트",
+      "alt_en": "Golden lightning illuminating a traditional Korean house, coins and flower petals floating in a warm golden glow",
+      "prompt": "Golden lightning bolt illuminating a vast dark sky, showering blessings upon a traditional Korean house below, coins and flower petals floating in the air, warm golden glow, Korean ink-wash illustration style, dreamlike and auspicious atmosphere, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/lightning-weather-dream/inauspicious.png",
+      "alt_ko": "번개가 나무를 강타해 쪼개지는 흉몽을 표현한 어두운 폭풍 일러스트",
+      "alt_en": "Menacing dark storm with lightning destroying a tree, charred black ground, ominous warning symbolism in ink-wash style",
+      "prompt": "A menacing dark storm with jagged lightning destroying a tree, branches splitting apart in the violent strike, dark moody atmosphere, charred black ground, Korean ink-wash painting style, ominous red and purple storm clouds, warning and danger symbolism, no text"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "forest-fire-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/forest-fire-dream/hero.png",
+    "alt_ko": "산 전체가 황금빛 불길에 휩싸인 산불 꿈 일러스트",
+    "alt_en": "Ink-wash illustration of a vast mountain range engulfed in a magnificent forest fire at dusk",
+    "prompt": "A vast mountain range engulfed in a magnificent forest fire at dusk, blazing orange and gold flames sweeping across pine forests, dramatic smoke columns rising against a twilight sky, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, no text, no people, warm amber and crimson palette with deep indigo sky"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/forest-fire-dream/auspicious.png",
+      "alt_ko": "새벽빛 속에 장엄하게 타오르는 산불, 재물운 길몽 일러스트",
+      "alt_en": "Auspicious mountain ablaze with golden dawn light, symbolizing rising fortune in Korean dream tradition",
+      "prompt": "A majestic mountain glowing with brilliant golden flames at dawn, auspicious and magnificent blaze illuminating the sky, rays of warm sunrise light breaking through smoke, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, no text, no people, radiant gold and amber tones, spring morning light"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/forest-fire-dream/inauspicious.png",
+      "alt_ko": "밤에 어둡게 번지는 산불, 검은 연기와 불안한 흉몽 일러스트",
+      "alt_en": "Ominous out-of-control forest fire at night with thick black smoke, inauspicious dream symbolism",
+      "prompt": "A dark mountainside consumed by an ominous out-of-control wildfire at night, thick black smoke obscuring the moon, foreboding crimson glow against deep shadows, burnt trees silhouetted against smoldering embers, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, no text, no people, deep charcoal and cold blue-grey palette with eerie red underglow"
+    }
+  ]
+}

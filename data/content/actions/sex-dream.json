@@ -343,10 +343,10 @@
     ]
   },
   "images": {
-    "hero": "/images/dreams/sex-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/sex-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/sex-dream/auspicious.png",
-      "inauspicious": "/images/dreams/sex-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/sex-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/sex-dream/inauspicious.webp"
     }
   }
 }

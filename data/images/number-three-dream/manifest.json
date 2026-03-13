@@ -1,0 +1,27 @@
+{
+  "slug": "number-three-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4",
+  "hero": {
+    "path": "/images/dreams/number-three-dream/hero.png",
+    "alt_ko": "안개 속에 빛나는 숫자 3, 천지인을 상징하는 한국 전통화 스타일",
+    "alt_en": "The numeral three glowing in celestial mist representing heaven, earth, and humanity in Korean ink-wash style",
+    "prompt": "The numeral three glowing softly in celestial mist, surrounded by symbols of heaven earth and humanity, ancient Korean calligraphic style, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, golden light emanating from the numeral, no text, no people, muted gold amber and deep blue palette"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/number-three-dream/auspicious.png",
+      "alt_ko": "일출 위로 날아오르는 세 마리 학, 숫자 3 길몽 상징",
+      "alt_en": "Three golden cranes soaring above misty mountains toward sunrise, symbolizing the auspicious nature of number three dreams",
+      "prompt": "Three golden cranes soaring above misty mountains toward sunrise, three luminous circles floating in celestial harmony, abundant golden harvest symbolism, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, warm golden sunrise tones with spring greens and amber, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/number-three-dream/inauspicious.png",
+      "alt_ko": "폭풍 구름 세 개와 혼란스러운 물결, 숫자 3 흉몽 상징",
+      "alt_en": "Three dark storm clouds forming a triangular pattern over turbulent waters, symbolizing the inauspicious interpretation of number three dreams",
+      "prompt": "Three dark storm clouds forming a triangular pattern over turbulent waters, three shadowy figures entangled in conflict beneath a moonless night sky, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike foreboding atmosphere, deep indigo and slate grey palette with cold blue shadows, no text, no people"
+    }
+  ]
+}

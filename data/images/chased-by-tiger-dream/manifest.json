@@ -1,0 +1,27 @@
+{
+  "slug": "chased-by-tiger-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/chased-by-tiger-dream/hero.png",
+    "alt_ko": "밤 숲 속 달빛 아래 달려오는 호랑이 — 수묵 수채화 스타일",
+    "alt_en": "A powerful tiger bounding through a moonlit mountain forest at night — ink-wash watercolor illustration",
+    "prompt": "A powerful striped tiger bounding through a misty mountain forest at night, moonlight filtering through pine trees, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike atmospheric mist, no text, no people, deep indigo and silver tones with warm amber tiger stripes"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/chased-by-tiger-dream/auspicious.png",
+      "alt_ko": "황금빛 가을 산속을 달리는 호랑이 — 길몽 상징 일러스트",
+      "alt_en": "A majestic tiger leaping through golden autumn mountain scenery — auspicious dream illustration",
+      "prompt": "A majestic tiger leaping joyfully through golden autumn leaves, dawn sunlight breaking through mountain mist, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, warm golden and amber tones, dreamlike glowing atmosphere, auspicious energy, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/chased-by-tiger-dream/inauspicious.png",
+      "alt_ko": "폭풍 치는 밤 어두운 숲 속 호랑이 실루엣 — 흉몽 상징 일러스트",
+      "alt_en": "A shadowy tiger stalking through a stormy dark forest at night — inauspicious dream illustration",
+      "prompt": "A shadowy tiger silhouette stalking through a dark stormy forest, heavy rain, deep blue-grey shadows, gnarled pine trees bending in wind, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, foreboding ominous atmosphere, cold midnight blues and charcoal tones, no text, no people"
+    }
+  ]
+}

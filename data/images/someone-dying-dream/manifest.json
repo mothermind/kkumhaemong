@@ -1,0 +1,30 @@
+{
+  "slug": "someone-dying-dream",
+  "hero": {
+    "path": "/images/dreams/someone-dying-dream/hero.png",
+    "alt_ko": "안개 속 한국 산경치에서 부드러운 황금빛으로 스러져가는 인물 — 평화로운 전환을 상징하는 몽환적 수묵화 일러스트",
+    "alt_en": "A serene figure fading into soft golden light amid misty Korean mountain landscape — dreamlike ink-wash illustration symbolizing peaceful transition",
+    "prompt": "A serene dreamlike scene of a figure fading into soft golden light, surrounded by misty Korean mountain landscape, ink-wash illustration style, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, muted earth tones with subtle gold and ivory highlights, gentle transition symbolizing peaceful passage, no text, no people dying violently",
+    "aspectRatio": "16:9"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/someone-dying-dream/auspicious.png",
+      "alt_ko": "활짝 핀 매화 가지와 따뜻한 황금빛 아침 햇살 — 새로운 시작과 길몽을 상징하는 수채화 일러스트",
+      "alt_en": "Warm golden sunrise over Korean countryside with blossoming plum branches — watercolor illustration symbolizing new beginnings and auspicious transformation",
+      "prompt": "A warm golden sunrise over Korean countryside with blossoming plum branches, soft watercolor and ink-wash illustration style, Korean traditional painting aesthetic, symbolizing new beginnings and auspicious transformation, gentle morning light, muted gold and rose tones, dreamlike and hopeful atmosphere, no text",
+      "aspectRatio": "4:3"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/someone-dying-dream/inauspicious.png",
+      "alt_ko": "폭풍 구름이 낀 밤하늘과 한국 전통 지붕선 — 억눌린 감정과 내면의 긴장을 상징하는 수묵화 일러스트",
+      "alt_en": "Moody dark indigo night scene with storm clouds over Korean rooftop architecture — ink-wash illustration symbolizing unresolved tension and emotional weight",
+      "prompt": "A moody dark indigo night scene with storm clouds over Korean rooftop architecture, soft ink-wash illustration style, Korean traditional painting aesthetic, symbolizing unresolved tension and emotional weight, muted dark tones with subtle blue-grey highlights, dreamlike and somber atmosphere, no text",
+      "aspectRatio": "4:3"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

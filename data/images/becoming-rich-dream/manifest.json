@@ -1,0 +1,27 @@
+{
+  "slug": "becoming-rich-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4-fast",
+  "hero": {
+    "path": "/images/dreams/becoming-rich-dream/hero.png",
+    "alt_ko": "황금빛 안개 속 산속 계곡에 넘쳐흐르는 보물과 금화, 한국화 스타일 수채화 일러스트",
+    "alt_en": "Overflowing treasure and golden coins in a misty mountain valley, Korean ink-wash watercolor illustration",
+    "prompt": "Overflowing treasure chests and golden coins cascading in a misty mountain valley, ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, warm golden sunrise light, lush pine trees, no text, no people, rich earth tones with golden highlights"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/becoming-rich-dream/auspicious.png",
+      "alt_ko": "따뜻한 일출 아래 황금빛 수확물과 넘치는 항아리들, 길몽 상징 한국화 일러스트",
+      "alt_en": "Abundant golden harvest and overflowing traditional Korean jars under warm sunrise light, auspicious dream illustration",
+      "prompt": "Abundant golden harvest under warm sunrise light, overflowing bowls of rice and fruit, traditional Korean jars of wealth, ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, warm golden and amber tones, spring blossoms, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/becoming-rich-dream/inauspicious.png",
+      "alt_ko": "차가운 달빛 아래 깨진 항아리와 흩어진 동전, 흉몽 상징 한국화 일러스트",
+      "alt_en": "Broken jar and scattered coins in cold moonlight shadows, inauspicious dream Korean ink-wash illustration",
+      "prompt": "Empty broken jar and scattered coins in deep shadow, withered tree branches in cold moonlight, ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike ominous atmosphere, deep blue and grey tones with heavy shadows, no text, no people"
+    }
+  ]
+}

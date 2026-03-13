@@ -296,10 +296,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/jumping-down-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/jumping-down-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/jumping-down-dream/auspicious.png",
-      "inauspicious": "/images/dreams/jumping-down-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/jumping-down-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/jumping-down-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

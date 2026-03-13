@@ -1,0 +1,30 @@
+{
+  "slug": "new-car-dream",
+  "hero": {
+    "path": "/images/dreams/new-car-dream/hero.png",
+    "alt_ko": "새벽 안개 속 산길에 세워진 새 차 — 새 차 꿈해몽",
+    "alt_en": "A gleaming new car on a misty mountain road at dawn — new car dream interpretation",
+    "prompt": "A gleaming brand-new car parked on a misty mountain road at dawn, soft watercolor and ink-wash illustration style, Korean traditional painting aesthetic (한국화), dreamlike ethereal atmosphere, muted silver and white tones with subtle golden morning light, cherry blossom petals drifting, no text, no people",
+    "aspectRatio": "16:9"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/new-car-dream/auspicious.png",
+      "alt_ko": "황금빛 열쇠와 꽃잎으로 장식된 새 차 — 길몽 상징",
+      "alt_en": "A new car with golden keys and flower petals symbolizing auspicious fortune",
+      "prompt": "A luxurious new car with keys and auspicious Korean symbols, golden sunrise light streaming through, celebratory ribbon and flower petals, ink-wash watercolor illustration style, Korean traditional painting aesthetic, warm golden and amber tones, dreamlike quality, symbolic of success and new beginnings, no text, no people",
+      "aspectRatio": "4:3"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/new-car-dream/inauspicious.png",
+      "alt_ko": "황혼 녘 텅 빈 도로에 멈춰선 고장난 새 차 — 흉몽 경고",
+      "alt_en": "A broken-down new car stranded on an empty road at dusk — inauspicious warning",
+      "prompt": "A new car broken down on an empty road at dusk, hood open, dark storm clouds gathering overhead, eerie and foreboding atmosphere, ink-wash watercolor illustration style, Korean traditional painting aesthetic, muted grey and dark blue tones, cracked road, sense of misfortune and obstacle, no text, no people",
+      "aspectRatio": "4:3"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

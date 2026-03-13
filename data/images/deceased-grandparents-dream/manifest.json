@@ -1,0 +1,27 @@
+{
+  "slug": "deceased-grandparents-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4",
+  "hero": {
+    "path": "/images/dreams/deceased-grandparents-dream/hero.png",
+    "alt_ko": "꿈속에 나타난 돌아가신 조부모님의 영혼 — 한국 전통 수묵화 스타일",
+    "alt_en": "Ancestral spirits of deceased grandparents appearing in misty dream light — Korean ink-wash illustration",
+    "prompt": "An elderly Korean grandmother and grandfather appearing in misty light, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike ethereal atmosphere, ancestors in traditional hanbok appearing amidst gentle clouds and moonlight, warm reverent mood, muted earth tones, no text, no faces clearly visible"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/deceased-grandparents-dream/auspicious.png",
+      "alt_ko": "돌아가신 조부모님이 음식과 선물을 건네주시는 길몽 — 황금빛 한국화 일러스트",
+      "alt_en": "Ancestor offering food and gifts in golden light — auspicious Korean ink-wash illustration",
+      "prompt": "An ancestor in traditional Korean hanbok offering a golden bowl of rice and gifts, warm golden sunrise light streaming through, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike atmosphere, spring blossoms, abundant prosperity symbols, warm amber and golden tones, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/deceased-grandparents-dream/inauspicious.png",
+      "alt_ko": "어둡고 슬픈 분위기 속에 나타난 조상의 형상 — 경고를 암시하는 수묵화",
+      "alt_en": "Ancestral spirit in dark rainy mist with beckoning gesture — warning omen ink-wash illustration",
+      "prompt": "An ancestral spirit figure in tattered robes standing in dark misty rain, beckoning gesture, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, foreboding dreamlike atmosphere, deep shadows, cool blues and grays, empty dark path leading into fog, no text"
+    }
+  ]
+}

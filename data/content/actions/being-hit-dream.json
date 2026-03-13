@@ -296,10 +296,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/being-hit-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/being-hit-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/being-hit-dream/auspicious.png",
-      "inauspicious": "/images/dreams/being-hit-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/being-hit-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/being-hit-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

@@ -1,0 +1,27 @@
+{
+  "slug": "resurrection-dream",
+  "hero": {
+    "path": "/images/dreams/resurrection-dream/hero.png",
+    "alt_ko": "죽었다 살아나는 꿈 — 황금빛 안개 속에서 부활하는 인물, 한국화 스타일 수묵화 일러스트",
+    "alt_en": "Resurrection dream — a luminous figure rising from mist and shadow, Korean ink-wash illustration style",
+    "prompt": "A luminous figure rising from mist and shadow, soft ink-wash illustration style, Korean traditional painting aesthetic, dreamlike resurrection scene, figure surrounded by golden light breaking through darkness, misty mountain landscape, rebirth symbolism, muted earth tones with radiant gold highlights, no text, peaceful and transcendent atmosphere"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/resurrection-dream/auspicious.png",
+      "alt_ko": "황금빛 일출을 향해 기쁘게 솟아오르는 인물, 벚꽃이 흩날리는 길몽 일러스트",
+      "alt_en": "A person rising joyfully toward golden sunrise with cherry blossoms, auspicious resurrection dream illustration",
+      "prompt": "A person rising joyfully toward warm golden sunrise light, soft watercolor illustration style, Korean traditional painting aesthetic, auspicious rebirth scene, cherry blossoms floating in air, sense of liberation and fortune, muted warm tones with golden radiance, no text, dreamlike hopeful atmosphere"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/resurrection-dream/inauspicious.png",
+      "alt_ko": "달빛 아래 어두운 물에서 떠오르는 그림자 같은 인물, 흉몽 경고 수묵화 일러스트",
+      "alt_en": "A shadowy figure rising from dark waters in moonlight, inauspicious resurrection warning dream illustration",
+      "prompt": "A shadowy figure slowly rising from dark waters or earth in moonlight, ink-wash illustration style, Korean traditional painting aesthetic, eerie and unsettling resurrection, muted blue-grey tones, ominous fog, warning atmosphere, no text, dreamlike but foreboding mood"
+    }
+  ],
+  "generatedAt": "2026-03-13",
+  "provider": "imagen4"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "worm-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4",
+  "hero": {
+    "path": "/images/dreams/worm-dream/hero.png",
+    "alt_ko": "벌레 꿈 해몽 — 안개 낀 초원 위 지렁이와 누에가 어우러진 한국화 스타일 일러스트",
+    "alt_en": "Worm dream interpretation — ink-wash illustration of earthworms and silkworms on misty grass in Korean traditional painting style",
+    "prompt": "Earthworms and glowing silkworms resting on rich dark soil surrounded by misty green grass and lotus leaves, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, no text, no people, muted earth tones with golden highlights"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/worm-dream/auspicious.png",
+      "alt_ko": "벌레 꿈 길몽 — 황금빛 꽃과 동전이 봄 햇살 아래 빛나는 한국화 일러스트",
+      "alt_en": "Auspicious worm dream — ink-wash illustration of golden coins and blooming flowers under spring sunrise light",
+      "prompt": "Glowing golden coins scattered among blooming spring flowers, maggots transforming into gold nuggets on fertile dark earth, warm sunrise light filtering through pine trees, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, no text, no people, warm golden and amber tones"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/worm-dream/inauspicious.png",
+      "alt_ko": "벌레 떼 꿈 흉몽 — 폭풍 밤하늘 아래 갈라진 땅을 꿈틀대는 벌레 떼 한국화 일러스트",
+      "alt_en": "Inauspicious worm swarm dream — ink-wash illustration of dark worms writhing on cracked ground under a stormy night sky",
+      "prompt": "A swarm of dark worms writhing on cracked dry ground under a stormy night sky, dead autumn leaves scattered around, dark shadowy mist swirling, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike ominous atmosphere, no text, no people, deep blues and charcoal greys"
+    }
+  ]
+}

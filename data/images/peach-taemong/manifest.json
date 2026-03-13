@@ -1,0 +1,27 @@
+{
+  "slug": "peach-taemong",
+  "hero": {
+    "path": "/images/dreams/peach-taemong/hero.png",
+    "alt_ko": "안개 낀 산 위 바위에 놓인 탐스러운 복숭아와 복숭아꽃, 한국화 수묵화 스타일",
+    "alt_en": "A plump ripe peach resting on misty mountain rocks surrounded by peach blossoms, Korean ink-wash illustration style",
+    "prompt": "A plump ripe peach glowing with golden-pink hues resting on misty mountain rocks surrounded by delicate peach blossoms, soft ink-wash illustration style, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, muted warm tones with subtle golden light, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/peach-taemong/auspicious.png",
+      "alt_ko": "탐스럽게 잘 익은 복숭아를 손에 들고 있는 장면, 복숭아나무 배경, 한국 민화 스타일",
+      "alt_en": "Hands cradling a luminous ripe peach, abundant peach tree in background, Korean folk painting style",
+      "prompt": "A woman cradling a luminous ripe peach in her hands, soft warm golden light, abundant peach tree laden with fruit in background, Korean traditional folk painting style, dreamlike serene atmosphere, ink-wash watercolor aesthetic, warm earth tones, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/peach-taemong/inauspicious.png",
+      "alt_ko": "차가운 돌 위에 놓인 상한 복숭아와 시든 잎들, 수묵화 스타일",
+      "alt_en": "A bruised overripe peach lying on cold stone with withered leaves, ink-wash illustration style",
+      "prompt": "A bruised overripe peach with dark spots lying alone on cold stone, withered leaves scattered around, muted grey-blue ink-wash illustration style, Korean traditional painting aesthetic, somber dreamlike atmosphere, cool muted tones, no text, no people"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

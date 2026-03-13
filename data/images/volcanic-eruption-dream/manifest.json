@@ -1,0 +1,30 @@
+{
+  "slug": "volcanic-eruption-dream",
+  "hero": {
+    "path": "/images/dreams/volcanic-eruption-dream/hero.png",
+    "alt_ko": "화산 폭발 꿈 - 불꽃과 연기가 하늘로 솟구치는 웅장한 화산",
+    "alt_en": "Volcanic eruption dream - majestic volcano with fire and smoke shooting into the night sky",
+    "prompt": "A majestic volcano erupting at night against a dark sky, massive column of fire and glowing orange lava shooting high into the air, billowing smoke illuminated from below, soft ink-wash illustration style, Korean traditional painting aesthetic, dreamlike atmosphere, muted earth tones with deep reds and golden highlights, misty mountains in background, no text, no people",
+    "aspectRatio": "16:9"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/volcanic-eruption-dream/auspicious.png",
+      "alt_ko": "화산 폭발 길몽 - 화산 정상 위로 황금빛 햇살이 쏟아지는 새벽",
+      "alt_en": "Auspicious volcanic eruption dream - triumphant sunrise over a dormant volcano peak with golden light",
+      "prompt": "A triumphant sunrise over a dormant volcano peak, golden light breaking through misty clouds, lush green slopes, a soaring eagle or phoenix-like bird in the sky symbolizing success and achievement, soft ink-wash illustration style, Korean traditional painting aesthetic, warm golden tones, dreamlike hopeful atmosphere, no text, no people",
+      "aspectRatio": "4:3"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/volcanic-eruption-dream/inauspicious.png",
+      "alt_ko": "화산 폭발 흉몽 - 화산재와 검은 연기로 뒤덮인 황량한 대지",
+      "alt_en": "Inauspicious volcanic eruption dream - dark ominous volcanic landscape with thick black smoke and ash",
+      "prompt": "Dark ominous volcanic landscape, thick black smoke and grey ash clouds billowing from a volcano crater, barren grey terrain covered in ash, a lone figure fleeing across a desolate plain, oppressive heavy sky, soft ink-wash illustration style, Korean traditional painting aesthetic, cool dark grey and charcoal tones, foreboding dreamlike atmosphere, no text",
+      "aspectRatio": "4:3"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00Z",
+  "provider": "imagen4"
+}

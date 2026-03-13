@@ -250,7 +250,10 @@
         "description": "소리 지르는 꿈은 성공의 예고일까, 위험의 경고일까? 화나서 고함치는 꿈, 산 정상에서 외치는 꿈, 목소리 안 나오는 꿈까지 상황별 해몽을 전문가가 풀이합니다.",
         "datePublished": "2026-03-11",
         "dateModified": "2026-03-11",
-        "inLanguage": ["ko", "en"],
+        "inLanguage": [
+          "ko",
+          "en"
+        ],
         "author": {
           "@type": "Organization",
           "name": "꿈해몽닷컴"
@@ -288,10 +291,10 @@
     }
   },
   "images": {
-    "hero": "/images/dreams/shouting-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/shouting-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/shouting-dream/auspicious.png",
-      "inauspicious": "/images/dreams/shouting-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/shouting-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/shouting-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

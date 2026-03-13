@@ -1,0 +1,27 @@
+{
+  "slug": "shoes-dream",
+  "hero": {
+    "path": "/images/dreams/shoes-dream/hero.png",
+    "alt_ko": "새벽 산길 돌계단 위에 놓인 전통 신발, 수묵화 스타일",
+    "alt_en": "Traditional Korean shoes resting on misty mountain stone steps at dawn, ink-wash illustration",
+    "prompt": "A pair of gleaming new traditional Korean shoes (짚신 style) resting on misty mountain stone steps at dawn, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, muted earth tones with subtle golden morning light, no text, no people"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/shoes-dream/auspicious.png",
+      "alt_ko": "황금빛 으로 빛나는 새 비단 신발과 황금 동전들, 수묵화 스타일",
+      "alt_en": "New silk shoes glowing with golden light alongside auspicious coins and plum blossoms, ink-wash illustration",
+      "prompt": "A pair of beautiful new silk shoes glowing with golden light on a wooden altar table, surrounded by auspicious symbols like coins and blossoming plum flowers, soft watercolor ink-wash illustration, Korean traditional painting aesthetic, dreamlike warm tones, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/shoes-dream/inauspicious.png",
+      "alt_ko": "안개 낀 빈 돌길에 놓인 낡고 찢어진 신발 한 짝, 수묵화 스타일",
+      "alt_en": "A single worn and torn shoe abandoned on a foggy empty stone path at dusk, ink-wash illustration",
+      "prompt": "A single worn and torn shoe abandoned on a foggy empty stone path at dusk, one shoe missing, muted dark blue and grey tones, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, somber dreamlike atmosphere, no text, no people"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

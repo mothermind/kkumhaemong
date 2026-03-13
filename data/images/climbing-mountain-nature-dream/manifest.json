@@ -1,0 +1,27 @@
+{
+  "slug": "climbing-mountain-nature-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4",
+  "hero": {
+    "path": "/images/dreams/climbing-mountain-nature-dream/hero.png",
+    "alt_ko": "새벽 안개 속 산길을 오르는 꿈 — 한국화 수묵 수채화 일러스트",
+    "alt_en": "A misty mountain trail at dawn in dreamlike Korean ink-wash illustration style",
+    "prompt": "A lone figure ascending a misty mountain trail at dawn, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike hazy atmosphere, layered mountain ridges in the distance, morning light filtering through low clouds, muted blue-green and golden tones, no text, no people's faces visible"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/climbing-mountain-nature-dream/auspicious.png",
+      "alt_ko": "황금빛 일출 속 산 정상에 꽂힌 깃발 — 합격·승진을 상징하는 길몽 이미지",
+      "alt_en": "A mountain summit in golden sunrise light with cherry blossoms — symbol of success and achievement",
+      "prompt": "Mountain summit bathed in golden sunrise light, cherry blossoms blooming along the ridge, a ceremonial flag planted at the peak, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), warm golden and peach tones, dreamlike radiant atmosphere, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/climbing-mountain-nature-dream/inauspicious.png",
+      "alt_ko": "폭풍우 속 무너지는 산길 — 실패와 장애를 경고하는 흉몽 이미지",
+      "alt_en": "A treacherous mountain path in stormy darkness with crumbling rocks — symbol of obstacles and setback",
+      "prompt": "A treacherous mountain path in stormy darkness, crumbling rock face and loose stones, deep fog obscuring the path ahead, snow-covered steep slopes, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), cool deep blues and dark greys, foreboding dreamlike atmosphere, no text, no people"
+    }
+  ]
+}

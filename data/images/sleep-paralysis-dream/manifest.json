@@ -1,0 +1,27 @@
+{
+  "slug": "sleep-paralysis-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/sleep-paralysis-dream/hero.png",
+    "alt_ko": "달빛 아래 한국 전통 온돌방에서 어두운 그림자에 눌린 잠든 형상 — 가위눌림 꿈 해몽",
+    "alt_en": "A sleeping figure pinned under a dark misty shadow on a moonlit Korean traditional floor — sleep paralysis dream meaning",
+    "prompt": "A sleeping figure pinned under a dark misty shadow on a moonlit Korean traditional ondol floor, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike oppressive atmosphere, indigo and black tones with pale moonlight, no text, no faces"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/sleep-paralysis-dream/auspicious.png",
+      "alt_ko": "가위눌림에서 벗어나 아침 빛 속으로 나아가는 형상 — 탈출 성공의 상징",
+      "alt_en": "A figure breaking free from darkness into golden morning light — symbolizing escape from sleep paralysis",
+      "prompt": "A dreamer breaking free from dark chains into morning light, rising figure surrounded by spring blossoms and golden sunrise, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, warm golden and peach tones, hopeful atmosphere, no text, no faces"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/sleep-paralysis-dream/inauspicious.png",
+      "alt_ko": "달빛 한국 전통 방 위로 드리운 검은 형체 — 가위눌림 흉몽의 상징",
+      "alt_en": "A dark formless shadow looming over a moonlit Korean room — symbolizing the inauspicious omen of sleep paralysis",
+      "prompt": "A dark formless shadow looming over a moonlit Korean room, heavy storm clouds pressing down, deep blue and black ink-wash watercolor illustration, Korean traditional painting aesthetic, oppressive and foreboding atmosphere, cold tones, no text, no faces"
+    }
+  ]
+}

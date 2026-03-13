@@ -275,7 +275,10 @@
         },
         "datePublished": "2026-03-12T00:00:00.000Z",
         "dateModified": "2026-03-12T00:00:00.000Z",
-        "inLanguage": ["ko", "en"],
+        "inLanguage": [
+          "ko",
+          "en"
+        ],
         "about": {
           "@type": "Thing",
           "name": "후진하는 꿈 해몽"
@@ -310,10 +313,10 @@
     ]
   },
   "images": {
-    "hero": "/images/dreams/driving-reverse-dream/hero.png",
+    "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/driving-reverse-dream/hero.webp",
     "sections": {
-      "auspicious": "/images/dreams/driving-reverse-dream/auspicious.png",
-      "inauspicious": "/images/dreams/driving-reverse-dream/inauspicious.png"
+      "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/driving-reverse-dream/auspicious.webp",
+      "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/driving-reverse-dream/inauspicious.webp"
     }
   },
   "relatedDreams": [

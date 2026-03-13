@@ -1,0 +1,27 @@
+{
+  "slug": "butterfly-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4",
+  "hero": {
+    "path": "/images/dreams/butterfly-dream/hero.png",
+    "alt_ko": "벚꽃 가지 위에 앉은 나비, 몽환적인 수묵화 스타일",
+    "alt_en": "A butterfly resting on a cherry blossom branch in a dreamlike ink-wash style",
+    "prompt": "A lone butterfly with delicate wings resting on a blooming cherry blossom branch, misty mountains in the background, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike misty atmosphere, no text, no people, muted rose and ivory tones with subtle golden highlights"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/butterfly-dream/auspicious.png",
+      "alt_ko": "햇살 가득한 들판 위를 나는 화사한 나비 두 마리, 길몽을 상징하는 따뜻한 금빛 수묵화",
+      "alt_en": "Two colorful butterflies dancing over golden wildflowers in a sunlit meadow, warm auspicious ink-wash illustration",
+      "prompt": "A pair of colorful butterflies dancing over golden wildflowers in a sunlit meadow, warm sunrise light, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmosphere, no text, no people, warm golden and amber tones with touches of rose and spring green"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/butterfly-dream/inauspicious.png",
+      "alt_ko": "달빛 아래 날개가 찢어진 어두운 나비, 흉몽을 암시하는 차가운 수묵화",
+      "alt_en": "A dark butterfly with torn wings drifting through a moonlit night, inauspicious cold ink-wash illustration",
+      "prompt": "A dark butterfly with torn wings drifting through a misty moonlit night, withered branches and falling leaves, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), somber dreamlike atmosphere, no text, no people, deep indigo and charcoal tones with cold blue shadows"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "disaster-dream",
+  "hero": {
+    "path": "/images/dreams/disaster-dream/hero.png",
+    "alt_ko": "재난 꿈해몽 — 폭풍이 지나간 뒤 새벽빛이 드러나는 산수화 풍경",
+    "alt_en": "Disaster dream interpretation — ink-wash landscape of mountains and receding floodwaters under an amber dawn after a great calamity",
+    "prompt": "A panoramic ink-wash illustration of a vast landscape in the aftermath of a great natural disaster — mountains cracked, floodwaters receding under a luminous amber dawn sky, a lone figure standing on high ground surveying the changed world below, Korean traditional painting aesthetic, dreamlike mist, muted earth tones with golden highlights, soft watercolor style, no text",
+    "aspectRatio": "16:9"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/disaster-dream/auspicious.png",
+      "alt_ko": "재난에서 탈출하는 길몽 — 황금빛 햇살이 드러나는 홍수 속 탈출 장면",
+      "alt_en": "Auspicious disaster dream — courageous figure escaping floodwaters as golden light breaks through storm clouds",
+      "prompt": "A courageous figure running toward safety through churning floodwaters, golden light breaking through parting storm clouds above, symbolizing survival and auspicious fortune, Korean ink-wash illustration style, dreamlike atmosphere, warm amber and gold tones, soft watercolor aesthetic, no text",
+      "aspectRatio": "4:3"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/disaster-dream/inauspicious.png",
+      "alt_ko": "재난 흉몽 — 어두운 하늘 아래 잔해에 갇힌 위기의 장면",
+      "alt_en": "Inauspicious disaster dream — figure trapped in collapsed rubble beneath darkened skies with rising murky water",
+      "prompt": "A lone figure trapped in collapsed rubble beneath darkened skies, murky floodwaters rising around crumbled walls, expressing danger and crisis, Korean ink-wash illustration style, somber dark indigo and grey tones, dreamlike mood, soft watercolor aesthetic, no text",
+      "aspectRatio": "4:3"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00Z",
+  "provider": "imagen4"
+}

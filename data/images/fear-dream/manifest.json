@@ -1,0 +1,27 @@
+{
+  "slug": "fear-dream",
+  "hero": {
+    "path": "/images/dreams/fear-dream/hero.png",
+    "alt_ko": "어두운 안개 숲 가장자리에 홀로 서 있는 인물, 무서운 꿈을 표현한 한국화 스타일 일러스트",
+    "alt_en": "A lone figure standing at the edge of a dark misty forest, ink-wash illustration representing a dream of fear",
+    "prompt": "A lone figure standing at the edge of a dark misty forest at night, soft ink-wash illustration style, Korean traditional painting aesthetic, dreamlike atmosphere, shadowy silhouettes of twisted trees, pale moonlight filtering through fog, muted dark blues and grays with subtle silver highlights, no text, fear and uncertainty mood"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/fear-dream/auspicious.png",
+      "alt_ko": "어둠에서 황금빛으로 벗어나는 인물, 반몽의 길몽을 표현한 수채화 일러스트",
+      "alt_en": "A figure breaking free from dark shadows into golden light, watercolor illustration representing the auspicious reversal dream",
+      "prompt": "A figure breaking free from dark shadows into warm golden light, soft watercolor illustration style, Korean traditional painting aesthetic, dreamlike quality, transformation and rebirth symbolism, muted earth tones shifting to warm amber and gold, hopeful atmosphere, no text"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/fear-dream/inauspicious.png",
+      "alt_ko": "잠든 인물에게 다가오는 귀신, 무서운 꿈 흉몽을 표현한 수묵화 일러스트",
+      "alt_en": "A ghostly spirit reaching toward a sleeping figure, ink-wash illustration representing the inauspicious fear dream warning",
+      "prompt": "A ghostly pale spirit with flowing robes reaching toward a sleeping figure, ink-wash illustration style, Korean traditional painting aesthetic, ominous dreamlike atmosphere, dark indigo and charcoal tones with eerie pale highlights, menacing presence, warning mood, no text"
+    }
+  ],
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen4"
+}

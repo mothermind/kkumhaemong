@@ -1,0 +1,27 @@
+{
+  "slug": "ex-boyfriend-dream",
+  "generatedAt": "2026-03-13T00:00:00.000Z",
+  "provider": "imagen-4.0-generate-001",
+  "hero": {
+    "path": "/images/dreams/ex-boyfriend-dream/hero.png",
+    "alt_ko": "안개 낀 다리 끝에 서 있는 희미한 남자의 실루엣, 수묵화 스타일 꿈 일러스트",
+    "alt_en": "A faded silhouette of a young man standing at the end of a misty bridge at twilight, ink-wash dream illustration",
+    "prompt": "A faded silhouette of a young man standing at the end of a misty bridge at twilight, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, dreamlike hazy atmosphere, cool muted blues and purples with faint golden glow at horizon, scattered cherry blossoms, no text, no faces"
+  },
+  "sections": [
+    {
+      "type": "auspicious",
+      "path": "/images/dreams/ex-boyfriend-dream/auspicious.png",
+      "alt_ko": "황금빛 일출 위로 함께 날아오르는 두 마리 종이학, 길몽을 상징하는 수묵화 일러스트",
+      "alt_en": "Two paper cranes flying together toward a golden sunrise over mountains, auspicious omen ink-wash illustration",
+      "prompt": "Two paper cranes flying together toward a golden sunrise over mountains, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, warm earth tones with golden light, spring blossoms in foreground, dreamlike serene atmosphere, no text, no people"
+    },
+    {
+      "type": "inauspicious",
+      "path": "/images/dreams/ex-boyfriend-dream/inauspicious.png",
+      "alt_ko": "어두운 연못 위 시든 연꽃과 폭풍이 몰려오는 밤하늘, 흉몽을 암시하는 수묵화 일러스트",
+      "alt_en": "A wilting lotus flower in a dark still pond under a stormy night sky, inauspicious omen ink-wash illustration",
+      "prompt": "A wilting lotus flower in a dark still pond under stormy night sky, soft ink-wash watercolor illustration, Korean traditional painting aesthetic, deep navy and charcoal tones with cold silver moonlight, heavy clouds, dreamlike foreboding atmosphere, no text, no people"
+    }
+  ]
+}
