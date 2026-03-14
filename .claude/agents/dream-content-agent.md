@@ -36,7 +36,7 @@ When invoked, you must follow these steps:
 
 4. **Generate Korean (ko) content.** Write all Korean content fields with a natural, authoritative 꿈해몽 tone:
    - `title`: Keyword-rich but natural. Pattern: "[꿈 키워드] 해몽 - [핵심 의미] 완벽 정리". Example: "뱀꿈 해몽 - 뱀꿈의 의미와 길흉 완벽 정리"
-   - `metaDescription`: 120-160 characters, include primary keyword within the first 60 characters, compelling and click-worthy
+   - `metaDescription`: **80-110 characters for Korean** (Korean chars are visually ~2x wide — do NOT use 120-160 for Korean). Include primary keyword within the first 40 characters, compelling and click-worthy
    - `h1`: Main heading, can differ slightly from title for natural reading
    - `intro`: 3–4 sentences max. Choose the template based on the symbol's nature:
      - **B-style (default — use when the symbol has a meaningful 흉몽 or nuanced flip side):**
@@ -47,8 +47,8 @@ When invoked, you must follow these steps:
        Sentence 1: Single declarative — the core meaning, directly stated.
        Sentence 2: The most important nuance or qualifier in one punchy line (e.g. "높이 날았느냐, 낮게 끌렸느냐에 따라 해석이 180도 달라져요").
      - **Tone rules for both:** Warm but authoritative. Never robotic or list-like. Use specific, vivid Korean (훨훨, 벅차다, etc.) over generic adjectives. The reader should feel they are getting insight, not reading a dictionary.
-   - `sections`: Array of objects, each with `heading` (H2), `content` (body text). Cover interpretation types such as 길몽 (auspicious) vs 흉몽 (inauspicious), 재물운 (wealth luck), 건강운 (health luck), 대인관계 (relationships), etc.
-   - `variations`: Array of objects, each with `heading` (H3), `content`. Each variation targets a long-tail keyword (e.g., "큰 뱀꿈", "뱀에 물리는 꿈", "하얀 뱀꿈")
+   - `sections`: Array of objects, each with `heading` (H2) and `body` (body text). Cover interpretation types such as 길몽 (auspicious) vs 흉몽 (inauspicious), 재물운 (wealth luck), 건강운 (health luck), 대인관계 (relationships), etc.
+   - `variations`: Array of objects, each with `heading` (H3) and `body`. Each variation targets a long-tail keyword (e.g., "큰 뱀꿈", "뱀에 물리는 꿈", "하얀 뱀꿈")
    - `culturalContext`: A section explaining the cultural and historical roots of this dream symbol's meaning in Korean tradition
    - `westernContext`: A dedicated section titled "서양 심리학적 해석" presenting the Freudian, Jungian, modern psychology, and cross-cultural perspectives from the research data. Use the `korean` sub-fields from `westernContext` in the research JSON. Structure as flowing prose with natural transitions between the four frameworks — do NOT just paste the raw research text verbatim; weave it into a cohesive section. 250-400 words.
    - `faqs`: Array of 5-8 FAQ objects with `question` and `answer` fields. Questions should mirror real user search queries on Naver. Answers should be concise (2-4 sentences) but complete
@@ -74,7 +74,7 @@ When invoked, you must follow these steps:
      - `en`: `https://kkumhaemong.com/en/dream/{slug}`
    - `naverSEO`: Object containing `blogPostTitle` (Naver Blog optimized, can be more casual/clickable than the page title) and `tags` (array of 8-15 relevant Korean tags for Naver Blog/Search)
 
-7. **Generate internal linking suggestions.** Add a `relatedDreams` array with 3-6 related dream symbol slugs that should be internally linked from this page. Base these on thematic or symbolic relationships (use `relatedSymbols` from the research file as a starting point).
+7. **Generate internal linking suggestions.** Add a `relatedSlugs` array with 3-6 related dream symbol slugs inside the `seo` object (i.e. `seo.relatedSlugs`). Base these on thematic or symbolic relationships (use `relatedSymbols` from the research file as a starting point). Do NOT add a root-level `relatedDreams` key.
 
 8. **Generate images via Google Imagen API.** Use the Bash tool to call Imagen and save images for this dream symbol.
 
@@ -193,6 +193,31 @@ When invoked, you must follow these steps:
 - Internal linking suggestions should be based on genuine thematic connections (e.g., snake dreams relate to dragon dreams, water dreams, animal dreams).
 - Use absolute file paths for all read and write operations.
 
+## Natural Writing — Banned Patterns
+
+These are machine-translation tells that harm Naver rankings and reader trust. **Never use any of the following:**
+
+### Korean banned patterns
+- `A — B — C` em-dash sandwiching (e.g. `꿈속에서 느낀 감정 — 두려움인가, 경외감인가 — 이것이 방향타입니다`) — use a natural sentence instead
+- `다양한 상황에 따라 달라집니다` — vague filler, appears in every LLM article
+- `~의 관점에서 살펴보면` — robotic academic framing
+- `~에 주목할 필요가 있습니다` — hedging filler
+- `흥미롭게도` — LLM crutch word
+- `심층적으로 분석해 보겠습니다` — no real Korean writer says this
+- `이러한 맥락에서` — overused connector
+- Every paragraph starting with the dream symbol word (`뱀꿈은...`, `뱀꿈의...`, `뱀꿈에서...`)
+- FAQ answers that restate the question before answering (`"뱀꿈이 길몽인지 궁금하신 분들을 위해..."`)
+- Conclusion paragraphs that summarize everything already said — instead, end with a forward-looking or emotionally resonant note
+- Every section ending with generic encouragement (`"긍정적으로 받아들이세요"`, `"좋은 일이 있을 것입니다"`)
+
+### English banned patterns
+- `It is worth noting that...`
+- `In the context of Korean dream interpretation...` as a paragraph opener (more than once)
+- `This dream symbol carries significant meaning...` — generic opener
+- `As we have seen...` — summary filler
+- Passive voice as the default (use active voice)
+- Starting consecutive paragraphs with the same word or phrase
+
 ## Output JSON Structure
 
 The output file at `data/content/{category}/{slug}.json` must follow this exact structure:
@@ -204,14 +229,14 @@ The output file at `data/content/{category}/{slug}.json` must follow this exact 
   "generatedAt": "ISO 8601 timestamp",
   "ko": {
     "title": "string",
-    "metaDescription": "string (120-160 chars)",
+    "metaDescription": "string (80-110 chars — Korean chars are visually 2x wide, do NOT exceed 110)",
     "h1": "string",
-    "intro": "string (150-200 words)",
+    "intro": "string",
     "sections": [
-      { "heading": "string", "content": "string" }
+      { "heading": "string", "body": "string" }
     ],
     "variations": [
-      { "heading": "string", "content": "string" }
+      { "heading": "string", "body": "string" }
     ],
     "culturalContext": "string",
     "westernContext": "string (서양 심리학적 해석 — 250-400 words, prose)",
@@ -224,12 +249,12 @@ The output file at `data/content/{category}/{slug}.json` must follow this exact 
     "title": "string",
     "metaDescription": "string (120-160 chars)",
     "h1": "string",
-    "intro": "string (150-200 words)",
+    "intro": "string",
     "sections": [
-      { "heading": "string", "content": "string" }
+      { "heading": "string", "body": "string" }
     ],
     "variations": [
-      { "heading": "string", "content": "string" }
+      { "heading": "string", "body": "string" }
     ],
     "culturalContext": "string",
     "westernContext": "string (Western Psychological Perspectives — 250-400 words, prose)",
@@ -264,7 +289,10 @@ The output file at `data/content/{category}/{slug}.json` must follow this exact 
       "inauspicious": "/images/dreams/{slug}/inauspicious.png"
     }
   },
-  "relatedDreams": ["string"]
+  "seo": {
+    ...
+    "relatedSlugs": ["string"]
+  }
 }
 ```
 

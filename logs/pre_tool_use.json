@@ -1162,5 +1162,223 @@
       "replace_all": false
     },
     "tool_use_id": "toolu_016Rce9Xf6qXLGHyZgN1dVb5"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Read",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/.claude/agents/dream-content-agent.md"
+    },
+    "tool_use_id": "toolu_01F9jXv6AA32axSLNbWayb2T"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/.claude/agents/dream-content-agent.md",
+      "old_string": "**Best Practices:**\n\n- Korean content must read like it was written by a knowledgeable \uafc8\ud574\ubabd expert, not a machine. Use natural sentence flow, varied sentence length, and appropriate formality (\ud574\uc694\uccb4 or \ud569\ub2c8\ub2e4\uccb4 consistently).\n- English content should educate and intrigue. Frame Korean dream interpretation as a rich cultural tradition, not superstition.\n- The `westernContext` section is a major content differentiator \u2014 our primary competitor (kkumhaemong.co.kr) does not include this. Write it with depth and intellectual engagement.\n- For Naver SEO: front-load keywords in titles, use question-format headings where appropriate, and ensure FAQ content matches common Naver search patterns (e.g., \"~\uafc8 \ud574\ubabd\", \"~\uafc8 \uafb8\uba74\").\n- For Google SEO: ensure structured data is complete and valid, meta descriptions are compelling, and content has clear heading hierarchy (H1 > H2 > H3).\n- Variations are critical for long-tail traffic. Each variation heading should be a realistic search query.\n- Never fabricate cultural information. If the research data does not include specific cultural context, write general but accurate statements about Korean dream interpretation tradition.\n- Internal linking suggestions should be based on genuine thematic connections (e.g., snake dreams relate to dragon dreams, water dreams, animal dreams).\n- Use absolute file paths for all read and write operations.",
+      "new_string": "**Best Practices:**\n\n- Korean content must read like it was written by a knowledgeable \uafc8\ud574\ubabd expert, not a machine. Use natural sentence flow, varied sentence length, and appropriate formality (\ud574\uc694\uccb4 or \ud569\ub2c8\ub2e4\uccb4 consistently).\n- English content should educate and intrigue. Frame Korean dream interpretation as a rich cultural tradition, not superstition.\n- The `westernContext` section is a major content differentiator \u2014 our primary competitor (kkumhaemong.co.kr) does not include this. Write it with depth and intellectual engagement.\n- For Naver SEO: front-load keywords in titles, use question-format headings where appropriate, and ensure FAQ content matches common Naver search patterns (e.g., \"~\uafc8 \ud574\ubabd\", \"~\uafc8 \uafb8\uba74\").\n- For Google SEO: ensure structured data is complete and valid, meta descriptions are compelling, and content has clear heading hierarchy (H1 > H2 > H3).\n- Variations are critical for long-tail traffic. Each variation heading should be a realistic search query.\n- Never fabricate cultural information. If the research data does not include specific cultural context, write general but accurate statements about Korean dream interpretation tradition.\n- Internal linking suggestions should be based on genuine thematic connections (e.g., snake dreams relate to dragon dreams, water dreams, animal dreams).\n- Use absolute file paths for all read and write operations.\n\n## Natural Writing \u2014 Banned Patterns\n\nThese are machine-translation tells that harm Naver rankings and reader trust. **Never use any of the following:**\n\n### Korean banned patterns\n- `A \u2014 B \u2014 C` em-dash sandwiching (e.g. `\uafc8\uc18d\uc5d0\uc11c \ub290\ub080 \uac10\uc815 \u2014 \ub450\ub824\uc6c0\uc778\uac00, \uacbd\uc678\uac10\uc778\uac00 \u2014 \uc774\uac83\uc774 \ubc29\ud5a5\ud0c0\uc785\ub2c8\ub2e4`) \u2014 use a natural sentence instead\n- `\ub2e4\uc591\ud55c \uc0c1\ud669\uc5d0 \ub530\ub77c \ub2ec\ub77c\uc9d1\ub2c8\ub2e4` \u2014 vague filler, appears in every LLM article\n- `~\uc758 \uad00\uc810\uc5d0\uc11c \uc0b4\ud3b4\ubcf4\uba74` \u2014 robotic academic framing\n- `~\uc5d0 \uc8fc\ubaa9\ud560 \ud544\uc694\uac00 \uc788\uc2b5\ub2c8\ub2e4` \u2014 hedging filler\n- `\ud765\ubbf8\ub86d\uac8c\ub3c4` \u2014 LLM crutch word\n- `\uc2ec\uce35\uc801\uc73c\ub85c \ubd84\uc11d\ud574 \ubcf4\uaca0\uc2b5\ub2c8\ub2e4` \u2014 no real Korean writer says this\n- `\uc774\ub7ec\ud55c \ub9e5\ub77d\uc5d0\uc11c` \u2014 overused connector\n- Every paragraph starting with the dream symbol word (`\ubc40\uafc8\uc740...`, `\ubc40\uafc8\uc758...`, `\ubc40\uafc8\uc5d0\uc11c...`)\n- FAQ answers that restate the question before answering (`\"\ubc40\uafc8\uc774 \uae38\ubabd\uc778\uc9c0 \uad81\uae08\ud558\uc2e0 \ubd84\ub4e4\uc744 \uc704\ud574...\"`)\n- Conclusion paragraphs that summarize everything already said \u2014 instead, end with a forward-looking or emotionally resonant note\n- Every section ending with generic encouragement (`\"\uae0d\uc815\uc801\uc73c\ub85c \ubc1b\uc544\ub4e4\uc774\uc138\uc694\"`, `\"\uc88b\uc740 \uc77c\uc774 \uc788\uc744 \uac83\uc785\ub2c8\ub2e4\"`)\n\n### English banned patterns\n- `It is worth noting that...`\n- `In the context of Korean dream interpretation...` as a paragraph opener (more than once)\n- `This dream symbol carries significant meaning...` \u2014 generic opener\n- `As we have seen...` \u2014 summary filler\n- Passive voice as the default (use active voice)\n- Starting consecutive paragraphs with the same word or phrase",
+      "replace_all": false
+    },
+    "tool_use_id": "toolu_01Vm2pszKuaNqV3B7vVWFH8r"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/.claude/agents/dream-content-agent.md",
+      "old_string": "   - `metaDescription`: 120-160 characters, include primary keyword within the first 60 characters, compelling and click-worthy",
+      "new_string": "   - `metaDescription`: **80-110 characters for Korean** (Korean chars are visually ~2x wide \u2014 do NOT use 120-160 for Korean). Include primary keyword within the first 40 characters, compelling and click-worthy",
+      "replace_all": false
+    },
+    "tool_use_id": "toolu_01VS3BwZTkpmMkU3byXuERWV"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Read",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/.claude/agents/dream-content-agent.md",
+      "offset": 200,
+      "limit": 80
+    },
+    "tool_use_id": "toolu_01WwN1djdbLSTXA9kkj7BEQL"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Read",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/.claude/agents/dream-content-agent.md",
+      "offset": 279,
+      "limit": 20
+    },
+    "tool_use_id": "toolu_01Epygnx2X9awoemU1sqL5ya"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/.claude/agents/dream-content-agent.md",
+      "old_string": "  \"ko\": {\n    \"title\": \"string\",\n    \"metaDescription\": \"string (120-160 chars)\",\n    \"h1\": \"string\",\n    \"intro\": \"string (150-200 words)\",\n    \"sections\": [\n      { \"heading\": \"string\", \"content\": \"string\" }\n    ],\n    \"variations\": [\n      { \"heading\": \"string\", \"content\": \"string\" }\n    ],\n    \"culturalContext\": \"string\",\n    \"westernContext\": \"string (\uc11c\uc591 \uc2ec\ub9ac\ud559\uc801 \ud574\uc11d \u2014 250-400 words, prose)\",\n    \"faqs\": [\n      { \"question\": \"string\", \"answer\": \"string\" }\n    ],\n    \"conclusion\": \"string\"\n  },\n  \"en\": {\n    \"title\": \"string\",\n    \"metaDescription\": \"string (120-160 chars)\",\n    \"h1\": \"string\",\n    \"intro\": \"string (150-200 words)\",\n    \"sections\": [\n      { \"heading\": \"string\", \"content\": \"string\" }\n    ],\n    \"variations\": [\n      { \"heading\": \"string\", \"content\": \"string\" }\n    ],\n    \"culturalContext\": \"string\",\n    \"westernContext\": \"string (Western Psychological Perspectives \u2014 250-400 words, prose)\",\n    \"faqs\": [\n      { \"question\": \"string\", \"answer\": \"string\" }\n    ],\n    \"conclusion\": \"string\"\n  },",
+      "new_string": "  \"ko\": {\n    \"title\": \"string\",\n    \"metaDescription\": \"string (80-110 chars \u2014 Korean chars are visually 2x wide, do NOT exceed 110)\",\n    \"h1\": \"string\",\n    \"intro\": \"string\",\n    \"sections\": [\n      { \"heading\": \"string\", \"body\": \"string\" }\n    ],\n    \"variations\": [\n      { \"heading\": \"string\", \"body\": \"string\" }\n    ],\n    \"culturalContext\": \"string\",\n    \"westernContext\": \"string (\uc11c\uc591 \uc2ec\ub9ac\ud559\uc801 \ud574\uc11d \u2014 250-400 words, prose)\",\n    \"faqs\": [\n      { \"question\": \"string\", \"answer\": \"string\" }\n    ],\n    \"conclusion\": \"string\"\n  },\n  \"en\": {\n    \"title\": \"string\",\n    \"metaDescription\": \"string (120-160 chars)\",\n    \"h1\": \"string\",\n    \"intro\": \"string\",\n    \"sections\": [\n      { \"heading\": \"string\", \"body\": \"string\" }\n    ],\n    \"variations\": [\n      { \"heading\": \"string\", \"body\": \"string\" }\n    ],\n    \"culturalContext\": \"string\",\n    \"westernContext\": \"string (Western Psychological Perspectives \u2014 250-400 words, prose)\",\n    \"faqs\": [\n      { \"question\": \"string\", \"answer\": \"string\" }\n    ],\n    \"conclusion\": \"string\"\n  },",
+      "replace_all": false
+    },
+    "tool_use_id": "toolu_01QhnMU5qGq7Y3LzWFCDnMMK"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/.claude/agents/dream-content-agent.md",
+      "old_string": "  \"relatedDreams\": [\"string\"]",
+      "new_string": "  \"seo\": {\n    ...\n    \"relatedSlugs\": [\"string\"]\n  }",
+      "replace_all": false
+    },
+    "tool_use_id": "toolu_01F6AHzZ3xGcPSb4QgAGS9yY"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/.claude/agents/dream-content-agent.md",
+      "old_string": "7. **Generate internal linking suggestions.** Add a `relatedDreams` array with 3-6 related dream symbol slugs that should be internally linked from this page. Base these on thematic or symbolic relationships (use `relatedSymbols` from the research file as a starting point).",
+      "new_string": "7. **Generate internal linking suggestions.** Add a `relatedSlugs` array with 3-6 related dream symbol slugs inside the `seo` object (i.e. `seo.relatedSlugs`). Base these on thematic or symbolic relationships (use `relatedSymbols` from the research file as a starting point). Do NOT add a root-level `relatedDreams` key.",
+      "replace_all": false
+    },
+    "tool_use_id": "toolu_018EDS9UU4VTgwmGt6bYrGW1"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/.claude/agents/dream-content-agent.md",
+      "old_string": "   - `sections`: Array of objects, each with `heading` (H2), `content` (body text). Cover interpretation types such as \uae38\ubabd (auspicious) vs \ud749\ubabd (inauspicious), \uc7ac\ubb3c\uc6b4 (wealth luck), \uac74\uac15\uc6b4 (health luck), \ub300\uc778\uad00\uacc4 (relationships), etc.\n   - `variations`: Array of objects, each with `heading` (H3), `content`. Each variation targets a long-tail keyword (e.g., \"\ud070 \ubc40\uafc8\", \"\ubc40\uc5d0 \ubb3c\ub9ac\ub294 \uafc8\", \"\ud558\uc580 \ubc40\uafc8\")",
+      "new_string": "   - `sections`: Array of objects, each with `heading` (H2) and `body` (body text). Cover interpretation types such as \uae38\ubabd (auspicious) vs \ud749\ubabd (inauspicious), \uc7ac\ubb3c\uc6b4 (wealth luck), \uac74\uac15\uc6b4 (health luck), \ub300\uc778\uad00\uacc4 (relationships), etc.\n   - `variations`: Array of objects, each with `heading` (H3) and `body`. Each variation targets a long-tail keyword (e.g., \"\ud070 \ubc40\uafc8\", \"\ubc40\uc5d0 \ubb3c\ub9ac\ub294 \uafc8\", \"\ud558\uc580 \ubc40\uafc8\")",
+      "replace_all": false
+    },
+    "tool_use_id": "toolu_01MTJAAQdxfbyutwtrunKRuJ"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Read",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/data/content/marriage/ex-girlfriend-dream.json",
+      "limit": 60
+    },
+    "tool_use_id": "toolu_01Y4iRudFRaZ7Rr9d1x3FJYX"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Read",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/data/content/marriage/ex-boyfriend-dream.json",
+      "limit": 60
+    },
+    "tool_use_id": "toolu_013vJXPc3WPNa1hHC4eVJVyp"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Read",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/components/dream/DreamSection.tsx"
+    },
+    "tool_use_id": "toolu_01QKnhNT7Vhtv2M2CXdjRzqx"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Read",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/components/dream/MarkdownBody.tsx"
+    },
+    "tool_use_id": "toolu_01CVwDJnNDJCYpfGGZk4v33e"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Write",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/scripts/strip-bold-markers.mjs",
+      "content": "#!/usr/bin/env node\n/**\n * Strip **bold** markdown from all content JSON body fields.\n * Converts **text** \u2192 text (removes the asterisks, keeps the content).\n */\n\nimport { readFile, writeFile } from \"fs/promises\";\nimport { glob } from \"glob\";\n\nconst files = await glob(\"data/content/**/*.json\");\nlet fixed = 0;\n\nfor (const file of files) {\n  const raw = await readFile(file, \"utf8\");\n  const stripped = raw.replace(/\\*\\*([^*]+)\\*\\*/g, \"$1\");\n  if (stripped !== raw) {\n    await writeFile(file, stripped, \"utf8\");\n    console.log(`\u2713 ${file}`);\n    fixed++;\n  }\n}\n\nconsole.log(`\\nDone. ${fixed} files updated.`);\n"
+    },
+    "tool_use_id": "toolu_01PsojWNPKFyf9nfxiGyM69v"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Bash",
+    "tool_input": {
+      "command": "node scripts/strip-bold-markers.mjs"
+    },
+    "tool_use_id": "toolu_0128hqwKFLjAMVgXxA42xVzH"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Bash",
+    "tool_input": {
+      "command": "source ~/.zshrc && node scripts/migrate-content-to-firestore.mjs 2>&1 | tail -5",
+      "timeout": 300000
+    },
+    "tool_use_id": "toolu_01MbfvJvPZzna2mnidZSTzVo"
   }
 ]
