@@ -36,8 +36,8 @@ export function CategoryDreamList({ items, locale, allLabel }: Props) {
             onClick={() => setActive(null)}
             className={`rounded-full border px-3.5 py-1.5 text-sm transition ${
               active === null
-                ? "border-amber-400 bg-amber-50 text-amber-800 dark:border-amber-700 dark:bg-amber-950/40 dark:text-amber-300"
-                : "border-stone-200 text-stone-500 hover:border-stone-300 dark:border-stone-800 dark:text-stone-400 dark:hover:border-stone-700"
+                ? "border-gold bg-gold/10 text-gold"
+                : "border-white/10 text-slate-400 hover:border-white/20 hover:text-slate-300"
             }`}
           >
             {allLabel}
@@ -48,8 +48,8 @@ export function CategoryDreamList({ items, locale, allLabel }: Props) {
               onClick={() => setActive(active === slug ? null : slug)}
               className={`rounded-full border px-3.5 py-1.5 text-sm transition ${
                 active === slug
-                  ? "border-amber-400 bg-amber-50 text-amber-800 dark:border-amber-700 dark:bg-amber-950/40 dark:text-amber-300"
-                  : "border-stone-200 text-stone-500 hover:border-stone-300 dark:border-stone-800 dark:text-stone-400 dark:hover:border-stone-700"
+                  ? "border-gold bg-gold/10 text-gold"
+                  : "border-white/10 text-slate-400 hover:border-white/20 hover:text-slate-300"
               }`}
             >
               {label}
@@ -59,7 +59,7 @@ export function CategoryDreamList({ items, locale, allLabel }: Props) {
       )}
 
       {/* Dream cards */}
-      <div className="space-y-3">
+      <div className="space-y-6">
         {filtered.map((preview, i) => (
           <>
             <DreamCard key={preview.slug} preview={preview} locale={locale} />

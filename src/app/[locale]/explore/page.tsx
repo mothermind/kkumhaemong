@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { getTranslations } from "next-intl/server";
 import { Link } from "@/i18n/navigation";
 import type { Locale } from "@/i18n/routing";
-import { getTaxonomyMeta } from "@/lib/taxonomy";
+import { getTaxonomyMeta, getTaxonomyCategory } from "@/lib/taxonomy";
 import { getAvailableContentSlugs } from "@/lib/content";
 
 type Props = { params: Promise<{ locale: string }> };
@@ -57,45 +57,52 @@ export default async function ExplorePage({ params }: Props) {
 
   const availableSet = new Set(availableSlugs);
 
+  // Count actual content per category in parallel
+  const categoryData = await Promise.all(
+    (meta?.categories ?? []).map((cat) => getTaxonomyCategory(cat.id))
+  );
+  const contentCountMap = new Map<string, number>();
+  (meta?.categories ?? []).forEach((cat, i) => {
+    const data = categoryData[i];
+    const count = data?.symbols.filter((s) => availableSet.has(s.slug)).length ?? 0;
+    contentCountMap.set(cat.id, count);
+  });
+
   return (
     <div className="mx-auto max-w-2xl px-4 py-10 sm:px-6">
       {/* Header */}
       <div className="mb-10">
         <h1
-          className="text-[2rem] font-bold text-stone-900 dark:text-stone-100"
+          className="text-[2rem] font-bold text-white"
           style={{ fontFamily: "var(--font-serif)" }}
         >
           {t("title")}
         </h1>
-        <p className="mt-2 text-stone-500 dark:text-stone-400">{t("subtitle")}</p>
+        <p className="mt-2 text-slate-400">{t("subtitle")}</p>
       </div>
 
       {/* Category grid */}
       <div className="grid grid-cols-2 gap-3 sm:grid-cols-3">
         {meta?.categories.map((cat) => {
-          // Count symbols with content (approximate: match category slug in available slugs)
-          const available = availableSlugs.filter((s) =>
-            availableSet.has(s)
-          ).length;
-          void available;
+          const contentCount = contentCountMap.get(cat.id) ?? 0;
 
           return (
             <Link
               key={cat.id}
               href={{ pathname: "/explore/[category]", params: { category: cat.id } }}
               locale={locale as Locale}
-              className="group flex flex-col gap-3 rounded-xl border border-stone-200 bg-white px-4 py-5 transition-colors hover:border-amber-300 dark:border-stone-800/60 dark:bg-stone-900/40 dark:hover:border-amber-800/50"
+              className="group flex flex-col gap-3 rounded-xl border border-white/5 bg-white/[0.03] px-4 py-5 transition-all hover:border-gold/30 hover:bg-white/[0.07]"
             >
               <span className="text-2xl">{CATEGORY_ICONS[cat.id] ?? "✦"}</span>
               <div>
                 <p
-                  className="font-bold text-stone-900 dark:text-stone-100"
+                  className="font-bold text-white"
                   style={{ fontFamily: "var(--font-serif)" }}
                 >
                   {locale === "ko" ? cat.korean : cat.english}
                 </p>
-                <p className="mt-0.5 text-xs text-stone-400 dark:text-stone-600">
-                  {cat.symbolCount}{locale === "ko" ? "개" : " symbols"}
+                <p className="mt-0.5 text-xs text-slate-500">
+                  {contentCount}{locale === "ko" ? "개" : " articles"}
                 </p>
               </div>
             </Link>

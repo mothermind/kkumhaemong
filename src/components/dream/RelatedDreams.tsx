@@ -1,3 +1,4 @@
+import Image from "next/image";
 import { Link } from "@/i18n/navigation";
 import { getContent } from "@/lib/content";
 import type { Locale } from "@/i18n/routing";
@@ -33,9 +34,9 @@ export async function RelatedDreams({ heading, slugs, locale }: Props) {
   if (!valid.length) return null;
 
   return (
-    <section className="mt-16 pt-10 border-t border-stone-200 dark:border-stone-800">
+    <section className="mt-16 pt-10 border-t border-white/10">
       <h2
-        className="text-[1.6rem] font-bold tracking-tight text-stone-900 mb-6 dark:text-stone-100"
+        className="text-[1.6rem] font-bold tracking-tight text-white mb-6"
         style={{ fontFamily: 'var(--font-serif)' }}
       >
         {heading}
@@ -48,18 +49,20 @@ export async function RelatedDreams({ heading, slugs, locale }: Props) {
               pathname: "/dream/[slug]",
               params: { slug: item.slug },
             }}
-            className="group rounded-xl border border-stone-200 bg-stone-50 p-3 transition-all hover:border-amber-400 hover:bg-amber-50/50 dark:border-stone-800/60 dark:bg-stone-900/60 dark:hover:border-amber-800/50 dark:hover:bg-amber-950/20"
+            className="group rounded-xl border border-white/5 bg-white/[0.03] p-3 transition-all hover:border-gold/30 hover:bg-white/[0.07]"
           >
             {item.hero && (
-              <div className="mb-3 h-20 w-full overflow-hidden rounded-lg bg-stone-200 dark:bg-stone-800">
-                <img
+              <div className="relative mb-3 h-20 w-full overflow-hidden rounded-lg bg-white/10">
+                <Image
                   src={item.hero}
                   alt={item.title}
-                  className="h-full w-full object-cover opacity-90 group-hover:opacity-100 transition-opacity dark:opacity-80"
+                  fill
+                  className="object-cover opacity-90 group-hover:opacity-100 transition-opacity"
+                  sizes="(max-width: 640px) 50vw, 33vw"
                 />
               </div>
             )}
-            <p className="text-sm font-medium text-stone-600 leading-snug transition-colors group-hover:text-amber-800 dark:text-stone-400 dark:group-hover:text-amber-200">
+            <p className="text-sm font-medium text-slate-400 leading-snug transition-colors group-hover:text-gold">
               {item.title}
             </p>
           </Link>

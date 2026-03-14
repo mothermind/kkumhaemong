@@ -66,7 +66,7 @@ export default async function CategoryExplorePage({ params }: Props) {
       <Link
         href="/explore"
         locale={locale as Locale}
-        className="mb-8 inline-block text-sm text-stone-400 transition hover:text-amber-700 dark:text-stone-600 dark:hover:text-amber-400"
+        className="mb-8 inline-block text-sm text-slate-500 transition hover:text-gold"
       >
         {t("backToExplore")}
       </Link>
@@ -74,16 +74,16 @@ export default async function CategoryExplorePage({ params }: Props) {
       {/* Header */}
       <div className="mb-8">
         <h1
-          className="text-[2rem] font-bold text-stone-900 dark:text-stone-100"
+          className="text-[2rem] font-bold text-white"
           style={{ fontFamily: "var(--font-serif)" }}
         >
           {categoryName}
           {locale === "ko" ? " 꿈해몽" : " Dream Meanings"}
         </h1>
-        <p className="mt-1.5 text-sm text-stone-500 dark:text-stone-400">
+        <p className="mt-1.5 text-sm text-slate-400">
           {t("availableCount", { count: enriched.length })}
           {comingSoonCount > 0 && (
-            <span className="ml-2 text-stone-400 dark:text-stone-600">
+            <span className="ml-2 text-slate-500">
               · {comingSoonCount}{locale === "ko" ? "개 준비 중" : " more coming soon"}
             </span>
           )}
@@ -98,8 +98,8 @@ export default async function CategoryExplorePage({ params }: Props) {
           allLabel={locale === "ko" ? "전체" : "All"}
         />
       ) : (
-        <div className="rounded-xl border border-dashed border-stone-200 px-6 py-16 text-center dark:border-stone-800">
-          <p className="text-stone-400 dark:text-stone-600">
+        <div className="rounded-xl border border-dashed border-white/10 px-6 py-16 text-center">
+          <p className="text-slate-500">
             {locale === "ko"
               ? "이 카테고리의 꿈해몽을 열심히 준비 중입니다."
               : "Dream interpretations for this category are coming soon."}

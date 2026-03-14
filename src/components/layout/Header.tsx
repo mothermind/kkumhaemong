@@ -27,7 +27,7 @@ export function Header({ locale }: { locale: Locale }) {
           <nav className="hidden md:flex gap-8">
             <Link
               href="/explore"
-              className="text-sm font-medium text-slate-300 hover:text-gold transition-colors"
+              className="text-sm font-bold text-slate-300 hover:text-gold transition-colors"
             >
               {t("explore")}
             </Link>
@@ -63,7 +63,7 @@ export function Header({ locale }: { locale: Locale }) {
           <Link
             href="/explore"
             onClick={() => setMenuOpen(false)}
-            className="block text-sm font-medium text-slate-300 hover:text-gold transition-colors py-2"
+            className="block text-sm font-bold text-slate-300 hover:text-gold transition-colors py-2"
           >
             {t("explore")}
           </Link>

@@ -3,18 +3,18 @@ import { MarkdownBody } from "./MarkdownBody";
 
 const TYPE_STYLES = {
   auspicious: {
-    heading: "text-amber-700 dark:text-amber-300",
-    badge: "bg-amber-50 text-amber-700 border border-amber-200 dark:bg-amber-400/10 dark:text-amber-400 dark:border-amber-700/40",
+    heading: "text-green-400",
+    badge: "bg-green-500/20 text-green-400 border border-green-500/30",
     label: "길몽",
   },
   inauspicious: {
-    heading: "text-rose-600 dark:text-rose-300",
-    badge: "bg-rose-50 text-rose-600 border border-rose-200 dark:bg-rose-400/10 dark:text-rose-400 dark:border-rose-700/40",
+    heading: "text-red-400",
+    badge: "bg-red-500/20 text-red-400 border border-red-500/30",
     label: "흉몽",
   },
   neutral: {
-    heading: "text-stone-800 dark:text-stone-100",
-    badge: "bg-stone-100 text-stone-500 border border-stone-200 dark:bg-stone-700/40 dark:text-stone-400 dark:border-stone-600/40",
+    heading: "text-white",
+    badge: "bg-white/10 text-slate-400 border border-white/10",
     label: "중립",
   },
 } as const;
