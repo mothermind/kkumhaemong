@@ -1,0 +1,270 @@
+{
+  "symbol": {
+    "korean": "양",
+    "english": "Sheep",
+    "slug": "sheep-dream"
+  },
+  "summary": {
+    "korean": "양꿈은 전통적으로 희생과 보답, 순수함과 평화, 그리고 재물운을 상징하는 꿈입니다. 양이 집 안으로 들어오거나 흰 양을 보는 꿈은 대표적인 길몽으로 금전운·태몽·귀인 만남을 예고하며, 양이 도망가거나 병든 양을 보는 꿈은 기회 상실이나 인간관계 문제를 경고합니다.",
+    "english": "Dreaming of a sheep traditionally symbolizes sacrifice, reciprocity, purity, and peace, along with financial fortune. A sheep entering the home or seeing a white sheep is considered a highly auspicious omen — foretelling wealth, a pregnancy, or the arrival of a helpful person. A sheep fleeing or appearing sick warns of missed opportunities or relationship troubles."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "양이 집 안으로 들어오는 꿈은 금전운과 재물운이 크게 상승하는 대길몽입니다. 귀인이 찾아오거나 뜻밖의 수입이 생길 징조로, 사업가에게는 거래처의 신뢰 획득을 의미하기도 합니다.",
+      "english": "A sheep entering your home is a major auspicious dream signaling a strong rise in financial fortune. It foretells the arrival of a helpful patron or unexpected income. For business owners, it may indicate winning the trust of an important client.",
+      "context": "재물·귀인 운"
+    },
+    {
+      "type": "길몽",
+      "korean": "새하얀 양을 보는 꿈은 태몽으로 자주 풀이됩니다. 순수하고 착한 성품을 가진 아이가 태어날 것을 예고하며, 임신 중이 아닌 경우에는 일신상에 좋은 일이 생기거나 유익한 소식을 전해줄 사람과의 만남을 암시합니다.",
+      "english": "Seeing a pure white sheep is commonly interpreted as a conception dream (태몽). It foretells the birth of a child with a gentle, virtuous character. For those not pregnant, it suggests good news arriving in one's personal life or a fateful encounter with a beneficial person.",
+      "context": "태몽·행운"
+    },
+    {
+      "type": "길몽",
+      "korean": "양을 손으로 쓰다듬는 꿈은 재물과 금전이 늘어나 부유해지고, 가정이 화목해질 길몽입니다. 대인 관계에서 따뜻한 신뢰가 쌓이고 가족 간의 유대가 깊어질 것을 예고합니다.",
+      "english": "Stroking a sheep with your hands is an auspicious dream foretelling increased wealth and a more harmonious household. It signals deepening trust in relationships and stronger family bonds.",
+      "context": "재물·가정 화목"
+    },
+    {
+      "type": "길몽",
+      "korean": "양 떼가 평화롭게 풀을 뜯고 있는 꿈은 현재 진행 중인 일이 자유롭고 낙천적으로 순조롭게 풀려나갈 것을 의미하는 길몽입니다. 팀이나 집단 전체에 안정과 번영이 찾아올 징조이기도 합니다.",
+      "english": "Seeing a flock of sheep peacefully grazing is an auspicious dream indicating that current projects will proceed smoothly and optimistically. It also foretells stability and prosperity for a group or team.",
+      "context": "사업·집단 번영"
+    },
+    {
+      "type": "길몽",
+      "korean": "양털을 깎는 꿈은 그동안의 노력이 실질적인 보상으로 이어질 것을 상징합니다. 오랫동안 준비해 온 일에서 결실을 맺거나, 재정적 수익이 발생할 징조입니다.",
+      "english": "Shearing a sheep's wool symbolizes tangible rewards from accumulated effort. It is a sign that long-prepared ventures will bear fruit or that financial gains are forthcoming.",
+      "context": "노력의 결실·재물"
+    },
+    {
+      "type": "길몽",
+      "korean": "양이 새끼를 낳는 꿈은 기쁜 소식의 도래와 일의 순탄한 진행을 예고합니다. 임신 중인 사람에게는 순산의 길조이며, 일반적으로는 새로운 시작이나 사업 확장을 의미합니다.",
+      "english": "A sheep giving birth foretells the arrival of joyful news and smooth progress. For pregnant women, it is a sign of easy delivery. In general, it signals a new beginning or business expansion.",
+      "context": "태몽·새로운 시작"
+    },
+    {
+      "type": "길몽",
+      "korean": "양고기를 먹는 꿈은 성취와 물질적 성공을 상징합니다. 풍요로운 식사 이미지가 재물운과 건강운의 상승으로 이어지는 길몽입니다.",
+      "english": "Eating mutton in a dream symbolizes achievement and material success. The image of an abundant meal translates into rising financial and health fortune.",
+      "context": "성취·물질적 풍요"
+    },
+    {
+      "type": "흉몽",
+      "korean": "양이 도망가거나 잃어버리는 꿈은 중요한 기회나 인연을 놓치게 될 것을 경고합니다. 사업상 파트너나 신뢰하던 아랫사람을 잃을 수 있으니 주변 관계를 점검해야 합니다.",
+      "english": "A sheep escaping or being lost warns of missing an important opportunity or connection. It may signal the loss of a business partner or a trusted subordinate, urging you to check your relationships.",
+      "context": "기회 상실·인간관계"
+    },
+    {
+      "type": "흉몽",
+      "korean": "늑대가 양을 잡아먹는 꿈은 자신을 돕던 부하직원이나 아랫사람이 경쟁자에게 빼앗기거나, 주변의 믿었던 사람으로부터 배신을 당할 수 있다는 경고입니다.",
+      "english": "A wolf devouring a sheep warns that a helpful subordinate may be lured away by competitors, or that a trusted person may betray you.",
+      "context": "배신·경쟁·손실"
+    },
+    {
+      "type": "흉몽",
+      "korean": "양이 병들거나 죽어가는 꿈은 가족의 건강 문제나 현재 진행 중인 프로젝트의 지연 및 차질을 예고합니다. 건강 관리와 업무 점검이 필요한 시기입니다.",
+      "english": "A sheep that is sick or dying foretells family health concerns or delays in an ongoing project. It is a signal to pay closer attention to health and to review ongoing work.",
+      "context": "건강·업무 차질"
+    },
+    {
+      "type": "흉몽",
+      "korean": "양 우리에 양들이 갇혀 답답해하는 꿈은 현재 하고 있는 일에서 자유롭지 못하고 제약받는 상황을 나타냅니다. 운이 좋아질 때까지 인내하며 기다려야 한다는 신호입니다.",
+      "english": "Sheep confined in a cramped pen represents a period of restriction and lack of freedom in current endeavors. It signals the need to exercise patience until conditions improve.",
+      "context": "제약·인내"
+    },
+    {
+      "type": "흉몽",
+      "korean": "양에게 손을 물리는 꿈은 신뢰하던 사람으로부터 배신당할 수 있음을 경고합니다. 가까운 인간관계에서 예상치 못한 상처를 받을 수 있으니 주의가 필요합니다.",
+      "english": "Being bitten by a sheep warns of betrayal from a trusted person. It signals potential unexpected emotional wounds from close relationships.",
+      "context": "배신·인간관계 경고"
+    },
+    {
+      "type": "neutral",
+      "korean": "양이 죽는 꿈은 반드시 나쁜 꿈이 아닙니다. 한 시절의 마무리와 새로운 국면의 시작을 상징하는 중립적인 전환의 꿈으로, 현재의 삶에서 변화나 마무리가 필요한 부분이 있음을 시사합니다.",
+      "english": "A sheep dying is not necessarily a bad omen. It symbolizes the completion of one life phase and the beginning of a new one — a neutral dream of transition suggesting that change or closure is needed in some area of life.",
+      "context": "전환·변화"
+    },
+    {
+      "type": "neutral",
+      "korean": "양이 방황하거나 길을 잃은 꿈은 현재 방향성에 대한 불확실함을 반영합니다. 인생의 목표와 진로를 재검토하거나 스스로의 선택을 되돌아볼 시기임을 암시합니다.",
+      "english": "A sheep wandering or lost reflects uncertainty about one's current direction. It suggests a time for reexamining life goals and reconsidering choices.",
+      "context": "자기 성찰·방향성"
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "흰 양 꿈",
+      "keyword_en": "White sheep dream",
+      "interpretation_ko": "순수함과 길조를 상징하는 흰 양은 태몽으로 해석되기도 하며, 선한 성품의 아이 탄생이나 주변에 좋은 기운이 가득할 것을 예고합니다. 일신상에 긍정적인 소식이 올 징조입니다.",
+      "interpretation_en": "A white sheep symbolizes purity and auspiciousness. Often interpreted as a conception dream, it foretells the birth of a child with a kind character or a general influx of positive energy. Expect good personal news."
+    },
+    {
+      "keyword_ko": "검은 양 꿈",
+      "keyword_en": "Black sheep dream",
+      "interpretation_ko": "검은 양은 조심스러운 꿈으로, 가족 내에서 이질적인 존재나 집단에서 소외된 구성원을 상징할 수 있습니다. 주변과의 갈등이나 오해가 생길 수 있으니 소통에 신경 써야 합니다.",
+      "interpretation_en": "A black sheep is a cautionary dream, potentially symbolizing an outsider within the family or group, or someone who feels marginalized. Pay attention to communication to avoid conflict or misunderstanding."
+    },
+    {
+      "keyword_ko": "황금빛 양 꿈",
+      "keyword_en": "Golden sheep dream",
+      "interpretation_ko": "황금빛으로 빛나는 양은 모든 분야에서 큰 성공과 발전을 예고하는 강력한 길몽입니다. 재물운, 명예운, 사업운이 동시에 상승할 징조입니다.",
+      "interpretation_en": "A sheep glowing golden is a powerful auspicious dream foretelling major success across all areas — financial fortune, reputation, and business prospects all rising simultaneously."
+    },
+    {
+      "keyword_ko": "양 떼 꿈",
+      "keyword_en": "Flock of sheep dream",
+      "interpretation_ko": "평화롭게 풀을 뜯는 양 떼는 집단 내의 화합과 사업의 순조로운 진행을 의미하는 길몽입니다. 반면 양 떼가 흩어지거나 패닉 상태라면 단체 내 갈등이나 계획의 차질을 경고합니다.",
+      "interpretation_en": "A flock of sheep peacefully grazing symbolizes group harmony and smooth business progress. However, if the flock is scattered or panicking, it warns of conflict within an organization or setbacks in plans."
+    },
+    {
+      "keyword_ko": "양이 집에 들어오는 꿈",
+      "keyword_en": "Sheep entering your home dream",
+      "interpretation_ko": "양이 집 안으로 들어오는 꿈은 재물과 귀인이 함께 찾아오는 대길몽입니다. 예상치 못한 금전적 행운이나 사업상 중요한 인연이 생길 것을 예고합니다.",
+      "interpretation_en": "A sheep entering your home is a major auspicious dream signaling incoming wealth and a helpful patron. Expect unexpected financial good luck or a significant new business connection."
+    },
+    {
+      "keyword_ko": "양을 잡는 꿈",
+      "keyword_en": "Catching a sheep dream",
+      "interpretation_ko": "양을 직접 잡거나 포획하는 꿈은 계획했던 일이 결실을 맺고 목표 달성이 임박했음을 의미합니다. 추진 중인 사업이나 시험에서 성공할 가능성이 높습니다.",
+      "interpretation_en": "Catching or capturing a sheep in a dream means that plans are bearing fruit and goal achievement is imminent. Success is likely in an ongoing business or exam."
+    },
+    {
+      "keyword_ko": "양에게 먹이를 주는 꿈",
+      "keyword_en": "Feeding a sheep dream",
+      "interpretation_ko": "양에게 먹이를 주는 꿈은 자신이 돌보는 사람들이나 책임진 일에서 인정을 받게 될 것을 의미합니다. 리더십과 배려가 주변으로부터 높이 평가받을 징조입니다.",
+      "interpretation_en": "Feeding a sheep signifies that your care and responsibility will be recognized. Leadership and thoughtfulness will be highly regarded by those around you."
+    },
+    {
+      "keyword_ko": "양털을 깎는 꿈",
+      "keyword_en": "Shearing sheep dream",
+      "interpretation_ko": "양털을 깎는 행위는 오랜 노력 끝에 수확의 시기가 왔음을 상징합니다. 금전적 보상이나 직업상의 성과가 구체적으로 나타날 것을 예고하는 길몽입니다.",
+      "interpretation_en": "Shearing sheep symbolizes the arrival of a harvest period after long effort. It foretells concrete financial rewards or tangible professional achievements."
+    },
+    {
+      "keyword_ko": "양이 우는 꿈",
+      "keyword_en": "Bleating sheep dream",
+      "interpretation_ko": "양이 크게 우는 꿈은 억눌렸던 감정이 폭발하거나 가까운 사람과의 갈등이 발생할 것을 경고합니다. 특히 양 떼가 함께 울부짖는 꿈은 집단 내 분쟁의 전조일 수 있습니다.",
+      "interpretation_en": "A sheep bleating loudly warns of suppressed emotions erupting or conflict with someone close. A whole flock crying out together may foreshadow a dispute within a group or organization."
+    },
+    {
+      "keyword_ko": "양을 타는 꿈",
+      "keyword_en": "Riding a sheep dream",
+      "interpretation_ko": "양 위에 올라타는 꿈은 어려운 상황을 부드럽게 헤쳐나가고 평화적으로 문제를 해결할 능력이 있음을 상징합니다. 중요한 결정에서 올바른 선택을 할 것을 암시하기도 합니다.",
+      "interpretation_en": "Riding a sheep symbolizes the ability to navigate difficult situations gently and resolve problems peacefully. It may also suggest making the right choice in an important decision."
+    },
+    {
+      "keyword_ko": "죽은 양 꿈",
+      "keyword_en": "Dead sheep dream",
+      "interpretation_ko": "죽은 양을 보는 꿈은 관계의 종료, 프로젝트의 마무리, 또는 오랜 제약으로부터의 해방을 상징할 수 있습니다. 맥락에 따라 새로운 출발의 전환점이 되기도 합니다.",
+      "interpretation_en": "Seeing a dead sheep can symbolize the end of a relationship, the conclusion of a project, or liberation from a long-standing constraint. Depending on context, it may mark a turning point toward a new beginning."
+    },
+    {
+      "keyword_ko": "산에서 풀 뜯는 양 꿈",
+      "keyword_en": "Sheep grazing on a mountain dream",
+      "interpretation_ko": "산이나 언덕에서 한가로이 풀을 뜯고 있는 양의 꿈은 현재 하고 있는 일이 자유롭고 낙천적으로 잘 진척될 것을 의미합니다. 심신의 평화와 일의 순조로운 진행을 예고하는 길몽입니다.",
+      "interpretation_en": "A sheep grazing peacefully on a mountain or hillside means that current endeavors will progress freely and optimistically. It is an auspicious dream foretelling mental peace and smooth progress in work."
+    }
+  ],
+  "culturalContext": {
+    "korean": "양은 한국의 십이지(十二支) 중 여덟 번째 동물로, 미시(未時)·미년(未年)·미월(未月)을 관장합니다. 한국 전통 문화에서 양은 순하고 착하며 남을 속일 줄 모르는 성품의 상징으로, 무리를 지어 살면서도 동료 간의 우위 다툼이 없어 평화의 상징으로 여겨졌습니다. 국립민속박물관에 따르면 한국의 민화(民畵)와 길상(吉祥) 소재에서 양은 행복·행운·가족의 무사 안전을 기원하는 상서로운 이미지로 자주 등장합니다. 고려 시대의 청자양(靑瓷羊)이나 조선 시대 민화 속 양은 위기에도 여유와 평화를 잃지 않는 존재로 묘사되며, 집안의 화목과 평온을 상징했습니다. 한국 무속(巫俗) 전통에서 양은 악귀를 물리치는 십이지신(十二支神) 중 하나로, 가정과 마을을 수호하는 신령스러운 동물로 인식되었습니다. 양꿈은 그 동물의 온순하고 희생적인 이미지로 인해 대체로 재물운·귀인운·태몽으로 풀이되는 길몽이 많으며, 양이 얼마나 건강하고 자유로운지가 꿈의 길흉을 판가름하는 핵심 요소입니다.",
+    "english": "The sheep is the eighth animal of the Korean zodiac (십이지), governing the hours, years, and months of 未 (mi). In traditional Korean culture, the sheep symbolizes a gentle, honest character that never deceives — a creature that lives communally without competing for dominance, making it a symbol of peace. According to the National Folk Museum of Korea, sheep frequently appear in folk paintings (민화) and auspicious motifs (길상), representing happiness, good fortune, and the safety of the family. Celadon sheep (청자양) from the Goryeo dynasty and sheep in Joseon-era folk art were depicted as serene beings who maintain composure even in difficulty, symbolizing household harmony. In Korean shamanism, the sheep is one of the twelve zodiac guardian spirits (십이지신), revered as a divine protector of homes and villages against evil spirits. Sheep dreams are predominantly auspicious, associated with financial fortune, helpful patrons, and conception omens — with the sheep's health and freedom being the key factors determining whether the dream is auspicious or cautionary."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트적 관점에서 양은 온순함과 복종의 이미지로 해석됩니다. 양을 돌보거나 이끄는 꿈은 타인에 대한 보호 본능이나 권위에 대한 욕구를 반영할 수 있습니다. 양 떼를 통제하는 꿈은 억압된 리더십 욕구나 집단 내에서의 지배 욕망이 표출된 것으로 볼 수 있습니다. 반면 양에게 쫓기는 꿈은 무의식 속에 억눌린 수동성 또는 사회적 압력에 대한 불안을 나타냅니다.",
+      "english": "From a Freudian perspective, sheep represent docility and submission. Dreaming of herding or caring for sheep may reflect a protective instinct toward others or a desire for authority. Controlling a flock can symbolize repressed leadership drives or dominance urges. Conversely, being chased by a sheep may indicate unconscious anxiety about passivity or social pressure."
+    },
+    "jungian": {
+      "korean": "융의 분석심리학에서 양은 집단 무의식 속의 '군중' 원형(archetype)을 상징합니다. 양은 개성화(individuation) 과정에서 집단에 동화되려는 경향 대 자기 자신이 되려는 의지 사이의 긴장을 나타냅니다. 하얀 양은 융이 말하는 '자기(Self)'의 순수하고 통합된 측면을 상징하며, 검은 양은 그림자(Shadow), 즉 인정하지 않으려는 자신의 어두운 면을 상징합니다. 양 꿈은 집단과 개인 사이에서 균형을 찾으라는 무의식의 메시지일 수 있습니다.",
+      "english": "In Jungian analytical psychology, sheep symbolize the 'crowd' archetype within the collective unconscious. They represent the tension between the tendency to conform to the group and the drive toward individuation — becoming one's authentic self. A white sheep symbolizes the pure, integrated aspect of the Jungian 'Self,' while a black sheep represents the Shadow — the unacknowledged darker facets of one's personality. A sheep dream may be the unconscious urging one to find balance between group belonging and individual identity."
+    },
+    "modern": {
+      "korean": "현대 꿈 연구에서 양꿈은 종종 스트레스 수준, 사회적 적합성에 대한 불안, 또는 직장 내 역할 갈등을 반영하는 것으로 해석됩니다. 양처럼 '무리를 따라가야' 한다는 압박감을 느끼는 현대인들이 양꿈을 꾸는 경우, 자신의 독립성과 개성을 재확인하고자 하는 심리적 욕구가 투영된 것으로 볼 수 있습니다. 양을 돌보는 꿈은 번아웃(burnout) 가능성에 대한 경고 신호로 해석되기도 합니다.",
+      "english": "In modern dream research, sheep dreams often reflect stress levels, anxiety about social conformity, or role conflict in the workplace. When people who feel pressured to 'follow the flock' dream of sheep, it may project a psychological need to reaffirm personal independence and individuality. Dreams of caring for sheep can also be interpreted as warning signals of potential burnout."
+    },
+    "crossCultural": {
+      "korean": "서양 문화권에서 양은 기독교의 상징으로 깊이 뿌리내려 있습니다. 예수 그리스도를 '하나님의 어린 양(Agnus Dei)'으로 묘사하는 전통에서 양은 순수한 희생, 구원, 신의 보호를 의미합니다. 중동 문화에서도 양은 부의 척도이자 신성한 제물로 여겨졌습니다. 중국 문화에서 양(羊)은 상서로움과 행운을 뜻하며, '상서(祥瑞)'라는 한자에도 양(羊)이 포함되어 있어 길조의 의미가 강합니다. 이처럼 전 세계적으로 양은 온순함·풍요·신성한 보호의 보편적 상징으로 기능하며, 한국의 전통 해석과도 맥락이 닿아 있습니다.",
+      "english": "In Western culture, the sheep is deeply rooted in Christian symbolism. The depiction of Jesus Christ as the 'Lamb of God (Agnus Dei)' associates sheep with pure sacrifice, redemption, and divine protection. In Middle Eastern cultures, sheep were measures of wealth and sacred offerings. In Chinese culture, the character for sheep (羊) is embedded in the word for 'auspiciousness' (祥瑞), giving it strong positive connotations. Across cultures, sheep function as a universal symbol of gentleness, abundance, and divine protection — themes that align closely with Korean traditional interpretations."
+    }
+  },
+  "relatedSymbols": [
+    "cow-dream",
+    "horse-dream",
+    "pig-dream",
+    "goat-dream",
+    "wolf-dream",
+    "dog-dream",
+    "rabbit-dream"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "양꿈",
+      "양꿈해몽",
+      "양 꿈 의미",
+      "양꿈 길몽",
+      "양꿈 흉몽",
+      "흰 양 꿈",
+      "양 떼 꿈",
+      "양이 집에 들어오는 꿈",
+      "양꿈 태몽",
+      "양을 쓰다듬는 꿈",
+      "양털 깎는 꿈",
+      "양꿈 재물운",
+      "양꿈 귀인",
+      "양꿈풀이"
+    ],
+    "english": [
+      "sheep dream meaning",
+      "dreaming of sheep",
+      "sheep dream interpretation",
+      "white sheep dream",
+      "flock of sheep dream",
+      "Korean sheep dream",
+      "sheep dream lucky omen",
+      "sheep dream spiritual meaning",
+      "sheep dream pregnancy",
+      "sheep dream wealth"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "양꿈은 길몽인가요, 흉몽인가요?",
+      "answer_ko": "양꿈은 대체로 길몽이 많습니다. 양은 한국 전통에서 평화·재물·귀인을 상징하는 동물로, 특히 흰 양이 집에 들어오거나 양 떼가 평화롭게 풀을 뜯는 꿈은 재물운과 행운을 예고하는 길몽입니다. 다만 양이 도망가거나, 병들었거나, 갇혀있는 꿈은 기회 상실이나 제약을 경고하는 흉몽으로 풀이될 수 있습니다.",
+      "question_en": "Is dreaming of a sheep a good or bad omen?",
+      "answer_en": "Sheep dreams are generally considered auspicious in Korean tradition. The sheep symbolizes peace, wealth, and helpful patrons, so seeing a white sheep enter your home or a flock grazing peacefully is a strong positive omen for financial fortune and good luck. However, a sheep escaping, falling ill, or being confined warns of missed opportunities or restriction."
+    },
+    {
+      "question_ko": "양꿈이 태몽이 될 수 있나요?",
+      "answer_ko": "네, 흰 양꿈은 한국 전통에서 대표적인 태몽 중 하나입니다. 순수하고 흰 양을 보는 꿈은 착하고 온순한 성품을 가진 아이가 태어날 것을 예고한다고 합니다. 임신 중에 이런 꿈을 꾸었다면 순산의 길조로 여기기도 합니다.",
+      "question_en": "Can a sheep dream be a pregnancy omen (태몽)?",
+      "answer_en": "Yes, seeing a white sheep is one of the classic pregnancy omens (태몽) in Korean tradition. It is said to foretell the birth of a child with a kind and gentle character. If a pregnant woman has this dream, it is also considered a sign of smooth, easy delivery."
+    },
+    {
+      "question_ko": "양 떼가 흩어지는 꿈은 무슨 의미인가요?",
+      "answer_ko": "양 떼가 평화롭게 있다가 갑자기 흩어지거나 패닉 상태가 되는 꿈은 현재 속한 조직이나 집단 내에서 갈등이나 분열이 생길 수 있음을 경고합니다. 사업이나 팀 프로젝트에서 예상치 못한 차질이 발생할 수 있으니 미리 대비하는 것이 좋습니다.",
+      "question_en": "What does it mean to dream of a flock of sheep scattering?",
+      "answer_en": "A peaceful flock of sheep suddenly scattering or panicking warns of potential conflict or division within your current organization or group. It may signal unexpected setbacks in a business or team project, so it is advisable to prepare in advance."
+    },
+    {
+      "question_ko": "양이 집에 들어오는 꿈을 꿨는데 무슨 의미인가요?",
+      "answer_ko": "양이 집 안으로 들어오는 꿈은 금전운과 재물운이 크게 상승하는 대길몽입니다. 귀인(도움을 주는 사람)이 찾아오거나 뜻밖의 수입이 생길 수 있으며, 가정에 좋은 기운이 가득 찰 것을 예고합니다.",
+      "question_en": "I dreamed of a sheep entering my home — what does it mean?",
+      "answer_en": "A sheep entering your home is considered a major auspicious dream, signaling a significant boost in financial fortune. It foretells the arrival of a helpful patron or unexpected income, and suggests that positive energy is about to fill your household."
+    },
+    {
+      "question_ko": "양에게 쫓기는 꿈은 어떻게 해석하나요?",
+      "answer_ko": "양에게 쫓기는 꿈은 현재 과도한 책임감이나 부담감을 느끼고 있다는 심리적 신호일 수 있습니다. 맡은 일이 너무 많거나 기대에 부응해야 한다는 압박감이 꿈으로 표출된 것으로, 스스로를 돌아보고 적절히 짐을 내려놓을 필요가 있음을 암시합니다.",
+      "question_en": "What does it mean to be chased by a sheep in a dream?",
+      "answer_en": "Being chased by a sheep is likely a psychological signal that you are feeling overwhelmed by excessive responsibility or pressure. It reflects anxiety about meeting expectations — a reminder to step back, reassess your burdens, and allow yourself some relief."
+    },
+    {
+      "question_ko": "검은 양이 나오는 꿈은 무슨 뜻인가요?",
+      "answer_ko": "꿈에 검은 양이 나오면 집단이나 가족 내에서 이질감이나 소외감을 느끼는 상황, 또는 주변과의 갈등을 상징할 수 있습니다. 자신이 '검은 양' 같은 존재로 느껴지거나 다른 누군가가 그런 처지에 있을 수 있으니 소통을 강화하라는 메시지로 해석합니다.",
+      "question_en": "What does it mean to see a black sheep in a dream?",
+      "answer_en": "A black sheep in a dream can symbolize feelings of alienation or being an outsider within a group or family, or potential conflict with those around you. Whether it represents yourself or someone else, it is a message to strengthen communication and bridge any growing distance."
+    }
+  ]
+}

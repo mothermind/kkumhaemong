@@ -1,0 +1,218 @@
+{
+  "symbol": {
+    "korean": "새알",
+    "english": "Bird Egg",
+    "slug": "bird-egg-dream"
+  },
+  "summary": {
+    "korean": "새알 꿈은 새로운 생명의 탄생, 무한한 가능성, 재물의 씨앗을 상징하는 대표적인 길몽으로, 알의 상태와 상황에 따라 임신·성공·횡재를 예고하거나 준비와 기다림의 시간을 암시해요.",
+    "english": "Dreaming of bird eggs is considered a deeply auspicious omen in Korean folk tradition, symbolizing new life, untapped potential, and seeds of prosperity — with the dream's specific message shaped by the eggs' condition, color, and how they appear."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "새 둥지에 여러 개의 알이 가득 담겨 있는 꿈은 재물이 크게 불어나고 집안에 경사가 겹치는 대길몽이에요. 각각의 알이 아직 부화하지 않은 것처럼 아직 실현되지 않은 풍요가 눈앞에 와 있음을 뜻하며, 사업가라면 다수의 수익 기회가 열리는 신호예요.",
+      "english": "A nest filled with many bird eggs is considered a major auspicious dream foretelling multiplying wealth and a household full of joyful events. Each unhatched egg represents untapped abundance on the verge of manifesting — for entrepreneurs, this signals multiple profitable opportunities about to open.",
+      "context": "둥지 속 다수의 알 — 재물 증식, 집안 경사, 사업 기회"
+    },
+    {
+      "type": "길몽",
+      "korean": "새알이 눈앞에서 부화하여 새끼가 태어나는 꿈은 오랫동안 준비하고 기다려온 일이 마침내 결실을 맺는 최고의 길몽 중 하나예요. 사업의 성공, 시험 합격, 오랜 목표 달성 등 구체적인 성취가 임박했음을 알려줘요. 임산부에게는 순산을 예고하는 강력한 태몽으로도 해석돼요.",
+      "english": "Watching a bird egg hatch before your eyes is among the most powerfully auspicious dreams, signaling that a long-nurtured plan is finally bearing fruit. Business success, exam results, or a long-cherished goal are imminent. For pregnant women, this is interpreted as a strong prophetic dream forecasting a safe and healthy delivery.",
+      "context": "알의 부화 — 계획 실현, 오랜 노력의 결실, 임산부 태몽"
+    },
+    {
+      "type": "길몽",
+      "korean": "꿈에서 새알을 직접 줍는 행위는 현실에서 예상치 못한 횡재나 소중한 기회를 손에 쥐게 됨을 뜻하는 길몽이에요. 알을 많이 주울수록 얻는 재물이나 기회의 크기도 커지며, 로또나 복권 당첨과 같은 행운을 암시하기도 해요.",
+      "english": "Picking up bird eggs in a dream is an auspicious omen indicating unexpected windfall gains or precious opportunities falling into your hands. The more eggs gathered, the greater the fortune — this dream is sometimes linked to lottery luck and surprise financial gains.",
+      "context": "알을 줍는 행위 — 횡재, 행운, 예기치 못한 기회"
+    },
+    {
+      "type": "길몽",
+      "korean": "알록달록하고 아름다운 색의 새알을 보는 꿈은 다채로운 기쁨과 함께 창의적인 역량이 꽃피는 시기가 다가오고 있음을 의미해요. 예술가나 창작업 종사자에게는 특히 강력한 영감과 대중의 인정을 예고하는 꿈으로 풀이돼요.",
+      "english": "Seeing beautifully colored or multi-hued bird eggs in a dream signals an approaching period of diverse joys and creative flourishing. For artists and creators, this dream specifically foretells a burst of inspiration and public recognition for their work.",
+      "context": "화려한 색의 알 — 창의성, 예술적 성취, 다채로운 기쁨"
+    },
+    {
+      "type": "길몽",
+      "korean": "새알을 먹는 꿈은 생명력과 자양분을 몸 안으로 흡수한다는 상징으로, 건강이 회복되거나 큰 에너지와 활력이 충전됨을 나타내요. 사업적으로는 좋은 아이디어나 핵심 정보를 얻어 경쟁에서 앞서 나가게 됨을 뜻하기도 해요.",
+      "english": "Eating bird eggs in a dream symbolizes absorbing life-force and nourishment, indicating health recovery, renewed vitality, or a great energy surge. In a business context, it can also represent gaining valuable insights or key information that gives you a competitive edge.",
+      "context": "알을 먹는 꿈 — 건강 회복, 활력 충전, 핵심 정보 획득"
+    },
+    {
+      "type": "흉몽",
+      "korean": "꿈에서 새알이 깨지거나 떨어져 깨지는 장면은 진행 중인 계획이나 소중히 키워온 것이 예기치 못하게 무너질 수 있음을 경고하는 흉몽이에요. 특히 자신이 실수로 알을 깨뜨리는 꿈은 본인의 부주의나 성급한 판단으로 인한 손실을 조심하라는 메시지예요.",
+      "english": "Eggs cracking, breaking, or shattering in a dream warn that an ongoing plan or something carefully nurtured may unexpectedly collapse. If you break the eggs by accident, the dream cautions against your own carelessness or hasty decisions causing avoidable losses.",
+      "context": "알이 깨지는 꿈 — 계획 실패, 손실 위험, 부주의 경고"
+    },
+    {
+      "type": "흉몽",
+      "korean": "새알이 썩었거나 이상한 냄새가 나는 꿈은 겉으로는 가능성 있어 보이는 기회가 실제로는 거짓이나 함정일 수 있음을 암시해요. 주변에서 제안하는 투자나 거래를 신중하게 검토하고 표면적인 이익에 현혹되지 않도록 주의해야 해요.",
+      "english": "Rotten or foul-smelling bird eggs in a dream warn that an opportunity appearing promising on the surface may actually conceal deception or a trap. Exercise caution with investment proposals or deals being offered to you — do not be blinded by surface-level gains.",
+      "context": "썩은 알 — 거짓 기회, 투자 사기 경고, 현혹 주의"
+    },
+    {
+      "type": "neutral",
+      "korean": "새가 알을 품고 있는 꿈은 현재 무언가를 조용히 준비하고 기다리는 시간임을 반영해요. 아직 결과가 나오지 않았지만 올바른 방향으로 가고 있으며, 인내하면 반드시 결실이 맺힌다는 메시지를 담고 있어요.",
+      "english": "A bird brooding over eggs reflects the current state of quietly preparing and waiting for something to mature. Results have not yet arrived, but the direction is right — the dream's message is that patience will inevitably be rewarded.",
+      "context": "알을 품는 꿈 — 준비 기간, 인내의 메시지, 잠재력 성숙 중"
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "새 둥지에 알이 있는 꿈",
+      "keyword_en": "bird nest with eggs dream",
+      "interpretation_ko": "안정된 기반 위에 가능성이 가득 쌓여 있는 형상으로, 가정의 평안과 재물의 축적을 동시에 예고하는 강력한 길몽이에요. 현재 하고 있는 일에 안정적인 기초가 마련되어 있음을 나타내요.",
+      "interpretation_en": "Eggs resting safely in a nest symbolize abundant potential built on a stable foundation, foretelling both domestic harmony and accumulating wealth. This dream affirms that what you are currently building has a solid base."
+    },
+    {
+      "keyword_ko": "알이 부화하는 꿈",
+      "keyword_en": "egg hatching dream",
+      "interpretation_ko": "오래 기다려온 계획이나 프로젝트가 드디어 현실화되는 시점을 알리는 꿈이에요. 새로운 관계, 새 사업, 자녀의 탄생 등 생명력 있는 새로운 국면이 열릴 조짐이에요.",
+      "interpretation_en": "This dream announces that a long-awaited plan or project is finally manifesting in reality. It heralds the opening of a vital new chapter — a new relationship, a new business venture, or the birth of a child."
+    },
+    {
+      "keyword_ko": "새알을 줍는 꿈",
+      "keyword_en": "picking up bird eggs dream",
+      "interpretation_ko": "우연히 찾아오는 행운이나 예상치 못한 재물 취득을 상징해요. 복권 당첨이나 유산 수령처럼 노력과 무관하게 들어오는 행운의 신호로 해석돼요.",
+      "interpretation_en": "Symbolizes chance luck and unexpected financial gain. Interpreted as a harbinger of fortune unrelated to effort — like a lottery win or an unexpected inheritance."
+    },
+    {
+      "keyword_ko": "새알이 깨지는 꿈",
+      "keyword_en": "broken bird egg dream",
+      "interpretation_ko": "소중한 무언가를 잃거나 기대했던 결과가 실망으로 끝날 수 있음을 경고해요. 중요한 결정 앞에서 충동적인 행동을 삼가고 신중함을 유지하라는 메시지예요.",
+      "interpretation_en": "Warns of losing something precious or an anticipated outcome ending in disappointment. A message to avoid impulsive actions and maintain caution before important decisions."
+    },
+    {
+      "keyword_ko": "알록달록한 새알 꿈",
+      "keyword_en": "colorful bird egg dream",
+      "interpretation_ko": "다양한 즐거움과 창의적 기회의 도래를 뜻해요. 예술이나 창작 분야에서 뛰어난 성과를 내거나 사람들의 관심을 받게 될 꿈이에요.",
+      "interpretation_en": "Signifies the arrival of diverse pleasures and creative opportunities. Especially favorable for artistic or creative pursuits — fame and recognition may follow."
+    },
+    {
+      "keyword_ko": "새알을 먹는 꿈",
+      "keyword_en": "eating bird egg dream",
+      "interpretation_ko": "생명력과 건강을 직접 취하는 상징으로, 체력 회복이나 중요한 지식·기회를 내 것으로 만들게 될 길몽이에요.",
+      "interpretation_en": "Symbolizes directly absorbing life-force and health — an auspicious sign of physical recovery, or gaining important knowledge and opportunities."
+    },
+    {
+      "keyword_ko": "많은 새알을 보는 꿈",
+      "keyword_en": "many bird eggs dream",
+      "interpretation_ko": "다산과 풍요의 상징으로, 재물이 여러 방향에서 동시에 늘어날 것을 예고해요. 임산부라면 다산이나 건강한 아이의 탄생을 암시하는 태몽으로 풀이되기도 해요.",
+      "interpretation_en": "A symbol of fertility and abundance, forecasting wealth growing from multiple directions simultaneously. For pregnant women, this may be interpreted as a prophetic dream of a healthy birth or multiple children."
+    },
+    {
+      "keyword_ko": "새알을 품는 꿈",
+      "keyword_en": "brooding over bird eggs dream",
+      "interpretation_ko": "현재 조심스럽게 돌보고 있는 계획이나 관계가 있음을 나타내며, 그 노력이 반드시 결실을 맺을 것이라는 확신의 꿈이에요.",
+      "interpretation_en": "Reflects a plan or relationship you are currently nurturing with care — a reassuring dream that your efforts will inevitably bear fruit."
+    },
+    {
+      "keyword_ko": "썩은 새알 꿈",
+      "keyword_en": "rotten bird egg dream",
+      "interpretation_ko": "겉으로 좋아 보이는 기회나 제안에 실제로는 독이 숨어 있을 수 있음을 경고해요. 투자나 협력 제안을 꼼꼼히 검토하는 것이 필요해요.",
+      "interpretation_en": "Warns that an outwardly attractive opportunity or proposal may harbor hidden dangers. Thorough due diligence on investment or partnership offers is urgently advised."
+    },
+    {
+      "keyword_ko": "새알 태몽",
+      "keyword_en": "bird egg prophetic pregnancy dream",
+      "interpretation_ko": "새알은 전통적으로 강력한 태몽 소재 중 하나로, 장차 태어날 아이가 세상에 이름을 알릴 재능 있는 인물이 될 것임을 예고해요. 특히 아름답고 큰 알일수록 아이의 그릇이 크다고 풀이해요.",
+      "interpretation_en": "Bird eggs are traditionally powerful symbols in Korean prophetic pregnancy dreams (태몽), foretelling that the child to be born will grow into a talented and celebrated person. The more beautiful and larger the egg, the greater the child's future stature is said to be."
+    }
+  ],
+  "culturalContext": {
+    "korean": "한국 전통 꿈해몽에서 알(卵)은 생명의 근원이자 아직 실현되지 않은 무한한 가능성을 담은 그릇으로 여겨져 왔어요. 특히 새알은 하늘과 땅을 오가는 새가 낳은 것으로서 신성한 기운을 담고 있다고 믿었어요. 고대 한국의 건국 신화에서도 알은 핵심 모티프로 등장하는데, 신라의 시조 박혁거세와 가야의 시조 수로왕이 모두 알에서 태어난 것으로 전해지며, 이는 알이 단순한 생물학적 기원을 넘어 신성한 왕권과 탁월한 운명의 상징임을 보여줘요. 이런 문화적 배경 때문에 꿈에 새알이 등장하는 것은 특별한 기운이 자신에게 깃들었다는 강력한 신호로 여겨지며, 태몽 중에서도 새알 꿈은 크게 될 인물의 탄생을 예고하는 길몽 중의 길몽으로 전해져 왔어요.",
+    "english": "In Korean folk dream tradition, an egg (알, 卵) has long been regarded as the origin of life and a vessel of infinite unrealized potential. Bird eggs in particular were believed to carry sacred energy, as they were laid by creatures that traverse both heaven and earth. In ancient Korean founding myths, the egg is a central motif: the legendary progenitors of the Silla and Gaya kingdoms — Park Hyeokgeose and King Suro — were both said to have been born from eggs, establishing the egg as a symbol not merely of biological origin but of divine kingship and extraordinary destiny. Against this deep cultural backdrop, dreaming of bird eggs is considered a powerful signal that exceptional fortune is at work in one's life — and among prophetic pregnancy dreams (태몽), the bird egg dream has long been revered as one of the most auspicious omens of all, foretelling the birth of a person destined for greatness."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트적 관점에서 새알은 무의식 속에 억눌린 창조적 충동이나 성적 에너지의 상징으로 해석될 수 있어요. 아직 깨어나지 않은 알의 이미지는 외부로 표현되지 못한 욕망과 잠재적 생명력을 나타내며, 알이 부화하는 꿈은 억압된 내면의 에너지가 마침내 의식의 표면으로 터져 나오는 순간을 의미해요.",
+      "english": "From a Freudian perspective, bird eggs can symbolize repressed creative or libidinal energy buried in the unconscious. The image of an unhatched egg represents unexpressed desires and latent vitality, while a hatching egg signifies repressed inner energy finally breaking through to the surface of consciousness."
+    },
+    "jungian": {
+      "korean": "융 심리학에서 알은 '자기(Self)'의 전일성을 담은 원형적 상징인 '만다라'와 유사한 위상을 가져요. 새알 꿈은 자아의 개성화 과정, 즉 무의식과 의식이 통합되어 온전한 자아로 성장하는 여정을 상징해요. 부화 전의 알은 아직 분화되지 않은 전체성의 잠재 상태를 나타내며, 부화는 내면의 자아가 세상에 자신을 드러내는 변환의 순간으로 해석돼요.",
+      "english": "In Jungian psychology, the egg holds an archetypal status similar to the mandala — a symbol of the Self's wholeness. A bird egg dream represents the individuation process: the journey of integrating unconscious and conscious elements into a fully realized self. The unhatched egg embodies undifferentiated wholeness in potential, while hatching marks the transformative moment when the inner self reveals itself to the world."
+    },
+    "modern": {
+      "korean": "현대 심리학에서는 새알 꿈이 꿈꾸는 사람의 잠재 능력에 대한 자기 인식 또는 아직 실행에 옮기지 못한 아이디어와 프로젝트에 대한 무의식적 처리를 반영한다고 봐요. 깨진 알은 스스로도 인식하지 못한 두려움이나 낮은 자기효능감을 나타낼 수 있으며, 건강하게 부화하는 알은 성장 마인드셋과 자기 신뢰가 향상되는 심리 상태를 반영해요.",
+      "english": "Modern psychology views bird egg dreams as reflections of the dreamer's self-awareness about their own potential, or as unconscious processing of ideas and projects not yet acted upon. Broken eggs may represent unacknowledged fears or low self-efficacy, while healthy hatching eggs mirror an improving growth mindset and rising self-confidence."
+    },
+    "crossCultural": {
+      "korean": "알은 동서양을 막론하고 보편적인 창조의 상징이에요. 힌두교에서는 황금알(Hiranyagarbha)이 우주 창조의 근원으로 등장하며, 기독교 전통에서는 부활절 달걀이 부활과 새로운 생명을 상징해요. 중국 꿈해몽에서 새알을 줍는 꿈은 횡재를 뜻하며, 이집트 신화에서는 원초의 알에서 태양신 라(Ra)가 탄생한다고 전해져요. 이처럼 문화를 초월해 알은 시작, 탄생, 무한한 가능성의 보편적 원형으로 자리 잡고 있어요.",
+      "english": "The egg is a universal symbol of creation across cultures. In Hinduism, the golden egg (Hiranyagarbha) is the source of cosmic creation; in Christian tradition, the Easter egg symbolizes resurrection and new life; Chinese dream interpretation treats finding eggs as a sign of windfall; and in Egyptian mythology, the sun god Ra is born from a primordial egg. Across cultures, the egg consistently serves as a universal archetype of beginnings, birth, and infinite possibility."
+    }
+  },
+  "relatedSymbols": [
+    "bird-dream",
+    "bird-flying-dream",
+    "chicken-dream",
+    "crane-dream",
+    "nest-dream",
+    "hatching-dream",
+    "pregnancy-dream",
+    "animal-baby-dream"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "새알 꿈해몽",
+      "새알 꿈 의미",
+      "새 알 꿈",
+      "새알 꿈 길몽",
+      "알 꿈해몽",
+      "알을 줍는 꿈",
+      "알이 부화하는 꿈",
+      "깨진 알 꿈",
+      "새알 태몽",
+      "둥지에 알 꿈",
+      "새알 꿈 재물",
+      "알을 먹는 꿈해몽",
+      "알록달록 새알 꿈",
+      "새알 꿈 임신"
+    ],
+    "english": [
+      "bird egg dream meaning",
+      "bird egg dream interpretation Korean",
+      "hatching egg dream",
+      "finding eggs dream",
+      "broken egg dream meaning",
+      "nest with eggs dream",
+      "bird egg dream lucky",
+      "Korean egg dream symbolism",
+      "bird egg pregnancy dream",
+      "colorful egg dream meaning"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "새알 꿈은 길몽인가요, 흉몽인가요?",
+      "answer_ko": "새알 꿈은 대체로 강력한 길몽으로 분류돼요. 특히 건강한 알이 둥지에 가득하거나 부화하는 꿈은 재물, 성공, 출산을 예고하는 최상급 길몽이에요. 다만 알이 깨지거나 썩는 꿈은 계획의 실패나 거짓 기회를 조심하라는 경고로 풀이돼요.",
+      "answer_en": "Bird egg dreams are generally classified as powerfully auspicious. A nest full of healthy eggs or a hatching dream is among the best omens, foretelling wealth, success, or childbirth. However, broken or rotten eggs are cautionary signs warning of failed plans or deceptive opportunities.",
+      "question_en": "Is dreaming of bird eggs a lucky or unlucky dream?"
+    },
+    {
+      "question_ko": "새알을 줍는 꿈은 무슨 의미인가요?",
+      "answer_ko": "새알을 줍는 꿈은 예상치 못한 횡재나 행운이 찾아올 것을 뜻하는 대표적인 길몽이에요. 로또 당첨, 유산 수령, 또는 일상에서 뜻밖의 기회가 열리는 것을 암시하며, 주울수록 더 큰 행운을 나타내요.",
+      "answer_en": "Picking up bird eggs in a dream is a classic auspicious omen indicating unexpected windfall or good luck heading your way. It can hint at a lottery win, an inheritance, or surprise opportunities — the more eggs gathered, the greater the fortune."
+    },
+    {
+      "question_ko": "알이 부화하는 꿈을 꿨는데 어떤 의미인가요?",
+      "answer_ko": "알이 부화하는 꿈은 오랫동안 준비해온 일이 드디어 결실을 맺을 시기가 왔음을 알려주는 꿈이에요. 사업 성공, 목표 달성, 혹은 임산부라면 순산을 예고하는 매우 강력한 길몽으로 풀이돼요. 결과를 기다리고 있는 중요한 일이 있다면 좋은 소식을 기대해도 좋아요.",
+      "answer_en": "Dreaming of an egg hatching signals that something you have long been nurturing is finally ready to manifest. It is a very powerful auspicious dream pointing to business success, goal achievement, or — for expectant mothers — a safe delivery. If you are awaiting results on something important, expect good news soon."
+    },
+    {
+      "question_ko": "새알 꿈이 태몽이 될 수 있나요?",
+      "answer_ko": "네, 새알 꿈은 한국 전통에서 대표적인 태몽 소재 중 하나예요. 특히 아름답고 크며 건강해 보이는 알을 꿈에서 보거나 받는 경우, 장차 태어날 아이가 재능 있고 세상에 이름을 날릴 인물이 될 것이라는 강력한 태몽으로 해석돼요.",
+      "answer_en": "Yes, bird egg dreams are among the classic prophetic pregnancy dreams (태몽) in Korean tradition. Particularly when the eggs appear beautiful, large, and healthy — especially if you receive them — the dream foretells a talented child destined to be celebrated in the world."
+    },
+    {
+      "question_ko": "새알이 깨지는 꿈은 왜 나쁜 건가요?",
+      "answer_ko": "깨진 알은 아직 성숙하지 않은 상태에서 실현 가능성이 사라진 것을 상징해요. 진행 중인 계획이 예기치 못한 이유로 무산되거나, 소중한 무언가를 잃을 수 있다는 경고예요. 특히 중요한 결정을 앞두고 있다면 충동적 행동을 삼가고 신중을 기하는 것이 좋아요.",
+      "answer_en": "A broken egg symbolizes potential destroyed before it could fully develop. It warns that an ongoing plan may be disrupted unexpectedly or that something precious may be lost. If you are facing important decisions, heed this as a call for caution rather than impulsive action."
+    },
+    {
+      "question_ko": "알록달록한 색의 새알 꿈은 어떻게 풀이하나요?",
+      "answer_ko": "알록달록하고 화려한 색의 새알 꿈은 창의성과 다양한 기쁨의 도래를 알리는 길몽이에요. 예술가나 크리에이터라면 특히 좋은 꿈으로, 주변에서 인정받을 훌륭한 작품을 만들어 내거나 새로운 창작 기회가 열릴 것을 예고해요.",
+      "answer_en": "Dreaming of colorful, vividly hued bird eggs is an auspicious omen of creative energy and diverse joys to come. For artists and creatives especially, it foretells producing celebrated work or the opening of exciting new creative opportunities."
+    }
+  ]
+}

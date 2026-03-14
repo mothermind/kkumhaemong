@@ -1,0 +1,243 @@
+{
+  "symbol": {
+    "korean": "동물에게 쫓기는",
+    "english": "Chased by Animal",
+    "slug": "chased-by-animal-dream"
+  },
+  "summary": {
+    "korean": "동물에게 쫓기는 꿈은 현실에서 억압된 감정, 회피하고 싶은 문제, 또는 심리적 압박감을 반영하는 꿈으로, 대체로 흉몽에 속하지만 쫓는 동물의 종류와 꿈의 결말에 따라 재물운·임신·전화위복의 길몽으로 해석되기도 합니다.",
+    "english": "Being chased by an animal in a dream typically reflects suppressed emotions, unresolved problems, or psychological pressure in waking life. While generally considered inauspicious, the specific animal, the dreamer's emotional response, and the dream's outcome can shift the interpretation toward fortune, pregnancy omens, or a favorable turning of circumstances."
+  },
+  "interpretations": [
+    {
+      "type": "흉몽",
+      "korean": "동물에게 쫓기는 꿈은 기본적으로 운기가 저하된 상태를 나타내며, 정신적·육체적 피로와 스트레스가 극에 달해 있음을 경고합니다. 현실에서 직면하고 싶지 않은 문제나 갈등을 회피하고 있을 가능성이 높으며, 건강 관리와 주변 인간관계에 각별한 주의가 필요한 시기입니다.",
+      "english": "Being chased by an animal generally signals a period of declining fortune and warns of peak mental and physical exhaustion. It often reflects avoidance of real-life conflicts or problems the dreamer does not want to confront, indicating a need for caution regarding health and interpersonal relationships.",
+      "context": "general_inauspicious"
+    },
+    {
+      "type": "흉몽",
+      "korean": "뱀에게 쫓기는 꿈은 주변 사람들의 비난, 이간질, 배신의 징조로 해석됩니다. 재물 손실이나 대인관계의 갈등이 발생할 수 있으며, 소문이나 험담으로 인한 불이익을 조심해야 합니다.",
+      "english": "Being chased by a snake is interpreted as a sign of criticism, betrayal, or slander from those around the dreamer. Financial loss and interpersonal conflict may arise, and caution is advised against rumors or gossip causing harm.",
+      "context": "snake_chase"
+    },
+    {
+      "type": "흉몽",
+      "korean": "악어에게 쫓기는 꿈은 가까운 미래에 재앙이나 큰 위험이 닥쳐올 수 있음을 경고하며, 건강의 악화도 암시합니다. 중요한 결정은 신중하게 내리고 무리한 도전을 자제해야 할 시기입니다.",
+      "english": "Being chased by a crocodile warns of an impending disaster or serious danger in the near future, and may also signal deteriorating health. It is a time to exercise caution in important decisions and avoid reckless challenges.",
+      "context": "crocodile_chase"
+    },
+    {
+      "type": "흉몽",
+      "korean": "벌레나 곤충에게 쫓기는 꿈은 타인의 시기와 질투, 원망으로 인해 고통받게 될 것을 암시합니다. 직장이나 사회적 환경에서 예상치 못한 갈등이나 방해 공작에 주의해야 합니다.",
+      "english": "Being chased by bugs or insects suggests that the dreamer will suffer from others' jealousy, envy, or resentment. Unexpected conflicts or sabotage in the workplace or social environment warrant caution.",
+      "context": "insect_chase"
+    },
+    {
+      "type": "흉몽",
+      "korean": "까마귀에게 쫓기는 꿈은 임박한 재앙이나 예상치 못한 사고를 예고하는 강한 흉몽입니다. 한국 민속에서 까마귀는 불길함의 상징이므로 이 꿈 이후에는 안전에 특히 유의해야 합니다.",
+      "english": "Being chased by a crow is a strong omen of imminent disaster or unexpected accidents. In Korean folklore, the crow symbolizes misfortune, so heightened caution regarding personal safety is advised after this dream.",
+      "context": "crow_chase"
+    },
+    {
+      "type": "길몽",
+      "korean": "곰에게 쫓기는 꿈은 역설적으로 길몽으로 해석되는 경우가 많습니다. 곰은 한국 전통에서 재물, 권력, 큰 행운의 상징이므로 곰에게 쫓기는 꿈은 그 기운이 꿈꾼 이에게 다가오는 신호로 풀이됩니다. 오랫동안 노력해온 일이 결실을 맺고 긍정적인 변화가 찾아올 것임을 예고합니다.",
+      "english": "Being chased by a bear is paradoxically often interpreted as auspicious. Since bears symbolize wealth, authority, and great fortune in Korean tradition, being pursued by a bear signals that such energy is approaching the dreamer. It foretells the fruition of long-term efforts and the arrival of positive changes.",
+      "context": "bear_chase_auspicious"
+    },
+    {
+      "type": "길몽",
+      "korean": "호랑이에게 쫓기다가 잡히거나 물리는 꿈은 강력한 길몽입니다. 호랑이의 기운을 직접 받는 것으로 해석되어 큰 재물, 권력, 명예를 얻게 된다는 의미입니다. 호랑이는 한국의 민족 수호신이자 최고의 권위를 상징하기 때문입니다.",
+      "english": "Being chased and caught or bitten by a tiger is a powerful auspicious omen. It is interpreted as directly receiving the tiger's energy, signifying the attainment of great wealth, power, and honor. The tiger is Korea's guardian deity and symbol of supreme authority.",
+      "context": "tiger_chase_auspicious"
+    },
+    {
+      "type": "길몽",
+      "korean": "개에게 쫓겼다가 도망에 성공하는 꿈, 또는 깨어났을 때 개운하고 상쾌한 기분이 드는 경우는 길몽으로 해석됩니다. 도움을 준 사람들과의 인연이 좋아지거나 연인과의 관계가 원만해질 것을 예고합니다.",
+      "english": "Being chased by a dog but successfully escaping, or waking up feeling refreshed and clear-headed, is interpreted as auspicious. It foretells improved bonds with people you have helped or a harmonious development in a romantic relationship.",
+      "context": "dog_chase_auspicious"
+    },
+    {
+      "type": "neutral",
+      "korean": "쫓기다가 안전한 장소에 숨거나 피신에 성공하는 꿈은 현재의 어려운 상황이 결국 해결되고 심리적 안정을 되찾게 될 것임을 의미합니다. 도망치는 행위 자체보다 최종 결과가 더 중요하게 작용하는 꿈입니다.",
+      "english": "Successfully hiding in a safe place or escaping during the chase signifies that current difficulties will eventually be resolved and psychological stability will return. In this type of dream, the final outcome carries more interpretive weight than the act of fleeing itself.",
+      "context": "escape_success"
+    },
+    {
+      "type": "neutral",
+      "korean": "동물에게 쫓기다가 반격하여 동물을 이기거나 쫓아버리는 꿈은 현재의 어려움을 극복하고 성취를 이루게 됨을 상징합니다. 문제에 정면으로 맞서는 용기와 의지가 현실에서도 성과를 가져다줄 것입니다.",
+      "english": "Fighting back against the chasing animal and overcoming or driving it away symbolizes surmounting current difficulties and achieving goals. The courage and determination to confront problems head-on will bring tangible results in waking life.",
+      "context": "fight_back"
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "호랑이에게 쫓기는 꿈",
+      "keyword_en": "chased by tiger dream",
+      "interpretation_ko": "호랑이에게 쫓기다가 잡히거나 물리는 꿈은 대길몽으로, 호랑이 기운을 받아 큰 재물·권력·명예를 얻게 됨을 예고합니다. 단순히 쫓기기만 하다 깨어나는 꿈은 강한 외부 압박이나 권위 있는 인물과의 갈등을 나타냅니다.",
+      "interpretation_en": "Being caught or bitten by a tiger while being chased is a greatly auspicious dream, foretelling the acquisition of great wealth, power, and honor through the tiger's energy. Simply being chased and waking up without resolution indicates strong external pressure or conflict with an authoritative figure."
+    },
+    {
+      "keyword_ko": "뱀에게 쫓기는 꿈",
+      "keyword_en": "chased by snake dream",
+      "interpretation_ko": "뱀에게 쫓기는 꿈은 주변의 비난과 이간질, 배신을 경고하는 흉몽입니다. 다만 꿈에서 기분이 좋거나 뱀을 피하는 데 성공했다면 기쁜 일이 생기거나 좋은 인연을 만날 수 있다는 길몽으로 반전 해석이 가능합니다.",
+      "interpretation_en": "Being chased by a snake is an inauspicious dream warning of slander, betrayal, and manipulation by those around you. However, if the dreamer felt positive emotions or successfully escaped, it can reverse into an auspicious sign of joyful news or meeting a good romantic partner."
+    },
+    {
+      "keyword_ko": "곰에게 쫓기는 꿈",
+      "keyword_en": "chased by bear dream",
+      "interpretation_ko": "곰에게 쫓기는 꿈은 재물과 행운이 다가오는 길몽으로 해석됩니다. 오래 공들인 일이 결실을 맺고 인생에 긍정적 전환점이 찾아올 징조입니다. 단, 매우 크고 위협적인 곰에게 쫓기며 극도의 공포를 느꼈다면 다가올 어려움에 대한 경고가 될 수 있습니다.",
+      "interpretation_en": "Being chased by a bear is generally auspicious, signaling approaching wealth and good fortune. It indicates that efforts will bear fruit and a positive turning point is near. However, if the bear was extremely large and threatening and the dreamer felt intense fear, it may serve as a warning about coming hardships."
+    },
+    {
+      "keyword_ko": "개에게 쫓기는 꿈",
+      "keyword_en": "chased by dog dream",
+      "interpretation_ko": "개 떼에게 쫓기는 꿈은 여러 방면의 스트레스와 압박감을 상징합니다. 반면 한 마리 개에게 쫓겼다가 도망에 성공하거나 깨어나 기분이 상쾌하다면 도움을 준 사람과의 인연이 좋아지고 연인 관계도 원만해질 길몽입니다.",
+      "interpretation_en": "Being chased by a pack of dogs symbolizes stress and pressure from multiple directions. In contrast, being chased by a single dog and successfully escaping, or waking up feeling refreshed, is auspicious — signaling improved bonds with people you have helped and harmony in romantic relationships."
+    },
+    {
+      "keyword_ko": "악어에게 쫓기는 꿈",
+      "keyword_en": "chased by crocodile dream",
+      "interpretation_ko": "악어에게 쫓기는 꿈은 재앙과 건강 악화를 경고하는 흉몽입니다. 중요한 결정이나 투자, 무리한 행동을 자제하고 건강 상태를 각별히 점검해야 합니다.",
+      "interpretation_en": "Being chased by a crocodile is an inauspicious dream warning of disaster and deteriorating health. Important decisions, investments, and reckless actions should be avoided, and the dreamer should pay special attention to their physical condition."
+    },
+    {
+      "keyword_ko": "늑대에게 쫓기는 꿈",
+      "keyword_en": "chased by wolf dream",
+      "interpretation_ko": "늑대에게 쫓기는 꿈은 임박한 위험에서 벗어나고자 하는 강렬한 욕구를 반영하며, 현실에서 위협적인 인물이나 상황으로부터 도망치고 싶은 심리를 나타냅니다. 사기나 배신을 조심해야 한다는 경고이기도 합니다.",
+      "interpretation_en": "Being chased by a wolf reflects a strong desire to escape imminent danger and represents the psychological urge to flee a threatening person or situation in waking life. It also serves as a warning to beware of deception or betrayal."
+    },
+    {
+      "keyword_ko": "소에게 쫓기는 꿈",
+      "keyword_en": "chased by cow dream",
+      "interpretation_ko": "소에게 쫓기다가 맞서 싸우는 꿈은 힘들고 고된 일을 결국 해내어 만족스러운 결과를 얻게 됨을 상징합니다. 단순히 쫓기기만 하는 꿈은 현실의 무거운 짐이나 책임감으로 인한 압박을 나타냅니다.",
+      "interpretation_en": "Being chased by a cow and then fighting back symbolizes successfully completing difficult, laborious work and achieving a satisfying result. Simply being chased without resistance represents the burden of heavy responsibilities or obligations in waking life."
+    },
+    {
+      "keyword_ko": "돼지에게 쫓기는 꿈",
+      "keyword_en": "chased by pig dream",
+      "interpretation_ko": "돼지에게 쫓기는 꿈은 재물 관련 어려움을 예고하기도 하지만, 임산부의 경우 태몽으로 해석되어 아이를 임신하거나 건강한 아이를 출산할 길조로 보기도 합니다.",
+      "interpretation_en": "Being chased by a pig may foretell financial difficulties, but for pregnant women it is often interpreted as a 태몽 (conception/pregnancy dream), signifying the blessing of a healthy child."
+    },
+    {
+      "keyword_ko": "벌레에게 쫓기는 꿈",
+      "keyword_en": "chased by bugs or insects dream",
+      "interpretation_ko": "벌레나 곤충에게 쫓기는 꿈은 타인의 시기, 질투, 원한으로 인해 곤경에 처할 수 있음을 암시합니다. 직장이나 사회적 환경에서 소소한 방해나 갈등이 이어질 수 있으므로 신중한 처세가 필요합니다.",
+      "interpretation_en": "Being chased by bugs or insects implies that the dreamer may face difficulties caused by others' jealousy, envy, or grudges. Minor interference or conflicts in the workplace or social environment may persist, requiring careful conduct."
+    },
+    {
+      "keyword_ko": "동물에게 쫓기다가 도망치는 꿈",
+      "keyword_en": "chased by animal and successfully escaping dream",
+      "interpretation_ko": "동물에게 쫓기다가 안전하게 도망치거나 숨는 데 성공하는 꿈은 현재의 어려움이나 갈등이 결국 해소되고 심리적 안정을 되찾게 될 것임을 암시합니다. 도망에 성공하는 과정 자체가 문제 해결 능력을 상징합니다.",
+      "interpretation_en": "Successfully escaping or hiding from a chasing animal signals that current difficulties or conflicts will ultimately be resolved and psychological stability will return. The act of successfully fleeing symbolizes the dreamer's capacity to solve problems."
+    },
+    {
+      "keyword_ko": "동물에게 쫓기다 반격하는 꿈",
+      "keyword_en": "fighting back against chasing animal dream",
+      "interpretation_ko": "쫓기다가 동물에게 반격하여 물리치는 꿈은 현실의 어려움을 정면 돌파하고 목표를 달성하게 됨을 상징하는 중립 또는 길몽입니다. 적극적인 자세가 결국 좋은 결과를 가져다줄 것입니다.",
+      "interpretation_en": "Fighting back and overcoming the chasing animal is a neutral or auspicious dream symbolizing the direct confrontation and resolution of real-life difficulties, leading to goal achievement. An assertive attitude will ultimately yield positive results."
+    }
+  ],
+  "culturalContext": {
+    "korean": "한국 전통 꿈해몽에서 동물은 단순한 생물이 아니라 기운(氣運)의 매개체로 여겨집니다. 무속 신앙에서는 꿈속 동물이 신령이나 조상의 뜻을 전달하는 존재로 해석되기도 하며, 특히 호랑이·곰·용과 같은 동물은 강력한 신성(神性)을 지닌 존재로 숭배되어 왔습니다. 단군 신화에서 곰이 인간이 되는 이야기처럼, 특정 동물에게 쫓기는 꿈은 그 동물의 기운이 꿈꾼 이에게 강하게 작용하고 있다는 신호로 읽힙니다. 호랑이에게 쫓기다 잡히는 꿈이 오히려 대길몽인 이유도 이 때문입니다—두려운 기운을 직접 받아들임으로써 그 에너지가 꿈꾼 이의 것이 된다고 보는 것입니다. 불교적 관점에서는 쫓기는 꿈을 전생(前生)의 업(業)이 현생에 영향을 미치는 것으로 해석하기도 하며, 도교의 영향을 받은 해몽서에서는 동물의 오행(五行) 속성에 따라 길흉을 판단하였습니다.",
+    "english": "In Korean traditional dream interpretation, animals are regarded not merely as creatures but as conduits of spiritual energy (기운). In shamanic beliefs, dream animals may be seen as messengers conveying the will of spirits or ancestors. Animals such as the tiger, bear, and dragon have long been revered as beings of powerful divinity. Just as the bear transforms into a human in the Dangun creation myth, being chased by a particular animal in a dream is read as a signal that the animal's spiritual energy is strongly at work upon the dreamer. This is why being caught by a tiger in a chase dream is considered supremely auspicious — by directly receiving the fearsome energy, the dreamer absorbs it as their own. Buddhist-influenced interpretations view chase dreams as the karmic effects of past lives manifesting in the present, while Taoist-influenced dream manuals assessed fortune based on the Five Elements (오행) attributed to each animal."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트 관점에서 동물에게 쫓기는 꿈은 억압된 본능적 충동이나 무의식적 욕망이 자아(ego)를 추격하는 상황으로 해석됩니다. 꿈속의 동물은 이드(id)를 상징하며, 쫓기는 자아는 사회적 규범과 도덕에 의해 억제된 성적 충동이나 공격성을 외면하려는 심리를 반영합니다. 도망치는 행위는 이러한 내면의 갈등에서 도피하려는 무의식의 방어 기제로 볼 수 있습니다.",
+      "english": "From a Freudian perspective, being chased by an animal in a dream represents repressed instinctual drives or unconscious desires pursuing the ego. The dream animal symbolizes the id, while the fleeing ego reflects the psyche's attempt to avoid suppressed sexual impulses or aggression constrained by social norms and morality. The act of running away can be understood as an unconscious defense mechanism escaping from this internal conflict."
+    },
+    "jungian": {
+      "korean": "융 심리학에서 동물에게 쫓기는 꿈은 그림자(Shadow) 원형이 의식 영역으로 침입하려는 과정으로 해석됩니다. 쫓는 동물은 꿈꾼 이가 의식적으로 외면하거나 수용하지 못한 자기 자신의 측면, 즉 그림자가 구체화된 형상입니다. 융은 이런 꿈을 두려워하거나 피해야 할 것으로 보지 않고, 오히려 그림자를 인식하고 통합함으로써 심리적 전체성(individuation)을 이루는 계기로 바라봤습니다. 동물의 종류는 어떤 측면의 그림자가 활성화되어 있는지를 나타내는 중요한 단서입니다.",
+      "english": "In Jungian psychology, being chased by an animal represents the Shadow archetype attempting to break into conscious awareness. The chasing animal is the embodied form of an aspect of the self that the dreamer has consciously ignored or been unable to integrate — the Shadow made manifest. Jung viewed such dreams not as things to be feared or avoided, but as opportunities to achieve psychological wholeness (individuation) by recognizing and integrating the Shadow. The type of animal is a key clue indicating which aspect of the Shadow has been activated."
+    },
+    "modern": {
+      "korean": "현대 심리학에서 동물에게 쫓기는 꿈은 일상적 스트레스, 불안 장애, 또는 외상 후 스트레스(PTSD)와 연관된 꿈으로 분류됩니다. 이 유형의 꿈은 전 세계적으로 가장 흔하게 보고되는 꿈 유형 중 하나이며, 현실에서 해결되지 않은 갈등이나 회피 행동 패턴이 수면 중 위협 시뮬레이션으로 나타나는 것으로 이해됩니다. 수면 연구자들은 이를 뇌의 위협 처리 시스템이 활성화된 상태에서 발생하는 '위협 연습 꿈(threat simulation dream)'으로 설명하기도 합니다.",
+      "english": "In modern psychology, being chased by an animal is classified among dreams associated with everyday stress, anxiety disorders, or post-traumatic stress (PTSD). This is one of the most universally reported dream types worldwide, understood as unresolved real-life conflicts or avoidance behavior patterns manifesting as a threat simulation during sleep. Sleep researchers describe it as a 'threat simulation dream,' arising when the brain's threat-processing system is activated during REM sleep."
+    },
+    "crossCultural": {
+      "korean": "쫓기는 꿈은 동서양을 막론하고 인류 보편적인 꿈 주제입니다. 서양에서는 쫓는 존재를 주로 자신이 직면하기 싫은 문제나 감정의 상징으로 해석하는 데 반해, 한국을 비롯한 동아시아 문화권에서는 동물의 영적·상징적 속성이 해석에 결정적으로 작용합니다. 아프리카 일부 문화에서는 조상의 동물 영혼(totem)이 꿈속에서 쫓아오는 것을 소명(召命)의 신호로 보며, 아메리카 원주민 전통에서도 꿈속의 동물 추격을 영적 안내자와의 만남으로 해석하는 경우가 있습니다. 즉, '쫓기는' 행위를 부정적으로만 볼 것이 아니라 그 문화가 해당 동물에 부여한 상징 체계 안에서 읽어야 합니다.",
+      "english": "Being chased in a dream is a universal human dream theme across all cultures. While Western traditions primarily interpret the pursuer as a symbol of problems or emotions the dreamer wishes to avoid, East Asian cultures — including Korean — place decisive weight on the spiritual and symbolic attributes of the specific animal. In some African traditions, an ancestral totem animal chasing you in a dream is seen as a calling, and in certain Native American traditions, an animal pursuit in a dream is interpreted as an encounter with a spiritual guide. In short, the act of being chased should not be read only negatively but within the symbolic system each culture assigns to that specific animal."
+    }
+  },
+  "relatedSymbols": [
+    "chased-by-tiger-dream",
+    "chased-by-bear-dream",
+    "chased-by-snake-dream",
+    "chased-by-dog-dream",
+    "chased-by-wolf-dream",
+    "chased-by-lion-dream",
+    "chased-by-cow-dream",
+    "chased-by-pig-dream",
+    "tiger-dream",
+    "bear-dream",
+    "snake-dream",
+    "dog-dream",
+    "wolf-dream"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "동물에게 쫓기는 꿈",
+      "동물한테 쫓기는 꿈 해몽",
+      "동물 쫓기는 꿈 의미",
+      "동물에게 쫓기는 꿈 길몽 흉몽",
+      "호랑이에게 쫓기는 꿈",
+      "뱀에게 쫓기는 꿈해몽",
+      "곰에게 쫓기는 꿈",
+      "개한테 쫓기는 꿈",
+      "악어에게 쫓기는 꿈",
+      "늑대에게 쫓기는 꿈 해몽",
+      "쫓기는 꿈해몽",
+      "도망치는 꿈 의미",
+      "동물 꿈해몽 종류별",
+      "동물에게 쫓기다 도망치는 꿈"
+    ],
+    "english": [
+      "being chased by animal dream meaning",
+      "chased by animal dream Korean interpretation",
+      "animal chase dream auspicious",
+      "tiger chasing dream meaning",
+      "bear chasing dream Korean",
+      "snake chasing dream interpretation",
+      "being chased dream symbolism",
+      "running from animal dream",
+      "chased by dog dream meaning",
+      "Korean dream interpretation animal chase",
+      "꿈해몽 chased by animal"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "동물에게 쫓기는 꿈은 무조건 흉몽인가요?",
+      "answer_ko": "아닙니다. 동물에게 쫓기는 꿈이 항상 나쁜 것은 아닙니다. 쫓는 동물의 종류, 꿈의 결말, 깨어났을 때의 감정에 따라 해석이 크게 달라집니다. 예를 들어 곰이나 호랑이에게 쫓기다 잡히는 꿈은 오히려 재물과 행운을 예고하는 강력한 길몽으로 해석됩니다.",
+      "answer_en": "Not at all. Being chased by an animal in a dream is not always negative. The interpretation changes significantly depending on the type of animal, the dream's outcome, and the emotions felt upon waking. For example, being caught by a bear or tiger while being chased is interpreted as a powerful auspicious omen foretelling wealth and good fortune.",
+      "question_en": "Is being chased by an animal in a dream always a bad omen?"
+    },
+    {
+      "question_ko": "어떤 동물에게 쫓기는 꿈이 가장 길몽인가요?",
+      "answer_ko": "호랑이와 곰에게 쫓기는 꿈이 대표적인 길몽입니다. 호랑이는 한국에서 신성한 수호신으로 숭배되며, 쫓기다가 물리거나 잡히는 꿈은 그 강력한 기운을 받는 것으로 해석되어 재물·권력·명예를 상징합니다. 곰 역시 단군 신화에서 신성한 존재로, 곰에게 쫓기는 꿈은 행운과 재물이 다가오는 신호입니다.",
+      "answer_en": "Dreams of being chased by a tiger or bear are the most auspicious. The tiger is revered as a sacred guardian in Korea — being bitten or caught during the chase is interpreted as receiving its powerful energy, symbolizing wealth, power, and honor. The bear, sacred in the Dangun myth, similarly signals approaching good fortune and wealth when it appears as pursuer.",
+      "question_en": "Which animal-chase dream is the most auspicious?"
+    },
+    {
+      "question_ko": "동물에게 쫓기는 꿈에서 도망에 성공하면 어떤 의미인가요?",
+      "answer_ko": "도망에 성공하거나 안전한 장소에 피신하는 꿈은 현재의 어려움과 갈등이 결국 해소되고 심리적 안정을 되찾게 될 것을 의미합니다. 적극적으로 반격하여 동물을 물리치는 꿈이라면 현실의 어려움을 직접 극복하고 성취를 이루는 길조로 해석됩니다.",
+      "answer_en": "Successfully escaping or taking refuge in a safe place means that current difficulties and conflicts will ultimately be resolved and psychological stability will return. If the dreamer fights back and defeats the animal, it is an auspicious sign of directly overcoming real-life difficulties and achieving one's goals."
+    },
+    {
+      "question_ko": "뱀에게 쫓기는 꿈은 왜 흉몽인가요?",
+      "answer_ko": "뱀은 한국 민속에서 재물신의 면모도 있지만, 꿈해몽에서 뱀에게 쫓기는 상황은 그 위협적 측면이 부각됩니다. 비난, 이간질, 배신, 소문으로 인한 불이익을 경고하며 재물 손실이나 대인관계 갈등의 징조로 봅니다. 다만 꿈에서 기분이 좋거나 뱀을 성공적으로 피했다면 기쁜 소식이나 좋은 만남의 길몽으로 반전될 수 있습니다.",
+      "answer_en": "While the snake has aspects of a wealth deity in Korean folklore, being chased by a snake in a dream emphasizes its threatening side. It warns of criticism, betrayal, slanderous rumors, and disadvantages caused by others, and is seen as an omen of financial loss or interpersonal conflict. However, if the dreamer felt positive emotions or successfully evaded the snake, the interpretation can reverse into an auspicious sign of good news or a favorable encounter."
+    },
+    {
+      "question_ko": "꿈에서 동물에게 쫓기는 심리적 원인은 무엇인가요?",
+      "answer_ko": "현대 심리학에서는 쫓기는 꿈을 일상의 스트레스, 불안, 또는 현실에서 직면하기 싫은 문제를 회피하는 심리가 꿈으로 투영된 것으로 봅니다. 수면 중 뇌의 위협 처리 시스템이 활성화되는 '위협 연습 꿈'의 일종으로, 반복적으로 꾼다면 현실의 스트레스 요인을 점검하고 해소하는 것이 중요합니다.",
+      "answer_en": "Modern psychology views being chased in a dream as a projection of daily stress, anxiety, or the psychological avoidance of problems the dreamer does not want to face in waking life. It is a form of 'threat simulation dream' in which the brain's threat-processing system activates during sleep. If recurring, it is important to examine and address real-life stress factors."
+    },
+    {
+      "question_ko": "동물에게 쫓기는 꿈을 자주 꾼다면 어떻게 해야 하나요?",
+      "answer_ko": "반복적으로 동물에게 쫓기는 꿈을 꾼다면 현실에서 해소되지 못한 스트레스, 갈등, 또는 회피 중인 문제가 있다는 신호입니다. 꿈일기를 적어 어떤 동물이 등장하는지, 어떤 결말인지 패턴을 파악하고, 현실에서 직면하기 어려운 상황이 있는지 돌아보는 것이 좋습니다. 꿈해몽의 관점에서는 해당 동물의 상징 의미를 참고하여 현실의 어떤 측면이 경고를 보내고 있는지 성찰해 볼 수 있습니다.",
+      "answer_en": "Repeatedly dreaming of being chased by an animal is a signal that there is unresolved stress, conflict, or an avoided problem in waking life. Keeping a dream journal to track which animals appear and how dreams end can help identify patterns. Reflecting on difficult situations being avoided in real life is recommended. From the dream interpretation perspective, consulting the symbolic meaning of the specific animal can offer insight into which aspect of waking life is sending a warning."
+    }
+  ]
+}

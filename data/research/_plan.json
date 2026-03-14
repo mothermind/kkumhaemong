@@ -25,6 +25,72 @@
       "tier": "high"
     },
     {
+      "slug": "killing-snake-dream",
+      "korean": "뱀을 죽이는 꿈",
+      "english": "Dream of killing a snake",
+      "tier": "medium"
+    },
+    {
+      "slug": "snake-entering-house-dream",
+      "korean": "뱀이 집에 들어오는 꿈",
+      "english": "Dream of a snake entering the house",
+      "tier": "medium"
+    },
+    {
+      "slug": "many-snakes-dream",
+      "korean": "뱀이 많은 꿈",
+      "english": "Dream of many snakes",
+      "tier": "medium"
+    },
+    {
+      "slug": "golden-snake-dream",
+      "korean": "금색 뱀 꿈",
+      "english": "Dream of a golden snake",
+      "tier": "medium"
+    },
+    {
+      "slug": "catching-snake-dream",
+      "korean": "뱀을 잡는 꿈",
+      "english": "Dream of catching a snake",
+      "tier": "medium"
+    },
+    {
+      "slug": "snake-attacking-dream",
+      "korean": "뱀이 공격하는 꿈",
+      "english": "Dream of a snake attacking",
+      "tier": "medium"
+    },
+    {
+      "slug": "chased-by-snake-dream",
+      "korean": "뱀에게 쫓기는 꿈",
+      "english": "Dream of being chased by a snake",
+      "tier": "medium"
+    },
+    {
+      "slug": "python-dream",
+      "korean": "구렁이 꿈",
+      "english": "Dream of a python",
+      "tier": "medium"
+    },
+    {
+      "slug": "dead-snake-dream",
+      "korean": "죽은 뱀 꿈",
+      "english": "Dream of a dead snake",
+      "tier": "longtail"
+    },
+    {
+      "slug": "snake-in-water-dream",
+      "korean": "물속 뱀 꿈",
+      "english": "Dream of a snake in water",
+      "tier": "longtail"
+    },
+    {
+      "slug": "black-snake-dream",
+      "korean": "검은 뱀 꿈",
+      "english": "Dream of a black snake",
+      "tier": "medium"
+    },
+    {
       "slug": "pig-dream",
       "korean": "돼지꿈",
       "english": "Dream of a pig",
@@ -35,6 +101,48 @@
       "korean": "황금 돼지 꿈",
       "english": "Dream of a golden pig",
       "tier": "high"
+    },
+    {
+      "slug": "chased-by-pig-dream",
+      "korean": "돼지에게 쫓기는 꿈",
+      "english": "Dream of being chased by a pig",
+      "tier": "medium"
+    },
+    {
+      "slug": "many-pigs-dream",
+      "korean": "돼지가 많은 꿈",
+      "english": "Dream of many pigs",
+      "tier": "medium"
+    },
+    {
+      "slug": "piglet-dream",
+      "korean": "새끼 돼지 꿈",
+      "english": "Dream of a piglet",
+      "tier": "medium"
+    },
+    {
+      "slug": "pig-attacking-dream",
+      "korean": "돼지가 공격하는 꿈",
+      "english": "Dream of a pig attacking",
+      "tier": "longtail"
+    },
+    {
+      "slug": "dead-pig-dream",
+      "korean": "죽은 돼지 꿈",
+      "english": "Dream of a dead pig",
+      "tier": "longtail"
+    },
+    {
+      "slug": "slaughtering-pig-dream",
+      "korean": "돼지를 잡는 꿈",
+      "english": "Dream of slaughtering a pig",
+      "tier": "medium"
+    },
+    {
+      "slug": "flying-pig-dream",
+      "korean": "돼지가 하늘을 나는 꿈",
+      "english": "Dream of a flying pig",
+      "tier": "longtail"
     },
     {
       "slug": "dog-dream",
@@ -49,16 +157,1120 @@
       "tier": "high"
     },
     {
+      "slug": "black-dog-dream",
+      "korean": "검은 개 꿈",
+      "english": "Dream of a black dog",
+      "tier": "medium"
+    },
+    {
+      "slug": "white-dog-dream",
+      "korean": "흰 개 꿈",
+      "english": "Dream of a white dog",
+      "tier": "medium"
+    },
+    {
+      "slug": "chased-by-dog-dream",
+      "korean": "개에게 쫓기는 꿈",
+      "english": "Dream of being chased by a dog",
+      "tier": "medium"
+    },
+    {
+      "slug": "dog-attacking-dream",
+      "korean": "개가 공격하는 꿈",
+      "english": "Dream of a dog attacking",
+      "tier": "medium"
+    },
+    {
+      "slug": "dead-dog-dream",
+      "korean": "죽은 개 꿈",
+      "english": "Dream of a dead dog",
+      "tier": "longtail"
+    },
+    {
       "slug": "puppy-dream",
       "korean": "강아지 꿈",
       "english": "Dream of a puppy",
       "tier": "high"
     },
     {
+      "slug": "many-dogs-dream",
+      "korean": "개가 많은 꿈",
+      "english": "Dream of many dogs",
+      "tier": "longtail"
+    },
+    {
+      "slug": "sick-dog-dream",
+      "korean": "아픈 개 꿈",
+      "english": "Dream of a sick dog",
+      "tier": "longtail"
+    },
+    {
+      "slug": "barking-dog-dream",
+      "korean": "개가 짖는 꿈",
+      "english": "Dream of a barking dog",
+      "tier": "longtail"
+    },
+    {
       "slug": "cat-dream",
       "korean": "고양이꿈",
       "english": "Dream of a cat",
       "tier": "high"
+    },
+    {
+      "slug": "black-cat-dream",
+      "korean": "검은 고양이 꿈",
+      "english": "Dream of a black cat",
+      "tier": "medium"
+    },
+    {
+      "slug": "white-cat-dream",
+      "korean": "흰 고양이 꿈",
+      "english": "Dream of a white cat",
+      "tier": "medium"
+    },
+    {
+      "slug": "cat-bite-dream",
+      "korean": "고양이에게 물리는 꿈",
+      "english": "Dream of being bitten by a cat",
+      "tier": "medium"
+    },
+    {
+      "slug": "cat-scratch-dream",
+      "korean": "고양이에게 할퀴는 꿈",
+      "english": "Dream of being scratched by a cat",
+      "tier": "longtail"
+    },
+    {
+      "slug": "many-cats-dream",
+      "korean": "고양이가 많은 꿈",
+      "english": "Dream of many cats",
+      "tier": "longtail"
+    },
+    {
+      "slug": "kitten-dream",
+      "korean": "새끼 고양이 꿈",
+      "english": "Dream of a kitten",
+      "tier": "medium"
+    },
+    {
+      "slug": "dead-cat-dream",
+      "korean": "죽은 고양이 꿈",
+      "english": "Dream of a dead cat",
+      "tier": "longtail"
+    },
+    {
+      "slug": "cat-attacking-dream",
+      "korean": "고양이가 공격하는 꿈",
+      "english": "Dream of a cat attacking",
+      "tier": "longtail"
+    },
+    {
+      "slug": "tiger-dream",
+      "korean": "호랑이꿈",
+      "english": "Dream of a tiger",
+      "tier": "high"
+    },
+    {
+      "slug": "chased-by-tiger-dream",
+      "korean": "호랑이에게 쫓기는 꿈",
+      "english": "Dream of being chased by a tiger",
+      "tier": "high"
+    },
+    {
+      "slug": "white-tiger-dream",
+      "korean": "백호 꿈",
+      "english": "Dream of a white tiger",
+      "tier": "medium"
+    },
+    {
+      "slug": "riding-tiger-dream",
+      "korean": "호랑이를 타는 꿈",
+      "english": "Dream of riding a tiger",
+      "tier": "medium"
+    },
+    {
+      "slug": "tiger-attacking-dream",
+      "korean": "호랑이가 공격하는 꿈",
+      "english": "Dream of a tiger attacking",
+      "tier": "medium"
+    },
+    {
+      "slug": "tiger-bite-dream",
+      "korean": "호랑이에게 물리는 꿈",
+      "english": "Dream of being bitten by a tiger",
+      "tier": "medium"
+    },
+    {
+      "slug": "tiger-cub-dream",
+      "korean": "아기 호랑이 꿈",
+      "english": "Dream of a tiger cub",
+      "tier": "longtail"
+    },
+    {
+      "slug": "dead-tiger-dream",
+      "korean": "죽은 호랑이 꿈",
+      "english": "Dream of a dead tiger",
+      "tier": "longtail"
+    },
+    {
+      "slug": "dragon-dream",
+      "korean": "용꿈",
+      "english": "Dream of a dragon",
+      "tier": "high"
+    },
+    {
+      "slug": "dragon-flying-dream",
+      "korean": "용이 하늘을 나는 꿈",
+      "english": "Dream of a dragon flying in the sky",
+      "tier": "high"
+    },
+    {
+      "slug": "golden-dragon-dream",
+      "korean": "황금 용 꿈",
+      "english": "Dream of a golden dragon",
+      "tier": "medium"
+    },
+    {
+      "slug": "dragon-from-water-dream",
+      "korean": "용이 물에서 나오는 꿈",
+      "english": "Dream of a dragon emerging from water",
+      "tier": "medium"
+    },
+    {
+      "slug": "dragon-ascending-dream",
+      "korean": "용이 승천하는 꿈",
+      "english": "Dream of a dragon ascending to heaven",
+      "tier": "medium"
+    },
+    {
+      "slug": "fire-breathing-dragon-dream",
+      "korean": "용이 불을 뿜는 꿈",
+      "english": "Dream of a fire-breathing dragon",
+      "tier": "longtail"
+    },
+    {
+      "slug": "imugi-dream",
+      "korean": "이무기 꿈",
+      "english": "Dream of an imugi (lesser dragon)",
+      "tier": "medium"
+    },
+    {
+      "slug": "fish-dream",
+      "korean": "물고기꿈",
+      "english": "Dream of a fish",
+      "tier": "high"
+    },
+    {
+      "slug": "catching-fish-dream",
+      "korean": "물고기를 잡는 꿈",
+      "english": "Dream of catching fish",
+      "tier": "high"
+    },
+    {
+      "slug": "big-fish-dream",
+      "korean": "큰 물고기 꿈",
+      "english": "Dream of a big fish",
+      "tier": "medium"
+    },
+    {
+      "slug": "carp-dream",
+      "korean": "잉어 꿈",
+      "english": "Dream of a carp",
+      "tier": "medium"
+    },
+    {
+      "slug": "goldfish-dream",
+      "korean": "금붕어 꿈",
+      "english": "Dream of a goldfish",
+      "tier": "medium"
+    },
+    {
+      "slug": "many-fish-dream",
+      "korean": "물고기가 많은 꿈",
+      "english": "Dream of many fish",
+      "tier": "medium"
+    },
+    {
+      "slug": "dead-fish-dream",
+      "korean": "죽은 물고기 꿈",
+      "english": "Dream of dead fish",
+      "tier": "longtail"
+    },
+    {
+      "slug": "flying-fish-dream",
+      "korean": "물고기가 하늘을 나는 꿈",
+      "english": "Dream of a flying fish",
+      "tier": "longtail"
+    },
+    {
+      "slug": "horse-dream",
+      "korean": "말꿈",
+      "english": "Dream of a horse",
+      "tier": "high"
+    },
+    {
+      "slug": "riding-horse-dream",
+      "korean": "말을 타는 꿈",
+      "english": "Dream of riding a horse",
+      "tier": "high"
+    },
+    {
+      "slug": "white-horse-dream",
+      "korean": "백마 꿈",
+      "english": "Dream of a white horse",
+      "tier": "medium"
+    },
+    {
+      "slug": "black-horse-dream",
+      "korean": "검은 말 꿈",
+      "english": "Dream of a black horse",
+      "tier": "longtail"
+    },
+    {
+      "slug": "running-horse-dream",
+      "korean": "말이 달리는 꿈",
+      "english": "Dream of a running horse",
+      "tier": "medium"
+    },
+    {
+      "slug": "dead-horse-dream",
+      "korean": "죽은 말 꿈",
+      "english": "Dream of a dead horse",
+      "tier": "longtail"
+    },
+    {
+      "slug": "cow-dream",
+      "korean": "소꿈",
+      "english": "Dream of a cow",
+      "tier": "high"
+    },
+    {
+      "slug": "bull-dream",
+      "korean": "황소 꿈",
+      "english": "Dream of a bull",
+      "tier": "medium"
+    },
+    {
+      "slug": "calf-dream",
+      "korean": "송아지 꿈",
+      "english": "Dream of a calf",
+      "tier": "medium"
+    },
+    {
+      "slug": "many-cows-dream",
+      "korean": "소가 많은 꿈",
+      "english": "Dream of many cows",
+      "tier": "longtail"
+    },
+    {
+      "slug": "riding-cow-dream",
+      "korean": "소를 타는 꿈",
+      "english": "Dream of riding a cow",
+      "tier": "longtail"
+    },
+    {
+      "slug": "chased-by-cow-dream",
+      "korean": "소에게 쫓기는 꿈",
+      "english": "Dream of being chased by a cow",
+      "tier": "longtail"
+    },
+    {
+      "slug": "bird-dream",
+      "korean": "새꿈",
+      "english": "Dream of a bird",
+      "tier": "high"
+    },
+    {
+      "slug": "bird-flying-dream",
+      "korean": "새가 나는 꿈",
+      "english": "Dream of a bird flying",
+      "tier": "medium"
+    },
+    {
+      "slug": "eagle-dream",
+      "korean": "독수리 꿈",
+      "english": "Dream of an eagle",
+      "tier": "medium"
+    },
+    {
+      "slug": "magpie-dream",
+      "korean": "까치 꿈",
+      "english": "Dream of a magpie",
+      "tier": "medium"
+    },
+    {
+      "slug": "crow-dream",
+      "korean": "까마귀 꿈",
+      "english": "Dream of a crow",
+      "tier": "medium"
+    },
+    {
+      "slug": "hawk-dream",
+      "korean": "매 꿈",
+      "english": "Dream of a hawk",
+      "tier": "longtail"
+    },
+    {
+      "slug": "chicken-dream",
+      "korean": "닭꿈",
+      "english": "Dream of a chicken",
+      "tier": "medium"
+    },
+    {
+      "slug": "bird-egg-dream",
+      "korean": "새알 꿈",
+      "english": "Dream of a bird egg",
+      "tier": "longtail"
+    },
+    {
+      "slug": "owl-dream",
+      "korean": "부엉이 꿈",
+      "english": "Dream of an owl",
+      "tier": "medium"
+    },
+    {
+      "slug": "crane-dream",
+      "korean": "학 꿈",
+      "english": "Dream of a crane",
+      "tier": "medium"
+    },
+    {
+      "slug": "phoenix-dream",
+      "korean": "봉황 꿈",
+      "english": "Dream of a phoenix",
+      "tier": "medium"
+    },
+    {
+      "slug": "sparrow-dream",
+      "korean": "참새 꿈",
+      "english": "Dream of a sparrow",
+      "tier": "longtail"
+    },
+    {
+      "slug": "many-birds-dream",
+      "korean": "새가 많은 꿈",
+      "english": "Dream of many birds",
+      "tier": "longtail"
+    },
+    {
+      "slug": "dead-bird-dream",
+      "korean": "죽은 새 꿈",
+      "english": "Dream of a dead bird",
+      "tier": "longtail"
+    },
+    {
+      "slug": "parrot-dream",
+      "korean": "앵무새 꿈",
+      "english": "Dream of a parrot",
+      "tier": "longtail"
+    },
+    {
+      "slug": "turtle-dream",
+      "korean": "거북이꿈",
+      "english": "Dream of a turtle",
+      "tier": "high"
+    },
+    {
+      "slug": "golden-turtle-dream",
+      "korean": "금거북이 꿈",
+      "english": "Dream of a golden turtle",
+      "tier": "medium"
+    },
+    {
+      "slug": "large-turtle-dream",
+      "korean": "큰 거북이 꿈",
+      "english": "Dream of a large turtle",
+      "tier": "longtail"
+    },
+    {
+      "slug": "sea-turtle-dream",
+      "korean": "바다거북 꿈",
+      "english": "Dream of a sea turtle",
+      "tier": "longtail"
+    },
+    {
+      "slug": "rabbit-dream",
+      "korean": "토끼꿈",
+      "english": "Dream of a rabbit",
+      "tier": "high"
+    },
+    {
+      "slug": "white-rabbit-dream",
+      "korean": "흰 토끼 꿈",
+      "english": "Dream of a white rabbit",
+      "tier": "medium"
+    },
+    {
+      "slug": "catching-rabbit-dream",
+      "korean": "토끼를 잡는 꿈",
+      "english": "Dream of catching a rabbit",
+      "tier": "longtail"
+    },
+    {
+      "slug": "many-rabbits-dream",
+      "korean": "토끼가 많은 꿈",
+      "english": "Dream of many rabbits",
+      "tier": "longtail"
+    },
+    {
+      "slug": "frog-dream",
+      "korean": "개구리꿈",
+      "english": "Dream of a frog",
+      "tier": "medium"
+    },
+    {
+      "slug": "many-frogs-dream",
+      "korean": "개구리가 많은 꿈",
+      "english": "Dream of many frogs",
+      "tier": "longtail"
+    },
+    {
+      "slug": "toad-dream",
+      "korean": "두꺼비 꿈",
+      "english": "Dream of a toad",
+      "tier": "medium"
+    },
+    {
+      "slug": "golden-toad-dream",
+      "korean": "금두꺼비 꿈",
+      "english": "Dream of a golden toad",
+      "tier": "medium"
+    },
+    {
+      "slug": "elephant-dream",
+      "korean": "코끼리꿈",
+      "english": "Dream of an elephant",
+      "tier": "medium"
+    },
+    {
+      "slug": "riding-elephant-dream",
+      "korean": "코끼리를 타는 꿈",
+      "english": "Dream of riding an elephant",
+      "tier": "longtail"
+    },
+    {
+      "slug": "white-elephant-dream",
+      "korean": "흰 코끼리 꿈",
+      "english": "Dream of a white elephant",
+      "tier": "longtail"
+    },
+    {
+      "slug": "lion-dream",
+      "korean": "사자꿈",
+      "english": "Dream of a lion",
+      "tier": "medium"
+    },
+    {
+      "slug": "lion-attacking-dream",
+      "korean": "사자에게 공격당하는 꿈",
+      "english": "Dream of being attacked by a lion",
+      "tier": "longtail"
+    },
+    {
+      "slug": "chased-by-lion-dream",
+      "korean": "사자에게 쫓기는 꿈",
+      "english": "Dream of being chased by a lion",
+      "tier": "longtail"
+    },
+    {
+      "slug": "bear-dream",
+      "korean": "곰꿈",
+      "english": "Dream of a bear",
+      "tier": "medium"
+    },
+    {
+      "slug": "bear-attacking-dream",
+      "korean": "곰에게 공격당하는 꿈",
+      "english": "Dream of being attacked by a bear",
+      "tier": "longtail"
+    },
+    {
+      "slug": "chased-by-bear-dream",
+      "korean": "곰에게 쫓기는 꿈",
+      "english": "Dream of being chased by a bear",
+      "tier": "longtail"
+    },
+    {
+      "slug": "deer-dream",
+      "korean": "사슴꿈",
+      "english": "Dream of a deer",
+      "tier": "medium"
+    },
+    {
+      "slug": "white-deer-dream",
+      "korean": "흰 사슴 꿈",
+      "english": "Dream of a white deer",
+      "tier": "longtail"
+    },
+    {
+      "slug": "monkey-dream",
+      "korean": "원숭이꿈",
+      "english": "Dream of a monkey",
+      "tier": "medium"
+    },
+    {
+      "slug": "many-monkeys-dream",
+      "korean": "원숭이가 많은 꿈",
+      "english": "Dream of many monkeys",
+      "tier": "longtail"
+    },
+    {
+      "slug": "wolf-dream",
+      "korean": "늑대꿈",
+      "english": "Dream of a wolf",
+      "tier": "medium"
+    },
+    {
+      "slug": "chased-by-wolf-dream",
+      "korean": "늑대에게 쫓기는 꿈",
+      "english": "Dream of being chased by a wolf",
+      "tier": "longtail"
+    },
+    {
+      "slug": "wolf-attacking-dream",
+      "korean": "늑대에게 공격당하는 꿈",
+      "english": "Dream of being attacked by a wolf",
+      "tier": "longtail"
+    },
+    {
+      "slug": "fox-dream",
+      "korean": "여우꿈",
+      "english": "Dream of a fox",
+      "tier": "medium"
+    },
+    {
+      "slug": "white-fox-dream",
+      "korean": "흰 여우 꿈",
+      "english": "Dream of a white fox",
+      "tier": "longtail"
+    },
+    {
+      "slug": "nine-tailed-fox-dream",
+      "korean": "구미호 꿈",
+      "english": "Dream of a nine-tailed fox",
+      "tier": "medium"
+    },
+    {
+      "slug": "whale-dream",
+      "korean": "고래꿈",
+      "english": "Dream of a whale",
+      "tier": "medium"
+    },
+    {
+      "slug": "big-whale-dream",
+      "korean": "큰 고래 꿈",
+      "english": "Dream of a big whale",
+      "tier": "longtail"
+    },
+    {
+      "slug": "dolphin-dream",
+      "korean": "돌고래 꿈",
+      "english": "Dream of a dolphin",
+      "tier": "medium"
+    },
+    {
+      "slug": "shark-dream",
+      "korean": "상어꿈",
+      "english": "Dream of a shark",
+      "tier": "medium"
+    },
+    {
+      "slug": "shark-attack-dream",
+      "korean": "상어에게 공격당하는 꿈",
+      "english": "Dream of being attacked by a shark",
+      "tier": "longtail"
+    },
+    {
+      "slug": "mouse-dream",
+      "korean": "쥐꿈",
+      "english": "Dream of a mouse/rat",
+      "tier": "high"
+    },
+    {
+      "slug": "white-mouse-dream",
+      "korean": "흰 쥐 꿈",
+      "english": "Dream of a white mouse",
+      "tier": "medium"
+    },
+    {
+      "slug": "many-mice-dream",
+      "korean": "쥐가 많은 꿈",
+      "english": "Dream of many mice",
+      "tier": "longtail"
+    },
+    {
+      "slug": "catching-mouse-dream",
+      "korean": "쥐를 잡는 꿈",
+      "english": "Dream of catching a mouse",
+      "tier": "medium"
+    },
+    {
+      "slug": "dead-mouse-dream",
+      "korean": "죽은 쥐 꿈",
+      "english": "Dream of a dead mouse",
+      "tier": "longtail"
+    },
+    {
+      "slug": "crocodile-dream",
+      "korean": "악어꿈",
+      "english": "Dream of a crocodile",
+      "tier": "medium"
+    },
+    {
+      "slug": "crocodile-attack-dream",
+      "korean": "악어에게 공격당하는 꿈",
+      "english": "Dream of being attacked by a crocodile",
+      "tier": "longtail"
+    },
+    {
+      "slug": "egg-dream",
+      "korean": "달걀 꿈",
+      "english": "Dream of an egg",
+      "tier": "medium"
+    },
+    {
+      "slug": "peacock-dream",
+      "korean": "공작새 꿈",
+      "english": "Dream of a peacock",
+      "tier": "longtail"
+    },
+    {
+      "slug": "swan-dream",
+      "korean": "백조 꿈",
+      "english": "Dream of a swan",
+      "tier": "longtail"
+    },
+    {
+      "slug": "bat-dream",
+      "korean": "박쥐 꿈",
+      "english": "Dream of a bat",
+      "tier": "medium"
+    },
+    {
+      "slug": "octopus-dream",
+      "korean": "문어 꿈",
+      "english": "Dream of an octopus",
+      "tier": "longtail"
+    },
+    {
+      "slug": "squid-dream",
+      "korean": "오징어 꿈",
+      "english": "Dream of a squid",
+      "tier": "longtail"
+    },
+    {
+      "slug": "crab-dream",
+      "korean": "게 꿈",
+      "english": "Dream of a crab",
+      "tier": "longtail"
+    },
+    {
+      "slug": "shrimp-dream",
+      "korean": "새우 꿈",
+      "english": "Dream of a shrimp",
+      "tier": "longtail"
+    },
+    {
+      "slug": "snail-dream",
+      "korean": "달팽이 꿈",
+      "english": "Dream of a snail",
+      "tier": "longtail"
+    },
+    {
+      "slug": "lizard-dream",
+      "korean": "도마뱀 꿈",
+      "english": "Dream of a lizard",
+      "tier": "longtail"
+    },
+    {
+      "slug": "dinosaur-dream",
+      "korean": "공룡 꿈",
+      "english": "Dream of a dinosaur",
+      "tier": "medium"
+    },
+    {
+      "slug": "pet-dream",
+      "korean": "반려동물 꿈",
+      "english": "Dream of a pet",
+      "tier": "longtail"
+    },
+    {
+      "slug": "hamster-dream",
+      "korean": "햄스터 꿈",
+      "english": "Dream of a hamster",
+      "tier": "longtail"
+    },
+    {
+      "slug": "wild-boar-dream",
+      "korean": "멧돼지 꿈",
+      "english": "Dream of a wild boar",
+      "tier": "medium"
+    },
+    {
+      "slug": "sheep-dream",
+      "korean": "양꿈",
+      "english": "Dream of a sheep",
+      "tier": "longtail"
+    },
+    {
+      "slug": "goat-dream",
+      "korean": "염소 꿈",
+      "english": "Dream of a goat",
+      "tier": "longtail"
+    },
+    {
+      "slug": "duck-dream",
+      "korean": "오리 꿈",
+      "english": "Dream of a duck",
+      "tier": "longtail"
+    },
+    {
+      "slug": "pigeon-dream",
+      "korean": "비둘기 꿈",
+      "english": "Dream of a pigeon/dove",
+      "tier": "medium"
+    },
+    {
+      "slug": "white-dove-dream",
+      "korean": "흰 비둘기 꿈",
+      "english": "Dream of a white dove",
+      "tier": "longtail"
+    },
+    {
+      "slug": "animal-escaping-dream",
+      "korean": "동물이 도망가는 꿈",
+      "english": "Dream of an animal escaping",
+      "tier": "longtail"
+    },
+    {
+      "slug": "chased-by-animal-dream",
+      "korean": "동물에게 쫓기는 꿈",
+      "english": "Dream of being chased by an animal",
+      "tier": "medium"
+    },
+    {
+      "slug": "talking-animal-dream",
+      "korean": "동물이 말하는 꿈",
+      "english": "Dream of an animal talking",
+      "tier": "longtail"
+    },
+    {
+      "slug": "animal-dying-dream",
+      "korean": "동물이 죽는 꿈",
+      "english": "Dream of an animal dying",
+      "tier": "longtail"
+    },
+    {
+      "slug": "feeding-animal-dream",
+      "korean": "동물에게 먹이를 주는 꿈",
+      "english": "Dream of feeding an animal",
+      "tier": "longtail"
+    },
+    {
+      "slug": "transforming-into-animal-dream",
+      "korean": "동물로 변하는 꿈",
+      "english": "Dream of transforming into an animal",
+      "tier": "longtail"
+    },
+    {
+      "slug": "green-snake-dream",
+      "korean": "초록 뱀 꿈",
+      "english": "Dream of a green snake",
+      "tier": "longtail"
+    },
+    {
+      "slug": "red-snake-dream",
+      "korean": "빨간 뱀 꿈",
+      "english": "Dream of a red snake",
+      "tier": "longtail"
+    },
+    {
+      "slug": "two-headed-snake-dream",
+      "korean": "머리 두개 달린 뱀 꿈",
+      "english": "Dream of a two-headed snake",
+      "tier": "longtail"
+    },
+    {
+      "slug": "snake-swallowing-dream",
+      "korean": "뱀이 먹이를 삼키는 꿈",
+      "english": "Dream of a snake swallowing prey",
+      "tier": "longtail"
+    },
+    {
+      "slug": "snake-wrapping-body-dream",
+      "korean": "뱀이 몸을 감는 꿈",
+      "english": "Dream of a snake wrapping around body",
+      "tier": "longtail"
+    },
+    {
+      "slug": "alpaca-dream",
+      "korean": "알파카 꿈",
+      "english": "Dream of an alpaca",
+      "tier": "longtail"
+    },
+    {
+      "slug": "buffalo-dream",
+      "korean": "물소 꿈",
+      "english": "Dream of a buffalo",
+      "tier": "longtail"
+    },
+    {
+      "slug": "camel-dream",
+      "korean": "낙타 꿈",
+      "english": "Dream of a camel",
+      "tier": "longtail"
+    },
+    {
+      "slug": "cheetah-dream",
+      "korean": "치타 꿈",
+      "english": "Dream of a cheetah",
+      "tier": "longtail"
+    },
+    {
+      "slug": "gorilla-dream",
+      "korean": "고릴라 꿈",
+      "english": "Dream of a gorilla",
+      "tier": "longtail"
+    },
+    {
+      "slug": "panda-dream",
+      "korean": "판다 꿈",
+      "english": "Dream of a panda",
+      "tier": "longtail"
+    },
+    {
+      "slug": "penguin-dream",
+      "korean": "펭귄 꿈",
+      "english": "Dream of a penguin",
+      "tier": "longtail"
+    },
+    {
+      "slug": "koala-dream",
+      "korean": "코알라 꿈",
+      "english": "Dream of a koala",
+      "tier": "longtail"
+    },
+    {
+      "slug": "hippo-dream",
+      "korean": "하마 꿈",
+      "english": "Dream of a hippopotamus",
+      "tier": "longtail"
+    },
+    {
+      "slug": "rhino-dream",
+      "korean": "코뿔소 꿈",
+      "english": "Dream of a rhinoceros",
+      "tier": "longtail"
+    },
+    {
+      "slug": "kangaroo-dream",
+      "korean": "캥거루 꿈",
+      "english": "Dream of a kangaroo",
+      "tier": "longtail"
+    },
+    {
+      "slug": "zebra-dream",
+      "korean": "얼룩말 꿈",
+      "english": "Dream of a zebra",
+      "tier": "longtail"
+    },
+    {
+      "slug": "giraffe-dream",
+      "korean": "기린 꿈",
+      "english": "Dream of a giraffe",
+      "tier": "longtail"
+    },
+    {
+      "slug": "otter-dream",
+      "korean": "수달 꿈",
+      "english": "Dream of an otter",
+      "tier": "longtail"
+    },
+    {
+      "slug": "stork-dream",
+      "korean": "황새 꿈",
+      "english": "Dream of a stork",
+      "tier": "longtail"
+    },
+    {
+      "slug": "jellyfish-dream",
+      "korean": "해파리 꿈",
+      "english": "Dream of a jellyfish",
+      "tier": "longtail"
+    },
+    {
+      "slug": "starfish-dream",
+      "korean": "불가사리 꿈",
+      "english": "Dream of a starfish",
+      "tier": "longtail"
+    },
+    {
+      "slug": "seahorse-dream",
+      "korean": "해마 꿈",
+      "english": "Dream of a seahorse",
+      "tier": "longtail"
+    },
+    {
+      "slug": "seal-dream",
+      "korean": "물개 꿈",
+      "english": "Dream of a seal",
+      "tier": "longtail"
+    },
+    {
+      "slug": "lobster-dream",
+      "korean": "바닷가재 꿈",
+      "english": "Dream of a lobster",
+      "tier": "longtail"
+    },
+    {
+      "slug": "clam-dream",
+      "korean": "조개 꿈",
+      "english": "Dream of clams",
+      "tier": "longtail"
+    },
+    {
+      "slug": "snake-eggs-dream",
+      "korean": "뱀 알 꿈",
+      "english": "Dream of snake eggs",
+      "tier": "longtail"
+    },
+    {
+      "slug": "dog-greeting-dream",
+      "korean": "강아지가 반기는 꿈",
+      "english": "Dream of a dog greeting you",
+      "tier": "longtail"
+    },
+    {
+      "slug": "dog-poop-dream",
+      "korean": "강아지 똥 꿈",
+      "english": "Dream of dog poop",
+      "tier": "medium"
+    },
+    {
+      "slug": "stray-cat-dream",
+      "korean": "길고양이 꿈",
+      "english": "Dream of a stray cat",
+      "tier": "longtail"
+    },
+    {
+      "slug": "horse-running-dream",
+      "korean": "말이 달리는 꿈",
+      "english": "Dream of a horse running",
+      "tier": "medium"
+    },
+    {
+      "slug": "baby-tiger-dream",
+      "korean": "아기 호랑이 꿈",
+      "english": "Dream of a baby tiger",
+      "tier": "longtail"
+    },
+    {
+      "slug": "lion-roaring-dream",
+      "korean": "사자가 포효하는 꿈",
+      "english": "Dream of a lion roaring",
+      "tier": "longtail"
+    },
+    {
+      "slug": "bear-attack-dream",
+      "korean": "곰에게 공격당하는 꿈",
+      "english": "Dream of bear attacking",
+      "tier": "longtail"
+    },
+    {
+      "slug": "wolf-howling-dream",
+      "korean": "늑대가 울부짖는 꿈",
+      "english": "Dream of a wolf howling",
+      "tier": "longtail"
+    },
+    {
+      "slug": "unicorn-dream",
+      "korean": "유니콘 꿈",
+      "english": "Dream of a unicorn",
+      "tier": "longtail"
+    },
+    {
+      "slug": "salmon-dream",
+      "korean": "연어 꿈",
+      "english": "Dream of salmon",
+      "tier": "longtail"
+    },
+    {
+      "slug": "stray-dog-dream",
+      "korean": "떠돌이 개 꿈",
+      "english": "Dream of a stray dog",
+      "tier": "longtail"
+    },
+    {
+      "slug": "flamingo-dream",
+      "korean": "플라밍고 꿈",
+      "english": "Dream of a flamingo",
+      "tier": "longtail"
+    },
+    {
+      "slug": "chameleon-dream",
+      "korean": "카멜레온 꿈",
+      "english": "Dream of a chameleon",
+      "tier": "longtail"
+    },
+    {
+      "slug": "hedgehog-dream",
+      "korean": "고슴도치 꿈",
+      "english": "Dream of a hedgehog",
+      "tier": "longtail"
+    },
+    {
+      "slug": "mole-dream",
+      "korean": "두더지 꿈",
+      "english": "Dream of a mole",
+      "tier": "longtail"
+    },
+    {
+      "slug": "raccoon-dream",
+      "korean": "너구리 꿈",
+      "english": "Dream of a raccoon",
+      "tier": "longtail"
+    },
+    {
+      "slug": "squirrel-dream",
+      "korean": "다람쥐 꿈",
+      "english": "Dream of a squirrel",
+      "tier": "longtail"
+    },
+    {
+      "slug": "weasel-dream",
+      "korean": "족제비 꿈",
+      "english": "Dream of a weasel",
+      "tier": "longtail"
+    },
+    {
+      "slug": "blue-whale-dream",
+      "korean": "대왕고래 꿈",
+      "english": "Dream of a blue whale",
+      "tier": "longtail"
+    },
+    {
+      "slug": "dog-dying-dream",
+      "korean": "개가 죽는 꿈",
+      "english": "Dream of a dog dying",
+      "tier": "medium"
+    },
+    {
+      "slug": "rooster-dream",
+      "korean": "수탉 꿈",
+      "english": "Dream of a rooster",
+      "tier": "longtail"
+    },
+    {
+      "slug": "hen-dream",
+      "korean": "암탉 꿈",
+      "english": "Dream of a hen",
+      "tier": "longtail"
+    },
+    {
+      "slug": "chimpanzee-dream",
+      "korean": "침팬지 꿈",
+      "english": "Dream of a chimpanzee",
+      "tier": "longtail"
     }
   ],
   "body": [

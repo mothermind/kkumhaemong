@@ -1,0 +1,182 @@
+{
+  "symbol": {
+    "korean": "달팽이",
+    "english": "Snail",
+    "slug": "snail-dream"
+  },
+  "summary": {
+    "korean": "달팽이 꿈은 느리지만 확실한 전진, 인내, 그리고 내면의 비밀을 상징하는 반흉반길의 꿈으로, 상황에 따라 재물운 상승이나 사업 부진을 암시한다.",
+    "english": "A snail dream is a mixed omen symbolizing slow but steady progress, patience, and hidden secrets — portending either financial gain or stagnation depending on the context."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "달팽이를 잡는 꿈은 재물이 들어오거나 오랫동안 준비해온 창작품이나 프로젝트를 세상에 발표하게 될 것을 암시하는 대표적인 길몽이다. 그릇이나 가방 안에 달팽이가 가득 들어 있는 꿈은 금전운과 재물운이 크게 상승하여 경제적으로 여유롭고 풍요로운 생활이 이어질 것을 예고한다. 큰 달팽이를 잡는 꿈은 진행 중인 사업이 대성공을 거두고 주변 사람들로부터 깊은 신뢰를 얻게 됨을 의미한다.",
+      "english": "Catching a snail in a dream is a classic auspicious sign, foretelling incoming wealth or the successful launch of a long-prepared creative work or project. A dream in which a container or bag is full of snails signals a major rise in financial fortune and a sustained period of economic comfort. Catching a large snail specifically indicates that an ongoing business venture will succeed greatly and earn deep trust from those around you.",
+      "context": "재물운 상승, 창작 발표, 사업 성공, 경제적 풍요"
+    },
+    {
+      "type": "흉몽",
+      "korean": "달팽이가 높은 곳이나 험한 곳을 힘겹게 기어오르는 꿈은 현재 진행 중인 사업이 부실해지거나 직장에서의 승진이 가로막힘을 예시한다. 달팽이를 먹는 꿈은 재물 손실과 자금난을 경고하며, 달팽이를 밟거나 죽이는 꿈은 연애운이 하락하고 이성 문제로 주변의 비난과 구설수에 오를 수 있음을 암시한다. 달팽이를 그냥 바라보기만 하는 꿈은 가까운 지인에게 배신을 당하거나 건강이 악화될 수 있음을 경고한다.",
+      "english": "A dream of a snail struggling to climb something high or difficult foretells that a current business venture will falter or that a hoped-for promotion will be blocked. Eating a snail in a dream warns of financial loss and cash-flow difficulties. Stepping on or killing a snail signals a decline in romantic fortune and the risk of becoming the subject of gossip or criticism over relationship matters. Merely watching a snail without interacting warns of betrayal by a close acquaintance or a coming decline in health.",
+      "context": "사업 부진, 승진 장애, 재물 손실, 배신, 연애 문제"
+    },
+    {
+      "type": "neutral",
+      "korean": "달팽이 꿈은 성별과 처한 상황에 따라 의미가 달라지는 반흉반길의 꿈이다. 미혼 여성에게는 재력 있는 상대와의 결혼을 암시하는 혼담의 길몽이 되고, 기혼 여성에게는 남편의 수입이 늘어날 것을 예고하는 재물운으로 해석된다. 반면 남성에게는 건강이 나빠질 수 있다는 경고로 보는 시각도 있다. 달팽이 껍데기에서 진주가 나오는 꿈은 지위가 오르고 새로운 진리나 깨달음을 얻게 될 것을 상징한다.",
+      "english": "The meaning of a snail dream shifts considerably based on the dreamer's gender and life situation, making it a fundamentally ambivalent symbol. For unmarried women it can signal the arrival of a marriage prospect with a wealthy partner; for married women it foretells an increase in the husband's income. For men, some interpretations carry a health warning. A dream in which a pearl emerges from a snail's shell is a positive omen of rising social status and the attainment of new wisdom or insight.",
+      "context": "성별에 따른 해석 차이, 혼담, 지위 상승, 건강 경고"
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "달팽이를 잡는 꿈",
+      "keyword_en": "catching a snail dream",
+      "interpretation_ko": "재물이 들어오거나 창작물 발표, 혼담 성사를 암시하는 길몽이다. 특히 큰 달팽이를 잡으면 사업 대성공과 주변의 신뢰를 얻는 것을 예고한다.",
+      "interpretation_en": "An auspicious dream foretelling incoming money, the public release of a creative work, or progress in a marriage arrangement. Catching a large snail specifically signals major business success and earned trust from others."
+    },
+    {
+      "keyword_ko": "달팽이가 많이 나오는 꿈",
+      "keyword_en": "many snails dream",
+      "interpretation_ko": "그릇이나 가방에 달팽이가 가득 차 있는 꿈은 금전운과 재물운이 크게 상승하는 풍요의 징조다. 접시에 달팽이가 가득하면 삶이 넉넉해질 것을 예고한다.",
+      "interpretation_en": "A dream of many snails filling a container or bag is a strong sign of rising financial fortune and incoming abundance. The more snails present, the greater the foretold prosperity."
+    },
+    {
+      "keyword_ko": "달팽이 밟는 꿈",
+      "keyword_en": "stepping on a snail dream",
+      "interpretation_ko": "연애운이 하락하고 이성 관계에서 비난이나 구설수에 오를 수 있음을 경고하는 흉몽이다. 감정적 충동으로 인해 관계가 손상될 수 있으니 주의가 필요하다.",
+      "interpretation_en": "An inauspicious dream warning of a decline in romantic fortune and the risk of being criticized or gossiped about over matters of the heart. It cautions against acting impulsively in relationships."
+    },
+    {
+      "keyword_ko": "큰 달팽이 꿈",
+      "keyword_en": "large snail dream",
+      "interpretation_ko": "단순히 큰 달팽이를 보는 꿈은 운의 장애를 암시하기도 하지만, 느릿느릿 기어가는 큰 달팽이를 잡으면 사업이 크게 성공하고 많은 재물을 얻는 대길몽이 된다.",
+      "interpretation_en": "Simply seeing a large snail can hint at an obstacle, but catching a slowly crawling large snail transforms the dream into a highly auspicious omen of great business success and significant financial gain."
+    },
+    {
+      "keyword_ko": "달팽이 껍데기 꿈",
+      "keyword_en": "snail shell dream",
+      "interpretation_ko": "껍데기에서 진주가 나오는 꿈은 지위 상승과 새로운 진리 터득을 상징한다. 껍데기만 남겨진 꿈은 내면의 보호막이 사라지거나 지지 기반이 약해질 수 있음을 경고한다.",
+      "interpretation_en": "A shell yielding a pearl symbolizes rising status and the acquisition of new insight or wisdom. An empty shell warns that one's inner defenses or support base may be weakening."
+    },
+    {
+      "keyword_ko": "민달팽이 꿈",
+      "keyword_en": "slug (shell-less snail) dream",
+      "interpretation_ko": "대체로 흉몽으로, 민달팽이가 몸에 달라붙으면 구설수와 액운을 의미한다. 그러나 달라붙은 민달팽이를 직접 떼어내는 꿈은 악운이 소멸되는 정반대의 길몽으로 해석된다.",
+      "interpretation_en": "Generally inauspicious — a slug attaching itself to the body warns of gossip and bad luck. However, actively pulling the slug off reverses the meaning, signaling the elimination of misfortune."
+    },
+    {
+      "keyword_ko": "달팽이 태몽",
+      "keyword_en": "snail pregnancy dream (taeong)",
+      "interpretation_ko": "임신한 여성이 달팽이를 잡거나 주운 꿈은 태몽으로, 귀엽고 예쁜 여자아이를 잉태함을 암시한다. 이 태몽으로 태어난 아이는 뛰어난 능력을 지니고 훗날 풍요로운 삶을 살 가능성이 높다고 전해진다.",
+      "interpretation_en": "A pregnant woman dreaming of catching or picking up a snail is interpreted as a taeong (conception dream), signaling the birth of a cute, beautiful girl. Children born of this dream are said to be gifted and likely to live a prosperous life."
+    },
+    {
+      "keyword_ko": "달팽이가 기어오르는 꿈",
+      "keyword_en": "snail climbing dream",
+      "interpretation_ko": "달팽이가 높은 곳이나 험한 절벽을 힘겹게 기어오르는 꿈은 현재 추진 중인 일이 막히거나 직장에서의 승진이 어려워질 것을 예고하는 흉몽이다.",
+      "interpretation_en": "A dream of a snail laboring to climb a high wall or steep surface is an inauspicious omen, foretelling that current endeavors will hit obstacles or that a promotion at work will be difficult to achieve."
+    },
+    {
+      "keyword_ko": "흰 달팽이 꿈",
+      "keyword_en": "white snail dream",
+      "interpretation_ko": "새하얀 달팽이가 나오는 꿈은 시간이 걸리지만 결국 좋은 결과가 찾아올 것을 암시한다. 인내하며 현재의 과정을 믿어야 함을 일깨우는 꿈이다.",
+      "interpretation_en": "A bright white snail in a dream suggests that good results will come eventually, even if the process is slow. It is a reminder to remain patient and trust in the current course of action."
+    },
+    {
+      "keyword_ko": "빨간 달팽이 꿈",
+      "keyword_en": "red snail dream",
+      "interpretation_ko": "빨간 달팽이는 현재 꿈꾸는 사람이 분노, 스트레스, 또는 감정적 긴장 상태에 놓여 있음을 반영하는 심리적 경고의 꿈이다. 감정 조절에 주의가 필요하다.",
+      "interpretation_en": "A red snail reflects the dreamer's current state of anger, stress, or emotional tension. It is a psychological warning to pay attention to emotional regulation before it causes harm."
+    }
+  ],
+  "culturalContext": {
+    "korean": "달팽이는 한국 민속에서 오래전부터 친숙한 존재로, 어린 시절 누구나 한 번쯤 불러봤을 동요 '달팽이'(\"달팽이야 달팽이야 뿔을 내어라~\")에 등장할 만큼 일상적인 생명체였다. 민속적으로 달팽이는 집(껍데기)을 등에 이고 다니는 특성 때문에 '안정된 가정'과 '자신만의 안전한 공간'을 상징하는 동물로 여겨졌다. 또한 느리지만 꾸준히 나아간다는 점에서 거북이와 함께 '느림의 미덕'과 '우직한 인내'를 대표하는 동물로 인식되었다. 한편 달팽이가 만들어내는 끈적한 점액질은 비밀, 은밀함, 또는 인간관계에서의 배신과 연결되는 부정적 이미지로도 기능했다. 꿈해몽에서 달팽이는 이러한 이중성 — 안전한 보금자리와 느린 전진이라는 길함, 그리고 끈적임과 답답함이라는 흉함 — 을 그대로 반영하여 반흉반길의 꿈으로 자리 잡았다.",
+    "english": "The snail has long been a familiar creature in Korean folk life, appearing in the beloved children's song ('달팽이야 달팽이야 뿔을 내어라~' — 'Snail, oh snail, put out your horns~') that virtually every Korean child has sung. In folk tradition, the snail's characteristic of carrying its house on its back made it a symbol of a stable home and one's own safe, protected space. Together with the turtle, the snail also represents the virtue of patient, unhurried perseverance — slow but undaunted progress toward a goal. Conversely, the snail's trail of sticky mucus connected it to images of secrecy, concealment, and interpersonal betrayal. Korean dream interpretation reflects this duality directly: the snail's shell-home and steady forward motion are auspicious, while its sliminess and agonizing slowness are inauspicious — making it one of the more nuanced mixed-omen symbols in the tradition."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트적 관점에서 달팽이의 나선형 껍데기는 자궁이나 내면의 은신처를 상징하며, 껍데기 속으로 움츠러드는 행동은 외부 세계로부터 도피하고 싶은 퇴행 욕구를 반영한다고 볼 수 있어요. 달팽이를 먹는 꿈은 안전과 자기 보호에 대한 무의식적 욕망을 소화하려는 시도로 해석될 수 있어요.",
+      "english": "From a Freudian perspective, the snail's spiral shell can symbolize the womb or an inner refuge, and the act of withdrawing into the shell may reflect a regressive wish to escape from the demands of the external world. Eating a snail in a dream could be interpreted as an unconscious attempt to internalize or 'digest' desires for security and self-protection."
+    },
+    "jungian": {
+      "korean": "융의 관점에서 달팽이는 나선형 껍데기와 느린 움직임으로 인해 개성화(individuation) 과정 — 즉 자아가 의식과 무의식을 통합하며 천천히 중심을 향해 나아가는 여정 — 을 상징해요. 껍데기는 자기(Self)의 보호적 경계를 나타내며, 달팽이 꿈은 자신의 내적 리듬을 신뢰하고 외부의 속도 압박에 저항하라는 무의식의 메시지일 수 있어요.",
+      "english": "In Jungian terms, the snail — with its spiral shell and unhurried movement — symbolizes the individuation process: the slow, deliberate journey of the psyche toward integration of the conscious and unconscious. The shell represents the Self's protective boundary, and a snail dream may carry an unconscious message to trust one's own inner rhythm and resist the pressure to match the pace of the external world."
+    },
+    "modern": {
+      "korean": "현대 심리학적 꿈 해석에서 달팽이는 종종 일상에서 느끼는 정체감, 번아웃, 또는 '속도 경쟁'에 지쳐버린 심리를 반영해요. 달팽이가 천천히 나아가는 꿈은 꿈꾸는 사람이 자신의 속도를 존중하고 무리한 진행을 멈춰야 한다는 내면의 신호로 해석되며, 현대인의 성과 중심 사회에 대한 심리적 반발을 나타내기도 해요.",
+      "english": "In contemporary psychological dream analysis, a snail often reflects feelings of stagnation, burnout, or exhaustion from the relentless pressure to keep up in a high-speed world. A dream in which a snail moves slowly is frequently read as an internal signal that the dreamer needs to honor their own pace and stop forcing progress — a psychological pushback against achievement-obsessed modern culture."
+    },
+    "crossCultural": {
+      "korean": "서구 문화권에서 달팽이는 고대 그리스부터 '끈기의 상징'으로 여겨져 왔으며, 프랑스 요리에서는 에스카르고(escargot)로 별미이자 풍요의 상징이에요. 켈트 전통에서는 달팽이의 나선형 껍데기가 생명의 순환과 재생을 의미했고, 멕시코 아즈텍 신화에서는 달팽이 껍데기가 달과 시간의 신 테스카틀리포카와 연결되기도 했어요. 이처럼 달팽이는 동서양을 막론하고 '느림 속의 지혜'와 '집(home)을 항상 지니고 다니는 안전함'을 상징하는 보편적 이미지를 공유해요.",
+      "english": "In Western cultures, the snail has been a symbol of perseverance since ancient Greece, and in French cuisine it is a delicacy (escargot) associated with abundance. In Celtic tradition, the snail's spiral shell represented the cycle of life and regeneration, while in Aztec mythology the shell was linked to the moon and the deity of time. Across diverse cultures, the snail shares a universal image of 'wisdom within slowness' and the reassuring safety of always carrying one's home — a comfort that resonates across both Eastern and Western symbolic traditions."
+    }
+  },
+  "relatedSymbols": [
+    "turtle-dream",
+    "frog-dream",
+    "clam-dream",
+    "earthworm-dream",
+    "crab-dream",
+    "insect-dream"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "달팽이 꿈해몽",
+      "달팽이 꿈",
+      "달팽이 꿈 의미",
+      "달팽이 꿈 길몽",
+      "달팽이 꿈 흉몽",
+      "달팽이 잡는 꿈",
+      "달팽이 태몽",
+      "달팽이 꿈 재물운",
+      "큰 달팽이 꿈",
+      "민달팽이 꿈",
+      "달팽이 껍데기 꿈",
+      "달팽이 많이 나오는 꿈"
+    ],
+    "english": [
+      "snail dream meaning",
+      "snail dream interpretation",
+      "dreaming of snails",
+      "snail dream lucky",
+      "catching snail dream",
+      "snail pregnancy dream Korea",
+      "snail dream Korean fortune",
+      "slug dream meaning"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "달팽이 꿈은 길몽인가요, 흉몽인가요?",
+      "answer_ko": "달팽이 꿈은 전형적인 반흉반길의 꿈입니다. 달팽이를 잡거나 그릇에 가득 찬 달팽이를 보는 꿈은 재물운 상승을 알리는 길몽이지만, 달팽이가 험한 곳을 기어오르거나 달팽이를 먹는 꿈은 사업 부진이나 재물 손실을 경고하는 흉몽입니다. 꿈 속의 상황과 행동에 따라 의미가 정반대로 달라지므로 전체 맥락을 함께 살펴보는 것이 중요합니다.",
+      "question_en": "Is a snail dream a lucky or unlucky omen?",
+      "answer_en": "A snail dream is typically a mixed omen — neither purely lucky nor purely unlucky. Catching a snail or seeing a container full of snails is auspicious, signaling rising financial fortune. However, watching a snail struggle to climb something difficult, or eating a snail, is inauspicious, warning of business troubles or money loss. The overall context of the dream — what you did and how you felt — is the key to an accurate reading."
+    },
+    {
+      "question_ko": "달팽이를 잡는 꿈을 꿨는데 무슨 의미인가요?",
+      "answer_ko": "달팽이를 잡는 꿈은 재물이 들어오거나 오랫동안 준비해온 창작물이나 프로젝트를 발표하게 될 것을 예고하는 길몽입니다. 특히 크고 느릿느릿 기어가는 달팽이를 잡는 꿈은 사업이 크게 성공하고 주변의 신뢰를 얻는 대길몽으로 해석됩니다. 미혼 여성에게는 결혼 이야기가 들어올 수 있음을 암시하기도 합니다.",
+      "answer_en": "Catching a snail is an auspicious sign, foretelling incoming wealth or the successful launch of a creative project you have been preparing. Catching a large, slowly-crawling snail specifically is considered a major lucky omen, signaling that a business endeavor will succeed and that others will come to trust and respect you. For unmarried women, it may also hint at an incoming marriage prospect."
+    },
+    {
+      "question_ko": "달팽이 꿈이 태몽이 될 수 있나요?",
+      "answer_ko": "네, 임신 중이거나 임신을 바라는 여성이 달팽이를 잡거나 길에서 줍는 꿈을 꾸면 태몽으로 해석됩니다. 달팽이 태몽은 귀엽고 예쁜 여자아이를 잉태한다는 의미이며, 이 꿈으로 태어난 아이는 뛰어난 능력과 풍요로운 미래를 가질 것이라고 전해집니다.",
+      "answer_en": "Yes — if a pregnant woman or someone hoping to conceive dreams of catching or picking up a snail, it is interpreted as a taeong (conception dream). A snail taeong traditionally signals the birth of a cute, beautiful girl, and children born of this dream are said to be talented and destined for a prosperous life."
+    },
+    {
+      "question_ko": "달팽이를 밟는 꿈은 왜 흉몽인가요?",
+      "answer_ko": "달팽이를 밟거나 죽이는 꿈은 연애운이 하락하고 이성 관계에서 구설수에 오를 가능성을 경고합니다. 이는 달팽이가 상징하는 '안전하고 소중한 공간'을 스스로 파괴하는 행위로 해석되기 때문입니다. 연인이나 배우자와의 관계에서 충동적인 행동이나 오해를 일으킬 수 있는 상황에 주의하는 것이 좋습니다.",
+      "answer_en": "Stepping on or killing a snail in a dream warns of a decline in romantic fortune and a risk of being gossiped about or criticized in relation to a romantic partner. This is interpreted as the symbolic destruction of the safe, cherished home that the snail represents. The dream advises caution against impulsive actions or misunderstandings in one's romantic or marital relationship."
+    },
+    {
+      "question_ko": "민달팽이 꿈과 달팽이 꿈은 해몽이 다른가요?",
+      "answer_ko": "네, 차이가 있습니다. 껍데기가 있는 달팽이는 안전한 보금자리와 인내를 상징하여 상황에 따라 길몽이 될 수 있지만, 민달팽이는 껍데기(보호막)가 없어 더 불안정하고 취약한 상태를 나타냅니다. 민달팽이 꿈은 대체로 구설수, 액운, 또는 환경의 불안정을 경고하는 흉몽으로 해석되는 경향이 강합니다. 단, 민달팽이를 직접 떼어내는 꿈은 예외적으로 악운 소멸의 길몽으로 봅니다.",
+      "answer_en": "Yes, there is a meaningful difference. A snail with its shell symbolizes a safe home and patient endurance, and can be auspicious in the right context. A slug (shell-less snail) lacks that protective covering, representing a more vulnerable and unstable state. Slug dreams are therefore more consistently inauspicious, warning of gossip, bad luck, or environmental instability. The notable exception is actively removing a slug attached to your body, which reverses the omen into a sign that misfortune is being dispelled."
+    },
+    {
+      "question_ko": "흰 달팽이 꿈은 특별한 의미가 있나요?",
+      "answer_ko": "흰색은 한국 꿈해몽에서 일반적으로 순수함, 진실, 또는 조심스럽지만 긍정적인 결과를 상징합니다. 새하얀 달팽이가 나오는 꿈은 시간이 걸리더라도 결국 좋은 결과가 찾아올 것임을 예고하는 길몽으로, 지금 당장 빠른 변화를 기대하기보다 인내하며 자신의 페이스를 지키라는 조언을 담고 있습니다.",
+      "answer_en": "White in Korean dream interpretation generally symbolizes purity, truth, and cautiously positive outcomes. A dream featuring a bright white snail is considered an auspicious sign that good results will ultimately arrive, even if the process takes time. The dream carries an implicit message to be patient and maintain your own pace rather than expecting rapid change."
+    }
+  ]
+}

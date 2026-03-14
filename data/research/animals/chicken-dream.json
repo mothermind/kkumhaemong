@@ -1,0 +1,263 @@
+{
+  "symbol": {
+    "korean": "닭",
+    "english": "Chicken",
+    "slug": "chicken-dream"
+  },
+  "summary": {
+    "korean": "닭꿈은 새벽을 여는 여명의 새로서 새로운 시작·명예·재물운을 상징하며, 닭의 상태와 행동에 따라 길흉이 크게 달라지는 꿈이에요.",
+    "english": "Dreaming of a chicken symbolizes new beginnings, honor, and financial fortune — rooted in the rooster's ancient role as the herald of dawn — though the dream's auspiciousness depends heavily on the bird's condition and behavior."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "크고 건강한 닭이 꿈에 나타나면 하고자 하는 일이 순탄하게 풀리고, 재물운과 명예운이 동시에 열린다는 신호예요. 특히 큰 닭이 높이 날아오르는 꿈은 운수대통으로 풀이되며 사업 성공이나 승진을 암시해요.",
+      "english": "A large, vigorous chicken appearing in a dream signals that your endeavors will proceed smoothly and that wealth and prestige are on the horizon. A big rooster soaring upward is especially auspicious — an omen of great fortune, business success, or career advancement.",
+      "context": "크기와 건강 상태가 길몽 여부를 결정하는 핵심 요소"
+    },
+    {
+      "type": "길몽",
+      "korean": "수탉이 크게 우는 꿈은 주변 사람들로부터 인정받고 좋은 소식이 들어온다는 의미예요. 새로운 시작과 기회의 도래를 알리는 새벽 울음처럼, 전환점이 다가오고 있음을 뜻해요.",
+      "english": "Hearing a rooster crow loudly in a dream foretells recognition from peers and incoming good news. Like the rooster's dawn call heralding a new day, the dream signals that a significant turning point is approaching.",
+      "context": "수탉 울음 — 새로운 시작, 기회, 인정"
+    },
+    {
+      "type": "길몽",
+      "korean": "암탉이 알을 낳거나 품고 있는 꿈은 지금까지 준비해온 일이나 사업에서 좋은 성과를 거두게 됨을 암시해요. 예술가라면 주변에서 인정받을 훌륭한 작품을 만들어낼 조짐이기도 해요.",
+      "english": "A hen laying or brooding over eggs signals that projects and ventures you have been nurturing will soon yield excellent results. For artists or creators, it foretells a work that will earn wide recognition.",
+      "context": "알 품기 — 성과, 창작물 결실, 계획 실현"
+    },
+    {
+      "type": "길몽",
+      "korean": "흰 닭이 나타나는 꿈은 행운과 뜻밖의 기회를 암시하는 길몽이에요. 순수함과 평화의 기운이 가득해 가정 내 화목과 건강운도 함께 좋아진다고 풀이해요.",
+      "english": "A white chicken appearing in a dream is a strongly auspicious omen, portending unexpected luck and opportunity. Its symbolism of purity and peace also points to family harmony and improved health.",
+      "context": "흰 닭 — 행운, 뜻밖의 기회, 가정 화목"
+    },
+    {
+      "type": "길몽",
+      "korean": "검은 닭이 꿈에 나타나면 재물을 얻거나 높은 지위·명예를 얻게 된다는 길몽으로 풀이돼요. 어둡게 보이지만 오히려 강한 기운이 집중된 신호예요.",
+      "english": "A black chicken in a dream is interpreted as an auspicious sign for gaining wealth or attaining elevated status and honor. Despite its dark appearance, it signals a concentrated surge of positive energy.",
+      "context": "검은 닭 — 재물, 지위, 명예 획득"
+    },
+    {
+      "type": "길몽",
+      "korean": "맨손으로 도망가는 닭을 잡는 꿈은 뜻밖의 금전 획득이나 예상치 못한 기회를 잡게 된다는 신호예요. 노력 없이 찾아오는 횡재가 아니라 기민하게 기회를 포착하는 능력을 상징해요.",
+      "english": "Catching a fleeing chicken with bare hands in a dream signals unexpected financial gain or the capture of an unanticipated opportunity. It represents the quick-wittedness needed to seize a chance before it escapes.",
+      "context": "닭 잡기 — 뜻밖의 재물, 기회 포착"
+    },
+    {
+      "type": "길몽",
+      "korean": "닭이 집 안으로 들어오는 꿈은 일시적으로 외부 문제나 어려움이 닥치더라도, 그 시련을 극복하고 나면 오히려 이득으로 돌아온다는 길몽으로 풀이돼요.",
+      "english": "A chicken entering your home in a dream suggests that although external troubles may arise briefly, overcoming them will ultimately turn to your advantage — hardship transformed into gain.",
+      "context": "닭이 집에 들어옴 — 시련 후 이득"
+    },
+    {
+      "type": "흉몽",
+      "korean": "죽은 닭이 꿈에 나오면 액운이 끼거나 진행 중인 일에 차질이 생길 수 있어요. 가족이나 가까운 사람의 건강 문제를 암시하기도 하므로 주의가 필요해요.",
+      "english": "A dead chicken in a dream warns of misfortune or disruptions to ongoing plans. It can also signal health concerns for a family member or close associate, calling for vigilance.",
+      "context": "죽은 닭 — 액운, 사업 차질, 건강 경고"
+    },
+    {
+      "type": "흉몽",
+      "korean": "닭에게 쪼임을 당하는 꿈은 가까운 사람으로 인한 귀찮은 분쟁이나 질환에 시달릴 수 있음을 경고해요.",
+      "english": "Being pecked by a chicken in a dream warns of petty conflicts instigated by someone close to you, or the onset of a bothersome illness.",
+      "context": "닭에게 쪼임 — 분쟁, 건강 문제"
+    },
+    {
+      "type": "흉몽",
+      "korean": "닭싸움을 구경하는 꿈은 주변 인물과의 다툼이나 소송, 구설수에 오를 위험을 암시해요. 감정적 충돌이 예상되므로 언행에 신중해야 해요.",
+      "english": "Watching a cockfight in a dream warns of disputes, potential litigation, or damaging gossip involving people around you. Caution in speech and action is advised.",
+      "context": "닭싸움 구경 — 소송, 구설수, 갈등"
+    },
+    {
+      "type": "흉몽",
+      "korean": "지붕 위에서 닭이 크게 우는 꿈은 집안에 좋지 않은 일이 생길 것을 암시하는 흉몽으로 전통적으로 풀이돼요.",
+      "english": "A chicken crowing loudly from the rooftop is traditionally interpreted as an ill omen, foretelling trouble or misfortune within the household.",
+      "context": "지붕 위 닭 울음 — 가정 내 불길한 사건"
+    },
+    {
+      "type": "neutral",
+      "korean": "닭고기를 먹는 꿈은 재물 획득의 신호로 보기도 하지만, 가족 구성원의 건강 변화에 주의를 기울여야 한다는 중립적 경고로도 해석돼요.",
+      "english": "Eating chicken in a dream has dual readings: it may signal incoming financial gain, but it also serves as a neutral caution to monitor a family member's health.",
+      "context": "닭 먹기 — 재물 또는 건강 변화 주의"
+    },
+    {
+      "type": "neutral",
+      "korean": "병아리가 나오는 꿈은 새로운 시작이나 가능성의 싹을 의미해요. 아직 결실을 맺지는 않았지만 잠재력이 커지고 있다는 신호예요.",
+      "english": "Dreaming of chicks represents the sprouting of new beginnings or untapped potential. Results have not yet fully materialized, but momentum is building.",
+      "context": "병아리 — 새 시작, 잠재력, 가능성"
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "수탉이 우는 꿈",
+      "keyword_en": "rooster crowing dream",
+      "interpretation_ko": "수탉의 우렁찬 울음소리는 새벽 여명처럼 새로운 기회와 전환점의 도래를 알려요. 사업이나 학업, 연애에서 좋은 전환점이 찾아올 가능성이 높아요. 주변 사람들로부터 인정받는 시기가 되기도 해요.",
+      "interpretation_en": "A rooster's powerful crow heralds new opportunities and turning points, much like the dawn it announces. Good developments in business, study, or romance are likely, and recognition from peers is expected."
+    },
+    {
+      "keyword_ko": "암탉이 알을 낳는 꿈",
+      "keyword_en": "hen laying eggs dream",
+      "interpretation_ko": "알은 새로운 생명과 가능성의 상징이에요. 암탉이 알을 낳는 꿈은 오랫동안 준비해온 계획이나 사업이 실현되고 결실을 맺는다는 강한 길몽이에요. 임신 태몽으로 해석되기도 해요.",
+      "interpretation_en": "Eggs symbolize new life and possibility. A hen laying eggs is a powerful auspicious dream indicating that long-nurtured plans and projects will finally come to fruition. It may also be interpreted as a pregnancy omen (태몽)."
+    },
+    {
+      "keyword_ko": "닭이 집에 들어오는 꿈",
+      "keyword_en": "chicken entering house dream",
+      "interpretation_ko": "닭이 집 안으로 들어오는 꿈은 외부의 문제나 시련이 일시적으로 닥침을 의미해요. 그러나 그 어려움을 극복하고 나면 도리어 이익과 새로운 기회로 전환된다고 풀이해요.",
+      "interpretation_en": "A chicken walking into your house signals the temporary arrival of external troubles or trials. However, the traditional interpretation holds that persevering through this difficulty will ultimately convert into gain and new opportunity."
+    },
+    {
+      "keyword_ko": "죽은 닭 꿈",
+      "keyword_en": "dead chicken dream",
+      "interpretation_ko": "죽은 닭은 진행 중인 일의 차질, 액운, 또는 주변 가족의 건강 문제를 경고해요. 사업이나 계획에 예기치 않은 장애물이 생길 수 있으니 리스크 관리에 신경 써야 해요.",
+      "interpretation_en": "A dead chicken warns of disruptions to ongoing plans, bad luck, or health concerns for family members. Unexpected obstacles may arise in business or projects, calling for careful risk management."
+    },
+    {
+      "keyword_ko": "닭에게 쫓기는 꿈",
+      "keyword_en": "chased by chicken dream",
+      "interpretation_ko": "닭에게 쫓기는 꿈은 현실에서 피하고 싶은 상황이나 사람이 있음을 반영해요. 책임을 회피하거나 갈등을 방치하면 상황이 더 악화될 수 있다는 경고 신호예요.",
+      "interpretation_en": "Being chased by a chicken in a dream reflects a situation or person in waking life that you are trying to avoid. It warns that evading responsibility or leaving a conflict unresolved will only worsen matters."
+    },
+    {
+      "keyword_ko": "닭을 잡는 꿈",
+      "keyword_en": "catching a chicken dream",
+      "interpretation_ko": "맨손으로 닭을 잡는 꿈은 뜻밖의 재물이나 기회를 손에 넣게 된다는 길몽이에요. 기민하게 상황을 포착하는 능력을 상징하며, 사업이나 투자에서의 성과를 암시해요.",
+      "interpretation_en": "Catching a chicken with bare hands is an auspicious omen for unexpected financial gain or opportunity. It symbolizes the agility to seize the right moment and points to success in business or investment."
+    },
+    {
+      "keyword_ko": "닭고기를 먹는 꿈",
+      "keyword_en": "eating chicken dream",
+      "interpretation_ko": "닭고기를 먹는 꿈은 이중적인 해석이 있어요. 재물이 들어오는 좋은 신호로 보기도 하지만, 가족의 건강 변화를 예고하는 경고로도 풀이돼요. 꿈 속 분위기가 화기애애하다면 전자에 가까워요.",
+      "interpretation_en": "Eating chicken in a dream carries dual meaning. A pleasant dining atmosphere suggests incoming wealth, while an uneasy feeling points more toward a health warning for someone in the family."
+    },
+    {
+      "keyword_ko": "많은 닭이 모여 있는 꿈",
+      "keyword_en": "many chickens together dream",
+      "interpretation_ko": "많은 닭이 한 자리에 모여 있는 꿈은 풍요와 번영의 상징이에요. 안정적이고 꾸준한 수입이 들어오거나, 주변 사람들과의 협력을 통해 큰 성과를 거두게 됨을 암시해요.",
+      "interpretation_en": "Seeing many chickens gathered together symbolizes abundance and prosperity. It suggests a steady incoming flow of income or that collaboration with those around you will yield significant results."
+    },
+    {
+      "keyword_ko": "흰 닭 꿈",
+      "keyword_en": "white chicken dream",
+      "interpretation_ko": "흰 닭은 순수함과 행운의 기운을 상징해요. 예상치 못한 행운이나 기회가 찾아오는 길몽으로, 가정에 평화와 화목함이 깃드는 시기임을 알려요.",
+      "interpretation_en": "A white chicken symbolizes purity and lucky energy. It is an auspicious dream foretelling unexpected good fortune and opportunity, and signals a period of peace and harmony in the home."
+    },
+    {
+      "keyword_ko": "검은 닭 꿈",
+      "keyword_en": "black chicken dream",
+      "interpretation_ko": "검은 닭 꿈은 언뜻 불길해 보이지만 전통 해몽에서는 강한 재물운과 높은 명예·지위 획득을 암시하는 길몽으로 분류돼요.",
+      "interpretation_en": "Though it might seem ominous at first glance, dreaming of a black chicken is classified as auspicious in traditional Korean dream interpretation, signifying strong financial fortune and the attainment of high status or honor."
+    },
+    {
+      "keyword_ko": "닭 태몽",
+      "keyword_en": "chicken pregnancy dream",
+      "interpretation_ko": "닭 태몽은 특히 수탉이나 힘차게 우는 닭이 나올 경우 활기차고 리더십 있는 아이를 낳을 것을 암시해요. 암탉이 알을 낳는 태몽은 재능이 풍부한 아이의 탄생을 예고해요.",
+      "interpretation_en": "A chicken pregnancy dream (태몽), especially featuring a crowing rooster, foretells the birth of an energetic child with natural leadership ability. A hen laying eggs as a pregnancy omen predicts a child of abundant talent."
+    },
+    {
+      "keyword_ko": "병아리 꿈",
+      "keyword_en": "chick (baby chicken) dream",
+      "interpretation_ko": "병아리는 가능성의 씨앗이에요. 아직 완성되지 않았지만 성장하는 잠재력을 상징하며, 새로운 프로젝트나 관계의 시작, 또는 자녀의 건강과 성장을 의미해요.",
+      "interpretation_en": "Baby chicks are seeds of possibility — not yet complete, but growing with potential. The dream symbolizes new projects or relationships taking root, or the health and development of a child."
+    }
+  ],
+  "culturalContext": {
+    "korean": "닭은 한국 문화에서 단순한 가축을 넘어 여명(黎明)의 신성한 사자(使者)로 여겨져 왔어요. 십이지(十二支) 중 열 번째 동물이자 유일한 조류로, 한자로는 酉(유)로 표기되며 닭띠 해는 새로운 시작과 변화의 기운이 강한 해로 여겨져요.\n\n가장 유명한 신화적 기록은 신라의 경주 김씨 시조 김알지(金閼智) 탄생 설화예요. 신라왕이 계림(鷄林) 숲에서 흰 닭의 울음소리를 듣고 찾아가니 황금 궤에서 사내아이가 나왔고, 이 아이가 경주 김씨의 시조가 되었어요. 이후 그 숲의 이름을 계림이라 하였고 신라의 국호로도 쓰였죠. 닭이 왕조 탄생을 알린 존재인 셈이에요.\n\n무속 신화에서도 닭은 결정적인 역할을 해요. 제주도 무속신화 '천지왕 본풀이'에는 '천황닭·지황닭·인황닭이 목을 들고 날개를 쳐 크게 우니 갑을 동방에서 먼동이 텄다'는 구절이 있어요. 천지개벽 자체가 닭의 울음으로 시작된 거예요.\n\n민간에서는 닭 울음이 귀신과 악귀를 쫓는 벽사(辟邪)의 능력이 있다고 믿었어요. 밤새 돌아다니던 귀신도 닭이 울면 사라진다는 믿음이 광범위하게 퍼져 있었으며, 세화(歲畫)로 닭 그림을 그려 출입구에 붙여 액을 막는 풍습도 있었어요. 조선시대 선비들은 닭 벼슬(볏)이 '벼슬'과 발음이 같다는 점을 이용해 입신출세를 기원하는 닭 그림을 서재에 걸었고, 이것이 꿈에서 닭이 명예·지위 상승을 상징하는 기원이 됐어요.",
+    "english": "In Korean culture, the chicken transcends its role as a barnyard animal to become a sacred herald of dawn. As the tenth animal of the twelve earthly branches (十二支) and the only bird in the cycle, it is written as 酉 (yu). Years of the Rooster are considered charged with new beginnings and transformation.\n\nThe most celebrated mythological reference is the birth legend of Kim Al-ji (金閼智), founding ancestor of the Gyeongju Kim clan. King Talhae of Silla followed the crowing of a white cock through the Gyerim forest, where he discovered a golden chest containing a baby boy — the future progenitor of the clan. The forest was renamed Gyerim (鷄林, Chicken Forest), a name that also served as an alternate title for Silla itself: the chicken literally announced the birth of a dynasty.\n\nIn shamanic mythology, chickens are no less cosmic. The Jeju Island creation myth Cheonjiwang Bonpuri describes three primordial roosters — the Heavenly, Earthly, and Human — crowing in unison to break the darkness and begin time itself. Creation starts with the cock crow.\n\nIn folk belief, the rooster's crow was held to repel evil spirits and demons. It was customary to paint images of roosters on the wooden plaques placed at building entrances at New Year to ward off bad luck. Joseon-era scholars hung rooster paintings in their studies as puns on the word 벼슬 (byeosul), which means both the rooster's comb and an official government post — a playful prayer for career advancement. This association between roosters and professional honor is the cultural root of why chickens in dreams so often signify prestige and status gains."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트 심리학에서 수탉은 남성적 힘과 성적 에너지의 상징으로 해석돼요. 닭을 쫓거나 잡으려는 꿈은 억압된 욕구나 통제하고 싶은 충동을 반영할 수 있어요. 암탉이 알을 낳는 꿈은 생산성과 창조적 에너지의 표현, 혹은 모성적 욕구와 연결돼요.",
+      "english": "In Freudian psychology, the rooster is a symbol of masculine energy and sexual vitality. Chasing or attempting to catch a chicken may reflect suppressed desires or impulses seeking control. A hen laying eggs represents the expression of productive, creative energy or connects to maternal drives."
+    },
+    "jungian": {
+      "korean": "융 심리학에서 닭은 무의식의 여명을 알리는 원형적 존재예요. 수탉의 울음은 의식(意識)이 무의식의 어둠에서 깨어나는 개성화(individuation) 과정의 상징이에요. 닭떼는 집단 무의식 속 공동체적 에너지, 또는 아직 통합되지 않은 내면의 여러 자아를 나타낼 수 있어요.",
+      "english": "In Jungian psychology, the chicken is an archetypal herald of the unconscious dawn. The rooster's crow symbolizes the awakening of consciousness from the darkness of the unconscious — a milestone in the individuation process. A flock of chickens can represent collective energy from the group unconscious, or the multiple, not-yet-integrated aspects of the self."
+    },
+    "modern": {
+      "korean": "현대 심리학에서 닭꿈은 흔히 일상의 루틴, 생산성, 그리고 그 안에서 느끼는 답답함을 반영해요. 닭에게 쫓기는 꿈은 책임과 의무에서 오는 스트레스를, 닭을 자유롭게 방목하는 꿈은 삶의 풍요로움과 안정감에 대한 만족을 나타낼 수 있어요.",
+      "english": "In contemporary psychology, chicken dreams often reflect daily routine, productivity, and the frustrations embedded in them. Being chased by a chicken may point to stress from responsibilities and obligations, while dreaming of freely ranging chickens can indicate contentment with life's abundance and stability."
+    },
+    "crossCultural": {
+      "korean": "전 세계적으로 수탉은 동이 트기 전 어둠을 몰아내는 존재로 여겨져 왔어요. 고대 그리스에서 수탉은 태양신 아폴론과 헤르메스에게 바쳐진 성스러운 동물이었고, 중국에서는 십이지 닭띠가 근면·성실·정직을 상징해요. 아프리카 전통 신앙에서는 닭이 조상 영혼과 소통하는 제물로 사용되며, 한국의 벽사 기능과 유사한 보호적 역할을 담당해요.",
+      "english": "Across cultures, the rooster has been seen as the dispeller of darkness before sunrise. In ancient Greece, the rooster was a sacred animal dedicated to Apollo and Hermes. In China, the Rooster zodiac sign represents diligence, integrity, and honesty. In many African traditional belief systems, chickens serve as sacrificial offerings that bridge the living and ancestral spirits — a protective function strikingly parallel to the Korean rooster's role as a ward against evil."
+    }
+  },
+  "relatedSymbols": [
+    "rooster-dream",
+    "egg-dream",
+    "bird-dream",
+    "hen-dream",
+    "chick-dream",
+    "snake-dream",
+    "pig-dream"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "닭꿈 해몽",
+      "닭 꿈 해석",
+      "닭꿈 길몽",
+      "닭꿈 흉몽",
+      "수탉 우는 꿈",
+      "암탉 알 낳는 꿈",
+      "닭이 집에 들어오는 꿈",
+      "죽은 닭 꿈",
+      "닭 태몽",
+      "흰 닭 꿈",
+      "검은 닭 꿈",
+      "닭을 잡는 꿈",
+      "닭고기 먹는 꿈",
+      "병아리 꿈 해몽"
+    ],
+    "english": [
+      "chicken dream meaning",
+      "rooster dream interpretation",
+      "dreaming of chickens",
+      "hen laying eggs dream",
+      "dead chicken dream meaning",
+      "white chicken dream",
+      "rooster crowing dream",
+      "catching chicken dream symbolism",
+      "Korean chicken dream"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "닭꿈은 길몽인가요, 흉몽인가요?",
+      "answer_ko": "닭꿈은 기본적으로 길몽으로 분류돼요. 크고 건강한 닭, 수탉이 우는 꿈, 암탉이 알을 낳는 꿈, 흰 닭이나 검은 닭이 나타나는 꿈은 모두 재물·명예·기회를 상징하는 좋은 꿈이에요. 다만 죽은 닭, 닭에게 쪼이는 꿈, 닭싸움 구경 꿈은 흉몽으로 주의가 필요해요.",
+      "question_en": "Is dreaming of a chicken a good or bad omen?",
+      "answer_en": "Chicken dreams are generally auspicious. Large healthy chickens, crowing roosters, hens laying eggs, and white or black chickens all symbolize wealth, honor, and opportunity. However, dead chickens, being pecked, or watching cockfights are cautionary dreams that warrant attention."
+    },
+    {
+      "question_ko": "수탉이 우는 꿈은 어떤 의미인가요?",
+      "answer_ko": "수탉이 크게 우는 꿈은 새로운 시작과 기회의 도래를 알리는 강한 길몽이에요. 오랫동안 기다려온 사업이나 계획에서 전환점이 찾아오거나, 주변 사람들로부터 인정과 좋은 평가를 받게 될 것을 암시해요.",
+      "question_en": "What does it mean to hear a rooster crowing in a dream?",
+      "answer_en": "A loudly crowing rooster is a strongly auspicious omen signaling new beginnings and incoming opportunities. It suggests that a turning point is arriving for long-awaited plans or ventures, and that recognition and positive evaluation from others are forthcoming."
+    },
+    {
+      "question_ko": "닭 태몽은 어떤 아이를 암시하나요?",
+      "answer_ko": "닭 태몽, 특히 수탉이 우렁차게 우는 꿈이나 큰 닭이 나타나는 꿈은 활기차고 리더십이 강한 아이를 낳을 것을 암시해요. 암탉이 알을 낳는 태몽은 재주와 창의력이 풍부한 아이의 탄생을 예고하는 경우가 많아요.",
+      "question_en": "What kind of child does a chicken pregnancy dream (태몽) foretell?",
+      "answer_en": "A chicken pregnancy dream — especially featuring a loudly crowing rooster or a large, vigorous chicken — foretells an energetic child with strong natural leadership. A hen laying eggs as a pregnancy dream often predicts a child of abundant creativity and talent."
+    },
+    {
+      "question_ko": "죽은 닭 꿈을 꿨는데 걱정해야 할까요?",
+      "answer_ko": "죽은 닭 꿈은 진행 중인 일의 차질이나 주변 가족의 건강 문제를 경고하는 흉몽으로 풀이돼요. 그러나 꿈은 미래를 확정하는 것이 아니라 현재 상태에 주의를 기울이라는 신호로 받아들이는 것이 좋아요. 건강 검진을 미루고 있었다면 챙기고, 사업 리스크를 점검하는 계기로 삼으세요.",
+      "question_en": "Should I be worried about dreaming of a dead chicken?",
+      "answer_en": "A dead chicken dream is interpreted as a cautionary omen for disruptions to ongoing plans or potential health concerns for a family member. Rather than treating it as a fixed prophecy, use it as a prompt to be more attentive — schedule overdue health checkups or review business risks you may have been overlooking."
+    },
+    {
+      "question_ko": "닭이 집에 들어오는 꿈은 흉몽인가요?",
+      "answer_ko": "닭이 집 안으로 들어오는 꿈은 일시적인 외부의 어려움이나 문제가 집 안으로 들어온다는 의미로 단기적으로는 힘들 수 있어요. 그러나 전통 해몽에서는 그 시련을 이겨내고 나면 오히려 이득과 새로운 기회로 전환된다고 풀이해요. 결국은 긍정적인 결과로 이어지는 꿈이에요.",
+      "question_en": "Is a chicken entering my house in a dream a bad omen?",
+      "answer_en": "A chicken walking into your home signals that external troubles are arriving temporarily. While it may bring short-term difficulties, traditional Korean dream interpretation holds that persevering through the trial ultimately converts it into advantage and new opportunity — a dream that ends positively."
+    },
+    {
+      "question_ko": "한국 전통에서 닭은 왜 꿈에서 중요한 상징인가요?",
+      "answer_ko": "닭은 새벽을 여는 새로서 악귀를 쫓고 빛을 불러들이는 벽사의 동물로 여겨졌어요. 신라 건국 설화에서 김알지의 탄생을 알린 것도 흰 닭이었고, 무속 신화에서는 닭의 울음으로 천지가 열렸다고 해요. 조선시대 선비들은 닭의 볏이 '벼슬'과 발음이 같다는 이유로 출세를 기원하며 닭 그림을 서재에 걸었어요. 이렇듯 닭은 탄생·새벽·명예가 중첩된 복합적 상징이에요.",
+      "question_en": "Why is the chicken such an important symbol in Korean dream tradition?",
+      "answer_en": "The chicken has been revered in Korea as the sacred herald of dawn that dispels evil and ushers in the light. In the founding legend of Silla, a white cock announced the birth of Kim Al-ji, ancestor of the royal Gyeongju Kim clan. In shamanic mythology, the crowing of primordial roosters inaugurated the creation of the world. And Joseon scholars hung rooster paintings in their studies as a pun on the word 벼슬 — meaning both the rooster's comb and an official government post — to pray for career advancement. The chicken thus embodies a layered symbolism of birth, dawn, and honor."
+    }
+  ]
+}

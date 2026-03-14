@@ -23,6 +23,8 @@ When invoked, you will receive a dream symbol entry containing a Korean name, En
    - `"{Korean symbol name} 태몽"` if applicable (pregnancy dream interpretation)
    Use WebFetch to read the top results and extract interpretation details. Prioritize Korean-language sources (Naver blog posts, traditional folk interpretation references, established 꿈해몽 sites).
 
+   **Search limit:** Do not exceed 4 WebSearch calls and 4 WebFetch calls total. Be selective — pick the most relevant results and move on. Quality over quantity.
+
 3. **Research interpretation variations.** For the given symbol, search for and document all meaningful variations:
    - **Color variations** (색깔): e.g., 검은뱀 꿈, 흰뱀 꿈, 황금뱀 꿈
    - **Quantity variations** (수량): e.g., 뱀 한마리 꿈, 뱀 여러마리 꿈
