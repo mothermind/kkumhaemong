@@ -35,45 +35,47 @@ export function DreamCard({ preview, locale }: Props) {
     <Link
       href={href}
       locale={locale}
-      className="group flex items-center gap-3 md:gap-5 p-3 md:p-4 rounded-xl bg-white/[0.03] border border-white/5 hover:bg-white/[0.07] hover:border-gold/30 transition-all duration-300"
+      className="group relative flex h-40 overflow-hidden rounded-xl border border-white/5 hover:border-gold/30 transition-all duration-300"
     >
-      {/* Thumbnail */}
-      <div className="relative w-14 h-14 md:w-20 md:h-20 flex-shrink-0 overflow-hidden rounded-lg bg-white/5">
-        {heroImage ? (
-          <Image
-            src={heroImage}
-            alt={locale === "ko" ? title.ko : title.en}
-            fill
-            quality={85}
-            placeholder="blur"
-            blurDataURL={BLUR_PLACEHOLDER}
-            className="object-cover group-hover:scale-110 transition-transform duration-500"
-            sizes="80px"
-          />
-        ) : (
-          <div className="h-full w-full bg-gradient-to-br from-white/5 to-white/10" />
-        )}
-      </div>
+      {/* Full-bleed image */}
+      {heroImage ? (
+        <Image
+          src={heroImage}
+          alt={locale === "ko" ? title.ko : title.en}
+          fill
+          quality={85}
+          placeholder="blur"
+          blurDataURL={BLUR_PLACEHOLDER}
+          className="object-cover group-hover:scale-105 transition-transform duration-500"
+          sizes="(max-width: 768px) 100vw, 672px"
+        />
+      ) : (
+        <div className="absolute inset-0 bg-gradient-to-br from-white/5 to-white/10" />
+      )}
 
-      {/* Text */}
-      <div className="flex-1 min-w-0">
+      {/* Gradient overlay */}
+      <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/30 to-transparent" />
+
+      {/* Text pinned to bottom */}
+      <div className="absolute bottom-0 left-0 right-0 p-4">
         {badgeLabel && (
-          <span className={`inline-block px-2 py-0.5 rounded text-[9px] md:text-[10px] font-bold uppercase tracking-wider mb-1 md:mb-1.5 ${BADGE_STYLES[badgeType]}`}>
+          <span className={`inline-block px-2 py-0.5 rounded text-[10px] font-bold uppercase tracking-wider mb-1.5 ${BADGE_STYLES[badgeType]}`}>
             {badgeLabel}
           </span>
         )}
-        <h3 className="text-sm md:text-base font-semibold text-white group-hover:text-gold transition-colors duration-300 leading-snug line-clamp-1">
+        <h3
+          className="text-[15px] font-semibold text-white group-hover:text-gold transition-colors duration-300 leading-snug line-clamp-1"
+          style={{ textShadow: "0 1px 6px rgba(0,0,0,0.9)" }}
+        >
           {locale === "ko" ? title.ko : title.en}
         </h3>
-        <p className="text-xs md:text-sm text-slate-500 line-clamp-1 mt-0.5 md:mt-1 leading-relaxed">
+        <p
+          className="text-xs text-slate-300 line-clamp-1 mt-0.5 leading-relaxed"
+          style={{ textShadow: "0 1px 4px rgba(0,0,0,0.9)" }}
+        >
           {locale === "ko" ? excerpt.ko : excerpt.en}
         </p>
       </div>
-
-      {/* Arrow */}
-      <svg className="w-4 h-4 flex-shrink-0 text-white/20 group-hover:text-gold/60 transition-colors duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
-      </svg>
     </Link>
   );
 }
