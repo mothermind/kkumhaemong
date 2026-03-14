@@ -32,19 +32,18 @@ const POPULAR_SLUGS = [
 ];
 
 const CATEGORY_CHIPS = [
-  { slug: "animals", ko: "🐍 동물꿈", en: "🐍 Animals" },
-  { slug: "actions", ko: "🏃 행동꿈", en: "🏃 Actions" },
-  { slug: "pregnancy", ko: "🤰 임신·태몽", en: "🤰 Pregnancy" },
-  { slug: "money", ko: "💰 돈·재물", en: "💰 Money" },
-  { slug: "death", ko: "⚫ 죽음꿈", en: "⚫ Death" },
-  { slug: "marriage", ko: "💍 연애·결혼", en: "💍 Love" },
+  { slug: "animals", ko: "동물 (Animals)", en: "Animals" },
+  { slug: "actions", ko: "행동 (Actions)", en: "Actions" },
+  { slug: "pregnancy", ko: "태몽 (Pregnancy)", en: "Pregnancy" },
+  { slug: "money", ko: "재물 (Money)", en: "Money" },
+  { slug: "death", ko: "죽음 (Death)", en: "Death" },
+  { slug: "marriage", ko: "사랑 (Love)", en: "Love" },
 ];
 
 export default async function HomePage({ params }: Props) {
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: "home" });
 
-  // Load previews in priority order, skip missing
   const previews = await getContentPreviews(POPULAR_SLUGS);
   const ordered = POPULAR_SLUGS
     .map((s) => previews.find((p) => p.slug === s))
@@ -53,85 +52,99 @@ export default async function HomePage({ params }: Props) {
   return (
     <>
       {/* ── Hero ── */}
-      <section className="relative flex min-h-[80vh] flex-col items-center justify-center px-4 pb-16 pt-24">
+      <section className="relative h-screen w-full flex flex-col items-center justify-center overflow-hidden -mt-20">
         {/* Background image */}
-        <div className="absolute inset-0 -z-10 overflow-hidden">
-          {/* Light: brighter, softer saturation; Dark: dimmer, richer saturation */}
+        <div className="absolute inset-0 z-0">
           <Image
-            src="/images/home/hero.png"
+            src="/images/home/hero_01.png"
             alt="꿈해몽 배경"
             fill
             priority
-            className="object-cover brightness-110 saturate-75 dark:brightness-[0.65] dark:saturate-125"
+            quality={90}
+            className="object-cover"
             sizes="100vw"
           />
-          {/* Light: warm amber wash; Dark: deep moody overlay */}
-          <div className="absolute inset-0 bg-gradient-to-b from-stone-100/60 via-amber-50/30 to-stone-100/60 dark:from-stone-950/80 dark:via-stone-900/60 dark:to-stone-950/80" />
+          <div className="absolute inset-0 hero-gradient" />
         </div>
 
-        {/* Hero content */}
-        <div className="flex w-full max-w-xl flex-col items-center gap-6 text-center">
+        {/* Floating content */}
+        <div className="relative z-10 text-center px-4 max-w-4xl animate-float">
           <h1
-            className="text-[2.4rem] font-bold leading-tight text-stone-900 dark:text-white sm:text-[3rem]"
+            className="text-4xl md:text-6xl lg:text-7xl font-bold mb-6 leading-tight text-white whitespace-pre-line"
             style={{ fontFamily: "var(--font-serif)" }}
           >
             {t("tagline")}
           </h1>
-          <p className="text-sm text-stone-600 dark:text-white/60 sm:text-base">{t("subtitle")}</p>
-          <SearchBar
-            locale={locale as Locale}
-            placeholder={t("searchPlaceholder")}
-            buttonLabel={t("searchButton")}
-          />
-        </div>
+          <p className="text-lg md:text-xl font-light text-slate-300 mb-12 tracking-wide">
+            {t("heroSubtitle")}
+          </p>
 
-        {/* Category chips at bottom of hero */}
-        <div className="absolute bottom-6 left-0 right-0 flex justify-center px-4">
-          <div className="flex flex-wrap justify-center gap-2">
+          {/* Search bar */}
+          <div className="mb-16">
+            <SearchBar
+              locale={locale as Locale}
+              placeholder={t("searchPlaceholder")}
+              buttonLabel={t("searchButton")}
+            />
+          </div>
+
+          {/* Category chips */}
+          <div className="flex flex-wrap justify-center gap-3 text-sm">
             {CATEGORY_CHIPS.map((chip) => (
               <Link
                 key={chip.slug}
                 href={{ pathname: "/explore/[category]", params: { category: chip.slug } }}
                 locale={locale as Locale}
-                className="rounded-full border border-stone-400/40 bg-white/50 px-4 py-1.5 text-sm text-stone-700 backdrop-blur-sm transition hover:border-amber-500/60 hover:bg-white/70 hover:text-stone-900 dark:border-white/20 dark:bg-white/10 dark:text-white/80 dark:hover:border-amber-400/60 dark:hover:bg-white/15 dark:hover:text-white"
+                className="px-6 py-2 rounded-full border border-white/10 bg-white/5 hover:bg-gold hover:text-midnight transition-all"
               >
                 {locale === "ko" ? chip.ko : chip.en}
               </Link>
             ))}
           </div>
         </div>
+
+        {/* Scroll indicator */}
+        <div className="absolute bottom-10 left-1/2 -translate-x-1/2 opacity-40">
+          <div className="w-px h-16 bg-gradient-to-b from-white to-transparent" />
+        </div>
       </section>
 
       {/* ── Popular Dreams ── */}
-      <section className="mx-auto max-w-2xl px-4 py-10 sm:px-6">
-        <h2
-          className="mb-6 text-[1.4rem] font-bold text-stone-900 dark:text-stone-100"
-          style={{ fontFamily: "var(--font-serif)" }}
-        >
-          {t("popularDreams")}
-        </h2>
+      <section className="py-24 bg-midnight">
+        <div className="max-w-2xl mx-auto px-6">
+          <div className="mb-12 text-center">
+            <span className="text-gold text-xs uppercase tracking-widest font-bold">
+              Trending Interpretation
+            </span>
+            <h2
+              className="text-3xl font-bold mt-2 text-white"
+              style={{ fontFamily: "var(--font-serif)" }}
+            >
+              {t("popularDreams")}
+            </h2>
+          </div>
 
-        <div className="space-y-3">
-          {ordered.map((preview, i) => (
-            <>
-              <DreamCard key={preview.slug} preview={preview} locale={locale as Locale} />
-              {/* Ad every 6 items */}
-              {(i + 1) % 6 === 0 && i < ordered.length - 1 && (
-                <AdSlot key={`ad-${i}`} />
-              )}
-            </>
-          ))}
-        </div>
+          <div className="space-y-6">
+            {ordered.map((preview, i) => (
+              <>
+                <DreamCard key={preview.slug} preview={preview} locale={locale as Locale} />
+                {(i + 1) % 6 === 0 && i < ordered.length - 1 && (
+                  <AdSlot key={`ad-${i}`} />
+                )}
+              </>
+            ))}
+          </div>
 
-        {/* CTA to explorer */}
-        <div className="mt-10 text-center">
-          <Link
-            href="/explore"
-            locale={locale as Locale}
-            className="inline-block rounded-xl border border-amber-300 px-6 py-3 text-sm font-medium text-amber-800 transition hover:bg-amber-50 dark:border-amber-800/50 dark:text-amber-300 dark:hover:bg-amber-950/30"
-          >
-            {t("exploreCta")}
-          </Link>
+          {/* View all CTA */}
+          <div className="pt-12 text-center">
+            <Link
+              href="/explore"
+              locale={locale as Locale}
+              className="inline-block px-8 py-3 border border-white/20 text-sm tracking-widest hover:bg-white hover:text-midnight transition-all duration-300"
+            >
+              {t("exploreCta")}
+            </Link>
+          </div>
         </div>
       </section>
     </>

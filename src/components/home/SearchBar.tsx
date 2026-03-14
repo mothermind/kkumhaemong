@@ -10,7 +10,7 @@ type Props = {
   buttonLabel: string;
 };
 
-export function SearchBar({ locale, placeholder, buttonLabel }: Props) {
+export function SearchBar({ locale, placeholder }: Props) {
   const [query, setQuery] = useState("");
   const router = useRouter();
 
@@ -22,22 +22,23 @@ export function SearchBar({ locale, placeholder, buttonLabel }: Props) {
   }
 
   return (
-    <form onSubmit={handleSearch} className="w-full max-w-xl">
-      <div className="flex gap-2">
-        <input
-          type="text"
-          value={query}
-          onChange={(e) => setQuery(e.target.value)}
-          placeholder={placeholder}
-          className="flex-1 rounded-xl border border-stone-300 bg-white/70 px-5 py-3.5 text-base text-stone-900 placeholder-stone-400 backdrop-blur-sm outline-none transition focus:border-amber-400 focus:ring-2 focus:ring-amber-200/50 dark:border-white/20 dark:bg-white/10 dark:text-white dark:placeholder-white/40 dark:focus:border-white/40 dark:focus:ring-white/10"
-        />
-        <button
-          type="submit"
-          className="shrink-0 rounded-xl bg-amber-500 px-5 py-3.5 text-sm font-semibold text-white shadow-sm transition hover:bg-amber-400 active:bg-amber-600"
-        >
-          {buttonLabel}
-        </button>
-      </div>
+    <form onSubmit={handleSearch} className="relative w-full max-w-2xl mx-auto">
+      <input
+        type="text"
+        value={query}
+        onChange={(e) => setQuery(e.target.value)}
+        placeholder={placeholder}
+        className="w-full bg-white/10 backdrop-blur-xl border border-white/20 rounded-full py-5 px-8 text-white placeholder-white/40 focus:outline-none focus:ring-2 focus:ring-gold/50 focus:border-gold transition-all"
+      />
+      <button
+        type="submit"
+        aria-label={locale === "ko" ? "검색" : "Search"}
+        className="absolute right-4 top-1/2 -translate-y-1/2 p-3 text-gold hover:text-white transition-colors"
+      >
+        <svg className="h-6 w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+        </svg>
+      </button>
     </form>
   );
 }

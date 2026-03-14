@@ -34,17 +34,17 @@ export default async function LocaleLayout({
 
   const messages = await getMessages();
 
-  const themeScript = `(function(){var t=localStorage.getItem('theme');if(t==='dark'||(!t&&window.matchMedia('(prefers-color-scheme:dark)').matches)){document.documentElement.classList.add('dark')}else{document.documentElement.classList.add('light')}})()`;
+  const themeScript = `(function(){var t=localStorage.getItem('theme');if(t==='light'){document.documentElement.classList.add('light')}else{document.documentElement.classList.add('dark')}})()`;
 
   return (
     <html lang={locale} className={nanumMyeongjo.variable}>
       <head>
         <script dangerouslySetInnerHTML={{ __html: themeScript }} />
       </head>
-      <body className="flex min-h-screen flex-col bg-stone-50 text-stone-700 dark:bg-stone-950 dark:text-stone-300">
+      <body className="flex min-h-screen flex-col bg-midnight text-slate-200">
         <NextIntlClientProvider messages={messages}>
           <Header locale={locale as Locale} />
-          <main className="flex-1">{children}</main>
+          <main className="flex-1 pt-20">{children}</main>
           <Footer locale={locale as Locale} />
         </NextIntlClientProvider>
       </body>

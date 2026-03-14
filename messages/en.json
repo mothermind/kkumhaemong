@@ -9,13 +9,14 @@
   "home": {
     "title": "Korean Dream Interpretation - 꿈해몽",
     "subtitle": "Complete Guide to Korean Dream Meanings",
-    "tagline": "What did your dream mean?",
+    "tagline": "Your Dream,\nBeyond the Veil",
     "description": "Discover the meaning of your dreams through traditional Korean dream interpretation (꿈해몽). From pig dreams to snake dreams, find what your dream means.",
-    "searchPlaceholder": "What did you dream about? (e.g. snake, flying, teeth)",
+    "heroSubtitle": "Where Korean tradition meets the modern understanding of dreams",
+    "searchPlaceholder": "What did you dream last night? (e.g. white tiger, gold ring...)",
     "searchButton": "Find Meaning",
-    "popularDreams": "Popular Dreams",
+    "popularDreams": "Most Searched Dreams",
     "allCategories": "All Categories",
-    "exploreCta": "Browse All Categories →"
+    "exploreCta": "View All Interpretations (VIEW ALL)"
   },
   "dream": {
     "auspicious": "Auspicious (길몽)",

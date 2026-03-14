@@ -9,15 +9,15 @@ type Props = {
 };
 
 const BADGE_STYLES = {
-  auspicious: "bg-amber-100 text-amber-800 dark:bg-amber-400/10 dark:text-amber-300",
-  inauspicious: "bg-rose-100 text-rose-700 dark:bg-rose-400/10 dark:text-rose-300",
-  neutral: "bg-stone-100 text-stone-600 dark:bg-stone-800 dark:text-stone-400",
+  auspicious: "bg-green-500/20 text-green-400",
+  inauspicious: "bg-red-500/20 text-red-400",
+  neutral: "",
 };
 
 const BADGE_LABELS: Record<ContentPreview["badgeType"], { ko: string; en: string }> = {
   auspicious: { ko: "길몽", en: "Auspicious" },
   inauspicious: { ko: "흉몽", en: "Inauspicious" },
-  neutral: { ko: "중립", en: "Neutral" },
+  neutral: { ko: "", en: "" },
 };
 
 export function DreamCard({ preview, locale }: Props) {
@@ -27,35 +27,47 @@ export function DreamCard({ preview, locale }: Props) {
       ? { pathname: "/dream/[slug]" as const, params: { slug: koreanSlug } }
       : { pathname: "/dream/[slug]" as const, params: { slug } };
 
+  const badgeLabel = BADGE_LABELS[badgeType][locale];
+
   return (
     <Link
       href={href}
       locale={locale}
-      className="group flex items-start gap-4 rounded-xl border border-stone-200 bg-white px-4 py-4 transition-colors hover:border-amber-300 dark:border-stone-800/60 dark:bg-stone-900/40 dark:hover:border-amber-800/50"
+      className="group flex gap-6 p-4 rounded-xl bg-white/[0.03] border border-white/5 hover:bg-white/[0.07] hover:border-gold/30 transition-all cursor-pointer"
     >
       {/* Thumbnail */}
-      <div className="relative h-[72px] w-[108px] shrink-0 overflow-hidden rounded-lg bg-stone-100 dark:bg-stone-800">
+      <div className="w-24 h-24 flex-shrink-0 overflow-hidden rounded-lg bg-white/5">
         {heroImage ? (
-          <Image src={heroImage} alt={locale === "ko" ? title.ko : title.en} fill className="object-cover" sizes="108px" />
+          <Image
+            src={heroImage}
+            alt={locale === "ko" ? title.ko : title.en}
+            width={192}
+            height={192}
+            quality={85}
+            placeholder="blur"
+            blurDataURL="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/wAALCAAIAAgBAREA/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAIRAAAQQCAwEBAQAAAAAAAAAAAQIDBBESITFBUWH/2gAIAQEAAD8Az2pRbXXe2bnU6T4S5QFiMMrPEzpk9PoFpH0T7j1R8T3gbFDrp/vn/9k="
+            className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
+            sizes="96px"
+          />
         ) : (
-          <div className="h-full w-full bg-gradient-to-br from-amber-50 to-stone-200 dark:from-stone-700 dark:to-stone-800" />
+          <div className="h-full w-full bg-gradient-to-br from-white/5 to-white/10" />
         )}
       </div>
 
       {/* Text */}
-      <div className="min-w-0 flex-1 pt-0.5">
-        <div className="mb-1.5 flex items-center gap-2">
-          <span className={`inline-block rounded-full px-2 py-0.5 text-[11px] font-medium ${BADGE_STYLES[badgeType]}`}>
-            {BADGE_LABELS[badgeType][locale]}
+      <div className="flex-grow min-w-0">
+        {badgeLabel && (
+          <span className={`inline-block px-2 py-0.5 rounded text-[10px] font-bold uppercase tracking-wider mb-2 ${BADGE_STYLES[badgeType]}`}>
+            {badgeLabel}
           </span>
-        </div>
+        )}
         <h3
-          className="line-clamp-1 text-[1rem] font-bold leading-snug text-stone-900 dark:text-stone-100"
+          className="text-lg font-semibold text-white group-hover:text-gold transition-colors leading-snug"
           style={{ fontFamily: "var(--font-serif)" }}
         >
           {locale === "ko" ? title.ko : title.en}
         </h3>
-        <p className="mt-1 line-clamp-2 text-sm leading-relaxed text-stone-500 dark:text-stone-400">
+        <p className="text-sm text-slate-400 line-clamp-2 mt-1 font-light leading-relaxed">
           {locale === "ko" ? excerpt.ko : excerpt.en}
         </p>
       </div>

@@ -5,9 +5,9 @@ type Props = {
 export function AdSlot({ className = "" }: Props) {
   return (
     <div
-      className={`flex h-[90px] items-center justify-center rounded-xl border border-dashed border-stone-200 bg-stone-50/50 dark:border-stone-800/50 dark:bg-stone-900/20 ${className}`}
+      className={`w-full h-32 bg-white/5 border border-dashed border-white/10 flex items-center justify-center ${className}`}
     >
-      <span className="text-xs text-stone-300 dark:text-stone-700">AD</span>
+      <span className="text-xs text-white/30 tracking-widest uppercase">Sponsored Content</span>
     </div>
   );
 }
