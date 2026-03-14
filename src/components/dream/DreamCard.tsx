@@ -11,7 +11,7 @@ type Props = {
 const BADGE_STYLES = {
   auspicious: "bg-green-500/20 text-green-300",
   inauspicious: "bg-red-500/20 text-red-300",
-  neutral: "bg-white/10 text-slate-400",
+  neutral: "bg-black/10 text-text-muted",
 };
 
 const BADGE_LABELS: Record<ContentPreview["badgeType"], { ko: string; en: string }> = {

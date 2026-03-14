@@ -34,9 +34,9 @@ export async function RelatedDreams({ heading, slugs, locale }: Props) {
   if (!valid.length) return null;
 
   return (
-    <section className="mt-16 pt-10 border-t border-white/10">
+    <section className="mt-16 pt-10 border-t border-border">
       <h2
-        className="text-[1.6rem] font-bold tracking-tight text-white mb-6"
+        className="text-[1.6rem] font-bold tracking-tight text-text-primary mb-6"
         style={{ fontFamily: 'var(--font-serif)' }}
       >
         {heading}
@@ -49,7 +49,7 @@ export async function RelatedDreams({ heading, slugs, locale }: Props) {
               pathname: "/dream/[slug]",
               params: { slug: item.slug },
             }}
-            className="group rounded-xl border border-white/5 bg-white/[0.03] p-3 transition-all hover:border-gold/30 hover:bg-white/[0.07]"
+            className="group rounded-xl border border-border bg-surface/20 light:bg-black/[0.03] p-3 transition-all hover:border-gold/30 hover:bg-surface/40 light:hover:bg-black/[0.06]"
           >
             {item.hero && (
               <div className="relative mb-3 h-20 w-full overflow-hidden rounded-lg bg-white/10">
@@ -62,7 +62,7 @@ export async function RelatedDreams({ heading, slugs, locale }: Props) {
                 />
               </div>
             )}
-            <p className="text-sm font-medium text-slate-400 leading-snug transition-colors group-hover:text-gold">
+            <p className="text-sm font-medium text-text-muted leading-snug transition-colors group-hover:text-gold">
               {item.title}
             </p>
           </Link>

@@ -12,12 +12,12 @@ export function Header({ locale }: { locale: Locale }) {
   const [menuOpen, setMenuOpen] = useState(false);
 
   return (
-    <header className="fixed top-0 w-full z-50 bg-midnight/80 backdrop-blur-md border-b border-white/5">
+    <header className="fixed top-0 w-full z-50 bg-midnight/80 light:bg-[#fdf8f1]/95 backdrop-blur-md border-b border-border">
       <div className="max-w-7xl mx-auto px-6 h-20 flex items-center justify-between">
         {/* Left: logo + desktop nav */}
         <div className="flex items-center gap-12">
           <Link href="/" className="flex flex-col leading-none">
-            <span className="text-2xl font-bold tracking-widest text-white" style={{ fontFamily: "var(--font-serif)" }}>
+            <span className="text-2xl font-bold tracking-widest text-text-primary" style={{ fontFamily: "var(--font-serif)" }}>
               꿈해몽
             </span>
             <span className="text-[10px] font-light tracking-normal opacity-60 uppercase mt-0.5">
@@ -27,7 +27,7 @@ export function Header({ locale }: { locale: Locale }) {
           <nav className="hidden md:flex gap-8">
             <Link
               href="/explore"
-              className="text-sm font-bold text-slate-300 hover:text-gold transition-colors"
+              className="text-sm font-bold text-text-secondary hover:text-gold transition-colors"
             >
               {t("explore")}
             </Link>
@@ -42,7 +42,7 @@ export function Header({ locale }: { locale: Locale }) {
           <button
             onClick={() => setMenuOpen((v) => !v)}
             aria-label="Toggle menu"
-            className="md:hidden p-2 rounded-full hover:bg-white/10 transition-colors text-slate-300"
+            className="md:hidden p-2 rounded-full hover:bg-black/10 transition-colors text-text-secondary"
           >
             {menuOpen ? (
               <svg className="h-5 w-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -59,11 +59,11 @@ export function Header({ locale }: { locale: Locale }) {
 
       {/* Mobile dropdown */}
       {menuOpen && (
-        <div className="md:hidden bg-midnight/95 backdrop-blur-md border-t border-white/5 px-6 py-4">
+        <div className="md:hidden bg-midnight/95 light:bg-[#fdf8f1] backdrop-blur-md border-t border-border px-6 py-4">
           <Link
             href="/explore"
             onClick={() => setMenuOpen(false)}
-            className="block text-sm font-bold text-slate-300 hover:text-gold transition-colors py-2"
+            className="block text-sm font-bold text-text-secondary hover:text-gold transition-colors py-2"
           >
             {t("explore")}
           </Link>
@@ -91,7 +91,7 @@ function LanguageToggle({ locale }: { locale: Locale }) {
     <Link
       href={href}
       locale={targetLocale}
-      className="rounded-full border border-white/20 px-3 py-1.5 text-xs text-slate-300 transition-colors hover:border-gold hover:text-gold"
+      className="rounded-full border border-border px-3 py-1.5 text-xs text-text-secondary transition-colors hover:border-gold hover:text-gold"
     >
       <span className="opacity-60">{t("current")}</span>
       <span className="mx-1 opacity-30">·</span>

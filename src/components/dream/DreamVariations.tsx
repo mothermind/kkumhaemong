@@ -9,14 +9,14 @@ export function DreamVariations({ id, heading, variations }: Props) {
   return (
     <section id={id} className="mt-16 scroll-mt-20">
       <h2
-        className="text-[1.6rem] font-bold tracking-tight text-white mb-8"
+        className="text-[1.6rem] font-bold tracking-tight text-text-primary mb-8"
         style={{ fontFamily: 'var(--font-serif)' }}
       >
         {heading}
       </h2>
       <div className="space-y-4">
         {variations.map((v, i) => (
-          <div key={i} className="rounded-xl border border-white/10 px-6 py-5">
+          <div key={i} className="rounded-xl border border-border px-6 py-5">
             <h3
               className="text-[1.1rem] font-bold text-gold mb-3"
               style={{ fontFamily: 'var(--font-serif)' }}

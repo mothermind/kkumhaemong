@@ -60,7 +60,7 @@ export default async function HomePage({ params }: Props) {
             fill
             priority
             quality={90}
-            className="object-cover"
+            className="object-cover light:brightness-110"
             sizes="100vw"
           />
           <div className="absolute inset-0 hero-gradient" />
@@ -69,12 +69,12 @@ export default async function HomePage({ params }: Props) {
         {/* Floating content */}
         <div className="relative z-10 text-center px-4 max-w-4xl">
           <h1
-            className="text-4xl md:text-6xl lg:text-7xl font-bold mb-6 leading-tight text-white whitespace-pre-line"
+            className="text-4xl md:text-6xl lg:text-7xl font-bold mb-6 leading-tight text-white light:text-slate-900 whitespace-pre-line"
             style={{ fontFamily: "var(--font-serif)" }}
           >
             {t("tagline")}
           </h1>
-          <p className="text-lg md:text-xl font-light text-slate-300 mb-12 tracking-wide">
+          <p className="text-lg md:text-xl font-light text-slate-300 light:text-slate-800 mb-12 tracking-wide">
             {t("heroSubtitle")}
           </p>
 
@@ -95,7 +95,7 @@ export default async function HomePage({ params }: Props) {
                 key={chip.slug}
                 href={{ pathname: "/explore/[category]", params: { category: chip.slug } }}
                 locale={locale as Locale}
-                className="px-6 py-2 rounded-full border border-white/10 bg-white/5 hover:bg-gold hover:text-midnight transition-all"
+                className="px-6 py-2 rounded-full border border-border bg-surface/30 light:bg-black/5 hover:bg-gold hover:text-midnight transition-all"
               >
                 {locale === "ko" ? chip.ko : chip.en}
               </Link>
@@ -110,14 +110,14 @@ export default async function HomePage({ params }: Props) {
       </section>
 
       {/* ── Popular Dreams ── */}
-      <section className="py-24 bg-midnight">
+      <section className="py-24 bg-midnight light:bg-[#f5f0e8]">
         <div className="max-w-2xl mx-auto px-6">
           <div className="mb-12 text-center">
             <span className="text-gold text-xs uppercase tracking-widest font-bold">
               Trending Interpretation
             </span>
             <h2
-              className="text-3xl font-bold mt-2 text-white"
+              className="text-3xl font-bold mt-2 text-text-primary"
               style={{ fontFamily: "var(--font-serif)" }}
             >
               {t("popularDreams")}
@@ -135,7 +135,7 @@ export default async function HomePage({ params }: Props) {
             <Link
               href="/explore"
               locale={locale as Locale}
-              className="inline-block px-8 py-3 border border-white/20 text-sm tracking-widest hover:bg-white hover:text-midnight transition-all duration-300"
+              className="inline-block px-8 py-3 border border-border text-text-primary text-sm tracking-widest hover:bg-text-primary hover:text-bg transition-all duration-300"
             >
               {t("exploreCta")}
             </Link>

@@ -25,7 +25,7 @@ type Props = {
 const BADGE_STYLES = {
   auspicious: "bg-green-500/20 text-green-300",
   inauspicious: "bg-red-500/20 text-red-300",
-  neutral: "bg-white/10 text-slate-400",
+  neutral: "bg-black/10 text-text-muted",
 };
 
 const BADGE_LABELS = {
@@ -163,7 +163,7 @@ export function SearchBar({ locale, placeholder, placeholderShort, buttonLabel }
   }
 
   const inputClass =
-    "w-full bg-white/10 backdrop-blur-xl border border-white/20 rounded-full py-5 pl-8 pr-16 text-white placeholder-white/40 focus:outline-none focus:ring-2 focus:ring-gold/50 focus:border-gold transition-all";
+    "w-full bg-white/10 light:bg-black/8 backdrop-blur-xl border border-white/20 light:border-border rounded-full py-5 pl-8 pr-16 text-text-primary placeholder-white/50 light:placeholder-slate-600 focus:outline-none focus:ring-2 focus:ring-gold/50 focus:border-gold transition-all";
 
   return (
     <div ref={containerRef} className="relative w-full max-w-2xl mx-auto">
@@ -201,7 +201,7 @@ export function SearchBar({ locale, placeholder, placeholderShort, buttonLabel }
 
       {/* Dropdown */}
       {open && results.length > 0 && (
-        <ul className="absolute top-full mt-2 w-full bg-[#0d1117] border border-white/10 rounded-2xl overflow-hidden shadow-2xl z-50">
+        <ul className="absolute top-full mt-2 w-full bg-[#0d1520] light:bg-[#fffdf9] border border-border rounded-2xl overflow-hidden shadow-2xl z-50">
           {results.map((entry, i) => {
             const title = locale === "ko" ? entry.titleKo : entry.titleEn;
             const badge = BADGE_LABELS[entry.badgeType][locale];
@@ -212,7 +212,7 @@ export function SearchBar({ locale, placeholder, placeholderShort, buttonLabel }
                   onMouseDown={() => navigate(entry)}
                   onMouseEnter={() => setActiveIdx(i)}
                   className={`w-full flex items-center gap-3 px-4 py-3 text-left transition-colors ${
-                    i === activeIdx ? "bg-white/10" : "hover:bg-white/5"
+                    i === activeIdx ? "bg-black/10" : "hover:bg-black/5"
                   }`}
                 >
                   {/* Thumbnail */}
@@ -229,7 +229,7 @@ export function SearchBar({ locale, placeholder, placeholderShort, buttonLabel }
                   </div>
                   {/* Title + badge */}
                   <div className="flex-1 min-w-0">
-                    <p className="text-sm text-white truncate leading-snug">{title}</p>
+                    <p className="text-sm text-text-primary truncate leading-snug">{title}</p>
                     {badge && (
                       <span className={`inline-block text-[10px] font-bold uppercase tracking-wider px-1.5 py-0.5 rounded mt-0.5 ${BADGE_STYLES[entry.badgeType]}`}>
                         {badge}
@@ -237,7 +237,7 @@ export function SearchBar({ locale, placeholder, placeholderShort, buttonLabel }
                     )}
                   </div>
                   {/* Arrow */}
-                  <svg className="w-4 h-4 text-white/20 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <svg className="w-4 h-4 text-text-subtle shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
                   </svg>
                 </button>

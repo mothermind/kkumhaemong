@@ -13,8 +13,8 @@ const TYPE_STYLES = {
     label: "흉몽",
   },
   neutral: {
-    heading: "text-white",
-    badge: "bg-white/10 text-slate-400 border border-white/10",
+    heading: "text-text-primary",
+    badge: "bg-black/8 text-text-muted border border-border light:bg-black/8",
     label: "중립",
   },
 } as const;

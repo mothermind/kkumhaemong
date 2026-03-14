@@ -36,7 +36,7 @@ export function CategoryDreamList({ items, locale, allLabel }: Props) {
             className={`rounded-full border px-3.5 py-1.5 text-sm transition ${
               active === null
                 ? "border-gold bg-gold/10 text-gold"
-                : "border-white/10 text-slate-400 hover:border-white/20 hover:text-slate-300"
+                : "border-border text-text-muted hover:border-border-strong hover:text-text-secondary"
             }`}
           >
             {allLabel}
@@ -48,7 +48,7 @@ export function CategoryDreamList({ items, locale, allLabel }: Props) {
               className={`rounded-full border px-3.5 py-1.5 text-sm transition ${
                 active === slug
                   ? "border-gold bg-gold/10 text-gold"
-                  : "border-white/10 text-slate-400 hover:border-white/20 hover:text-slate-300"
+                  : "border-border text-text-muted hover:border-border-strong hover:text-text-secondary"
               }`}
             >
               {label}

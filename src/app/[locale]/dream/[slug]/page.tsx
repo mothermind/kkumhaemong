@@ -111,7 +111,7 @@ export default async function DreamPage({ params }: Props) {
         />
 
         {/* Divider */}
-        <div className="my-0 border-t border-white/0" />
+        <div className="my-0" />
 
         <TableOfContents items={tocItems} locale={locale} />
 
@@ -147,13 +147,13 @@ export default async function DreamPage({ params }: Props) {
         />
 
         <section id={culturalId} className="mt-16 scroll-mt-20">
-          <h2 className="text-[1.6rem] font-bold tracking-tight text-stone-900 mb-6 dark:text-stone-100" style={{ fontFamily: 'var(--font-serif)' }}>{t("culturalContext")}</h2>
+          <h2 className="text-[1.6rem] font-bold tracking-tight text-text-primary mb-6" style={{ fontFamily: 'var(--font-serif)' }}>{t("culturalContext")}</h2>
           <MarkdownBody className="">{c.culturalContext}</MarkdownBody>
         </section>
 
         {c.westernContext && (
           <section id={westernId} className="mt-16 scroll-mt-20">
-            <h2 className="text-[1.6rem] font-bold tracking-tight text-stone-900 mb-6 dark:text-stone-100" style={{ fontFamily: 'var(--font-serif)' }}>
+            <h2 className="text-[1.6rem] font-bold tracking-tight text-text-primary mb-6" style={{ fontFamily: 'var(--font-serif)' }}>
               {locale === "ko" ? "서양 심리학적 해석" : "Western Psychological Perspectives"}
             </h2>
             <MarkdownBody className="">{c.westernContext}</MarkdownBody>
@@ -163,8 +163,8 @@ export default async function DreamPage({ params }: Props) {
         <DreamFAQ id={faqId} heading={t("faq")} faqs={c.faqs} />
 
         {c.conclusion && (
-          <section className="mt-16 border-t border-stone-200 pt-8 dark:border-stone-800">
-            <MarkdownBody className="italic [&_p]:text-stone-400 [&_p]:dark:text-stone-500">{c.conclusion}</MarkdownBody>
+          <section className="mt-16 border-t border-border pt-8">
+            <MarkdownBody className="italic [&_p]:text-text-muted">{c.conclusion}</MarkdownBody>
           </section>
         )}
 

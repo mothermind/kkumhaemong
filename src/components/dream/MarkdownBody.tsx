@@ -13,23 +13,23 @@ export function MarkdownBody({ children, className = "" }: Props) {
       <ReactMarkdown
         components={{
           p: ({ children }) => (
-            <p className="text-[17px] text-slate-300 leading-[1.85] tracking-[-0.01em] mb-5 last:mb-0">{children}</p>
+            <p className="text-[17px] text-text-secondary leading-[1.85] tracking-[-0.01em] mb-5 last:mb-0">{children}</p>
           ),
           strong: ({ children }) => (
             <strong className="font-bold text-gold bg-gold/10 px-[3px] py-[1px] rounded-sm">{children}</strong>
           ),
-          em: ({ children }) => <em className="italic text-slate-200">{children}</em>,
+          em: ({ children }) => <em className="italic text-text-primary">{children}</em>,
           ul: ({ children }) => (
-            <ul className="mb-5 space-y-2 text-slate-300 text-[17px] leading-[1.85]">{children}</ul>
+            <ul className="mb-5 space-y-2 text-text-secondary text-[17px] leading-[1.85]">{children}</ul>
           ),
           ol: ({ children }) => (
-            <ol className="mb-5 space-y-2 text-slate-300 text-[17px] leading-[1.85] list-decimal list-outside ml-5">{children}</ol>
+            <ol className="mb-5 space-y-2 text-text-secondary text-[17px] leading-[1.85] list-decimal list-outside ml-5">{children}</ol>
           ),
           li: ({ children }) => (
             <li className="leading-[1.85] flex gap-2 before:content-['·'] before:text-gold before:shrink-0 before:mt-0.5">{children}</li>
           ),
           h3: ({ children }) => (
-            <h3 className="text-xl font-bold text-white mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)' }}>{children}</h3>
+            <h3 className="text-xl font-bold text-text-primary mt-10 mb-4" style={{ fontFamily: 'var(--font-serif)' }}>{children}</h3>
           ),
           h4: ({ children }) => (
             <h4 className="mb-2 mt-6 text-xs font-semibold uppercase tracking-widest text-gold/70">
@@ -37,7 +37,7 @@ export function MarkdownBody({ children, className = "" }: Props) {
             </h4>
           ),
           blockquote: ({ children }) => (
-            <blockquote className="border-l-[3px] border-gold/40 bg-gold/5 py-4 px-5 text-slate-400 rounded-r-xl my-8 italic">
+            <blockquote className="border-l-[3px] border-gold/40 bg-gold/5 py-4 px-5 text-text-muted rounded-r-xl my-8 italic">
               {children}
             </blockquote>
           ),

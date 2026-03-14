@@ -41,10 +41,10 @@ export default async function LocaleLayout({
       <head>
         <script dangerouslySetInnerHTML={{ __html: themeScript }} />
       </head>
-      <body className="flex min-h-screen flex-col bg-midnight text-slate-200">
+      <body className="flex min-h-screen flex-col bg-midnight light:bg-[#f5f0e8] text-text-primary">
         <NextIntlClientProvider messages={messages}>
           <Header locale={locale as Locale} />
-          <main className="flex-1 pt-20">{children}</main>
+          <main className="flex-1 pt-20 bg-midnight light:bg-[#f5f0e8]">{children}</main>
           <Footer locale={locale as Locale} />
         </NextIntlClientProvider>
       </body>

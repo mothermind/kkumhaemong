@@ -73,12 +73,12 @@ export default async function ExplorePage({ params }: Props) {
       {/* Header */}
       <div className="mb-10">
         <h1
-          className="text-[2rem] font-bold text-white"
+          className="text-[2rem] font-bold text-text-primary"
           style={{ fontFamily: "var(--font-serif)" }}
         >
           {t("title")}
         </h1>
-        <p className="mt-2 text-slate-400">{t("subtitle")}</p>
+        <p className="mt-2 text-text-muted">{t("subtitle")}</p>
       </div>
 
       {/* Category grid */}
@@ -91,17 +91,17 @@ export default async function ExplorePage({ params }: Props) {
               key={cat.id}
               href={{ pathname: "/explore/[category]", params: { category: cat.id } }}
               locale={locale as Locale}
-              className="group flex flex-col gap-3 rounded-xl border border-white/5 bg-white/[0.03] px-4 py-5 transition-all hover:border-gold/30 hover:bg-white/[0.07]"
+              className="group flex flex-col gap-3 rounded-xl border border-border bg-surface/20 light:bg-black/[0.03] px-4 py-5 transition-all hover:border-gold/30 hover:bg-surface/40 light:hover:bg-black/[0.06]"
             >
               <span className="text-2xl">{CATEGORY_ICONS[cat.id] ?? "✦"}</span>
               <div>
                 <p
-                  className="font-bold text-white"
+                  className="font-bold text-text-primary"
                   style={{ fontFamily: "var(--font-serif)" }}
                 >
                   {locale === "ko" ? cat.korean : cat.english}
                 </p>
-                <p className="mt-0.5 text-xs text-slate-500">
+                <p className="mt-0.5 text-xs text-text-muted">
                   {contentCount}{locale === "ko" ? "개" : " articles"}
                 </p>
               </div>
