@@ -410,6 +410,13 @@ All 413 content files validated and fixed across all 24 categories:
 - **Firestore re-synced**: all 413 docs re-uploaded via `migrate-content-to-firestore.mjs`
 - **Bulk fix script**: `scripts/fix-schema-issues.mjs` — reusable, safe to re-run (no-op on already-fixed files)
 
+### Prose Quality Fixes — COMPLETE ✅ (2026-03-14)
+Three rounds of prose cleanup applied to all content files:
+- **`**bold**` markers stripped**: 19 files had `**bold**` markdown in section bodies — removed. `MarkdownBody` renders `<strong>` as gold-highlighted text (`bg-gold/10`), but bold openers were dropped as a style decision.
+- **Em-dash cleanup**: 242 files had AI-style ` — ` (spaced em-dash) in Korean prose fields (intro, body, conclusion, faq answers). Replaced with `. `. English fields untouched. Script: `scripts/strip-em-dashes.mjs`
+- **Cliffhanger rewrite**: 392 of 413 intros used the identical `그런데 한 가지—` transition. Rewrote all 392 using GPT-4o-mini with varied natural Korean alternatives. Script: `scripts/rewrite-cliffhanger.mjs` (dry-run + full mode, batch size 6). Content agent updated to ban this phrase with 6 varied alternatives.
+- All changes synced to Firestore after each round.
+
 ### All 24 Categories — Research + Content Complete ✅
 - actions: 161/161 ✅
 - animals, body, celestial, clothing, colors, death: 10/10 ✅

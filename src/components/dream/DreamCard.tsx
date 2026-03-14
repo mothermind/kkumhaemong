@@ -11,13 +11,13 @@ type Props = {
 const BADGE_STYLES = {
   auspicious: "bg-green-500/20 text-green-300",
   inauspicious: "bg-red-500/20 text-red-300",
-  neutral: "",
+  neutral: "bg-white/10 text-slate-400",
 };
 
 const BADGE_LABELS: Record<ContentPreview["badgeType"], { ko: string; en: string }> = {
   auspicious: { ko: "길몽", en: "Auspicious" },
   inauspicious: { ko: "흉몽", en: "Inauspicious" },
-  neutral: { ko: "", en: "" },
+  neutral: { ko: "중립", en: "Neutral" },
 };
 
 const BLUR_PLACEHOLDER = "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/wAALCAAIAAgBAREA/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAIRAAAQQCAwEBAQAAAAAAAAAAAQIDBBESITFBUWH/2gAIAQEAAD8Az2pRbXXe2bnU6T4S5QFiMMrPEzpk9PoFpH0T7j1R8T3gbFDrp/vn/9k=";
@@ -58,11 +58,9 @@ export function DreamCard({ preview, locale }: Props) {
 
       {/* Text pinned to bottom */}
       <div className="absolute bottom-0 left-0 right-0 p-4">
-        {badgeLabel && (
-          <span className={`inline-block px-2 py-0.5 rounded text-[10px] font-bold uppercase tracking-wider mb-1.5 ${BADGE_STYLES[badgeType]}`}>
-            {badgeLabel}
-          </span>
-        )}
+        <span className={`inline-block px-2 py-0.5 rounded text-[10px] font-bold uppercase tracking-wider mb-1.5 ${BADGE_STYLES[badgeType]}`}>
+          {badgeLabel}
+        </span>
         <h3
           className="text-[15px] font-semibold text-white group-hover:text-gold transition-colors duration-300 leading-snug line-clamp-1"
           style={{ textShadow: "0 1px 6px rgba(0,0,0,0.9)" }}

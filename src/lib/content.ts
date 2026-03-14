@@ -73,9 +73,13 @@ export type ContentPreview = {
   badgeType: "auspicious" | "inauspicious" | "neutral";
 };
 
-function detectBadge(heading: string): ContentPreview["badgeType"] {
-  if (heading.includes("길몽") || /auspicious/i.test(heading)) return "auspicious";
-  if (heading.includes("흉몽") || /inauspicious/i.test(heading)) return "inauspicious";
+function detectBadge(sections: { heading?: string }[]): ContentPreview["badgeType"] {
+  // First match wins — the section that appears first sets the primary tone
+  for (const s of sections) {
+    const h = s.heading ?? "";
+    if (h.includes("길몽") || /auspicious/i.test(h)) return "auspicious";
+    if (h.includes("흉몽") || /inauspicious/i.test(h)) return "inauspicious";
+  }
   return "neutral";
 }
 
@@ -106,7 +110,7 @@ export async function getContentPreviews(slugs?: string[]): Promise<ContentPrevi
       for (const doc of snap.docs) {
         // eslint-disable-next-line @typescript-eslint/no-explicit-any
         const data = doc.data() as any;
-        const firstHeading = data?.ko?.sections?.[0]?.heading ?? "";
+        const sections = data?.ko?.sections ?? [];
         previews.push({
           slug: doc.id,
           koreanSlug: data?.seo?.koreanSlug ?? "",
@@ -116,7 +120,7 @@ export async function getContentPreviews(slugs?: string[]): Promise<ContentPrevi
             en: (data?.en?.intro ?? "").slice(0, 130).trim() + "…",
           },
           heroImage: data?.images?.hero,
-          badgeType: detectBadge(firstHeading),
+          badgeType: detectBadge(sections),
         });
       }
     }

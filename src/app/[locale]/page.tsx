@@ -51,7 +51,7 @@ export default async function HomePage({ params }: Props) {
   return (
     <>
       {/* ── Hero ── */}
-      <section className="relative h-screen w-full flex flex-col items-center justify-center overflow-hidden -mt-20">
+      <section className="relative h-screen w-full flex flex-col items-center justify-center -mt-20">
         {/* Background image */}
         <div className="absolute inset-0 z-0">
           <Image

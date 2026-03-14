@@ -1570,5 +1570,571 @@
       "replace_all": false
     },
     "tool_use_id": "toolu_01HCYfGRahUn9f29cwNx3aSp"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/CLAUDE.md",
+      "old_string": "### Content Validation \u2014 COMPLETE \u2705 (2026-03-14)\nAll 413 content files validated and fixed across all 24 categories:\n- **metaDescription lengths**: KO 80\u2013110 chars, EN 120\u2013160 chars (corrected from original wrong 120\u2013160 KO target)\n- **`content`\u2192`body` key migration**: 315 files fixed \u2014 sections/variations now render correctly in `DreamSection`\n- **`relatedDreams`\u2192`seo.relatedSlugs` migration**: 315 files fixed \u2014 related dreams now display correctly\n- **Firestore re-synced**: all 413 docs re-uploaded via `migrate-content-to-firestore.mjs`\n- **Bulk fix script**: `scripts/fix-schema-issues.mjs` \u2014 reusable, safe to re-run (no-op on already-fixed files)",
+      "new_string": "### Content Validation \u2014 COMPLETE \u2705 (2026-03-14)\nAll 413 content files validated and fixed across all 24 categories:\n- **metaDescription lengths**: KO 80\u2013110 chars, EN 120\u2013160 chars (corrected from original wrong 120\u2013160 KO target)\n- **`content`\u2192`body` key migration**: 315 files fixed \u2014 sections/variations now render correctly in `DreamSection`\n- **`relatedDreams`\u2192`seo.relatedSlugs` migration**: 315 files fixed \u2014 related dreams now display correctly\n- **Firestore re-synced**: all 413 docs re-uploaded via `migrate-content-to-firestore.mjs`\n- **Bulk fix script**: `scripts/fix-schema-issues.mjs` \u2014 reusable, safe to re-run (no-op on already-fixed files)\n\n### Prose Quality Fixes \u2014 COMPLETE \u2705 (2026-03-14)\nThree rounds of prose cleanup applied to all content files:\n- **`**bold**` markers stripped**: 19 files had `**bold**` markdown in section bodies \u2014 removed. `MarkdownBody` renders `<strong>` as gold-highlighted text (`bg-gold/10`), but bold openers were dropped as a style decision.\n- **Em-dash cleanup**: 242 files had AI-style ` \u2014 ` (spaced em-dash) in Korean prose fields (intro, body, conclusion, faq answers). Replaced with `. `. English fields untouched. Script: `scripts/strip-em-dashes.mjs`\n- **Cliffhanger rewrite**: 392 of 413 intros used the identical `\uadf8\ub7f0\ub370 \ud55c \uac00\uc9c0\u2014` transition. Rewrote all 392 using GPT-4o-mini with varied natural Korean alternatives. Script: `scripts/rewrite-cliffhanger.mjs` (dry-run + full mode, batch size 6). Content agent updated to ban this phrase with 6 varied alternatives.\n- All changes synced to Firestore after each round.",
+      "replace_all": false
+    },
+    "tool_use_id": "toolu_01M9pnpZkSrqZVs7M4WfNgaB"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Read",
+    "tool_input": {
+      "file_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/memory/MEMORY.md"
+    },
+    "tool_use_id": "toolu_01FygCdhyv225DqZoKfUwwU7"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/memory/MEMORY.md",
+      "old_string": "## Content Quality Values (locked)\n1. **Immediate interpretation + hook** \u2014 meaning in first sentence, pull-forward cliffhanger\n2. **Enjoyable, confident voice** \u2014 warm authority, like a knowledgeable friend\n3. **Credibility via sourcing** \u2014 DEFERRED (needs \ud55c\uad6d\ubbfc\uc18d\ub300\ubc31\uacfc\uc0ac\uc804 dataset)\n\n### Intro Templates (locked in dream-content-agent.md)\n**B-style (default):** Immediate verdict \u2192 cultural credibility \u2192 \"\uadf8\ub7f0\ub370 \ud55c \uac00\uc9c0\u2014...\" cliffhanger\n**A-style (straightforward symbol):** Core meaning \u2192 most important nuance, punchy",
+      "new_string": "## Content Quality Values (locked)\n1. **Immediate interpretation + hook** \u2014 meaning in first sentence, pull-forward cliffhanger\n2. **Enjoyable, confident voice** \u2014 warm authority, like a knowledgeable friend\n3. **Credibility via sourcing** \u2014 DEFERRED (needs \ud55c\uad6d\ubbfc\uc18d\ub300\ubc31\uacfc\uc0ac\uc804 dataset)\n\n### Intro Templates (locked in dream-content-agent.md)\n**B-style (default):** Immediate verdict \u2192 cultural credibility \u2192 varied cliffhanger transition\n**A-style (straightforward symbol):** Core meaning \u2192 most important nuance, punchy\n\n### Prose Quality Rules (enforced via scripts + agent prompt)\n- **No `**bold**` openers** in section bodies \u2014 style decision, not rendered as inline highlight\n- **No spaced em-dash ` \u2014 ` in Korean prose** \u2014 script: `scripts/strip-em-dashes.mjs` (targets ko.intro/body/conclusion/faqs only, leaves English untouched)\n- **No `\uadf8\ub7f0\ub370 \ud55c \uac00\uc9c0\u2014`** \u2014 was on 392/413 articles, rewrote all via GPT-4o-mini (`scripts/rewrite-cliffhanger.mjs`). Content agent now has 6 varied alternatives and must rotate.\n- OpenAI API key available as `OPENAI_API_KEY` in `.env` \u2014 use GPT-4o-mini for lightweight prose rewrites",
+      "replace_all": false
+    },
+    "tool_use_id": "toolu_01BJuMFXSkAgeuMJmbCBqDkn"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Read",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/components/home/SearchBar.tsx"
+    },
+    "tool_use_id": "toolu_015dkBht5cpM7VYxNvv4NVrz"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Read",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/app/[locale]/page.tsx"
+    },
+    "tool_use_id": "toolu_01PoPWv4Q693Shyw6RXiynYU"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Bash",
+    "tool_input": {
+      "command": "node -e \"\nconst fs = require('fs');\nconst f = JSON.parse(fs.readFileSync('data/content/animals/snake-dream.json', 'utf8'));\nconsole.log(JSON.stringify({\n  slug: f.slug,\n  koreanSlug: f.koreanSlug || f.seo?.koreanSlug,\n  titleKo: f.ko?.title,\n  titleEn: f.en?.title,\n  tags: f.seo?.naverSEO?.tags?.slice(0,5),\n  hero: f.images?.hero,\n  firstSectionType: f.ko?.sections?.[0]?.type\n}, null, 2));\n\""
+    },
+    "tool_use_id": "toolu_01J9xyHUoXYncfWkau3g1SnR"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Bash",
+    "tool_input": {
+      "command": "node -e \"\nconst fs = require('fs');\nconst tax = JSON.parse(fs.readFileSync('data/taxonomy/animals.json', 'utf8'));\nconst snake = tax.symbols.find(s => s.slug === 'snake-dream');\nconsole.log(JSON.stringify(snake, null, 2));\n\""
+    },
+    "tool_use_id": "toolu_01A4Ev7t9Zo7yeKzTdVkZYEF"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Read",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/lib/content.ts"
+    },
+    "tool_use_id": "toolu_0162UYJMYRJCDG3DBQCAwwoe"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Read",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/i18n/routing.ts"
+    },
+    "tool_use_id": "toolu_0137824tDfPCad4GNtqzoAvz"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Write",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/scripts/build-search-index.mjs",
+      "content": "#!/usr/bin/env node\n/**\n * Build public/search-index.json from data/content files.\n * Run after any content changes: node scripts/build-search-index.mjs\n * Also hooked into `npm run build` via package.json prebuild.\n */\n\nimport { readFile, writeFile } from \"fs/promises\";\nimport { glob } from \"glob\";\n\nfunction detectBadge(heading = \"\") {\n  if (heading.includes(\"\uae38\ubabd\") || /auspicious/i.test(heading)) return \"auspicious\";\n  if (heading.includes(\"\ud749\ubabd\") || /inauspicious/i.test(heading)) return \"inauspicious\";\n  return \"neutral\";\n}\n\nconst files = await glob(\"data/content/**/*.json\");\nconst index = [];\n\nfor (const file of files) {\n  const raw = await readFile(file, \"utf8\");\n  const data = JSON.parse(raw);\n\n  const slug = data.slug ?? data.seo?.slug;\n  const koreanSlug = data.seo?.koreanSlug ?? data.koreanSlug ?? \"\";\n  const titleKo = data.ko?.title ?? \"\";\n  const titleEn = data.en?.title ?? \"\";\n  const tagsKo = data.seo?.naverSEO?.tags ?? [];\n  const hero = data.images?.hero ?? null;\n  const badgeType = detectBadge(data.ko?.sections?.[0]?.heading ?? \"\");\n\n  if (!slug) continue;\n\n  index.push({ slug, koreanSlug, titleKo, titleEn, tagsKo, badgeType, hero });\n}\n\n// Sort alphabetically by slug for deterministic output\nindex.sort((a, b) => a.slug.localeCompare(b.slug));\n\nconst outPath = \"public/search-index.json\";\nawait writeFile(outPath, JSON.stringify(index), \"utf8\");\nconsole.log(`\u2705 search-index.json \u2014 ${index.length} entries \u2192 ${outPath}`);\n"
+    },
+    "tool_use_id": "toolu_01WKYth1PvN4jwVW2quzRhCV"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Bash",
+    "tool_input": {
+      "command": "node scripts/build-search-index.mjs && wc -c public/search-index.json"
+    },
+    "tool_use_id": "toolu_013QWin6MjnAgYSDPsyKCWzd"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Write",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/components/home/SearchBar.tsx",
+      "content": "\"use client\";\n\nimport { useState, useRef, useEffect, useCallback } from \"react\";\nimport Image from \"next/image\";\nimport { useRouter } from \"@/i18n/navigation\";\nimport type { Locale } from \"@/i18n/routing\";\n\ntype IndexEntry = {\n  slug: string;\n  koreanSlug: string;\n  titleKo: string;\n  titleEn: string;\n  tagsKo: string[];\n  badgeType: \"auspicious\" | \"inauspicious\" | \"neutral\";\n  hero: string | null;\n};\n\ntype Props = {\n  locale: Locale;\n  placeholder: string;\n  placeholderShort: string;\n  buttonLabel: string;\n};\n\nconst BADGE_STYLES = {\n  auspicious: \"bg-green-500/20 text-green-300\",\n  inauspicious: \"bg-red-500/20 text-red-300\",\n  neutral: \"hidden\",\n};\n\nconst BADGE_LABELS = {\n  auspicious: { ko: \"\uae38\ubabd\", en: \"Auspicious\" },\n  inauspicious: { ko: \"\ud749\ubabd\", en: \"Inauspicious\" },\n  neutral: { ko: \"\", en: \"\" },\n};\n\nfunction score(entry: IndexEntry, q: string, locale: Locale): number {\n  if (!q) return 0;\n  const title = locale === \"ko\" ? entry.titleKo : entry.titleEn.toLowerCase();\n  const qn = locale === \"ko\" ? q : q.toLowerCase();\n\n  if (title === qn) return 100;\n  if (title.startsWith(qn)) return 80;\n  if (title.includes(qn)) return 60;\n  if (locale === \"ko\" && entry.tagsKo.some((t) => t === qn)) return 50;\n  if (locale === \"ko\" && entry.tagsKo.some((t) => t.includes(qn))) return 30;\n  return 0;\n}\n\nexport function SearchBar({ locale, placeholder, placeholderShort, buttonLabel }: Props) {\n  const [query, setQuery] = useState(\"\");\n  const [results, setResults] = useState<IndexEntry[]>([]);\n  const [activeIdx, setActiveIdx] = useState(-1);\n  const [open, setOpen] = useState(false);\n  const router = useRouter();\n  const indexRef = useRef<IndexEntry[] | null>(null);\n  const containerRef = useRef<HTMLDivElement>(null);\n\n  // Lazy-load index on first keystroke\n  const loadIndex = useCallback(async () => {\n    if (indexRef.current) return;\n    const res = await fetch(\"/search-index.json\");\n    indexRef.current = await res.json();\n  }, []);\n\n  // Search whenever query changes\n  useEffect(() => {\n    const q = query.trim();\n    if (!q || !indexRef.current) {\n      setResults([]);\n      setOpen(false);\n      return;\n    }\n    const scored = indexRef.current\n      .map((e) => ({ entry: e, s: score(e, q, locale) }))\n      .filter((x) => x.s > 0)\n      .sort((a, b) => b.s - a.s)\n      .slice(0, 6)\n      .map((x) => x.entry);\n    setResults(scored);\n    setActiveIdx(-1);\n    setOpen(scored.length > 0);\n  }, [query, locale]);\n\n  // Click outside to close\n  useEffect(() => {\n    function onClickOutside(e: MouseEvent) {\n      if (containerRef.current && !containerRef.current.contains(e.target as Node)) {\n        setOpen(false);\n      }\n    }\n    document.addEventListener(\"mousedown\", onClickOutside);\n    return () => document.removeEventListener(\"mousedown\", onClickOutside);\n  }, []);\n\n  function navigate(entry: IndexEntry) {\n    const slug = locale === \"ko\" ? entry.koreanSlug : entry.slug;\n    router.push({ pathname: \"/dream/[slug]\", params: { slug } }, { locale });\n    setOpen(false);\n    setQuery(\"\");\n  }\n\n  function handleChange(e: React.ChangeEvent<HTMLInputElement>) {\n    const val = e.target.value;\n    setQuery(val);\n    if (val.trim()) loadIndex();\n  }\n\n  function handleKeyDown(e: React.KeyboardEvent) {\n    if (!open) return;\n    if (e.key === \"ArrowDown\") {\n      e.preventDefault();\n      setActiveIdx((i) => Math.min(i + 1, results.length - 1));\n    } else if (e.key === \"ArrowUp\") {\n      e.preventDefault();\n      setActiveIdx((i) => Math.max(i - 1, -1));\n    } else if (e.key === \"Enter\") {\n      e.preventDefault();\n      const target = activeIdx >= 0 ? results[activeIdx] : results[0];\n      if (target) navigate(target);\n    } else if (e.key === \"Escape\") {\n      setOpen(false);\n    }\n  }\n\n  function handleSubmit(e: React.FormEvent) {\n    e.preventDefault();\n    if (results[0]) navigate(results[activeIdx >= 0 ? activeIdx : 0]);\n  }\n\n  const inputClass =\n    \"w-full bg-white/10 backdrop-blur-xl border border-white/20 rounded-full py-5 pl-8 pr-16 text-white placeholder-white/40 focus:outline-none focus:ring-2 focus:ring-gold/50 focus:border-gold transition-all\";\n\n  return (\n    <div ref={containerRef} className=\"relative w-full max-w-2xl mx-auto\">\n      <form onSubmit={handleSubmit}>\n        <input\n          type=\"text\"\n          value={query}\n          onChange={handleChange}\n          onKeyDown={handleKeyDown}\n          onFocus={() => results.length > 0 && setOpen(true)}\n          placeholder={placeholderShort}\n          className={`md:hidden text-sm ${inputClass}`}\n          autoComplete=\"off\"\n        />\n        <input\n          type=\"text\"\n          value={query}\n          onChange={handleChange}\n          onKeyDown={handleKeyDown}\n          onFocus={() => results.length > 0 && setOpen(true)}\n          placeholder={placeholder}\n          className={`hidden md:block text-base ${inputClass}`}\n          autoComplete=\"off\"\n        />\n        <button\n          type=\"submit\"\n          aria-label={buttonLabel}\n          className=\"absolute right-4 top-1/2 -translate-y-1/2 p-3 text-gold hover:text-white transition-colors\"\n        >\n          <svg className=\"h-6 w-6\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n            <path strokeLinecap=\"round\" strokeLinejoin=\"round\" strokeWidth={2} d=\"M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z\" />\n          </svg>\n        </button>\n      </form>\n\n      {/* Dropdown */}\n      {open && results.length > 0 && (\n        <ul className=\"absolute top-full mt-2 w-full bg-[#0d1117] border border-white/10 rounded-2xl overflow-hidden shadow-2xl z-50\">\n          {results.map((entry, i) => {\n            const title = locale === \"ko\" ? entry.titleKo : entry.titleEn;\n            const badge = BADGE_LABELS[entry.badgeType][locale];\n            return (\n              <li key={entry.slug}>\n                <button\n                  type=\"button\"\n                  onMouseDown={() => navigate(entry)}\n                  onMouseEnter={() => setActiveIdx(i)}\n                  className={`w-full flex items-center gap-3 px-4 py-3 text-left transition-colors ${\n                    i === activeIdx ? \"bg-white/10\" : \"hover:bg-white/5\"\n                  }`}\n                >\n                  {/* Thumbnail */}\n                  <div className=\"relative w-10 h-10 rounded-lg overflow-hidden shrink-0 bg-white/5\">\n                    {entry.hero && (\n                      <Image\n                        src={entry.hero}\n                        alt=\"\"\n                        fill\n                        className=\"object-cover\"\n                        sizes=\"40px\"\n                      />\n                    )}\n                  </div>\n                  {/* Title + badge */}\n                  <div className=\"flex-1 min-w-0\">\n                    <p className=\"text-sm text-white truncate leading-snug\">{title}</p>\n                    {badge && (\n                      <span className={`inline-block text-[10px] font-bold uppercase tracking-wider px-1.5 py-0.5 rounded mt-0.5 ${BADGE_STYLES[entry.badgeType]}`}>\n                        {badge}\n                      </span>\n                    )}\n                  </div>\n                  {/* Arrow */}\n                  <svg className=\"w-4 h-4 text-white/20 shrink-0\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n                    <path strokeLinecap=\"round\" strokeLinejoin=\"round\" strokeWidth={2} d=\"M9 5l7 7-7 7\" />\n                  </svg>\n                </button>\n              </li>\n            );\n          })}\n        </ul>\n      )}\n    </div>\n  );\n}\n"
+    },
+    "tool_use_id": "toolu_01BAZzWygPQNRyxAGb8y66AP"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Read",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/package.json",
+      "limit": 15
+    },
+    "tool_use_id": "toolu_01JZcHjgWetcwbmbd54ESc6m"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/package.json",
+      "old_string": "    \"build\": \"next build\",",
+      "new_string": "    \"build\": \"node scripts/build-search-index.mjs && next build\",",
+      "replace_all": false
+    },
+    "tool_use_id": "toolu_01WL6aKQBifwZdPdnBisC8Cs"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Bash",
+    "tool_input": {
+      "command": "npm run build 2>&1 | tail -20",
+      "timeout": 120000
+    },
+    "tool_use_id": "toolu_01YQQMBvRfvPtAiyJnvurLk1"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Bash",
+    "tool_input": {
+      "command": "node -e \"\nconst idx = JSON.parse(require('fs').readFileSync('public/search-index.json', 'utf8'));\n\nfunction score(entry, q, locale) {\n  const title = locale === 'ko' ? entry.titleKo : entry.titleEn.toLowerCase();\n  const qn = locale === 'ko' ? q : q.toLowerCase();\n  if (title === qn) return 100;\n  if (title.startsWith(qn)) return 80;\n  if (title.includes(qn)) return 60;\n  if (locale === 'ko' && entry.tagsKo.some(t => t === qn)) return 50;\n  if (locale === 'ko' && entry.tagsKo.some(t => t.includes(qn))) return 30;\n  return 0;\n}\n\n// Test KO: \ubc40\nconst koResults = idx.map(e => ({e, s: score(e, '\ubc40', 'ko')})).filter(x => x.s > 0).sort((a,b) => b.s-a.s).slice(0,5);\nconsole.log('KO query: \ubc40');\nkoResults.forEach(r => console.log(' ', r.s, r.e.titleKo));\n\n// Test EN: snake\nconst enResults = idx.map(e => ({e, s: score(e, 'snake', 'en')})).filter(x => x.s > 0).sort((a,b) => b.s-a.s).slice(0,5);\nconsole.log('\\nEN query: snake');\nenResults.forEach(r => console.log(' ', r.s, r.e.titleEn));\n\n// Test KO: \uc774\ube68\nconst koResults2 = idx.map(e => ({e, s: score(e, '\uc774\ube68', 'ko')})).filter(x => x.s > 0).sort((a,b) => b.s-a.s).slice(0,5);\nconsole.log('\\nKO query: \uc774\ube68');\nkoResults2.forEach(r => console.log(' ', r.s, r.e.titleKo));\n\""
+    },
+    "tool_use_id": "toolu_01Y1vHLHrf7V6w3KVZXpxx2P"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/app/[locale]/page.tsx",
+      "old_string": "      <section className=\"relative h-screen w-full flex flex-col items-center justify-center overflow-hidden -mt-20\">",
+      "new_string": "      <section className=\"relative h-screen w-full flex flex-col items-center justify-center -mt-20\">",
+      "replace_all": false
+    },
+    "tool_use_id": "toolu_01UHxBEkXJgX6eUeQ4aHvx8w"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Bash",
+    "tool_input": {
+      "command": "node -e \"\nconst idx = JSON.parse(require('fs').readFileSync('public/search-index.json', 'utf8'));\nfunction score(entry, q) {\n  const title = entry.titleKo;\n  if (title.includes(q)) return 60;\n  if (entry.tagsKo.some(t => t === q)) return 50;\n  if (entry.tagsKo.some(t => t.includes(q))) return 30;\n  return 0;\n}\nconst results = idx.map(e => ({e, s: score(e, '\ubc40')})).filter(x => x.s > 0).sort((a,b) => b.s-a.s);\nconsole.log('Total matches for \ubc40:', results.length);\nresults.forEach(r => console.log(' ', r.s, r.e.titleKo));\n\""
+    },
+    "tool_use_id": "toolu_01PxuYgWmd16zkF9jZxuLWzK"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/components/home/SearchBar.tsx",
+      "old_string": "    const scored = indexRef.current\n      .map((e) => ({ entry: e, s: score(e, q, locale) }))\n      .filter((x) => x.s > 0)\n      .sort((a, b) => b.s - a.s)\n      .slice(0, 6)\n      .map((x) => x.entry);",
+      "new_string": "    const minScore = locale === \"ko\" ? 50 : 30;\n    const scored = indexRef.current\n      .map((e) => ({ entry: e, s: score(e, q, locale) }))\n      .filter((x) => x.s >= minScore)\n      .sort((a, b) => b.s - a.s)\n      .slice(0, 12)\n      .map((x) => x.entry);",
+      "replace_all": false
+    },
+    "tool_use_id": "toolu_011P7XjcsSFfPPfVcKxXGTGs"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/components/home/SearchBar.tsx",
+      "old_string": "        <ul className=\"absolute top-full mt-2 w-full bg-[#0d1117] border border-white/10 rounded-2xl overflow-hidden shadow-2xl z-50\">",
+      "new_string": "        <ul className=\"absolute top-full mt-2 w-full bg-[#0d1117] border border-white/10 rounded-2xl overflow-y-auto shadow-2xl z-50 max-h-[420px]\">",
+      "replace_all": false
+    },
+    "tool_use_id": "toolu_01SnqvSmjo4Wzt3krv5bsd6h"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/components/home/SearchBar.tsx",
+      "old_string": "function score(entry: IndexEntry, q: string, locale: Locale): number {\n  if (!q) return 0;\n  const title = locale === \"ko\" ? entry.titleKo : entry.titleEn.toLowerCase();\n  const qn = locale === \"ko\" ? q : q.toLowerCase();\n\n  if (title === qn) return 100;\n  if (title.startsWith(qn)) return 80;\n  if (title.includes(qn)) return 60;\n  if (locale === \"ko\" && entry.tagsKo.some((t) => t === qn)) return 50;\n  if (locale === \"ko\" && entry.tagsKo.some((t) => t.includes(qn))) return 30;\n  return 0;\n}",
+      "new_string": "// Korean postposition suffixes \u2014 strip from end of each token before matching\nconst KO_PARTICLES =\n  /(?:\uc5d0\uac8c\uc11c|\ud55c\ud14c\uc11c|\uc73c\ub85c\ubd80\ud130|\ub85c\ubd80\ud130|\uc5d0\uac8c|\ud55c\ud14c|\uaed8\uc11c|\uc5d0\uc11c|\uc73c\ub85c|\ubd80\ud130|\uae4c\uc9c0|\uc774\ub791|\uc640|\uacfc|\ub97c|\uc744|\ub294|\uc740|\uac00|\uc774|\ub3c4|\ub9cc|\ub85c|\uc758|\uc11c)$/;\n\nfunction stripParticle(word: string): string {\n  return word.replace(KO_PARTICLES, \"\");\n}\n\nfunction tokenizeKo(q: string): string[] {\n  return q\n    .trim()\n    .split(/\\s+/)\n    .map(stripParticle)\n    .filter((t) => t.length > 0);\n}\n\nfunction scoreKo(entry: IndexEntry, tokens: string[]): number {\n  const title = entry.titleKo;\n  const searchable = title + \" \" + entry.tagsKo.join(\" \");\n\n  // All tokens must match (AND logic) \u2014 handles multi-word queries like \"\uac1c \ubb3c\ub9ac\ub294\"\n  const allMatch = tokens.every((t) => searchable.includes(t));\n  if (!allMatch) return 0;\n\n  // Score by how well the title matches (more tokens matched in title = better rank)\n  const titleMatches = tokens.filter((t) => title.includes(t)).length;\n  return 50 + titleMatches * 20;\n}\n\nfunction scoreEn(entry: IndexEntry, q: string): number {\n  const title = entry.titleEn.toLowerCase();\n  const qn = q.toLowerCase();\n  if (title === qn) return 100;\n  if (title.startsWith(qn)) return 80;\n  if (title.includes(qn)) return 60;\n  return 0;\n}\n\nfunction score(entry: IndexEntry, q: string, locale: Locale): number {\n  if (!q) return 0;\n  if (locale === \"ko\") {\n    const tokens = tokenizeKo(q);\n    return tokens.length > 0 ? scoreKo(entry, tokens) : 0;\n  }\n  return scoreEn(entry, q);\n}",
+      "replace_all": false
+    },
+    "tool_use_id": "toolu_013PEdGQ8AF8uNDCWwHQutKK"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/components/home/SearchBar.tsx",
+      "old_string": "    const minScore = locale === \"ko\" ? 50 : 30;\n    const scored = indexRef.current\n      .map((e) => ({ entry: e, s: score(e, q, locale) }))\n      .filter((x) => x.s >= minScore)\n      .sort((a, b) => b.s - a.s)\n      .slice(0, 12)\n      .map((x) => x.entry);",
+      "new_string": "    const scored = indexRef.current\n      .map((e) => ({ entry: e, s: score(e, q, locale) }))\n      .filter((x) => x.s > 0)\n      .sort((a, b) => b.s - a.s)\n      .slice(0, 6)\n      .map((x) => x.entry);",
+      "replace_all": false
+    },
+    "tool_use_id": "toolu_01YAPyVbqiuBpQPeELoUKddY"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/components/home/SearchBar.tsx",
+      "old_string": "        <ul className=\"absolute top-full mt-2 w-full bg-[#0d1117] border border-white/10 rounded-2xl overflow-y-auto shadow-2xl z-50 max-h-[420px]\">",
+      "new_string": "        <ul className=\"absolute top-full mt-2 w-full bg-[#0d1117] border border-white/10 rounded-2xl overflow-hidden shadow-2xl z-50\">",
+      "replace_all": false
+    },
+    "tool_use_id": "toolu_01Vqms5iCfXhoA7CqknGrjXq"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Bash",
+    "tool_input": {
+      "command": "node -e \"\nconst idx = JSON.parse(require('fs').readFileSync('public/search-index.json', 'utf8'));\n\nconst KO_PARTICLES = /(?:\uc5d0\uac8c\uc11c|\ud55c\ud14c\uc11c|\uc73c\ub85c\ubd80\ud130|\ub85c\ubd80\ud130|\uc5d0\uac8c|\ud55c\ud14c|\uaed8\uc11c|\uc5d0\uc11c|\uc73c\ub85c|\ubd80\ud130|\uae4c\uc9c0|\uc774\ub791|\uc640|\uacfc|\ub97c|\uc744|\ub294|\uc740|\uac00|\uc774|\ub3c4|\ub9cc|\ub85c|\uc758|\uc11c)$/;\nconst strip = w => w.replace(KO_PARTICLES, '');\nconst tokenize = q => q.trim().split(/\\s+/).map(strip).filter(t => t.length > 0);\n\nfunction scoreKo(entry, tokens) {\n  const searchable = entry.titleKo + ' ' + entry.tagsKo.join(' ');\n  const allMatch = tokens.every(t => searchable.includes(t));\n  if (!allMatch) return 0;\n  const titleMatches = tokens.filter(t => entry.titleKo.includes(t)).length;\n  return 50 + titleMatches * 20;\n}\n\n// Test 1: \uac1c\ud55c\ud14c \ubb3c\ub9ac\ub294\nconst q1 = tokenize('\uac1c\ud55c\ud14c \ubb3c\ub9ac\ub294');\nconsole.log('Tokens for \\\"\uac1c\ud55c\ud14c \ubb3c\ub9ac\ub294\\\":', q1);\nconst r1 = idx.map(e => ({e, s: scoreKo(e, q1)})).filter(x => x.s > 0).sort((a,b) => b.s-a.s).slice(0,6);\nr1.forEach(r => console.log(' ', r.s, r.e.titleKo));\n\n// Test 2: \uac1c (single word \u2014 should return manageable set)\nconst q2 = tokenize('\uac1c');\nconsole.log('\\nTokens for \\\"\uac1c\\\":', q2);\nconst r2 = idx.map(e => ({e, s: scoreKo(e, q2)})).filter(x => x.s > 0).sort((a,b) => b.s-a.s).slice(0,6);\nr2.forEach(r => console.log(' ', r.s, r.e.titleKo));\n\"\n"
+    },
+    "tool_use_id": "toolu_01DvXKDFR3i56sFaupFAF1ke"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Bash",
+    "tool_input": {
+      "command": "npm run build 2>&1 | tail -15",
+      "timeout": 120000
+    },
+    "tool_use_id": "toolu_01MxxjiP3QtaHLHczfPGQRLP"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/components/dream/DreamCard.tsx",
+      "old_string": "const BADGE_STYLES = {\n  auspicious: \"bg-green-500/20 text-green-300\",\n  inauspicious: \"bg-red-500/20 text-red-300\",\n  neutral: \"\",\n};\n\nconst BADGE_LABELS: Record<ContentPreview[\"badgeType\"], { ko: string; en: string }> = {\n  auspicious: { ko: \"\uae38\ubabd\", en: \"Auspicious\" },\n  inauspicious: { ko: \"\ud749\ubabd\", en: \"Inauspicious\" },\n  neutral: { ko: \"\", en: \"\" },\n};",
+      "new_string": "const BADGE_STYLES = {\n  auspicious: \"bg-green-500/20 text-green-300\",\n  inauspicious: \"bg-red-500/20 text-red-300\",\n  neutral: \"bg-white/10 text-slate-400\",\n};\n\nconst BADGE_LABELS: Record<ContentPreview[\"badgeType\"], { ko: string; en: string }> = {\n  auspicious: { ko: \"\uae38\ubabd\", en: \"Auspicious\" },\n  inauspicious: { ko: \"\ud749\ubabd\", en: \"Inauspicious\" },\n  neutral: { ko: \"\uc911\ub9bd\", en: \"Neutral\" },\n};",
+      "replace_all": false
+    },
+    "tool_use_id": "toolu_019F9TofDyzbK3SHQfexHR79"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/components/dream/DreamCard.tsx",
+      "old_string": "        {badgeLabel && (\n          <span className={`inline-block px-2 py-0.5 rounded text-[10px] font-bold uppercase tracking-wider mb-1.5 ${BADGE_STYLES[badgeType]}`}>\n            {badgeLabel}\n          </span>\n        )}",
+      "new_string": "        <span className={`inline-block px-2 py-0.5 rounded text-[10px] font-bold uppercase tracking-wider mb-1.5 ${BADGE_STYLES[badgeType]}`}>\n          {badgeLabel}\n        </span>",
+      "replace_all": false
+    },
+    "tool_use_id": "toolu_01MqPYMDyumvxt4MbZF3qTU2"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Bash",
+    "tool_input": {
+      "command": "node -e \"\nconst fs = require('fs');\nconst idx = JSON.parse(fs.readFileSync('public/search-index.json', 'utf8'));\nconst counts = {auspicious: 0, inauspicious: 0, neutral: 0};\nidx.forEach(e => counts[e.badgeType]++);\nconsole.log(counts);\n\""
+    },
+    "tool_use_id": "toolu_01P2TbcSRK2tSDWAkV2AnLhM"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Bash",
+    "tool_input": {
+      "command": "node -e \"\nconst fs = require('fs');\nconst idx = JSON.parse(fs.readFileSync('public/search-index.json', 'utf8'));\nidx.filter(e => e.badgeType === 'neutral').forEach(e => console.log(e.slug));\n\""
+    },
+    "tool_use_id": "toolu_01UJH3hQ8WQChM3jou173VZc"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Read",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/lib/content.ts",
+      "offset": 76,
+      "limit": 20
+    },
+    "tool_use_id": "toolu_01LundAKEfUT9bTo9H95TStC"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/lib/content.ts",
+      "old_string": "function detectBadge(heading: string): ContentPreview[\"badgeType\"] {\n  if (heading.includes(\"\uae38\ubabd\") || /auspicious/i.test(heading)) return \"auspicious\";\n  if (heading.includes(\"\ud749\ubabd\") || /inauspicious/i.test(heading)) return \"inauspicious\";\n  return \"neutral\";\n}",
+      "new_string": "function detectBadge(sections: { heading?: string; type?: string }[]): ContentPreview[\"badgeType\"] {\n  const allHeadings = sections.map((s) => (s.heading ?? \"\") + \" \" + (s.type ?? \"\")).join(\" \");\n  const hasAuspicious = allHeadings.includes(\"\uae38\ubabd\") || /auspicious/i.test(allHeadings);\n  const hasInauspicious = allHeadings.includes(\"\ud749\ubabd\") || /inauspicious/i.test(allHeadings);\n  if (hasAuspicious && !hasInauspicious) return \"auspicious\";\n  if (hasInauspicious && !hasAuspicious) return \"inauspicious\";\n  if (hasAuspicious && hasInauspicious) return \"neutral\"; // genuinely mixed\n  return \"neutral\";\n}",
+      "replace_all": false
+    },
+    "tool_use_id": "toolu_01XprsaR6T6phxXiXQgQ56PS"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/lib/content.ts",
+      "old_string": "        const firstHeading = data?.ko?.sections?.[0]?.heading ?? \"\";\n        previews.push({\n          slug: doc.id,\n          koreanSlug: data?.seo?.koreanSlug ?? \"\",\n          title: { ko: data?.ko?.title ?? \"\", en: data?.en?.title ?? \"\" },\n          excerpt: {\n            ko: (data?.ko?.intro ?? \"\").slice(0, 130).trim() + \"\u2026\",\n            en: (data?.en?.intro ?? \"\").slice(0, 130).trim() + \"\u2026\",\n          },\n          heroImage: data?.images?.hero,\n          badgeType: detectBadge(firstHeading),\n        });",
+      "new_string": "        const sections = data?.ko?.sections ?? [];\n        previews.push({\n          slug: doc.id,\n          koreanSlug: data?.seo?.koreanSlug ?? \"\",\n          title: { ko: data?.ko?.title ?? \"\", en: data?.en?.title ?? \"\" },\n          excerpt: {\n            ko: (data?.ko?.intro ?? \"\").slice(0, 130).trim() + \"\u2026\",\n            en: (data?.en?.intro ?? \"\").slice(0, 130).trim() + \"\u2026\",\n          },\n          heroImage: data?.images?.hero,\n          badgeType: detectBadge(sections),\n        });",
+      "replace_all": false
+    },
+    "tool_use_id": "toolu_01XY1AKoMgXAKqekXm9qYJdW"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/scripts/build-search-index.mjs",
+      "old_string": "function detectBadge(heading = \"\") {\n  if (heading.includes(\"\uae38\ubabd\") || /auspicious/i.test(heading)) return \"auspicious\";\n  if (heading.includes(\"\ud749\ubabd\") || /inauspicious/i.test(heading)) return \"inauspicious\";\n  return \"neutral\";\n}",
+      "new_string": "function detectBadge(sections = []) {\n  const allHeadings = sections.map((s) => (s.heading ?? \"\") + \" \" + (s.type ?? \"\")).join(\" \");\n  const hasAuspicious = allHeadings.includes(\"\uae38\ubabd\") || /auspicious/i.test(allHeadings);\n  const hasInauspicious = allHeadings.includes(\"\ud749\ubabd\") || /inauspicious/i.test(allHeadings);\n  if (hasAuspicious && !hasInauspicious) return \"auspicious\";\n  if (hasInauspicious && !hasAuspicious) return \"inauspicious\";\n  if (hasAuspicious && hasInauspicious) return \"neutral\";\n  return \"neutral\";\n}",
+      "replace_all": false
+    },
+    "tool_use_id": "toolu_01GxgsVt3cgdLrQM1mtQaZTd"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/scripts/build-search-index.mjs",
+      "old_string": "  const badgeType = detectBadge(data.ko?.sections?.[0]?.heading ?? \"\");",
+      "new_string": "  const badgeType = detectBadge(data.ko?.sections ?? []);",
+      "replace_all": false
+    },
+    "tool_use_id": "toolu_01Xdwt2Sds54UiCn428J5P3v"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Bash",
+    "tool_input": {
+      "command": "node scripts/build-search-index.mjs && node -e \"\nconst idx = JSON.parse(require('fs').readFileSync('public/search-index.json', 'utf8'));\nconst counts = {auspicious: 0, inauspicious: 0, neutral: 0};\nidx.forEach(e => counts[e.badgeType]++);\nconsole.log(counts);\nconsole.log('\\nNeutral articles:');\nidx.filter(e => e.badgeType === 'neutral').forEach(e => console.log(' ', e.slug));\n\""
+    },
+    "tool_use_id": "toolu_019WG63EJeUWc2FFLhxadW8N"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Bash",
+    "tool_input": {
+      "command": "node -e \"\nconst fs = require('fs');\nconst f = JSON.parse(fs.readFileSync('data/content/animals/snake-dream.json', 'utf8'));\nf.ko.sections.forEach(s => console.log(s.type, '|', s.heading));\n\""
+    },
+    "tool_use_id": "toolu_017nvN7dNR9nHnBApVc5a9k6"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/lib/content.ts",
+      "old_string": "function detectBadge(sections: { heading?: string; type?: string }[]): ContentPreview[\"badgeType\"] {\n  const allHeadings = sections.map((s) => (s.heading ?? \"\") + \" \" + (s.type ?? \"\")).join(\" \");\n  const hasAuspicious = allHeadings.includes(\"\uae38\ubabd\") || /auspicious/i.test(allHeadings);\n  const hasInauspicious = allHeadings.includes(\"\ud749\ubabd\") || /inauspicious/i.test(allHeadings);\n  if (hasAuspicious && !hasInauspicious) return \"auspicious\";\n  if (hasInauspicious && !hasAuspicious) return \"inauspicious\";\n  if (hasAuspicious && hasInauspicious) return \"neutral\"; // genuinely mixed\n  return \"neutral\";\n}",
+      "new_string": "function detectBadge(sections: { heading?: string }[]): ContentPreview[\"badgeType\"] {\n  // First match wins \u2014 the section that appears first sets the primary tone\n  for (const s of sections) {\n    const h = s.heading ?? \"\";\n    if (h.includes(\"\uae38\ubabd\") || /auspicious/i.test(h)) return \"auspicious\";\n    if (h.includes(\"\ud749\ubabd\") || /inauspicious/i.test(h)) return \"inauspicious\";\n  }\n  return \"neutral\";\n}",
+      "replace_all": false
+    },
+    "tool_use_id": "toolu_01DK5CkZx8yQ2WsDG8geEAbT"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/scripts/build-search-index.mjs",
+      "old_string": "function detectBadge(sections = []) {\n  const allHeadings = sections.map((s) => (s.heading ?? \"\") + \" \" + (s.type ?? \"\")).join(\" \");\n  const hasAuspicious = allHeadings.includes(\"\uae38\ubabd\") || /auspicious/i.test(allHeadings);\n  const hasInauspicious = allHeadings.includes(\"\ud749\ubabd\") || /inauspicious/i.test(allHeadings);\n  if (hasAuspicious && !hasInauspicious) return \"auspicious\";\n  if (hasInauspicious && !hasAuspicious) return \"inauspicious\";\n  if (hasAuspicious && hasInauspicious) return \"neutral\";\n  return \"neutral\";\n}",
+      "new_string": "function detectBadge(sections = []) {\n  for (const s of sections) {\n    const h = s.heading ?? \"\";\n    if (h.includes(\"\uae38\ubabd\") || /auspicious/i.test(h)) return \"auspicious\";\n    if (h.includes(\"\ud749\ubabd\") || /inauspicious/i.test(h)) return \"inauspicious\";\n  }\n  return \"neutral\";\n}",
+      "replace_all": false
+    },
+    "tool_use_id": "toolu_01A3kP9Xe7N8zYHwPZ8DSMLe"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Bash",
+    "tool_input": {
+      "command": "node scripts/build-search-index.mjs && node -e \"\nconst idx = JSON.parse(require('fs').readFileSync('public/search-index.json', 'utf8'));\nconst counts = {auspicious: 0, inauspicious: 0, neutral: 0};\nidx.forEach(e => counts[e.badgeType]++);\nconsole.log(counts);\nconsole.log('\\nNeutral:');\nidx.filter(e => e.badgeType === 'neutral').forEach(e => console.log(' ', e.slug));\n\""
+    },
+    "tool_use_id": "toolu_01Az67p1BuAAGZMTZHKpm32D"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Bash",
+    "tool_input": {
+      "command": "npm run build 2>&1 | tail -12",
+      "timeout": 120000
+    },
+    "tool_use_id": "toolu_01AruFEEpGh9yzQYpvSmjZqe"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Bash",
+    "tool_input": {
+      "command": "node -e \"\nconst fs = require('fs');\nconst idx = JSON.parse(fs.readFileSync('public/search-index.json', 'utf8'));\nidx.filter(e => e.badgeType === 'neutral').forEach(e => console.log(e.slug, '|', e.titleKo));\n\""
+    },
+    "tool_use_id": "toolu_015p4iR8aWGQdQiMJEb7nph3"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/components/home/SearchBar.tsx",
+      "old_string": "const BADGE_STYLES = {\n  auspicious: \"bg-green-500/20 text-green-300\",\n  inauspicious: \"bg-red-500/20 text-red-300\",\n  neutral: \"hidden\",\n};\n\nconst BADGE_LABELS = {\n  auspicious: { ko: \"\uae38\ubabd\", en: \"Auspicious\" },\n  inauspicious: { ko: \"\ud749\ubabd\", en: \"Inauspicious\" },\n  neutral: { ko: \"\", en: \"\" },\n};",
+      "new_string": "const BADGE_STYLES = {\n  auspicious: \"bg-green-500/20 text-green-300\",\n  inauspicious: \"bg-red-500/20 text-red-300\",\n  neutral: \"bg-white/10 text-slate-400\",\n};\n\nconst BADGE_LABELS = {\n  auspicious: { ko: \"\uae38\ubabd\", en: \"Auspicious\" },\n  inauspicious: { ko: \"\ud749\ubabd\", en: \"Inauspicious\" },\n  neutral: { ko: \"\uc911\ub9bd\", en: \"Neutral\" },\n};",
+      "replace_all": false
+    },
+    "tool_use_id": "toolu_014kK5KaohyJHsjpYyVEfCEs"
   }
 ]
