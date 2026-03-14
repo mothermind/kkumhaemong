@@ -115,18 +115,26 @@ export default async function DreamPage({ params }: Props) {
 
         <TableOfContents items={tocItems} locale={locale} />
 
-        {c.sections.map((section, i) => (
-          <DreamSection
-            key={i}
-            id={sectionIds[i]}
-            heading={section.heading}
-            body={getBody(section)}
-            type={(section as any).type ?? detectSectionType(section.heading)}
-            image={content.images?.sections?.[
-              (section as any).imageRef ?? detectSectionType(section.heading)
-            ]}
-          />
-        ))}
+        {(() => {
+          const usedImageKeys = new Set<string>();
+          return c.sections.map((section, i) => {
+            const imageKey = (section as any).imageRef ?? detectSectionType(section.heading);
+            const image = !usedImageKeys.has(imageKey)
+              ? content.images?.sections?.[imageKey]
+              : undefined;
+            if (image) usedImageKeys.add(imageKey);
+            return (
+              <DreamSection
+                key={i}
+                id={sectionIds[i]}
+                heading={section.heading}
+                body={getBody(section)}
+                type={(section as any).type ?? detectSectionType(section.heading)}
+                image={image}
+              />
+            );
+          });
+        })()}
 
         <DreamVariations
           id={variationsId}

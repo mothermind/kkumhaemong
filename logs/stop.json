@@ -10796,5 +10796,86 @@
     "hook_event_name": "Stop",
     "stop_hook_active": false,
     "last_assistant_message": "The `blurDataURL` is a tiny dark-toned base64 JPEG \u2014 it renders instantly as a blurred dark square matching the card's aesthetic, then sharpens as the real image loads.\n\nThe cold-cache slowness itself (first-ever load) is unavoidable with remote images \u2014 that's Next.js fetching from Firebase, resizing, and storing. It only happens once per image per server restart. On Vercel with persistent cache, users will rarely hit it."
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "last_assistant_message": "Confirmed. The logic in `page.tsx` lines 125\u2013127:\n\n```tsx\nimage={content.images?.sections?.[\n  (section as any).imageRef ?? detectSectionType(section.heading)\n]}\n```\n\nThe lookup key is either an explicit `imageRef` from the content data, or the section type detected from the heading (`\"auspicious\"` / `\"inauspicious\"` / `\"neutral\"`).\n\nSince `content.images.sections` is a flat object like:\n```json\n{ \"auspicious\": \"https://...\", \"inauspicious\": \"https://...\" }\n```\n\nEvery auspicious section \u2014 regardless of how many exist \u2014 resolves to the same `sections[\"auspicious\"]` URL. Same for inauspicious. So:\n\n- **Hero**: shown once in `DreamHero`, pulled from `content.images.hero`\n- **Auspicious image**: one image, reused across all `\uae38\ubabd` sections\n- **Inauspicious image**: one image, reused across all `\ud749\ubabd` sections\n- **Neutral sections**: only get an image if `sections[\"neutral\"]` exists (most don't)\n\nThe logic is correct and working as intended."
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "last_assistant_message": "Clean. The fix: `usedImageKeys` is a `Set` that tracks which image keys (`\"auspicious\"`, `\"inauspicious\"`, `\"neutral\"`) have already been assigned. The first section to claim a key gets the image; all subsequent sections with the same key get `undefined`. Affects 272 content files, zero content changes needed."
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "last_assistant_message": "Yes, correct. The fix only suppresses the **image** prop \u2014 the section's `heading` and `body` content render fully regardless:\n\n```tsx\nconst image = !usedImageKeys.has(imageKey)\n  ? content.images?.sections?.[imageKey]\n  : undefined;   // \u2190 only the image is suppressed\n```\n\n`DreamSection` still receives the full `heading` and `body` for every section. Only the `<Image>` block inside `DreamSection` is conditionally rendered based on whether `image` is truthy:\n\n```tsx\n{image && (\n  <div className=\"...\">\n    <Image src={image} ... />\n  </div>\n)}\n```\n\nContent is untouched."
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "last_assistant_message": "For a full-screen hero background image used with `object-cover`:\n\n**Recommended: 1920\u00d71080px, 16:9**\n\n- Covers all desktop viewports up to 4K displays at 2\u00d7 (when Next.js generates srcset)\n- `object-cover` handles mobile crop automatically \u2014 portrait phones see a centered crop\n- 16:9 is the safe zone where the focal point (center) stays visible on both widescreen desktop and tall mobile\n\n**What to avoid in the composition:**\n- Don't place critical visual elements near the left/right edges \u2014 they'll be cropped on mobile (9:16 viewport)\n- Keep the main subject centered or slightly upper-center \u2014 the hero gradient darkens the bottom 40%, and the floating text sits in the middle\n\n**Format:** PNG or WebP, save as `hero_01.png` (or `.webp`)"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "last_assistant_message": "Done."
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "last_assistant_message": "This is a site-wide hero, not a dream symbol, so I'll craft it as a single cinematic establishing shot for the brand:\n\n---\n\n```\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\ud83c\udf19 \uafc8\ud574\ubabd \u2014 SITE HERO IMAGE\nSave to: public/images/home/hero_02.png\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\ud83d\udcf8 HERO \u2192 hero_02.png\n\nancient Korean hanok rooftop silhouetted against a deep indigo night sky, \nfull moon partially veiled by drifting mist, distant mountain ridgeline, \npaper lantern warm glow emanating from courtyard below, \nscattered stars visible through atmospheric haze, \ncentered wide composition, lower third negative space for text overlay, \nKorean traditional architecture tile roof eaves in foreground frame, \nblue hour into deep night, natural moonlight and lantern light, \ncinematic atmospheric photography, 35mm film photography, \nKodak Portra 400 pushed one stop, dreamlike but grounded, \nmuted midnight blue and warm amber tones, no people --ar 16:9 --style raw --v 6.1\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\nResolution: generate at default MJ size, then upscale 2\u00d7\nExport: PNG, 1920\u00d71080px minimum\nCSS: object-fit: cover; object-position: center 40%\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n```\n\n**Key compositional notes:**\n- `lower third negative space` \u2014 hero text (\"\ub2f9\uc2e0\uc758 \uafc8, \uadf8 \ub108\uba38\uc758 \uc774\uc57c\uae30\") sits in the mid-center; the bottom is darkened by the `.hero-gradient` overlay anyway\n- `no people` \u2014 keeps it universally atmospheric, avoids uncanny valley\n- `--ar 16:9` instead of `3:2` \u2014 matches the desktop viewport exactly; `object-cover` handles the mobile crop from center"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "last_assistant_message": "```\nancient pine trees on a misty mountain ridge under a deep indigo night sky, \nfull moon partially veiled by drifting silk clouds, \ndistant layered mountain silhouettes fading into atmospheric haze, \nstill lotus pond reflecting moonlight in foreground, \nscattered stars visible through mist, \ncentered wide composition, lower third negative space for text overlay, \nblue hour into deep night, natural moonlight only, \ncinematic atmospheric photography, 35mm film photography, \nKodak Portra 400 pushed one stop, dreamlike but grounded, \nmuted midnight blue and cool silver tones, serene and mysterious, no people --ar 16:9 --style raw --v 6.1\n```"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "last_assistant_message": "Done."
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "last_assistant_message": "Done. Removed `animate-float` from the hero content div."
   }
 ]

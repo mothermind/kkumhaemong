@@ -56,7 +56,7 @@ export default async function HomePage({ params }: Props) {
         {/* Background image */}
         <div className="absolute inset-0 z-0">
           <Image
-            src="/images/home/hero_01.png"
+            src="/images/home/hero_05.png"
             alt="꿈해몽 배경"
             fill
             priority
@@ -68,7 +68,7 @@ export default async function HomePage({ params }: Props) {
         </div>
 
         {/* Floating content */}
-        <div className="relative z-10 text-center px-4 max-w-4xl animate-float">
+        <div className="relative z-10 text-center px-4 max-w-4xl">
           <h1
             className="text-4xl md:text-6xl lg:text-7xl font-bold mb-6 leading-tight text-white whitespace-pre-line"
             style={{ fontFamily: "var(--font-serif)" }}
