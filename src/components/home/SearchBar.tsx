@@ -7,10 +7,11 @@ import type { Locale } from "@/i18n/routing";
 type Props = {
   locale: Locale;
   placeholder: string;
+  placeholderShort: string;
   buttonLabel: string;
 };
 
-export function SearchBar({ locale, placeholder }: Props) {
+export function SearchBar({ locale, placeholder, placeholderShort }: Props) {
   const [query, setQuery] = useState("");
   const router = useRouter();
 
@@ -27,8 +28,15 @@ export function SearchBar({ locale, placeholder }: Props) {
         type="text"
         value={query}
         onChange={(e) => setQuery(e.target.value)}
+        placeholder={placeholderShort}
+        className="md:hidden w-full bg-white/10 backdrop-blur-xl border border-white/20 rounded-full py-5 pl-8 pr-16 text-white text-sm placeholder-white/40 focus:outline-none focus:ring-2 focus:ring-gold/50 focus:border-gold transition-all"
+      />
+      <input
+        type="text"
+        value={query}
+        onChange={(e) => setQuery(e.target.value)}
         placeholder={placeholder}
-        className="w-full bg-white/10 backdrop-blur-xl border border-white/20 rounded-full py-5 px-8 text-white placeholder-white/40 focus:outline-none focus:ring-2 focus:ring-gold/50 focus:border-gold transition-all"
+        className="hidden md:block w-full bg-white/10 backdrop-blur-xl border border-white/20 rounded-full py-5 px-8 text-white text-base placeholder-white/40 focus:outline-none focus:ring-2 focus:ring-gold/50 focus:border-gold transition-all"
       />
       <button
         type="submit"

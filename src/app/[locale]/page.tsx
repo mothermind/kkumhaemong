@@ -32,12 +32,12 @@ const POPULAR_SLUGS = [
 ];
 
 const CATEGORY_CHIPS = [
-  { slug: "animals", ko: "동물 (Animals)", en: "Animals" },
-  { slug: "actions", ko: "행동 (Actions)", en: "Actions" },
-  { slug: "pregnancy", ko: "태몽 (Pregnancy)", en: "Pregnancy" },
-  { slug: "money", ko: "재물 (Money)", en: "Money" },
-  { slug: "death", ko: "죽음 (Death)", en: "Death" },
-  { slug: "marriage", ko: "사랑 (Love)", en: "Love" },
+  { slug: "animals", ko: "동물", en: "Animals" },
+  { slug: "actions", ko: "행동", en: "Actions" },
+  { slug: "pregnancy", ko: "태몽", en: "Pregnancy" },
+  { slug: "money", ko: "재물", en: "Money" },
+  { slug: "death", ko: "죽음", en: "Death" },
+  { slug: "marriage", ko: "사랑", en: "Love" },
 ];
 
 export default async function HomePage({ params }: Props) {
@@ -84,6 +84,7 @@ export default async function HomePage({ params }: Props) {
             <SearchBar
               locale={locale as Locale}
               placeholder={t("searchPlaceholder")}
+              placeholderShort={t("searchPlaceholderShort")}
               buttonLabel={t("searchButton")}
             />
           </div>

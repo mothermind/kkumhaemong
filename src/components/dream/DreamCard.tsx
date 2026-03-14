@@ -35,10 +35,10 @@ export function DreamCard({ preview, locale }: Props) {
     <Link
       href={href}
       locale={locale}
-      className="group flex items-center gap-5 p-4 rounded-xl bg-white/[0.03] border border-white/5 hover:bg-white/[0.07] hover:border-gold/30 transition-all duration-300"
+      className="group flex items-center gap-3 md:gap-5 p-3 md:p-4 rounded-xl bg-white/[0.03] border border-white/5 hover:bg-white/[0.07] hover:border-gold/30 transition-all duration-300"
     >
       {/* Thumbnail */}
-      <div className="relative w-20 h-20 flex-shrink-0 overflow-hidden rounded-lg bg-white/5">
+      <div className="relative w-14 h-14 md:w-20 md:h-20 flex-shrink-0 overflow-hidden rounded-lg bg-white/5">
         {heroImage ? (
           <Image
             src={heroImage}
@@ -58,14 +58,14 @@ export function DreamCard({ preview, locale }: Props) {
       {/* Text */}
       <div className="flex-1 min-w-0">
         {badgeLabel && (
-          <span className={`inline-block px-2 py-0.5 rounded text-[10px] font-bold uppercase tracking-wider mb-1.5 ${BADGE_STYLES[badgeType]}`}>
+          <span className={`inline-block px-2 py-0.5 rounded text-[9px] md:text-[10px] font-bold uppercase tracking-wider mb-1 md:mb-1.5 ${BADGE_STYLES[badgeType]}`}>
             {badgeLabel}
           </span>
         )}
-        <h3 className="text-base font-semibold text-white group-hover:text-gold transition-colors duration-300 leading-snug line-clamp-1">
+        <h3 className="text-sm md:text-base font-semibold text-white group-hover:text-gold transition-colors duration-300 leading-snug line-clamp-1">
           {locale === "ko" ? title.ko : title.en}
         </h3>
-        <p className="text-sm text-slate-500 line-clamp-1 mt-1 leading-relaxed">
+        <p className="text-xs md:text-sm text-slate-500 line-clamp-1 mt-0.5 md:mt-1 leading-relaxed">
           {locale === "ko" ? excerpt.ko : excerpt.en}
         </p>
       </div>
