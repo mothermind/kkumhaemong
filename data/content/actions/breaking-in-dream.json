@@ -4,7 +4,7 @@
   "generatedAt": "2026-03-12T00:00:00.000Z",
   "ko": {
     "title": "침입하는 꿈 해몽 - 침입자 꿈의 의미와 길흉 완벽 정리",
-    "metaDescription": "침입하는 꿈 해몽을 완벽 정리했어요. 내가 침입자가 되는 꿈, 모르는 사람이 집에 침입하는 꿈, 침입자를 잡는 꿈까지 길몽·흉몽 구분과 심리적 의미를 전문가 관점에서 해석해 드려요.",
+    "metaDescription": "침입하는 꿈 해몽 완벽 정리. 내가 직접 침입자가 되는 꿈, 모르는 사람이 집에 침입하는 꿈, 침입자를 직접 잡거나 쫓아내는 꿈까지 길몽·흉몽 구분과 심리적 의미를 전문가 관점에서 해석합니다 심리학적 원인과 대처법까지 풀어드립니다.",
     "h1": "침입하는 꿈 해몽 — 침입자 꿈의 길흉과 심리적 의미",
     "intro": "침입하는 꿈, 단순히 무서운 꿈으로 넘길 수 없어요. 한국 민간 해몽 전통에서 도둑이나 침입자가 등장하는 꿈은 '근심이 도둑처럼 빠져나간다'는 역설적 길몽으로 해석된 경우가 적지 않거든요. 그런데 한 가지— 꿈속에서 당신이 침입자였나요, 아니면 피해자였나요? 그 한 가지 차이가 해석을 완전히 뒤집어 놓아요.",
     "sections": [
@@ -110,7 +110,7 @@
   },
   "en": {
     "title": "Breaking-In Dream Meaning - Complete Intruder Dream Interpretation Guide",
-    "metaDescription": "What does it mean to dream of breaking into a place or having an intruder in your home? Complete Korean and Western psychological interpretation — auspicious vs. inauspicious, variations, and FAQs.",
+    "metaDescription": "Dream of breaking into a place or having an intruder? Complete Korean and Western interpretation — auspicious vs. inauspicious, all key variations explained.",
     "h1": "Breaking-In Dream Meaning — Intruder Dreams Interpreted (Korean + Western)",
     "intro": "Dreaming about breaking into a place — or having someone break in — cuts deeper than a simple nightmare. In Korean folk dream tradition, intruder and thief dreams carry a striking paradox: a thief stealing from you can actually signal good fortune, while an intruder threatening your family is among the most serious inauspicious omens. The single question that determines everything: were you the intruder, or the one invaded?",
     "sections": [
@@ -320,7 +320,13 @@
         "길몽흉몽",
         "꿈풀이"
       ]
-    }
+    },
+    "relatedSlugs": [
+      "stealing-dream",
+      "being-chased",
+      "fighting",
+      "arrested-dream"
+    ]
   },
   "images": {
     "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/breaking-in-dream/hero.webp",
@@ -328,11 +334,5 @@
       "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/breaking-in-dream/auspicious.webp",
       "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/breaking-in-dream/inauspicious.webp"
     }
-  },
-  "relatedDreams": [
-    "stealing-dream",
-    "being-chased",
-    "fighting",
-    "arrested-dream"
-  ]
+  }
 }

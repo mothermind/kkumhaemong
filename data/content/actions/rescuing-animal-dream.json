@@ -4,7 +4,7 @@
   "generatedAt": "2026-03-12T00:00:00.000Z",
   "ko": {
     "title": "동물을 구하는 꿈 해몽 - 의미와 길흉 완벽 정리",
-    "metaDescription": "동물을 구하는 꿈 해몽 완벽 정리. 강아지·고양이·새 구하는 꿈부터 물에 빠진 동물 구하는 꿈까지 길몽·흉몽 의미와 재물운·귀인 암시를 상세히 풀어드립니다.",
+    "metaDescription": "동물을 구하는 꿈 해몽 완벽 정리. 강아지·고양이·새 구하는 꿈부터 물에 빠진 동물 구하는 꿈까지 길몽·흉몽 의미와 재물운·귀인 암시를 상세히 풀어드립니다. 직장운·인간관계 암시도 확인. 전통 꿈해몽과 심리 총정리.",
     "h1": "동물을 구하는 꿈 해몽",
     "intro": "동물을 구하는 꿈은 강한 길몽이에요 — 덕을 쌓아 복이 돌아오는 '방생(放生)'의 상징이 꿈속에서 실현된 것이거든요. 한국 민간신앙에서 동물은 단순한 짐승이 아니라 전생의 인연으로 연결된 영적 존재였어요. 그런데 한 가지 — 구출이 성공했느냐, 실패했느냐에 따라 꿈의 메시지가 완전히 달라진다는 거, 알고 계셨나요?",
     "sections": [
@@ -279,7 +279,14 @@
         "재물운",
         "귀인 꿈"
       ]
-    }
+    },
+    "relatedSlugs": [
+      "feeding-animal-dream",
+      "saving-someone-dream",
+      "chased-by-animal-dream",
+      "animal-bite-dream",
+      "bird-dream"
+    ]
   },
   "images": {
     "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/rescuing-animal-dream/hero.webp",
@@ -287,12 +294,5 @@
       "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/rescuing-animal-dream/auspicious.webp",
       "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/rescuing-animal-dream/inauspicious.webp"
     }
-  },
-  "relatedDreams": [
-    "feeding-animal-dream",
-    "saving-someone-dream",
-    "chased-by-animal-dream",
-    "animal-bite-dream",
-    "bird-dream"
-  ]
+  }
 }

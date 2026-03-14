@@ -4,7 +4,7 @@
   "generatedAt": "2026-03-12T00:00:00.000Z",
   "ko": {
     "title": "자물쇠 여는 꿈해몽 - 재물운과 기회의 문이 열리는 완벽 정리",
-    "metaDescription": "자물쇠 여는 꿈해몽 완벽 분석. 열쇠로 자물쇠 여는 꿈, 금고 여는 꿈, 자물쇠 풀리는 꿈의 길몽·흉몽 의미와 재물운·승진운 총정리.",
+    "metaDescription": "자물쇠를 여는 꿈 해몽을 상황별로 완벽하게 분석했습니다. 잠긴 문을 여는 꿈·열쇠를 찾는 꿈·자물쇠가 열리지 않는 꿈의 의미와 재물운·승진운과의 연관성 및 심리학적 해석까지 꿈해몽 전문가가 아주 상세하게 풀어드립니다.",
     "h1": "자물쇠 여는 꿈해몽 — 막혔던 운이 마침내 열리는 신호",
     "intro": "자물쇠가 '딸깍' 하고 열리는 순간 — 그 꿈을 꾼 아침, 기분 좋게 눈이 떠지셨다면 그건 우연이 아닙니다. 예로부터 한국 꿈해몽에서 자물쇠를 여는 꿈은 막혔던 재물운과 관직운이 활짝 열리는 대표적인 길몽으로 꼽혀 왔어요. 그런데 한 가지 — 열쇠가 있었는지, 자물쇠가 황금이었는지, 아니면 녹슬어 있었는지에 따라 해석이 꽤 달라진다는 것도 알아두셔야 합니다.",
     "sections": [
@@ -100,7 +100,7 @@
   },
   "en": {
     "title": "Unlocking Dream Meaning — What It Means When You Unlock Something in a Dream",
-    "metaDescription": "Dreaming of unlocking a lock? Discover the full Korean and psychological meaning — from financial luck and promotions to hidden truths and blocked paths opening up.",
+    "metaDescription": "Dreaming of unlocking a lock? Full Korean dream interpretation — financial luck, promotions, blocked paths opening, and psychological meaning.",
     "h1": "Unlocking Dream Meaning — When Blocked Fortune Finally Opens",
     "intro": "That satisfying click as the lock gives way — if you woke from that dream feeling inexplicably hopeful, your instincts were right. In Korean dream interpretation, unlocking a lock is one of the most celebrated auspicious signs: a direct signal that stalled fortune, blocked career paths, and long-awaited opportunities are finally opening up. There's one thing to keep in mind, though — whether you had the key, what the lock was made of, and whether it actually opened all shift the meaning considerably.",
     "sections": [
@@ -302,7 +302,13 @@
         "승진 꿈",
         "꿈해몽"
       ]
-    }
+    },
+    "relatedSlugs": [
+      "opening-door-dream",
+      "finding-key-dream",
+      "treasure-dream",
+      "finding-something-dream"
+    ]
   },
   "images": {
     "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/unlocking-dream/hero.webp",
@@ -310,11 +316,5 @@
       "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/unlocking-dream/auspicious.webp",
       "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/unlocking-dream/inauspicious.webp"
     }
-  },
-  "relatedDreams": [
-    "opening-door-dream",
-    "finding-key-dream",
-    "treasure-dream",
-    "finding-something-dream"
-  ]
+  }
 }

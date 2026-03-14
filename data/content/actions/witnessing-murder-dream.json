@@ -4,7 +4,7 @@
   "generatedAt": "2026-03-12T00:00:00.000Z",
   "ko": {
     "title": "살인을 목격하는 꿈 해몽 - 길몽일까 흉몽일까? 완벽 정리",
-    "metaDescription": "살인을 목격하는 꿈, 사실 전통적으로 길몽입니다. 살인 현장·살인자·가족 살해 꿈의 의미와 심리적 해석까지 완벽하게 정리했습니다.",
+    "metaDescription": "살인을 목격하는 꿈 해몽을 상황별로 완벽 분석했습니다. 살인 장면을 보는 꿈·피가 나는 꿈·신고하지 못하는 꿈의 의미와 길몽·흉몽 구분, 억압된 감정에 관한 심리학적 해석까지 꿈해몽 전문가가 아주 상세하게 풀어드립니다.",
     "h1": "살인을 목격하는 꿈 해몽",
     "intro": "살인을 목격하는 꿈을 꾸고 나서 하루 종일 찜찜하셨나요? 사실 전통 해몽에서 이 꿈은 뜻밖에도 길몽입니다—하는 일이 술술 풀리고 좋은 성과가 따라올 것을 예고하는 상서로운 신호예요. 조선 시대 해몽서에서도 죽음과 피의 꿈은 재물운과 출세를 암시하는 징조로 기록되어 있을 만큼, 꿈 속 죽음은 현실의 죽음이 아닌 '장애물의 소멸'을 뜻합니다. 그런데 한 가지—꿈 속에서 어떤 감정을 느꼈느냐에 따라 해석이 정반대로 갈릴 수 있어요.",
     "sections": [
@@ -90,7 +90,7 @@
   },
   "en": {
     "title": "Witnessing a Murder Dream Meaning - Korean Interpretation & Psychology",
-    "metaDescription": "Dreaming of witnessing a murder is traditionally auspicious in Korean culture. Explore meanings for murder scene, family murder, and emotional variants — plus Freudian and Jungian analysis.",
+    "metaDescription": "Dreaming of witnessing a murder? Full Korean interpretation — suppressed emotion, auspicious and inauspicious signs, and psychological meaning.",
     "h1": "Witnessing a Murder Dream Meaning",
     "intro": "Waking up disturbed after dreaming of witnessing a murder is completely understandable — but here's the counterintuitive truth: in Korean traditional dream interpretation, this dream is considered a good omen. It signals that your ongoing endeavors will proceed smoothly, obstacles will clear, and success will follow. Joseon Dynasty dream texts recorded death and blood dreams as auspicious signs of wealth and advancement, because death in a dream symbolizes the removal of barriers rather than literal loss. That said, one factor determines whether this is truly auspicious — the emotion you felt while watching.",
     "sections": [
@@ -273,7 +273,14 @@
         "흉몽길몽",
         "꿈심리"
       ]
-    }
+    },
+    "relatedSlugs": [
+      "killing-someone-dream",
+      "being-shot-dream",
+      "being-chased-dream",
+      "death-dream",
+      "blood-dream"
+    ]
   },
   "images": {
     "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/witnessing-murder-dream/hero.webp",
@@ -281,12 +288,5 @@
       "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/witnessing-murder-dream/auspicious.webp",
       "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/witnessing-murder-dream/inauspicious.webp"
     }
-  },
-  "relatedDreams": [
-    "killing-someone-dream",
-    "being-shot-dream",
-    "being-chased-dream",
-    "death-dream",
-    "blood-dream"
-  ]
+  }
 }

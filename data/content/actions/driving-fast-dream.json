@@ -4,7 +4,7 @@
   "generatedAt": "2026-03-12T00:00:00.000Z",
   "ko": {
     "title": "과속하는 꿈 해몽 - 길몽과 흉몽의 결정적 차이 완벽 정리",
-    "metaDescription": "과속하는 꿈은 강한 추진력의 길몽일 수도, 통제 불능의 흉몽일 수도 있습니다. 브레이크 고장, 단속, 사고 등 상황별 해몽과 심리적 의미를 전문가가 정리했습니다.",
+    "metaDescription": "과속하는 꿈은 강한 추진력의 길몽일 수도, 통제 불능의 흉몽일 수도 있습니다. 브레이크 고장·경찰 단속·충돌 사고·레이싱·급정거 꿈 등 상황별 해몽과 재물운·직업운·건강운, 심리학적 의미를 전문가가 완벽 정리했습니다.",
     "h1": "과속하는 꿈 해몽 — 속도가 전하는 길몽과 흉몽의 신호",
     "intro": "과속하는 꿈은 강한 야망과 추진력이 활활 타오르는 시기에 나타납니다. 한국 전통 해몽에서 막힘없이 질주하는 꿈은 기회의 도래를 예고하는 길몽으로 읽혔고, 그 뿌리는 통제된 속도와 방향이 뚜렷한 경주마의 이미지에서 비롯됐습니다. 그런데 한 가지— 브레이크가 듣지 않거나 단속에 걸린다면 이야기가 180도 달라집니다.",
     "sections": [
@@ -100,7 +100,7 @@
   },
   "en": {
     "title": "Driving Fast Dream Meaning — When Speed Signals Fortune or Warning",
-    "metaDescription": "Dreaming of driving fast? It can mean surging momentum or dangerous loss of control. Explore all scenarios — brake failure, police stops, crashes, racing — and what each one really signals.",
+    "metaDescription": "Dreaming of driving fast? It signals surging momentum or loss of control. Brake failure, police stops, crashes, and racing — what each scenario means.",
     "h1": "Driving Fast Dream Meaning — Decoding Speed's Fortune and Warning",
     "intro": "A dream where you're driving fast cuts straight to something real: the engine of your ambition is running hot. In Korean dream tradition, smooth high-speed driving on an open road has long been read as a herald of opportunity — rooted in the image of a racehorse charging forward with purpose and power. But here's the turn — the moment the brakes stop working, or red and blue lights appear in the mirror, that same dream becomes one of the sharpest warnings your subconscious can deliver.",
     "sections": [
@@ -298,7 +298,15 @@
         "길몽",
         "흉몽"
       ]
-    }
+    },
+    "relatedSlugs": [
+      "driving-reverse-dream",
+      "braking-dream",
+      "running-dream",
+      "car-accident-dream",
+      "flying-dream",
+      "racing-dream"
+    ]
   },
   "images": {
     "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/driving-fast-dream/hero.webp",
@@ -306,13 +314,5 @@
       "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/driving-fast-dream/auspicious.webp",
       "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/driving-fast-dream/inauspicious.webp"
     }
-  },
-  "relatedDreams": [
-    "driving-reverse-dream",
-    "braking-dream",
-    "running-dream",
-    "car-accident-dream",
-    "flying-dream",
-    "racing-dream"
-  ]
+  }
 }

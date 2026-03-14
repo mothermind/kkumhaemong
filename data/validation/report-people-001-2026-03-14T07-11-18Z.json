@@ -1,0 +1,422 @@
+{
+  "generatedAt": "2026-03-14T07:11:18Z",
+  "category": "people",
+  "summary": {
+    "total": 10,
+    "changed": 10,
+    "flagged": 10,
+    "skipped": 0,
+    "jsonValid": 10
+  },
+  "changed": [
+    {
+      "slug": "ex-lover-dream",
+      "file": "data/content/people/ex-lover-dream.json",
+      "fixes": [
+        {
+          "field": "ko.sections[*].content → ko.sections[*].body",
+          "description": "Renamed 'content' key to 'body' in all 4 ko.sections entries",
+          "count": 4
+        },
+        {
+          "field": "en.sections[*].content → en.sections[*].body",
+          "description": "Renamed 'content' key to 'body' in all 4 en.sections entries",
+          "count": 4
+        },
+        {
+          "field": "ko.variations[*].content → ko.variations[*].body",
+          "description": "Renamed 'content' key to 'body' in all 10 ko.variations entries",
+          "count": 10
+        },
+        {
+          "field": "en.variations[*].content → en.variations[*].body",
+          "description": "Renamed 'content' key to 'body' in all 10 en.variations entries",
+          "count": 10
+        }
+      ],
+      "postFixValidation": "VALID"
+    },
+    {
+      "slug": "crush-dream",
+      "file": "data/content/people/crush-dream.json",
+      "fixes": [
+        {
+          "field": "ko.sections[*].content → ko.sections[*].body",
+          "description": "Renamed 'content' key to 'body' in all 4 ko.sections entries",
+          "count": 4
+        },
+        {
+          "field": "en.sections[*].content → en.sections[*].body",
+          "description": "Renamed 'content' key to 'body' in all 4 en.sections entries",
+          "count": 4
+        },
+        {
+          "field": "ko.variations[*].content → ko.variations[*].body",
+          "description": "Renamed 'content' key to 'body' in all 10 ko.variations entries",
+          "count": 10
+        },
+        {
+          "field": "en.variations[*].content → en.variations[*].body",
+          "description": "Renamed 'content' key to 'body' in all 10 en.variations entries",
+          "count": 10
+        }
+      ],
+      "postFixValidation": "VALID"
+    },
+    {
+      "slug": "deceased-parents-dream",
+      "file": "data/content/people/deceased-parents-dream.json",
+      "fixes": [
+        {
+          "field": "ko.sections[*].content → ko.sections[*].body",
+          "description": "Renamed 'content' key to 'body' in all ko.sections entries",
+          "count": 4
+        },
+        {
+          "field": "en.sections[*].content → en.sections[*].body",
+          "description": "Renamed 'content' key to 'body' in all en.sections entries",
+          "count": 4
+        },
+        {
+          "field": "ko.variations[*].content → ko.variations[*].body",
+          "description": "Renamed 'content' key to 'body' in all ko.variations entries",
+          "count": 10
+        },
+        {
+          "field": "en.variations[*].content → en.variations[*].body",
+          "description": "Renamed 'content' key to 'body' in all en.variations entries",
+          "count": 10
+        }
+      ],
+      "postFixValidation": "VALID"
+    },
+    {
+      "slug": "mother-dream",
+      "file": "data/content/people/mother-dream.json",
+      "fixes": [
+        {
+          "field": "ko.sections[*].content → ko.sections[*].body",
+          "description": "Renamed 'content' key to 'body' in all ko.sections entries",
+          "count": 4
+        },
+        {
+          "field": "en.sections[*].content → en.sections[*].body",
+          "description": "Renamed 'content' key to 'body' in all en.sections entries",
+          "count": 4
+        },
+        {
+          "field": "ko.variations[*].content → ko.variations[*].body",
+          "description": "Renamed 'content' key to 'body' in all ko.variations entries",
+          "count": 10
+        },
+        {
+          "field": "en.variations[*].content → en.variations[*].body",
+          "description": "Renamed 'content' key to 'body' in all en.variations entries",
+          "count": 10
+        }
+      ],
+      "postFixValidation": "VALID"
+    },
+    {
+      "slug": "baby-dream",
+      "file": "data/content/people/baby-dream.json",
+      "fixes": [
+        {
+          "field": "ko.sections[*].content → ko.sections[*].body",
+          "description": "Renamed 'content' key to 'body' in all ko.sections entries",
+          "count": 4
+        },
+        {
+          "field": "en.sections[*].content → en.sections[*].body",
+          "description": "Renamed 'content' key to 'body' in all en.sections entries",
+          "count": 4
+        },
+        {
+          "field": "ko.variations[*].content → ko.variations[*].body",
+          "description": "Renamed 'content' key to 'body' in all ko.variations entries",
+          "count": 10
+        },
+        {
+          "field": "en.variations[*].content → en.variations[*].body",
+          "description": "Renamed 'content' key to 'body' in all en.variations entries",
+          "count": 10
+        }
+      ],
+      "postFixValidation": "VALID"
+    },
+    {
+      "slug": "celebrity-dream",
+      "file": "data/content/people/celebrity-dream.json",
+      "fixes": [
+        {
+          "field": "ko.sections[*].content → ko.sections[*].body",
+          "description": "Renamed 'content' key to 'body' in all ko.sections entries",
+          "count": 4
+        },
+        {
+          "field": "en.sections[*].content → en.sections[*].body",
+          "description": "Renamed 'content' key to 'body' in all en.sections entries",
+          "count": 4
+        },
+        {
+          "field": "ko.variations[*].content → ko.variations[*].body",
+          "description": "Renamed 'content' key to 'body' in all ko.variations entries",
+          "count": 10
+        },
+        {
+          "field": "en.variations[*].content → en.variations[*].body",
+          "description": "Renamed 'content' key to 'body' in all en.variations entries",
+          "count": 10
+        }
+      ],
+      "postFixValidation": "VALID"
+    },
+    {
+      "slug": "dead-person-dream",
+      "file": "data/content/people/dead-person-dream.json",
+      "fixes": [
+        {
+          "field": "ko.sections[*].content → ko.sections[*].body",
+          "description": "Renamed 'content' key to 'body' in all ko.sections entries",
+          "count": 4
+        },
+        {
+          "field": "en.sections[*].content → en.sections[*].body",
+          "description": "Renamed 'content' key to 'body' in all en.sections entries",
+          "count": 4
+        },
+        {
+          "field": "ko.variations[*].content → ko.variations[*].body",
+          "description": "Renamed 'content' key to 'body' in all ko.variations entries",
+          "count": 10
+        },
+        {
+          "field": "en.variations[*].content → en.variations[*].body",
+          "description": "Renamed 'content' key to 'body' in all en.variations entries",
+          "count": 10
+        }
+      ],
+      "postFixValidation": "VALID"
+    },
+    {
+      "slug": "deceased-father-dream",
+      "file": "data/content/people/deceased-father-dream.json",
+      "fixes": [
+        {
+          "field": "ko.sections[*].content → ko.sections[*].body",
+          "description": "Renamed 'content' key to 'body' in all ko.sections entries",
+          "count": 4
+        },
+        {
+          "field": "en.sections[*].content → en.sections[*].body",
+          "description": "Renamed 'content' key to 'body' in all en.sections entries",
+          "count": 4
+        },
+        {
+          "field": "ko.variations[*].content → ko.variations[*].body",
+          "description": "Renamed 'content' key to 'body' in all ko.variations entries",
+          "count": 10
+        },
+        {
+          "field": "en.variations[*].content → en.variations[*].body",
+          "description": "Renamed 'content' key to 'body' in all en.variations entries",
+          "count": 10
+        }
+      ],
+      "postFixValidation": "VALID"
+    },
+    {
+      "slug": "deceased-grandparents-dream",
+      "file": "data/content/people/deceased-grandparents-dream.json",
+      "fixes": [
+        {
+          "field": "ko.sections[*].content → ko.sections[*].body",
+          "description": "Renamed 'content' key to 'body' in all ko.sections entries",
+          "count": 4
+        },
+        {
+          "field": "en.sections[*].content → en.sections[*].body",
+          "description": "Renamed 'content' key to 'body' in all en.sections entries",
+          "count": 4
+        },
+        {
+          "field": "ko.variations[*].content → ko.variations[*].body",
+          "description": "Renamed 'content' key to 'body' in all ko.variations entries",
+          "count": 10
+        },
+        {
+          "field": "en.variations[*].content → en.variations[*].body",
+          "description": "Renamed 'content' key to 'body' in all en.variations entries",
+          "count": 10
+        }
+      ],
+      "postFixValidation": "VALID"
+    },
+    {
+      "slug": "deceased-mother-dream",
+      "file": "data/content/people/deceased-mother-dream.json",
+      "fixes": [
+        {
+          "field": "ko.sections[*].content → ko.sections[*].body",
+          "description": "Renamed 'content' key to 'body' in all ko.sections entries",
+          "count": 4
+        },
+        {
+          "field": "en.sections[*].content → en.sections[*].body",
+          "description": "Renamed 'content' key to 'body' in all en.sections entries",
+          "count": 4
+        },
+        {
+          "field": "ko.variations[*].content → ko.variations[*].body",
+          "description": "Renamed 'content' key to 'body' in all ko.variations entries",
+          "count": 10
+        },
+        {
+          "field": "en.variations[*].content → en.variations[*].body",
+          "description": "Renamed 'content' key to 'body' in all en.variations entries",
+          "count": 10
+        }
+      ],
+      "postFixValidation": "VALID"
+    }
+  ],
+  "flagged": [
+    {
+      "slug": "ex-lover-dream",
+      "file": "data/content/people/ex-lover-dream.json",
+      "issues": [
+        {
+          "field": "relatedDreams",
+          "severity": "schema",
+          "description": "'relatedDreams' array exists at root level. Should be 'seo.relatedSlugs' inside the seo object. Values: [\"lover-dream\", \"kissing-dream\", \"breakup-dream\", \"reunion-dream\", \"wedding-dream\", \"phone-call-dream\"]",
+          "action": "manual-fix-required"
+        }
+      ]
+    },
+    {
+      "slug": "crush-dream",
+      "file": "data/content/people/crush-dream.json",
+      "issues": [
+        {
+          "field": "relatedDreams",
+          "severity": "schema",
+          "description": "'relatedDreams' array exists at root level. Should be 'seo.relatedSlugs' inside the seo object. Values: [\"confession-dream\", \"kiss-dream\", \"ex-lover-dream\", \"holding-hands-dream\", \"date-dream\", \"wedding-dream\"]",
+          "action": "manual-fix-required"
+        }
+      ]
+    },
+    {
+      "slug": "deceased-parents-dream",
+      "file": "data/content/people/deceased-parents-dream.json",
+      "issues": [
+        {
+          "field": "relatedDreams",
+          "severity": "schema",
+          "description": "'relatedDreams' array exists at root level. Should be 'seo.relatedSlugs' inside the seo object.",
+          "action": "manual-fix-required"
+        }
+      ]
+    },
+    {
+      "slug": "mother-dream",
+      "file": "data/content/people/mother-dream.json",
+      "issues": [
+        {
+          "field": "relatedDreams",
+          "severity": "schema",
+          "description": "'relatedDreams' array exists at root level. Should be 'seo.relatedSlugs' inside the seo object.",
+          "action": "manual-fix-required"
+        }
+      ]
+    },
+    {
+      "slug": "baby-dream",
+      "file": "data/content/people/baby-dream.json",
+      "issues": [
+        {
+          "field": "relatedDreams",
+          "severity": "schema",
+          "description": "'relatedDreams' array exists at root level. Should be 'seo.relatedSlugs' inside the seo object.",
+          "action": "manual-fix-required"
+        }
+      ]
+    },
+    {
+      "slug": "celebrity-dream",
+      "file": "data/content/people/celebrity-dream.json",
+      "issues": [
+        {
+          "field": "relatedDreams",
+          "severity": "schema",
+          "description": "'relatedDreams' array exists at root level. Should be 'seo.relatedSlugs' inside the seo object.",
+          "action": "manual-fix-required"
+        }
+      ]
+    },
+    {
+      "slug": "dead-person-dream",
+      "file": "data/content/people/dead-person-dream.json",
+      "issues": [
+        {
+          "field": "relatedDreams",
+          "severity": "schema",
+          "description": "'relatedDreams' array exists at root level. Should be 'seo.relatedSlugs' inside the seo object.",
+          "action": "manual-fix-required"
+        }
+      ]
+    },
+    {
+      "slug": "deceased-father-dream",
+      "file": "data/content/people/deceased-father-dream.json",
+      "issues": [
+        {
+          "field": "relatedDreams",
+          "severity": "schema",
+          "description": "'relatedDreams' array exists at root level. Should be 'seo.relatedSlugs' inside the seo object.",
+          "action": "manual-fix-required"
+        }
+      ]
+    },
+    {
+      "slug": "deceased-grandparents-dream",
+      "file": "data/content/people/deceased-grandparents-dream.json",
+      "issues": [
+        {
+          "field": "relatedDreams",
+          "severity": "schema",
+          "description": "'relatedDreams' array exists at root level. Should be 'seo.relatedSlugs' inside the seo object.",
+          "action": "manual-fix-required"
+        }
+      ]
+    },
+    {
+      "slug": "deceased-mother-dream",
+      "file": "data/content/people/deceased-mother-dream.json",
+      "issues": [
+        {
+          "field": "relatedDreams",
+          "severity": "schema",
+          "description": "'relatedDreams' array exists at root level. Should be 'seo.relatedSlugs' inside the seo object.",
+          "action": "manual-fix-required"
+        }
+      ]
+    }
+  ],
+  "skipped": [],
+  "passedChecks": {
+    "jsonIntegrity": "All 10 files parse as valid JSON",
+    "koProse": "All files use appropriate 해요체/합니다체 Korean formal register",
+    "koMetaDescription": "All 10 files within 80–110 character target (range: 80–91)",
+    "enMetaDescription": "All 10 files within 120–160 character target (range: 142–160)",
+    "faqs": "All 10 files have ≥5 FAQ entries in both ko and en",
+    "imagesHero": "All 10 files have non-empty images.hero (Firebase Storage URLs)",
+    "sectionTypeFlags": "No section type fields using Korean strings found — not applicable",
+    "schemaCompleteness": "All required fields present: title, metaDescription, h1, intro, sections, variations, faqs, conclusion, culturalContext in both ko and en"
+  },
+  "notes": [
+    "Primary fix applied to all 10 files: 'content' key renamed to 'body' in ko.sections, en.sections, ko.variations, en.variations — all entries across all files",
+    "relatedDreams at root level is flagged across all 10 files — this is a systemic content generation issue affecting the entire people category. Recommend migrating relatedDreams values to seo.relatedSlugs and removing the root-level key across all affected files",
+    "metaDescription lengths were within compliance bounds after accurate character counting — no edits required to metaDescription fields",
+    "No section type field issues detected — sections do not use a 'type' field at all in this category"
+  ]
+}

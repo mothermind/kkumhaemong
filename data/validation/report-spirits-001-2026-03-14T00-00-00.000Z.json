@@ -1,0 +1,224 @@
+{
+  "generatedAt": "2026-03-14T00:00:00.000Z",
+  "summary": {
+    "filesScanned": 10,
+    "filesChanged": 1,
+    "issuesFlagged": 21,
+    "filesSkipped": 0
+  },
+  "changed": [
+    {
+      "slug": "god-dream",
+      "category": "spirits",
+      "filePath": "data/content/spirits/god-dream.json",
+      "fixes": [
+        {
+          "field": "en.metaDescription",
+          "issue": "too long (163 chars; max is 160)",
+          "action": "trimmed to 154 chars by removing ' meanings' suffix: 'Dreamed of a god or divine spirit? Korean interpretation: mountain god, divine gifts, scolding deities, shamanic possession — auspicious and inauspicious.'"
+        }
+      ]
+    }
+  ],
+  "flagged": [
+    {
+      "slug": "angel-dream",
+      "category": "spirits",
+      "flags": [
+        {
+          "field": "ko.sections[*] and en.sections[*]",
+          "issue": "All sections use 'content' key instead of required 'body' key"
+        },
+        {
+          "field": "ko.variations[*] and en.variations[*]",
+          "issue": "All variations use 'content' key instead of required 'body' key"
+        },
+        {
+          "field": "relatedDreams",
+          "issue": "'relatedDreams' key exists at root level instead of inside seo as 'relatedSlugs'"
+        }
+      ]
+    },
+    {
+      "slug": "buddha-dream",
+      "category": "spirits",
+      "flags": [
+        {
+          "field": "ko.sections[*] and en.sections[*]",
+          "issue": "All sections use 'content' key instead of required 'body' key"
+        },
+        {
+          "field": "ko.variations[*] and en.variations[*]",
+          "issue": "All variations use 'content' key instead of required 'body' key"
+        },
+        {
+          "field": "relatedDreams",
+          "issue": "'relatedDreams' key exists at root level instead of inside seo as 'relatedSlugs'"
+        }
+      ]
+    },
+    {
+      "slug": "chased-by-ghost-dream",
+      "category": "spirits",
+      "flags": [
+        {
+          "field": "ko.sections[*] and en.sections[*]",
+          "issue": "All sections use 'content' key instead of required 'body' key"
+        },
+        {
+          "field": "ko.variations[*] and en.variations[*]",
+          "issue": "All variations use 'content' key instead of required 'body' key"
+        },
+        {
+          "field": "relatedDreams",
+          "issue": "'relatedDreams' key exists at root level instead of inside seo as 'relatedSlugs'"
+        }
+      ]
+    },
+    {
+      "slug": "female-ghost-dream",
+      "category": "spirits",
+      "flags": [
+        {
+          "field": "ko.sections[*] and en.sections[*]",
+          "issue": "All sections use 'content' key instead of required 'body' key"
+        },
+        {
+          "field": "ko.variations[*] and en.variations[*]",
+          "issue": "All variations use 'content' key instead of required 'body' key"
+        },
+        {
+          "field": "relatedDreams",
+          "issue": "'relatedDreams' key exists at root level instead of inside seo as 'relatedSlugs'"
+        }
+      ]
+    },
+    {
+      "slug": "ghost-dream",
+      "category": "spirits",
+      "flags": [
+        {
+          "field": "ko.sections[*] and en.sections[*]",
+          "issue": "All sections use 'content' key instead of required 'body' key"
+        },
+        {
+          "field": "ko.variations[*] and en.variations[*]",
+          "issue": "All variations use 'content' key instead of required 'body' key"
+        },
+        {
+          "field": "relatedDreams",
+          "issue": "'relatedDreams' key exists at root level instead of inside seo as 'relatedSlugs'"
+        }
+      ]
+    },
+    {
+      "slug": "god-dream",
+      "category": "spirits",
+      "flags": [
+        {
+          "field": "ko.sections[*] and en.sections[*]",
+          "issue": "All sections use 'content' key instead of required 'body' key"
+        },
+        {
+          "field": "ko.variations[*] and en.variations[*]",
+          "issue": "All variations use 'content' key instead of required 'body' key"
+        },
+        {
+          "field": "relatedDreams",
+          "issue": "'relatedDreams' key exists at root level instead of inside seo as 'relatedSlugs'"
+        }
+      ]
+    },
+    {
+      "slug": "haunted-house-dream",
+      "category": "spirits",
+      "flags": [
+        {
+          "field": "ko.sections[*] and en.sections[*]",
+          "issue": "All sections use 'content' key instead of required 'body' key"
+        },
+        {
+          "field": "ko.variations[*] and en.variations[*]",
+          "issue": "All variations use 'content' key instead of required 'body' key"
+        },
+        {
+          "field": "relatedDreams",
+          "issue": "'relatedDreams' key exists at root level instead of inside seo as 'relatedSlugs'"
+        }
+      ]
+    },
+    {
+      "slug": "jesus-dream",
+      "category": "spirits",
+      "flags": [
+        {
+          "field": "ko.sections[*] and en.sections[*]",
+          "issue": "All sections use 'content' key instead of required 'body' key"
+        },
+        {
+          "field": "ko.variations[*] and en.variations[*]",
+          "issue": "All variations use 'content' key instead of required 'body' key"
+        },
+        {
+          "field": "relatedDreams",
+          "issue": "'relatedDreams' key exists at root level instead of inside seo as 'relatedSlugs'"
+        }
+      ]
+    },
+    {
+      "slug": "seeing-ghost-dream",
+      "category": "spirits",
+      "flags": [
+        {
+          "field": "ko.sections[*] and en.sections[*]",
+          "issue": "All sections use 'content' key instead of required 'body' key"
+        },
+        {
+          "field": "ko.variations[*] and en.variations[*]",
+          "issue": "All variations use 'content' key instead of required 'body' key"
+        },
+        {
+          "field": "relatedDreams",
+          "issue": "'relatedDreams' key exists at root level instead of inside seo as 'relatedSlugs'"
+        }
+      ]
+    },
+    {
+      "slug": "spirit-dream",
+      "category": "spirits",
+      "flags": [
+        {
+          "field": "ko.sections[*] and en.sections[*]",
+          "issue": "All sections use 'content' key instead of required 'body' key"
+        },
+        {
+          "field": "ko.variations[*] and en.variations[*]",
+          "issue": "All variations use 'content' key instead of required 'body' key"
+        },
+        {
+          "field": "relatedDreams",
+          "issue": "'relatedDreams' key exists at root level instead of inside seo as 'relatedSlugs'"
+        },
+        {
+          "field": "relatedDreams",
+          "issue": "relatedDreams array is empty — no related slugs provided"
+        }
+      ]
+    }
+  ],
+  "skipped": [],
+  "notes": {
+    "ko_metaDescription_target": "80-110 chars — all files within range",
+    "en_metaDescription_target": "120-160 chars — 9/10 within range, god-dream fixed (163→154)",
+    "ko_faqs_min": "5 required — all files have exactly 6, compliant",
+    "en_faqs_min": "5 required — all files have exactly 6, compliant",
+    "json_validity": "All 10 files valid JSON before and after edits",
+    "content_vs_body_key": "All 10 files use 'content' key in sections and variations instead of 'body'. This appears to be a site-wide schema pattern. Flagged on all files; schema migration required to rename 'content' → 'body' across all content files.",
+    "relatedDreams_vs_relatedSlugs": "All 10 files have 'relatedDreams' at the root level rather than 'relatedSlugs' inside seo. Flagged on all files; migration needed to move this array into seo.relatedSlugs.",
+    "section_types": "No sections were found using Korean type strings ('길몽', '흉몽', '중립') — sections use only 'heading' and 'content' keys with no 'type' field at all.",
+    "images_hero": "All 10 files have non-empty images.hero Firebase Storage URLs — no warnings needed.",
+    "tone_assessment": "All ko fields use appropriate 해요체/합니다체 tone. Intros all contain strong hooks with immediate interpretation. English intros all explain Korean cultural context effectively. No prose rewrites required.",
+    "grammar": "No spelling or grammar issues detected in English fields.",
+    "missing_fields": "No required fields (title, metaDescription, h1, intro, conclusion, culturalContext) are missing in any file."
+  }
+}

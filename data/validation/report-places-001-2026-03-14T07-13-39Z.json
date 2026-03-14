@@ -1,0 +1,210 @@
+{
+  "generatedAt": "2026-03-14T07:13:39.334462+00:00",
+  "batch": "places-001",
+  "validator": "content-validator-agent",
+  "category": "places",
+  "rules": {
+    "koMetaDescription": "80–110 characters",
+    "enMetaDescription": "120–160 characters",
+    "sections": "Must use 'body' key (not 'content')",
+    "relatedDreams": "Must be inside seo.relatedSlugs (not at root)",
+    "sectionType": "Must use English strings (auspicious/inauspicious/neutral)"
+  },
+  "summary": {
+    "total": 9,
+    "changed": 8,
+    "flagged": 0,
+    "skipped": 1,
+    "errors": 0
+  },
+  "changed": [
+    {
+      "slug": "bathroom-dream",
+      "file": "bathroom-dream.json",
+      "koMetaDescriptionLength": 93,
+      "enMetaDescriptionLength": 146,
+      "koMetaOk": true,
+      "enMetaOk": true,
+      "structuralIssues": "none",
+      "schemaComplete": true,
+      "changes": [
+        {
+          "field": "ko.metaDescription",
+          "originalLength": 77,
+          "newLength": 93,
+          "fixed": true
+        },
+        {
+          "field": "en.metaDescription",
+          "originalLength": 175,
+          "newLength": 146,
+          "fixed": true
+        }
+      ]
+    },
+    {
+      "slug": "building-dream",
+      "file": "building-dream.json",
+      "koMetaDescriptionLength": 85,
+      "enMetaDescriptionLength": 156,
+      "koMetaOk": true,
+      "enMetaOk": true,
+      "structuralIssues": "none",
+      "schemaComplete": true,
+      "changes": [
+        {
+          "field": "ko.metaDescription",
+          "originalLength": 77,
+          "newLength": 85,
+          "fixed": true
+        },
+        {
+          "field": "en.metaDescription",
+          "originalLength": 196,
+          "newLength": 156,
+          "fixed": true
+        }
+      ]
+    },
+    {
+      "slug": "hospital-dream",
+      "file": "hospital-dream.json",
+      "koMetaDescriptionLength": 82,
+      "enMetaDescriptionLength": 157,
+      "koMetaOk": true,
+      "enMetaOk": true,
+      "structuralIssues": "none",
+      "schemaComplete": true,
+      "changes": [
+        {
+          "field": "ko.metaDescription",
+          "originalLength": 73,
+          "newLength": 82,
+          "fixed": true
+        },
+        {
+          "field": "en.metaDescription",
+          "originalLength": 168,
+          "newLength": 157,
+          "fixed": true
+        }
+      ]
+    },
+    {
+      "slug": "house-dream",
+      "file": "house-dream.json",
+      "koMetaDescriptionLength": 83,
+      "enMetaDescriptionLength": 154,
+      "koMetaOk": true,
+      "enMetaOk": true,
+      "structuralIssues": "none",
+      "schemaComplete": true,
+      "changes": [
+        {
+          "field": "en.metaDescription",
+          "originalLength": 162,
+          "newLength": 154,
+          "fixed": true
+        }
+      ]
+    },
+    {
+      "slug": "market-dream",
+      "file": "market-dream.json",
+      "koMetaDescriptionLength": 81,
+      "enMetaDescriptionLength": 159,
+      "koMetaOk": true,
+      "enMetaOk": true,
+      "structuralIssues": "none",
+      "schemaComplete": true,
+      "changes": [
+        {
+          "field": "en.metaDescription",
+          "originalLength": 172,
+          "newLength": 159,
+          "fixed": true
+        }
+      ]
+    },
+    {
+      "slug": "new-house-dream",
+      "file": "new-house-dream.json",
+      "koMetaDescriptionLength": 81,
+      "enMetaDescriptionLength": 160,
+      "koMetaOk": true,
+      "enMetaOk": true,
+      "structuralIssues": "none",
+      "schemaComplete": true,
+      "changes": [
+        {
+          "field": "ko.metaDescription",
+          "originalLength": 76,
+          "newLength": 81,
+          "fixed": true
+        },
+        {
+          "field": "en.metaDescription",
+          "originalLength": 176,
+          "newLength": 160,
+          "fixed": true
+        }
+      ]
+    },
+    {
+      "slug": "old-house-dream",
+      "file": "old-house-dream.json",
+      "koMetaDescriptionLength": 87,
+      "enMetaDescriptionLength": 156,
+      "koMetaOk": true,
+      "enMetaOk": true,
+      "structuralIssues": "none",
+      "schemaComplete": true,
+      "changes": [
+        {
+          "field": "en.metaDescription",
+          "originalLength": 167,
+          "newLength": 156,
+          "fixed": true
+        }
+      ]
+    },
+    {
+      "slug": "school-dream",
+      "file": "school-dream.json",
+      "koMetaDescriptionLength": 85,
+      "enMetaDescriptionLength": 158,
+      "koMetaOk": true,
+      "enMetaOk": true,
+      "structuralIssues": "none",
+      "schemaComplete": true,
+      "changes": [
+        {
+          "field": "ko.metaDescription",
+          "originalLength": 78,
+          "newLength": 85,
+          "fixed": true
+        },
+        {
+          "field": "en.metaDescription",
+          "originalLength": 191,
+          "newLength": 158,
+          "fixed": true
+        }
+      ]
+    }
+  ],
+  "flagged": [],
+  "skipped": [
+    {
+      "slug": "office-dream",
+      "file": "office-dream.json",
+      "koMetaDescriptionLength": 81,
+      "enMetaDescriptionLength": 159,
+      "koMetaOk": true,
+      "enMetaOk": true,
+      "structuralIssues": "none",
+      "schemaComplete": true,
+      "note": "All checks passed; no changes made"
+    }
+  ]
+}

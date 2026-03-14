@@ -4,7 +4,7 @@
   "generatedAt": "2026-03-12T00:00:00.000Z",
   "ko": {
     "title": "사람을 구하는 꿈 해몽 - 구조하는 꿈의 의미와 길흉 완벽 정리",
-    "metaDescription": "사람을 구하는 꿈 해몽 완벽 정리. 물에 빠진 사람·불 속 구조·아이 구하는 꿈 등 상황별 길몽·흉몽 의미와 심리학적 해석을 전문가 시각으로 안내해드려요.",
+    "metaDescription": "사람을 구하는 꿈 해몽 완벽 정리. 물에 빠진 사람·불 속 구조·아이 구하는 꿈 등 상황별 길몽·흉몽 의미와 심리학적 해석을 전문가 시각으로 안내해드려요. 귀인 암시와 재물운도 포함됩니다. 전통 꿈해몽 완벽 총정리.",
     "h1": "사람을 구하는 꿈 해몽 — 구조하는 꿈의 의미와 길흉",
     "intro": "사람을 구하는 꿈은 꿈 해몽에서 손꼽히는 강한 길몽이에요. 예로부터 한국에서는 누군가를 구해내는 꿈을 덕(德)이 높은 사람에게만 찾아오는 특별한 예조로 여겨왔고, 재물운·사회적 명성·주변의 신뢰가 모두 높아지는 신호로 풀이해왔어요. 단, 구하려다 실패하거나 자신도 함께 위험에 빠지는 꿈이라면 — 해석이 180도 달라져요.",
     "sections": [
@@ -104,7 +104,7 @@
   },
   "en": {
     "title": "Dream of Saving Someone — Korean Dream Interpretation & Meaning",
-    "metaDescription": "What does it mean to dream of saving someone? Korean dream interpretation covering rescue from drowning, fire, accidents, saving a child or family member — auspicious signs and warnings explained.",
+    "metaDescription": "What does it mean to dream of saving someone? Korean interpretation covering rescue from drowning, fire, saving a child or family member — signs explained.",
     "h1": "Dream of Saving Someone — Meaning, Symbolism & Interpretation",
     "intro": "Dreaming of saving someone is one of the strongest auspicious omens in Korean dream interpretation. For centuries, the act of rescue in a dream was regarded as evidence of the dreamer's high moral virtue — a sign that rising fortune, social recognition, and the trust of others were close at hand. But there is one important nuance: how the rescue ends changes everything.",
     "sections": [
@@ -302,7 +302,14 @@
         "꿈해몽",
         "길몽 흉몽"
       ]
-    }
+    },
+    "relatedSlugs": [
+      "drowning-dream",
+      "swimming-ocean-dream",
+      "being-chased-dream",
+      "fighting-dream",
+      "climbing-mountain"
+    ]
   },
   "images": {
     "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/saving-someone-dream/hero.webp",
@@ -310,12 +317,5 @@
       "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/saving-someone-dream/auspicious.webp",
       "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/saving-someone-dream/inauspicious.webp"
     }
-  },
-  "relatedDreams": [
-    "drowning-dream",
-    "swimming-ocean-dream",
-    "being-chased-dream",
-    "fighting-dream",
-    "climbing-mountain"
-  ]
+  }
 }

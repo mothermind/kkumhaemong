@@ -1,0 +1,206 @@
+{
+  "generatedAt": "2026-03-14T06:39:03.571Z",
+  "batch": "actions-005",
+  "description": "Validation of files 81-100 (alphabetically) from data/content/actions/",
+  "slugsValidated": [
+    "haircut-salon-dream",
+    "hiding-dream",
+    "hiking-dream",
+    "hugging-dead-dream",
+    "hugging-dream",
+    "hunting-dream",
+    "job-interview-dream",
+    "jumping-down-dream",
+    "kidnapped-dream",
+    "killing-someone-dream",
+    "kissing-dream",
+    "laughing-dream",
+    "locked-door-dream",
+    "locking-door-dream",
+    "losing-game-dream",
+    "losing-something-dream",
+    "lying-dream",
+    "moving-house-dream",
+    "opening-door-dream",
+    "packing-dream"
+  ],
+  "summary": {
+    "filesScanned": 20,
+    "filesChanged": 20,
+    "issuesFlagged": 0,
+    "filesSkipped": 0
+  },
+  "changed": [
+    {
+      "slug": "haircut-salon-dream",
+      "file": "data/content/actions/haircut-salon-dream.json",
+      "fixes": [
+        "ko.metaDescription expanded to 120-160 chars",
+        "en.metaDescription trimmed to ≤160 chars"
+      ]
+    },
+    {
+      "slug": "hiding-dream",
+      "file": "data/content/actions/hiding-dream.json",
+      "fixes": [
+        "ko.metaDescription expanded to 120-160 chars",
+        "en.metaDescription was already within range"
+      ]
+    },
+    {
+      "slug": "hiking-dream",
+      "file": "data/content/actions/hiking-dream.json",
+      "fixes": [
+        "ko.metaDescription expanded to 120-160 chars",
+        "en.metaDescription was already within range"
+      ]
+    },
+    {
+      "slug": "hugging-dead-dream",
+      "file": "data/content/actions/hugging-dead-dream.json",
+      "fixes": [
+        "ko.metaDescription expanded to 120-160 chars",
+        "en.metaDescription trimmed to ≤160 chars"
+      ]
+    },
+    {
+      "slug": "hugging-dream",
+      "file": "data/content/actions/hugging-dream.json",
+      "fixes": [
+        "ko.metaDescription expanded to 120-160 chars",
+        "en.metaDescription trimmed to ≤160 chars"
+      ]
+    },
+    {
+      "slug": "hunting-dream",
+      "file": "data/content/actions/hunting-dream.json",
+      "fixes": [
+        "ko.metaDescription expanded to 120-160 chars",
+        "en.metaDescription trimmed to ≤160 chars"
+      ]
+    },
+    {
+      "slug": "job-interview-dream",
+      "file": "data/content/actions/job-interview-dream.json",
+      "fixes": [
+        "ko.metaDescription expanded to 120-160 chars",
+        "en.metaDescription was already within range"
+      ]
+    },
+    {
+      "slug": "jumping-down-dream",
+      "file": "data/content/actions/jumping-down-dream.json",
+      "fixes": [
+        "ko.metaDescription expanded to 120-160 chars",
+        "en.metaDescription trimmed to ≤160 chars"
+      ]
+    },
+    {
+      "slug": "kidnapped-dream",
+      "file": "data/content/actions/kidnapped-dream.json",
+      "fixes": [
+        "ko.metaDescription expanded to 120-160 chars",
+        "en.metaDescription trimmed to ≤160 chars"
+      ]
+    },
+    {
+      "slug": "killing-someone-dream",
+      "file": "data/content/actions/killing-someone-dream.json",
+      "fixes": [
+        "ko.metaDescription expanded to 120-160 chars",
+        "en.metaDescription trimmed to ≤160 chars"
+      ]
+    },
+    {
+      "slug": "kissing-dream",
+      "file": "data/content/actions/kissing-dream.json",
+      "fixes": [
+        "ko.metaDescription expanded to 120-160 chars",
+        "en.metaDescription trimmed to ≤160 chars"
+      ]
+    },
+    {
+      "slug": "laughing-dream",
+      "file": "data/content/actions/laughing-dream.json",
+      "fixes": [
+        "ko.metaDescription expanded to 120-160 chars",
+        "en.metaDescription was already within range"
+      ]
+    },
+    {
+      "slug": "locked-door-dream",
+      "file": "data/content/actions/locked-door-dream.json",
+      "fixes": [
+        "ko.metaDescription expanded to 120-160 chars",
+        "en.metaDescription trimmed to ≤160 chars"
+      ]
+    },
+    {
+      "slug": "locking-door-dream",
+      "file": "data/content/actions/locking-door-dream.json",
+      "fixes": [
+        "ko.metaDescription expanded to 120-160 chars",
+        "en.metaDescription trimmed to ≤160 chars"
+      ]
+    },
+    {
+      "slug": "losing-game-dream",
+      "file": "data/content/actions/losing-game-dream.json",
+      "fixes": [
+        "ko.metaDescription expanded to 120-160 chars",
+        "en.metaDescription trimmed to ≤160 chars"
+      ]
+    },
+    {
+      "slug": "losing-something-dream",
+      "file": "data/content/actions/losing-something-dream.json",
+      "fixes": [
+        "ko.metaDescription expanded to 120-160 chars",
+        "en.metaDescription trimmed to ≤160 chars"
+      ]
+    },
+    {
+      "slug": "lying-dream",
+      "file": "data/content/actions/lying-dream.json",
+      "fixes": [
+        "ko.metaDescription expanded to 120-160 chars",
+        "en.metaDescription trimmed to ≤160 chars"
+      ]
+    },
+    {
+      "slug": "moving-house-dream",
+      "file": "data/content/actions/moving-house-dream.json",
+      "fixes": [
+        "ko.metaDescription expanded to 120-160 chars",
+        "en.metaDescription was already within range"
+      ]
+    },
+    {
+      "slug": "opening-door-dream",
+      "file": "data/content/actions/opening-door-dream.json",
+      "fixes": [
+        "ko.metaDescription expanded to 120-160 chars",
+        "en.metaDescription trimmed to ≤160 chars"
+      ]
+    },
+    {
+      "slug": "packing-dream",
+      "file": "data/content/actions/packing-dream.json",
+      "fixes": [
+        "ko.metaDescription expanded to 120-160 chars",
+        "en.metaDescription trimmed to ≤160 chars"
+      ]
+    }
+  ],
+  "flagged": [],
+  "skipped": [],
+  "notes": [
+    "All 20 files had ko.metaDescription under 120 chars (range: 65-96). All expanded to 120-160 chars.",
+    "EN metaDescriptions: 5 files (hiding, hiking, job-interview, laughing, moving-house) were already within 120-160 range. 15 files were over 160 chars and were trimmed.",
+    "No JSON parse errors found in any of the 20 files.",
+    "All schema fields present and non-empty in all files: title, metaDescription, h1, intro, sections(≥1), variations(≥1), faqs(≥5), conclusion, culturalContext for both ko and en.",
+    "seo.slug and seo.koreanSlug present and non-empty in all 20 files.",
+    "No Korean tone issues flagged (all files use 합니다체/해요체 appropriately).",
+    "No English grammar errors flagged."
+  ]
+}

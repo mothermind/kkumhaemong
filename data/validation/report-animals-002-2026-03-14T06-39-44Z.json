@@ -1,0 +1,189 @@
+{
+  "generatedAt": "2026-03-14T06:39:44Z",
+  "batch": "animals-002",
+  "summary": {
+    "filesScanned": 9,
+    "filesChanged": 9,
+    "issuesFlagged": 0,
+    "filesSkipped": 0
+  },
+  "changed": [
+    {
+      "slug": "puppy-dream",
+      "category": "animals",
+      "filePath": "data/content/animals/puppy-dream.json",
+      "fixes": [
+        {
+          "field": "ko.metaDescription",
+          "issue": "SHORT (was 85 chars)",
+          "action": "expanded",
+          "before_len": 85,
+          "after_len": 125
+        },
+        {
+          "field": "en.metaDescription",
+          "issue": "LONG (was 164 chars)",
+          "action": "trimmed",
+          "before_len": 164,
+          "after_len": 154
+        }
+      ]
+    },
+    {
+      "slug": "rabbit-dream",
+      "category": "animals",
+      "filePath": "data/content/animals/rabbit-dream.json",
+      "fixes": [
+        {
+          "field": "ko.metaDescription",
+          "issue": "SHORT (was 78 chars)",
+          "action": "expanded",
+          "before_len": 78,
+          "after_len": 133
+        }
+      ]
+    },
+    {
+      "slug": "riding-horse-dream",
+      "category": "animals",
+      "filePath": "data/content/animals/riding-horse-dream.json",
+      "fixes": [
+        {
+          "field": "ko.metaDescription",
+          "issue": "SHORT (was 81 chars)",
+          "action": "expanded",
+          "before_len": 81,
+          "after_len": 132
+        },
+        {
+          "field": "en.metaDescription",
+          "issue": "LONG (was 173 chars)",
+          "action": "trimmed",
+          "before_len": 173,
+          "after_len": 156
+        }
+      ]
+    },
+    {
+      "slug": "snake-bite-dream",
+      "category": "animals",
+      "filePath": "data/content/animals/snake-bite-dream.json",
+      "fixes": [
+        {
+          "field": "ko.metaDescription",
+          "issue": "SHORT (was 68 chars)",
+          "action": "expanded",
+          "before_len": 68,
+          "after_len": 127
+        },
+        {
+          "field": "en.metaDescription",
+          "issue": "LONG (was 170 chars)",
+          "action": "trimmed",
+          "before_len": 170,
+          "after_len": 153
+        }
+      ]
+    },
+    {
+      "slug": "snake-dream",
+      "category": "animals",
+      "filePath": "data/content/animals/snake-dream.json",
+      "fixes": [
+        {
+          "field": "ko.metaDescription",
+          "issue": "SHORT (was 79 chars)",
+          "action": "expanded",
+          "before_len": 79,
+          "after_len": 122
+        },
+        {
+          "field": "en.metaDescription",
+          "issue": "LONG (was 172 chars)",
+          "action": "trimmed",
+          "before_len": 172,
+          "after_len": 157
+        }
+      ]
+    },
+    {
+      "slug": "snake-entering-house-dream",
+      "category": "animals",
+      "filePath": "data/content/animals/snake-entering-house-dream.json",
+      "fixes": [
+        {
+          "field": "ko.metaDescription",
+          "issue": "SHORT (was 69 chars)",
+          "action": "expanded",
+          "before_len": 69,
+          "after_len": 120
+        },
+        {
+          "field": "en.metaDescription",
+          "issue": "LONG (was 166 chars)",
+          "action": "trimmed",
+          "before_len": 166,
+          "after_len": 150
+        }
+      ]
+    },
+    {
+      "slug": "tiger-dream",
+      "category": "animals",
+      "filePath": "data/content/animals/tiger-dream.json",
+      "fixes": [
+        {
+          "field": "ko.metaDescription",
+          "issue": "SHORT (was 89 chars)",
+          "action": "expanded",
+          "before_len": 89,
+          "after_len": 130
+        },
+        {
+          "field": "en.metaDescription",
+          "issue": "LONG (was 174 chars)",
+          "action": "trimmed",
+          "before_len": 174,
+          "after_len": 158
+        }
+      ]
+    },
+    {
+      "slug": "turtle-dream",
+      "category": "animals",
+      "filePath": "data/content/animals/turtle-dream.json",
+      "fixes": [
+        {
+          "field": "ko.metaDescription",
+          "issue": "SHORT (was 76 chars)",
+          "action": "expanded",
+          "before_len": 76,
+          "after_len": 128
+        }
+      ]
+    },
+    {
+      "slug": "white-snake-dream",
+      "category": "animals",
+      "filePath": "data/content/animals/white-snake-dream.json",
+      "fixes": [
+        {
+          "field": "ko.metaDescription",
+          "issue": "SHORT (was 76 chars)",
+          "action": "expanded",
+          "before_len": 76,
+          "after_len": 127
+        },
+        {
+          "field": "en.metaDescription",
+          "issue": "LONG (was 172 chars)",
+          "action": "trimmed",
+          "before_len": 172,
+          "after_len": 158
+        }
+      ]
+    }
+  ],
+  "flagged": [],
+  "skipped": []
+}

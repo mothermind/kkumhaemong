@@ -198,6 +198,7 @@ Example for 뱀꿈: *"A coiled serpent resting on misty mountain rocks, soft ink
 | `dream-research-agent` | Sonnet | Deep research on one symbol (interpretations, variations, FAQs, cultural context) |
 | `dream-content-agent` | Sonnet | Generate complete bilingual article from research + image data |
 | `dream-image-agent` | Sonnet | Generate image prompts + call image API + save images |
+| `content-validator-agent` | Sonnet | Proofread + validate existing content JSON files in place; writes audit report to `data/validation/` |
 | `meta-agent` | Opus | Create new subagents |
 
 ### Running the Pipeline
@@ -211,6 +212,31 @@ Example for 뱀꿈: *"A coiled serpent resting on misty mountain rocks, soft ink
 
 **After both complete:**
 > "Run dream-content-agent for [symbol]"
+
+### Content Validation Pipeline
+
+Validates and proofreads existing content; syncs only changed docs to Firestore.
+
+```
+[1] content-validator-agent
+        ↓ reads data/content/{category}/{slug}.json
+        ↓ fixes prose, SEO fields, schema issues in place
+        ↓ writes data/validation/report-{timestamp}.json
+
+[2] Review report (optional)
+        cat data/validation/report-*.json | jq '.summary'
+
+[3] scripts/sync-changed-to-firestore.mjs
+        ↓ reads report's changed[] list
+        ↓ re-uploads only modified docs to Firestore
+        node scripts/sync-changed-to-firestore.mjs --latest --dry-run
+        node scripts/sync-changed-to-firestore.mjs --latest
+```
+
+**Batch sizes:**
+- Content generation agents: **6 max** in parallel (rate limit)
+- Content validation agents: **10 max** in parallel (no API calls, CPU-bound only)
+- Validator processes max 20 files per invocation — chunk large categories (actions: 8 runs, animals: 2 runs)
 
 ---
 

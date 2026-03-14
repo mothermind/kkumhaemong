@@ -4,7 +4,7 @@
   "generatedAt": "2026-03-12T00:00:00.000Z",
   "ko": {
     "title": "잊어버리는 꿈해몽 - 깜빡 잊는 꿈의 의미와 길흉 완벽 정리",
-    "metaDescription": "잊어버리는 꿈해몽 완벽 정리. 약속·시험·이름·길을 잊는 꿈의 흉몽 의미부터, 잊고 울거나 되찾는 역설적 길몽까지 상황별로 해석합니다.",
+    "metaDescription": "잊어버리는 꿈해몽 완벽 정리. 약속·시험·이름·길을 잊는 꿈의 흉몽 의미부터, 잊고 울거나 되찾는 역설적 길몽까지 상황별로 해석합니다. 심리적 의미도 확인하세요.",
     "h1": "잊어버리는 꿈해몽 — 무엇을 잊었느냐가 운명을 가른다",
     "intro": "잊어버리는 꿈, 단순한 기억력 문제가 아닙니다. 한국 전통 해몽에서 '잊어버리는 꿈'은 재물·인연·건강의 상실을 예고하는 흉몽으로 오랫동안 경계받아 왔습니다. 그런데 한 가지— 꿈속에서 잊고 펑펑 울거나, 잊어버린 것을 끝내 되찾는 꿈은 오히려 막힌 운이 통째로 뚫리는 반전의 길몽이라는 사실, 알고 계셨나요?",
     "sections": [
@@ -90,7 +90,7 @@
   },
   "en": {
     "title": "Forgetting Dream Meaning — What It Means to Forget in Your Dreams",
-    "metaDescription": "Complete guide to forgetting dreams: what it means to forget appointments, names, the way, or objects in a dream. Korean dream interpretation (꿈해몽) with western psychology.",
+    "metaDescription": "Complete guide to forgetting dreams — appointments, names, or the way. Korean dream interpretation with western psychology insights and analysis here.",
     "h1": "Forgetting Dream Meaning — What You Forget Changes Everything",
     "intro": "You wake up from a dream where you forgot something critical—an exam date, a name, which way to go—and the anxiety lingers. Forgetting dreams are among the most universal anxiety dreams across cultures, and in Korean dream interpretation (꿈해몽), they carry specific, nuanced meanings depending on exactly what was forgotten. But here's the twist: crying bitterly over something you forgot, or finding it by the dream's end, may actually be your luckiest dream of the year.",
     "sections": [
@@ -286,7 +286,14 @@
         "흉몽",
         "길몽"
       ]
-    }
+    },
+    "relatedSlugs": [
+      "running",
+      "being-chased",
+      "taking-exam",
+      "getting-lost-dream",
+      "searching-dream"
+    ]
   },
   "images": {
     "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/forgetting-dream/hero.webp",
@@ -294,12 +301,5 @@
       "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/forgetting-dream/auspicious.webp",
       "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/forgetting-dream/inauspicious.webp"
     }
-  },
-  "relatedDreams": [
-    "running",
-    "being-chased",
-    "taking-exam",
-    "getting-lost-dream",
-    "searching-dream"
-  ]
+  }
 }

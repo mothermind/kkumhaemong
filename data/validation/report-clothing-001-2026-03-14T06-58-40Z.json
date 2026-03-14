@@ -1,0 +1,429 @@
+{
+  "reportId": "report-clothing-001-2026-03-14T06-58-40Z",
+  "generatedAt": "2026-03-14T06:58:40.778343Z",
+  "category": "clothing",
+  "totalFiles": 10,
+  "allPassed": true,
+  "summary": {
+    "filesChecked": 10,
+    "filesPassed": 10,
+    "filesFailed": 0,
+    "totalEditsApplied": 13,
+    "checks": [
+      "jsonParseable",
+      "ko.metaDescription length (80-110)",
+      "en.metaDescription length (120-160)",
+      "requiredFields",
+      "seo.slug",
+      "seo.koreanSlug",
+      "canonicalUrl",
+      "faqMinimum (≥5)",
+      "koreanTone",
+      "englishGrammar"
+    ]
+  },
+  "results": [
+    {
+      "file": "black-clothes-dream.json",
+      "slug": "black-clothes-dream",
+      "koreanSlug": "geomeun-ot-kkum",
+      "validation": {
+        "jsonParseable": true,
+        "ko": {
+          "metaDescriptionLength": 81,
+          "metaDescriptionInRange": true,
+          "target": "80-110",
+          "missingRequiredFields": [],
+          "sections": 4,
+          "variations": 10,
+          "faqs": 8,
+          "faqsMeetsMinimum": true,
+          "toneCheck": "PASS (해요체/합니다체 maintained)"
+        },
+        "en": {
+          "metaDescriptionLength": 156,
+          "metaDescriptionInRange": true,
+          "target": "120-160",
+          "missingRequiredFields": [],
+          "sections": 4,
+          "variations": 10,
+          "faqs": 8,
+          "faqsMeetsMinimum": true,
+          "grammarCheck": "PASS"
+        },
+        "seo": {
+          "slugPresent": true,
+          "koreanSlugPresent": true,
+          "canonicalUrlValid": true,
+          "canonicalUrl": "https://kkumhaemong.com/en/dream/black-clothes-dream"
+        }
+      },
+      "editsApplied": [
+        "ko.metaDescription expanded: added \"흉몽인지\" (70→81 chars)"
+      ],
+      "status": "PASS"
+    },
+    {
+      "file": "buying-clothes-dream.json",
+      "slug": "buying-clothes-dream",
+      "koreanSlug": "ot-saneun-kkum",
+      "validation": {
+        "jsonParseable": true,
+        "ko": {
+          "metaDescriptionLength": 94,
+          "metaDescriptionInRange": true,
+          "target": "80-110",
+          "missingRequiredFields": [],
+          "sections": 6,
+          "variations": 12,
+          "faqs": 8,
+          "faqsMeetsMinimum": true,
+          "toneCheck": "PASS (해요체/합니다체 maintained)"
+        },
+        "en": {
+          "metaDescriptionLength": 159,
+          "metaDescriptionInRange": true,
+          "target": "120-160",
+          "missingRequiredFields": [],
+          "sections": 6,
+          "variations": 12,
+          "faqs": 7,
+          "faqsMeetsMinimum": true,
+          "grammarCheck": "PASS"
+        },
+        "seo": {
+          "slugPresent": true,
+          "koreanSlugPresent": true,
+          "canonicalUrlValid": true,
+          "canonicalUrl": "https://kkumhaemong.com/en/dream/buying-clothes-dream"
+        }
+      },
+      "editsApplied": [],
+      "status": "PASS"
+    },
+    {
+      "file": "clothes-dream.json",
+      "slug": "clothes-dream",
+      "koreanSlug": "ot-kkum",
+      "validation": {
+        "jsonParseable": true,
+        "ko": {
+          "metaDescriptionLength": 80,
+          "metaDescriptionInRange": true,
+          "target": "80-110",
+          "missingRequiredFields": [],
+          "sections": 5,
+          "variations": 15,
+          "faqs": 8,
+          "faqsMeetsMinimum": true,
+          "toneCheck": "PASS (해요체/합니다체 maintained)"
+        },
+        "en": {
+          "metaDescriptionLength": 151,
+          "metaDescriptionInRange": true,
+          "target": "120-160",
+          "missingRequiredFields": [],
+          "sections": 5,
+          "variations": 14,
+          "faqs": 8,
+          "faqsMeetsMinimum": true,
+          "grammarCheck": "PASS"
+        },
+        "seo": {
+          "slugPresent": true,
+          "koreanSlugPresent": true,
+          "canonicalUrlValid": true,
+          "canonicalUrl": "https://kkumhaemong.com/en/dream/clothes-dream"
+        }
+      },
+      "editsApplied": [
+        "ko.metaDescription expanded: added \"전통 해몽\" (74→80 chars)",
+        "en.metaDescription trimmed: condensed clothing list (166→151 chars)"
+      ],
+      "status": "PASS"
+    },
+    {
+      "file": "losing-shoes-dream.json",
+      "slug": "losing-shoes-dream",
+      "koreanSlug": "sinbal-ilheobeorineun-kkum",
+      "validation": {
+        "jsonParseable": true,
+        "ko": {
+          "metaDescriptionLength": 82,
+          "metaDescriptionInRange": true,
+          "target": "80-110",
+          "missingRequiredFields": [],
+          "sections": 5,
+          "variations": 8,
+          "faqs": 7,
+          "faqsMeetsMinimum": true,
+          "toneCheck": "PASS (해요체/합니다체 maintained)"
+        },
+        "en": {
+          "metaDescriptionLength": 157,
+          "metaDescriptionInRange": true,
+          "target": "120-160",
+          "missingRequiredFields": [],
+          "sections": 5,
+          "variations": 8,
+          "faqs": 7,
+          "faqsMeetsMinimum": true,
+          "grammarCheck": "PASS"
+        },
+        "seo": {
+          "slugPresent": true,
+          "koreanSlugPresent": true,
+          "canonicalUrlValid": true,
+          "canonicalUrl": "https://kkumhaemong.com/en/dream/losing-shoes-dream"
+        }
+      },
+      "editsApplied": [
+        "ko.metaDescription expanded: added \"완벽 정리했어요\" (73→82 chars)",
+        "en.metaDescription trimmed: removed \"life\" (162→157 chars)"
+      ],
+      "status": "PASS"
+    },
+    {
+      "file": "new-clothes-dream.json",
+      "slug": "new-clothes-dream",
+      "koreanSlug": "sae-ot-kkum",
+      "validation": {
+        "jsonParseable": true,
+        "ko": {
+          "metaDescriptionLength": 85,
+          "metaDescriptionInRange": true,
+          "target": "80-110",
+          "missingRequiredFields": [],
+          "sections": 4,
+          "variations": 11,
+          "faqs": 8,
+          "faqsMeetsMinimum": true,
+          "toneCheck": "PASS (해요체/합니다체 maintained)"
+        },
+        "en": {
+          "metaDescriptionLength": 153,
+          "metaDescriptionInRange": true,
+          "target": "120-160",
+          "missingRequiredFields": [],
+          "sections": 4,
+          "variations": 11,
+          "faqs": 7,
+          "faqsMeetsMinimum": true,
+          "grammarCheck": "PASS"
+        },
+        "seo": {
+          "slugPresent": true,
+          "koreanSlugPresent": true,
+          "canonicalUrlValid": true,
+          "canonicalUrl": "https://kkumhaemong.com/en/dream/new-clothes-dream"
+        }
+      },
+      "editsApplied": [
+        "en.metaDescription trimmed: rewritten concisely (172→153 chars)"
+      ],
+      "status": "PASS"
+    },
+    {
+      "file": "new-shoes-dream.json",
+      "slug": "new-shoes-dream",
+      "koreanSlug": "sae-sinbal-kkum",
+      "validation": {
+        "jsonParseable": true,
+        "ko": {
+          "metaDescriptionLength": 83,
+          "metaDescriptionInRange": true,
+          "target": "80-110",
+          "missingRequiredFields": [],
+          "sections": 3,
+          "variations": 10,
+          "faqs": 6,
+          "faqsMeetsMinimum": true,
+          "toneCheck": "PASS (해요체/합니다체 maintained)"
+        },
+        "en": {
+          "metaDescriptionLength": 155,
+          "metaDescriptionInRange": true,
+          "target": "120-160",
+          "missingRequiredFields": [],
+          "sections": 3,
+          "variations": 10,
+          "faqs": 6,
+          "faqsMeetsMinimum": true,
+          "grammarCheck": "PASS"
+        },
+        "seo": {
+          "slugPresent": true,
+          "koreanSlugPresent": true,
+          "canonicalUrlValid": true,
+          "canonicalUrl": "https://kkumhaemong.com/en/dream/new-shoes-dream"
+        }
+      },
+      "editsApplied": [
+        "ko.metaDescription expanded: added \"상세하게\" (78→83 chars)",
+        "en.metaDescription trimmed: removed \"explained through\" (170→155 chars)"
+      ],
+      "status": "PASS"
+    },
+    {
+      "file": "no-clothes-dream.json",
+      "slug": "no-clothes-dream",
+      "koreanSlug": "ot-eomneun-kkum",
+      "validation": {
+        "jsonParseable": true,
+        "ko": {
+          "metaDescriptionLength": 80,
+          "metaDescriptionInRange": true,
+          "target": "80-110",
+          "missingRequiredFields": [],
+          "sections": 3,
+          "variations": 11,
+          "faqs": 8,
+          "faqsMeetsMinimum": true,
+          "toneCheck": "PASS (해요체/합니다체 maintained)"
+        },
+        "en": {
+          "metaDescriptionLength": 160,
+          "metaDescriptionInRange": true,
+          "target": "120-160",
+          "missingRequiredFields": [],
+          "sections": 3,
+          "variations": 11,
+          "faqs": 8,
+          "faqsMeetsMinimum": true,
+          "grammarCheck": "PASS"
+        },
+        "seo": {
+          "slugPresent": true,
+          "koreanSlugPresent": true,
+          "canonicalUrlValid": true,
+          "canonicalUrl": "https://kkumhaemong.com/en/dream/no-clothes-dream"
+        }
+      },
+      "editsApplied": [
+        "en.metaDescription trimmed: rewritten concisely (182→160 chars)"
+      ],
+      "status": "PASS"
+    },
+    {
+      "file": "shoes-dream.json",
+      "slug": "shoes-dream",
+      "koreanSlug": "sinbal-kkum",
+      "validation": {
+        "jsonParseable": true,
+        "ko": {
+          "metaDescriptionLength": 81,
+          "metaDescriptionInRange": true,
+          "target": "80-110",
+          "missingRequiredFields": [],
+          "sections": 3,
+          "variations": 16,
+          "faqs": 8,
+          "faqsMeetsMinimum": true,
+          "toneCheck": "PASS (해요체/합니다체 maintained)"
+        },
+        "en": {
+          "metaDescriptionLength": 153,
+          "metaDescriptionInRange": true,
+          "target": "120-160",
+          "missingRequiredFields": [],
+          "sections": 3,
+          "variations": 16,
+          "faqs": 8,
+          "faqsMeetsMinimum": true,
+          "grammarCheck": "PASS"
+        },
+        "seo": {
+          "slugPresent": true,
+          "koreanSlugPresent": true,
+          "canonicalUrlValid": true,
+          "canonicalUrl": "https://kkumhaemong.com/en/dream/shoes-dream"
+        }
+      },
+      "editsApplied": [
+        "en.metaDescription trimmed: removed \"Complete\" and condensed (167→153 chars)"
+      ],
+      "status": "PASS"
+    },
+    {
+      "file": "uniform-dream.json",
+      "slug": "uniform-dream",
+      "koreanSlug": "gyobok-kkum",
+      "validation": {
+        "jsonParseable": true,
+        "ko": {
+          "metaDescriptionLength": 81,
+          "metaDescriptionInRange": true,
+          "target": "80-110",
+          "missingRequiredFields": [],
+          "sections": 3,
+          "variations": 9,
+          "faqs": 6,
+          "faqsMeetsMinimum": true,
+          "toneCheck": "PASS (해요체/합니다체 maintained)"
+        },
+        "en": {
+          "metaDescriptionLength": 158,
+          "metaDescriptionInRange": true,
+          "target": "120-160",
+          "missingRequiredFields": [],
+          "sections": 3,
+          "variations": 9,
+          "faqs": 6,
+          "faqsMeetsMinimum": true,
+          "grammarCheck": "PASS"
+        },
+        "seo": {
+          "slugPresent": true,
+          "koreanSlugPresent": true,
+          "canonicalUrlValid": true,
+          "canonicalUrl": "https://kkumhaemong.com/en/dream/uniform-dream"
+        }
+      },
+      "editsApplied": [
+        "en.metaDescription trimmed: condensed (170→158 chars)"
+      ],
+      "status": "PASS"
+    },
+    {
+      "file": "white-clothes-dream.json",
+      "slug": "white-clothes-dream",
+      "koreanSlug": "huin-ot-kkum",
+      "validation": {
+        "jsonParseable": true,
+        "ko": {
+          "metaDescriptionLength": 81,
+          "metaDescriptionInRange": true,
+          "target": "80-110",
+          "missingRequiredFields": [],
+          "sections": 3,
+          "variations": 9,
+          "faqs": 7,
+          "faqsMeetsMinimum": true,
+          "toneCheck": "PASS (해요체/합니다체 maintained)"
+        },
+        "en": {
+          "metaDescriptionLength": 154,
+          "metaDescriptionInRange": true,
+          "target": "120-160",
+          "missingRequiredFields": [],
+          "sections": 3,
+          "variations": 9,
+          "faqs": 7,
+          "faqsMeetsMinimum": true,
+          "grammarCheck": "PASS"
+        },
+        "seo": {
+          "slugPresent": true,
+          "koreanSlugPresent": true,
+          "canonicalUrlValid": true,
+          "canonicalUrl": "https://kkumhaemong.com/en/dream/white-clothes-dream"
+        }
+      },
+      "editsApplied": [
+        "ko.metaDescription reworked: added \"전통 해몽\", removed \"다양한\" (75→81 chars)",
+        "en.metaDescription trimmed: condensed (179→154 chars)"
+      ],
+      "status": "PASS"
+    }
+  ]
+}

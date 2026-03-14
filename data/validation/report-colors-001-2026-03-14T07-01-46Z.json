@@ -1,0 +1,198 @@
+{
+  "reportId": "report-colors-001-2026-03-14T07-01-46Z",
+  "generatedAt": "2026-03-14T07:01:46.564257Z",
+  "category": "colors",
+  "targetDirectory": "data/content/colors/",
+  "totalFiles": 10,
+  "passed": 10,
+  "failed": 0,
+  "totalIssuesFound": 0,
+  "totalFixesApplied": 14,
+  "validationRules": {
+    "koMetaDescription": "80-110 chars",
+    "enMetaDescription": "120-160 chars",
+    "koProse": "해요체/합니다체 required",
+    "enProse": "no grammar/spelling errors",
+    "schemaFields": [
+      "title",
+      "metaDescription",
+      "h1",
+      "intro",
+      "sections",
+      "variations",
+      "faqs",
+      "conclusion",
+      "culturalContext"
+    ],
+    "seoSlug": "must exist and be non-empty",
+    "seoKoreanSlug": "must exist and be non-empty",
+    "canonicalUrl": "must be full URL if present",
+    "faqs": "minimum 5 items"
+  },
+  "files": [
+    {
+      "slug": "black-color-dream",
+      "path": "data/content/colors/black-color-dream.json",
+      "status": "pass",
+      "seoSlug": "black-color-dream",
+      "seoKoreanSlug": "geomeunsaek-kkum",
+      "koMetaDescriptionLength": 81,
+      "enMetaDescriptionLength": 156,
+      "koFaqCount": 7,
+      "enFaqCount": 7,
+      "issues": [],
+      "fixesApplied": [
+        "en.metaDescription trimmed from 177 to 156 chars"
+      ],
+      "jsonValid": true
+    },
+    {
+      "slug": "black-white-dream",
+      "path": "data/content/colors/black-white-dream.json",
+      "status": "pass",
+      "seoSlug": "black-white-dream",
+      "seoKoreanSlug": "heukbaek-kkum",
+      "koMetaDescriptionLength": 80,
+      "enMetaDescriptionLength": 159,
+      "koFaqCount": 7,
+      "enFaqCount": 7,
+      "issues": [],
+      "fixesApplied": [
+        "ko.metaDescription expanded from 75 to 80 chars",
+        "en.metaDescription trimmed from 162 to 159 chars"
+      ],
+      "jsonValid": true
+    },
+    {
+      "slug": "blue-color-dream",
+      "path": "data/content/colors/blue-color-dream.json",
+      "status": "pass",
+      "seoSlug": "blue-color-dream",
+      "seoKoreanSlug": "paransaek-kkum",
+      "koMetaDescriptionLength": 81,
+      "enMetaDescriptionLength": 157,
+      "koFaqCount": 8,
+      "enFaqCount": 8,
+      "issues": [],
+      "fixesApplied": [
+        "ko.metaDescription expanded from 75 to 81 chars"
+      ],
+      "jsonValid": true
+    },
+    {
+      "slug": "bright-light-dream",
+      "path": "data/content/colors/bright-light-dream.json",
+      "status": "pass",
+      "seoSlug": "bright-light-dream",
+      "seoKoreanSlug": "balgeun-bit-kkum",
+      "koMetaDescriptionLength": 83,
+      "enMetaDescriptionLength": 156,
+      "koFaqCount": 8,
+      "enFaqCount": 8,
+      "issues": [],
+      "fixesApplied": [
+        "en.metaDescription trimmed from 170 to 156 chars"
+      ],
+      "jsonValid": true
+    },
+    {
+      "slug": "darkness-dream",
+      "path": "data/content/colors/darkness-dream.json",
+      "status": "pass",
+      "seoSlug": "darkness-dream",
+      "seoKoreanSlug": "eoduun-kkum",
+      "koMetaDescriptionLength": 83,
+      "enMetaDescriptionLength": 154,
+      "koFaqCount": 6,
+      "enFaqCount": 6,
+      "issues": [],
+      "fixesApplied": [
+        "en.metaDescription trimmed from 172 to 154 chars"
+      ],
+      "jsonValid": true
+    },
+    {
+      "slug": "gold-color-dream",
+      "path": "data/content/colors/gold-color-dream.json",
+      "status": "pass",
+      "seoSlug": "gold-color-dream",
+      "seoKoreanSlug": "geumsaek-kkum",
+      "koMetaDescriptionLength": 80,
+      "enMetaDescriptionLength": 159,
+      "koFaqCount": 6,
+      "enFaqCount": 6,
+      "issues": [],
+      "fixesApplied": [
+        "ko.metaDescription expanded from 75 to 80 chars"
+      ],
+      "jsonValid": true
+    },
+    {
+      "slug": "green-color-dream",
+      "path": "data/content/colors/green-color-dream.json",
+      "status": "pass",
+      "seoSlug": "green-color-dream",
+      "seoKoreanSlug": "choroksaek-kkum",
+      "koMetaDescriptionLength": 80,
+      "enMetaDescriptionLength": 152,
+      "koFaqCount": 7,
+      "enFaqCount": 7,
+      "issues": [],
+      "fixesApplied": [
+        "ko.metaDescription expanded from 69 to 80 chars",
+        "en.metaDescription trimmed from 163 to 152 chars"
+      ],
+      "jsonValid": true
+    },
+    {
+      "slug": "red-color-dream",
+      "path": "data/content/colors/red-color-dream.json",
+      "status": "pass",
+      "seoSlug": "red-color-dream",
+      "seoKoreanSlug": "ppalgansaek-kkum",
+      "koMetaDescriptionLength": 80,
+      "enMetaDescriptionLength": 156,
+      "koFaqCount": 6,
+      "enFaqCount": 6,
+      "issues": [],
+      "fixesApplied": [
+        "ko.metaDescription expanded from 66 to 80 chars",
+        "en.metaDescription trimmed from 170 to 156 chars"
+      ],
+      "jsonValid": true
+    },
+    {
+      "slug": "white-color-dream",
+      "path": "data/content/colors/white-color-dream.json",
+      "status": "pass",
+      "seoSlug": "white-color-dream",
+      "seoKoreanSlug": "huinsaek-kkum",
+      "koMetaDescriptionLength": 81,
+      "enMetaDescriptionLength": 158,
+      "koFaqCount": 6,
+      "enFaqCount": 6,
+      "issues": [],
+      "fixesApplied": [
+        "ko.metaDescription expanded from 70 to 81 chars",
+        "en.metaDescription trimmed from 166 to 158 chars"
+      ],
+      "jsonValid": true
+    },
+    {
+      "slug": "yellow-color-dream",
+      "path": "data/content/colors/yellow-color-dream.json",
+      "status": "pass",
+      "seoSlug": "yellow-color-dream",
+      "seoKoreanSlug": "noransaek-kkum",
+      "koMetaDescriptionLength": 81,
+      "enMetaDescriptionLength": 157,
+      "koFaqCount": 7,
+      "enFaqCount": 7,
+      "issues": [],
+      "fixesApplied": [
+        "en.metaDescription trimmed from 165 to 157 chars"
+      ],
+      "jsonValid": true
+    }
+  ]
+}

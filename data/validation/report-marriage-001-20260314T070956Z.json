@@ -1,0 +1,290 @@
+{
+  "generatedAt": "2026-03-14T07:09:56Z",
+  "batch": "marriage-001",
+  "category": "marriage",
+  "filesProcessed": 10,
+  "summary": {
+    "ko_metaDescription_fixed": 7,
+    "en_metaDescription_fixed": 7,
+    "total_changes": 14,
+    "flagged_issues": 20,
+    "skipped": 5,
+    "tone_issues_found": 0,
+    "grammar_errors_found": 0,
+    "schema_errors_found": 0,
+    "section_type_korean_strings": 0
+  },
+  "validations": {
+    "seo_slug_present": "PASS — all 10 files have non-empty seo.slug and seo.koreanSlug",
+    "canonical_url_format": "PASS — all 10 files with seo.canonicalUrl have full https:// URLs",
+    "korean_tone": "PASS — all Korean prose uses 해요체/합니다체, no 반말 detected",
+    "english_grammar": "PASS — no grammar or spelling errors detected",
+    "faqs_minimum_5": "PASS — all files have ≥5 FAQ pairs in both ko and en",
+    "sections_minimum_1": "PASS — all files have ≥1 sections",
+    "variations_minimum_1": "PASS — all files have ≥1 variations",
+    "section_type_values": "PASS — no sections use Korean type strings (흉몽/길몽); sections have no 'type' field at all",
+    "required_fields_present": "PASS — all 10 files have non-empty title, metaDescription, h1, intro, sections, variations, faqs, conclusion, culturalContext in both ko and en"
+  },
+  "changed": [
+    {
+      "slug": "ex-boyfriend-dream",
+      "field": "ko.metaDescription",
+      "action": "expanded",
+      "before_chars": 78,
+      "after_chars": 82,
+      "note": "Added '상세히' before '알려드려요' to reach 80-char minimum"
+    },
+    {
+      "slug": "ex-girlfriend-dream",
+      "field": "ko.metaDescription",
+      "action": "expanded",
+      "before_chars": 76,
+      "after_chars": 80,
+      "note": "Changed '전여친 꿈 의미' to '전여친 꿈의 모든 의미' to reach 80-char minimum; also updated matching JSON-LD description field"
+    },
+    {
+      "slug": "first-love-dream",
+      "field": "ko.metaDescription",
+      "action": "expanded",
+      "before_chars": 69,
+      "after_chars": 80,
+      "note": "Added '완벽' + '한국' to reach 80-char minimum; also updated matching JSON-LD description field"
+    },
+    {
+      "slug": "first-love-dream",
+      "field": "en.metaDescription",
+      "action": "trimmed",
+      "before_chars": 169,
+      "after_chars": 157,
+      "note": "Removed 'by scenario' (redundant) to fit 160-char limit"
+    },
+    {
+      "slug": "marriage-dream",
+      "field": "ko.metaDescription",
+      "action": "expanded",
+      "before_chars": 72,
+      "after_chars": 84,
+      "note": "Expanded closing phrase to '의미를 완벽하게 해석해 드립니다' to reach 80-char minimum; also updated matching JSON-LD description field"
+    },
+    {
+      "slug": "marriage-dream",
+      "field": "en.metaDescription",
+      "action": "trimmed",
+      "before_chars": 164,
+      "after_chars": 159,
+      "note": "Changed 'different scenarios reveal' to 'each scenario reveals' to fit 160-char limit"
+    },
+    {
+      "slug": "affair-dream",
+      "field": "en.metaDescription",
+      "action": "trimmed",
+      "before_chars": 179,
+      "after_chars": 158,
+      "note": "Removed 'often considered' and 'change' → 'shift'; also updated matching JSON-LD description field"
+    },
+    {
+      "slug": "proposal-dream",
+      "field": "en.metaDescription",
+      "action": "trimmed",
+      "before_chars": 180,
+      "after_chars": 157,
+      "note": "Reworded to remove '꿈해몽' and trim 'Explore' phrasing; also updated matching JSON-LD description field"
+    },
+    {
+      "slug": "spouse-cheating-dream",
+      "field": "ko.metaDescription",
+      "action": "expanded",
+      "before_chars": 74,
+      "after_chars": 83,
+      "note": "Changed '전통 반전 해석' to '전통 역몽 해석' and added '전문가 시각으로'; also updated matching JSON-LD description field"
+    },
+    {
+      "slug": "spouse-cheating-dream",
+      "field": "en.metaDescription",
+      "action": "trimmed",
+      "before_chars": 169,
+      "after_chars": 154,
+      "note": "Removed 'interpretation' (redundant) after 'reversal'; also updated matching JSON-LD description field"
+    },
+    {
+      "slug": "wedding-ceremony-dream",
+      "field": "ko.metaDescription",
+      "action": "expanded",
+      "before_chars": 72,
+      "after_chars": 82,
+      "note": "Changed trailing '...해석까지.' to '...해석을 완벽히 정리했습니다.' to reach 80-char minimum; also updated matching JSON-LD description field"
+    },
+    {
+      "slug": "wedding-ceremony-dream",
+      "field": "en.metaDescription",
+      "action": "trimmed",
+      "before_chars": 169,
+      "after_chars": 157,
+      "note": "Removed '(해몽)' and 'unpacks...and more' phrasing; also updated matching JSON-LD description field"
+    },
+    {
+      "slug": "wedding-dress-dream",
+      "field": "ko.metaDescription",
+      "action": "expanded",
+      "before_chars": 78,
+      "after_chars": 82,
+      "note": "Added '꿈 등' before '상황별' to reach 80-char minimum; also updated matching JSON-LD description field"
+    },
+    {
+      "slug": "wedding-dress-dream",
+      "field": "en.metaDescription",
+      "action": "trimmed",
+      "before_chars": 162,
+      "after_chars": 157,
+      "note": "Removed '(해몽)' parenthetical to fit 160-char limit; also updated matching JSON-LD description field"
+    }
+  ],
+  "flagged": [
+    {
+      "slug": "affair-dream",
+      "issue": "sections_and_variations_use_content_key_not_body",
+      "severity": "warning",
+      "note": "All sections and variations use 'content' key instead of the schema-spec 'body' key. No fix applied — structural migration required."
+    },
+    {
+      "slug": "affair-dream",
+      "issue": "related_dreams_at_root_not_seo_relatedSlugs",
+      "severity": "warning",
+      "note": "'relatedDreams' array exists at root level. Schema spec requires 'seo.relatedSlugs'. No fix applied — structural migration required."
+    },
+    {
+      "slug": "ex-boyfriend-dream",
+      "issue": "sections_and_variations_use_content_key_not_body",
+      "severity": "warning",
+      "note": "All sections and variations use 'content' key instead of the schema-spec 'body' key. No fix applied — structural migration required."
+    },
+    {
+      "slug": "ex-boyfriend-dream",
+      "issue": "related_dreams_at_root_not_seo_relatedSlugs",
+      "severity": "warning",
+      "note": "'relatedDreams' array exists at root level. Schema spec requires 'seo.relatedSlugs'. No fix applied — structural migration required."
+    },
+    {
+      "slug": "ex-girlfriend-dream",
+      "issue": "sections_and_variations_use_content_key_not_body",
+      "severity": "warning",
+      "note": "All sections and variations use 'content' key instead of the schema-spec 'body' key. No fix applied — structural migration required."
+    },
+    {
+      "slug": "ex-girlfriend-dream",
+      "issue": "related_dreams_at_root_not_seo_relatedSlugs",
+      "severity": "warning",
+      "note": "'relatedDreams' array exists at root level. Schema spec requires 'seo.relatedSlugs'. No fix applied — structural migration required."
+    },
+    {
+      "slug": "first-love-dream",
+      "issue": "sections_and_variations_use_content_key_not_body",
+      "severity": "warning",
+      "note": "All sections and variations use 'content' key instead of the schema-spec 'body' key. No fix applied — structural migration required."
+    },
+    {
+      "slug": "first-love-dream",
+      "issue": "related_dreams_at_root_not_seo_relatedSlugs",
+      "severity": "warning",
+      "note": "'relatedDreams' array exists at root level. Schema spec requires 'seo.relatedSlugs'. No fix applied — structural migration required."
+    },
+    {
+      "slug": "marriage-dream",
+      "issue": "sections_and_variations_use_content_key_not_body",
+      "severity": "warning",
+      "note": "All sections and variations use 'content' key instead of the schema-spec 'body' key. No fix applied — structural migration required."
+    },
+    {
+      "slug": "marriage-dream",
+      "issue": "related_dreams_at_root_not_seo_relatedSlugs",
+      "severity": "warning",
+      "note": "'relatedDreams' array exists at root level. Schema spec requires 'seo.relatedSlugs'. No fix applied — structural migration required."
+    },
+    {
+      "slug": "proposal-dream",
+      "issue": "sections_and_variations_use_content_key_not_body",
+      "severity": "warning",
+      "note": "All sections and variations use 'content' key instead of the schema-spec 'body' key. No fix applied — structural migration required."
+    },
+    {
+      "slug": "proposal-dream",
+      "issue": "related_dreams_at_root_not_seo_relatedSlugs",
+      "severity": "warning",
+      "note": "'relatedDreams' array exists at root level. Schema spec requires 'seo.relatedSlugs'. No fix applied — structural migration required."
+    },
+    {
+      "slug": "spouse-cheating-dream",
+      "issue": "sections_and_variations_use_content_key_not_body",
+      "severity": "warning",
+      "note": "All sections and variations use 'content' key instead of the schema-spec 'body' key. No fix applied — structural migration required."
+    },
+    {
+      "slug": "spouse-cheating-dream",
+      "issue": "related_dreams_at_root_not_seo_relatedSlugs",
+      "severity": "warning",
+      "note": "'relatedDreams' array exists at root level. Schema spec requires 'seo.relatedSlugs'. No fix applied — structural migration required."
+    },
+    {
+      "slug": "wedding-ceremony-dream",
+      "issue": "sections_and_variations_use_content_key_not_body",
+      "severity": "warning",
+      "note": "All sections and variations use 'content' key instead of the schema-spec 'body' key. No fix applied — structural migration required."
+    },
+    {
+      "slug": "wedding-ceremony-dream",
+      "issue": "related_dreams_at_root_not_seo_relatedSlugs",
+      "severity": "warning",
+      "note": "'relatedDreams' array exists at root level. Schema spec requires 'seo.relatedSlugs'. No fix applied — structural migration required."
+    },
+    {
+      "slug": "wedding-dress-dream",
+      "issue": "sections_and_variations_use_content_key_not_body",
+      "severity": "warning",
+      "note": "All sections and variations use 'content' key instead of the schema-spec 'body' key. No fix applied — structural migration required."
+    },
+    {
+      "slug": "wedding-dress-dream",
+      "issue": "related_dreams_at_root_not_seo_relatedSlugs",
+      "severity": "warning",
+      "note": "'relatedDreams' array exists at root level. Schema spec requires 'seo.relatedSlugs'. No fix applied — structural migration required."
+    },
+    {
+      "slug": "wedding-ring-dream",
+      "issue": "sections_and_variations_use_content_key_not_body",
+      "severity": "warning",
+      "note": "All sections and variations use 'content' key instead of the schema-spec 'body' key. No fix applied — structural migration required."
+    },
+    {
+      "slug": "wedding-ring-dream",
+      "issue": "related_dreams_at_root_not_seo_relatedSlugs",
+      "severity": "warning",
+      "note": "'relatedDreams' array exists at root level. Schema spec requires 'seo.relatedSlugs'. No fix applied — structural migration required."
+    }
+  ],
+  "skipped": [
+    {
+      "slug": "wedding-ring-dream",
+      "reason": "All fields in range: ko.metaDescription=82, en.metaDescription=158. No fixes needed."
+    },
+    {
+      "slug": "affair-dream",
+      "field": "ko.metaDescription",
+      "reason": "ko.metaDescription=87, in range 80-110. No fix needed."
+    },
+    {
+      "slug": "ex-boyfriend-dream",
+      "field": "en.metaDescription",
+      "reason": "en.metaDescription=155, in range 120-160. No fix needed."
+    },
+    {
+      "slug": "ex-girlfriend-dream",
+      "field": "en.metaDescription",
+      "reason": "en.metaDescription=154, in range 120-160. No fix needed."
+    },
+    {
+      "slug": "proposal-dream",
+      "field": "ko.metaDescription",
+      "reason": "ko.metaDescription=84, in range 80-110. No fix needed."
+    }
+  ]
+}

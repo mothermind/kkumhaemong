@@ -1,0 +1,303 @@
+{
+  "generatedAt": "2026-03-14T07:09:25Z",
+  "batch": "nature-001",
+  "summary": {
+    "filesScanned": 10,
+    "filesChanged": 10,
+    "issuesFlagged": 20,
+    "filesSkipped": 0
+  },
+  "changed": [
+    {
+      "slug": "cave-dream",
+      "category": "nature",
+      "filePath": "data/content/nature/cave-dream.json",
+      "fixes": [
+        {
+          "field": "ko.metaDescription",
+          "issue": "74 chars — below minimum of 80",
+          "action": "Expanded to 96 chars: appended '태몽과 심리적 의미도 함께 안내합니다.'"
+        },
+        {
+          "field": "en.metaDescription",
+          "issue": "172 chars — above maximum of 160",
+          "action": "Trimmed to 148 chars: shortened opening phrase and removed redundant list item 'in cave'"
+        }
+      ]
+    },
+    {
+      "slug": "cliff-dream",
+      "category": "nature",
+      "filePath": "data/content/nature/cliff-dream.json",
+      "fixes": [
+        {
+          "field": "en.metaDescription",
+          "issue": "192 chars — above maximum of 160",
+          "action": "Trimmed to 154 chars: removed 'Explore' opener, condensed list, removed 'Freudian and'"
+        }
+      ]
+    },
+    {
+      "slug": "climbing-mountain-nature-dream",
+      "category": "nature",
+      "filePath": "data/content/nature/climbing-mountain-nature-dream.json",
+      "fixes": [
+        {
+          "field": "ko.metaDescription",
+          "issue": "76 chars — below minimum of 80",
+          "action": "Expanded to 85 chars: appended '와 태몽 해석까지'"
+        }
+      ]
+    },
+    {
+      "slug": "earthquake-dream",
+      "category": "nature",
+      "filePath": "data/content/nature/earthquake-dream.json",
+      "fixes": [
+        {
+          "field": "ko.metaDescription",
+          "issue": "76 chars — below minimum of 80",
+          "action": "Expanded to 91 chars: appended '심리적 의미도 안내합니다.'"
+        },
+        {
+          "field": "en.metaDescription",
+          "issue": "167 chars — above maximum of 160",
+          "action": "Trimmed to 144 chars: shortened 'Korean dream interpretation' to 'Korean 해몽' and 'full guide' to 'guide'"
+        }
+      ]
+    },
+    {
+      "slug": "falling-from-mountain-dream",
+      "category": "nature",
+      "filePath": "data/content/nature/falling-from-mountain-dream.json",
+      "fixes": [
+        {
+          "field": "en.metaDescription",
+          "issue": "185 chars — above maximum of 160",
+          "action": "Trimmed to 160 chars: condensed opening phrase, removed period after 'vs'"
+        }
+      ]
+    },
+    {
+      "slug": "forest-dream",
+      "category": "nature",
+      "filePath": "data/content/nature/forest-dream.json",
+      "fixes": [
+        {
+          "field": "en.metaDescription",
+          "issue": "167 chars — above maximum of 160",
+          "action": "Trimmed to 158 chars: replaced 'Full interpretation' with 'Full guide'"
+        }
+      ]
+    },
+    {
+      "slug": "garden-dream",
+      "category": "nature",
+      "filePath": "data/content/nature/garden-dream.json",
+      "fixes": [
+        {
+          "field": "ko.metaDescription",
+          "issue": "67 chars — below minimum of 80",
+          "action": "Expanded to 83 chars: appended '색깔별·상황별 꿈 풀이까지.'"
+        }
+      ]
+    },
+    {
+      "slug": "mountain-dream",
+      "category": "nature",
+      "filePath": "data/content/nature/mountain-dream.json",
+      "fixes": [
+        {
+          "field": "ko.metaDescription",
+          "issue": "71 chars — below minimum of 80",
+          "action": "Expanded to 96 chars: appended '태몽 해석과 심리적 의미도 함께 안내합니다.'"
+        },
+        {
+          "field": "en.metaDescription",
+          "issue": "165 chars — above maximum of 160",
+          "action": "Trimmed to 139 chars: removed 'Full guide to ... explained' frame, condensed to keyword list format"
+        }
+      ]
+    },
+    {
+      "slug": "mountain-top-dream",
+      "category": "nature",
+      "filePath": "data/content/nature/mountain-top-dream.json",
+      "fixes": [
+        {
+          "field": "ko.metaDescription",
+          "issue": "75 chars — below minimum of 80",
+          "action": "Expanded to 96 chars: appended '상황별 꿈 풀이와 심리적 의미 포함.'"
+        },
+        {
+          "field": "en.metaDescription",
+          "issue": "179 chars — above maximum of 160",
+          "action": "Trimmed to 159 chars: shortened 'dreaming of reaching' to 'reaching', removed 'Explore' opener"
+        }
+      ]
+    },
+    {
+      "slug": "volcano-dream",
+      "category": "nature",
+      "filePath": "data/content/nature/volcano-dream.json",
+      "fixes": [
+        {
+          "field": "en.metaDescription",
+          "issue": "201 chars — above maximum of 160",
+          "action": "Trimmed to 159 chars: shortened '(해몽) explained' to '해몽 explained', condensed list, removed 'all variations'"
+        }
+      ]
+    }
+  ],
+  "flagged": [
+    {
+      "slug": "cave-dream",
+      "category": "nature",
+      "flags": [
+        {
+          "field": "ko.sections[*].content / en.sections[*].content",
+          "issue": "Sections use 'content' key instead of required 'body' key — affects both ko and en section arrays"
+        },
+        {
+          "field": "relatedDreams",
+          "issue": "'relatedDreams' array is at root level — should be 'seo.relatedSlugs' per schema"
+        }
+      ]
+    },
+    {
+      "slug": "cliff-dream",
+      "category": "nature",
+      "flags": [
+        {
+          "field": "ko.sections[*].content / en.sections[*].content",
+          "issue": "Sections use 'content' key instead of required 'body' key — affects both ko and en section arrays"
+        },
+        {
+          "field": "relatedDreams",
+          "issue": "'relatedDreams' array is at root level — should be 'seo.relatedSlugs' per schema"
+        }
+      ]
+    },
+    {
+      "slug": "climbing-mountain-nature-dream",
+      "category": "nature",
+      "flags": [
+        {
+          "field": "ko.sections[*].content / en.sections[*].content",
+          "issue": "Sections use 'content' key instead of required 'body' key — affects both ko and en section arrays"
+        },
+        {
+          "field": "relatedDreams",
+          "issue": "'relatedDreams' array is at root level — should be 'seo.relatedSlugs' per schema"
+        }
+      ]
+    },
+    {
+      "slug": "earthquake-dream",
+      "category": "nature",
+      "flags": [
+        {
+          "field": "ko.sections[*].content / en.sections[*].content",
+          "issue": "Sections use 'content' key instead of required 'body' key — affects both ko and en section arrays"
+        },
+        {
+          "field": "relatedDreams",
+          "issue": "'relatedDreams' array is at root level — should be 'seo.relatedSlugs' per schema"
+        }
+      ]
+    },
+    {
+      "slug": "falling-from-mountain-dream",
+      "category": "nature",
+      "flags": [
+        {
+          "field": "ko.sections[*].content / en.sections[*].content",
+          "issue": "Sections use 'content' key instead of required 'body' key — affects both ko and en section arrays"
+        },
+        {
+          "field": "relatedDreams",
+          "issue": "'relatedDreams' array is at root level — should be 'seo.relatedSlugs' per schema"
+        }
+      ]
+    },
+    {
+      "slug": "forest-dream",
+      "category": "nature",
+      "flags": [
+        {
+          "field": "ko.sections[*].content / en.sections[*].content",
+          "issue": "Sections use 'content' key instead of required 'body' key — affects both ko and en section arrays"
+        },
+        {
+          "field": "relatedDreams",
+          "issue": "'relatedDreams' array is at root level — should be 'seo.relatedSlugs' per schema"
+        }
+      ]
+    },
+    {
+      "slug": "garden-dream",
+      "category": "nature",
+      "flags": [
+        {
+          "field": "ko.sections[*].content / en.sections[*].content",
+          "issue": "Sections use 'content' key instead of required 'body' key — affects both ko and en section arrays"
+        },
+        {
+          "field": "relatedDreams",
+          "issue": "'relatedDreams' array is at root level — should be 'seo.relatedSlugs' per schema"
+        }
+      ]
+    },
+    {
+      "slug": "mountain-dream",
+      "category": "nature",
+      "flags": [
+        {
+          "field": "ko.sections[*].content / en.sections[*].content",
+          "issue": "Sections use 'content' key instead of required 'body' key — affects both ko and en section arrays"
+        },
+        {
+          "field": "relatedDreams",
+          "issue": "'relatedDreams' array is at root level — should be 'seo.relatedSlugs' per schema"
+        }
+      ]
+    },
+    {
+      "slug": "mountain-top-dream",
+      "category": "nature",
+      "flags": [
+        {
+          "field": "ko.sections[*].content / en.sections[*].content",
+          "issue": "Sections use 'content' key instead of required 'body' key — affects both ko and en section arrays"
+        },
+        {
+          "field": "relatedDreams",
+          "issue": "'relatedDreams' array is at root level — should be 'seo.relatedSlugs' per schema"
+        }
+      ]
+    },
+    {
+      "slug": "volcano-dream",
+      "category": "nature",
+      "flags": [
+        {
+          "field": "ko.sections[*].content / en.sections[*].content",
+          "issue": "Sections use 'content' key instead of required 'body' key — affects both ko and en section arrays"
+        },
+        {
+          "field": "relatedDreams",
+          "issue": "'relatedDreams' array is at root level — should be 'seo.relatedSlugs' per schema"
+        }
+      ]
+    }
+  ],
+  "skipped": [],
+  "notes": {
+    "koreanTone": "All 10 files use 해요체/합니다체 consistently. No 반말 detected.",
+    "englishGrammar": "No grammar or spelling errors detected across EN content fields.",
+    "seoSchema": "All 10 files have non-empty seo.slug and seo.koreanSlug. canonicalUrl is a full https:// URL in all files.",
+    "requiredFields": "All 10 files pass: ko and en both have non-empty title, metaDescription, h1, intro, sections (≥1), variations (≥1), faqs (≥5), conclusion, culturalContext.",
+    "sectionTypes": "No sections use Korean strings (길몽/흉몽) as type values — sections use heading text only.",
+    "structuralFlags": "ALL 10 files flagged for: (1) sections using 'content' key instead of 'body', (2) 'relatedDreams' at root instead of 'seo.relatedSlugs'. These are schema-level issues requiring a batch migration script, not per-file edits."
+  }
+}

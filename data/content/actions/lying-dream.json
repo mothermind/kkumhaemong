@@ -4,7 +4,7 @@
   "generatedAt": "2026-03-12T00:00:00.000Z",
   "ko": {
     "title": "거짓말하는 꿈 해몽 - 죄책감·불안·관계의 위기 완벽 정리",
-    "metaDescription": "거짓말하는 꿈 해몽 완벽 정리. 들키는 꿈, 선의의 거짓말 꿈, 타인이 거짓말하는 꿈까지 — 길몽·흉몽 판단 기준과 심리적 의미를 깊이 있게 분석합니다.",
+    "metaDescription": "거짓말하는 꿈의 해몽을 완벽 정리했습니다. 거짓말이 들키는 꿈, 선의의 거짓말 꿈, 타인에게 거짓말을 당하는 꿈까지 길몽·흉몽 판단 기준과 심리적 의미를 깊이 있게 분석합니다. 거짓말 꿈이 전하는 메시지와 주의사항도 알아보세요.",
     "h1": "거짓말하는 꿈 해몽",
     "intro": "거짓말하는 꿈은 대부분 흉몽입니다. 낮 동안 마음속 깊이 눌러놓은 죄책감이나 비밀이 수면 중 이 형태로 터져 나오는 것이죠. 그런데 한 가지—꿈속 거짓말이 항상 나쁜 신호만은 아닙니다. 누군가를 보호하기 위한 선의의 거짓말이었다면, 꿈은 당신에게 억울한 오해를 예고하면서도 결국 진실이 드러날 것이라는 반전의 메시지를 함께 건네고 있습니다.",
     "sections": [
@@ -110,7 +110,7 @@
   },
   "en": {
     "title": "Lying Dream Meaning - Guilt, Self-Deception & Relationship Warnings Explained",
-    "metaDescription": "What does dreaming of lying mean? Explore Korean and psychological interpretations — being caught in a lie, lying to protect someone, and recurring lying dreams.",
+    "metaDescription": "Lying dream meaning in Korean haemong and psychology. Being caught, lying to protect someone — auspicious and inauspicious fortune interpretations.",
     "h1": "Lying Dream Meaning",
     "intro": "Dreaming of lying is almost always a signal from within — the guilt, anxiety, or hidden truth you've been carrying in waking life breaking through during sleep. In Korean dream tradition, it's classified as an inauspicious sign (흉몽) that warns of damaged trust and reputation anxiety. But here's the nuance that changes everything: if you were lying to protect someone else, the dream carries a different arc — an initial unfair accusation, followed by eventual vindication.",
     "sections": [
@@ -326,7 +326,16 @@
         "거짓말탐지기꿈",
         "꿈해석"
       ]
-    }
+    },
+    "relatedSlugs": [
+      "confessing-dream",
+      "cheating-dream",
+      "stealing-dream",
+      "betrayal-dream",
+      "hiding-secret-dream",
+      "being-accused-dream",
+      "deceiving-dream"
+    ]
   },
   "images": {
     "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/lying-dream/hero.webp",
@@ -334,14 +343,5 @@
       "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/lying-dream/auspicious.webp",
       "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/lying-dream/inauspicious.webp"
     }
-  },
-  "relatedDreams": [
-    "confessing-dream",
-    "cheating-dream",
-    "stealing-dream",
-    "betrayal-dream",
-    "hiding-secret-dream",
-    "being-accused-dream",
-    "deceiving-dream"
-  ]
+  }
 }

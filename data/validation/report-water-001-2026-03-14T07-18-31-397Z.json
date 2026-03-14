@@ -1,0 +1,183 @@
+{
+  "generatedAt": "2026-03-14T07:18:31.397Z",
+  "summary": {
+    "filesScanned": 10,
+    "filesChanged": 10,
+    "issuesFlagged": 0,
+    "filesSkipped": 0
+  },
+  "changed": [
+    {
+      "slug": "clear-water-dream",
+      "category": "water",
+      "filePath": "data/content/water/clear-water-dream.json",
+      "fixes": [
+        {
+          "field": "en.metaDescription",
+          "issue": "Length 178 chars — exceeded 160-char maximum",
+          "action": "Trimmed by removing \", variations,\" from ending clause; final length 135 chars"
+        }
+      ]
+    },
+    {
+      "slug": "crossing-river-dream",
+      "category": "water",
+      "filePath": "data/content/water/crossing-river-dream.json",
+      "fixes": [
+        {
+          "field": "en.metaDescription",
+          "issue": "Length 182 chars — exceeded 160-char maximum",
+          "action": "Reworded to concise one-liner emphasising clear vs muddy water; final length 136 chars"
+        }
+      ]
+    },
+    {
+      "slug": "dirty-water-dream",
+      "category": "water",
+      "filePath": "data/content/water/dirty-water-dream.json",
+      "fixes": [
+        {
+          "field": "en.metaDescription",
+          "issue": "Length 178 chars — exceeded 160-char maximum",
+          "action": "Reworded to highlight key omens and lucky exception; final length 141 chars"
+        }
+      ]
+    },
+    {
+      "slug": "drowning-dream",
+      "category": "water",
+      "filePath": "data/content/water/drowning-dream.json",
+      "fixes": [
+        {
+          "field": "en.metaDescription",
+          "issue": "Length 176 chars — exceeded 160-char maximum",
+          "action": "Reworded to concise scenario list; final length 139 chars"
+        }
+      ]
+    },
+    {
+      "slug": "falling-into-water-dream",
+      "category": "water",
+      "filePath": "data/content/water/falling-into-water-dream.json",
+      "fixes": [
+        {
+          "field": "ko.metaDescription",
+          "issue": "Length 78 chars — below 80-char minimum",
+          "action": "Added \"·수영장\" to location list, extending coverage naturally; final length 82 chars"
+        }
+      ]
+    },
+    {
+      "slug": "flood-dream",
+      "category": "water",
+      "filePath": "data/content/water/flood-dream.json",
+      "fixes": [
+        {
+          "field": "en.metaDescription",
+          "issue": "Length 186 chars — exceeded 160-char maximum",
+          "action": "Trimmed to core clear-vs-murky contrast and coverage promise; final length 138 chars"
+        }
+      ]
+    },
+    {
+      "slug": "ocean-dream",
+      "category": "water",
+      "filePath": "data/content/water/ocean-dream.json",
+      "fixes": [
+        {
+          "field": "en.metaDescription",
+          "issue": "Length 186 chars — exceeded 160-char maximum",
+          "action": "Trimmed to key scenario list (calm, storms, swimming, sunrise, pregnancy); final length 136 chars"
+        }
+      ]
+    },
+    {
+      "slug": "rain-dream",
+      "category": "water",
+      "filePath": "data/content/water/rain-dream.json",
+      "fixes": [
+        {
+          "field": "en.metaDescription",
+          "issue": "Length 184 chars — exceeded 160-char maximum",
+          "action": "Trimmed to soaked=fortune vs torrential=hardship contrast plus coverage mention; final length 141 chars"
+        }
+      ]
+    },
+    {
+      "slug": "riding-boat-dream",
+      "category": "water",
+      "filePath": "data/content/water/riding-boat-dream.json",
+      "fixes": [
+        {
+          "field": "en.metaDescription",
+          "issue": "Length 184 chars — exceeded 160-char maximum",
+          "action": "Trimmed to calm-sailing vs sinking contrast; final length 140 chars"
+        }
+      ]
+    },
+    {
+      "slug": "water-dream",
+      "category": "water",
+      "filePath": "data/content/water/water-dream.json",
+      "fixes": [
+        {
+          "field": "en.metaDescription",
+          "issue": "Length 183 chars — exceeded 160-char maximum",
+          "action": "Trimmed to clear-vs-muddy contrast plus floods/drowning/home scenarios; final length 141 chars"
+        }
+      ]
+    }
+  ],
+  "flagged": [],
+  "skipped": [],
+  "verifiedLengths": {
+    "clear-water-dream": {
+      "ko": 90,
+      "en": 135
+    },
+    "crossing-river-dream": {
+      "ko": 104,
+      "en": 136
+    },
+    "dirty-water-dream": {
+      "ko": 85,
+      "en": 141
+    },
+    "drowning-dream": {
+      "ko": 82,
+      "en": 139
+    },
+    "falling-into-water-dream": {
+      "ko": 82,
+      "en": 156
+    },
+    "flood-dream": {
+      "ko": 87,
+      "en": 138
+    },
+    "ocean-dream": {
+      "ko": 93,
+      "en": 136
+    },
+    "rain-dream": {
+      "ko": 89,
+      "en": 141
+    },
+    "riding-boat-dream": {
+      "ko": 89,
+      "en": 140
+    },
+    "water-dream": {
+      "ko": 98,
+      "en": 141
+    }
+  },
+  "validationRules": {
+    "koMetaDescription": "80–110 chars",
+    "enMetaDescription": "120–160 chars",
+    "minFaqs": 5,
+    "sectionBodyKey": "body (not content)",
+    "relatedSlugsLocation": "seo.relatedSlugs (not root relatedDreams)",
+    "heroImagePattern": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/{slug}/hero.webp"
+  }
+}

@@ -1,0 +1,395 @@
+{
+  "reportId": "report-body-001",
+  "generatedAt": "2026-03-14T07:15:00Z",
+  "category": "body",
+  "totalFiles": 10,
+  "passed": 10,
+  "failed": 0,
+  "fixesApplied": 11,
+  "flagged": 1,
+  "summary": "All 10 JSON files in data/content/body/ passed validation after targeted metaDescription fixes. JSON is valid across all files. Schema completeness confirmed. One flag raised for local image paths in sleep-paralysis-dream (not changed per instructions).",
+  "files": [
+    {
+      "file": "all-teeth-falling-dream.json",
+      "slug": "all-teeth-falling-dream",
+      "koreanSlug": "ippal-da-ppajineun-kkum",
+      "jsonValid": true,
+      "ko": {
+        "metaDescriptionLen": 83,
+        "metaDescriptionPass": true,
+        "faqCount": 8,
+        "schemaComplete": true
+      },
+      "en": {
+        "metaDescriptionLen": 154,
+        "metaDescriptionPass": true,
+        "faqCount": 7,
+        "schemaComplete": true
+      },
+      "seo": {
+        "slugPresent": true,
+        "koreanSlugPresent": true,
+        "canonicalUrlPresent": true,
+        "canonicalUrlValid": true
+      },
+      "images": {
+        "useFirebaseStorage": true
+      },
+      "fixes": [
+        {
+          "field": "en.metaDescription",
+          "action": "trimmed",
+          "before": 171,
+          "after": 154,
+          "reason": "Exceeded 160 char limit"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "file": "being-naked-dream.json",
+      "slug": "being-naked-dream",
+      "koreanSlug": "beolgeoboseun-kkum",
+      "jsonValid": true,
+      "ko": {
+        "metaDescriptionLen": 82,
+        "metaDescriptionPass": true,
+        "faqCount": 8,
+        "schemaComplete": true
+      },
+      "en": {
+        "metaDescriptionLen": 158,
+        "metaDescriptionPass": true,
+        "faqCount": 8,
+        "schemaComplete": true
+      },
+      "seo": {
+        "slugPresent": true,
+        "koreanSlugPresent": true,
+        "canonicalUrlPresent": true,
+        "canonicalUrlValid": true
+      },
+      "images": {
+        "useFirebaseStorage": true
+      },
+      "fixes": [
+        {
+          "field": "en.metaDescription",
+          "action": "trimmed",
+          "before": 163,
+          "after": 158,
+          "reason": "Exceeded 160 char limit"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "file": "blood-dream.json",
+      "slug": "blood-dream",
+      "koreanSlug": "pi-kkum",
+      "jsonValid": true,
+      "ko": {
+        "metaDescriptionLen": 83,
+        "metaDescriptionPass": true,
+        "faqCount": 8,
+        "schemaComplete": true
+      },
+      "en": {
+        "metaDescriptionLen": 160,
+        "metaDescriptionPass": true,
+        "faqCount": 8,
+        "schemaComplete": true
+      },
+      "seo": {
+        "slugPresent": true,
+        "koreanSlugPresent": true,
+        "canonicalUrlPresent": true,
+        "canonicalUrlValid": true
+      },
+      "images": {
+        "useFirebaseStorage": true
+      },
+      "fixes": [],
+      "flags": []
+    },
+    {
+      "file": "cutting-hair-dream.json",
+      "slug": "cutting-hair-dream",
+      "koreanSlug": "meori-jareuneun-kkum",
+      "jsonValid": true,
+      "ko": {
+        "metaDescriptionLen": 93,
+        "metaDescriptionPass": true,
+        "faqCount": 8,
+        "schemaComplete": true
+      },
+      "en": {
+        "metaDescriptionLen": 156,
+        "metaDescriptionPass": true,
+        "faqCount": 7,
+        "schemaComplete": true
+      },
+      "seo": {
+        "slugPresent": true,
+        "koreanSlugPresent": true,
+        "canonicalUrlPresent": true,
+        "canonicalUrlValid": true
+      },
+      "images": {
+        "useFirebaseStorage": true
+      },
+      "fixes": [
+        {
+          "field": "en.metaDescription",
+          "action": "trimmed",
+          "before": 201,
+          "after": 156,
+          "reason": "Exceeded 160 char limit"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "file": "hair-falling-out-dream.json",
+      "slug": "hair-falling-out-dream",
+      "koreanSlug": "meorikarak-ppajineun-kkum",
+      "jsonValid": true,
+      "ko": {
+        "metaDescriptionLen": 82,
+        "metaDescriptionPass": true,
+        "faqCount": 8,
+        "schemaComplete": true
+      },
+      "en": {
+        "metaDescriptionLen": 156,
+        "metaDescriptionPass": true,
+        "faqCount": 8,
+        "schemaComplete": true
+      },
+      "seo": {
+        "slugPresent": true,
+        "koreanSlugPresent": true,
+        "canonicalUrlPresent": true,
+        "canonicalUrlValid": true
+      },
+      "images": {
+        "useFirebaseStorage": true
+      },
+      "fixes": [
+        {
+          "field": "ko.metaDescription",
+          "action": "expanded",
+          "before": 78,
+          "after": 82,
+          "reason": "Below 80 char minimum"
+        },
+        {
+          "field": "en.metaDescription",
+          "action": "trimmed",
+          "before": 170,
+          "after": 156,
+          "reason": "Exceeded 160 char limit"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "file": "paralyzed-dream.json",
+      "slug": "paralyzed-dream",
+      "koreanSlug": "mom-an-umjigineun-kkum",
+      "jsonValid": true,
+      "ko": {
+        "metaDescriptionLen": 83,
+        "metaDescriptionPass": true,
+        "faqCount": 7,
+        "schemaComplete": true
+      },
+      "en": {
+        "metaDescriptionLen": 160,
+        "metaDescriptionPass": true,
+        "faqCount": 7,
+        "schemaComplete": true
+      },
+      "seo": {
+        "slugPresent": true,
+        "koreanSlugPresent": true,
+        "canonicalUrlPresent": true,
+        "canonicalUrlValid": true
+      },
+      "images": {
+        "useFirebaseStorage": true
+      },
+      "fixes": [
+        {
+          "field": "ko.metaDescription",
+          "action": "expanded",
+          "before": 76,
+          "after": 83,
+          "reason": "Below 80 char minimum"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "file": "poop-dream.json",
+      "slug": "poop-dream",
+      "koreanSlug": "ttong-kkum",
+      "jsonValid": true,
+      "ko": {
+        "metaDescriptionLen": 84,
+        "metaDescriptionPass": true,
+        "faqCount": 8,
+        "schemaComplete": true
+      },
+      "en": {
+        "metaDescriptionLen": 160,
+        "metaDescriptionPass": true,
+        "faqCount": 8,
+        "schemaComplete": true
+      },
+      "seo": {
+        "slugPresent": true,
+        "koreanSlugPresent": true,
+        "canonicalUrlPresent": true,
+        "canonicalUrlValid": true
+      },
+      "images": {
+        "useFirebaseStorage": true
+      },
+      "fixes": [],
+      "flags": []
+    },
+    {
+      "file": "sleep-paralysis-dream.json",
+      "slug": "sleep-paralysis-dream",
+      "koreanSlug": "gawie-nullineun-kkum",
+      "jsonValid": true,
+      "ko": {
+        "metaDescriptionLen": 80,
+        "metaDescriptionPass": true,
+        "faqCount": 7,
+        "schemaComplete": true
+      },
+      "en": {
+        "metaDescriptionLen": 152,
+        "metaDescriptionPass": true,
+        "faqCount": 7,
+        "schemaComplete": true
+      },
+      "seo": {
+        "slugPresent": true,
+        "koreanSlugPresent": true,
+        "canonicalUrlPresent": true,
+        "canonicalUrlValid": true
+      },
+      "images": {
+        "useFirebaseStorage": false,
+        "note": "Images use local paths (/images/dreams/sleep-paralysis-dream/hero.png) instead of Firebase Storage URLs. Not changed per validation instructions — flagged for manual review."
+      },
+      "fixes": [
+        {
+          "field": "ko.metaDescription",
+          "action": "expanded",
+          "before": 74,
+          "after": 80,
+          "reason": "Below 80 char minimum"
+        },
+        {
+          "field": "en.metaDescription",
+          "action": "trimmed",
+          "before": 164,
+          "after": 152,
+          "reason": "Exceeded 160 char limit"
+        }
+      ],
+      "flags": [
+        {
+          "severity": "warning",
+          "field": "images",
+          "message": "Image paths are local filesystem paths (/images/dreams/sleep-paralysis-dream/hero.png) instead of Firebase Storage URLs (https://storage.googleapis.com/...). Requires manual image upload to Firebase Storage and content update."
+        }
+      ]
+    },
+    {
+      "file": "teeth-breaking-dream.json",
+      "slug": "teeth-breaking-dream",
+      "koreanSlug": "ippal-bureojineun-kkum",
+      "jsonValid": true,
+      "ko": {
+        "metaDescriptionLen": 83,
+        "metaDescriptionPass": true,
+        "faqCount": 7,
+        "schemaComplete": true
+      },
+      "en": {
+        "metaDescriptionLen": 153,
+        "metaDescriptionPass": true,
+        "faqCount": 7,
+        "schemaComplete": true
+      },
+      "seo": {
+        "slugPresent": true,
+        "koreanSlugPresent": true,
+        "canonicalUrlPresent": true,
+        "canonicalUrlValid": true
+      },
+      "images": {
+        "useFirebaseStorage": true
+      },
+      "fixes": [
+        {
+          "field": "ko.metaDescription",
+          "action": "expanded",
+          "before": 79,
+          "after": 83,
+          "reason": "Below 80 char minimum"
+        }
+      ],
+      "flags": []
+    },
+    {
+      "file": "teeth-falling-out-dream.json",
+      "slug": "teeth-falling-out-dream",
+      "koreanSlug": "ippal-ppajineun-kkum",
+      "jsonValid": true,
+      "ko": {
+        "metaDescriptionLen": 81,
+        "metaDescriptionPass": true,
+        "faqCount": 8,
+        "schemaComplete": true
+      },
+      "en": {
+        "metaDescriptionLen": 152,
+        "metaDescriptionPass": true,
+        "faqCount": 7,
+        "schemaComplete": true
+      },
+      "seo": {
+        "slugPresent": true,
+        "koreanSlugPresent": true,
+        "canonicalUrlPresent": true,
+        "canonicalUrlValid": true
+      },
+      "images": {
+        "useFirebaseStorage": true
+      },
+      "fixes": [
+        {
+          "field": "ko.metaDescription",
+          "action": "expanded",
+          "before": 72,
+          "after": 81,
+          "reason": "Below 80 char minimum"
+        },
+        {
+          "field": "en.metaDescription",
+          "action": "trimmed",
+          "before": 164,
+          "after": 152,
+          "reason": "Exceeded 160 char limit"
+        }
+      ],
+      "flags": []
+    }
+  ]
+}

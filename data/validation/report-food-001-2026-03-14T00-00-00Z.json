@@ -1,0 +1,176 @@
+{
+  "reportId": "report-food-001-2026-03-14T00-00-00Z",
+  "category": "food",
+  "generatedAt": "2026-03-14T00:00:00.000Z",
+  "validator": "content-validator-agent",
+  "summary": {
+    "totalFiles": 10,
+    "changed": 9,
+    "flagged": 0,
+    "skipped": 0,
+    "allPassed": true
+  },
+  "changed": [
+    {
+      "slug": "apple-dream",
+      "field": "ko.metaDescription",
+      "issue": "Length was 77 chars (below 80-char minimum)",
+      "fix": "Expanded to 85 chars by adding '색상별 해석까지'",
+      "before_len": 77,
+      "after_len": 85
+    },
+    {
+      "slug": "food-dream",
+      "field": "ko.metaDescription",
+      "issue": "Length was 78 chars (below 80-char minimum)",
+      "fix": "Expanded to 83 chars by adding '종류별로'",
+      "before_len": 78,
+      "after_len": 83
+    },
+    {
+      "slug": "food-dream",
+      "field": "en.metaDescription",
+      "issue": "Length was 166 chars (above 160-char maximum)",
+      "fix": "Trimmed to 139 chars by shortening description",
+      "before_len": 166,
+      "after_len": 139
+    },
+    {
+      "slug": "fruit-dream",
+      "field": "en.metaDescription",
+      "issue": "Length was 186 chars (above 160-char maximum)",
+      "fix": "Trimmed to 160 chars by condensing phrasing",
+      "before_len": 186,
+      "after_len": 160
+    },
+    {
+      "slug": "grape-dream",
+      "field": "ko.metaDescription",
+      "issue": "Length was 75 chars (below 80-char minimum)",
+      "fix": "Expanded to 80 chars by adding '색상별 의미까지'",
+      "before_len": 75,
+      "after_len": 80
+    },
+    {
+      "slug": "grape-dream",
+      "field": "en.metaDescription",
+      "issue": "Length was 161 chars (above 160-char maximum)",
+      "fix": "Trimmed to 155 chars by removing 'bilingual'",
+      "before_len": 161,
+      "after_len": 155
+    },
+    {
+      "slug": "meat-dream",
+      "field": "en.metaDescription",
+      "issue": "Length was 172 chars (above 160-char maximum)",
+      "fix": "Trimmed to 156 chars by condensing health warning phrasing",
+      "before_len": 172,
+      "after_len": 156
+    },
+    {
+      "slug": "peach-dream",
+      "field": "ko.metaDescription",
+      "issue": "Length was 69 chars (below 80-char minimum)",
+      "fix": "Expanded to 91 chars by adding '재물운·애정운도 확인'",
+      "before_len": 69,
+      "after_len": 91
+    },
+    {
+      "slug": "peach-dream",
+      "field": "en.metaDescription",
+      "issue": "Length was 163 chars (above 160-char maximum)",
+      "fix": "Trimmed to 150 chars by removing 'Discover' opener",
+      "before_len": 163,
+      "after_len": 150
+    },
+    {
+      "slug": "persimmon-dream",
+      "field": "ko.metaDescription",
+      "issue": "Length was 63 chars (below 80-char minimum)",
+      "fix": "Expanded to 87 chars by adding '재물운·건강운 중심으로'",
+      "before_len": 63,
+      "after_len": 87
+    },
+    {
+      "slug": "persimmon-dream",
+      "field": "en.metaDescription",
+      "issue": "Length was 162 chars (above 160-char maximum)",
+      "fix": "Trimmed to 156 chars by condensing phrasing",
+      "before_len": 162,
+      "after_len": 156
+    },
+    {
+      "slug": "rice-cake-dream",
+      "field": "ko.metaDescription",
+      "issue": "Length was 74 chars (below 80-char minimum)",
+      "fix": "Expanded to 81 chars by rephrasing structure",
+      "before_len": 74,
+      "after_len": 81
+    },
+    {
+      "slug": "rice-cake-dream",
+      "field": "en.metaDescription",
+      "issue": "Length was 175 chars (above 160-char maximum)",
+      "fix": "Trimmed to 152 chars by condensing opener",
+      "before_len": 175,
+      "after_len": 152
+    },
+    {
+      "slug": "rice-dream",
+      "field": "en.metaDescription",
+      "issue": "Length was 186 chars (above 160-char maximum)",
+      "fix": "Trimmed to 148 chars by removing redundant phrase",
+      "before_len": 186,
+      "after_len": 148
+    },
+    {
+      "slug": "watermelon-dream",
+      "field": "ko.metaDescription",
+      "issue": "Length was 73 chars (below 80-char minimum)",
+      "fix": "Expanded to 84 chars by adding '자르는 꿈'",
+      "before_len": 73,
+      "after_len": 84
+    },
+    {
+      "slug": "watermelon-dream",
+      "field": "en.metaDescription",
+      "issue": "Length was 169 chars (above 160-char maximum)",
+      "fix": "Trimmed to 152 chars by rephrasing opener",
+      "before_len": 169,
+      "after_len": 152
+    }
+  ],
+  "flagged": [],
+  "skipped": [],
+  "schemaValidation": {
+    "allFilesValid": true,
+    "details": [
+      { "slug": "apple-dream", "ko_title": true, "ko_metaDescription": true, "ko_h1": true, "ko_intro": true, "ko_sections_min1": true, "ko_variations_min1": true, "ko_faqs_min5": true, "ko_conclusion": true, "ko_culturalContext": true, "en_title": true, "en_metaDescription": true, "en_h1": true, "en_intro": true, "en_sections_min1": true, "en_variations_min1": true, "en_faqs_min5": true, "en_conclusion": true, "en_culturalContext": true, "seo_slug": true, "seo_koreanSlug": true, "canonicalUrl_valid": true },
+      { "slug": "food-dream", "ko_title": true, "ko_metaDescription": true, "ko_h1": true, "ko_intro": true, "ko_sections_min1": true, "ko_variations_min1": true, "ko_faqs_min5": true, "ko_conclusion": true, "ko_culturalContext": true, "en_title": true, "en_metaDescription": true, "en_h1": true, "en_intro": true, "en_sections_min1": true, "en_variations_min1": true, "en_faqs_min5": true, "en_conclusion": true, "en_culturalContext": true, "seo_slug": true, "seo_koreanSlug": true, "canonicalUrl_valid": true },
+      { "slug": "fruit-dream", "ko_title": true, "ko_metaDescription": true, "ko_h1": true, "ko_intro": true, "ko_sections_min1": true, "ko_variations_min1": true, "ko_faqs_min5": true, "ko_conclusion": true, "ko_culturalContext": true, "en_title": true, "en_metaDescription": true, "en_h1": true, "en_intro": true, "en_sections_min1": true, "en_variations_min1": true, "en_faqs_min5": true, "en_conclusion": true, "en_culturalContext": true, "seo_slug": true, "seo_koreanSlug": true, "canonicalUrl_valid": true },
+      { "slug": "grape-dream", "ko_title": true, "ko_metaDescription": true, "ko_h1": true, "ko_intro": true, "ko_sections_min1": true, "ko_variations_min1": true, "ko_faqs_min5": true, "ko_conclusion": true, "ko_culturalContext": true, "en_title": true, "en_metaDescription": true, "en_h1": true, "en_intro": true, "en_sections_min1": true, "en_variations_min1": true, "en_faqs_min5": true, "en_conclusion": true, "en_culturalContext": true, "seo_slug": true, "seo_koreanSlug": true, "canonicalUrl_valid": true },
+      { "slug": "meat-dream", "ko_title": true, "ko_metaDescription": true, "ko_h1": true, "ko_intro": true, "ko_sections_min1": true, "ko_variations_min1": true, "ko_faqs_min5": true, "ko_conclusion": true, "ko_culturalContext": true, "en_title": true, "en_metaDescription": true, "en_h1": true, "en_intro": true, "en_sections_min1": true, "en_variations_min1": true, "en_faqs_min5": true, "en_conclusion": true, "en_culturalContext": true, "seo_slug": true, "seo_koreanSlug": true, "canonicalUrl_valid": true },
+      { "slug": "peach-dream", "ko_title": true, "ko_metaDescription": true, "ko_h1": true, "ko_intro": true, "ko_sections_min1": true, "ko_variations_min1": true, "ko_faqs_min5": true, "ko_conclusion": true, "ko_culturalContext": true, "en_title": true, "en_metaDescription": true, "en_h1": true, "en_intro": true, "en_sections_min1": true, "en_variations_min1": true, "en_faqs_min5": true, "en_conclusion": true, "en_culturalContext": true, "seo_slug": true, "seo_koreanSlug": true, "canonicalUrl_valid": true },
+      { "slug": "persimmon-dream", "ko_title": true, "ko_metaDescription": true, "ko_h1": true, "ko_intro": true, "ko_sections_min1": true, "ko_variations_min1": true, "ko_faqs_min5": true, "ko_conclusion": true, "ko_culturalContext": true, "en_title": true, "en_metaDescription": true, "en_h1": true, "en_intro": true, "en_sections_min1": true, "en_variations_min1": true, "en_faqs_min5": true, "en_conclusion": true, "en_culturalContext": true, "seo_slug": true, "seo_koreanSlug": true, "canonicalUrl_valid": true },
+      { "slug": "rice-cake-dream", "ko_title": true, "ko_metaDescription": true, "ko_h1": true, "ko_intro": true, "ko_sections_min1": true, "ko_variations_min1": true, "ko_faqs_min5": true, "ko_conclusion": true, "ko_culturalContext": true, "en_title": true, "en_metaDescription": true, "en_h1": true, "en_intro": true, "en_sections_min1": true, "en_variations_min1": true, "en_faqs_min5": true, "en_conclusion": true, "en_culturalContext": true, "seo_slug": true, "seo_koreanSlug": true, "canonicalUrl_valid": true },
+      { "slug": "rice-dream", "ko_title": true, "ko_metaDescription": true, "ko_h1": true, "ko_intro": true, "ko_sections_min1": true, "ko_variations_min1": true, "ko_faqs_min5": true, "ko_conclusion": true, "ko_culturalContext": true, "en_title": true, "en_metaDescription": true, "en_h1": true, "en_intro": true, "en_sections_min1": true, "en_variations_min1": true, "en_faqs_min5": true, "en_conclusion": true, "en_culturalContext": true, "seo_slug": true, "seo_koreanSlug": true, "canonicalUrl_valid": true },
+      { "slug": "watermelon-dream", "ko_title": true, "ko_metaDescription": true, "ko_h1": true, "ko_intro": true, "ko_sections_min1": true, "ko_variations_min1": true, "ko_faqs_min5": true, "ko_conclusion": true, "ko_culturalContext": true, "en_title": true, "en_metaDescription": true, "en_h1": true, "en_intro": true, "en_sections_min1": true, "en_variations_min1": true, "en_faqs_min5": true, "en_conclusion": true, "en_culturalContext": true, "seo_slug": true, "seo_koreanSlug": true, "canonicalUrl_valid": true }
+    ]
+  },
+  "toneReview": {
+    "koreanTone": "All 10 files use appropriate 해요체/합니다체 throughout. No 반말 or robotic phrasing detected.",
+    "englishGrammar": "No significant grammar or spelling errors found across all 10 files."
+  },
+  "finalMetaDescriptionLengths": {
+    "apple-dream": { "ko": 85, "en": 150 },
+    "food-dream": { "ko": 83, "en": 139 },
+    "fruit-dream": { "ko": 80, "en": 160 },
+    "grape-dream": { "ko": 80, "en": 155 },
+    "meat-dream": { "ko": 80, "en": 156 },
+    "peach-dream": { "ko": 91, "en": 150 },
+    "persimmon-dream": { "ko": 87, "en": 156 },
+    "rice-cake-dream": { "ko": 81, "en": 152 },
+    "rice-dream": { "ko": 94, "en": 148 },
+    "watermelon-dream": { "ko": 84, "en": 152 }
+  }
+}

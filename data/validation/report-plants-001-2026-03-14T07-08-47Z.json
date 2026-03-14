@@ -1,0 +1,265 @@
+{
+  "reportId": "plants-001",
+  "generatedAt": "2026-03-14T07:08:47Z",
+  "category": "plants",
+  "totalFiles": 10,
+  "summary": {
+    "jsonParseErrors": 0,
+    "metaDescriptionFixesApplied": {
+      "koExpanded": [
+        "cherry-blossom-dream",
+        "flowers-dream",
+        "lotus-dream"
+      ],
+      "enTrimmed": [
+        "big-tree-dream",
+        "cherry-blossom-dream",
+        "flowers-blooming-dream",
+        "flowers-dream",
+        "lotus-dream",
+        "rose-dream",
+        "tree-dream",
+        "tree-falling-dream"
+      ]
+    },
+    "metaDescriptionAllValid": true,
+    "filesWithSchemaFlags": 10,
+    "totalSchemaFlags": 20,
+    "schemaFlagTypes": {
+      "sections_use_content_key_not_body": "ALL 10 files — sections use 'content' key instead of 'body'. Schema migration needed.",
+      "relatedDreams_at_root": "ALL 10 files — 'relatedDreams' at root level instead of 'seo.relatedSlugs'. Schema migration needed."
+    }
+  },
+  "files": [
+    {
+      "slug": "big-tree-dream",
+      "file": "big-tree-dream.json",
+      "json_valid": true,
+      "metaDescription": {
+        "ko_length": 83,
+        "ko_valid": true,
+        "en_length": 139,
+        "en_valid": true
+      },
+      "flags": [
+        {
+          "issue": "sections_use_content_key_not_body",
+          "severity": "schema",
+          "description": "Sections use 'content' key instead of required 'body' key"
+        },
+        {
+          "issue": "relatedDreams_at_root",
+          "severity": "schema",
+          "description": "'relatedDreams' field at root level — should be 'seo.relatedSlugs'"
+        }
+      ]
+    },
+    {
+      "slug": "cherry-blossom-dream",
+      "file": "cherry-blossom-dream.json",
+      "json_valid": true,
+      "metaDescription": {
+        "ko_length": 81,
+        "ko_valid": true,
+        "en_length": 157,
+        "en_valid": true
+      },
+      "flags": [
+        {
+          "issue": "sections_use_content_key_not_body",
+          "severity": "schema",
+          "description": "Sections use 'content' key instead of required 'body' key"
+        },
+        {
+          "issue": "relatedDreams_at_root",
+          "severity": "schema",
+          "description": "'relatedDreams' field at root level — should be 'seo.relatedSlugs'"
+        }
+      ]
+    },
+    {
+      "slug": "flowers-blooming-dream",
+      "file": "flowers-blooming-dream.json",
+      "json_valid": true,
+      "metaDescription": {
+        "ko_length": 84,
+        "ko_valid": true,
+        "en_length": 152,
+        "en_valid": true
+      },
+      "flags": [
+        {
+          "issue": "sections_use_content_key_not_body",
+          "severity": "schema",
+          "description": "Sections use 'content' key instead of required 'body' key"
+        },
+        {
+          "issue": "relatedDreams_at_root",
+          "severity": "schema",
+          "description": "'relatedDreams' field at root level — should be 'seo.relatedSlugs'"
+        }
+      ]
+    },
+    {
+      "slug": "flowers-dream",
+      "file": "flowers-dream.json",
+      "json_valid": true,
+      "metaDescription": {
+        "ko_length": 83,
+        "ko_valid": true,
+        "en_length": 155,
+        "en_valid": true
+      },
+      "flags": [
+        {
+          "issue": "sections_use_content_key_not_body",
+          "severity": "schema",
+          "description": "Sections use 'content' key instead of required 'body' key"
+        },
+        {
+          "issue": "relatedDreams_at_root",
+          "severity": "schema",
+          "description": "'relatedDreams' field at root level — should be 'seo.relatedSlugs'"
+        }
+      ]
+    },
+    {
+      "slug": "fruit-tree-dream",
+      "file": "fruit-tree-dream.json",
+      "json_valid": true,
+      "metaDescription": {
+        "ko_length": 82,
+        "ko_valid": true,
+        "en_length": 159,
+        "en_valid": true
+      },
+      "flags": [
+        {
+          "issue": "sections_use_content_key_not_body",
+          "severity": "schema",
+          "description": "Sections use 'content' key instead of required 'body' key"
+        },
+        {
+          "issue": "relatedDreams_at_root",
+          "severity": "schema",
+          "description": "'relatedDreams' field at root level — should be 'seo.relatedSlugs'"
+        }
+      ]
+    },
+    {
+      "slug": "lotus-dream",
+      "file": "lotus-dream.json",
+      "json_valid": true,
+      "metaDescription": {
+        "ko_length": 83,
+        "ko_valid": true,
+        "en_length": 142,
+        "en_valid": true
+      },
+      "flags": [
+        {
+          "issue": "sections_use_content_key_not_body",
+          "severity": "schema",
+          "description": "Sections use 'content' key instead of required 'body' key"
+        },
+        {
+          "issue": "relatedDreams_at_root",
+          "severity": "schema",
+          "description": "'relatedDreams' field at root level — should be 'seo.relatedSlugs'"
+        }
+      ]
+    },
+    {
+      "slug": "receiving-flowers-dream",
+      "file": "receiving-flowers-dream.json",
+      "json_valid": true,
+      "metaDescription": {
+        "ko_length": 83,
+        "ko_valid": true,
+        "en_length": 156,
+        "en_valid": true
+      },
+      "flags": [
+        {
+          "issue": "sections_use_content_key_not_body",
+          "severity": "schema",
+          "description": "Sections use 'content' key instead of required 'body' key"
+        },
+        {
+          "issue": "relatedDreams_at_root",
+          "severity": "schema",
+          "description": "'relatedDreams' field at root level — should be 'seo.relatedSlugs'"
+        }
+      ]
+    },
+    {
+      "slug": "rose-dream",
+      "file": "rose-dream.json",
+      "json_valid": true,
+      "metaDescription": {
+        "ko_length": 86,
+        "ko_valid": true,
+        "en_length": 158,
+        "en_valid": true
+      },
+      "flags": [
+        {
+          "issue": "sections_use_content_key_not_body",
+          "severity": "schema",
+          "description": "Sections use 'content' key instead of required 'body' key"
+        },
+        {
+          "issue": "relatedDreams_at_root",
+          "severity": "schema",
+          "description": "'relatedDreams' field at root level — should be 'seo.relatedSlugs'"
+        }
+      ]
+    },
+    {
+      "slug": "tree-dream",
+      "file": "tree-dream.json",
+      "json_valid": true,
+      "metaDescription": {
+        "ko_length": 84,
+        "ko_valid": true,
+        "en_length": 148,
+        "en_valid": true
+      },
+      "flags": [
+        {
+          "issue": "sections_use_content_key_not_body",
+          "severity": "schema",
+          "description": "Sections use 'content' key instead of required 'body' key"
+        },
+        {
+          "issue": "relatedDreams_at_root",
+          "severity": "schema",
+          "description": "'relatedDreams' field at root level — should be 'seo.relatedSlugs'"
+        }
+      ]
+    },
+    {
+      "slug": "tree-falling-dream",
+      "file": "tree-falling-dream.json",
+      "json_valid": true,
+      "metaDescription": {
+        "ko_length": 81,
+        "ko_valid": true,
+        "en_length": 152,
+        "en_valid": true
+      },
+      "flags": [
+        {
+          "issue": "sections_use_content_key_not_body",
+          "severity": "schema",
+          "description": "Sections use 'content' key instead of required 'body' key"
+        },
+        {
+          "issue": "relatedDreams_at_root",
+          "severity": "schema",
+          "description": "'relatedDreams' field at root level — should be 'seo.relatedSlugs'"
+        }
+      ]
+    }
+  ]
+}

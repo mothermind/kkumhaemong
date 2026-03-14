@@ -1,0 +1,280 @@
+{
+  "generatedAt": "2026-03-14T07:08:11Z",
+  "batch": "pregnancy-001",
+  "summary": {
+    "filesScanned": 10,
+    "filesChanged": 10,
+    "issuesFlagged": 10,
+    "filesSkipped": 0
+  },
+  "changed": [
+    {
+      "slug": "dragon-taemong",
+      "category": "pregnancy",
+      "filePath": "data/content/pregnancy/dragon-taemong.json",
+      "fixes": [
+        {
+          "field": "ko.metaDescription",
+          "issue": "77 chars — below 80-char minimum",
+          "action": "Expanded to 86 chars by adding '색깔과 행동별로' before '해석해 드려요'"
+        },
+        {
+          "field": "en.metaDescription",
+          "issue": "168 chars — above 160-char maximum",
+          "action": "Trimmed to 152 chars; removed trailing clause 'for your child's destiny'"
+        }
+      ]
+    },
+    {
+      "slug": "fruit-taemong",
+      "category": "pregnancy",
+      "filePath": "data/content/pregnancy/fruit-taemong.json",
+      "fixes": [
+        {
+          "field": "en.metaDescription",
+          "issue": "177 chars — above 160-char maximum",
+          "action": "Trimmed to 149 chars; consolidated fruit list and removed redundant trailing phrase"
+        }
+      ]
+    },
+    {
+      "slug": "moon-taemong",
+      "category": "pregnancy",
+      "filePath": "data/content/pregnancy/moon-taemong.json",
+      "fixes": [
+        {
+          "field": "en.metaDescription",
+          "issue": "167 chars — above 160-char maximum",
+          "action": "Trimmed to 157 chars; replaced '&' with 'and' and shortened trailing phrase"
+        }
+      ]
+    },
+    {
+      "slug": "peach-taemong",
+      "category": "pregnancy",
+      "filePath": "data/content/pregnancy/peach-taemong.json",
+      "fixes": [
+        {
+          "field": "en.metaDescription",
+          "issue": "179 chars — above 160-char maximum",
+          "action": "Trimmed to 148 chars; removed 'Complete guide to Korean peach conception dreams —' prefix and shortened"
+        }
+      ]
+    },
+    {
+      "slug": "pig-taemong",
+      "category": "pregnancy",
+      "filePath": "data/content/pregnancy/pig-taemong.json",
+      "fixes": [
+        {
+          "field": "en.metaDescription",
+          "issue": "170 chars — above 160-char maximum",
+          "action": "Trimmed to 148 chars; removed 'with cultural context' from end"
+        }
+      ]
+    },
+    {
+      "slug": "pregnancy-dream",
+      "category": "pregnancy",
+      "filePath": "data/content/pregnancy/pregnancy-dream.json",
+      "fixes": [
+        {
+          "field": "en.metaDescription",
+          "issue": "200 chars — above 160-char maximum",
+          "action": "Trimmed to 154 chars; reworded opening and condensed clause list"
+        }
+      ]
+    },
+    {
+      "slug": "snake-taemong",
+      "category": "pregnancy",
+      "filePath": "data/content/pregnancy/snake-taemong.json",
+      "fixes": [
+        {
+          "field": "en.metaDescription",
+          "issue": "190 chars — above 160-char maximum",
+          "action": "Trimmed to 159 chars; condensed to lead with key value proposition"
+        }
+      ]
+    },
+    {
+      "slug": "sun-taemong",
+      "category": "pregnancy",
+      "filePath": "data/content/pregnancy/sun-taemong.json",
+      "fixes": [
+        {
+          "field": "en.metaDescription",
+          "issue": "219 chars — above 160-char maximum",
+          "action": "Trimmed to 160 chars; removed question-form opening and condensed variation list"
+        }
+      ]
+    },
+    {
+      "slug": "taemong-dream",
+      "category": "pregnancy",
+      "filePath": "data/content/pregnancy/taemong-dream.json",
+      "fixes": [
+        {
+          "field": "en.metaDescription",
+          "issue": "228 chars — above 160-char maximum",
+          "action": "Trimmed to 160 chars; restructured as compact one-sentence guide summary"
+        }
+      ]
+    },
+    {
+      "slug": "tiger-taemong",
+      "category": "pregnancy",
+      "filePath": "data/content/pregnancy/tiger-taemong.json",
+      "fixes": [
+        {
+          "field": "en.metaDescription",
+          "issue": "215 chars — above 160-char maximum",
+          "action": "Trimmed to 158 chars; led with core promise and listed key variations concisely"
+        }
+      ]
+    }
+  ],
+  "flagged": [
+    {
+      "slug": "dragon-taemong",
+      "category": "pregnancy",
+      "flags": [
+        {
+          "field": "ko.sections[*].content / en.sections[*].content",
+          "issue": "Sections use 'content' key instead of expected 'body' key — all 3 sections affected"
+        },
+        {
+          "field": "relatedDreams",
+          "issue": "Root-level 'relatedDreams' array present; expected 'seo.relatedSlugs' — pipeline schema mismatch"
+        }
+      ]
+    },
+    {
+      "slug": "fruit-taemong",
+      "category": "pregnancy",
+      "flags": [
+        {
+          "field": "ko.sections[*].content / en.sections[*].content",
+          "issue": "Sections use 'content' key instead of expected 'body' key — all 3 sections affected"
+        },
+        {
+          "field": "relatedDreams",
+          "issue": "Root-level 'relatedDreams' array present; expected 'seo.relatedSlugs'"
+        }
+      ]
+    },
+    {
+      "slug": "moon-taemong",
+      "category": "pregnancy",
+      "flags": [
+        {
+          "field": "ko.sections[*].content / en.sections[*].content",
+          "issue": "Sections use 'content' key instead of expected 'body' key — all 5 sections affected"
+        },
+        {
+          "field": "relatedDreams",
+          "issue": "Root-level 'relatedDreams' array present; expected 'seo.relatedSlugs'"
+        }
+      ]
+    },
+    {
+      "slug": "peach-taemong",
+      "category": "pregnancy",
+      "flags": [
+        {
+          "field": "ko.sections[*].content / en.sections[*].content",
+          "issue": "Sections use 'content' key instead of expected 'body' key — all 3 sections affected"
+        },
+        {
+          "field": "relatedDreams",
+          "issue": "Root-level 'relatedDreams' array present; expected 'seo.relatedSlugs'"
+        }
+      ]
+    },
+    {
+      "slug": "pig-taemong",
+      "category": "pregnancy",
+      "flags": [
+        {
+          "field": "ko.sections[*].content / en.sections[*].content",
+          "issue": "Sections use 'content' key instead of expected 'body' key — all 4 sections affected"
+        },
+        {
+          "field": "relatedDreams",
+          "issue": "Root-level 'relatedDreams' array present; expected 'seo.relatedSlugs'"
+        }
+      ]
+    },
+    {
+      "slug": "pregnancy-dream",
+      "category": "pregnancy",
+      "flags": [
+        {
+          "field": "ko.sections[*].content / en.sections[*].content",
+          "issue": "Sections use 'content' key instead of expected 'body' key — all 3 sections affected"
+        },
+        {
+          "field": "relatedDreams",
+          "issue": "Root-level 'relatedDreams' array present; expected 'seo.relatedSlugs'"
+        }
+      ]
+    },
+    {
+      "slug": "snake-taemong",
+      "category": "pregnancy",
+      "flags": [
+        {
+          "field": "ko.sections[*].content / en.sections[*].content",
+          "issue": "Sections use 'content' key instead of expected 'body' key — all 3 sections affected"
+        },
+        {
+          "field": "relatedDreams",
+          "issue": "Root-level 'relatedDreams' array present; expected 'seo.relatedSlugs'"
+        }
+      ]
+    },
+    {
+      "slug": "sun-taemong",
+      "category": "pregnancy",
+      "flags": [
+        {
+          "field": "ko.sections[*].content / en.sections[*].content",
+          "issue": "Sections use 'content' key instead of expected 'body' key — all 3 sections affected"
+        },
+        {
+          "field": "relatedDreams",
+          "issue": "Root-level 'relatedDreams' array present; expected 'seo.relatedSlugs'"
+        }
+      ]
+    },
+    {
+      "slug": "taemong-dream",
+      "category": "pregnancy",
+      "flags": [
+        {
+          "field": "ko.sections[*].content / en.sections[*].content",
+          "issue": "Sections use 'content' key instead of expected 'body' key — all 3 sections affected"
+        },
+        {
+          "field": "relatedDreams",
+          "issue": "Root-level 'relatedDreams' array present; expected 'seo.relatedSlugs'"
+        }
+      ]
+    },
+    {
+      "slug": "tiger-taemong",
+      "category": "pregnancy",
+      "flags": [
+        {
+          "field": "ko.sections[*].content / en.sections[*].content",
+          "issue": "Sections use 'content' key instead of expected 'body' key — all 3 sections affected"
+        },
+        {
+          "field": "relatedDreams",
+          "issue": "Root-level 'relatedDreams' array present; expected 'seo.relatedSlugs'"
+        }
+      ]
+    }
+  ],
+  "skipped": []
+}

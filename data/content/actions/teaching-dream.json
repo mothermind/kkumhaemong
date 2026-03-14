@@ -4,7 +4,7 @@
   "generatedAt": "2026-03-12T00:00:00.000Z",
   "ko": {
     "title": "가르치는 꿈해몽 - 선생님 꿈의 의미와 길흉 완벽 정리",
-    "metaDescription": "가르치는 꿈해몽 완벽 분석. 선생님이 되는 꿈, 학생들을 가르치는 꿈, 강의하는 꿈의 길몽·흉몽 의미와 전통 해석, 심리학적 풀이까지 상세히 정리했습니다.",
+    "metaDescription": "가르치는 꿈 해몽을 상황별로 완벽 분석했습니다. 선생님이 되는 꿈·강의하는 꿈·학생들이 말을 듣지 않는 꿈의 의미와 길몽·흉몽 구분, 리더십과 인정 욕구에 관한 심리학적 해석까지 꿈해몽 전문가가 상세하게 풀어드립니다.",
     "h1": "가르치는 꿈해몽 — 지위 상승과 영향력의 신호",
     "intro": "가르치는 꿈은 대표적인 길몽입니다. 사회적 명예가 오르고 재물운이 열리는 징조로, 예로부터 '가르침'이란 가장 높은 권위의 상징이었으니까요. 그런데 한 가지—꿈속에서 학생들이 당신의 말을 듣고 있었나요, 아니면 외면하고 있었나요? 그 차이 하나가 해석을 180도 뒤바꿉니다.",
     "sections": [
@@ -95,7 +95,7 @@
   },
   "en": {
     "title": "Teaching Dream Meaning - Complete Guide to Dream Interpretation",
-    "metaDescription": "Full guide to teaching dream meanings in Korean dream interpretation. Learn what it means to dream of being a teacher, lecturing, teaching children, or having students ignore you.",
+    "metaDescription": "Full guide to teaching dream meanings. What it means to dream of being a teacher, lecturing, or having students ignore you — Korean interpretation.",
     "h1": "Teaching Dream Meaning — A Signal of Rising Influence and Status",
     "intro": "Dreaming of teaching is one of the most auspicious signs in Korean dream tradition — a clear omen that social standing and recognition are on the rise. But here is the detail that changes everything: were the students in your dream listening, or were they looking away? That single distinction flips the entire reading.",
     "sections": [
@@ -291,7 +291,14 @@
         "학생꿈해몽",
         "꿈의미"
       ]
-    }
+    },
+    "relatedSlugs": [
+      "studying-dream",
+      "reading-book-dream",
+      "giving-speech-dream",
+      "promotion-dream",
+      "school-dream"
+    ]
   },
   "images": {
     "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/teaching-dream/hero.webp",
@@ -299,12 +306,5 @@
       "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/teaching-dream/auspicious.webp",
       "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/teaching-dream/inauspicious.webp"
     }
-  },
-  "relatedDreams": [
-    "studying-dream",
-    "reading-book-dream",
-    "giving-speech-dream",
-    "promotion-dream",
-    "school-dream"
-  ]
+  }
 }

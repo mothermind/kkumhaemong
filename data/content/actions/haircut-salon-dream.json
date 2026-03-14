@@ -4,7 +4,7 @@
   "generatedAt": "2026-03-12T00:00:00.000Z",
   "ko": {
     "title": "미용실 꿈 해몽 - 머리 자르는 꿈의 길흉 완벽 정리",
-    "metaDescription": "미용실에서 머리를 자르거나 염색·파마하는 꿈 해몽. 결과가 만족스러우면 길몽, 망하면 흉몽. 강제로 잘리는 꿈·삭발꿈·앞머리꿈 등 상황별 해석과 문화적 의미를 정리했습니다.",
+    "metaDescription": "미용실에서 머리 자르는 꿈의 해몽을 완벽 정리했습니다. 짧게 자르는 꿈, 염색하는 꿈, 머리카락이 모두 잘려나가는 꿈의 길몽·흉몽 의미와 재물운·변화운 암시, 상황별 심리적 해석을 전문가 시각으로 자세히 알아보세요.",
     "h1": "미용실에서 머리하는 꿈 해몽",
     "intro": "미용실에서 머리를 자르고 거울을 봤을 때 기분이 좋았다면, 그건 단순한 꿈이 아닙니다. 한국 꿈해몽에서 머리카락은 오랫동안 생명력과 정체성의 상징이었고, 그것을 전문가의 손에 맡기는 행위는 변화와 새 출발을 예고하는 심층적 신호로 읽혀왔습니다. 그런데 한 가지—결과가 마음에 드느냐 아니냐에 따라 이 꿈의 길흉이 180도 달라진다는 점, 알고 계셨나요?",
     "sections": [
@@ -110,7 +110,7 @@
   },
   "en": {
     "title": "Hair Salon Dream Meaning — Complete Guide to Haircut Dream Interpretation",
-    "metaDescription": "What does it mean to dream of getting a haircut at a salon? Explore auspicious and inauspicious interpretations, variations (bad haircut, forced cut, dyeing, shaving head), and Korean cultural context.",
+    "metaDescription": "Haircut dream meaning in Korean haemong. Cutting hair short, dyeing, and salon visits — auspicious and inauspicious fortune interpretations explained.",
     "h1": "Dream of Getting a Haircut at a Salon — What Does It Mean?",
     "intro": "If you woke up from a dream where you sat in a salon chair, felt the scissors at work, and checked yourself in the mirror — this dream is worth paying attention to. In Korean dream interpretation, hair is far more than a cosmetic concern; it has long symbolized life force, social identity, and the act of entrusting yourself to change. The crucial detail? Whether you liked what you saw in the mirror determines everything about whether this is a fortunate or warning dream.",
     "sections": [
@@ -313,7 +313,15 @@
         "꿈해몽",
         "길몽흉몽"
       ]
-    }
+    },
+    "relatedSlugs": [
+      "showering-dream",
+      "washing-dream",
+      "getting-dressed-dream",
+      "looking-in-mirror-dream",
+      "shopping-dream",
+      "cleaning-dream"
+    ]
   },
   "images": {
     "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/haircut-salon-dream/hero.webp",
@@ -321,13 +329,5 @@
       "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/haircut-salon-dream/auspicious.webp",
       "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/haircut-salon-dream/inauspicious.webp"
     }
-  },
-  "relatedDreams": [
-    "showering-dream",
-    "washing-dream",
-    "getting-dressed-dream",
-    "looking-in-mirror-dream",
-    "shopping-dream",
-    "cleaning-dream"
-  ]
+  }
 }

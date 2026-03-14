@@ -4,7 +4,7 @@
   "generatedAt": "2026-03-12T00:00:00.000Z",
   "ko": {
     "title": "구걸하는 꿈 해몽 - 거지 꿈의 숨겨진 의미와 길흉 완벽 정리",
-    "metaDescription": "구걸하는 꿈, 거지 꿈해몽 완벽 정리. 역상의 원리로 재물운·근심 해소를 예고하는 길몽? 거지에게 돈·음식 주는 꿈, 거지가 집에 들어오는 꿈 등 상황별 해석 총정리.",
+    "metaDescription": "구걸하는 꿈·거지 꿈해몽 완벽 정리. 역상의 원리로 재물운과 근심 해소를 예고하는 길몽일 수도 있어요. 거지에게 돈이나 음식을 주는 꿈, 거지가 집에 들어오는 꿈 등 상황별 해석을 전문가 관점에서 상세히 정리합니다.",
     "h1": "구걸하는 꿈 해몽 — 가난의 꿈이 품은 역설적 행운",
     "intro": "구걸하는 꿈은 한국 해몽에서 가장 강력한 역상(逆象) 꿈 중 하나입니다 — 꿈속의 비참함이 클수록 현실의 반전도 그만큼 크다고 봅니다. 오래된 민속에서 문 앞의 거지는 신령이 보낸 시험이자 복의 사자였고, 그를 어떻게 대하느냐가 운명을 갈랐습니다. 그런데 한 가지 — 거지를 쫓아내는 꿈은 정반대의 해석이 기다립니다.",
     "sections": [
@@ -115,7 +115,7 @@
   },
   "en": {
     "title": "Begging Dream Meaning — Korean Interpretation of Beggar Dreams",
-    "metaDescription": "What does it mean to dream of begging? Korean folk tradition calls it auspicious by reverse symbolism. Explore meanings for giving to a beggar, being refused, a beggar entering your home, and more.",
+    "metaDescription": "What does it mean to dream of begging? Korean folk tradition reads it as auspicious by reverse symbolism — explore giving to a beggar and all key variations.",
     "h1": "Begging Dream Meaning — The Paradoxical Fortune of a Beggar Dream",
     "intro": "In Korean dream tradition, begging dreams rank among the most powerfully auspicious symbols of all — and the secret lies in reversal: the greater the destitution in the dream, the greater the predicted turnaround in waking life. For centuries, Korean folk wisdom held that a beggar at the door might be a disguised deity testing your generosity, and how you responded decided your fate. There is one critical exception, though — chasing that beggar away is a very different story.",
     "sections": [
@@ -227,7 +227,7 @@
   "seo": {
     "slug": "begging-dream",
     "koreanSlug": "gugeol-haneun-kkum",
-    "canonicalUrl": "https://kkumhaemong.com",
+    "canonicalUrl": "https://kkumhaemong.com/en/dream/begging-dream",
     "ogTitle": {
       "ko": "구걸하는 꿈 해몽 — 역상의 원리로 읽는 재물운과 길흉",
       "en": "Begging Dream Meaning — Korean Interpretation & Reverse Symbolism"
@@ -316,7 +316,17 @@
         "거지가집에들어오는꿈",
         "꿈풀이"
       ]
-    }
+    },
+    "relatedSlugs": [
+      "poverty-dream",
+      "receiving-gift-dream",
+      "stealing-dream",
+      "gambling-dream",
+      "money-dream",
+      "helping-someone-dream",
+      "homeless-dream",
+      "charity-dream"
+    ]
   },
   "images": {
     "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/begging-dream/hero.webp",
@@ -324,15 +334,5 @@
       "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/begging-dream/auspicious.webp",
       "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/begging-dream/inauspicious.webp"
     }
-  },
-  "relatedDreams": [
-    "poverty-dream",
-    "receiving-gift-dream",
-    "stealing-dream",
-    "gambling-dream",
-    "money-dream",
-    "helping-someone-dream",
-    "homeless-dream",
-    "charity-dream"
-  ]
+  }
 }

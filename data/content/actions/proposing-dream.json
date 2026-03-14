@@ -4,7 +4,7 @@
   "generatedAt": "2026-03-12T00:00:00.000Z",
   "ko": {
     "title": "프로포즈하는 꿈 해몽 - 청혼 꿈의 의미와 길흉 완벽 정리",
-    "metaDescription": "프로포즈하는 꿈 해몽을 완벽 분석! 승낙받는 꿈, 거절당하는 꿈, 모르는 사람에게 프로포즈하는 꿈 등 상황별 의미와 길흉을 전문가가 풀어드립니다.",
+    "metaDescription": "프로포즈하는 꿈 해몽을 완벽 분석! 승낙받는 꿈, 거절당하는 꿈, 모르는 사람에게 프로포즈하는 꿈 등 상황별 의미와 길흉을 전문가가 풀어드립니다. 연애운·결혼운 암시도 상세히 확인하세요. 한국 전통 꿈해몽 완벽 총정리.",
     "h1": "프로포즈하는 꿈 해몽 — 결단과 헌신이 부르는 새로운 시작",
     "intro": "프로포즈하는 꿈, 깨고 나서 가슴이 두근거렸다면 그것은 이미 좋은 신호입니다. 전통 꿈 해몽에서 청혼의 이미지는 단순한 연애 사건이 아니라 '결단'과 '헌신', 그리고 삶의 중요한 전환점을 예고하는 강력한 상징이거든요. 그런데 한 가지 — 꿈에서 거절당했다고 해서 실망하기는 이릅니다. 한국 해몽 전통에서 거절 꿈은 종종 현실에서 좋은 결과가 오는 '역몽(逆夢)'으로 해석된다는 사실, 알고 계셨나요?",
     "sections": [
@@ -105,7 +105,7 @@
   },
   "en": {
     "title": "Proposing Dream Meaning - Marriage Proposal Dream Interpretation",
-    "metaDescription": "Dreamed of proposing marriage? Get a full interpretation of proposal dreams — accepted, rejected, proposing to a stranger, ex, or current partner. What your subconscious is really saying.",
+    "metaDescription": "Dreamed of proposing marriage? Korean dream interpretation of proposal dreams — accepted, rejected, proposing to a stranger or your ex. Full guide to meanings.",
     "h1": "Proposing Dream Meaning — When Your Subconscious Pops the Question",
     "intro": "If you woke up from a marriage proposal dream with your heart racing, pay attention — that feeling is the dream talking. In Korean dream tradition, proposing is one of the most symbolically rich acts the sleeping mind can stage: it represents commitment, decisive action, and readiness for a major new chapter. And here is the twist that surprises most people: even a rejected proposal in a dream can be a good omen, pointing to positive outcomes in waking life through the logic of what Koreans call a reversal dream.",
     "sections": [
@@ -306,7 +306,15 @@
         "길몽",
         "꿈풀이"
       ]
-    }
+    },
+    "relatedSlugs": [
+      "wedding-dream",
+      "going-date-dream",
+      "confession-dream",
+      "marriage-dream",
+      "kissing",
+      "dancing"
+    ]
   },
   "images": {
     "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/proposing-dream/hero.webp",
@@ -314,13 +322,5 @@
       "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/proposing-dream/auspicious.webp",
       "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/proposing-dream/inauspicious.webp"
     }
-  },
-  "relatedDreams": [
-    "wedding-dream",
-    "going-date-dream",
-    "confession-dream",
-    "marriage-dream",
-    "kissing",
-    "dancing"
-  ]
+  }
 }

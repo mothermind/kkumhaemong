@@ -10,71 +10,71 @@
     "sections": [
       {
         "heading": "태몽이란 무엇인가요?",
-        "content": "태몽(胎夢)은 아이의 잉태를 예고하거나, 태어날 아이의 성별·성격·운명을 암시하는 꿈입니다. 임산부 본인뿐 아니라 남편, 시부모, 친정 부모, 가까운 친지 누구든 꿀 수 있다는 점이 한국 태몽 문화의 가장 큰 특징이에요. 꿈속에 등장하는 상징물의 종류, 상태, 그리고 그것을 어떻게 획득했느냐에 따라 해석이 달라집니다. 상징물을 손으로 잡거나 품에 안거나 삼키는 행위가 꿈에 등장하면, 그 기운을 온전히 받은 것으로 보아 최상의 태몽으로 여겨요."
+        "body": "태몽(胎夢)은 아이의 잉태를 예고하거나, 태어날 아이의 성별·성격·운명을 암시하는 꿈입니다. 임산부 본인뿐 아니라 남편, 시부모, 친정 부모, 가까운 친지 누구든 꿀 수 있다는 점이 한국 태몽 문화의 가장 큰 특징이에요. 꿈속에 등장하는 상징물의 종류, 상태, 그리고 그것을 어떻게 획득했느냐에 따라 해석이 달라집니다. 상징물을 손으로 잡거나 품에 안거나 삼키는 행위가 꿈에 등장하면, 그 기운을 온전히 받은 것으로 보아 최상의 태몽으로 여겨요."
       },
       {
         "heading": "길몽 태몽 — 크고 강한 상징이 등장할 때",
-        "content": "용, 호랑이, 잉어, 돼지, 자라처럼 크고 강건한 동물이 등장하는 태몽, 또는 태양·별·번개처럼 빛나는 천체가 선명하게 나타나는 태몽은 가장 상서로운 길몽으로 꼽혀요. 특히 꿈속에서 그 상징물을 직접 손으로 잡거나 품에 안는 장면이 있다면, 아이가 그 상징이 지닌 기운을 온전히 받은 것으로 보아 장차 크게 성공하고 재물과 명예를 모두 갖출 것이라 해석합니다. 상징물이 크고 선명할수록, 빛날수록 길몽의 등급이 높아져요.",
-        "imageRef": "auspicious"
+        "imageRef": "auspicious",
+        "body": "용, 호랑이, 잉어, 돼지, 자라처럼 크고 강건한 동물이 등장하는 태몽, 또는 태양·별·번개처럼 빛나는 천체가 선명하게 나타나는 태몽은 가장 상서로운 길몽으로 꼽혀요. 특히 꿈속에서 그 상징물을 직접 손으로 잡거나 품에 안는 장면이 있다면, 아이가 그 상징이 지닌 기운을 온전히 받은 것으로 보아 장차 크게 성공하고 재물과 명예를 모두 갖출 것이라 해석합니다. 상징물이 크고 선명할수록, 빛날수록 길몽의 등급이 높아져요."
       },
       {
         "heading": "흉몽 태몽 — 훼손되거나 잃어버리는 꿈",
-        "content": "상징물이 어둡거나, 훼손되거나, 썩었거나, 병들어 있는 경우는 흉몽으로 해석합니다. 또한 상징물이 꿈속에서 사라지거나 빼앗기거나 잃어버리는 장면은 태아의 기운을 온전히 받지 못했다는 신호로 여겨, 임신 기간 중 각별한 주의를 기울여야 한다고 전통적으로 이야기해 왔어요. 흉몽을 꾼 뒤에는 '악몽착초목 호몽성주옥'이라는 주문을 외거나, 왼손으로 인중을 27번 두드리는 민간 방법이 전해지고 있어요. 무엇보다 전문가들은 어떤 태몽이든 긍정적으로 해석하는 것이 임산부의 심리적 안정에 이롭다고 강조합니다.",
-        "imageRef": "inauspicious"
+        "imageRef": "inauspicious",
+        "body": "상징물이 어둡거나, 훼손되거나, 썩었거나, 병들어 있는 경우는 흉몽으로 해석합니다. 또한 상징물이 꿈속에서 사라지거나 빼앗기거나 잃어버리는 장면은 태아의 기운을 온전히 받지 못했다는 신호로 여겨, 임신 기간 중 각별한 주의를 기울여야 한다고 전통적으로 이야기해 왔어요. 흉몽을 꾼 뒤에는 '악몽착초목 호몽성주옥'이라는 주문을 외거나, 왼손으로 인중을 27번 두드리는 민간 방법이 전해지고 있어요. 무엇보다 전문가들은 어떤 태몽이든 긍정적으로 해석하는 것이 임산부의 심리적 안정에 이롭다고 강조합니다."
       },
       {
         "heading": "중립 태몽 — 상태에 따라 달라지는 과일·꽃 꿈",
-        "content": "과일, 채소, 꽃처럼 일상적인 자연물이 등장하는 태몽은 그 상태에 따라 길흉이 달라져요. 과일이 잘 익고 탐스러우면 건강하고 복 많은 아이를 예고하지만, 꼭지가 떨어지거나 상한 과일이라면 다소 불길한 징조로 봅니다. 꽃이 활짝 피어 있으면 길몽, 시들거나 지는 꽃이라면 불길하게 해석해요. 어떤 태몽이든 우선 긍정적으로 해석하는 것이 임산부의 심리적 안정에 도움이 된다는 점, 꼭 기억해 두세요."
+        "body": "과일, 채소, 꽃처럼 일상적인 자연물이 등장하는 태몽은 그 상태에 따라 길흉이 달라져요. 과일이 잘 익고 탐스러우면 건강하고 복 많은 아이를 예고하지만, 꼭지가 떨어지거나 상한 과일이라면 다소 불길한 징조로 봅니다. 꽃이 활짝 피어 있으면 길몽, 시들거나 지는 꽃이라면 불길하게 해석해요. 어떤 태몽이든 우선 긍정적으로 해석하는 것이 임산부의 심리적 안정에 도움이 된다는 점, 꼭 기억해 두세요."
       }
     ],
     "variations": [
       {
         "heading": "용 태몽 — 최상의 길몽, 위대한 인물의 탄생",
-        "content": "태몽 중 가장 상서로운 꿈으로 꼽혀요. 용은 권세와 명예를 상징하며, 용 태몽을 꾸면 장차 큰 인물이 태어난다고 해석됩니다. 역사적으로 왕이나 영웅의 탄생을 예고하는 꿈으로 기록되어 있으며, 현대에는 사회 지도자나 큰 성공을 이룰 인물의 탄생을 뜻합니다. 일반적으로 아들 태몽으로 해석돼요."
+        "body": "태몽 중 가장 상서로운 꿈으로 꼽혀요. 용은 권세와 명예를 상징하며, 용 태몽을 꾸면 장차 큰 인물이 태어난다고 해석됩니다. 역사적으로 왕이나 영웅의 탄생을 예고하는 꿈으로 기록되어 있으며, 현대에는 사회 지도자나 큰 성공을 이룰 인물의 탄생을 뜻합니다. 일반적으로 아들 태몽으로 해석돼요."
       },
       {
         "heading": "호랑이 태몽 — 강한 리더십, 지도자의 탄생",
-        "content": "강한 리더십과 권위를 지닌 아이가 태어날 것임을 예고해요. 한국 전통에서 호랑이는 산신(山神)의 사자로 여겨지는 신성한 동물이라 더욱 길한 태몽으로 여겨집니다. 호랑이 태몽을 꾼 아이는 장차 많은 사람을 이끄는 지도자가 된다고 전해지며, 강인하고 당당한 성품을 가질 것이라 해석돼요."
+        "body": "강한 리더십과 권위를 지닌 아이가 태어날 것임을 예고해요. 한국 전통에서 호랑이는 산신(山神)의 사자로 여겨지는 신성한 동물이라 더욱 길한 태몽으로 여겨집니다. 호랑이 태몽을 꾼 아이는 장차 많은 사람을 이끄는 지도자가 된다고 전해지며, 강인하고 당당한 성품을 가질 것이라 해석돼요."
       },
       {
         "heading": "돼지 태몽 — 재물운, 평생 복이 넘치는 아이",
-        "content": "돼지는 재물운의 상징으로, 돼지 태몽을 꾼 아이는 평생 재물이 풍족하고 복이 넘칠 것이라 해석됩니다. 특히 황금 돼지나 살찐 돼지가 등장하면 최상의 길몽이에요. 재물뿐 아니라 복과 건강도 함께 따라온다고 봐요."
+        "body": "돼지는 재물운의 상징으로, 돼지 태몽을 꾼 아이는 평생 재물이 풍족하고 복이 넘칠 것이라 해석됩니다. 특히 황금 돼지나 살찐 돼지가 등장하면 최상의 길몽이에요. 재물뿐 아니라 복과 건강도 함께 따라온다고 봐요."
       },
       {
         "heading": "뱀 태몽 — 영리함과 재물운, 재능 있는 아이",
-        "content": "뱀 태몽은 아이가 영리하고 머리가 좋으며 객관적인 판단력을 가질 것이라 해석됩니다. 큰 구렁이나 황금뱀이 등장하면 재물운도 좋다고 봐요. 큰 뱀은 일반적으로 아들을, 작고 가는 뱀은 딸을 상징하는 경우가 많습니다. 색깔이 화려한 뱀이면 예술적 재능이 있는 아이를 예고해요."
+        "body": "뱀 태몽은 아이가 영리하고 머리가 좋으며 객관적인 판단력을 가질 것이라 해석됩니다. 큰 구렁이나 황금뱀이 등장하면 재물운도 좋다고 봐요. 큰 뱀은 일반적으로 아들을, 작고 가는 뱀은 딸을 상징하는 경우가 많습니다. 색깔이 화려한 뱀이면 예술적 재능이 있는 아이를 예고해요."
       },
       {
         "heading": "잉어 태몽 — 입신양명, 성공을 이룰 아이",
-        "content": "잉어는 입신양명과 성취를 상징합니다. 특히 물살을 거슬러 오르는 잉어의 모습은 역경을 딛고 성공하는 강력한 길조로 여겨져요. 잉어 태몽은 크게 학문이나 사업에서 이름을 떨칠 아이의 탄생을 뜻합니다."
+        "body": "잉어는 입신양명과 성취를 상징합니다. 특히 물살을 거슬러 오르는 잉어의 모습은 역경을 딛고 성공하는 강력한 길조로 여겨져요. 잉어 태몽은 크게 학문이나 사업에서 이름을 떨칠 아이의 탄생을 뜻합니다."
       },
       {
         "heading": "곰 태몽 — 강인함과 인내, 역사에 기록된 태몽",
-        "content": "곰은 강인함과 모성, 인내를 상징해요. 『삼국유사』에도 '곰의 꿈을 얻어 태자를 낳았다'는 기록이 있을 정도로 유서 깊은 태몽 상징입니다. 곰 태몽을 꾸면 의지가 강하고 인내심이 깊으며 위기에 강한 아이가 태어날 것이라 해석돼요."
+        "body": "곰은 강인함과 모성, 인내를 상징해요. 『삼국유사』에도 '곰의 꿈을 얻어 태자를 낳았다'는 기록이 있을 정도로 유서 깊은 태몽 상징입니다. 곰 태몽을 꾸면 의지가 강하고 인내심이 깊으며 위기에 강한 아이가 태어날 것이라 해석돼요."
       },
       {
         "heading": "거북이 태몽 — 장수, 지혜, 재물의 삼중 길조",
-        "content": "거북이는 장수, 지혜, 재물을 두루 상징하는 길조입니다. 거북이 태몽을 꾸면 오래 살고 지혜로우며 재산이 풍요로운 아이가 태어날 것이라 해석해요. 꿈속에서 거북이를 잡거나 안으면 더욱 강한 길몽으로 봅니다."
+        "body": "거북이는 장수, 지혜, 재물을 두루 상징하는 길조입니다. 거북이 태몽을 꾸면 오래 살고 지혜로우며 재산이 풍요로운 아이가 태어날 것이라 해석해요. 꿈속에서 거북이를 잡거나 안으면 더욱 강한 길몽으로 봅니다."
       },
       {
         "heading": "복숭아 태몽 — 건강과 생명력, 복받은 아이",
-        "content": "복숭아는 건강과 생명력, 행복을 상징하는 과일이에요. 탐스럽고 잘 익은 복숭아가 등장하는 태몽은 건강하고 복이 많은 아이의 탄생을 예고합니다. 도교에서 복숭아는 불로장생의 과일로 신성하게 여겨지기 때문에 아들 태몽으로 해석되기도 해요."
+        "body": "복숭아는 건강과 생명력, 행복을 상징하는 과일이에요. 탐스럽고 잘 익은 복숭아가 등장하는 태몽은 건강하고 복이 많은 아이의 탄생을 예고합니다. 도교에서 복숭아는 불로장생의 과일로 신성하게 여겨지기 때문에 아들 태몽으로 해석되기도 해요."
       },
       {
         "heading": "해 태몽 (태양 태몽) — 세상을 밝힐 위대한 인물",
-        "content": "태양은 세상을 밝히는 존재로, 태양 태몽은 세상에 빛이 될 위대한 인물의 탄생을 예고합니다. 역사적으로 왕이나 영웅의 탄생과 연결된 경우가 많으며, 최상위 길몽 중 하나예요. 일반적으로 아들 태몽으로 해석됩니다."
+        "body": "태양은 세상을 밝히는 존재로, 태양 태몽은 세상에 빛이 될 위대한 인물의 탄생을 예고합니다. 역사적으로 왕이나 영웅의 탄생과 연결된 경우가 많으며, 최상위 길몽 중 하나예요. 일반적으로 아들 태몽으로 해석됩니다."
       },
       {
         "heading": "꽃 태몽 — 아름답고 재능 있는 딸의 탄생",
-        "content": "꽃은 아름다움, 재능, 사랑받는 삶을 상징하며, 꽃이 등장하는 태몽은 일반적으로 딸 태몽으로 해석됩니다. 화려하고 아름다운 꽃이면 예쁘고 재능 있는 딸이 태어날 것을 예고하며, 주변에서 많은 사랑을 받는 아이가 될 것이라 봐요."
+        "body": "꽃은 아름다움, 재능, 사랑받는 삶을 상징하며, 꽃이 등장하는 태몽은 일반적으로 딸 태몽으로 해석됩니다. 화려하고 아름다운 꽃이면 예쁘고 재능 있는 딸이 태어날 것을 예고하며, 주변에서 많은 사랑을 받는 아이가 될 것이라 봐요."
       },
       {
         "heading": "고추 태몽 — 건강한 아들을 예고하는 대표 상징",
-        "content": "고추는 남아를 상징하는 대표적인 태몽 상징이에요. 탐스럽고 붉게 익은 고추가 등장하면 건강한 아들이 태어날 것을 예고합니다. 특히 밭에 고추가 풍성하게 열린 장면은 건강하고 활력 넘치는 아들의 탄생을 암시해요."
+        "body": "고추는 남아를 상징하는 대표적인 태몽 상징이에요. 탐스럽고 붉게 익은 고추가 등장하면 건강한 아들이 태어날 것을 예고합니다. 특히 밭에 고추가 풍성하게 열린 장면은 건강하고 활력 넘치는 아들의 탄생을 암시해요."
       },
       {
         "heading": "보석 태몽 — 부귀영화, 귀한 신분이 될 아이",
-        "content": "보석이나 금은보화가 등장하는 태몽은 재물운이 뛰어나고 귀한 신분이 될 아이의 탄생을 예고합니다. 꿈속에서 보석을 받거나 줍는 장면은 특히 좋은 길몽으로, 아이가 부귀영화를 누릴 것이라 해석돼요."
+        "body": "보석이나 금은보화가 등장하는 태몽은 재물운이 뛰어나고 귀한 신분이 될 아이의 탄생을 예고합니다. 꿈속에서 보석을 받거나 줍는 장면은 특히 좋은 길몽으로, 아이가 부귀영화를 누릴 것이라 해석돼요."
       }
     ],
     "culturalContext": "태몽(胎夢)은 한국의 가장 오래되고 뿌리 깊은 민간 신앙 문화 중 하나로, 그 역사는 삼국시대까지 거슬러 올라갑니다. 『삼국유사』 가락국기에는 태자 거등공의 잉태를 알린 곰 꿈이 기록되어 있고, 『삼국사기』 김유신 열전에는 별이 떨어지는 꿈이 김유신의 잉태를 예고했다고 전합니다. 조선시대 기록인 『연려실기술』에도 용이 등장하는 태몽 이야기가 다수 남아 있어요. 태몽의 문화적 뿌리는 무속 신앙(샤머니즘)과 밀접하게 연결되어 있으며, 새 생명의 탄생을 하늘이나 신령이 꿈을 통해 미리 알려준다는 세계관을 반영합니다. 도교적 음양오행 사상도 영향을 미쳐, 크고 빛나고 강한 상징은 양(陽)으로 아들과 연결하고, 작고 부드러운 상징은 음(陰)으로 딸과 연결하는 해석 체계가 자리잡았어요. 태몽은 임신부 본인뿐 아니라 남편, 시부모, 친정 부모, 친한 지인도 대신 꿀 수 있다고 믿으며, 이 집단적 꿈 경험은 새 생명을 공동체 전체가 맞이하는 한국 특유의 공동체 문화를 반영해요. 꿈을 사고파는 '꿈 거래' 풍습도 있었는데, 좋은 태몽을 꾼 사람이 임신을 원하는 이에게 꿈을 '팔면' 그 기운이 전달된다고 믿었습니다. 현대에도 태몽은 한국인의 일상에서 살아있는 전통으로, 산부인과 병원 게시판부터 SNS까지 태몽 공유 문화가 이어지고 있어요.",
@@ -109,77 +109,77 @@
   },
   "en": {
     "title": "Taemong Dream Meaning — Korean Conception Dream Interpretation Guide",
-    "metaDescription": "Complete guide to taemong (태몽), Korea's ancient tradition of conception dreams. Learn what dragon, tiger, pig, snake, and other symbols mean — auspicious vs. inauspicious signs, gender prediction, and cultural history explained.",
+    "metaDescription": "Taemong (태몽) guide: Korea's ancient conception dream tradition explained. Dragon, tiger, pig, snake — auspicious signs, gender prediction, and cultural history.",
     "h1": "Taemong: The Complete Guide to Korean Conception Dream Interpretation",
     "intro": "The morning after a taemong, something in you knows it wasn't an ordinary dream. For thousands of years, Koreans have called these vivid, charged visions a 'letter from heaven' — a signal that a new soul is on its way. But here's what makes taemong truly fascinating: the symbol that appears determines everything about how the child's destiny is read, and the gap between the highest blessing and a cautionary omen could not be wider.",
     "sections": [
       {
         "heading": "What Is Taemong?",
-        "content": "Taemong (태몽, 胎夢) is the Korean tradition of conception dreams — dreams believed to announce a child's impending arrival and foretell their gender, personality, and life destiny. What makes taemong unique is that the dream is not restricted to the pregnant mother. Fathers, grandparents, aunts, uncles, and close friends are all considered capable of receiving the dream on the child's behalf. The interpretation depends on three factors: what symbolic object appears, its condition (vibrant vs. damaged), and the dreamer's interaction with it — catching, embracing, swallowing, or receiving the symbol indicates the child has fully absorbed its powerful energy."
+        "body": "Taemong (태몽, 胎夢) is the Korean tradition of conception dreams — dreams believed to announce a child's impending arrival and foretell their gender, personality, and life destiny. What makes taemong unique is that the dream is not restricted to the pregnant mother. Fathers, grandparents, aunts, uncles, and close friends are all considered capable of receiving the dream on the child's behalf. The interpretation depends on three factors: what symbolic object appears, its condition (vibrant vs. damaged), and the dreamer's interaction with it — catching, embracing, swallowing, or receiving the symbol indicates the child has fully absorbed its powerful energy."
       },
       {
         "heading": "Auspicious Taemong — When Powerful Symbols Appear",
-        "content": "Dreams featuring large, powerful animals — dragons, tigers, pigs, carp, and turtles — or brilliant celestial objects such as the sun, stars, and lightning are considered the most auspicious taemong. The critical factor is the dreamer's active acquisition of the symbol: catching it in both hands, holding it to the chest, or swallowing it signals that the child has fully received the symbol's energy, foretelling great success, wealth, and honor. The larger, more vivid, and more luminous the symbol, the higher its auspicious ranking.",
-        "imageRef": "auspicious"
+        "imageRef": "auspicious",
+        "body": "Dreams featuring large, powerful animals — dragons, tigers, pigs, carp, and turtles — or brilliant celestial objects such as the sun, stars, and lightning are considered the most auspicious taemong. The critical factor is the dreamer's active acquisition of the symbol: catching it in both hands, holding it to the chest, or swallowing it signals that the child has fully received the symbol's energy, foretelling great success, wealth, and honor. The larger, more vivid, and more luminous the symbol, the higher its auspicious ranking."
       },
       {
         "heading": "Inauspicious Taemong — When Symbols Are Lost or Damaged",
-        "content": "Dreams in which the symbolic object appears dark, damaged, rotting, or diseased carry inauspicious meanings. Scenes in which the symbol is lost, stolen, or slips away suggest the child has not fully received its destined energy — a traditional sign to take special care during the pregnancy. Korean folk remedies after an inauspicious taemong include reciting the incantation 'bad dreams attach to grass and trees; good dreams become precious jewels,' or tapping the philtrum 27 times with the left hand. Above all, contemporary experts recommend interpreting any taemong in its most positive light, as anxiety during pregnancy is more harmful than the dream itself.",
-        "imageRef": "inauspicious"
+        "imageRef": "inauspicious",
+        "body": "Dreams in which the symbolic object appears dark, damaged, rotting, or diseased carry inauspicious meanings. Scenes in which the symbol is lost, stolen, or slips away suggest the child has not fully received its destined energy — a traditional sign to take special care during the pregnancy. Korean folk remedies after an inauspicious taemong include reciting the incantation 'bad dreams attach to grass and trees; good dreams become precious jewels,' or tapping the philtrum 27 times with the left hand. Above all, contemporary experts recommend interpreting any taemong in its most positive light, as anxiety during pregnancy is more harmful than the dream itself."
       },
       {
         "heading": "Neutral Taemong — Fruits and Flowers Whose Meaning Depends on Condition",
-        "content": "Dreams featuring everyday natural objects — fruits, vegetables, and flowers — carry meanings that shift with their condition in the dream. Ripe, abundant, beautiful fruits signal a healthy, fortunate child; fallen, spoiled, or stemless fruits carry a less favorable omen. A flower in full bloom is auspicious; a wilting or falling flower less so. The guiding principle shared by dream experts is this: whatever taemong appears, interpreting it generously is always in the best interest of both mother and child."
+        "body": "Dreams featuring everyday natural objects — fruits, vegetables, and flowers — carry meanings that shift with their condition in the dream. Ripe, abundant, beautiful fruits signal a healthy, fortunate child; fallen, spoiled, or stemless fruits carry a less favorable omen. A flower in full bloom is auspicious; a wilting or falling flower less so. The guiding principle shared by dream experts is this: whatever taemong appears, interpreting it generously is always in the best interest of both mother and child."
       }
     ],
     "variations": [
       {
         "heading": "Dragon Taemong — The Highest Blessing, Birth of a Great Figure",
-        "content": "Considered the most auspicious of all conception dreams. The dragon symbolizes power, authority, and prestige — historically the omen of a king's or great hero's birth. Today it foretells a child destined for social leadership or exceptional achievement. Generally interpreted as a sign of a son."
+        "body": "Considered the most auspicious of all conception dreams. The dragon symbolizes power, authority, and prestige — historically the omen of a king's or great hero's birth. Today it foretells a child destined for social leadership or exceptional achievement. Generally interpreted as a sign of a son."
       },
       {
         "heading": "Tiger Taemong — Commanding Leadership, Born to Lead",
-        "content": "Foretells a child with powerful leadership qualities and an assertive, commanding personality. In Korean tradition the tiger is the messenger of the mountain spirit (산신), a sacred guardian figure, making this one of the most revered animal omens. Generally indicates a son with the potential to lead many people."
+        "body": "Foretells a child with powerful leadership qualities and an assertive, commanding personality. In Korean tradition the tiger is the messenger of the mountain spirit (산신), a sacred guardian figure, making this one of the most revered animal omens. Generally indicates a son with the potential to lead many people."
       },
       {
         "heading": "Pig Taemong — Wealth and Abundance, Lifelong Fortune",
-        "content": "The pig is Korea's foremost symbol of wealth and abundance. A pig conception dream foretells a child who will enjoy lifelong financial prosperity and good fortune. A golden or particularly plump pig elevates the omen further, signifying not only wealth but also robust health and happiness throughout life."
+        "body": "The pig is Korea's foremost symbol of wealth and abundance. A pig conception dream foretells a child who will enjoy lifelong financial prosperity and good fortune. A golden or particularly plump pig elevates the omen further, signifying not only wealth but also robust health and happiness throughout life."
       },
       {
         "heading": "Snake Taemong — Intelligence and Financial Fortune",
-        "content": "A snake conception dream indicates the child will be intelligent, sharp-minded, and capable of objective judgment. A large python or golden snake also hints at strong financial fortune. Large snakes typically suggest a son; small, slender snakes a daughter. A colorful, iridescent snake foretells a child with artistic gifts."
+        "body": "A snake conception dream indicates the child will be intelligent, sharp-minded, and capable of objective judgment. A large python or golden snake also hints at strong financial fortune. Large snakes typically suggest a son; small, slender snakes a daughter. A colorful, iridescent snake foretells a child with artistic gifts."
       },
       {
         "heading": "Carp Taemong — Rising Against the Current, Achievement",
-        "content": "The carp symbolizes achievement and upward mobility. A carp swimming upstream is one of the most powerful symbols of overcoming adversity to reach great success — foretelling a child who will rise through academia, career, or business to earn public recognition and lasting distinction."
+        "body": "The carp symbolizes achievement and upward mobility. A carp swimming upstream is one of the most powerful symbols of overcoming adversity to reach great success — foretelling a child who will rise through academia, career, or business to earn public recognition and lasting distinction."
       },
       {
         "heading": "Bear Taemong — Ancient Strength, Historically Recorded Omen",
-        "content": "The bear signifies strength, maternal power, and endurance. Bear conception dreams have the longest recorded history in Korea, appearing in the Samguk Yusa (Memorabilia of the Three Kingdoms) where a queen's bear dream preceded the birth of a prince. The omen foretells a tenacious, resilient child with exceptional willpower."
+        "body": "The bear signifies strength, maternal power, and endurance. Bear conception dreams have the longest recorded history in Korea, appearing in the Samguk Yusa (Memorabilia of the Three Kingdoms) where a queen's bear dream preceded the birth of a prince. The omen foretells a tenacious, resilient child with exceptional willpower."
       },
       {
         "heading": "Turtle Taemong — Longevity, Wisdom, and Triple Blessing",
-        "content": "The turtle encompasses longevity, wisdom, and wealth — a triple blessing in Korean symbolism. Catching or holding a turtle in the dream amplifies the positive omen, foretelling a child who will live long, accumulate wisdom, and enjoy abundant prosperity throughout their lifetime."
+        "body": "The turtle encompasses longevity, wisdom, and wealth — a triple blessing in Korean symbolism. Catching or holding a turtle in the dream amplifies the positive omen, foretelling a child who will live long, accumulate wisdom, and enjoy abundant prosperity throughout their lifetime."
       },
       {
         "heading": "Peach Taemong — Health, Vitality, and Blessed Life",
-        "content": "The peach is the fruit of health, vitality, and happiness. A dream of ripe, abundant peaches foretells a healthy, deeply blessed child. In Taoist cosmology — which has long influenced Korean folk belief — the peach is the fruit of immortality, lending this dream a spiritually auspicious quality."
+        "body": "The peach is the fruit of health, vitality, and happiness. A dream of ripe, abundant peaches foretells a healthy, deeply blessed child. In Taoist cosmology — which has long influenced Korean folk belief — the peach is the fruit of immortality, lending this dream a spiritually auspicious quality."
       },
       {
         "heading": "Sun Taemong — World-Brightening Figure, Highest Auspicious Tier",
-        "content": "The sun illuminates all, and a sun conception dream foretells the birth of a remarkable, world-brightening figure. Historically linked to the births of Korean kings and national heroes in the historical record, this is one of the highest-tier auspicious omens. Typically interpreted as a son destined to inspire and lead."
+        "body": "The sun illuminates all, and a sun conception dream foretells the birth of a remarkable, world-brightening figure. Historically linked to the births of Korean kings and national heroes in the historical record, this is one of the highest-tier auspicious omens. Typically interpreted as a son destined to inspire and lead."
       },
       {
         "heading": "Flower Taemong — Beautiful, Gifted, Beloved Daughter",
-        "content": "Flowers symbolize beauty, talent, and a life filled with affection. Flower conception dreams are typically interpreted as foretelling a daughter — specifically one who will grow up beautiful, artistically gifted, and deeply cherished by everyone around her."
+        "body": "Flowers symbolize beauty, talent, and a life filled with affection. Flower conception dreams are typically interpreted as foretelling a daughter — specifically one who will grow up beautiful, artistically gifted, and deeply cherished by everyone around her."
       },
       {
         "heading": "Red Pepper Taemong — Healthy Son, Classic Symbol",
-        "content": "The red pepper is one of the most recognized symbols for a son in Korean conception dream tradition. Plump, deeply red peppers ripening abundantly on the vine foretell a healthy, energetic baby boy. A field full of vibrant red peppers elevates the reading to indicate exceptional vitality."
+        "body": "The red pepper is one of the most recognized symbols for a son in Korean conception dream tradition. Plump, deeply red peppers ripening abundantly on the vine foretell a healthy, energetic baby boy. A field full of vibrant red peppers elevates the reading to indicate exceptional vitality."
       },
       {
         "heading": "Jewel / Gem Taemong — Wealth, Prestige, Distinguished Life",
-        "content": "Dreams filled with jewels, gold, and precious objects foretell a child destined for wealth, high social standing, and prestige. Receiving or gathering jewels in the dream is especially auspicious, indicating the child will enjoy a life of abundance and distinction — born to shine in whatever field they pursue."
+        "body": "Dreams filled with jewels, gold, and precious objects foretell a child destined for wealth, high social standing, and prestige. Receiving or gathering jewels in the dream is especially auspicious, indicating the child will enjoy a life of abundance and distinction — born to shine in whatever field they pursue."
       }
     ],
     "culturalContext": "Taemong is one of Korea's oldest and most enduring folk traditions, with documented roots reaching back to the Three Kingdoms period (57 BCE – 668 CE). The Samguk Yusa (Memorabilia of the Three Kingdoms, compiled 1281 CE) records a bear dream preceding the birth of Prince Geodeung, and the biography of general Kim Yusin in the Samguk Sagi notes a falling-star dream that foretold his conception. The Yeollyeo Silgi (a Joseon-era historical miscellany) contains numerous dragon taemong accounts, cementing the tradition's place in Korean literary culture over more than a millennium. Culturally, taemong is rooted in Korean shamanism (무속 신앙) — the belief that spirit forces announce a new life through vivid, unmistakable dreams. Taoist yin-yang cosmology overlaid a systematic gender framework: large, bright, and powerful symbols (yang) indicate sons, while small, delicate, and gentle symbols (yin) suggest daughters. Uniquely, the dream is not exclusive to the pregnant mother — fathers, grandparents, in-laws, and close friends are all believed capable of receiving the dream on the child's behalf, reflecting Korea's collectivist approach to welcoming new life. Historically there was even a custom of buying and selling auspicious dreams: the transferable nature of dream energy was taken seriously enough to form a genuine folk practice. Today, taemong remains a living cultural tradition — pregnancy forums, social media, and hospital waiting rooms all buzz with taemong stories, making it one of the few ancient dream traditions that continues to thrive in fully modern form.",
@@ -308,7 +308,17 @@
         "태몽상징",
         "꿈해몽"
       ]
-    }
+    },
+    "relatedSlugs": [
+      "dragon",
+      "tiger",
+      "pig",
+      "snake",
+      "carp",
+      "sun",
+      "bear",
+      "turtle"
+    ]
   },
   "images": {
     "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/taemong-dream/hero.webp",
@@ -316,15 +326,5 @@
       "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/taemong-dream/auspicious.webp",
       "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/taemong-dream/inauspicious.webp"
     }
-  },
-  "relatedDreams": [
-    "dragon",
-    "tiger",
-    "pig",
-    "snake",
-    "carp",
-    "sun",
-    "bear",
-    "turtle"
-  ]
+  }
 }

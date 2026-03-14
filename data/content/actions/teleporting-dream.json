@@ -4,7 +4,7 @@
   "generatedAt": "2026-03-12T00:00:00.000Z",
   "ko": {
     "title": "순간이동하는 꿈 해몽 - 의미와 길흉 완벽 정리",
-    "metaDescription": "순간이동하는 꿈, 길몽일까요 흉몽일까요? 원하는 곳으로 자유로운 이동, 위험에서의 도피, 과거·미래로의 이동까지 상황별 꿈풀이를 완벽 정리했습니다.",
+    "metaDescription": "순간이동 꿈 해몽을 상황별로 완벽 분석했습니다. 갑자기 낯선 장소에 있는 꿈·먼 곳으로 이동하는 꿈의 의미와 길몽·흉몽 구분, 현실 도피와 변화 욕구에 관한 심리학적 해석까지 꿈해몽 전문가가 정말 상세하게 풀어드립니다.",
     "h1": "순간이동하는 꿈 해몽",
     "intro": "순간이동하는 꿈은 삶의 급격한 전환점이 다가오고 있다는 강렬한 신호입니다. 한국 전통 해몽에서 공간을 초월하는 능력은 신선(神仙)과 무당만이 가진 신성한 힘으로 여겨졌을 만큼, 이 꿈이 담고 있는 에너지는 결코 작지 않습니다. 그런데 한 가지—같은 순간이동이라도 어디로, 어떤 감정으로 이동했느냐에 따라 해석이 정반대로 갈립니다.",
     "sections": [
@@ -90,7 +90,7 @@
   },
   "en": {
     "title": "Teleporting Dream Meaning - Complete Interpretation Guide",
-    "metaDescription": "What does a teleporting dream mean? Discover whether it's auspicious or inauspicious, from freely teleporting to desired places to involuntarily arriving in dark unknown locations.",
+    "metaDescription": "Korean dream meaning of teleportation. What it means to suddenly appear in an unknown place or travel instantly — auspicious signs and warnings.",
     "h1": "Teleporting Dream Meaning & Interpretation",
     "intro": "A teleporting dream carries one of the most charged messages your subconscious can send — a signal that a major turning point is approaching, or that a deep psychological reckoning is already underway. In Korean dream tradition, the ability to transcend space was the hallmark of shamans and immortal sages, beings touched by the divine. But here is the crucial thing: the same dream can be profoundly auspicious or deeply cautionary depending on where you went and how it felt.",
     "sections": [
@@ -282,7 +282,12 @@
         "미래로순간이동하는꿈",
         "공간이동꿈"
       ]
-    }
+    },
+    "relatedSlugs": [
+      "flying-dream",
+      "falling-dream",
+      "running-dream"
+    ]
   },
   "images": {
     "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/teleporting-dream/hero.webp",
@@ -290,10 +295,5 @@
       "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/teleporting-dream/auspicious.webp",
       "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/teleporting-dream/inauspicious.webp"
     }
-  },
-  "relatedDreams": [
-    "flying-dream",
-    "falling-dream",
-    "running-dream"
-  ]
+  }
 }

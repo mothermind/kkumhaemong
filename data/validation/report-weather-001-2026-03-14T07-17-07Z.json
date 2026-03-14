@@ -1,0 +1,95 @@
+{
+  "generatedAt": "2026-03-14T07:17:07.817Z",
+  "category": "weather",
+  "summary": {
+    "filesScanned": 10,
+    "filesChanged": 10,
+    "issuesFlagged": 0,
+    "filesSkipped": 0
+  },
+  "changed": [
+    {
+      "file": "weather/fog-dream.json",
+      "fixes": [
+        "content_to_body_sections_and_variations",
+        "moved_relatedDreams_to_seo_relatedSlugs",
+        "fixed_en_metaDescription_length"
+      ]
+    },
+    {
+      "file": "weather/heavy-rain-dream.json",
+      "fixes": [
+        "content_to_body_sections_and_variations",
+        "moved_relatedDreams_to_seo_relatedSlugs",
+        "fixed_en_metaDescription_length"
+      ]
+    },
+    {
+      "file": "weather/lightning-weather-dream.json",
+      "fixes": [
+        "content_to_body_sections_and_variations",
+        "moved_relatedDreams_to_seo_relatedSlugs",
+        "fixed_en_metaDescription_length"
+      ]
+    },
+    {
+      "file": "weather/rain-weather-dream.json",
+      "fixes": [
+        "content_to_body_sections_and_variations",
+        "moved_relatedDreams_to_seo_relatedSlugs",
+        "fixed_en_metaDescription_length"
+      ]
+    },
+    {
+      "file": "weather/rainbow-dream.json",
+      "fixes": [
+        "content_to_body_sections_and_variations",
+        "moved_relatedDreams_to_seo_relatedSlugs",
+        "fixed_en_metaDescription_length"
+      ]
+    },
+    {
+      "file": "weather/snow-dream.json",
+      "fixes": [
+        "content_to_body_sections_and_variations",
+        "moved_relatedDreams_to_seo_relatedSlugs",
+        "fixed_en_metaDescription_length"
+      ]
+    },
+    {
+      "file": "weather/storm-dream.json",
+      "fixes": [
+        "content_to_body_sections_and_variations",
+        "moved_relatedDreams_to_seo_relatedSlugs",
+        "fixed_en_metaDescription_length"
+      ]
+    },
+    {
+      "file": "weather/thunder-dream.json",
+      "fixes": [
+        "content_to_body_sections_and_variations",
+        "moved_relatedDreams_to_seo_relatedSlugs",
+        "fixed_en_metaDescription_length",
+        "fixed_ko_metaDescription_length"
+      ]
+    },
+    {
+      "file": "weather/tornado-dream.json",
+      "fixes": [
+        "content_to_body_sections_and_variations",
+        "moved_relatedDreams_to_seo_relatedSlugs",
+        "fixed_en_metaDescription_length"
+      ]
+    },
+    {
+      "file": "weather/typhoon-dream.json",
+      "fixes": [
+        "content_to_body_sections_and_variations",
+        "moved_relatedDreams_to_seo_relatedSlugs",
+        "fixed_en_metaDescription_length"
+      ]
+    }
+  ],
+  "flagged": [],
+  "skipped": []
+}

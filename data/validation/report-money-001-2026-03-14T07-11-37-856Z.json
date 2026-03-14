@@ -1,0 +1,547 @@
+{
+  "reportId": "report-money-001",
+  "generatedAt": "2026-03-14T07:11:37.856Z",
+  "category": "money",
+  "filesChecked": 10,
+  "summary": {
+    "jsonSyntaxErrors": 0,
+    "metaDescriptionFixed": 4,
+    "flaggedIssues": [],
+    "allMetaDescriptionsValid": true,
+    "allFaqCountsValid": true
+  },
+  "fixes": [
+    {
+      "file": "money-stolen-dream.json",
+      "field": "ko.metaDescription",
+      "issue": "TOO_SHORT",
+      "before": 78,
+      "after": 89,
+      "description": "Expanded ko.metaDescription from 78 to 89 chars by adding 전통 꿈해몽 and 자세히"
+    },
+    {
+      "file": "finding-money-dream.json",
+      "field": "ko.metaDescription",
+      "issue": "TOO_SHORT",
+      "before": 78,
+      "after": 85,
+      "description": "Expanded ko.metaDescription from 78 to 85 chars by adding 흉몽 여부까지"
+    },
+    {
+      "file": "finding-money-dream.json",
+      "field": "en.metaDescription",
+      "issue": "TOO_LONG",
+      "before": 162,
+      "after": 154,
+      "description": "Trimmed en.metaDescription from 162 to 154 chars by condensing phrasing"
+    },
+    {
+      "file": "becoming-rich-dream.json",
+      "field": "en.metaDescription",
+      "issue": "TOO_LONG",
+      "before": 162,
+      "after": 157,
+      "description": "Trimmed en.metaDescription from 162 to 157 chars by tightening Explore clause"
+    }
+  ],
+  "flags": [
+    {
+      "issue": "SCHEMA_CONTENT_KEY",
+      "severity": "warning",
+      "description": "All 10 money files use content key in sections/variations arrays instead of the required body key. Per schema spec, each section/variation must have heading AND body.",
+      "affectedFiles": [
+        "lottery-numbers-dream.json",
+        "money-dream.json",
+        "money-stolen-dream.json",
+        "receiving-money-dream.json",
+        "winning-lottery-dream.json",
+        "becoming-rich-dream.json",
+        "finding-money-dream.json",
+        "giving-money-dream.json",
+        "gold-dream.json",
+        "losing-money-dream.json"
+      ],
+      "recommendation": "Migrate content key to body key in sections and variations arrays. This is a systemic issue affecting the entire money category and likely other categories."
+    },
+    {
+      "issue": "RELATED_DREAMS_AT_ROOT",
+      "severity": "warning",
+      "description": "All 10 money files have relatedDreams as a root-level key instead of relatedSlugs inside the seo object. Per schema spec, relatedSlugs must be inside seo object.",
+      "affectedFiles": [
+        "lottery-numbers-dream.json",
+        "money-dream.json",
+        "money-stolen-dream.json",
+        "receiving-money-dream.json",
+        "winning-lottery-dream.json",
+        "becoming-rich-dream.json",
+        "finding-money-dream.json",
+        "giving-money-dream.json",
+        "gold-dream.json",
+        "losing-money-dream.json"
+      ],
+      "recommendation": "Migrate root-level relatedDreams to seo.relatedSlugs. This is a systemic issue across the money category."
+    }
+  ],
+  "fileResults": [
+    {
+      "slug": "lottery-numbers-dream",
+      "file": "lottery-numbers-dream.json",
+      "jsonValid": true,
+      "ko": {
+        "metaDescriptionLength": 90,
+        "metaDescriptionStatus": "OK",
+        "faqCount": 6,
+        "faqCountValid": true,
+        "hasTitle": true,
+        "hasH1": true,
+        "hasIntro": true,
+        "hasSections": true,
+        "hasVariations": true,
+        "hasCulturalContext": true,
+        "hasConclusion": true
+      },
+      "en": {
+        "metaDescriptionLength": 160,
+        "metaDescriptionStatus": "OK",
+        "faqCount": 6,
+        "faqCountValid": true,
+        "hasTitle": true,
+        "hasH1": true,
+        "hasIntro": true,
+        "hasSections": true,
+        "hasVariations": true,
+        "hasCulturalContext": true,
+        "hasConclusion": true
+      },
+      "seo": {
+        "slugPresent": true,
+        "koreanSlugPresent": true,
+        "relatedSlugsInSeo": false,
+        "relatedDreamsAtRoot": true
+      },
+      "images": {
+        "heroPresent": true,
+        "heroUrl": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/lottery-numbers-dream/hero.webp"
+      },
+      "flags": {
+        "usesContentKeyInSections": true,
+        "relatedDreamsAtRoot": true,
+        "badSectionTypes": null
+      }
+    },
+    {
+      "slug": "money-dream",
+      "file": "money-dream.json",
+      "jsonValid": true,
+      "ko": {
+        "metaDescriptionLength": 81,
+        "metaDescriptionStatus": "OK",
+        "faqCount": 6,
+        "faqCountValid": true,
+        "hasTitle": true,
+        "hasH1": true,
+        "hasIntro": true,
+        "hasSections": true,
+        "hasVariations": true,
+        "hasCulturalContext": true,
+        "hasConclusion": true
+      },
+      "en": {
+        "metaDescriptionLength": 160,
+        "metaDescriptionStatus": "OK",
+        "faqCount": 6,
+        "faqCountValid": true,
+        "hasTitle": true,
+        "hasH1": true,
+        "hasIntro": true,
+        "hasSections": true,
+        "hasVariations": true,
+        "hasCulturalContext": true,
+        "hasConclusion": true
+      },
+      "seo": {
+        "slugPresent": true,
+        "koreanSlugPresent": true,
+        "relatedSlugsInSeo": false,
+        "relatedDreamsAtRoot": true
+      },
+      "images": {
+        "heroPresent": true,
+        "heroUrl": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/money-dream/hero.webp"
+      },
+      "flags": {
+        "usesContentKeyInSections": true,
+        "relatedDreamsAtRoot": true,
+        "badSectionTypes": null
+      }
+    },
+    {
+      "slug": "money-stolen-dream",
+      "file": "money-stolen-dream.json",
+      "jsonValid": true,
+      "ko": {
+        "metaDescriptionLength": 89,
+        "metaDescriptionStatus": "OK",
+        "faqCount": 6,
+        "faqCountValid": true,
+        "hasTitle": true,
+        "hasH1": true,
+        "hasIntro": true,
+        "hasSections": true,
+        "hasVariations": true,
+        "hasCulturalContext": true,
+        "hasConclusion": true
+      },
+      "en": {
+        "metaDescriptionLength": 151,
+        "metaDescriptionStatus": "OK",
+        "faqCount": 6,
+        "faqCountValid": true,
+        "hasTitle": true,
+        "hasH1": true,
+        "hasIntro": true,
+        "hasSections": true,
+        "hasVariations": true,
+        "hasCulturalContext": true,
+        "hasConclusion": true
+      },
+      "seo": {
+        "slugPresent": true,
+        "koreanSlugPresent": true,
+        "relatedSlugsInSeo": false,
+        "relatedDreamsAtRoot": true
+      },
+      "images": {
+        "heroPresent": true,
+        "heroUrl": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/money-stolen-dream/hero.webp"
+      },
+      "flags": {
+        "usesContentKeyInSections": true,
+        "relatedDreamsAtRoot": true,
+        "badSectionTypes": null
+      }
+    },
+    {
+      "slug": "receiving-money-dream",
+      "file": "receiving-money-dream.json",
+      "jsonValid": true,
+      "ko": {
+        "metaDescriptionLength": 81,
+        "metaDescriptionStatus": "OK",
+        "faqCount": 6,
+        "faqCountValid": true,
+        "hasTitle": true,
+        "hasH1": true,
+        "hasIntro": true,
+        "hasSections": true,
+        "hasVariations": true,
+        "hasCulturalContext": true,
+        "hasConclusion": true
+      },
+      "en": {
+        "metaDescriptionLength": 157,
+        "metaDescriptionStatus": "OK",
+        "faqCount": 6,
+        "faqCountValid": true,
+        "hasTitle": true,
+        "hasH1": true,
+        "hasIntro": true,
+        "hasSections": true,
+        "hasVariations": true,
+        "hasCulturalContext": true,
+        "hasConclusion": true
+      },
+      "seo": {
+        "slugPresent": true,
+        "koreanSlugPresent": true,
+        "relatedSlugsInSeo": false,
+        "relatedDreamsAtRoot": true
+      },
+      "images": {
+        "heroPresent": true,
+        "heroUrl": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/receiving-money-dream/hero.webp"
+      },
+      "flags": {
+        "usesContentKeyInSections": true,
+        "relatedDreamsAtRoot": true,
+        "badSectionTypes": null
+      }
+    },
+    {
+      "slug": "winning-lottery-dream",
+      "file": "winning-lottery-dream.json",
+      "jsonValid": true,
+      "ko": {
+        "metaDescriptionLength": 86,
+        "metaDescriptionStatus": "OK",
+        "faqCount": 6,
+        "faqCountValid": true,
+        "hasTitle": true,
+        "hasH1": true,
+        "hasIntro": true,
+        "hasSections": true,
+        "hasVariations": true,
+        "hasCulturalContext": true,
+        "hasConclusion": true
+      },
+      "en": {
+        "metaDescriptionLength": 153,
+        "metaDescriptionStatus": "OK",
+        "faqCount": 6,
+        "faqCountValid": true,
+        "hasTitle": true,
+        "hasH1": true,
+        "hasIntro": true,
+        "hasSections": true,
+        "hasVariations": true,
+        "hasCulturalContext": true,
+        "hasConclusion": true
+      },
+      "seo": {
+        "slugPresent": true,
+        "koreanSlugPresent": true,
+        "relatedSlugsInSeo": false,
+        "relatedDreamsAtRoot": true
+      },
+      "images": {
+        "heroPresent": true,
+        "heroUrl": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/winning-lottery-dream/hero.webp"
+      },
+      "flags": {
+        "usesContentKeyInSections": true,
+        "relatedDreamsAtRoot": true,
+        "badSectionTypes": null
+      }
+    },
+    {
+      "slug": "becoming-rich-dream",
+      "file": "becoming-rich-dream.json",
+      "jsonValid": true,
+      "ko": {
+        "metaDescriptionLength": 84,
+        "metaDescriptionStatus": "OK",
+        "faqCount": 6,
+        "faqCountValid": true,
+        "hasTitle": true,
+        "hasH1": true,
+        "hasIntro": true,
+        "hasSections": true,
+        "hasVariations": true,
+        "hasCulturalContext": true,
+        "hasConclusion": true
+      },
+      "en": {
+        "metaDescriptionLength": 157,
+        "metaDescriptionStatus": "OK",
+        "faqCount": 6,
+        "faqCountValid": true,
+        "hasTitle": true,
+        "hasH1": true,
+        "hasIntro": true,
+        "hasSections": true,
+        "hasVariations": true,
+        "hasCulturalContext": true,
+        "hasConclusion": true
+      },
+      "seo": {
+        "slugPresent": true,
+        "koreanSlugPresent": true,
+        "relatedSlugsInSeo": false,
+        "relatedDreamsAtRoot": true
+      },
+      "images": {
+        "heroPresent": true,
+        "heroUrl": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/becoming-rich-dream/hero.webp"
+      },
+      "flags": {
+        "usesContentKeyInSections": true,
+        "relatedDreamsAtRoot": true,
+        "badSectionTypes": null
+      }
+    },
+    {
+      "slug": "finding-money-dream",
+      "file": "finding-money-dream.json",
+      "jsonValid": true,
+      "ko": {
+        "metaDescriptionLength": 85,
+        "metaDescriptionStatus": "OK",
+        "faqCount": 8,
+        "faqCountValid": true,
+        "hasTitle": true,
+        "hasH1": true,
+        "hasIntro": true,
+        "hasSections": true,
+        "hasVariations": true,
+        "hasCulturalContext": true,
+        "hasConclusion": true
+      },
+      "en": {
+        "metaDescriptionLength": 154,
+        "metaDescriptionStatus": "OK",
+        "faqCount": 7,
+        "faqCountValid": true,
+        "hasTitle": true,
+        "hasH1": true,
+        "hasIntro": true,
+        "hasSections": true,
+        "hasVariations": true,
+        "hasCulturalContext": true,
+        "hasConclusion": true
+      },
+      "seo": {
+        "slugPresent": true,
+        "koreanSlugPresent": true,
+        "relatedSlugsInSeo": false,
+        "relatedDreamsAtRoot": true
+      },
+      "images": {
+        "heroPresent": true,
+        "heroUrl": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/finding-money-dream/hero.webp"
+      },
+      "flags": {
+        "usesContentKeyInSections": true,
+        "relatedDreamsAtRoot": true,
+        "badSectionTypes": null
+      }
+    },
+    {
+      "slug": "giving-money-dream",
+      "file": "giving-money-dream.json",
+      "jsonValid": true,
+      "ko": {
+        "metaDescriptionLength": 80,
+        "metaDescriptionStatus": "OK",
+        "faqCount": 6,
+        "faqCountValid": true,
+        "hasTitle": true,
+        "hasH1": true,
+        "hasIntro": true,
+        "hasSections": true,
+        "hasVariations": true,
+        "hasCulturalContext": true,
+        "hasConclusion": true
+      },
+      "en": {
+        "metaDescriptionLength": 151,
+        "metaDescriptionStatus": "OK",
+        "faqCount": 6,
+        "faqCountValid": true,
+        "hasTitle": true,
+        "hasH1": true,
+        "hasIntro": true,
+        "hasSections": true,
+        "hasVariations": true,
+        "hasCulturalContext": true,
+        "hasConclusion": true
+      },
+      "seo": {
+        "slugPresent": true,
+        "koreanSlugPresent": true,
+        "relatedSlugsInSeo": false,
+        "relatedDreamsAtRoot": true
+      },
+      "images": {
+        "heroPresent": true,
+        "heroUrl": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/giving-money-dream/hero.webp"
+      },
+      "flags": {
+        "usesContentKeyInSections": true,
+        "relatedDreamsAtRoot": true,
+        "badSectionTypes": null
+      }
+    },
+    {
+      "slug": "gold-dream",
+      "file": "gold-dream.json",
+      "jsonValid": true,
+      "ko": {
+        "metaDescriptionLength": 83,
+        "metaDescriptionStatus": "OK",
+        "faqCount": 7,
+        "faqCountValid": true,
+        "hasTitle": true,
+        "hasH1": true,
+        "hasIntro": true,
+        "hasSections": true,
+        "hasVariations": true,
+        "hasCulturalContext": true,
+        "hasConclusion": true
+      },
+      "en": {
+        "metaDescriptionLength": 159,
+        "metaDescriptionStatus": "OK",
+        "faqCount": 7,
+        "faqCountValid": true,
+        "hasTitle": true,
+        "hasH1": true,
+        "hasIntro": true,
+        "hasSections": true,
+        "hasVariations": true,
+        "hasCulturalContext": true,
+        "hasConclusion": true
+      },
+      "seo": {
+        "slugPresent": true,
+        "koreanSlugPresent": true,
+        "relatedSlugsInSeo": false,
+        "relatedDreamsAtRoot": true
+      },
+      "images": {
+        "heroPresent": true,
+        "heroUrl": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/gold-dream/hero.webp"
+      },
+      "flags": {
+        "usesContentKeyInSections": true,
+        "relatedDreamsAtRoot": true,
+        "badSectionTypes": null
+      }
+    },
+    {
+      "slug": "losing-money-dream",
+      "file": "losing-money-dream.json",
+      "jsonValid": true,
+      "ko": {
+        "metaDescriptionLength": 80,
+        "metaDescriptionStatus": "OK",
+        "faqCount": 6,
+        "faqCountValid": true,
+        "hasTitle": true,
+        "hasH1": true,
+        "hasIntro": true,
+        "hasSections": true,
+        "hasVariations": true,
+        "hasCulturalContext": true,
+        "hasConclusion": true
+      },
+      "en": {
+        "metaDescriptionLength": 152,
+        "metaDescriptionStatus": "OK",
+        "faqCount": 6,
+        "faqCountValid": true,
+        "hasTitle": true,
+        "hasH1": true,
+        "hasIntro": true,
+        "hasSections": true,
+        "hasVariations": true,
+        "hasCulturalContext": true,
+        "hasConclusion": true
+      },
+      "seo": {
+        "slugPresent": true,
+        "koreanSlugPresent": true,
+        "relatedSlugsInSeo": false,
+        "relatedDreamsAtRoot": true
+      },
+      "images": {
+        "heroPresent": true,
+        "heroUrl": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/losing-money-dream/hero.webp"
+      },
+      "flags": {
+        "usesContentKeyInSections": true,
+        "relatedDreamsAtRoot": true,
+        "badSectionTypes": null
+      }
+    }
+  ]
+}

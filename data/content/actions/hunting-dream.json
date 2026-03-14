@@ -4,7 +4,7 @@
   "generatedAt": "2026-03-12T00:00:00.000Z",
   "ko": {
     "title": "사냥하는 꿈 해몽 - 목표 추구와 성패의 상징 완벽 정리",
-    "metaDescription": "사냥하는 꿈 해몽을 완벽 정리했어요. 사냥 성공·실패, 호랑이·사슴·새 사냥, 활·총 사냥까지 길몽·흉몽 구분과 심리학적 의미를 상세하게 안내합니다.",
+    "metaDescription": "사냥하는 꿈의 해몽을 완벽 정리했습니다. 동물 사냥 성공·실패 꿈, 활이나 총으로 사냥하는 꿈의 길몽·흉몽 의미, 재물운·성공운 암시를 상황별로 전문가 시각에서 자세히 알아보세요. 사냥 꿈의 숨겨진 메시지와 주의사항도 확인하세요.",
     "h1": "사냥하는 꿈 해몽: 성공과 실패가 갈리는 목표의 꿈",
     "intro": "사냥하는 꿈은 당신이 무언가를 간절히 원하고 있다는 가장 직접적인 신호예요. 고구려 벽화 속 기마 사냥꾼처럼, 이 꿈은 단순한 장면이 아니라 당신의 야망과 의지가 빚어낸 상징입니다. 그런데 한 가지—짐승을 잡았느냐 놓쳤느냐에 따라 해몽이 완전히 달라지니, 꿈속 결말이 무엇이었는지 꼭 떠올려 보세요.",
     "sections": [
@@ -105,7 +105,7 @@
   },
   "en": {
     "title": "Hunting Dream Meaning - What It Reveals About Your Goals and Ambitions",
-    "metaDescription": "Discover what a hunting dream means. From catching tigers and deer to failed hunts and group hunts — explore Korean dream interpretation, psychology, and cultural context.",
+    "metaDescription": "Hunting dream meaning in Korean haemong. Successful and failed hunts, bow and gun hunting — fortune meanings and auspicious or inauspicious omens.",
     "h1": "Hunting Dream Meaning: When the Hunt Succeeds and When It Doesn't",
     "intro": "A hunting dream is one of the most direct signals your subconscious can send about ambition and desire — the very act of hunting distills the human drive to pursue, to focus, and to claim. In Korean dream tradition, this dream carries the spirit of the Goguryeo warrior-hunters immortalized on ancient tomb murals. But the interpretation hinges entirely on one thing: did you catch your prey, or did it escape into the mist?",
     "sections": [
@@ -317,7 +317,14 @@
         "사냥성공꿈",
         "사냥실패꿈"
       ]
-    }
+    },
+    "relatedSlugs": [
+      "fishing-dream",
+      "flying-dream",
+      "climbing-mountain",
+      "running",
+      "catching-dream"
+    ]
   },
   "images": {
     "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/hunting-dream/hero.webp",
@@ -325,12 +332,5 @@
       "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/hunting-dream/auspicious.webp",
       "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/hunting-dream/inauspicious.webp"
     }
-  },
-  "relatedDreams": [
-    "fishing-dream",
-    "flying-dream",
-    "climbing-mountain",
-    "running",
-    "catching-dream"
-  ]
+  }
 }

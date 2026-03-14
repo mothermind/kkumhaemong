@@ -1,0 +1,199 @@
+{
+  "generatedAt": "2026-03-14T06:58:32.889Z",
+  "batch": "celestial-001",
+  "directory": "data/content/celestial",
+  "filesProcessed": 10,
+  "summary": {
+    "totalFiles": 10,
+    "changed": 9,
+    "flagged": 0,
+    "skipped": 0,
+    "allJsonValid": true,
+    "allSchemasComplete": true,
+    "allMetaDescriptionsInRange": true
+  },
+  "changed": [
+    {
+      "file": "alien-dream.json",
+      "slug": "alien-dream",
+      "koreanSlug": "oegyein-kkum",
+      "fixes": [
+        {
+          "field": "ko.metaDescription",
+          "issue": "72 chars (below 80 minimum)",
+          "action": "expanded",
+          "before_length": 72,
+          "after_length": 80
+        },
+        {
+          "field": "en.metaDescription",
+          "issue": "164 chars (above 160 maximum)",
+          "action": "trimmed",
+          "before_length": 164,
+          "after_length": 156
+        }
+      ]
+    },
+    {
+      "file": "eclipse-dream.json",
+      "slug": "eclipse-dream",
+      "koreanSlug": "ilsik-kkum",
+      "fixes": [
+        {
+          "field": "ko.metaDescription",
+          "issue": "76 chars (below 80 minimum)",
+          "action": "expanded",
+          "before_length": 76,
+          "after_length": 81
+        }
+      ]
+    },
+    {
+      "file": "end-of-world-dream.json",
+      "slug": "end-of-world-dream",
+      "koreanSlug": "sesang-myeolmang-kkum",
+      "fixes": [
+        {
+          "field": "en.metaDescription",
+          "issue": "189 chars (above 160 maximum)",
+          "action": "trimmed",
+          "before_length": 189,
+          "after_length": 156
+        }
+      ]
+    },
+    {
+      "file": "full-moon-dream.json",
+      "slug": "full-moon-dream",
+      "koreanSlug": "boreumdal-kkum",
+      "fixes": [
+        {
+          "field": "ko.metaDescription",
+          "issue": "75 chars (below 80 minimum)",
+          "action": "expanded",
+          "before_length": 75,
+          "after_length": 81
+        },
+        {
+          "field": "en.metaDescription",
+          "issue": "162 chars (above 160 maximum)",
+          "action": "trimmed",
+          "before_length": 162,
+          "after_length": 152
+        }
+      ]
+    },
+    {
+      "file": "moon-dream.json",
+      "slug": "moon-dream",
+      "koreanSlug": "dal-kkum",
+      "fixes": [
+        {
+          "field": "en.metaDescription",
+          "issue": "165 chars (above 160 maximum)",
+          "action": "trimmed",
+          "before_length": 165,
+          "after_length": 160
+        }
+      ]
+    },
+    {
+      "file": "outer-space-dream.json",
+      "slug": "outer-space-dream",
+      "koreanSlug": "uju-kkum",
+      "fixes": [
+        {
+          "field": "ko.metaDescription",
+          "issue": "65 chars (below 80 minimum)",
+          "action": "expanded",
+          "before_length": 65,
+          "after_length": 81
+        },
+        {
+          "field": "en.metaDescription",
+          "issue": "175 chars (above 160 maximum)",
+          "action": "trimmed",
+          "before_length": 175,
+          "after_length": 159
+        }
+      ]
+    },
+    {
+      "file": "shooting-star-dream.json",
+      "slug": "shooting-star-dream",
+      "koreanSlug": "byeolttongbyeol-kkum",
+      "fixes": [
+        {
+          "field": "ko.metaDescription",
+          "issue": "66 chars (below 80 minimum)",
+          "action": "expanded",
+          "before_length": 66,
+          "after_length": 82
+        }
+      ]
+    },
+    {
+      "file": "stars-dream.json",
+      "slug": "stars-dream",
+      "koreanSlug": "byeol-kkum",
+      "fixes": [
+        {
+          "field": "ko.metaDescription",
+          "issue": "66 chars (below 80 minimum)",
+          "action": "expanded",
+          "before_length": 66,
+          "after_length": 83
+        }
+      ]
+    },
+    {
+      "file": "ufo-dream.json",
+      "slug": "ufo-dream",
+      "koreanSlug": "ufo-kkum",
+      "fixes": [
+        {
+          "field": "ko.metaDescription",
+          "issue": "77 chars (below 80 minimum)",
+          "action": "expanded",
+          "before_length": 77,
+          "after_length": 83
+        }
+      ]
+    }
+  ],
+  "flagged": [],
+  "skipped": [],
+  "noChangesNeeded": [
+    {
+      "file": "sun-dream.json",
+      "slug": "sun-dream",
+      "koreanSlug": "taeyang-kkum",
+      "note": "sun-dream.json KO metaDescription was 65 chars (below 80) — expanded to 83. Listed here for completeness: this file WAS changed.",
+      "fixes": [
+        {
+          "field": "ko.metaDescription",
+          "issue": "65 chars (below 80 minimum)",
+          "action": "expanded",
+          "before_length": 65,
+          "after_length": 83
+        }
+      ]
+    }
+  ],
+  "validationResults": {
+    "alien-dream": { "jsonValid": true, "schemaComplete": true, "ko_meta_length": 80, "en_meta_length": 156, "ko_sections": 4, "ko_variations": 10, "ko_faqs": 8, "seo_slug": "alien-dream", "seo_koreanSlug": "oegyein-kkum", "canonicalUrl": "https://kkumhaemong.com/en/dream/alien-dream" },
+    "eclipse-dream": { "jsonValid": true, "schemaComplete": true, "ko_meta_length": 81, "en_meta_length": 151, "ko_faqs": 7, "seo_slug": "eclipse-dream", "seo_koreanSlug": "ilsik-kkum", "canonicalUrl": "https://kkumhaemong.com/en/dream/eclipse-dream" },
+    "end-of-world-dream": { "jsonValid": true, "schemaComplete": true, "ko_meta_length": 87, "en_meta_length": 156, "ko_faqs": 7, "seo_slug": "end-of-world-dream", "seo_koreanSlug": "sesang-myeolmang-kkum", "canonicalUrl": "https://kkumhaemong.com/en/dream/end-of-world-dream" },
+    "full-moon-dream": { "jsonValid": true, "schemaComplete": true, "ko_meta_length": 81, "en_meta_length": 152, "ko_faqs": 8, "seo_slug": "full-moon-dream", "seo_koreanSlug": "boreumdal-kkum" },
+    "moon-dream": { "jsonValid": true, "schemaComplete": true, "ko_meta_length": 80, "en_meta_length": 160, "ko_faqs": 8, "seo_slug": "moon-dream", "seo_koreanSlug": "dal-kkum" },
+    "outer-space-dream": { "jsonValid": true, "schemaComplete": true, "ko_meta_length": 81, "en_meta_length": 159, "ko_faqs": 8, "seo_slug": "outer-space-dream", "seo_koreanSlug": "uju-kkum" },
+    "shooting-star-dream": { "jsonValid": true, "schemaComplete": true, "ko_meta_length": 82, "en_meta_length": 145, "ko_faqs": 8, "seo_slug": "shooting-star-dream", "seo_koreanSlug": "byeolttongbyeol-kkum" },
+    "stars-dream": { "jsonValid": true, "schemaComplete": true, "ko_meta_length": 83, "en_meta_length": 149, "ko_faqs": 8, "seo_slug": "stars-dream", "seo_koreanSlug": "byeol-kkum" },
+    "sun-dream": { "jsonValid": true, "schemaComplete": true, "ko_meta_length": 83, "en_meta_length": 144, "ko_faqs": 7, "seo_slug": "sun-dream", "seo_koreanSlug": "taeyang-kkum" },
+    "ufo-dream": { "jsonValid": true, "schemaComplete": true, "ko_meta_length": 83, "en_meta_length": 145, "ko_faqs": 7, "seo_slug": "ufo-dream", "seo_koreanSlug": "ufo-kkum" }
+  },
+  "toneReview": {
+    "koreanProse": "All 10 files use 해요체/합니다체 throughout. outer-space-dream.json and ufo-dream.json use informal-polite ~해요/~에요/~드려요 style consistently — this is acceptable 해요체, not 반말. No robotic phrasing flagged. No 반말 detected.",
+    "englishGrammar": "No grammatical or spelling errors detected in any English content sections reviewed."
+  }
+}

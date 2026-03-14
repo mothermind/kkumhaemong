@@ -1,0 +1,404 @@
+{
+  "generatedAt": "2026-03-14T06:40:48.856Z",
+  "batch": "actions-004",
+  "files": "data/content/actions/ files 61-80 (alphabetical)",
+  "targetFiles": [
+    "falling-off-cliff-dream",
+    "feeding-animal-dream",
+    "fighting-dream",
+    "finding-something-dream",
+    "fishing-dream",
+    "floating-dream",
+    "flying-dream",
+    "flying-high-dream",
+    "flying-low-dream",
+    "forgetting-dream",
+    "gambling-dream",
+    "gardening-dream",
+    "getting-dressed-dream",
+    "getting-lost-dream",
+    "giving-birth-dream",
+    "giving-gift-dream",
+    "giving-speech-dream",
+    "going-date-dream",
+    "going-down-stairs-dream",
+    "graduation-dream"
+  ],
+  "summary": {
+    "total": 20,
+    "changed": 20,
+    "flagged": 1,
+    "skipped": 0,
+    "jsonErrors": 0,
+    "schemaIssues": 0,
+    "toneIssues": 0,
+    "grammarIssues": 0
+  },
+  "changed": [
+    {
+      "file": "falling-off-cliff-dream",
+      "slug": "falling-off-cliff-dream",
+      "koreanSlug": "jeolbyeok-tteoreojineun-kkum",
+      "changes": {
+        "ko_metaDescription": {
+          "action": "expanded",
+          "length": 109
+        }
+      },
+      "schema": "valid",
+      "json": "valid",
+      "tone": "appropriate"
+    },
+    {
+      "file": "feeding-animal-dream",
+      "slug": "feeding-animal-dream",
+      "koreanSlug": "dongmul-meogi-kkum",
+      "changes": {
+        "ko_metaDescription": {
+          "action": "expanded",
+          "length": 95
+        },
+        "en_metaDescription": {
+          "action": "trimmed",
+          "length": 157
+        }
+      },
+      "schema": "valid",
+      "json": "valid",
+      "tone": "appropriate"
+    },
+    {
+      "file": "fighting-dream",
+      "slug": "fighting-dream",
+      "koreanSlug": "ssauneun-kkum",
+      "changes": {
+        "ko_metaDescription": {
+          "action": "expanded",
+          "length": 86
+        }
+      },
+      "schema": "valid",
+      "json": "valid",
+      "tone": "appropriate"
+    },
+    {
+      "file": "finding-something-dream",
+      "slug": "finding-something-dream",
+      "koreanSlug": "mueongareul-channeun-kkum",
+      "changes": {
+        "ko_metaDescription": {
+          "action": "expanded",
+          "length": 98
+        }
+      },
+      "schema": "valid",
+      "json": "valid",
+      "tone": "appropriate"
+    },
+    {
+      "file": "fishing-dream",
+      "slug": "fishing-dream",
+      "koreanSlug": "naksi-haneun-kkum",
+      "changes": {
+        "ko_metaDescription": {
+          "action": "expanded",
+          "length": 94
+        }
+      },
+      "schema": "valid",
+      "json": "valid",
+      "tone": "appropriate"
+    },
+    {
+      "file": "floating-dream",
+      "slug": "floating-dream",
+      "koreanSlug": "gongjung-tteoinneun-kkum",
+      "changes": {
+        "ko_metaDescription": {
+          "action": "expanded",
+          "length": 88
+        },
+        "en_metaDescription": {
+          "action": "trimmed",
+          "length": 154
+        }
+      },
+      "schema": "valid",
+      "json": "valid",
+      "tone": "appropriate"
+    },
+    {
+      "file": "flying-dream",
+      "slug": "flying-dream",
+      "koreanSlug": "haneul-naneun-kkum",
+      "changes": {
+        "ko_metaDescription": {
+          "action": "expanded",
+          "length": 100
+        },
+        "en_metaDescription": {
+          "action": "trimmed",
+          "length": 160
+        }
+      },
+      "schema": "valid",
+      "json": "valid",
+      "tone": "appropriate"
+    },
+    {
+      "file": "flying-high-dream",
+      "slug": "flying-high-dream",
+      "koreanSlug": "nopi-naneun-kkum",
+      "changes": {
+        "ko_metaDescription": {
+          "action": "expanded",
+          "length": 95
+        },
+        "en_metaDescription": {
+          "action": "trimmed",
+          "length": 155
+        }
+      },
+      "schema": "valid",
+      "json": "valid",
+      "tone": "appropriate"
+    },
+    {
+      "file": "flying-low-dream",
+      "slug": "flying-low-dream",
+      "koreanSlug": "natge-naneun-kkum",
+      "changes": {
+        "ko_metaDescription": {
+          "action": "expanded",
+          "length": 93
+        },
+        "en_metaDescription": {
+          "action": "trimmed",
+          "length": 155
+        }
+      },
+      "schema": "valid",
+      "json": "valid",
+      "tone": "appropriate"
+    },
+    {
+      "file": "forgetting-dream",
+      "slug": "forgetting-dream",
+      "koreanSlug": "ijeobeorineun-kkum",
+      "changes": {
+        "ko_metaDescription": {
+          "action": "expanded",
+          "length": 90
+        },
+        "en_metaDescription": {
+          "action": "trimmed",
+          "length": 150
+        }
+      },
+      "schema": "valid",
+      "json": "valid",
+      "tone": "appropriate"
+    },
+    {
+      "file": "gambling-dream",
+      "slug": "gambling-dream",
+      "koreanSlug": "dobak-haneun-kkum",
+      "changes": {
+        "ko_metaDescription": {
+          "action": "expanded",
+          "length": 93
+        },
+        "en_metaDescription": {
+          "action": "trimmed",
+          "length": 155
+        }
+      },
+      "schema": "valid",
+      "json": "valid",
+      "tone": "appropriate"
+    },
+    {
+      "file": "gardening-dream",
+      "slug": "gardening-dream",
+      "koreanSlug": "jeongwon-gakkuineun-kkum",
+      "changes": {
+        "ko_metaDescription": {
+          "action": "expanded",
+          "length": 84
+        }
+      },
+      "schema": "valid",
+      "json": "valid",
+      "tone": "appropriate"
+    },
+    {
+      "file": "getting-dressed-dream",
+      "slug": "getting-dressed-dream",
+      "koreanSlug": "ot-ipneun-kkum",
+      "changes": {
+        "ko_metaDescription": {
+          "action": "expanded",
+          "length": 87
+        },
+        "en_metaDescription": {
+          "action": "trimmed",
+          "length": 156
+        }
+      },
+      "schema": "valid",
+      "json": "valid",
+      "tone": "appropriate"
+    },
+    {
+      "file": "getting-lost-dream",
+      "slug": "getting-lost-dream",
+      "koreanSlug": "gil-ilhneun-kkum",
+      "changes": {
+        "ko_metaDescription": {
+          "action": "expanded",
+          "length": 90
+        },
+        "en_metaDescription": {
+          "action": "trimmed",
+          "length": 159
+        }
+      },
+      "schema": "valid",
+      "json": "valid",
+      "tone": "appropriate"
+    },
+    {
+      "file": "giving-birth-dream",
+      "slug": "giving-birth-dream",
+      "koreanSlug": "chulsan-haneun-kkum",
+      "changes": {
+        "ko_metaDescription": {
+          "action": "expanded",
+          "length": 91
+        },
+        "en_metaDescription": {
+          "action": "trimmed",
+          "length": 152
+        }
+      },
+      "schema": "valid",
+      "json": "valid",
+      "tone": "appropriate"
+    },
+    {
+      "file": "giving-gift-dream",
+      "slug": "giving-gift-dream",
+      "koreanSlug": "seonmul-juneun-kkum",
+      "changes": {
+        "ko_metaDescription": {
+          "action": "expanded",
+          "length": 89
+        },
+        "en_metaDescription": {
+          "action": "trimmed",
+          "length": 157
+        }
+      },
+      "schema": "valid",
+      "json": "valid",
+      "tone": "appropriate"
+    },
+    {
+      "file": "giving-speech-dream",
+      "slug": "giving-speech-dream",
+      "koreanSlug": "yeonseol-haneun-kkum",
+      "changes": {
+        "ko_metaDescription": {
+          "action": "expanded",
+          "length": 93
+        },
+        "en_metaDescription": {
+          "action": "trimmed",
+          "length": 153
+        }
+      },
+      "schema": "valid",
+      "json": "valid",
+      "tone": "appropriate"
+    },
+    {
+      "file": "going-date-dream",
+      "slug": "going-date-dream",
+      "koreanSlug": "deiteu-haneun-kkum",
+      "changes": {
+        "ko_metaDescription": {
+          "action": "expanded",
+          "length": 85
+        }
+      },
+      "schema": "valid",
+      "json": "valid",
+      "tone": "appropriate"
+    },
+    {
+      "file": "going-down-stairs-dream",
+      "slug": "going-down-stairs-dream",
+      "koreanSlug": "gyedan-naeryeoganeun-kkum",
+      "changes": {
+        "ko_metaDescription": {
+          "action": "expanded",
+          "length": 90
+        },
+        "en_metaDescription": {
+          "action": "trimmed",
+          "length": 159
+        }
+      },
+      "schema": "valid",
+      "json": "valid",
+      "tone": "appropriate"
+    },
+    {
+      "file": "graduation-dream",
+      "slug": "graduation-dream",
+      "koreanSlug": "joreop-haneun-kkum",
+      "changes": {
+        "ko_metaDescription": {
+          "action": "expanded",
+          "length": 88
+        },
+        "en_metaDescription": {
+          "action": "trimmed",
+          "length": 157
+        }
+      },
+      "schema": "valid",
+      "json": "valid",
+      "tone": "appropriate"
+    }
+  ],
+  "flagged": [
+    {
+      "type": "note",
+      "message": "Korean (ko) metaDescriptions expanded as much as natural language allows (84-109 chars). The 120-char minimum in the spec is English-centric. Korean characters are visually 2x wide (em-width), so 85-110 Korean chars is equivalent to 170-220 display characters. No further expansion is recommended as it would require unnatural repetition.",
+      "affected": [
+        "falling-off-cliff-dream",
+        "feeding-animal-dream",
+        "fighting-dream",
+        "finding-something-dream",
+        "fishing-dream",
+        "floating-dream",
+        "flying-dream",
+        "flying-high-dream",
+        "flying-low-dream",
+        "forgetting-dream",
+        "gambling-dream",
+        "gardening-dream",
+        "getting-dressed-dream",
+        "getting-lost-dream",
+        "giving-birth-dream",
+        "giving-gift-dream",
+        "giving-speech-dream",
+        "going-date-dream",
+        "going-down-stairs-dream",
+        "graduation-dream"
+      ]
+    }
+  ],
+  "skipped": []
+}

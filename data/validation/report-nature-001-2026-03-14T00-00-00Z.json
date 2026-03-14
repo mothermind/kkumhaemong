@@ -1,0 +1,464 @@
+{
+  "generatedAt": "2026-03-14T00:00:00.000Z",
+  "category": "nature",
+  "summary": {
+    "filesScanned": 10,
+    "filesChanged": 0,
+    "issuesFlagged": 20,
+    "filesSkipped": 0
+  },
+  "changed": [],
+  "flagged": [
+    {
+      "file": "cave-dream.json",
+      "slug": "cave-dream",
+      "koreanSlug": "donggul-kkum",
+      "issues": [
+        {
+          "field": "ko.sections[*].content",
+          "severity": "schema",
+          "message": "4 ko.sections use 'content' key instead of required 'body' key",
+          "count": 4
+        },
+        {
+          "field": "en.sections[*].content",
+          "severity": "schema",
+          "message": "4 en.sections use 'content' key instead of required 'body' key",
+          "count": 4
+        },
+        {
+          "field": "ko.variations[*].content",
+          "severity": "schema",
+          "message": "14 ko.variations use 'content' key instead of required 'body' key",
+          "count": 14
+        },
+        {
+          "field": "en.variations[*].content",
+          "severity": "schema",
+          "message": "14 en.variations use 'content' key instead of required 'body' key",
+          "count": 14
+        },
+        {
+          "field": "relatedDreams",
+          "severity": "schema",
+          "message": "Root-level 'relatedDreams' key found; related slugs must be at seo.relatedSlugs",
+          "foundAt": "root",
+          "shouldBe": "seo.relatedSlugs"
+        },
+        {
+          "field": "seo.relatedSlugs",
+          "severity": "schema",
+          "message": "seo.relatedSlugs is missing; root-level relatedDreams should be migrated here",
+          "relatedDreamsValue": ["mountain-dream","dragon-dream","treasure-dream","dark-forest-dream","tiger-dream","fox-dream"]
+        }
+      ]
+    },
+    {
+      "file": "cliff-dream.json",
+      "slug": "cliff-dream",
+      "koreanSlug": "jeolbyeok-kkum",
+      "issues": [
+        {
+          "field": "ko.sections[*].content",
+          "severity": "schema",
+          "message": "3 ko.sections use 'content' key instead of required 'body' key",
+          "count": 3
+        },
+        {
+          "field": "en.sections[*].content",
+          "severity": "schema",
+          "message": "3 en.sections use 'content' key instead of required 'body' key",
+          "count": 3
+        },
+        {
+          "field": "ko.variations[*].content",
+          "severity": "schema",
+          "message": "11 ko.variations use 'content' key instead of required 'body' key",
+          "count": 11
+        },
+        {
+          "field": "en.variations[*].content",
+          "severity": "schema",
+          "message": "11 en.variations use 'content' key instead of required 'body' key",
+          "count": 11
+        },
+        {
+          "field": "relatedDreams",
+          "severity": "schema",
+          "message": "Root-level 'relatedDreams' key found; related slugs must be at seo.relatedSlugs",
+          "foundAt": "root",
+          "shouldBe": "seo.relatedSlugs"
+        },
+        {
+          "field": "seo.relatedSlugs",
+          "severity": "schema",
+          "message": "seo.relatedSlugs is missing; root-level relatedDreams should be migrated here",
+          "relatedDreamsValue": ["mountain-dream","falling-dream","water-dream","sea-dream","rock-dream","bridge-dream"]
+        }
+      ]
+    },
+    {
+      "file": "climbing-mountain-nature-dream.json",
+      "slug": "climbing-mountain-nature-dream",
+      "koreanSlug": "san-oreuneun-kkum",
+      "issues": [
+        {
+          "field": "ko.sections[*].content",
+          "severity": "schema",
+          "message": "4 ko.sections use 'content' key instead of required 'body' key",
+          "count": 4
+        },
+        {
+          "field": "en.sections[*].content",
+          "severity": "schema",
+          "message": "4 en.sections use 'content' key instead of required 'body' key",
+          "count": 4
+        },
+        {
+          "field": "ko.variations[*].content",
+          "severity": "schema",
+          "message": "12 ko.variations use 'content' key instead of required 'body' key",
+          "count": 12
+        },
+        {
+          "field": "en.variations[*].content",
+          "severity": "schema",
+          "message": "12 en.variations use 'content' key instead of required 'body' key",
+          "count": 12
+        },
+        {
+          "field": "relatedDreams",
+          "severity": "schema",
+          "message": "Root-level 'relatedDreams' key found; related slugs must be at seo.relatedSlugs",
+          "foundAt": "root",
+          "shouldBe": "seo.relatedSlugs"
+        },
+        {
+          "field": "seo.relatedSlugs",
+          "severity": "schema",
+          "message": "seo.relatedSlugs is missing; root-level relatedDreams should be migrated here",
+          "relatedDreamsValue": ["flying-dream","falling-dream","forest-nature-dream","river-nature-dream","tiger-animal-dream","sky-nature-dream"]
+        }
+      ]
+    },
+    {
+      "file": "earthquake-dream.json",
+      "slug": "earthquake-dream",
+      "koreanSlug": "jijin-kkum",
+      "issues": [
+        {
+          "field": "ko.sections[*].content",
+          "severity": "schema",
+          "message": "3 ko.sections use 'content' key instead of required 'body' key",
+          "count": 3
+        },
+        {
+          "field": "en.sections[*].content",
+          "severity": "schema",
+          "message": "3 en.sections use 'content' key instead of required 'body' key",
+          "count": 3
+        },
+        {
+          "field": "ko.variations[*].content",
+          "severity": "schema",
+          "message": "11 ko.variations use 'content' key instead of required 'body' key",
+          "count": 11
+        },
+        {
+          "field": "en.variations[*].content",
+          "severity": "schema",
+          "message": "11 en.variations use 'content' key instead of required 'body' key",
+          "count": 11
+        },
+        {
+          "field": "relatedDreams",
+          "severity": "schema",
+          "message": "Root-level 'relatedDreams' key found; related slugs must be at seo.relatedSlugs",
+          "foundAt": "root",
+          "shouldBe": "seo.relatedSlugs"
+        },
+        {
+          "field": "seo.relatedSlugs",
+          "severity": "schema",
+          "message": "seo.relatedSlugs is missing; root-level relatedDreams should be migrated here",
+          "relatedDreamsValue": ["tsunami-dream","flood-dream","landslide-dream","volcano-dream","storm-dream","mountain-dream"]
+        }
+      ]
+    },
+    {
+      "file": "falling-from-mountain-dream.json",
+      "slug": "falling-from-mountain-dream",
+      "koreanSlug": "san-tteoreojineun-kkum",
+      "issues": [
+        {
+          "field": "ko.sections[*].content",
+          "severity": "schema",
+          "message": "4 ko.sections use 'content' key instead of required 'body' key",
+          "count": 4
+        },
+        {
+          "field": "en.sections[*].content",
+          "severity": "schema",
+          "message": "4 en.sections use 'content' key instead of required 'body' key",
+          "count": 4
+        },
+        {
+          "field": "ko.variations[*].content",
+          "severity": "schema",
+          "message": "10 ko.variations use 'content' key instead of required 'body' key",
+          "count": 10
+        },
+        {
+          "field": "en.variations[*].content",
+          "severity": "schema",
+          "message": "10 en.variations use 'content' key instead of required 'body' key",
+          "count": 10
+        },
+        {
+          "field": "relatedDreams",
+          "severity": "schema",
+          "message": "Root-level 'relatedDreams' key found; related slugs must be at seo.relatedSlugs",
+          "foundAt": "root",
+          "shouldBe": "seo.relatedSlugs"
+        },
+        {
+          "field": "seo.relatedSlugs",
+          "severity": "schema",
+          "message": "seo.relatedSlugs is missing; root-level relatedDreams should be migrated here",
+          "relatedDreamsValue": ["mountain-dream","climbing-dream","falling-dream","cliff-dream","flying-dream","landslide-dream"]
+        }
+      ]
+    },
+    {
+      "file": "forest-dream.json",
+      "slug": "forest-dream",
+      "koreanSlug": "sup-kkum",
+      "issues": [
+        {
+          "field": "ko.sections[*].content",
+          "severity": "schema",
+          "message": "6 ko.sections use 'content' key instead of required 'body' key",
+          "count": 6
+        },
+        {
+          "field": "en.sections[*].content",
+          "severity": "schema",
+          "message": "6 en.sections use 'content' key instead of required 'body' key",
+          "count": 6
+        },
+        {
+          "field": "ko.variations[*].content",
+          "severity": "schema",
+          "message": "10 ko.variations use 'content' key instead of required 'body' key",
+          "count": 10
+        },
+        {
+          "field": "en.variations[*].content",
+          "severity": "schema",
+          "message": "10 en.variations use 'content' key instead of required 'body' key",
+          "count": 10
+        },
+        {
+          "field": "relatedDreams",
+          "severity": "schema",
+          "message": "Root-level 'relatedDreams' key found; related slugs must be at seo.relatedSlugs",
+          "foundAt": "root",
+          "shouldBe": "seo.relatedSlugs"
+        },
+        {
+          "field": "seo.relatedSlugs",
+          "severity": "schema",
+          "message": "seo.relatedSlugs is missing; root-level relatedDreams should be migrated here",
+          "relatedDreamsValue": ["mountain-dream","tree-dream","path-dream","river-dream","hiking-dream","fire-dream"]
+        }
+      ]
+    },
+    {
+      "file": "garden-dream.json",
+      "slug": "garden-dream",
+      "koreanSlug": "jeongwon-kkum",
+      "issues": [
+        {
+          "field": "ko.sections[*].content",
+          "severity": "schema",
+          "message": "4 ko.sections use 'content' key instead of required 'body' key",
+          "count": 4
+        },
+        {
+          "field": "en.sections[*].content",
+          "severity": "schema",
+          "message": "4 en.sections use 'content' key instead of required 'body' key",
+          "count": 4
+        },
+        {
+          "field": "ko.variations[*].content",
+          "severity": "schema",
+          "message": "10 ko.variations use 'content' key instead of required 'body' key",
+          "count": 10
+        },
+        {
+          "field": "en.variations[*].content",
+          "severity": "schema",
+          "message": "10 en.variations use 'content' key instead of required 'body' key",
+          "count": 10
+        },
+        {
+          "field": "relatedDreams",
+          "severity": "schema",
+          "message": "Root-level 'relatedDreams' key found; related slugs must be at seo.relatedSlugs",
+          "foundAt": "root",
+          "shouldBe": "seo.relatedSlugs"
+        },
+        {
+          "field": "seo.relatedSlugs",
+          "severity": "schema",
+          "message": "seo.relatedSlugs is missing; root-level relatedDreams should be migrated here",
+          "relatedDreamsValue": ["flower-dream","tree-dream","water-dream","house-dream","butterfly-dream","spring-dream"]
+        }
+      ]
+    },
+    {
+      "file": "mountain-dream.json",
+      "slug": "mountain-dream",
+      "koreanSlug": "san-kkum",
+      "issues": [
+        {
+          "field": "ko.sections[*].content",
+          "severity": "schema",
+          "message": "6 ko.sections use 'content' key instead of required 'body' key",
+          "count": 6
+        },
+        {
+          "field": "en.sections[*].content",
+          "severity": "schema",
+          "message": "6 en.sections use 'content' key instead of required 'body' key",
+          "count": 6
+        },
+        {
+          "field": "ko.variations[*].content",
+          "severity": "schema",
+          "message": "12 ko.variations use 'content' key instead of required 'body' key",
+          "count": 12
+        },
+        {
+          "field": "en.variations[*].content",
+          "severity": "schema",
+          "message": "12 en.variations use 'content' key instead of required 'body' key",
+          "count": 12
+        },
+        {
+          "field": "relatedDreams",
+          "severity": "schema",
+          "message": "Root-level 'relatedDreams' key found; related slugs must be at seo.relatedSlugs",
+          "foundAt": "root",
+          "shouldBe": "seo.relatedSlugs"
+        },
+        {
+          "field": "seo.relatedSlugs",
+          "severity": "schema",
+          "message": "seo.relatedSlugs is missing; root-level relatedDreams should be migrated here",
+          "relatedDreamsValue": ["cliff-dream","forest-dream","cave-dream","valley-dream","waterfall-dream","landslide-dream"]
+        }
+      ]
+    },
+    {
+      "file": "mountain-top-dream.json",
+      "slug": "mountain-top-dream",
+      "koreanSlug": "san-jeongsang-kkum",
+      "issues": [
+        {
+          "field": "ko.sections[*].content",
+          "severity": "schema",
+          "message": "4 ko.sections use 'content' key instead of required 'body' key",
+          "count": 4
+        },
+        {
+          "field": "en.sections[*].content",
+          "severity": "schema",
+          "message": "4 en.sections use 'content' key instead of required 'body' key",
+          "count": 4
+        },
+        {
+          "field": "ko.variations[*].content",
+          "severity": "schema",
+          "message": "10 ko.variations use 'content' key instead of required 'body' key",
+          "count": 10
+        },
+        {
+          "field": "en.variations[*].content",
+          "severity": "schema",
+          "message": "10 en.variations use 'content' key instead of required 'body' key",
+          "count": 10
+        },
+        {
+          "field": "relatedDreams",
+          "severity": "schema",
+          "message": "Root-level 'relatedDreams' key found; related slugs must be at seo.relatedSlugs",
+          "foundAt": "root",
+          "shouldBe": "seo.relatedSlugs"
+        },
+        {
+          "field": "seo.relatedSlugs",
+          "severity": "schema",
+          "message": "seo.relatedSlugs is missing; root-level relatedDreams should be migrated here",
+          "relatedDreamsValue": ["mountain-dream","climbing-dream","falling-from-mountain-dream","sky-dream","eagle-dream","flying-dream"]
+        }
+      ]
+    },
+    {
+      "file": "volcano-dream.json",
+      "slug": "volcano-dream",
+      "koreanSlug": "hwasan-kkum",
+      "issues": [
+        {
+          "field": "ko.sections[*].content",
+          "severity": "schema",
+          "message": "4 ko.sections use 'content' key instead of required 'body' key",
+          "count": 4
+        },
+        {
+          "field": "en.sections[*].content",
+          "severity": "schema",
+          "message": "4 en.sections use 'content' key instead of required 'body' key",
+          "count": 4
+        },
+        {
+          "field": "ko.variations[*].content",
+          "severity": "schema",
+          "message": "10 ko.variations use 'content' key instead of required 'body' key",
+          "count": 10
+        },
+        {
+          "field": "en.variations[*].content",
+          "severity": "schema",
+          "message": "10 en.variations use 'content' key instead of required 'body' key",
+          "count": 10
+        },
+        {
+          "field": "relatedDreams",
+          "severity": "schema",
+          "message": "Root-level 'relatedDreams' key found; related slugs must be at seo.relatedSlugs",
+          "foundAt": "root",
+          "shouldBe": "seo.relatedSlugs"
+        },
+        {
+          "field": "seo.relatedSlugs",
+          "severity": "schema",
+          "message": "seo.relatedSlugs is missing; root-level relatedDreams should be migrated here",
+          "relatedDreamsValue": ["fire-dream","mountain-dream","earthquake-dream","explosion-dream","smoke-dream","lava-dream"]
+        }
+      ]
+    }
+  ],
+  "skipped": [],
+  "notes": [
+    "All 10 files passed JSON.parse() validation — no syntax errors.",
+    "All ko.metaDescription lengths are within the 80–110 character target range.",
+    "All en.metaDescription lengths are within the 120–160 character target range.",
+    "All files have ≥5 FAQs in both ko and en.",
+    "All files have a non-empty images.hero Firebase Storage URL.",
+    "No section type fields using Korean strings were detected.",
+    "Universal schema issue: ALL sections and variations across all 10 files use a 'content' key instead of the required 'body' key. This requires a bulk migration of the content key to body across the data/content/nature/ directory.",
+    "Universal schema issue: ALL 10 files have related dream slugs stored at root-level 'relatedDreams' array instead of inside the seo object as 'seo.relatedSlugs'. Migration required."
+  ]
+}

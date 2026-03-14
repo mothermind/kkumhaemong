@@ -1,0 +1,280 @@
+{
+  "generatedAt": "2026-03-14T00:00:00Z",
+  "batch": "spirits-001",
+  "summary": {
+    "filesScanned": 10,
+    "filesChanged": 10,
+    "issuesFlagged": 20,
+    "filesSkipped": 0
+  },
+  "changed": [
+    {
+      "slug": "angel-dream",
+      "category": "spirits",
+      "filePath": "data/content/spirits/angel-dream.json",
+      "fixes": [
+        {
+          "field": "en.metaDescription",
+          "issue": "220 chars — exceeds 160-char limit",
+          "action": "Trimmed to 147 chars: 'Korean angel dream meanings: meeting, fighting, or becoming an angel — auspicious and inauspicious interpretations with cultural context explained.'"
+        }
+      ]
+    },
+    {
+      "slug": "buddha-dream",
+      "category": "spirits",
+      "filePath": "data/content/spirits/buddha-dream.json",
+      "fixes": [
+        {
+          "field": "en.metaDescription",
+          "issue": "163 chars — exceeds 160-char limit",
+          "action": "Trimmed to 160 chars: 'What does dreaming of Buddha mean in Korean tradition? Auspicious signs, golden statues, angry Buddha, and pregnancy omens — complete folk interpretation guide.'"
+        }
+      ]
+    },
+    {
+      "slug": "chased-by-ghost-dream",
+      "category": "spirits",
+      "filePath": "data/content/spirits/chased-by-ghost-dream.json",
+      "fixes": [
+        {
+          "field": "en.metaDescription",
+          "issue": "218 chars — exceeds 160-char limit",
+          "action": "Trimmed to 151 chars: 'Chased by a ghost dream: Korean interpretation — escape means good fortune, getting caught warns of trouble. Female ghost and recurring dreams covered.'"
+        }
+      ]
+    },
+    {
+      "slug": "female-ghost-dream",
+      "category": "spirits",
+      "filePath": "data/content/spirits/female-ghost-dream.json",
+      "fixes": [
+        {
+          "field": "en.metaDescription",
+          "issue": "212 chars — exceeds 160-char limit",
+          "action": "Trimmed to 158 chars: 'Female ghost dream meanings in Korean tradition: virgin ghost (처녀귀신), white-robed ghost, being chased, driving the ghost away — complete interpretation guide.'"
+        }
+      ]
+    },
+    {
+      "slug": "ghost-dream",
+      "category": "spirits",
+      "filePath": "data/content/spirits/ghost-dream.json",
+      "fixes": [
+        {
+          "field": "en.metaDescription",
+          "issue": "204 chars — exceeds 160-char limit",
+          "action": "Trimmed to 153 chars: 'Ghost dreams in Korean tradition: defeating a ghost predicts success, receiving gifts foretells wealth. Full 귀신 (gwisin) dream meaning guide by scenario.'"
+        }
+      ]
+    },
+    {
+      "slug": "god-dream",
+      "category": "spirits",
+      "filePath": "data/content/spirits/god-dream.json",
+      "fixes": [
+        {
+          "field": "en.metaDescription",
+          "issue": "217 chars — exceeds 160-char limit",
+          "action": "Trimmed to 154 chars: 'Dreamed of a god or divine spirit? Korean interpretation: mountain god, divine gifts, scolding deities, shamanic possession — auspicious and inauspicious meanings.'"
+        }
+      ]
+    },
+    {
+      "slug": "haunted-house-dream",
+      "category": "spirits",
+      "filePath": "data/content/spirits/haunted-house-dream.json",
+      "fixes": [
+        {
+          "field": "en.metaDescription",
+          "issue": "196 chars — exceeds 160-char limit",
+          "action": "Trimmed to 160 chars: 'Haunted house dream meaning in Korean tradition: defeating a ghost is lucky; being chased signals stress. Auspicious and inauspicious interpretations explained.'"
+        }
+      ]
+    },
+    {
+      "slug": "jesus-dream",
+      "category": "spirits",
+      "filePath": "data/content/spirits/jesus-dream.json",
+      "fixes": [
+        {
+          "field": "en.metaDescription",
+          "issue": "180 chars — exceeds 160-char limit",
+          "action": "Trimmed to 154 chars: 'What does dreaming of Jesus mean? Korean interpretation of Jesus smiling, baptizing, crying, and scolding — auspicious signs and warnings fully explained.'"
+        }
+      ]
+    },
+    {
+      "slug": "seeing-ghost-dream",
+      "category": "spirits",
+      "filePath": "data/content/spirits/seeing-ghost-dream.json",
+      "fixes": [
+        {
+          "field": "ko.metaDescription",
+          "issue": "78 chars — below 80-char minimum",
+          "action": "Expanded to 82 chars by adding '귀신을 보는 꿈 ' prefix: '귀신을 보는 꿈 해몽 총정리. 귀신에 쫓기는 꿈, 귀신과 싸우는 꿈, 처녀귀신·물귀신 꿈의 의미까지 무조건 흉몽이 아닌 귀신꿈의 놀라운 길흉 해석.'"
+        },
+        {
+          "field": "en.metaDescription",
+          "issue": "193 chars — exceeds 160-char limit",
+          "action": "Trimmed to 158 chars: 'Korean ghost dream meanings: ghost chasing you, fighting a ghost, virgin ghost (처녀귀신), water ghost — which are auspicious and which warn of danger, explained.'"
+        }
+      ]
+    },
+    {
+      "slug": "spirit-dream",
+      "category": "spirits",
+      "filePath": "data/content/spirits/spirit-dream.json",
+      "fixes": [
+        {
+          "field": "en.metaDescription",
+          "issue": "187 chars — exceeds 160-char limit",
+          "action": "Trimmed to 159 chars: 'Korean ghost dream interpretation: fighting ghosts, being chased, ghosts entering your home — auspicious or inauspicious? All spirit dream scenarios explained.'"
+        }
+      ]
+    }
+  ],
+  "flagged": [
+    {
+      "slug": "angel-dream",
+      "category": "spirits",
+      "flags": [
+        {
+          "field": "sections[*].content",
+          "issue": "Sections use 'content' key instead of 'body' as required by schema"
+        },
+        {
+          "field": "relatedDreams",
+          "issue": "'relatedDreams' array exists at root level instead of 'seo.relatedSlugs'"
+        }
+      ]
+    },
+    {
+      "slug": "buddha-dream",
+      "category": "spirits",
+      "flags": [
+        {
+          "field": "sections[*].content",
+          "issue": "Sections use 'content' key instead of 'body' as required by schema"
+        },
+        {
+          "field": "relatedDreams",
+          "issue": "'relatedDreams' array exists at root level instead of 'seo.relatedSlugs'"
+        }
+      ]
+    },
+    {
+      "slug": "chased-by-ghost-dream",
+      "category": "spirits",
+      "flags": [
+        {
+          "field": "sections[*].content",
+          "issue": "Sections use 'content' key instead of 'body' as required by schema"
+        },
+        {
+          "field": "relatedDreams",
+          "issue": "'relatedDreams' array exists at root level instead of 'seo.relatedSlugs'"
+        }
+      ]
+    },
+    {
+      "slug": "female-ghost-dream",
+      "category": "spirits",
+      "flags": [
+        {
+          "field": "sections[*].content",
+          "issue": "Sections use 'content' key instead of 'body' as required by schema"
+        },
+        {
+          "field": "relatedDreams",
+          "issue": "'relatedDreams' array exists at root level instead of 'seo.relatedSlugs'"
+        }
+      ]
+    },
+    {
+      "slug": "ghost-dream",
+      "category": "spirits",
+      "flags": [
+        {
+          "field": "sections[*].content",
+          "issue": "Sections use 'content' key instead of 'body' as required by schema"
+        },
+        {
+          "field": "relatedDreams",
+          "issue": "'relatedDreams' array exists at root level instead of 'seo.relatedSlugs'"
+        }
+      ]
+    },
+    {
+      "slug": "god-dream",
+      "category": "spirits",
+      "flags": [
+        {
+          "field": "sections[*].content",
+          "issue": "Sections use 'content' key instead of 'body' as required by schema"
+        },
+        {
+          "field": "relatedDreams",
+          "issue": "'relatedDreams' array exists at root level instead of 'seo.relatedSlugs'"
+        }
+      ]
+    },
+    {
+      "slug": "haunted-house-dream",
+      "category": "spirits",
+      "flags": [
+        {
+          "field": "sections[*].content",
+          "issue": "Sections use 'content' key instead of 'body' as required by schema"
+        },
+        {
+          "field": "relatedDreams",
+          "issue": "'relatedDreams' array exists at root level instead of 'seo.relatedSlugs'"
+        }
+      ]
+    },
+    {
+      "slug": "jesus-dream",
+      "category": "spirits",
+      "flags": [
+        {
+          "field": "sections[*].content",
+          "issue": "Sections use 'content' key instead of 'body' as required by schema"
+        },
+        {
+          "field": "relatedDreams",
+          "issue": "'relatedDreams' array exists at root level instead of 'seo.relatedSlugs'"
+        }
+      ]
+    },
+    {
+      "slug": "seeing-ghost-dream",
+      "category": "spirits",
+      "flags": [
+        {
+          "field": "sections[*].content",
+          "issue": "Sections use 'content' key instead of 'body' as required by schema"
+        },
+        {
+          "field": "relatedDreams",
+          "issue": "'relatedDreams' array exists at root level instead of 'seo.relatedSlugs'"
+        }
+      ]
+    },
+    {
+      "slug": "spirit-dream",
+      "category": "spirits",
+      "flags": [
+        {
+          "field": "sections[*].content",
+          "issue": "Sections use 'content' key instead of 'body' as required by schema"
+        },
+        {
+          "field": "relatedDreams",
+          "issue": "'relatedDreams' array exists at root level instead of 'seo.relatedSlugs'"
+        }
+      ]
+    }
+  ],
+  "skipped": []
+}

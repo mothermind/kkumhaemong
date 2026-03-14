@@ -4,7 +4,7 @@
   "generatedAt": "2026-03-12T00:00:00.000Z",
   "ko": {
     "title": "그네 타는 꿈 해몽 - 자유·해방·도약의 의미 완벽 정리",
-    "metaDescription": "그네 타는 꿈 해몽: 높이 솟으면 길몽, 줄이 끊어지면 흉몽. 길몽·흉몽·변형 해석부터 단오 전통 문화와 심리학적 의미까지 완벽 정리.",
+    "metaDescription": "그네 타는 꿈 해몽: 높이 솟으면 길몽, 줄이 끊어지면 흉몽. 길몽·흉몽·변형 해석부터 단오 전통 문화와 조선 여성 해방의 의미, 재물운·승진운·연애운·건강운, 프로이트·융의 심리학적 의미, 꿈의 높이와 감정까지 완벽 정리합니다.",
     "h1": "그네 타는 꿈 해몽 — 자유와 도약, 그리고 경고의 이중 언어",
     "intro": "그네를 힘차게 타며 하늘로 솟아오르는 꿈은 지금 당신의 인생이 도약을 준비하고 있다는 신호입니다. 조선의 선비들은 단오 그네 위의 여인을 '반선(半仙)', 즉 반쯤 신선이 된 존재라 불렀을 만큼, 그네는 땅의 속박을 벗어나 더 높은 세계로 나아가는 상징이었으니까요. 그런데 한 가지— 그네가 같은 그네여도 높이 솟느냐, 줄이 끊어지느냐에 따라 해몽이 180도 달라집니다.",
     "sections": [
@@ -110,7 +110,7 @@
   },
   "en": {
     "title": "Swinging Dream Meaning - Freedom, Ascent & Hidden Warnings",
-    "metaDescription": "Swinging dream interpretation: soaring high means auspicious fortune; a broken rope warns of loss. Explore all variations, Korean cultural context, and psychology.",
+    "metaDescription": "Swinging dream meaning: soaring high signals auspicious fortune; a broken rope warns of loss. All variations, Korean cultural context, and psychology explained.",
     "h1": "Swinging Dream Meaning — The Dual Language of Freedom and Warning",
     "intro": "Dreaming of swinging powerfully into the sky is your subconscious telling you that a leap forward is at hand. Joseon scholars called the woman on the Dano swing a 半仙 — a half-immortal — because the swing was one of the few acts that could carry a person beyond earthly constraints toward something higher. But here's the thing: the very same swing can read completely differently depending on whether you're soaring or falling.",
     "sections": [
@@ -304,7 +304,14 @@
         "꿈풀이",
         "단오 그네"
       ]
-    }
+    },
+    "relatedSlugs": [
+      "flying-dream",
+      "falling-dream",
+      "climbing-mountain",
+      "swimming",
+      "dancing"
+    ]
   },
   "images": {
     "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/swinging-dream/hero.webp",
@@ -312,12 +319,5 @@
       "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/swinging-dream/auspicious.webp",
       "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/swinging-dream/inauspicious.webp"
     }
-  },
-  "relatedDreams": [
-    "flying-dream",
-    "falling-dream",
-    "climbing-mountain",
-    "swimming",
-    "dancing"
-  ]
+  }
 }

@@ -1,0 +1,268 @@
+{
+  "reportId": "report-objects-001-2026-03-14T07:10:44Z",
+  "generatedAt": "2026-03-14T07:10:44Z",
+  "category": "objects",
+  "totalFiles": 10,
+  "summary": {
+    "changed": 14,
+    "flagged": 10,
+    "skipped": 0,
+    "errors": 0
+  },
+  "changed": [
+    {
+      "slug": "book-dream",
+      "field": "en.metaDescription",
+      "issue": "too_long",
+      "before": 170,
+      "after": 148,
+      "note": "Trimmed to fit 120-160 char limit"
+    },
+    {
+      "slug": "clock-dream",
+      "field": "ko.metaDescription",
+      "issue": "too_short",
+      "before": 75,
+      "after": 83,
+      "note": "Expanded to meet 80-110 char minimum"
+    },
+    {
+      "slug": "door-dream",
+      "field": "ko.metaDescription",
+      "issue": "too_short",
+      "before": 78,
+      "after": 84,
+      "note": "Expanded to meet 80-110 char minimum"
+    },
+    {
+      "slug": "door-dream",
+      "field": "en.metaDescription",
+      "issue": "too_long",
+      "before": 167,
+      "after": 155,
+      "note": "Trimmed to fit 120-160 char limit"
+    },
+    {
+      "slug": "gun-dream",
+      "field": "en.metaDescription",
+      "issue": "too_long",
+      "before": 162,
+      "after": 153,
+      "note": "Trimmed to fit 120-160 char limit"
+    },
+    {
+      "slug": "key-dream",
+      "field": "ko.metaDescription",
+      "issue": "too_short",
+      "before": 79,
+      "after": 82,
+      "note": "Expanded to meet 80-110 char minimum"
+    },
+    {
+      "slug": "key-dream",
+      "field": "en.metaDescription",
+      "issue": "too_long",
+      "before": 161,
+      "after": 157,
+      "note": "Trimmed to fit 120-160 char limit"
+    },
+    {
+      "slug": "knife-dream",
+      "field": "en.metaDescription",
+      "issue": "too_long",
+      "before": 194,
+      "after": 157,
+      "note": "Trimmed to fit 120-160 char limit"
+    },
+    {
+      "slug": "mirror-breaking-dream",
+      "field": "ko.metaDescription",
+      "issue": "too_short",
+      "before": 70,
+      "after": 80,
+      "note": "Expanded to meet 80-110 char minimum"
+    },
+    {
+      "slug": "mirror-breaking-dream",
+      "field": "en.metaDescription",
+      "issue": "too_long",
+      "before": 168,
+      "after": 157,
+      "note": "Trimmed to fit 120-160 char limit"
+    },
+    {
+      "slug": "mirror-dream",
+      "field": "ko.metaDescription",
+      "issue": "too_short",
+      "before": 79,
+      "after": 83,
+      "note": "Expanded to meet 80-110 char minimum"
+    },
+    {
+      "slug": "phone-dream",
+      "field": "ko.metaDescription",
+      "issue": "too_short",
+      "before": 70,
+      "after": 83,
+      "note": "Expanded to meet 80-110 char minimum"
+    },
+    {
+      "slug": "sword-dream",
+      "field": "ko.metaDescription",
+      "issue": "too_short",
+      "before": 71,
+      "after": 82,
+      "note": "Expanded to meet 80-110 char minimum"
+    },
+    {
+      "slug": "sword-dream",
+      "field": "en.metaDescription",
+      "issue": "too_long",
+      "before": 168,
+      "after": 157,
+      "note": "Trimmed to fit 120-160 char limit"
+    }
+  ],
+  "flagged": [
+    {
+      "slug": "book-dream",
+      "flags": [
+        {
+          "code": "SECTIONS_USE_CONTENT_KEY",
+          "message": "ko.sections use \"content\" key instead of \"body\""
+        },
+        {
+          "code": "ROOT_RELATED_DREAMS",
+          "message": "\"relatedDreams\" is at root level instead of seo.relatedSlugs"
+        }
+      ]
+    },
+    {
+      "slug": "clock-dream",
+      "flags": [
+        {
+          "code": "SECTIONS_USE_CONTENT_KEY",
+          "message": "ko.sections use \"content\" key instead of \"body\""
+        },
+        {
+          "code": "ROOT_RELATED_DREAMS",
+          "message": "\"relatedDreams\" is at root level instead of seo.relatedSlugs"
+        }
+      ]
+    },
+    {
+      "slug": "door-dream",
+      "flags": [
+        {
+          "code": "SECTIONS_USE_CONTENT_KEY",
+          "message": "ko.sections use \"content\" key instead of \"body\""
+        },
+        {
+          "code": "ROOT_RELATED_DREAMS",
+          "message": "\"relatedDreams\" is at root level instead of seo.relatedSlugs"
+        }
+      ]
+    },
+    {
+      "slug": "gun-dream",
+      "flags": [
+        {
+          "code": "SECTIONS_USE_CONTENT_KEY",
+          "message": "ko.sections use \"content\" key instead of \"body\""
+        },
+        {
+          "code": "ROOT_RELATED_DREAMS",
+          "message": "\"relatedDreams\" is at root level instead of seo.relatedSlugs"
+        }
+      ]
+    },
+    {
+      "slug": "key-dream",
+      "flags": [
+        {
+          "code": "SECTIONS_USE_CONTENT_KEY",
+          "message": "ko.sections use \"content\" key instead of \"body\""
+        },
+        {
+          "code": "ROOT_RELATED_DREAMS",
+          "message": "\"relatedDreams\" is at root level instead of seo.relatedSlugs"
+        }
+      ]
+    },
+    {
+      "slug": "knife-dream",
+      "flags": [
+        {
+          "code": "SECTIONS_USE_CONTENT_KEY",
+          "message": "ko.sections use \"content\" key instead of \"body\""
+        },
+        {
+          "code": "ROOT_RELATED_DREAMS",
+          "message": "\"relatedDreams\" is at root level instead of seo.relatedSlugs"
+        }
+      ]
+    },
+    {
+      "slug": "mirror-breaking-dream",
+      "flags": [
+        {
+          "code": "SECTIONS_USE_CONTENT_KEY",
+          "message": "ko.sections use \"content\" key instead of \"body\""
+        },
+        {
+          "code": "ROOT_RELATED_DREAMS",
+          "message": "\"relatedDreams\" is at root level instead of seo.relatedSlugs"
+        }
+      ]
+    },
+    {
+      "slug": "mirror-dream",
+      "flags": [
+        {
+          "code": "SECTIONS_USE_CONTENT_KEY",
+          "message": "ko.sections use \"content\" key instead of \"body\""
+        },
+        {
+          "code": "ROOT_RELATED_DREAMS",
+          "message": "\"relatedDreams\" is at root level instead of seo.relatedSlugs"
+        }
+      ]
+    },
+    {
+      "slug": "phone-dream",
+      "flags": [
+        {
+          "code": "SECTIONS_USE_CONTENT_KEY",
+          "message": "ko.sections use \"content\" key instead of \"body\""
+        },
+        {
+          "code": "ROOT_RELATED_DREAMS",
+          "message": "\"relatedDreams\" is at root level instead of seo.relatedSlugs"
+        }
+      ]
+    },
+    {
+      "slug": "sword-dream",
+      "flags": [
+        {
+          "code": "SECTIONS_USE_CONTENT_KEY",
+          "message": "ko.sections use \"content\" key instead of \"body\""
+        },
+        {
+          "code": "ROOT_RELATED_DREAMS",
+          "message": "\"relatedDreams\" is at root level instead of seo.relatedSlugs"
+        }
+      ]
+    }
+  ],
+  "skipped": [],
+  "schemaCheck": {
+    "allFilesValid": true,
+    "requiredFieldsPresent": true,
+    "seoSlugsPresent": true,
+    "faqMinimumMet": true,
+    "canonicalUrlsValid": true,
+    "sectionTypesEnglishOnly": true,
+    "notes": "All 10 files parse as valid JSON. All required ko/en fields present. All seo.slug and seo.koreanSlug non-empty. All files have >=5 FAQs. No Korean type strings (흉몽/길몽) in section type fields. canonicalUrl is full URL in all files. No ko prose tone issues detected."
+  }
+}

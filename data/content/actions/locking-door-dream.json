@@ -4,7 +4,7 @@
   "generatedAt": "2026-03-12T00:00:00.000Z",
   "ko": {
     "title": "문 잠그는 꿈해몽 - 자물쇠와 경계의 의미 완벽 정리",
-    "metaDescription": "문 잠그는 꿈해몽을 완벽 분석! 길몽인지 흉몽인지, 집 문·방문·금고 상황별 의미, 자물쇠 꿈 재물운과 서양 심리학 해석까지.",
+    "metaDescription": "문 잠그는 꿈의 해몽을 완벽 분석했습니다. 길몽인지 흉몽인지 헷갈리는 이 꿈의 집 문·방문·금고 상황별 의미, 자물쇠 꿈의 재물운, 서양 심리학 해석을 전문가 시각으로 알아보세요. 잠그는 꿈이 전하는 메시지와 주의사항도 알아보세요.",
     "h1": "문 잠그는 꿈해몽: 재물 보호부터 내면의 경계까지",
     "intro": "문 잠그는 꿈, 대부분은 길몽이에요—자신이 소중히 여기는 것을 지켜내려는 의지가 꿈으로 표출된 거니까요. 조선시대부터 대문을 굳게 걸어 잠그는 행위는 가문의 재물과 기운을 '봉인'하는 신성한 의식이었어요. 그런데 한 가지—열쇠가 맞지 않거나 잠근 뒤에도 누군가 침입하는 상황이라면, 이 꿈은 전혀 다른 경고를 담고 있어요.",
     "sections": [
@@ -100,7 +100,7 @@
   },
   "en": {
     "title": "Locking a Door Dream Meaning - Korean Dream Interpretation Guide",
-    "metaDescription": "What does it mean to dream about locking a door? Korean dream interpretation covering auspicious & inauspicious signs, variations by situation, and Western psychology insights.",
+    "metaDescription": "Locking a door in a dream? Korean haemong for auspicious and inauspicious fortune signs, room and safe variations, and Western psychology insights.",
     "h1": "Locking a Door Dream Meaning: Protection, Secrets, and Boundaries",
     "intro": "Dreaming of locking a door is almost always a sign that something important to you is worth protecting—and your unconscious knows it. In Korea, the act of securing a gate has carried sacred weight since the Joseon era, understood as a ritual that seals in good fortune and wards off harm. But here's the catch: if the key doesn't fit, or someone walks through anyway, this dream flips into a very different kind of message.",
     "sections": [
@@ -300,7 +300,14 @@
         "꿈풀이",
         "꿈의미"
       ]
-    }
+    },
+    "relatedSlugs": [
+      "opening-door-dream",
+      "key-dream",
+      "hiding-dream",
+      "safe-dream",
+      "house-dream"
+    ]
   },
   "images": {
     "hero": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/locking-door-dream/hero.webp",
@@ -308,12 +315,5 @@
       "auspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/locking-door-dream/auspicious.webp",
       "inauspicious": "https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/locking-door-dream/inauspicious.webp"
     }
-  },
-  "relatedDreams": [
-    "opening-door-dream",
-    "key-dream",
-    "hiding-dream",
-    "safe-dream",
-    "house-dream"
-  ]
+  }
 }
