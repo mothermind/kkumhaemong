@@ -1380,5 +1380,195 @@
       "timeout": 300000
     },
     "tool_use_id": "toolu_01MbfvJvPZzna2mnidZSTzVo"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Write",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/scripts/strip-em-dashes.mjs",
+      "content": "#!/usr/bin/env node\n/**\n * Strip AI-style em-dashes from Korean prose fields only.\n * Replaces \" \u2014 \" (spaced em-dash) with \". \" in:\n *   ko.intro, ko.conclusion\n *   ko.sections[*].body, ko.variations[*].body\n *   ko.faqs[*].answer\n *   ko.culturalContext (if string)\n *\n * Leaves English fields and heading/title fields untouched.\n */\n\nimport { readFile, writeFile } from \"fs/promises\";\nimport { glob } from \"glob\";\n\nconst EM_DASH = / \u2014 /g;\n\nfunction fixProse(text) {\n  return text.replace(EM_DASH, \". \");\n}\n\nfunction processKo(ko) {\n  let changed = false;\n\n  const fix = (val) => {\n    const result = fixProse(val);\n    if (result !== val) changed = true;\n    return result;\n  };\n\n  if (typeof ko.intro === \"string\") ko.intro = fix(ko.intro);\n  if (typeof ko.conclusion === \"string\") ko.conclusion = fix(ko.conclusion);\n  if (typeof ko.culturalContext === \"string\") ko.culturalContext = fix(ko.culturalContext);\n\n  for (const sec of ko.sections ?? []) {\n    if (typeof sec.body === \"string\") sec.body = fix(sec.body);\n  }\n  for (const v of ko.variations ?? []) {\n    if (typeof v.body === \"string\") v.body = fix(v.body);\n  }\n  for (const faq of ko.faqs ?? []) {\n    if (typeof faq.answer === \"string\") faq.answer = fix(faq.answer);\n  }\n\n  return changed;\n}\n\nconst files = await glob(\"data/content/**/*.json\");\nlet fixed = 0;\n\nfor (const file of files) {\n  const raw = await readFile(file, \"utf8\");\n  const data = JSON.parse(raw);\n\n  if (!data.ko) continue;\n\n  const changed = processKo(data.ko);\n  if (changed) {\n    await writeFile(file, JSON.stringify(data, null, 2) + \"\\n\", \"utf8\");\n    console.log(`\u2713 ${file}`);\n    fixed++;\n  }\n}\n\nconsole.log(`\\nDone. ${fixed} files updated.`);\n"
+    },
+    "tool_use_id": "toolu_01GzMkUWp25FxeQnJDiEBwXp"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Bash",
+    "tool_input": {
+      "command": "node scripts/strip-em-dashes.mjs"
+    },
+    "tool_use_id": "toolu_015F4j9nvTJGLtKqNh4FmFGU"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Bash",
+    "tool_input": {
+      "command": "source ~/.zshrc && node scripts/migrate-content-to-firestore.mjs 2>&1 | tail -5",
+      "timeout": 300000
+    },
+    "tool_use_id": "toolu_01VfSoozXZcbUc4u7m3nip4z"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Bash",
+    "tool_input": {
+      "command": "node -e \"require('@anthropic-ai/sdk')\" 2>&1 && echo \"SDK OK\""
+    },
+    "tool_use_id": "toolu_0158veYSob4cyD5VT2ATFRMk"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Bash",
+    "tool_input": {
+      "command": "source ~/.zshrc && echo \"ANTHROPIC=${ANTHROPIC_API_KEY:0:15}...\""
+    },
+    "tool_use_id": "toolu_01Nawdp5dcx9NCHPRtWzRBtA"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Bash",
+    "tool_input": {
+      "command": "npm install @anthropic-ai/sdk --save-dev 2>&1 | tail -3"
+    },
+    "tool_use_id": "toolu_01KnTU4JDNh4F4yLcD2H5Dv9"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Bash",
+    "tool_input": {
+      "command": "printenv ANTHROPIC_API_KEY | cut -c1-15"
+    },
+    "tool_use_id": "toolu_01Tr7AzK4ynJ9j6V3XF6GZku"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Bash",
+    "tool_input": {
+      "command": "source ~/.zshrc && printenv GOOGLE_API_KEY | cut -c1-15"
+    },
+    "tool_use_id": "toolu_01C5RcPXTFLXuymMzpjDFEiU"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Bash",
+    "tool_input": {
+      "command": "npm install openai --save-dev 2>&1 | tail -3"
+    },
+    "tool_use_id": "toolu_01PHQpMY1EGAfJgU1dkpCG8n"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Write",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/scripts/rewrite-cliffhanger.mjs",
+      "content": "#!/usr/bin/env node\n/**\n * Rewrite the \"\uadf8\ub7f0\ub370 \ud55c \uac00\uc9c0\u2014\" cliffhanger pattern in ko.intro fields.\n * Uses GPT-4o-mini to produce natural, varied Korean transitions.\n *\n * Usage:\n *   node scripts/rewrite-cliffhanger.mjs --dry-run          # preview 5 random files\n *   node scripts/rewrite-cliffhanger.mjs --dry-run --n=10   # preview N files\n *   node scripts/rewrite-cliffhanger.mjs                    # write all files\n */\n\nimport { readFile, writeFile } from \"fs/promises\";\nimport { glob } from \"glob\";\nimport OpenAI from \"openai\";\nimport { config } from \"dotenv\";\n\nconfig(); // load .env\n\nconst client = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });\n\nconst args = process.argv.slice(2);\nconst isDryRun = args.includes(\"--dry-run\");\nconst nArg = args.find((a) => a.startsWith(\"--n=\"));\nconst previewCount = nArg ? parseInt(nArg.split(\"=\")[1]) : 5;\nconst BATCH_SIZE = 6;\n\nconst SYSTEM_PROMPT = `\ub2f9\uc2e0\uc740 \ud55c\uad6d\uc5b4 \uafc8\ud574\ubabd \ucf58\ud150\uce20 \ud3b8\uc9d1\uc790\uc785\ub2c8\ub2e4.\n\uc8fc\uc5b4\uc9c4 \uafc8\ud574\ubabd \uc18c\uac1c\uae00(intro)\uc5d0\uc11c \"\uadf8\ub7f0\ub370 \ud55c \uac00\uc9c0\" \ub610\ub294 \"\uadf8\ub7f0\ub370 \ud55c \uac00\uc9c0\u2014\" \ud328\ud134\uc73c\ub85c \uc2dc\uc791\ud558\ub294 \uc804\ud658 \ubb38\uc7a5\uc744 \ucc3e\uc544,\n\uc790\uc5f0\uc2a4\ub7fd\uace0 \ub2e4\uc591\ud55c \ud55c\uad6d\uc5b4 \ud45c\ud604\uc73c\ub85c \ubc14\uafd4\uc8fc\uc138\uc694.\n\n\uaddc\uce59:\n- \uc804\ud658 \ubb38\uc7a5(\uadf8\ub7f0\ub370 \ud55c \uac00\uc9c0~ \ubd80\ubd84)\ub9cc \uc790\uc5f0\uc2a4\ub7fd\uac8c \ubc14\uafb8\uc138\uc694. \ub098\uba38\uc9c0 \ubb38\uc7a5\uc740 \uc808\ub300 \uc218\uc815\ud558\uc9c0 \ub9c8\uc138\uc694.\n- \ub9e4\ubc88 \ub2e4\ub978 \ud45c\ud604\uc744 \uc0ac\uc6a9\ud558\uc138\uc694. \uc608\uc2dc:\n  - \"\uadf8\ub7f0\ub370 \uc5ec\uae30\uc11c \ud55c \uac00\uc9c0 \uc911\uc694\ud55c \uac8c \uc788\uc5b4\uc694.\"\n  - \"\ub2e4\ub9cc \uaf2d \uc9da\uace0 \ub118\uc5b4\uac08 \ubd80\ubd84\uc774 \uc788\uc5b4\uc694.\"\n  - \"\uadf8\ub7f0\ub370 \ub180\ub77c\uc6b4 \uac74,\"\n  - \"\uadf8\ub7f0\ub370 \uaf2d \uc54c\uc544\uc57c \ud560 \uac8c \uc788\uc5b4\uc694.\"\n  - \"\uadf8\ub7f0\ub370 \uc5ec\uae30\uc11c \ubc18\uc804\uc774 \uc788\uc5b4\uc694.\"\n  - \"\ud55c \uac00\uc9c0 \ud765\ubbf8\ub85c\uc6b4 \uc810\uc774 \uc788\uc5b4\uc694.\"\n  - \"\uadf8\ub7f0\ub370 \uc774\uac8c \uc804\ubd80\uac00 \uc544\ub2c8\uc5d0\uc694.\"\n- \uc774\uc5b4\uc9c0\ub294 \ub0b4\uc6a9 \ubb38\uc7a5(\u2014\ub4a4 \ub610\ub294 \ub2e4\uc74c \ubb38\uc7a5)\uc740 \uadf8\ub300\ub85c \uc720\uc9c0\ud558\uc138\uc694.\n- \uc218\uc815\ub41c \uc804\uccb4 intro \ud14d\uc2a4\ud2b8\ub9cc \ubc18\ud658\ud558\uc138\uc694. \uc124\uba85\uc774\ub098 \ubd80\uac00 \ud14d\uc2a4\ud2b8 \uc5c6\uc774.`;\n\nasync function rewriteIntro(intro) {\n  const response = await client.chat.completions.create({\n    model: \"gpt-4o-mini\",\n    messages: [\n      { role: \"system\", content: SYSTEM_PROMPT },\n      { role: \"user\", content: intro },\n    ],\n    temperature: 0.8,\n    max_tokens: 600,\n  });\n  return response.choices[0].message.content.trim();\n}\n\nasync function processFile(file) {\n  const raw = await readFile(file, \"utf8\");\n  const data = JSON.parse(raw);\n\n  const intro = data.ko?.intro;\n  if (!intro || !intro.includes(\"\uadf8\ub7f0\ub370 \ud55c \uac00\uc9c0\")) return null;\n\n  const rewritten = await rewriteIntro(intro);\n  return { file, original: intro, rewritten, data };\n}\n\nasync function processBatch(files) {\n  return Promise.all(files.map(processFile));\n}\n\n// --- Main ---\n\nconst allFiles = await glob(\"data/content/**/*.json\");\nconst targetFiles = allFiles.filter(async (f) => {\n  // pre-filter: only files likely to have the pattern (fast check done via grep earlier)\n  return true; // processFile handles the actual check\n});\n\nif (isDryRun) {\n  // Pick a spread of files across categories for preview\n  const shuffled = [...targetFiles].sort(() => Math.random() - 0.5).slice(0, previewCount);\n  console.log(`\\n\ud83d\udd0d DRY RUN \u2014 previewing ${previewCount} files\\n`);\n  console.log(\"=\".repeat(70));\n\n  const results = await processBatch(shuffled);\n  for (const result of results) {\n    if (!result) continue;\n    console.log(`\\nFILE: ${result.file}`);\n    console.log(\"\\n[BEFORE]\");\n    console.log(result.original);\n    console.log(\"\\n[AFTER]\");\n    console.log(result.rewritten);\n    console.log(\"\\n\" + \"-\".repeat(70));\n  }\n\n  console.log(\"\\n\u2705 Dry run complete. Run without --dry-run to apply changes.\");\n} else {\n  // Full run in batches\n  let updated = 0;\n  let skipped = 0;\n\n  for (let i = 0; i < targetFiles.length; i += BATCH_SIZE) {\n    const batch = targetFiles.slice(i, i + BATCH_SIZE);\n    const results = await processBatch(batch);\n\n    for (const result of results) {\n      if (!result) { skipped++; continue; }\n\n      result.data.ko.intro = result.rewritten;\n      await writeFile(result.file, JSON.stringify(result.data, null, 2) + \"\\n\", \"utf8\");\n      console.log(`\u2713 ${result.file}`);\n      updated++;\n    }\n\n    process.stdout.write(`\\rProgress: ${Math.min(i + BATCH_SIZE, targetFiles.length)}/${targetFiles.length}`);\n  }\n\n  console.log(`\\n\\nDone. Updated: ${updated}, Skipped (no pattern): ${skipped}`);\n}\n"
+    },
+    "tool_use_id": "toolu_01M2zzHFHKrU2qaBvZsiLCqG"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Bash",
+    "tool_input": {
+      "command": "node scripts/rewrite-cliffhanger.mjs --dry-run --n=5",
+      "timeout": 60000
+    },
+    "tool_use_id": "toolu_01HDXBd7Y36SvzkPsHZgf15F"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Bash",
+    "tool_input": {
+      "command": "node scripts/rewrite-cliffhanger.mjs 2>&1",
+      "timeout": 600000
+    },
+    "tool_use_id": "toolu_01PUWF7kzm7WuPHXFbXQSuQi"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Bash",
+    "tool_input": {
+      "command": "source ~/.zshrc && node scripts/migrate-content-to-firestore.mjs 2>&1 | tail -4",
+      "timeout": 300000
+    },
+    "tool_use_id": "toolu_0144D3yCsE1enL3auj8bc51q"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Read",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/.claude/agents/dream-content-agent.md",
+      "limit": 50
+    },
+    "tool_use_id": "toolu_01QjQCe9Ux418eM4nT53cFE5"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/.claude/agents/dream-content-agent.md",
+      "old_string": "       Sentence 3: Pull-forward cliffhanger that creates genuine curiosity about the nuance (e.g. \"\uadf8\ub7f0\ub370 \ud55c \uac00\uc9c0\u2014\uc774 \uafc8\uc5d0\ub3c4 \uc870\uc2ec\ud574\uc57c \ud560 \ud328\ud134\uc774 \uc228\uc5b4 \uc788\uc2b5\ub2c8\ub2e4\"). Only use this when the nuance is real and significant.",
+      "new_string": "       Sentence 3: Pull-forward cliffhanger that creates genuine curiosity about the nuance. Only use this when the nuance is real and significant.\n       **BANNED:** Never use \"\uadf8\ub7f0\ub370 \ud55c \uac00\uc9c0\u2014\" \u2014 this exact phrase was used on every article and reads as a template. Instead vary naturally. Examples:\n       - \"\ub2e4\ub9cc \uaf2d \uc9da\uace0 \ub118\uc5b4\uac08 \ubd80\ubd84\uc774 \uc788\uc5b4\uc694\u2014\"\n       - \"\uadf8\ub7f0\ub370 \uc5ec\uae30\uc11c \ubc18\uc804\uc774 \uc788\uc5b4\uc694\u2014\"\n       - \"\uadf8\ub7f0\ub370 \uc774\uac8c \uc804\ubd80\uac00 \uc544\ub2c8\uc5d0\uc694\u2014\"\n       - \"\ud55c \uac00\uc9c0 \ud765\ubbf8\ub85c\uc6b4 \uc810\uc774 \uc788\uc5b4\uc694\u2014\"\n       - \"\uadf8\ub7f0\ub370 \uaf2d \uc54c\uc544\uc57c \ud560 \uac8c \uc788\uc5b4\uc694\u2014\"\n       - \"\uadf8\ub7f0\ub370 \ub180\ub77c\uc6b4 \uac74,\"\n       Each article must use a different phrasing \u2014 never repeat the same transition across articles.",
+      "replace_all": false
+    },
+    "tool_use_id": "toolu_01HCYfGRahUn9f29cwNx3aSp"
   }
 ]

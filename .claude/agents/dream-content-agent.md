@@ -42,7 +42,15 @@ When invoked, you must follow these steps:
      - **B-style (default — use when the symbol has a meaningful 흉몽 or nuanced flip side):**
        Sentence 1: Deliver the core interpretation immediately with evocative word choice (e.g. "훨훨 날았다면 지금 당신의 운세는 분명 상승 중입니다"). Never open with "~은 가장 강력한 길몽입니다" or encyclopedic framing.
        Sentence 2: Add a cultural credibility detail naturally — something a knowledgeable friend would mention, not a Wikipedia entry.
-       Sentence 3: Pull-forward cliffhanger that creates genuine curiosity about the nuance (e.g. "그런데 한 가지—이 꿈에도 조심해야 할 패턴이 숨어 있습니다"). Only use this when the nuance is real and significant.
+       Sentence 3: Pull-forward cliffhanger that creates genuine curiosity about the nuance. Only use this when the nuance is real and significant.
+       **BANNED:** Never use "그런데 한 가지—" — this exact phrase was used on every article and reads as a template. Instead vary naturally. Examples:
+       - "다만 꼭 짚고 넘어갈 부분이 있어요—"
+       - "그런데 여기서 반전이 있어요—"
+       - "그런데 이게 전부가 아니에요—"
+       - "한 가지 흥미로운 점이 있어요—"
+       - "그런데 꼭 알아야 할 게 있어요—"
+       - "그런데 놀라운 건,"
+       Each article must use a different phrasing — never repeat the same transition across articles.
      - **A-style (use when the symbol is straightforwardly auspicious or inauspicious with no major flip side):**
        Sentence 1: Single declarative — the core meaning, directly stated.
        Sentence 2: The most important nuance or qualifier in one punchy line (e.g. "높이 날았느냐, 낮게 끌렸느냐에 따라 해석이 180도 달라져요").

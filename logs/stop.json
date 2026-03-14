@@ -11777,5 +11777,68 @@
     "hook_event_name": "Stop",
     "stop_hook_active": false,
     "last_assistant_message": "**On fixing before deploy:** No, I'd say don't block deployment on this. The em-dash patterns and similar AI-isms are polish issues \u2014 they don't break pages or hurt SEO in a measurable way. The structural bugs (`body`/`relatedSlugs`) *were* blockers because they caused broken rendering. Prose patterns don't. Ship first, improve iteratively.\n\n**On a specialized subagent:** It depends on what \"fix\" means:\n\n- **Simple pattern removal** (em-dash \u2192 natural punctuation, specific banned phrases): a script does this better \u2014 faster, cheaper, deterministic, easy to review.\n- **Full sentence rewriting** to sound more natural: needs an LLM. But this is expensive (413 files \u00d7 API calls), slow, and risky \u2014 LLM rewrites can accidentally change meaning or introduce new patterns.\n- **Flagging only** (report which files/passages need attention): an agent makes sense here.\n\nMy honest recommendation: **skip the subagent for this**. Write a targeted regex script for the easy patterns (em-dashes, `\uac83\uc774\ub2e4` endings, etc.) similar to what we just did for bold markers. That handles 80% of the problem in 5 minutes. A full prose-rewriting agent adds complexity and cost for marginal gain over a script.\n\nDo you want me to write that script instead?"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "last_assistant_message": "Done. 242 files had em-dashes stripped from Korean prose fields, all 413 synced to Firestore. English content untouched.\n\nAny other patterns you want to target before deploying?"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "last_assistant_message": "Already done \u2014 the Firestore sync ran right after the strip, all 413 uploaded successfully. You can check the site now."
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "last_assistant_message": "Honest take: it works great on a single article, but having it on all 413 is a problem.\n\n**Why it hurts:**\n- Any reader who visits more than one article immediately recognizes the formula \u2014 it kills authenticity\n- It's a clear signal of templated content, both to humans and potentially to search quality reviewers\n- Real writers don't open every article with the same rhetorical device\n\n**The hard part:** fixing this retroactively requires LLM rewriting \u2014 a regex script can't generate natural alternative phrases. You'd need to re-run something like the content agent on each intro, which is expensive and slow at 413 articles.\n\n**Practical options:**\n\n1. **Leave existing articles as-is, fix the agent for future content** \u2014 the pattern isn't terrible enough to block launch, and you can replace intros gradually over time\n2. **Script a few alternative phrases** \u2014 rotate between 5\u20136 variations randomly so at least it's not word-for-word identical across every page (e.g. `\uadf8\ub7f0\ub370 \uc5ec\uae30\uc11c \uc911\uc694\ud55c \uac74\u2014`, `\ub2e8, \ud55c \uac00\uc9c0\u2014`, `\uadf8\ub7f0\ub370 \uc8fc\ubaa9\ud560 \uc810\uc774 \uc788\uc5b4\uc694\u2014`) \u2014 still formulaic but less jarring\n3. **LLM batch rewrite** \u2014 run a mini-agent on just the `ko.intro` field for all 413, with instructions to rewrite the cliffhanger naturally. Expensive but thorough.\n\nMy recommendation: **option 2 now, option 3 post-launch**. What do you think?"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "last_assistant_message": "`ANTHROPIC_API_KEY` isn't in the shell environment, but `GOOGLE_API_KEY` is (Gemini). I'll use Gemini Flash \u2014 it's fast, cheap, and already set up. Here's the plan:\n\n- Call Gemini Flash for each `ko.intro`\n- Prompt: rewrite only the `\uadf8\ub7f0\ub370 \ud55c \uac00\uc9c0\u2014` transition naturally, keep everything else identical\n- 6 files in parallel, ~65 batches total\n- Write back, then sync Firestore\n\nAnd update the content agent to ban this pattern with varied alternatives.\n\nWant me to go ahead and write both the script and the agent update now?"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "last_assistant_message": "Results look good \u2014 natural, varied transitions, rest of the intro untouched. Examples of what it's producing:\n\n- `\uadf8\ub7f0\ub370 \ud55c \uac00\uc9c0\u2014` \u2192 `\uadf8\ub7f0\ub370 \uc5ec\uae30\uc11c \ud55c \uac00\uc9c0 \uc911\uc694\ud55c \uac8c \uc788\uc5b4\uc694\u2014`\n- `\uadf8\ub7f0\ub370 \ud55c \uac00\uc9c0\u2014` \u2192 `\ub2e4\ub9cc \uaf2d \uc9da\uace0 \ub118\uc5b4\uac08 \ubd80\ubd84\uc774 \uc788\uc5b4\uc694\u2014`\n- `\uadf8\ub7f0\ub370 \ud55c \uac00\uc9c0\u2014` \u2192 `\uadf8\ub7f0\ub370 \uc774\uac8c \uc804\ubd80\uac00 \uc544\ub2c8\uc5d0\uc694\u2014`\n\nHappy with the quality? If yes, I'll run it on all 392 files. Should take about 5\u201310 minutes at batch size 6."
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "last_assistant_message": "Done. The site now has 392 naturally varied cliffhangers, and future articles from the content agent will never use the old template phrase again."
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "last_assistant_message": "Yes, it was synced right after the rewrite \u2014 all 413 uploaded, 0 failed. You can check the site now."
   }
 ]
