@@ -35,8 +35,13 @@ export default async function CategoryExplorePage({ params }: Props) {
 
   const availableSet = new Set(availableSlugs);
 
-  // Symbols in this category that have content — preserve taxonomy order
-  const symbolsWithContent = taxData.symbols.filter((s) => availableSet.has(s.slug));
+  // Symbols in this category that have content — preserve taxonomy order, deduplicate by slug
+  const seenSlugs = new Set<string>();
+  const symbolsWithContent = taxData.symbols.filter((s) => {
+    if (!availableSet.has(s.slug) || seenSlugs.has(s.slug)) return false;
+    seenSlugs.add(s.slug);
+    return true;
+  });
   const slugsWithContent = symbolsWithContent.map((s) => s.slug);
 
   const previews = await getContentPreviews(slugsWithContent);

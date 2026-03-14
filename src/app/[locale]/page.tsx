@@ -4,7 +4,6 @@ import { Link } from "@/i18n/navigation";
 import type { Locale } from "@/i18n/routing";
 import { getContentPreviews } from "@/lib/content";
 import { DreamCard } from "@/components/dream/DreamCard";
-import { AdSlot } from "@/components/common/AdSlot";
 import { SearchBar } from "@/components/home/SearchBar";
 
 type Props = { params: Promise<{ locale: string }> };
@@ -126,13 +125,8 @@ export default async function HomePage({ params }: Props) {
           </div>
 
           <div className="space-y-6">
-            {ordered.map((preview, i) => (
-              <>
-                <DreamCard key={preview.slug} preview={preview} locale={locale as Locale} />
-                {(i + 1) % 6 === 0 && i < ordered.length - 1 && (
-                  <AdSlot key={`ad-${i}`} />
-                )}
-              </>
+            {ordered.map((preview) => (
+              <DreamCard key={preview.slug} preview={preview} locale={locale as Locale} />
             ))}
           </div>
 

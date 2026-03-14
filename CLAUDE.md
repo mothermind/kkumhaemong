@@ -220,23 +220,37 @@ Validates and proofreads existing content; syncs only changed docs to Firestore.
 ```
 [1] content-validator-agent
         ↓ reads data/content/{category}/{slug}.json
-        ↓ fixes prose, SEO fields, schema issues in place
-        ↓ writes data/validation/report-{timestamp}.json
+        ↓ fixes metaDescription lengths, prose tone in place
+        ↓ writes data/validation/report-{category}-{batch}-{timestamp}.json
 
-[2] Review report (optional)
+[2] scripts/fix-schema-issues.mjs  ← bulk structural fix (safe to re-run)
+        ↓ renames content→body in sections/variations
+        ↓ moves relatedDreams→seo.relatedSlugs
+        node scripts/fix-schema-issues.mjs [--dry-run] [category]
+
+[3] Review reports (optional)
         cat data/validation/report-*.json | jq '.summary'
 
-[3] scripts/sync-changed-to-firestore.mjs
-        ↓ reads report's changed[] list
-        ↓ re-uploads only modified docs to Firestore
-        node scripts/sync-changed-to-firestore.mjs --latest --dry-run
-        node scripts/sync-changed-to-firestore.mjs --latest
+[4] Sync to Firestore
+        # If few files changed — use validation report:
+        node scripts/sync-changed-to-firestore.mjs --latest [--dry-run]
+        # If many files changed (>50%) — full re-upload is simpler:
+        node scripts/migrate-content-to-firestore.mjs [--dry-run]
 ```
 
 **Batch sizes:**
 - Content generation agents: **6 max** in parallel (rate limit)
 - Content validation agents: **10 max** in parallel (no API calls, CPU-bound only)
 - Validator processes max 20 files per invocation — chunk large categories (actions: 8 runs, animals: 2 runs)
+
+**metaDescription targets (correct values):**
+- Korean: **80–110 chars** (Korean chars visually ~2x wide — do NOT use 120–160)
+- English: **120–160 chars**
+
+**Known schema bugs in Phase 1 content (now fixed):**
+- `content` key instead of `body` in sections/variations — caused blank text rendering
+- `relatedDreams` at root instead of `seo.relatedSlugs` — caused empty related dreams section
+- Both fixed via `fix-schema-issues.mjs` across all 413 files (2026-03-14)
 
 ---
 
@@ -335,7 +349,7 @@ Validates and proofreads existing content; syncs only changed docs to Firestore.
 
 ### Per-Page Checklist
 - Title: `{symbol} 해몽 - {symbol}의 의미와 길흉 완벽 정리`
-- Meta description: 120–160 chars, keyword-rich, natural
+- Meta description: **KO 80–110 chars**, EN 120–160 chars, keyword-rich, natural (Korean chars are visually ~2x wide — 80–110 KO ≈ 160+ visual chars)
 - FAQ JSON-LD (featured snippets + Naver Q&A)
 - Article JSON-LD
 - `hreflang` ko ↔ en
@@ -373,20 +387,28 @@ All hooks are minimal — logging + security only, no TTS, no external API calls
 
 ---
 
-## Current State (last updated: 2026-03-13)
+## Current State (last updated: 2026-03-14)
 
 ### Infrastructure Migration — COMPLETE ✅
 - **Firebase Storage**: All 404 slug image folders uploaded as WebP (was PNG, ~90% size reduction). Bucket: `my-fortune-site.firebasestorage.app` (asia-northeast3). Public URL: `https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/{slug}/{name}.webp`
-- **Firestore**: 408 content docs migrated to collection `dreams` (doc ID = english slug). `src/lib/content.ts` reads from Firestore via Admin SDK.
+- **Firestore**: 413 content docs in collection `dreams` (doc ID = english slug). `src/lib/content.ts` reads from Firestore via Admin SDK.
 - **`public/images/dreams/`**: Added to `.gitignore`, removed from git tracking (795 MB freed)
 - **Env vars required**: `FIREBASE_PROJECT_ID`, `FIREBASE_CLIENT_EMAIL`, `FIREBASE_PRIVATE_KEY` (set in `.env` locally, Vercel env vars for production)
 - **`next.config.ts`**: `remotePatterns` added for `storage.googleapis.com`
 - **Migration scripts**: `scripts/migrate-images-to-firebase.mjs`, `scripts/migrate-content-to-firestore.mjs`
 
 ### Content Pipeline Progress — PHASE 1 COMPLETE ✅
-- **Total articles: 408** across all 24 categories
+- **Total articles: 413** across all 24 categories (actions: 161, others: 9–10 each)
 - Content files live in `data/content/{category}/{slug}.json` (also mirrored in Firestore)
 - `crossing-river-dream` images fixed and uploaded ✅
+
+### Content Validation — COMPLETE ✅ (2026-03-14)
+All 413 content files validated and fixed across all 24 categories:
+- **metaDescription lengths**: KO 80–110 chars, EN 120–160 chars (corrected from original wrong 120–160 KO target)
+- **`content`→`body` key migration**: 315 files fixed — sections/variations now render correctly in `DreamSection`
+- **`relatedDreams`→`seo.relatedSlugs` migration**: 315 files fixed — related dreams now display correctly
+- **Firestore re-synced**: all 413 docs re-uploaded via `migrate-content-to-firestore.mjs`
+- **Bulk fix script**: `scripts/fix-schema-issues.mjs` — reusable, safe to re-run (no-op on already-fixed files)
 
 ### All 24 Categories — Research + Content Complete ✅
 - actions: 161/161 ✅

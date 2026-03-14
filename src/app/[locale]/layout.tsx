@@ -37,7 +37,7 @@ export default async function LocaleLayout({
   const themeScript = `(function(){var t=localStorage.getItem('theme');if(t==='light'){document.documentElement.classList.add('light')}else{document.documentElement.classList.add('dark')}})()`;
 
   return (
-    <html lang={locale} className={nanumMyeongjo.variable}>
+    <html lang={locale} className={nanumMyeongjo.variable} suppressHydrationWarning>
       <head>
         <script dangerouslySetInnerHTML={{ __html: themeScript }} />
       </head>

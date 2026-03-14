@@ -2,7 +2,6 @@
 
 import { useState } from "react";
 import { DreamCard } from "@/components/dream/DreamCard";
-import { AdSlot } from "@/components/common/AdSlot";
 import type { ContentPreview } from "@/lib/content";
 import type { Locale } from "@/i18n/routing";
 
@@ -60,13 +59,8 @@ export function CategoryDreamList({ items, locale, allLabel }: Props) {
 
       {/* Dream cards */}
       <div className="space-y-6">
-        {filtered.map((preview, i) => (
-          <>
-            <DreamCard key={preview.slug} preview={preview} locale={locale} />
-            {(i + 1) % 6 === 0 && i < filtered.length - 1 && (
-              <AdSlot key={`ad-${i}`} />
-            )}
-          </>
+        {filtered.map((preview) => (
+          <DreamCard key={preview.slug} preview={preview} locale={locale} />
         ))}
       </div>
     </>
