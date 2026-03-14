@@ -9,8 +9,8 @@ type Props = {
 };
 
 const BADGE_STYLES = {
-  auspicious: "bg-green-500/20 text-green-400",
-  inauspicious: "bg-red-500/20 text-red-400",
+  auspicious: "bg-green-500/20 text-green-300",
+  inauspicious: "bg-red-500/20 text-red-300",
   neutral: "",
 };
 
