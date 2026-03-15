@@ -1670,5 +1670,20 @@
       "description": "Build check"
     },
     "tool_use_id": "toolu_01Hu1Uv1nUjBiZr7u6aNeNDx"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/next.config.ts",
+      "old_string": "const nextConfig: NextConfig = {\n  reactCompiler: true,\n  images: {",
+      "new_string": "const nextConfig: NextConfig = {\n  reactCompiler: true,\n  serverExternalPackages: [\"firebase-admin\"],\n  images: {",
+      "replace_all": false
+    },
+    "tool_use_id": "toolu_01T9i94Gni1LSDDrCHNtRq2W"
   }
 ]
