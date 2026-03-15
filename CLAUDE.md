@@ -399,11 +399,19 @@ All hooks are minimal — logging + security only, no TTS, no external API calls
 - **Migration scripts**: `scripts/migrate-images-to-firebase.mjs`, `scripts/migrate-content-to-firestore.mjs`
 
 ### Vercel Deployment — LIVE ✅ (2026-03-17)
-- **URL**: kkumhaemong.com (DNS connected)
+- **URL**: https://www.kkumhaemong.com (primary) — DNS via Cafe24, A record `@` → `76.76.21.21`
+- **Domain config**: `www.kkumhaemong.com` = Production, `kkumhaemong.com` = 307 redirect to www, `kkumhaemong.vercel.app` = Production
+- **metadataBase**: `https://www.kkumhaemong.com` — all canonical/hreflang/OG URLs use www (apex 307-redirects; scrapers don't follow redirects for OG images)
 - **Rendering**: ISR (`revalidate = 86400`, `dynamicParams = true`) on all dream/category/explore pages
 - **Build time**: ~42 seconds (was 55+ minutes with full SSG)
 - **Search index**: `public/search-index.json` committed to git (413 entries). `scripts/build-search-index.mjs` bails early if `data/content/` not present — prevents Vercel from overwriting with empty array. Run locally after adding content, then commit.
 - **`@opentelemetry/api`**: installed as peer dep for firebase-admin on Vercel
+- **Vercel Analytics**: `@vercel/analytics` installed, `<Analytics />` in locale layout
+
+### OG Image — COMPLETE ✅ (2026-03-17)
+- **File**: `public/og-image.jpg` (379KB JPEG — converted from 4.5MB PNG)
+- **Format**: JPEG preferred over WebP for OG — KakaoTalk and older scrapers don't support WebP
+- **KakaoTalk cache clear**: https://developers.kakao.com/tool/clear/og — use after any OG changes
 
 ### Content Pipeline Progress — PHASE 1 COMPLETE ✅
 - **Total articles: 413** across all 24 categories (actions: 161, others: 9–10 each)
@@ -468,7 +476,10 @@ All 204 body taxonomy symbols researched: 181 research files in `data/research/b
 - [x] ~~Bash permission for subagents~~ → `Bash(*)` in `.claude/settings.json` allow list ✅
 - [x] ~~Infrastructure migration~~ → Firebase Storage + Firestore + Vercel Hobby ✅
 - [x] ~~GitHub repo~~ → `llnOrmll/kkumhaemong` ✅
-- [x] ~~Deploy to Vercel~~ → Live at kkumhaemong.com, ISR enabled, Firebase env vars set ✅
+- [x] ~~Deploy to Vercel~~ → Live at www.kkumhaemong.com, ISR enabled, Firebase env vars set ✅
+- [x] ~~Domain DNS~~ → Cafe24 A record configured, www primary, apex 307 → www ✅
+- [x] ~~OG image~~ → public/og-image.jpg (JPEG 379KB), metadataBase = www ✅
+- [x] ~~Vercel Analytics~~ → @vercel/analytics installed and active ✅
 - [ ] Ad slot implementation: replace placeholder divs with real AdSense + Kakao AdFit units
 - [ ] Naver Blog mirroring: manual vs semi-automated
 - [ ] Rename `src/middleware.ts` → `src/proxy.ts` (Next.js 16 deprecation)
