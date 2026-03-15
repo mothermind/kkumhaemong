@@ -120,5 +120,103 @@
       "description": "Push to trigger Vercel deploy"
     },
     "tool_use_id": "toolu_012tGNpmvjcpNYvDe4MM6D7W"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/components/home/SearchBar.tsx",
+      "old_string": "placeholder-white/50 light:placeholder-slate-700",
+      "new_string": "placeholder-white/50 light:placeholder-slate-900",
+      "replace_all": false
+    },
+    "tool_use_id": "toolu_01RUJDQ9hAj2Bc5PaWAuGhZ1"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/CLAUDE.md",
+      "old_string": "## Current State (last updated: 2026-03-15)",
+      "new_string": "## Current State (last updated: 2026-03-17)",
+      "replace_all": false
+    },
+    "tool_use_id": "toolu_012FpJwvtxfBKoBXD4bUAQWr"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/CLAUDE.md",
+      "old_string": "### Infrastructure Migration \u2014 COMPLETE \u2705\n- **Firebase Storage**: All 404 slug image folders uploaded as WebP (was PNG, ~90% size reduction). Bucket: `my-fortune-site.firebasestorage.app` (asia-northeast3). Public URL: `https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/{slug}/{name}.webp`\n- **Firestore**: 413 content docs in collection `dreams` (doc ID = english slug). `src/lib/content.ts` reads from Firestore via Admin SDK.\n- **`public/images/dreams/`**: Added to `.gitignore`, removed from git tracking (795 MB freed)\n- **Env vars required**: `FIREBASE_PROJECT_ID`, `FIREBASE_CLIENT_EMAIL`, `FIREBASE_PRIVATE_KEY` (set in `.env` locally, Vercel env vars for production)\n- **`next.config.ts`**: `remotePatterns` added for `storage.googleapis.com`\n- **Migration scripts**: `scripts/migrate-images-to-firebase.mjs`, `scripts/migrate-content-to-firestore.mjs`",
+      "new_string": "### Infrastructure \u2014 COMPLETE \u2705\n- **Firebase Storage**: All 404 slug image folders uploaded as WebP (was PNG, ~90% size reduction). Bucket: `my-fortune-site.firebasestorage.app` (asia-northeast3). Public URL: `https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/{slug}/{name}.webp`\n- **Firestore**: 413 content docs in collection `dreams` (doc ID = english slug). `src/lib/content.ts` reads from Firestore via Admin SDK.\n- **`public/images/dreams/`**: Added to `.gitignore`, removed from git tracking (795 MB freed)\n- **Env vars required**: `FIREBASE_PROJECT_ID`, `FIREBASE_CLIENT_EMAIL`, `FIREBASE_PRIVATE_KEY` (set in `.env` locally, Vercel env vars for production)\n- **`FIREBASE_PRIVATE_KEY` format**: paste raw key WITHOUT surrounding quotes in Vercel dashboard \u2014 quotes are treated as literal characters and break auth\n- **`next.config.ts`**: `remotePatterns` added for `storage.googleapis.com`, `serverExternalPackages: [\"firebase-admin\"]`\n- **Migration scripts**: `scripts/migrate-images-to-firebase.mjs`, `scripts/migrate-content-to-firestore.mjs`\n\n### Vercel Deployment \u2014 LIVE \u2705 (2026-03-17)\n- **URL**: kkumhaemong.com (DNS connected)\n- **Rendering**: ISR (`revalidate = 86400`, `dynamicParams = true`) on all dream/category/explore pages\n- **Build time**: ~42 seconds (was 55+ minutes with full SSG)\n- **Search index**: `public/search-index.json` committed to git (413 entries). `scripts/build-search-index.mjs` bails early if `data/content/` not present \u2014 prevents Vercel from overwriting with empty array. Run locally after adding content, then commit.\n- **`@opentelemetry/api`**: installed as peer dep for firebase-admin on Vercel",
+      "replace_all": false
+    },
+    "tool_use_id": "toolu_01LqrEfKsAsD2v68wpvHUq3E"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/CLAUDE.md",
+      "old_string": "- [x] ~~Infrastructure migration~~ \u2192 Firebase Storage + Firestore + Vercel Hobby \u2705\n- [x] ~~GitHub repo~~ \u2192 `llnOrmll/kkumhaemong` \u2705\n- [ ] **Deploy to Vercel**: Remove `@opennextjs/cloudflare`, connect repo, set Firebase env vars in Vercel dashboard",
+      "new_string": "- [x] ~~Infrastructure migration~~ \u2192 Firebase Storage + Firestore + Vercel Hobby \u2705\n- [x] ~~GitHub repo~~ \u2192 `llnOrmll/kkumhaemong` \u2705\n- [x] ~~Deploy to Vercel~~ \u2192 Live at kkumhaemong.com, ISR enabled, Firebase env vars set \u2705",
+      "replace_all": false
+    },
+    "tool_use_id": "toolu_012ZvYfR9gkDTKbuwnEbe2B8"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Read",
+    "tool_input": {
+      "file_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/memory/MEMORY.md"
+    },
+    "tool_use_id": "toolu_015P8WvZe8pWtDoTJiGAcD5s"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Write",
+    "tool_input": {
+      "file_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/memory/MEMORY.md",
+      "content": "# Project Memory: my-fortune-site (\uafc8\ud574\ubabd)\n\n## Key Behavioral Rules\n- [feedback_no_autonomous_execution.md] \u2014 Never launch agents or pipelines unless explicitly asked. \"Pick up where we left off\" = brief on state, then wait.\n\n## UI Design System\n- [project_ui_design.md] \u2014 Homepage redesign, STYLE_GUIDE.md, midnight/gold palette across all pages, \uba85\uc870\uccb4 rule\n\n## Content Validation Pipeline\n- [project_validation_pipeline.md] \u2014 content-validator-agent + sync-changed-to-firestore.mjs; batch size 10 for validation (vs 6 for generation)\n\n## Project Overview\nKorean dream interpretation website (\uafc8\ud574\ubabd) \u2014 bilingual KO + EN, SEO-first, ad revenue model.\n- Target: Both Naver and Google\n- Language: Korean + English with language switch toggle\n- Runtime: Next.js on Vercel Hobby \u2014 **LIVE at kkumhaemong.com** \u2705\n- Content: LLM-generated from scratch\n\n## Infrastructure (COMPLETE \u2705)\n- **Hosting**: Vercel Hobby \u2014 deployed, DNS connected to kkumhaemong.com\n- **Rendering**: ISR (`revalidate = 86400`, `dynamicParams = true`) on dream/category/explore pages. Build time ~42s.\n- **Images**: Firebase Storage \u2014 `gs://my-fortune-site.firebasestorage.app` (asia-northeast3). Public URL: `https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/{slug}/{name}.webp`\n- **Content JSON**: Firestore collection `dreams`, doc ID = english slug (413 docs + `views` int field)\n- **Taxonomy**: filesystem (`data/taxonomy/*.json`) \u2014 small/stable, stays in git\n- **Image generation**: Imagen 4 (`imagen-4.0-generate-001`), same GCP project as Firebase\n- **`public/images/dreams/`** + **`data/content/`**: in `.gitignore` \u2014 Firestore is source of truth\n- **Env vars**: `FIREBASE_PROJECT_ID`, `FIREBASE_CLIENT_EMAIL`, `FIREBASE_PRIVATE_KEY`\n  - \u26a0\ufe0f FIREBASE_PRIVATE_KEY: paste raw key WITHOUT surrounding quotes in Vercel \u2014 quotes break auth\n- **`next.config.ts`**: `remotePatterns` for storage.googleapis.com + `serverExternalPackages: [\"firebase-admin\"]`\n- **GitHub**: `git@github-llnormll:llnOrmll/kkumhaemong.git` (SSH alias on port 443)\n- **Search index**: `public/search-index.json` committed to git (413 entries). Build script bails if no content files \u2014 prevents empty overwrite on Vercel. Run `node scripts/build-search-index.mjs` locally after adding content, then commit.\n\n## Agents Created\nAll in `.claude/agents/`:\n- `dream-taxonomy-agent` \u2014 enumerates all dream symbols \u2192 `data/taxonomy/*.json`\n- `dream-research-agent` \u2014 researches one symbol deeply \u2192 `data/research/{category}/{slug}.json`\n- `dream-content-agent` \u2014 generates bilingual SEO page content \u2192 `data/content/{category}/{slug}.json`\n- `dream-image-agent` \u2014 generates images via Imagen 4 \u2192 `public/images/dreams/{slug}/` + uploads to Firebase\n- `meta-agent` \u2014 creates new subagents (use for new agent creation)\n- Custom agents (.claude/agents/*.md) cannot be used as subagent_type \u2014 read .md and pass to general-purpose agent\n\n## Data Pipeline\n```\ndream-taxonomy-agent\n  \u2192 data/taxonomy/*.json\n      \u2193 per symbol (parallel: research + image)\ndream-research-agent \u2192 data/research/{category}/{slug}.json\ndream-image-agent    \u2192 Firebase Storage + public/images/dreams/{slug}/\n      \u2193\ndream-content-agent  \u2192 data/content/{category}/{slug}.json + Firestore (dreams/{slug})\n      \u2193\nNext.js ISR pages (reads from Firestore on first request, cached 24h)\n```\n\n## Data Schema\n### Taxonomy entry\n`id`, `korean`, `english`, `slug`, `category`, `subcategory`, `related`, `searchTier` (high/medium/longtail)\n\n### Research entry (`data/research/{category}/{slug}.json`)\n- `symbol`: { korean, english, slug }\n- `summary`: { korean, english }\n- `interpretations`: [{ type: \uae38\ubabd|\ud749\ubabd|neutral, korean, english, context }]\n- `variations`: [{ keyword_ko, keyword_en, interpretation_ko, interpretation_en }]\n- `culturalContext`: { korean, english }\n- `westernContext`: { freudian, jungian, modern, crossCultural } \u2014 each { korean, english }\n- `relatedSymbols`: string[] (slugs)\n- `seoKeywords`: { korean[], english[] }\n- `faqs`: [{ question_ko, answer_ko, question_en, answer_en }]\n\n### Content entry (`data/content/{category}/{slug}.json` + Firestore `dreams/{slug}`)\n- ko + en versions of: title, metaDescription, h1, intro, sections, variations, culturalContext, westernContext, faqs, conclusion\n- images: { hero: Firebase Storage URL, sections: { auspicious, inauspicious } }\n- seo: { slug, koreanSlug, ogTitle, ogDescription, ogImage, structuredData, hreflang, relatedSlugs, naverSEO }\n- **`relatedSlugs` must be inside `seo` object** (not root level)\n\n## Hooks (`.claude/settings.json`)\n- PreToolUse: blocks .env access + dangerous rm -rf (via pre_tool_use.py)\n- Stop: logs to logs/stop.json\n- SubagentStop: logs to logs/subagent_stop.json\n- Notification (permission_prompt only): logs to logs/notification.json\n\n## App Structure (implemented, build \u2705)\n- `src/middleware.ts` \u2192 next-intl locale routing (deprecation: rename to proxy.ts in Next.js 16)\n- `src/i18n/routing.ts` \u2192 locales + pathnames map (ko: /\uafc8\ud574\ubabd/[slug], en: /dream/[slug], + /\ud0d0\uc0c9/[category])\n- `src/lib/firestore.ts` \u2192 Firebase Admin SDK singleton (credentials from env vars)\n- `src/lib/taxonomy.ts` \u2192 server-only, fs/promises, reads data/taxonomy/*.json\n- `src/lib/content.ts` \u2192 server-only, Firestore reads via Admin SDK\n- `src/components/layout/` \u2192 Header, Footer\n- `src/components/dream/` \u2192 DreamHero, DreamSection, DreamVariations, DreamFAQ, RelatedDreams, DreamCard\n- `src/components/common/AdSlot.tsx` \u2192 placeholder ad div (ready for AdSense)\n- `src/components/home/SearchBar.tsx` \u2192 client component, loads /search-index.json on first keystroke\n- `src/components/dream/ViewTracker.tsx` \u2192 client component, fires POST /api/view on mount\n- `src/app/api/view/route.ts` \u2192 increments Firestore `views` field on dream doc\n- `src/components/explore/CategoryDreamList.tsx` \u2192 client component with subcategory filter pills\n- `next.config.ts` \u2192 remotePatterns for storage.googleapis.com + serverExternalPackages firebase-admin\n\n## Content Progress \u2014 PHASE 2 IN PROGRESS (as of 2026-03-17)\n- **Phase 1 baseline**: 413 articles across 24 categories (actions: 161, others: 9\u201310 each)\n- **Phase 2 expansion**: animals (212 research \u2705), body (181 research \u2705) complete\n- Content in Firestore `dreams` collection (source of truth). Local `data/content/` not in git.\n- Batch size: 6 agents in parallel (confirmed optimal)\n- Image generation: Imagen 4 via Google Generative Language API. `source ~/.zshrc` required for GOOGLE_API_KEY.\n\n### Current Content Gaps\nResearch done but content NOT yet generated:\n- **animals**: 212 research files, ~29 content \u2192 **~183 pending**\n- **body**: 181 research files, ~10 content \u2192 **~171 pending**\n- **actions**: ~4 pending\n- disasters, numbers, places: 1 each\n\n## Permissions\n- `.claude/settings.json` allow list: `Bash(*)` + WebSearch + WebFetch\n- Pre-tool-use hook blocks .env access and dangerous rm -rf\n\n## Content Quality Values (locked)\n1. **Immediate interpretation + hook** \u2014 meaning in first sentence, pull-forward cliffhanger\n2. **Enjoyable, confident voice** \u2014 warm authority, like a knowledgeable friend\n\n### Prose Quality Rules (enforced via scripts + agent prompt)\n- **No `**bold**` openers** in section bodies\n- **No spaced em-dash ` \u2014 ` in Korean prose** \u2014 script: `scripts/strip-em-dashes.mjs`\n- **No `\uadf8\ub7f0\ub370 \ud55c \uac00\uc9c0\u2014`** \u2014 rewrote 392/413 via GPT-4o-mini. Content agent uses 6 varied alternatives.\n- OpenAI API key: `OPENAI_API_KEY` in `.env`\n\n## Open Decisions\n- [x] Domain: **kkumhaemong.com** \u2705\n- [x] Infrastructure: Firebase + Vercel \u2705\n- [x] GitHub repo: `llnOrmll/kkumhaemong` \u2705\n- [x] Vercel deployment: Live \u2705\n- [x] ISR rendering: switched from SSG, build time 42s \u2705\n- [ ] Ad slot implementation (AdSense + Kakao AdFit)\n- [ ] Naver Blog mirroring strategy\n- [ ] Rename `src/middleware.ts` \u2192 `src/proxy.ts` (Next.js 16 deprecation)\n\n## Competitive Landscape\n- **kkumhaemong.co.kr** \u2014 primary competitor, WordPress, 217+ pages, Korean-only, no structure\n- Our advantages: bilingual, JSON-LD SEO, category taxonomy, variations+FAQ+westernContext, mobile-first UX\n\n## Key SEO Notes\n- High-volume symbols: \ub3fc\uc9c0\uafc8, \ubc40\uafc8, \uc774\ube68\ube60\uc9c0\ub294\uafc8, \ub625\uafc8, \uc784\uc2e0\uafc8\n- Long-tail is competitive advantage (color/action/context variations)\n- Each page: 800-1500 words per language, FAQ critical for featured snippets\n\n# currentDate\nToday's date is 2026-03-17.\n"
+    },
+    "tool_use_id": "toolu_01UaL9VH2dEX4ekPe2Nfy18N"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Bash",
+    "tool_input": {
+      "command": "git add src/components/home/SearchBar.tsx CLAUDE.md && git commit -m \"$(cat <<'EOF'\nDarken search placeholder to slate-900 in light mode, update CLAUDE.md\n\nCo-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>\nEOF\n)\" && git push",
+      "description": "Commit placeholder change and CLAUDE.md update, push to Vercel"
+    },
+    "tool_use_id": "toolu_01SFnwg1fyRLzQziChWzE6up"
   }
 ]
