@@ -1,0 +1,214 @@
+{
+  "symbol": {
+    "korean": "병이 낫는 꿈",
+    "english": "Healing Dream / Illness Healed Dream",
+    "slug": "healing-dream"
+  },
+  "summary": {
+    "korean": "병이 낫는 꿈은 한국 전통 해몽에서 대표적인 길몽 중 하나로, 현실의 장애가 해소되고 새로운 기회가 열리는 것을 상징합니다. 오랜 고민이 해결되거나 사업·관계에서 막혔던 흐름이 다시 순통해짐을 예고하는 꿈으로 널리 알려져 있습니다.",
+    "english": "Dreaming of illness being healed is considered one of the most auspicious omens in Korean folk dream interpretation. It symbolizes the removal of obstacles in waking life and the opening of new opportunities. The dream traditionally foretells resolution of long-standing worries, renewed momentum in business, or the clearing of relationship difficulties."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "자신의 병이 완전히 낫는 꿈은 현실에서 오랫동안 막혀 있던 일이 드디어 해결되고 원하던 성과를 얻게 됨을 의미합니다. 직장인이라면 승진이나 중요한 프로젝트의 성공, 사업가라면 거래 성사나 수익 증가의 신호로 해석됩니다.",
+      "english": "Dreaming that your own illness is completely cured signals that a long-standing blockage in real life is finally resolved and desired outcomes are within reach. For employees, it may indicate a promotion or project success; for business owners, a successful deal or increased revenue.",
+      "context": "자신이 완쾌되는 꿈 — 직업적 성공, 목표 달성"
+    },
+    {
+      "type": "길몽",
+      "korean": "가족이나 가까운 사람의 병이 낫는 꿈은 그 인물과의 관계가 더욱 돈독해지거나, 그 사람이 현실에서 어려운 상황을 극복하게 됨을 예고합니다. 가족 중 실제로 아픈 사람이 있다면 회복의 길몽으로 볼 수 있습니다.",
+      "english": "Dreaming that a family member or close person recovers from illness foretells a deepening of that relationship or the person overcoming real-life difficulties. If someone in the family is genuinely ill, this dream is traditionally regarded as a positive omen of recovery.",
+      "context": "타인의 완쾌 꿈 — 관계 회복, 주변인의 극복"
+    },
+    {
+      "type": "길몽",
+      "korean": "의사에게 '완쾌되었습니다'라는 말을 듣는 꿈은 현실에서 걱정하거나 두려워하던 일이 실제로 해결된다는 강력한 길몽입니다. 시험·면접·소송 등 판정이 필요한 상황에서 유리한 결과를 예고합니다.",
+      "english": "Hearing a doctor say 'you are fully cured' in a dream is a powerful auspicious omen indicating that something feared or worried about in real life will actually be resolved. It predicts favorable outcomes in situations requiring judgment — exams, interviews, lawsuits, or important evaluations.",
+      "context": "의사에게 완쾌 판정 받는 꿈 — 판정·심사 통과"
+    },
+    {
+      "type": "길몽",
+      "korean": "상처나 부상이 빠르게 아무는 꿈은 손실이나 실수로 인한 피해가 예상보다 빨리 회복됨을 의미합니다. 재정적 어려움이나 인간관계의 균열이 자연스럽게 치유되어 안정을 되찾는 신호입니다.",
+      "english": "Dreaming that a wound or injury heals rapidly means that damage from a loss or mistake will recover faster than expected. It signals the natural healing of financial difficulties or fractured relationships, with stability soon to return.",
+      "context": "상처가 아무는 꿈 — 손실 회복, 관계 치유"
+    },
+    {
+      "type": "길몽",
+      "korean": "오래된 만성 질환이 꿈속에서 완치되는 꿈은 오랫동안 해결하지 못한 묵은 문제나 갈등이 마침내 매듭지어지는 것을 의미합니다. 새로운 출발을 암시하는 강력한 변화의 징조입니다.",
+      "english": "Dreaming that a long-standing chronic disease is fully cured symbolizes that an old, unresolved problem or conflict is finally coming to a definitive close. It is a powerful sign of change and new beginnings.",
+      "context": "만성 질환 완치 꿈 — 묵은 문제 해결, 새 출발"
+    },
+    {
+      "type": "neutral",
+      "korean": "병이 서서히 호전되는 꿈은 현실의 문제가 단번에 해결되지는 않지만 점진적으로 나아지고 있음을 나타냅니다. 급격한 변화보다는 꾸준한 노력이 결실을 맺을 것임을 시사합니다.",
+      "english": "Dreaming of a gradual recovery from illness indicates that real-life problems will not resolve all at once, but are steadily improving. It suggests that steady, patient effort rather than dramatic change will ultimately bear fruit.",
+      "context": "서서히 낫는 꿈 — 점진적 개선, 인내"
+    },
+    {
+      "type": "흉몽",
+      "korean": "병이 낫는가 싶다가 다시 악화되는 꿈은 현실에서 진행 중인 일이 잠시 순조로워 보이지만 예상치 못한 장애가 다시 발생할 수 있음을 경고합니다. 방심하지 말고 조심스러운 자세를 유지해야 합니다.",
+      "english": "Dreaming of recovering from illness only to relapse warns that something in waking life that appears to be going smoothly may encounter unexpected setbacks again. It cautions against complacency and advises maintaining careful vigilance.",
+      "context": "호전 후 재발 꿈 — 방심 경계, 재발 위험"
+    },
+    {
+      "type": "흉몽",
+      "korean": "병이 낫는 꿈을 꾸었는데 현실에서 실제로 중병을 앓고 있는 경우, 전통 해몽에서는 이를 조심스럽게 해석합니다. 몸 상태가 급격히 좋아지거나, 반대로 나빠질 전환점에 있음을 뜻할 수 있습니다.",
+      "english": "When a seriously ill person dreams of being healed, traditional Korean interpretation advises caution. The dream may signify a turning point — either a sudden real improvement or, conversely, a sharp decline. It is viewed as a signal to pay close attention to one's physical condition.",
+      "context": "실제 환자의 완쾌 꿈 — 건강 전환점 주의"
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "갑자기 병이 낫는 꿈",
+      "keyword_en": "sudden recovery from illness dream",
+      "interpretation_ko": "예상치 못한 횡재나 기회가 갑작스럽게 찾아올 것을 암시합니다. 막혀 있던 일이 단번에 뚫리는 폭발적인 변화의 전조입니다.",
+      "interpretation_en": "Suggests an unexpected windfall or opportunity arriving suddenly. It is a forerunner of explosive change where a blocked situation breaks open all at once."
+    },
+    {
+      "keyword_ko": "상처가 아무는 꿈",
+      "keyword_en": "wound healing dream",
+      "interpretation_ko": "과거의 상처나 갈등, 재정적 손실이 자연스럽게 치유되는 것을 의미합니다. 인간관계에서 화해가 이루어질 가능성이 높습니다.",
+      "interpretation_en": "Represents the natural healing of past emotional wounds, conflicts, or financial losses. There is a high likelihood of reconciliation in personal relationships."
+    },
+    {
+      "keyword_ko": "다른 사람의 병을 고쳐주는 꿈",
+      "keyword_en": "healing someone else dream",
+      "interpretation_ko": "꿈속에서 내가 타인의 병을 고쳐주는 경우, 현실에서 주변 사람에게 큰 도움을 줄 기회가 생기거나 리더십과 영향력이 인정받게 됨을 뜻합니다.",
+      "interpretation_en": "Healing another person in a dream signifies that you will have an opportunity to provide significant help to someone around you in real life, or that your leadership and influence will gain recognition."
+    },
+    {
+      "keyword_ko": "의사에게 완쾌 진단을 받는 꿈",
+      "keyword_en": "doctor declares you cured dream",
+      "interpretation_ko": "권위 있는 인물(상사, 심사관, 시험관)으로부터 긍정적인 평가나 합격 통보를 받을 길몽입니다. 시험이나 면접을 앞둔 사람에게 특히 좋은 꿈으로 여겨집니다.",
+      "interpretation_en": "An auspicious omen of receiving positive evaluation or acceptance notification from an authoritative figure such as a supervisor, examiner, or interviewer. Particularly favorable for those facing exams or interviews."
+    },
+    {
+      "keyword_ko": "만성 질환이 완치되는 꿈",
+      "keyword_en": "chronic disease cured dream",
+      "interpretation_ko": "오랫동안 끌어온 분쟁, 빚, 혹은 해결되지 않은 관계 문제가 마침내 깔끔하게 정리되는 것을 의미합니다. 새로운 단계로 진입하는 신호탄입니다.",
+      "interpretation_en": "Signifies that a long-drawn-out dispute, debt, or unresolved relationship issue is finally being cleanly resolved. It is a signal shot for entering a new phase."
+    },
+    {
+      "keyword_ko": "부모님의 병이 낫는 꿈",
+      "keyword_en": "parents illness healed dream",
+      "interpretation_ko": "가족 전체에 행운이 깃드는 길몽으로, 부모님과의 관계가 좋아지거나 가정 내 분쟁이 해소되는 것을 의미합니다. 실제로 아픈 부모님이 계신 경우 회복의 신호로 해석하기도 합니다.",
+      "interpretation_en": "An auspicious omen of good fortune for the entire family. It signifies an improvement in relationships with parents or the resolution of domestic disputes. If a parent is genuinely ill, it is also interpreted as a sign of recovery."
+    },
+    {
+      "keyword_ko": "오래된 병이 서서히 낫는 꿈",
+      "keyword_en": "gradual recovery from long illness dream",
+      "interpretation_ko": "급격한 변화 없이 꾸준한 노력으로 상황이 점점 나아지고 있음을 뜻합니다. 인내를 갖고 현재의 노력을 이어가야 한다는 메시지를 담고 있습니다.",
+      "interpretation_en": "Indicates that the situation is gradually improving through steady effort rather than sudden change. It carries the message that patience and continued effort are the right path forward."
+    },
+    {
+      "keyword_ko": "병이 낫고 건강해진 몸으로 뛰어다니는 꿈",
+      "keyword_en": "healed and running freely dream",
+      "interpretation_ko": "완전한 자유와 활력의 회복을 상징합니다. 억눌렸던 에너지가 해방되어 사업·학업·연애 등 원하는 분야에서 활발하게 전진할 수 있음을 예고합니다.",
+      "interpretation_en": "Symbolizes the full restoration of freedom and vitality. Repressed energy is released, heralding active forward momentum in business, studies, or romantic life."
+    },
+    {
+      "keyword_ko": "병이 낫는 꿈을 꾸고 실제로 아플 때",
+      "keyword_en": "healing dream while actually sick",
+      "interpretation_ko": "실제로 병을 앓는 중에 완쾌 꿈을 꾸면 회복의 길몽으로 보기도 하지만, 전통 해몽에서는 건강 상태의 급격한 전환점으로도 해석하므로 의료적 주의를 기울이는 것이 좋습니다.",
+      "interpretation_en": "When genuinely ill, dreaming of recovery can be seen as an auspicious sign of healing, but traditional Korean interpretation also views it as a sign of a sharp turning point in health status, so medical attention is still advised."
+    }
+  ],
+  "culturalContext": {
+    "korean": "한국 전통 해몽에서 '병이 낫는 꿈'은 역설의 원리(반대해몽)와 직관적 상징 해석 두 갈래로 설명됩니다. 한국 민간신앙에서 질병은 단순한 신체적 현상이 아니라 조상신이나 수호신, 혹은 부정한 기운이 몸에 깃든 상태로 이해되었습니다. 따라서 꿈속에서 병이 낫는 것은 그러한 부정한 기운이 물러가고 신의 가호가 다시 내려지는 길조로 해석되었습니다. 무속 의례인 굿에서는 신령이 몸주로 들어와 병을 고쳐준다는 개념이 있으며, 이러한 치유의 꿈은 무속적 맥락에서 신령의 직접적인 개입을 상징하기도 합니다. 조선시대 해몽서에서도 병이 들어 누워 있으면 오히려 높은 벼슬에 오른다는 역발상적 해석이 기록되어 있으며, 이는 고난 뒤에 영광이 찾아온다는 한국적 세계관을 반영합니다. 또한 가족 중 누군가의 병이 낫는 꿈은 가문 전체의 복이 증가하는 것으로 해석되어 집안의 경사를 예고하는 꿈으로 여겨졌습니다.",
+    "english": "In Korean folk dream interpretation, dreams of illness being healed are explained through two frameworks: the reversal principle (where negative dream imagery predicts positive outcomes) and direct symbolic interpretation. In Korean shamanic tradition (무속), illness was understood not merely as a physical condition but as a state in which malevolent spirits or ancestral grievances had taken root in the body. Therefore, healing in a dream was interpreted as those negative forces retreating and divine protection being restored. Within shamanistic ritual (굿), healing spirits entering the body to cure disease is a central concept; such healing dreams can symbolize direct divine intervention. Joseon-era dream interpretation texts also record the counter-intuitive reading that being ill and bedridden in a dream predicts ascending to high office — reflecting the Korean worldview that hardship precedes glory. Additionally, dreams of a family member's recovery were interpreted as an increase in fortune for the entire household, seen as an omen of family celebration to come."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트적 관점에서 병이 낫는 꿈은 억압된 욕구나 트라우마로부터의 해방을 상징합니다. 꿈속의 치유는 자아(ego)가 무의식적 갈등을 성공적으로 처리하고자 하는 소망충족(wish fulfillment)의 표현으로 해석됩니다. 신체적 증상은 종종 심리적 억압의 신체화(somatization)로 나타나므로, 병이 낫는 꿈은 그 억압에서 벗어나고자 하는 무의식의 강렬한 욕망을 반영할 수 있습니다.",
+      "english": "From a Freudian perspective, dreaming of healing represents liberation from repressed desires or trauma. The cure in the dream is interpreted as wish fulfillment — the ego's desire to successfully resolve unconscious conflict. Since physical symptoms often manifest as somatization of psychological repression, a healing dream may reflect the unconscious mind's intense desire to break free from that repression."
+    },
+    "jungian": {
+      "korean": "융의 분석심리학에서 치유의 꿈은 개인화(individuation) 과정의 핵심 상징입니다. 병든 몸이 회복되는 이미지는 정신의 분열된 측면들이 통합되어 전일성(wholeness)을 회복하는 원형적 과정을 나타냅니다. 꿈속의 치유자(의사, 치료사, 혹은 빛)는 자기(Self) 원형의 발현으로, 내면의 본질적인 치유 능력이 활성화되고 있음을 의미합니다. 융은 꿈을 보상적 기능을 가진 메시지로 보았으므로, 일상적으로 극도의 스트레스를 받는 사람이 이 꿈을 꾼다면 내면의 균형 회복을 향한 심리적 요청으로 볼 수 있습니다.",
+      "english": "In Jungian analytical psychology, healing dreams are central symbols of the individuation process. The image of a sick body recovering represents the archetypal process of fragmented psychic aspects integrating to restore wholeness. The healer figure in the dream (doctor, therapist, or light) is a manifestation of the Self archetype, indicating that the innate healing capacity of the psyche is being activated. Since Jung viewed dreams as having a compensatory function, a person under extreme chronic stress who experiences this dream may be receiving a psychic call toward restoring inner balance."
+    },
+    "modern": {
+      "korean": "현대 심리학과 수면 과학의 관점에서, 치유 꿈은 종종 실제 신체 회복 과정과 연결됩니다. 수면 중 면역 기능이 강화되고 조직 회복이 활성화되므로, 뇌는 이 신체적 회복 신호를 꿈의 서사로 표현할 수 있습니다. 또한 '체화된 인지(embodied cognition)' 연구에 따르면 치유를 시각화하는 꿈이 실제 심리적 스트레스 감소와 면역 반응 향상에 기여할 수 있다는 것이 밝혀지고 있습니다. 인지행동치료(CBT)에서도 치유적 꿈은 심리적 회복탄력성(resilience)의 지표로 활용됩니다.",
+      "english": "From the perspective of modern psychology and sleep science, healing dreams are often connected to actual physical recovery processes. Since immune function is enhanced and tissue repair is activated during sleep, the brain may express these bodily recovery signals through dream narratives. Research in embodied cognition also suggests that dreams involving visualization of healing may contribute to real-world reduction in psychological stress and improvement in immune response. In cognitive-behavioral therapy, healing dreams are used as indicators of psychological resilience."
+    },
+    "crossCultural": {
+      "korean": "치유의 꿈은 문화를 초월한 보편적 상징입니다. 고대 그리스의 아스클레피오스 신전에서는 신자들이 치유의 꿈을 유도하기 위해 신전에서 잠을 자는 '인큐베이션(incubation)' 의례를 행했습니다. 메소포타미아와 이집트 문명에서도 꿈속의 치유는 신의 직접적 개입으로 해석되었습니다. 북미 원주민 문화에서는 치유의 꿈이 토테믹 동물 영혼과의 소통을 의미하기도 합니다. 이처럼 동서양을 막론하고 치유의 꿈은 신성한 영역과의 연결, 회복과 재생의 희망을 담은 꿈으로 일관되게 해석됩니다.",
+      "english": "Healing dreams are a universal symbol transcending cultural boundaries. In ancient Greece, worshippers at the temples of Asclepius performed 'incubation' rituals — sleeping in the temple to invite healing dreams. In Mesopotamian and Egyptian civilizations, healing in dreams was also interpreted as direct divine intervention. In many Native American cultures, healing dreams signify communication with totemic animal spirits. Across Eastern and Western traditions alike, healing dreams are consistently interpreted as conveying connection to the sacred realm and the hope of recovery and renewal."
+    }
+  },
+  "relatedSymbols": [
+    "hospital-dream",
+    "doctor-dream",
+    "sick-dream",
+    "medicine-dream",
+    "teeth-crumbling-dream",
+    "loose-teeth-dream",
+    "blood-dream",
+    "bath-dream",
+    "white-light-dream",
+    "pregnancy-dream"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "병이 낫는 꿈",
+      "병 완치 꿈해몽",
+      "완쾌 꿈 의미",
+      "병이 나은 꿈",
+      "상처가 아무는 꿈해몽",
+      "만성 질환 낫는 꿈",
+      "병 회복 꿈풀이",
+      "의사에게 완쾌 진단 꿈",
+      "가족 병 낫는 꿈",
+      "건강해지는 꿈해몽",
+      "부모님 병 낫는 꿈",
+      "꿈에서 병이 없어지다",
+      "병이 낫는 꿈 길몽",
+      "치유 꿈 의미"
+    ],
+    "english": [
+      "healing dream meaning",
+      "dream of illness healed",
+      "recovery from disease dream interpretation",
+      "dream cured of illness",
+      "Korean dream healing meaning",
+      "wound healing dream symbolism",
+      "chronic illness cured dream",
+      "dream doctor says you are cured",
+      "family member healed dream",
+      "dream of recovering health"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "병이 낫는 꿈은 길몽인가요, 흉몽인가요?",
+      "answer_ko": "대부분의 경우 병이 낫는 꿈은 대표적인 길몽입니다. 현실에서 막혔던 일이 풀리고, 오랜 고민이 해결되거나 새로운 기회가 찾아올 것을 예고합니다. 다만 실제로 중병을 앓고 있는 분이 이 꿈을 꾼다면 건강 상태의 급격한 전환점을 의미할 수 있으므로, 의료적 관심도 함께 기울이는 것이 좋습니다.",
+      "answer_en": "In most cases, dreaming of illness being healed is a strongly auspicious omen. It foretells that a blocked situation in real life will be resolved, long-standing worries will be answered, and new opportunities will arrive. However, if someone is genuinely seriously ill when they have this dream, it may signal a sharp turning point in health, so medical attention is also advisable.",
+      "question_en": "Is dreaming of illness being healed a good or bad omen?"
+    },
+    {
+      "question_ko": "의사에게 완쾌 진단을 받는 꿈은 어떤 의미인가요?",
+      "answer_ko": "권위 있는 인물로부터 긍정적인 판정을 받는다는 의미로, 시험·면접·심사·소송 등 결과를 기다리는 상황에서 특히 좋은 꿈입니다. 상사나 윗사람으로부터 인정을 받거나 중요한 결정에서 유리한 결과를 얻을 가능성이 높습니다.",
+      "answer_en": "This represents receiving a positive judgment from an authoritative figure. It is an especially favorable dream for those awaiting results from an exam, interview, evaluation, or legal case. It suggests a high likelihood of recognition from a superior or a favorable outcome in an important decision."
+    },
+    {
+      "question_ko": "꿈속에서 다른 사람의 병을 고쳐주면 어떤 의미인가요?",
+      "answer_ko": "타인의 병을 고쳐주는 꿈은 현실에서 주변 사람에게 중요한 도움을 줄 기회가 생긴다는 의미입니다. 리더십과 영향력이 인정받게 되거나, 상대방이 당신의 도움으로 어려운 상황을 극복하게 될 것을 예고합니다.",
+      "answer_en": "Dreaming of healing someone else signifies that you will have an opportunity to provide meaningful assistance to someone around you in real life. It foretells that your leadership and influence will be recognized, or that someone will overcome a difficult situation with your help."
+    },
+    {
+      "question_ko": "만성 질환이 꿈에서 완치되면 무슨 뜻인가요?",
+      "answer_ko": "오랫동안 해결되지 않았던 문제나 갈등이 마침내 깔끔하게 해소됨을 상징합니다. 묵은 빚이 정리되거나, 오래된 인간관계의 갈등이 완전히 해소되는 등 새로운 출발을 알리는 강력한 변화의 신호입니다.",
+      "answer_en": "It symbolizes that a long-unresolved problem or conflict is finally being cleanly brought to a close. This is a powerful signal of change — old debts may be cleared, longstanding relationship conflicts fully resolved — heralding a fresh new start."
+    },
+    {
+      "question_ko": "상처가 아무는 꿈은 어떤 의미인가요?",
+      "answer_ko": "과거에 입은 정신적·재정적 상처가 자연스럽게 회복되고 있음을 나타냅니다. 특히 인간관계에서 화해가 이루어질 가능성을 암시하며, 손실로 인한 피해가 생각보다 빠르게 회복될 것임을 예고합니다.",
+      "answer_en": "Indicates that past emotional or financial wounds are naturally healing. It particularly suggests the possibility of reconciliation in personal relationships and foretells that damage from losses will recover faster than anticipated."
+    },
+    {
+      "question_ko": "병이 낫다가 다시 악화되는 꿈은 어떤 뜻인가요?",
+      "answer_ko": "현실에서 진행 중인 일이 일시적으로 잘 풀리는 것처럼 보이지만 예상치 못한 장애물이 다시 나타날 수 있다는 경고의 꿈입니다. 순조롭게 진행되는 것처럼 보여도 방심하지 말고 꼼꼼하게 대비하는 자세가 필요합니다.",
+      "answer_en": "This is a cautionary dream warning that something in waking life that temporarily appears to be going well may encounter unexpected obstacles again. Even if things seem to be proceeding smoothly, it is important not to be complacent and to remain carefully prepared."
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "symbol": {
+    "korean": "코",
+    "english": "Nose",
+    "slug": "nose-dream"
+  },
+  "summary": {
+    "korean": "코 꿈은 한국 꿈해몽에서 자존감, 명예, 사회적 지위와 깊이 연결된 상징입니다. 코의 상태에 따라 길흉이 크게 달라지며, 코가 건강하고 뚜렷하게 나타날수록 운세가 좋고, 다치거나 변형되면 명예·재물·건강에 주의가 필요함을 암시합니다. 관상학에서도 코는 재물운과 생명력의 중심으로 여겨져 꿈속 코의 모습은 현실의 운세를 직접 반영한다고 봅니다.",
+    "english": "In Korean dream interpretation, the nose is a powerful symbol of self-esteem, social reputation, and personal dignity. The condition of the nose in the dream determines whether it is auspicious or inauspicious — a healthy, prominent nose signals rising fortune, while a damaged or deformed one warns of threats to honor, wealth, or health. Rooted in Korean physiognomy (관상학), the nose is considered the center of wealth energy and vitality, making nose dreams a direct mirror of one's real-world prospects."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "코피가 나는 꿈은 대표적인 길몽으로, 뜻밖의 금전적 행운이나 횡재가 찾아올 것을 암시합니다. 특히 생각지도 못했던 부수입이나 재물운의 상승을 의미하며, 사업가나 직장인 모두에게 좋은 신호입니다.",
+      "english": "Dreaming of a nosebleed is one of the most auspicious nose dreams in Korean interpretation. It signals unexpected financial luck or a windfall — an unplanned side income or sudden wealth gain. This is considered a strong positive omen for both entrepreneurs and employees.",
+      "context": "코피 = 재물이 흘러 들어옴을 상징. 피가 밖으로 나오는 이미지가 역설적으로 재물의 유입을 뜻함"
+    },
+    {
+      "type": "길몽",
+      "korean": "꿈속에서 코가 오똑하고 아름다운 모양이라면, 하는 일이 순조롭게 풀리고 사회적 지위가 높아질 것을 암시합니다. 부부 사이가 화목해지거나 사랑하는 사람과의 관계가 깊어지는 신호이기도 합니다.",
+      "english": "Seeing a beautifully shaped, well-defined nose in a dream signals that current endeavors will proceed smoothly and social status will rise. It also suggests harmony in romantic or marital relationships and deepening bonds with loved ones.",
+      "context": "뚜렷한 코 = 명예·지위 상승, 원만한 대인관계의 상징"
+    },
+    {
+      "type": "길몽",
+      "korean": "코딱지가 시원하게 나오는 꿈은 오랫동안 막혔던 문제나 걱정거리가 깔끔하게 해소되는 길몽입니다. 답답했던 상황이 풀리고, 새로운 출발을 할 수 있는 계기가 마련됨을 뜻합니다.",
+      "english": "Dreaming that you remove boogers or nose debris with relief is a positive omen indicating that persistent problems or worries are finally being resolved. It signals a clean break from stagnant situations and the opening of a fresh start.",
+      "context": "막힌 것이 뚫림 = 문제 해소, 새 출발의 상징"
+    },
+    {
+      "type": "길몽",
+      "korean": "코를 얻어맞거나 코에서 피가 흐르는 꿈은 일견 불길해 보이지만, 타인의 도움을 통해 하던 일이 순조롭게 마무리될 것을 의미하는 길몽으로 해석됩니다.",
+      "english": "Being hit in the nose or having the nose bleed as a result of a blow, while seemingly frightening, is interpreted as a fortunate sign that external help or a key ally will enable you to successfully complete an ongoing project.",
+      "context": "외부 충격 → 피 흐름 = 귀인의 조력으로 일이 이루어짐"
+    },
+    {
+      "type": "흉몽",
+      "korean": "코뼈가 부러지는 꿈은 흉몽으로, 하고 있는 일이 뜻대로 풀리지 않거나 자신의 적성과 맞지 않음을 암시합니다. 현재 진행 중인 계획을 재검토해 볼 필요가 있습니다.",
+      "english": "Dreaming of a broken nose bone is an inauspicious sign indicating that current work or plans will not proceed as hoped, or that you may be pursuing a path that doesn't suit you. It is a prompt to reassess ongoing commitments.",
+      "context": "코뼈 골절 = 지탱 구조의 손상 → 일의 기반이 흔들림"
+    },
+    {
+      "type": "흉몽",
+      "korean": "꿈에서 코를 다치거나 상처를 입으면 대인관계에서 시비와 갈등이 생길 수 있음을 경고합니다. 주변 사람들과 말과 행동을 조심하고, 불필요한 충돌을 피하는 것이 좋습니다.",
+      "english": "Injuring or wounding the nose in a dream warns of brewing conflict or disputes in personal relationships. It advises caution in speech and behavior to avoid unnecessary confrontations with people around you.",
+      "context": "코 상처 = 자존심 손상, 대인 갈등의 암시"
+    },
+    {
+      "type": "흉몽",
+      "korean": "코에 점이 생기는 꿈은 재물이 빠져나갈 수 있다는 경고입니다. 불필요한 소비를 줄이고 재정 관리에 신경을 써야 할 시기임을 나타냅니다.",
+      "english": "Dreaming that a mole appears on the nose is a warning that wealth or resources may drain away. It signals a need to tighten financial management and cut unnecessary spending.",
+      "context": "코 위 점 = 관상학적으로 재물이 새어 나감의 상징"
+    },
+    {
+      "type": "흉몽",
+      "korean": "코가 막히는 꿈은 진행 중인 일이 타인의 방해로 정체되거나 속도가 느려질 것을 의미합니다. 인내심을 갖고 상황이 풀릴 때를 기다리는 것이 필요합니다.",
+      "english": "A blocked or congested nose in a dream suggests that ongoing projects will be hindered or slowed by interference from others. Patience is advised while waiting for the obstruction to clear.",
+      "context": "막힌 코 = 흐름의 단절 → 일의 정체"
+    },
+    {
+      "type": "흉몽",
+      "korean": "코가 사라지거나 없어지는 꿈은 쌓아온 성과나 명성이 무너질 위험을 경고하는 흉몽입니다. 구설수나 스캔들에 주의해야 하며, 언행을 특히 조심해야 합니다.",
+      "english": "Dreaming that your nose disappears or vanishes is a serious warning of potential damage to your accumulated reputation or achievements. It strongly cautions against situations that could lead to scandal or public criticism.",
+      "context": "코의 부재 = 체면·명예의 완전한 손상"
+    },
+    {
+      "type": "neutral",
+      "korean": "코 성형수술을 받는 꿈은 현재 자신의 모습에 불만족스럽거나 변화를 원하는 심리가 반영된 꿈입니다. 수술 결과에 만족했다면 변화에 대한 긍정적 예고, 결과가 나빴다면 성급한 변화에 대한 경고로 해석합니다.",
+      "english": "Dreaming of rhinoplasty or nose surgery reflects a current desire for self-improvement or dissatisfaction with one's image. If the surgical outcome was satisfying in the dream, it is a positive sign of successful change; if unsatisfying, it warns against hasty self-reinvention.",
+      "context": "성형 = 자기 변화 욕구의 투영"
+    },
+    {
+      "type": "neutral",
+      "korean": "꿈에서 코가 큰 사람을 만나면 자신에게 도움이 될 귀인이나 높은 지위의 인물을 만나게 됨을 의미합니다. 반면 코가 삐뚤어진 사람을 만나면 방해꾼이나 악인을 조심하라는 경고입니다.",
+      "english": "Meeting a large-nosed person in a dream signifies that you will encounter a helpful or influential figure who will assist your endeavors. Conversely, meeting a crooked-nosed person warns of an obstructive or malicious individual entering your life.",
+      "context": "타인의 코 형태 = 그 인물의 성격과 역할 암시"
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "코피나는 꿈",
+      "keyword_en": "Nosebleed dream",
+      "interpretation_ko": "뜻밖의 재물이나 횡재가 생기는 강력한 길몽입니다. 특히 코피가 많이 흐를수록 더 큰 재운을 의미한다고 봅니다. 로또 당첨이나 부동산 수익 등 뜻밖의 소득을 암시합니다.",
+      "interpretation_en": "A strong auspicious omen signifying unexpected financial windfall. The heavier the nosebleed in the dream, the greater the potential fortune. Associated with lottery wins, real estate gains, or surprise income."
+    },
+    {
+      "keyword_ko": "코뼈 부러지는 꿈",
+      "keyword_en": "Broken nose dream",
+      "interpretation_ko": "현재 하는 일이 자신과 맞지 않거나 계획이 무너질 것을 경고합니다. 사업이나 직장 문제에서 큰 차질이 생길 수 있으니 중요한 결정을 미루는 것이 좋습니다.",
+      "interpretation_en": "Warns that current work or plans may be fundamentally misaligned or about to collapse. Advises postponing major decisions to avoid significant setbacks in business or career."
+    },
+    {
+      "keyword_ko": "코가 커지는 꿈",
+      "keyword_en": "Nose growing larger dream",
+      "interpretation_ko": "지나친 자만심이나 과도한 자신감으로 인해 큰 문제가 발생할 수 있음을 경고합니다. 또는 명예와 사회적 인지도가 넓어지는 의미로 해석되기도 합니다.",
+      "interpretation_en": "Warns that excessive arrogance or overconfidence may lead to serious problems. Alternatively, it can signal a broadening of one's fame and social recognition."
+    },
+    {
+      "keyword_ko": "코를 시원하게 푸는 꿈",
+      "keyword_en": "Blowing nose freely dream",
+      "interpretation_ko": "오랫동안 쌓인 스트레스나 막혔던 상황이 시원하게 해소되는 길몽입니다. 답답한 인간관계나 업무 문제가 깔끔히 정리되는 것을 암시합니다.",
+      "interpretation_en": "An auspicious omen of relief and resolution. Long-standing stress or blocked situations — whether in relationships or work — will be cleared away cleanly."
+    },
+    {
+      "keyword_ko": "코가 막히는 꿈",
+      "keyword_en": "Blocked nose dream",
+      "interpretation_ko": "진행 중인 일이 타인의 방해나 예상치 못한 장애물로 인해 정체될 것을 암시합니다. 인내심을 발휘해야 하며, 무리하게 밀어붙이지 않는 것이 좋습니다.",
+      "interpretation_en": "Suggests that ongoing plans will face interference or unexpected obstacles. Patience is required; forcing progress at this time is inadvisable."
+    },
+    {
+      "keyword_ko": "코가 사라지는 꿈",
+      "keyword_en": "Nose disappearing dream",
+      "interpretation_ko": "명예나 체면에 심각한 타격을 받을 수 있는 흉몽입니다. 구설수나 스캔들에 연루될 위험이 있으니 언행을 극히 조심해야 합니다.",
+      "interpretation_en": "A serious inauspicious sign of potential damage to one's reputation or dignity. High risk of being drawn into scandal or public criticism — extreme caution in words and actions is advised."
+    },
+    {
+      "keyword_ko": "콧물이 흐르는 꿈",
+      "keyword_en": "Runny nose dream",
+      "interpretation_ko": "감기 증세처럼 콧물이 흐르는 꿈은 진행 중인 일의 흐름이 잠시 멈추거나 건강에 주의가 필요한 시기임을 암시합니다.",
+      "interpretation_en": "A runny nose in a dream signals a temporary halt in the momentum of ongoing projects, or a prompt to pay closer attention to physical health."
+    },
+    {
+      "keyword_ko": "코 성형수술 꿈",
+      "keyword_en": "Nose surgery / rhinoplasty dream",
+      "interpretation_ko": "자기 이미지나 사회적 역할에 대한 변화 욕구를 반영합니다. 결과가 좋았다면 성공적인 자기 변신, 결과가 나빴다면 섣부른 변화에 대한 경고입니다.",
+      "interpretation_en": "Reflects a desire to change one's self-image or social role. A satisfying surgical outcome in the dream signals successful transformation; an unsatisfying outcome warns against premature change."
+    },
+    {
+      "keyword_ko": "코에 점이 생기는 꿈",
+      "keyword_en": "Mole appearing on nose dream",
+      "interpretation_ko": "재물이 빠져나갈 수 있다는 관상학적 경고가 담긴 꿈입니다. 불필요한 지출을 줄이고 재정 관리를 신중히 해야 합니다.",
+      "interpretation_en": "A physiognomy-based warning of financial drain. Urges cutting unnecessary expenditures and exercising careful financial management."
+    },
+    {
+      "keyword_ko": "코딱지 꿈",
+      "keyword_en": "Nose booger / debris dream",
+      "interpretation_ko": "오랫동안 묵혀 있던 문제나 고민이 깔끔하게 해결되는 길몽입니다. 특히 코딱지가 시원하게 떼어지는 느낌이 강할수록 문제 해소의 효과도 크다고 봅니다.",
+      "interpretation_en": "An auspicious dream signifying the clean resolution of long-standing worries or stuck problems. The more satisfying the removal in the dream, the greater the real-world relief."
+    },
+    {
+      "keyword_ko": "코가 붓는 꿈",
+      "keyword_en": "Swollen nose dream",
+      "interpretation_ko": "극도의 스트레스가 쌓여 있거나 대인관계에서 깊이 상처받은 심리 상태를 반영합니다. 감정 관리와 휴식이 필요한 시기입니다.",
+      "interpretation_en": "Reflects a state of extreme stress accumulation or deep emotional wounds from interpersonal relationships. It signals the need for emotional recovery and rest."
+    },
+    {
+      "keyword_ko": "아름다운 코를 가진 꿈",
+      "keyword_en": "Beautiful / well-shaped nose dream",
+      "interpretation_ko": "현재 진행 중인 일이 순조롭게 이루어지고, 사회적 지위나 명성이 높아질 것을 예고하는 길몽입니다. 부부나 연인 관계에서도 행복한 시간이 기다리고 있음을 암시합니다.",
+      "interpretation_en": "Foretells smooth progress in ongoing matters, rising social status or reputation, and happiness in romantic or marital relationships. A thoroughly positive omen."
+    },
+    {
+      "keyword_ko": "코가 두 개인 꿈",
+      "keyword_en": "Two noses dream",
+      "interpretation_ko": "가까운 사람과 이해관계 충돌로 인한 갈등이나 분쟁이 생길 수 있음을 경고합니다. 친한 친구나 가족과의 관계에서 주의가 필요합니다.",
+      "interpretation_en": "Warns of potential conflict or dispute with someone close over shared interests or rights. Caution is needed in relationships with close friends or family members."
+    }
+  ],
+  "culturalContext": {
+    "korean": "한국의 전통 관상학(관상학, 觀相學)에서 코는 '재물궁(財物宮)'으로 불리며 개인의 재운과 생명력, 의지력의 중심 기관으로 여겨집니다. 코가 풍성하고 단단하면 재물운이 좋고 의지가 강한 사람으로 봤으며, 코가 오똑하고 균형 잡혀 있을수록 사회적 성공 가능성이 높다고 해석했습니다. 반대로 코가 낮고 납작하거나 휘어 있으면 재물과 명예에 어려움이 따른다고 보았습니다. 꿈속에서도 이 관상학적 시각이 그대로 반영되어, 코의 형태와 상태가 꿈 해석의 핵심 기준이 됩니다. 특히 코피를 흘리는 꿈이 재물 유입을 의미하는 것은 독특한 한국적 해석으로, '피'가 생명력과 활력의 상징으로 쓰이는 민간 신앙에서 유래합니다. 콧노래를 부르는 행위가 기쁨을 뜻하듯, 코는 일상 언어와 문화 속에서도 감정과 상태의 표현 도구로 자주 사용되어 왔습니다.",
+    "english": "In Korean traditional physiognomy (관상학), the nose is called the 'Palace of Wealth' (재물궁) and is considered the central organ governing a person's fortune, vitality, and willpower. A full, firm nose was associated with strong financial luck and determination, while a well-proportioned, prominent nose signaled high potential for social success. A low, flat, or crooked nose was traditionally read as an indicator of difficulties in wealth and honor. These physiognomic beliefs are directly reflected in Korean dream interpretation — the shape and condition of the nose in a dream serves as the primary interpretive key. Notably, the auspicious reading of nosebleeds as financial luck is a distinctly Korean cultural interpretation, rooted in folk beliefs where blood symbolizes life energy and vitality flowing in. As the seat of breathing and a culturally expressive feature, the nose carries deep symbolic weight in Korean cultural consciousness."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트의 관점에서 코는 억압된 욕망이나 내면 깊은 충동을 상징하는 신체 부위로 해석됩니다. 코는 전통적으로 남근(phallic symbol)의 대리 기관으로 여겨졌으며, 코에 관한 꿈은 성적 욕망, 권력욕, 혹은 무의식적 갈등이 표면화된 것으로 볼 수 있습니다. 코피는 에너지나 리비도의 방출을, 코가 막히는 꿈은 억압된 욕구나 표현 욕구의 차단을 의미할 수 있습니다.",
+      "english": "From a Freudian perspective, the nose is interpreted as a symbol of repressed desires and deep instinctual impulses. Classically regarded as a phallic symbol, nose dreams may represent sexual desires, a drive for power, or unconscious conflicts breaking through to the surface. A nosebleed can signify release of libidinal energy, while a blocked nose may represent the suppression of instinctual needs or the urge to express oneself."
+    },
+    "jungian": {
+      "korean": "융의 분석심리학에서 코는 직관과 원초적 본능의 상징으로, 인간 심층의 집단 무의식과 연결됩니다. 후각은 인간의 가장 원시적인 감각 중 하나로, 꿈속 코는 의식이 놓치는 본능적 진실을 '냄새 맡는' 능력, 즉 무의식적 앎을 상징합니다. 코가 두드러지게 나타나는 꿈은 그림자 원형(shadow archetype)과 연결되어 자아가 인정하지 않으려는 숨겨진 측면을 직시하라는 내면의 요청일 수 있습니다.",
+      "english": "In Jungian analytical psychology, the nose symbolizes intuition and primal instinct, connected to the collective unconscious. As one of humanity's most primitive senses, the nose in a dream represents the ability to 'smell' instinctual truths that the conscious mind misses — a form of unconscious knowing. A prominent nose in a dream may connect to the shadow archetype, representing a call from the psyche to acknowledge hidden or disowned aspects of the self."
+    },
+    "modern": {
+      "korean": "현대 심리학적 관점에서 코 꿈은 자존감과 자아 이미지와 관련이 깊습니다. 코는 얼굴의 중심에 위치한 신체 기관으로, 꿈속에서 코의 상태는 현실에서 자신을 어떻게 바라보는지, 타인에게 어떻게 보이고 싶은지를 반영합니다. 코 성형수술 꿈은 자기 개선 욕구나 사회적 이미지 관리에 대한 현대적 불안을 직접 반영하며, 코 부상 꿈은 자존심 손상이나 공개적 망신에 대한 두려움과 연결됩니다.",
+      "english": "From a modern psychological perspective, nose dreams are closely tied to self-esteem and body image. As the central feature of the face, the condition of the nose in a dream reflects how one perceives oneself and wishes to be perceived by others. Nose surgery dreams directly mirror contemporary anxieties about self-improvement and social image management, while nose injury dreams connect to fears of wounded pride or public embarrassment."
+    },
+    "crossCultural": {
+      "korean": "문화권에 따라 코의 상징적 의미는 다양합니다. 서양에서는 '코가 예민하다(have a nose for something)'는 표현처럼 코는 직관과 통찰력의 상징입니다. 중국 풍수 및 관상학에서도 코는 재물운의 핵심 부위로 한국과 유사한 의미를 지닙니다. 인도 아유르베다 전통에서는 코가 생명 에너지(프라나)의 주 통로로 여겨지며 영적·신체적 건강과 연결됩니다. 아프리카 일부 문화에서는 큰 코가 지혜와 연장자의 권위를 상징합니다. 이처럼 코는 전 세계 문화에서 공통적으로 직관, 재물, 사회적 위신과 연결되는 보편적 상징입니다.",
+      "english": "Across cultures, the nose carries rich symbolic weight. In Western idiom, 'having a nose for something' equates it with intuition and insight. Chinese physiognomy and feng shui mirror Korean beliefs by placing the nose as a key indicator of wealth fortune. In Indian Ayurvedic tradition, the nose is the primary channel for prana (life energy), linking it to spiritual and physical vitality. In some African traditions, a large nose symbolizes wisdom and the authority of elders. Universally, the nose connects to themes of intuition, wealth, and social prestige — making it one of the most cross-culturally consistent dream symbols."
+    }
+  },
+  "relatedSymbols": [
+    "face-dream",
+    "blood-dream",
+    "teeth-dream",
+    "eyes-dream",
+    "ear-dream",
+    "plastic-surgery-dream",
+    "body-injury-dream"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "코 꿈해몽",
+      "코 꿈 해석",
+      "코피나는 꿈",
+      "코피 꿈해몽",
+      "코뼈 부러지는 꿈",
+      "코가 막히는 꿈",
+      "코 성형수술 꿈",
+      "코가 커지는 꿈",
+      "코가 사라지는 꿈",
+      "코딱지 꿈",
+      "콧물 꿈해몽",
+      "코에 점 꿈",
+      "코가 붓는 꿈",
+      "아름다운 코 꿈",
+      "코 관상학 꿈"
+    ],
+    "english": [
+      "nose dream meaning",
+      "nosebleed dream interpretation",
+      "broken nose dream",
+      "nose dream Korean",
+      "blocked nose dream",
+      "nose surgery dream meaning",
+      "nose growing dream",
+      "nose disappearing dream",
+      "nose dream lucky",
+      "Korean nose dream symbolism"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "코피나는 꿈은 길몽인가요 흉몽인가요?",
+      "answer_ko": "코피나는 꿈은 대표적인 길몽입니다. 뜻밖의 재물이나 금전적 행운이 찾아올 것을 암시하며, 특히 생각지도 못했던 부수입이나 횡재의 신호로 해석됩니다. 피가 밖으로 흐르는 것이 역설적으로 재물이 '흘러 들어옴'을 의미하는 한국 특유의 해석입니다.",
+      "answer_en": "A nosebleed dream is considered a strongly auspicious omen in Korean dream interpretation. It signals unexpected financial fortune — think side income, a windfall, or surprise wealth. In a characteristically Korean interpretive twist, blood flowing outward is read as wealth flowing inward.",
+      "question_en": "Is dreaming of a nosebleed a good or bad omen?"
+    },
+    {
+      "question_ko": "코뼈가 부러지는 꿈은 무슨 의미인가요?",
+      "answer_ko": "코뼈가 부러지는 꿈은 흉몽에 해당합니다. 현재 하고 있는 일이 자신의 적성과 맞지 않거나 계획이 예상대로 진행되지 않을 것을 경고합니다. 중요한 결정이나 투자는 잠시 미루고, 현재 상황을 냉정하게 재검토하는 것이 좋습니다.",
+      "answer_en": "Dreaming of a broken nose bone is an inauspicious omen. It warns that current work may be fundamentally misaligned with your abilities or that plans will not unfold as expected. It is advisable to pause important decisions or investments and reassess your current direction calmly.",
+      "question_en": "What does it mean to dream of breaking your nose?"
+    },
+    {
+      "question_ko": "코가 사라지는 꿈은 왜 나쁜 꿈인가요?",
+      "answer_ko": "한국 꿈해몽과 관상학에서 코는 명예와 체면의 상징입니다. 꿈에서 코가 사라진다는 것은 쌓아온 명성이나 사회적 위신이 위협받을 수 있음을 의미합니다. 구설수나 스캔들에 연루되지 않도록 언행을 조심해야 하는 시기임을 경고합니다.",
+      "answer_en": "In Korean dream interpretation and physiognomy, the nose represents honor and social standing. A disappearing nose therefore signals a serious threat to accumulated reputation or prestige. It warns of potential scandal or public criticism and advises extreme caution in words and actions.",
+      "question_en": "Why is dreaming that your nose disappears considered a bad omen?"
+    },
+    {
+      "question_ko": "코 성형수술을 받는 꿈은 어떤 의미인가요?",
+      "answer_ko": "코 성형수술 꿈은 자신의 현재 모습이나 사회적 이미지에 변화를 원하는 심리가 반영된 꿈입니다. 꿈속에서 수술 결과가 만족스러웠다면 긍정적인 자기 변신을 예고하지만, 결과가 나빴거나 실패했다면 섣부른 변화나 무리한 시도에 대한 경고로 해석합니다.",
+      "answer_en": "Dreaming of nose surgery reflects a current desire for self-improvement or to change your social image. If the surgery turned out well in the dream, it forecasts a successful positive transformation. If the outcome was poor or the surgery failed, it serves as a warning against hasty or ill-considered changes.",
+      "question_en": "What does dreaming of nose surgery (rhinoplasty) mean?"
+    },
+    {
+      "question_ko": "꿈에서 코가 아름답고 오똑하게 보이면 무슨 의미인가요?",
+      "answer_ko": "꿈속에서 코가 아름답고 뚜렷하게 보이면 하는 일이 순조롭게 이루어지고, 사회적 지위와 명성이 높아질 것을 암시하는 길몽입니다. 연애나 부부 사이에서도 행복한 시간이 이어질 것을 예고하며, 전반적으로 운세가 상승하는 시기를 나타냅니다.",
+      "answer_en": "Seeing a beautiful, prominent, and well-defined nose in a dream is an auspicious omen indicating smooth progress in endeavors, rising social status and fame. It also foretells happiness in romantic or marital relationships, signaling an overall upswing in fortune.",
+      "question_en": "What does it mean to see a beautiful, prominent nose in a dream?"
+    },
+    {
+      "question_ko": "코가 막히는 꿈은 현실에서 무언가를 경고하는 건가요?",
+      "answer_ko": "네, 코가 막히는 꿈은 진행 중인 일이나 계획에 장애물이 생길 것을 경고합니다. 타인의 방해나 예상치 못한 상황으로 인해 일의 흐름이 멈출 수 있습니다. 이 꿈을 꿨다면 주변 상황을 세심하게 살피고, 무리하게 일을 밀어붙이기보다 인내심을 갖고 적절한 타이밍을 기다리는 것이 좋습니다.",
+      "answer_en": "Yes, dreaming of a blocked nose warns that obstacles will appear in ongoing plans or projects. Interference from others or unexpected circumstances may cause progress to stall. If you have this dream, observe your surroundings carefully and exercise patience rather than forcing ahead — wait for the right moment.",
+      "question_en": "Does dreaming of a blocked nose warn of something in real life?"
+    }
+  ]
+}

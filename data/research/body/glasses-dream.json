@@ -1,0 +1,253 @@
+{
+  "symbol": {
+    "korean": "안경",
+    "english": "Glasses",
+    "slug": "glasses-dream"
+  },
+  "summary": {
+    "korean": "안경 꿈은 시각, 인식, 판단력, 그리고 세상을 바라보는 관점과 깊이 연결된 꿈입니다. 한국 민속 해몽에서 안경은 지혜와 통찰의 도구이자 사회적 지위와 권위의 상징으로 여겨집니다. 새 안경을 쓰는 꿈이나 안경을 통해 선명하게 보이는 꿈은 상황이 명확해지고 좋은 기회가 찾아올 길몽이며, 안경을 잃거나 부러지는 꿈은 관계의 균열이나 판단력 저하를 경고하는 흉몽입니다. 꿈의 세부 상황—안경의 상태, 프레임 색, 착용 여부—에 따라 해석이 달라집니다.",
+    "english": "Glasses dreams are deeply connected to vision, perception, judgment, and the way we see the world. In Korean folk dream interpretation, glasses are regarded as a tool of wisdom and insight, and a symbol of social status and authority. Dreaming of wearing new glasses or seeing clearly through glasses is an auspicious omen that circumstances will clarify and good opportunities will arrive. Losing or breaking glasses warns of relationship fractures or impaired judgment. Interpretation varies based on the dream's details—the glasses' condition, frame color, and whether they are being worn or not."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "새 안경을 사거나 맞추는 꿈은 지위, 명예, 권리 등이 새롭게 향상되는 길몽입니다. 현재 하고 있는 일이나 사업이 순조롭게 잘 풀릴 것을 의미하며, 새로운 기회가 눈앞에 펼쳐질 징조입니다.",
+      "english": "Dreaming of buying or fitting new glasses is an auspicious omen that your status, honor, and rights will all improve. It signals that your current work or business will progress smoothly, and new opportunities are unfolding before you.",
+      "context": "new_glasses_purchase"
+    },
+    {
+      "type": "길몽",
+      "korean": "금테 안경을 쓰는 꿈은 사회적으로 높은 평가를 받거나 조직이나 단체에서 인정받는 일이 생길 것을 예고합니다. 사회적 지위가 올라가거나 권위 있는 자리에 오를 가능성을 암시합니다.",
+      "english": "Dreaming of wearing gold-framed glasses foretells receiving high social recognition or being acknowledged within an organization. It suggests that your social standing will rise or you may attain a position of authority.",
+      "context": "gold_frame_status"
+    },
+    {
+      "type": "길몽",
+      "korean": "안경을 쓰고 사물이 선명하게 잘 보이는 꿈은 답답하고 힘들었던 일들이 하나씩 해결될 것을 의미합니다. 귀인의 도움이 찾아오거나 풍요로운 기회가 열리는 좋은 징조입니다.",
+      "english": "Dreaming that you wear glasses and everything becomes clear and sharp signals that difficult, frustrating situations will resolve one by one. It is a good omen that a benefactor's help will arrive or abundant opportunities will open up.",
+      "context": "clarity_resolution"
+    },
+    {
+      "type": "길몽",
+      "korean": "안경을 벗었는데도 눈이 잘 보이는 꿈은 자신이 노력한 것 이상으로 좋은 결과를 낼 수 있음을 암시합니다. 기대 이상의 성취를 이루거나 주변의 도움으로 난관이 극복될 징조입니다.",
+      "english": "Dreaming that you remove your glasses and can still see clearly suggests that you will achieve results far beyond your efforts. It is an omen that you will attain unexpected achievements or overcome difficulties with support from those around you.",
+      "context": "removing_glasses_clear_vision"
+    },
+    {
+      "type": "길몽",
+      "korean": "다른 사람에게 안경을 선물하거나 칭찬받는 꿈은 주변 사람들로부터 인정받고 명성이 높아질 것을 예고합니다. 자신의 능력이나 통찰이 타인에게 도움이 되는 상황이 찾아옵니다.",
+      "english": "Dreaming of gifting glasses to someone or being praised for them foretells gaining recognition from those around you and an elevation of your reputation. A situation is coming where your skills or insights will be of great help to others.",
+      "context": "gifting_glasses_recognition"
+    },
+    {
+      "type": "흉몽",
+      "korean": "안경을 잃어버리는 꿈은 앞으로 하는 일에 장애물이 생기거나 현재 진행 중인 일이 차질을 빚을 수 있음을 경고합니다. 중요한 무언가를 잃을 위험을 암시하기도 합니다.",
+      "english": "Dreaming of losing your glasses warns that obstacles may arise in your endeavors or that current projects could hit setbacks. It also suggests the risk of losing something important.",
+      "context": "losing_glasses_obstacles"
+    },
+    {
+      "type": "흉몽",
+      "korean": "안경이 부러지거나 렌즈가 깨지는 꿈은 소중한 사람과 멀어지거나 믿었던 사람에게 배신당할 수 있음을 경고하는 흉몽입니다. 중요한 인연이나 파트너십이 깨질 위험을 암시합니다.",
+      "english": "Dreaming that your glasses break or the lenses crack is an ominous warning that you may grow distant from someone dear to you or be betrayed by someone you trusted. It suggests the risk of an important relationship or partnership fracturing.",
+      "context": "broken_glasses_betrayal"
+    },
+    {
+      "type": "흉몽",
+      "korean": "안경이 더럽거나 흐릿하게 보이는 꿈은 중요한 기회를 놓치거나 금전적 손실이 발생할 수 있음을 경고합니다. 현재의 판단력이나 시각에 오류가 있음을 암시하기도 합니다.",
+      "english": "Dreaming of dirty or foggy glasses warns that important opportunities may be missed or financial losses may occur. It also implies that there are flaws in your current judgment or perspective.",
+      "context": "dirty_glasses_missed_opportunity"
+    },
+    {
+      "type": "흉몽",
+      "korean": "선글라스를 쓰고 앞이 잘 보이지 않는 꿈은 현재 하는 일이 막히고 해결책이 불분명한 상황을 암시합니다. 감정적으로 힘든 시기가 오거나 스스로 진실을 외면하고 있음을 경고합니다.",
+      "english": "Dreaming of wearing sunglasses and being unable to see well implies that your current work is stalling and solutions remain unclear. It warns that an emotionally difficult period is approaching or that you are avoiding the truth.",
+      "context": "sunglasses_blocked_vision"
+    },
+    {
+      "type": "neutral",
+      "korean": "안경을 쓴 사람을 꿈에서 보는 것은 그 사람이 자신의 속마음을 잘 파악하고 있거나, 자신의 진의가 다른 사람에게 노출될 수 있음을 의미합니다. 상대방의 분석적이고 통찰력 있는 성격을 반영하기도 합니다.",
+      "english": "Seeing a person wearing glasses in a dream means that person understands your true feelings well, or that your real intentions may become exposed to others. It may also reflect the other person's analytical and perceptive nature.",
+      "context": "seeing_bespectacled_person"
+    },
+    {
+      "type": "neutral",
+      "korean": "안경점에 가는 꿈은 자신에게 맞는 시각이나 관점을 찾고 있다는 것을 상징합니다. 새로운 결정을 앞두고 신중하게 선택지를 살펴보고 있는 상태를 반영합니다.",
+      "english": "Dreaming of going to an optician symbolizes that you are seeking the right perspective or viewpoint for yourself. It reflects a state of carefully examining your options before making an important decision.",
+      "context": "visiting_optician_reflection"
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "새 안경 쓰는 꿈",
+      "keyword_en": "Dream of wearing new glasses",
+      "interpretation_ko": "지위와 명예가 새롭게 향상되고 하는 일이 순조롭게 풀릴 것을 예고하는 길몽입니다. 인생의 새로운 국면이 열리는 긍정적인 신호입니다.",
+      "interpretation_en": "An auspicious omen that your status and honor will be newly elevated and that your work will proceed smoothly. It is a positive signal that a new chapter in your life is opening."
+    },
+    {
+      "keyword_ko": "안경을 잃어버리는 꿈",
+      "keyword_en": "Dream of losing glasses",
+      "interpretation_ko": "일의 장애, 판단력 저하, 또는 중요한 무언가를 잃을 위험을 경고합니다. 현재 방향과 결정을 다시 점검해볼 필요가 있음을 암시합니다.",
+      "interpretation_en": "Warns of obstacles at work, diminished judgment, or the risk of losing something important. Suggests the need to re-examine your current direction and decisions."
+    },
+    {
+      "keyword_ko": "안경이 부러지는 꿈",
+      "keyword_en": "Dream of glasses breaking",
+      "interpretation_ko": "소중한 인간관계가 단절되거나 믿었던 사람에게 배신당할 수 있음을 경고하는 흉몽입니다. 중요한 파트너십에 균열이 생길 위험을 암시합니다.",
+      "interpretation_en": "An ominous dream warning that a cherished relationship may be severed or that someone you trusted may betray you. Suggests the risk of a crack forming in an important partnership."
+    },
+    {
+      "keyword_ko": "금테 안경 꿈",
+      "keyword_en": "Dream of gold-framed glasses",
+      "interpretation_ko": "사회적 지위 상승, 조직에서의 인정, 그리고 명예로운 위치에 오를 것을 예고하는 길몽입니다. 권위 있는 사람과의 인연이 생기기도 합니다.",
+      "interpretation_en": "An auspicious omen foretelling a rise in social status, recognition within an organization, and an honorable position. It may also signal a connection forming with an authoritative figure."
+    },
+    {
+      "keyword_ko": "선글라스 쓰는 꿈",
+      "keyword_en": "Dream of wearing sunglasses",
+      "interpretation_ko": "감정을 숨기거나 진실로부터 거리를 두려는 심리를 반영하거나, 앞이 불투명한 상황에서 판단이 흐려질 수 있음을 경고합니다.",
+      "interpretation_en": "Reflects a psychological tendency to hide emotions or distance yourself from the truth, or warns that your judgment may become clouded in an unclear situation."
+    },
+    {
+      "keyword_ko": "안경을 선물받는 꿈",
+      "keyword_en": "Dream of receiving glasses as a gift",
+      "interpretation_ko": "잘 풀리지 않던 일들이 해결되고 평화로운 상황이 찾아오는 길몽입니다. 귀인의 도움이나 새로운 관점을 얻게 될 것을 암시합니다.",
+      "interpretation_en": "An auspicious dream that stalled matters will resolve and a peaceful situation is approaching. Suggests that a benefactor's help or a new perspective will be gained."
+    },
+    {
+      "keyword_ko": "안경을 선물하는 꿈",
+      "keyword_en": "Dream of giving glasses to someone",
+      "interpretation_ko": "타인에게 지혜나 통찰을 전달하는 역할을 하게 되거나, 주변으로부터 인정과 명성을 얻게 될 것을 예고합니다.",
+      "interpretation_en": "Foretells that you will take on the role of conveying wisdom or insight to others, or that you will earn recognition and a good reputation from those around you."
+    },
+    {
+      "keyword_ko": "돋보기 안경 꿈",
+      "keyword_en": "Dream of magnifying glasses",
+      "interpretation_ko": "학습 능력이 향상되거나 학문적, 연구적 성과를 거두게 될 것을 암시하는 길몽입니다. 세밀한 관찰력이 필요한 일에서 두각을 나타냅니다.",
+      "interpretation_en": "An auspicious omen that your learning ability will improve or you will achieve academic or research breakthroughs. You will stand out in work requiring careful attention to detail."
+    },
+    {
+      "keyword_ko": "안경을 벗는 꿈",
+      "keyword_en": "Dream of taking off glasses",
+      "interpretation_ko": "노력한 것 이상의 좋은 결과를 얻거나 예상치 못한 도움이 찾아오는 길몽입니다. 의존하던 것 없이도 스스로 해결하는 능력이 강해질 것을 암시합니다.",
+      "interpretation_en": "An auspicious dream of gaining results beyond your efforts or unexpected help arriving. Suggests that your ability to resolve things on your own, without relying on external aids, will grow stronger."
+    },
+    {
+      "keyword_ko": "안경이 더러운 꿈",
+      "keyword_en": "Dream of dirty or foggy glasses",
+      "interpretation_ko": "중요한 기회를 놓치거나 현재 상황을 제대로 파악하지 못하고 있음을 경고합니다. 금전적 손실이나 판단 오류에 주의가 필요합니다.",
+      "interpretation_en": "Warns that important opportunities may be missed or that you are not properly understanding your current situation. Caution is needed regarding financial loss or errors in judgment."
+    },
+    {
+      "keyword_ko": "안경을 찾아 헤매는 꿈",
+      "keyword_en": "Dream of desperately searching for glasses",
+      "interpretation_ko": "현재의 선택이나 방향이 잘못되었을 가능성을 암시하며 자기 성찰이 필요한 시점임을 경고합니다. 무언가 중요한 것을 놓치고 있다는 불안을 반영합니다.",
+      "interpretation_en": "Suggests that your current choices or direction may be wrong and warns that it is time for self-reflection. Reflects anxiety that you are missing something important."
+    },
+    {
+      "keyword_ko": "안경점에서 안경을 맞추는 꿈",
+      "keyword_en": "Dream of getting glasses fitted at an optician",
+      "interpretation_ko": "필요한 것을 적절한 곳에서 구한다는 의미로, 하는 일이 순조롭게 잘 풀릴 것을 암시하는 길몽입니다. 올바른 자원과 도움을 찾게 될 것을 예고합니다.",
+      "interpretation_en": "An auspicious dream symbolizing finding what you need in the right place, implying that your endeavors will proceed smoothly. Foretells that you will find the right resources and support."
+    }
+  ],
+  "culturalContext": {
+    "korean": "한국 민속 해몽에서 안경은 단순한 시력 보조 도구를 넘어 '명견(明見)'—즉, 사물의 본질을 꿰뚫어 보는 능력—을 상징합니다. 조선 시대에 안경은 선비나 학자들이 착용하던 것으로, 지적 권위와 사회적 지위의 상징이었습니다. 이러한 역사적 배경 때문에 꿈에서 안경을 쓰는 행위는 지혜와 통찰을 얻게 되거나 학문·직업적으로 인정받는 사건의 전조로 해석됩니다. 금테 안경이 특히 권위와 사회적 성공을 상징하는 것도 이러한 맥락에서 비롯됩니다. 반면 안경을 잃거나 부러지는 것은 판단력을 상실하거나 인간관계가 단절되는 것과 동일시되어 흉몽으로 여겨집니다. 무속 신앙에서는 눈과 시각 능력이 영적 세계를 감지하는 수단으로 여겨지기도 하며, 안경은 그러한 감각을 강화하거나 약화시키는 상징물로 해석됩니다.",
+    "english": "In Korean folk dream interpretation, glasses symbolize far more than a visual aid — they represent 'myeonggyeon' (明見), the ability to see through to the essence of things. During the Joseon Dynasty, glasses were worn by scholars and the literati, making them symbols of intellectual authority and social status. Because of this historical background, wearing glasses in a dream is interpreted as a foreshadowing of gaining wisdom and insight, or of being recognized academically or professionally. The particular association of gold-framed glasses with authority and social success also stems from this context. Conversely, losing or breaking glasses is equated with losing one's judgment or the severing of relationships, making it an ominous omen. In Korean shamanic belief (musok), the eyes and visual capacity are regarded as means of sensing the spiritual world, and glasses are interpreted as objects that enhance or diminish such perception."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트적 관점에서 안경 꿈은 현실을 직시하거나 회피하고자 하는 무의식적 욕구를 반영합니다. 안경을 쓰는 꿈은 억압된 진실이나 감정을 직면하고자 하는 자아(ego)의 시도로 해석될 수 있으며, 반대로 안경을 잃거나 부러뜨리는 꿈은 불편한 현실로부터 눈을 돌리려는 방어 기제의 표출일 수 있습니다. 선글라스처럼 시야를 가리는 안경은 성적·심리적 억압을 상징하기도 합니다.",
+      "english": "From a Freudian perspective, glasses dreams reflect an unconscious desire to face or avoid reality. Wearing glasses may be interpreted as the ego's attempt to confront a suppressed truth or emotion, while losing or breaking glasses may represent a defense mechanism — turning away from an uncomfortable reality. Glasses that obscure vision, like sunglasses, can also symbolize sexual or psychological repression."
+    },
+    "jungian": {
+      "korean": "융 심리학에서 안경은 개인의 '페르소나(persona)'—사회에 보여주는 자아의 겉모습—와 깊이 연결됩니다. 안경을 쓰는 꿈은 사회적 역할에 적응하거나 외부 세계를 이해하는 능력을 강화하는 과정을 상징합니다. 안경을 잃는 꿈은 자아의 정체성 혼란이나 '그림자(shadow)'와의 대면을 암시하며, 자기 자신의 진짜 모습을 숨겨왔던 것이 드러나는 시점을 나타낼 수 있습니다.",
+      "english": "In Jungian psychology, glasses are deeply connected to the individual's 'persona' — the social mask we present to the world. Dreaming of wearing glasses symbolizes the process of adapting to a social role or strengthening one's ability to comprehend the external world. Losing glasses suggests confusion about one's identity or a confrontation with the 'shadow' — it may mark a moment when one's true, hidden self begins to be exposed."
+    },
+    "modern": {
+      "korean": "현대 심리학적 접근에서 안경 꿈은 자기 인식(self-perception)과 다른 사람들에 대한 판단 방식을 탐색하는 무의식의 과정으로 해석됩니다. 새 안경을 맞추는 꿈은 현실 생활에서 새로운 시각이나 태도 변화가 필요하다는 심리적 신호일 수 있습니다. 안경을 잃어버리는 꿈은 스트레스, 번아웃, 또는 방향 상실에 대한 심리적 불안을 반영하며, 깨진 안경은 중요한 관계나 기대의 붕괴에 대한 두려움을 표현합니다.",
+      "english": "From a modern psychological perspective, glasses dreams are interpreted as the unconscious process of exploring self-perception and the way one judges others. Dreaming of getting new glasses fitted may be a psychological signal that a new perspective or change in attitude is needed in waking life. Losing glasses reflects psychological anxiety about stress, burnout, or loss of direction, while broken glasses express fear of the collapse of an important relationship or expectation."
+    },
+    "crossCultural": {
+      "korean": "세계 다양한 문화권에서 안경은 지혜, 학식, 권위의 상징으로 공통적으로 여겨집니다. 이슬람 꿈 해석 전통에서도 안경은 통찰력과 올바른 판단을 상징하며, 이슬람 학자 이븐 시린은 안경을 쓰는 꿈을 지식과 도움을 얻게 되는 긍정적 예조로 해석했습니다. 서양 문화권에서는 안경이 '너드(nerd)'나 '지식인'의 상징으로 발전하여 꿈에서 안경을 쓰는 것이 지성과 신중함의 이미지와 결부됩니다. 반면 선글라스를 쓰는 꿈은 전 세계적으로 비밀, 허식, 또는 진실 회피와 연결됩니다.",
+      "english": "Across diverse global cultures, glasses are commonly regarded as symbols of wisdom, learning, and authority. In the Islamic dream interpretation tradition, glasses also symbolize insight and correct judgment; the Islamic scholar Ibn Sirin interpreted dreaming of wearing glasses as a positive omen of gaining knowledge and assistance. In Western cultures, glasses have evolved as symbols of the 'intellectual' or 'nerd,' linking the act of wearing glasses in a dream to images of intellect and thoughtfulness. Conversely, dreaming of wearing sunglasses is universally associated with secrecy, pretension, or the avoidance of truth."
+    }
+  },
+  "relatedSymbols": [
+    "eyes-dream",
+    "going-blind-dream",
+    "face-dream",
+    "third-eye-dream",
+    "swollen-eyes-dream",
+    "tears-dream",
+    "braces-dream",
+    "tattoo-dream"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "안경 꿈해몽",
+      "안경 쓰는 꿈",
+      "안경 끼는 꿈 의미",
+      "안경 잃어버리는 꿈",
+      "안경 부러지는 꿈",
+      "금테 안경 꿈",
+      "선글라스 꿈 해몽",
+      "안경 선물받는 꿈",
+      "안경점 꿈 해몽",
+      "안경 꿈 길몽 흉몽",
+      "새 안경 꿈",
+      "안경 찾는 꿈",
+      "돋보기 꿈 해몽",
+      "안경 렌즈 깨지는 꿈"
+    ],
+    "english": [
+      "glasses dream meaning",
+      "dream about wearing glasses",
+      "dream of losing glasses",
+      "broken glasses dream interpretation",
+      "sunglasses dream meaning",
+      "Korean dream interpretation glasses",
+      "new glasses dream omen",
+      "glasses dream symbolism",
+      "eyeglasses dream analysis",
+      "dream receiving glasses gift"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "안경을 쓰는 꿈은 길몽인가요, 흉몽인가요?",
+      "answer_ko": "안경을 쓰는 꿈은 대체로 길몽으로 해석됩니다. 특히 새 안경을 쓰거나 안경을 통해 사물이 선명하게 보이는 꿈은 지위 향상, 문제 해결, 귀인과의 만남을 암시하는 긍정적인 신호입니다. 다만 안경을 찾아 헤매거나 안경을 써도 잘 안 보이는 꿈은 현재 방향을 재점검해야 한다는 경고의 의미가 있습니다.",
+      "question_en": "Is dreaming of wearing glasses a good or bad omen?",
+      "answer_en": "Dreaming of wearing glasses is generally interpreted as an auspicious omen. In particular, wearing new glasses or seeing things clearly through glasses is a positive signal suggesting status improvement, problem resolution, or meeting a helpful benefactor. However, desperately searching for glasses or being unable to see clearly even with glasses on is a warning to re-examine your current direction."
+    },
+    {
+      "question_ko": "안경을 잃어버리는 꿈은 무슨 의미인가요?",
+      "answer_ko": "안경을 잃어버리는 꿈은 일에서 장애물이 생기거나 중요한 판단력이 흐려질 수 있음을 경고합니다. 현재 진행 중인 일이 차질을 빚거나 중요한 무언가를 놓칠 수 있다는 신호이기도 합니다. 이 꿈을 꾼 후에는 중요한 결정을 내릴 때 더욱 신중하게 살피는 것이 좋습니다.",
+      "question_en": "What does it mean to dream of losing glasses?",
+      "answer_en": "Dreaming of losing your glasses warns that obstacles may arise at work or that your key judgment may become clouded. It is also a signal that ongoing projects could hit setbacks or that something important may be overlooked. After this dream, it is wise to be extra careful when making important decisions."
+    },
+    {
+      "question_ko": "안경이 부러지는 꿈은 어떤 의미를 갖나요?",
+      "answer_ko": "안경이 부러지거나 렌즈가 깨지는 꿈은 소중한 사람과의 관계가 단절되거나 믿었던 사람에게 배신당할 수 있음을 경고하는 흉몽입니다. 중요한 인간관계나 파트너십에서 균열이 생길 가능성을 암시하므로, 주변 사람들과의 소통과 신뢰 관계를 점검해볼 필요가 있습니다.",
+      "question_en": "What does it mean when glasses break in a dream?",
+      "answer_en": "Dreaming of glasses breaking or lenses cracking is an ominous warning that a cherished relationship may be severed or that someone you trusted may betray you. It implies the possibility of a fracture forming in an important relationship or partnership, so it is worth examining communication and trust with the people around you."
+    },
+    {
+      "question_ko": "금테 안경을 쓰는 꿈은 무슨 의미인가요?",
+      "answer_ko": "금테 안경을 쓰는 꿈은 사회적 지위가 높아지거나 조직·단체에서 인정받는 일이 생길 것을 예고하는 길몽입니다. 권위 있는 위치에 오르거나 중요한 역할을 맡게 되는 것을 암시하며, 특히 직장이나 사업에서 승진·성공의 징조로 해석됩니다.",
+      "question_en": "What does dreaming of gold-framed glasses mean?",
+      "answer_en": "Dreaming of wearing gold-framed glasses is an auspicious omen foretelling a rise in social status or recognition within an organization. It suggests being elevated to an authoritative position or taking on an important role, and is especially interpreted as a sign of promotion or success in work or business."
+    },
+    {
+      "question_ko": "선글라스를 쓰는 꿈은 어떻게 해석하나요?",
+      "answer_ko": "선글라스를 쓰는 꿈은 감정을 숨기거나 진실을 외면하고자 하는 심리적 상태를 반영할 수 있습니다. 앞이 잘 보이지 않는 경우에는 현재 상황이 불투명하거나 해결책을 찾지 못하고 있다는 경고 신호이기도 합니다. 또한 자신의 감정을 과도하게 감추려 하거나 겉으로만 꾸미려는 태도를 조심하라는 메시지일 수도 있습니다.",
+      "question_en": "How is dreaming of sunglasses interpreted?",
+      "answer_en": "Dreaming of wearing sunglasses may reflect a psychological state of hiding emotions or turning away from the truth. If you cannot see clearly, it is also a warning signal that your current situation is opaque or that you are struggling to find a solution. It can also be a message to be cautious about excessively concealing your true feelings or focusing too much on outward appearances."
+    },
+    {
+      "question_ko": "안경을 선물받는 꿈은 좋은 꿈인가요?",
+      "answer_ko": "안경을 선물받는 꿈은 대체로 길몽입니다. 잘 풀리지 않던 문제가 해결되고 평화로운 국면이 찾아올 것을 암시합니다. 귀인의 도움을 받거나 새로운 관점을 얻게 됨으로써 어려운 상황이 전환점을 맞이할 것을 예고하는 긍정적인 꿈입니다.",
+      "question_en": "Is dreaming of receiving glasses as a gift a good dream?",
+      "answer_en": "Dreaming of receiving glasses as a gift is generally an auspicious omen. It suggests that problems that were not resolving will find their solutions and a peaceful phase is approaching. It is a positive dream foretelling that a difficult situation will reach a turning point through a benefactor's help or by gaining a new perspective."
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "symbol": {
+    "korean": "구토하는",
+    "english": "Vomiting",
+    "slug": "vomiting-dream"
+  },
+  "summary": {
+    "korean": "구토하는 꿈은 단순한 혐오스러운 장면을 넘어 깊은 상징적 의미를 담고 있습니다. 한국 전통 해몽에서 구토는 '내보냄'의 행위로 해석되며, 무언가를 밖으로 토해내는 것이 정화와 해방을 뜻할 때는 길몽, 소중한 것을 잃거나 뱉어내는 상황이면 흉몽으로 풀이됩니다. 꿈속에서 무엇을 토했는지, 어떤 감정이 남았는지가 길흉을 가르는 핵심 열쇠입니다.",
+    "english": "Vomiting dreams carry rich symbolic weight beyond mere disgust. In Korean folk dream interpretation, vomiting represents the act of 'expelling' — when expulsion means purification and release from burden, it is auspicious; when it means losing something valuable or precious, it is inauspicious. The key to reading this dream lies in what was expelled and how the dreamer felt afterward."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "빈속에 구토하는 꿈은 새로운 것을 창조하고 결실을 맺는다는 의미입니다. 지금 진행 중인 일이 성과를 거두고, 막힌 상황이 뚫리게 됩니다. 임신한 여성이 이 꿈을 꾸면 태몽으로 해석하기도 하며, 병을 앓는 사람이 꾸면 병마를 이겨낸다는 뜻으로 봅니다.",
+      "english": "Vomiting on an empty stomach symbolizes creating something new and bringing a project to fruition. Current endeavors will bear fruit and obstacles will clear. For a pregnant woman this dream may serve as a conception dream (태몽), and for a sick person it signals overcoming illness.",
+      "context": "empty-stomach vomiting"
+    },
+    {
+      "type": "길몽",
+      "korean": "경쟁자나 자신이 싫어하는 사람이 토하는 꿈은 꿈꾸는 사람의 운세가 경쟁자를 앞서는 것을 의미합니다. 시험, 사업, 인간관계에서 유리한 위치를 차지하게 됩니다.",
+      "english": "Dreaming that a rival or someone you dislike is vomiting indicates your fortune will surpass theirs. You will gain an advantageous position in competitions, business, or interpersonal matters.",
+      "context": "rival vomiting"
+    },
+    {
+      "type": "길몽",
+      "korean": "보석이나 황금을 토해내는 꿈은 귀인의 도움을 받거나 좋은 인연을 만나 사업이 번창하고 횡재수가 생기는 길몽입니다.",
+      "english": "Vomiting jewels or golden items is a highly auspicious dream signifying unexpected windfalls, assistance from a benefactor, and flourishing business prospects.",
+      "context": "vomiting valuables"
+    },
+    {
+      "type": "길몽",
+      "korean": "벌레나 이물질을 토해내는 꿈은 오랫동안 마음을 짓눌러 온 걱정거리나 문제가 해소된다는 신호입니다. 정신적·육체적 부담에서 벗어나 홀가분해지는 상황을 암시합니다.",
+      "english": "Vomiting insects or foreign objects signals the resolution of persistent worries and long-standing problems. It foretells relief from mental and physical burdens.",
+      "context": "vomiting unwanted objects"
+    },
+    {
+      "type": "흉몽",
+      "korean": "음식을 먹고 토하는 꿈은 권력, 명예, 지위의 상실을 암시합니다. 힘들게 쌓아 올린 것을 잃거나 강제로 돌려줘야 하는 상황이 생길 수 있으니 주의가 필요합니다.",
+      "english": "Vomiting after eating food warns of losing power, honor, or status. Something hard-earned may be taken away or forcibly returned.",
+      "context": "vomiting eaten food"
+    },
+    {
+      "type": "흉몽",
+      "korean": "술을 마신 후 토하는 꿈은 가족 간의 불화나 사업상의 실패를 경고합니다. 인간관계가 악화되거나 추진하던 계획이 어그러질 수 있습니다.",
+      "english": "Vomiting after drinking alcohol warns of family conflict or business failure. Relationships may deteriorate and planned ventures may fall apart.",
+      "context": "vomiting after drinking"
+    },
+    {
+      "type": "흉몽",
+      "korean": "피를 토하는 꿈은 재산 손실이나 사고 위험을 경고하는 흉몽으로 해석합니다. 건강 이상이나 예상치 못한 재정적 손실에 특히 주의해야 합니다.",
+      "english": "Vomiting blood is an inauspicious omen warning of property loss, accident risk, or health complications. Caution is advised regarding unexpected financial setbacks.",
+      "context": "vomiting blood"
+    },
+    {
+      "type": "흉몽",
+      "korean": "물을 토하는 꿈은 건강 이상의 징조로, 신체적·정신적 고통이 따를 수 있음을 암시합니다.",
+      "english": "Vomiting water signals health problems and potential physical or emotional suffering.",
+      "context": "vomiting water"
+    },
+    {
+      "type": "흉몽",
+      "korean": "모르는 사람이 토하는 꿈은 뜻밖의 사고나 질병이 찾아올 수 있음을 경고합니다. 주변 상황에 주의를 기울여야 합니다.",
+      "english": "A stranger vomiting in a dream warns of unexpected accidents or illness in the near future.",
+      "context": "stranger vomiting"
+    },
+    {
+      "type": "neutral",
+      "korean": "공공장소에서 토하는 꿈은 숨겨진 비밀이나 속임수가 드러날 가능성을 시사합니다. 감추어 왔던 사실이 주변에 알려지게 될 수 있습니다.",
+      "english": "Vomiting in a public place suggests hidden secrets or deceptions are about to be exposed. Information kept private may soon come to light.",
+      "context": "public vomiting"
+    },
+    {
+      "type": "neutral",
+      "korean": "가족이 토하는 꿈은 가족을 향한 억눌린 불만이나 표현하지 못한 감정이 있음을 반영합니다. 가족과의 솔직한 대화가 필요한 시기입니다.",
+      "english": "Family members vomiting in a dream reflects unexpressed frustration or pent-up emotions directed toward family. It is a sign that honest communication within the family is overdue.",
+      "context": "family member vomiting"
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "피를 토하는 꿈",
+      "keyword_en": "Vomiting blood dream",
+      "interpretation_ko": "재산 손실, 사고 위험, 건강 악화를 경고하는 흉몽입니다. 그러나 일부 해석에서는 현재 맡은 업무나 사업이 큰 이익을 창출할 뜻밖의 행운을 암시하기도 합니다. 꿈에서 느낀 감정(안도 vs. 공포)이 해석의 방향을 결정합니다.",
+      "interpretation_en": "Generally an inauspicious omen warning of property loss, accidents, or declining health. However, some interpretations suggest unexpected business profits. The emotional tone of the dream — relief versus fear — guides the interpretation."
+    },
+    {
+      "keyword_ko": "음식 먹고 토하는 꿈",
+      "keyword_en": "Vomiting after eating dream",
+      "interpretation_ko": "힘들게 얻은 권력, 명예, 재산을 잃거나 강제로 반납해야 하는 상황이 생길 수 있음을 경고합니다. 과욕을 부리지 말고 현재 가진 것을 소중히 여기라는 신호입니다.",
+      "interpretation_en": "Warns of losing or being forced to relinquish hard-earned power, reputation, or wealth. A signal to guard what you have and avoid overreach."
+    },
+    {
+      "keyword_ko": "보석을 토하는 꿈",
+      "keyword_en": "Vomiting jewels dream",
+      "interpretation_ko": "귀인의 도움이나 뜻밖의 횡재를 암시하는 대표적인 길몽입니다. 사업이 번창하고 좋은 인연을 만나는 행운이 찾아옵니다.",
+      "interpretation_en": "A highly auspicious dream indicating support from a benefactor, unexpected windfalls, and flourishing business. Good connections are on the horizon."
+    },
+    {
+      "keyword_ko": "술 마시고 토하는 꿈",
+      "keyword_en": "Vomiting after drinking alcohol dream",
+      "interpretation_ko": "가족 불화, 사업 실패, 인간관계 악화의 징조입니다. 추진 중인 계획에서 원하는 결과를 얻기 어려울 수 있으니 신중한 행동이 요구됩니다.",
+      "interpretation_en": "A sign of family discord, business failure, or deteriorating relationships. Plans in progress may not yield desired results — careful, measured action is advised."
+    },
+    {
+      "keyword_ko": "남이 토하는 꿈 (아는 사람)",
+      "keyword_en": "Someone you know vomiting dream",
+      "interpretation_ko": "꿈속에서 아는 사람이 토하면 그 사람과의 관계에서 미해결된 감정이나 갈등이 있음을 암시합니다. 경쟁자라면 내 운세가 앞서는 길몽이 되기도 합니다.",
+      "interpretation_en": "When someone familiar vomits in your dream, it may reveal unresolved emotions or conflict with that person. If it is a rival, it becomes auspicious — a sign your fortune surpasses theirs."
+    },
+    {
+      "keyword_ko": "모르는 사람이 토하는 꿈",
+      "keyword_en": "Stranger vomiting dream",
+      "interpretation_ko": "뜻밖의 사고, 질병, 또는 불미스러운 일이 발생할 수 있다는 경고입니다. 건강과 안전에 각별한 주의가 필요합니다.",
+      "interpretation_en": "A warning of unexpected accidents, illness, or misfortune. Extra attention to health and personal safety is recommended."
+    },
+    {
+      "keyword_ko": "벌레를 토하는 꿈",
+      "keyword_en": "Vomiting insects or worms dream",
+      "interpretation_ko": "오래 묵은 걱정과 문제로부터 해방되는 길몽입니다. 몸과 마음을 짓누르던 부담이 사라지고 가벼워지는 변화가 찾아옵니다.",
+      "interpretation_en": "An auspicious dream signaling liberation from longstanding worries and problems. Mental and physical burdens will lift, bringing a sense of lightness."
+    },
+    {
+      "keyword_ko": "임산부 구토하는 꿈",
+      "keyword_en": "Pregnant woman vomiting dream",
+      "interpretation_ko": "임신 중 구토하는 꿈은 어려움을 이겨내고 성공을 거둔다는 의미이며, 임신부가 공복에 토하는 꿈은 태몽으로 해석하기도 합니다.",
+      "interpretation_en": "A pregnant woman vomiting in a dream represents overcoming hardship and achieving success. Vomiting on an empty stomach is sometimes interpreted as a conception dream (태몽)."
+    },
+    {
+      "keyword_ko": "아기가 토하는 꿈",
+      "keyword_en": "Baby vomiting dream",
+      "interpretation_ko": "맡겨진 책임과 역할을 성공적으로 완수한다는 의미입니다. 현재의 프로젝트나 과제가 순조롭게 진행될 것임을 암시합니다.",
+      "interpretation_en": "Symbolizes successfully fulfilling responsibilities and duties. Current projects or tasks are likely to proceed smoothly."
+    },
+    {
+      "keyword_ko": "공공장소에서 토하는 꿈",
+      "keyword_en": "Vomiting in public dream",
+      "interpretation_ko": "감추어 왔던 비밀이나 거짓이 드러날 가능성을 경고합니다. 숨기고 싶었던 사실이 주변에 알려질 수 있으니 솔직함을 선택하는 것이 현명합니다.",
+      "interpretation_en": "A warning that hidden secrets or deceptions may be exposed. Choosing honesty now may be wiser than waiting for the truth to surface on its own."
+    },
+    {
+      "keyword_ko": "빈속에 토하는 꿈",
+      "keyword_en": "Vomiting on an empty stomach dream",
+      "interpretation_ko": "새로운 창조와 결실의 길몽입니다. 현재 추진 중인 일이 성과를 내고, 병중인 사람은 회복의 신호로 해석합니다.",
+      "interpretation_en": "An auspicious sign of new creation and fruition. Current endeavors will succeed; for the ill, it signals recovery."
+    }
+  ],
+  "culturalContext": {
+    "korean": "한국 전통 민간 신앙에서 구토는 '배출'과 '정화'의 이중 상징을 지닙니다. 몸속의 나쁜 기운이나 부정(不淨)을 뱉어냄으로써 새로운 기운을 받아들인다는 사고방식이 해몽 전반에 깔려 있습니다. 이는 한국의 무속 의례나 굿판에서 부정을 씻어내는 정화 의식과 맥락을 같이 합니다. 구체적으로 무엇을 토하는지가 중요한데, 이물질·벌레처럼 체내에 있으면 안 되는 것을 배출하면 길몽, 음식·피처럼 소중하고 필요한 것을 잃는 이미지면 흉몽으로 보는 것이 전통적 해석 원칙입니다. 또한 임산부의 입덧(공복 구토)은 새 생명을 품고 있다는 태몽의 신호로 해석되어 왔으며, 병중인 사람의 구토 꿈은 몸이 스스로 병을 이겨낸다는 자정 능력의 상징으로 여겨집니다.",
+    "english": "In Korean traditional folk belief, vomiting carries a dual symbolism of expulsion and purification. The underlying idea is that ejecting bad energy or impurity (부정) from the body allows fresh, positive energy to enter — a concept mirrored in shamanic ritual cleansing ceremonies (굿). What is expelled determines whether the dream is auspicious or inauspicious: expelling things that don't belong (worms, foreign objects) is seen as purification and is auspicious; losing what is valuable (food, blood) is inauspicious. Morning sickness-style vomiting for pregnant women has historically been read as a conception dream (태몽), while a sick person vomiting in a dream is seen as the body's self-healing force asserting itself."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트 관점에서 구토 꿈은 억압된 욕망이나 감정이 표면으로 올라오려는 시도를 상징합니다. 특히 구강 고착(oral fixation)과 연결되어, 심리적으로 소화하기 어려운 것을 '삼켰다가' 거부하는 과정으로 해석됩니다. 죄책감이나 혐오감을 유발하는 억압된 욕구가 꿈속에서 구토의 형태로 표출된다고 보았습니다.",
+      "english": "From a Freudian perspective, vomiting dreams symbolize repressed emotions or desires attempting to surface. Connected to oral fixation, the dream represents the psyche 'ingesting' something psychologically unacceptable and then rejecting it. Repressed desires associated with guilt or disgust find expression through the act of vomiting."
+    },
+    "jungian": {
+      "korean": "융 심리학에서 구토는 개성화(individuation) 과정의 일부로, 더 이상 자신의 진정한 자아와 일치하지 않는 페르소나의 측면을 벗어버리는 행위입니다. 그림자(shadow) 작업과도 연결되어 있으며, 구토는 무의식 속에 묻어두었던 그림자 내용물을 의식의 표면으로 끌어올리는 과정입니다. 정화와 심리적 균형 회복의 상징으로 해석됩니다.",
+      "english": "In Jungian psychology, vomiting represents part of the individuation process — shedding aspects of the persona that no longer align with the true self. It also connects to shadow work: bringing repressed shadow material to conscious awareness. Vomiting symbolizes purification and the restoration of psychic balance."
+    },
+    "modern": {
+      "korean": "현대 심리학에서 구토 꿈은 주로 높은 스트레스, 불안, 또는 미해결 갈등의 반영으로 이해됩니다. 몸이 의식적인 마음보다 더 잘 알고 있다는 '신체 지혜(body wisdom)'의 관점에서, 구토는 마음이 받아들이려 했지만 몸이 거부하는 독성 요소(인간관계, 상황, 신념)를 배출해야 한다는 무의식적 신호로 봅니다.",
+      "english": "Modern psychology typically reads vomiting dreams as reflections of high stress, anxiety, or unresolved conflicts. Through the lens of 'body wisdom,' vomiting represents the unconscious signaling that something toxic — a relationship, situation, or belief — needs to be expelled even when the conscious mind tries to accept it."
+    },
+    "crossCultural": {
+      "korean": "전 세계 여러 문화권에서 구토는 정화, 해방, 독소 제거의 보편적 상징으로 등장합니다. 중국 전통 해몽에서도 구토는 '배출을 통한 쇄신'의 의미를 가지며, 아메리카 원주민의 일부 의식에서는 실제 구토가 영적 정화를 위해 의도적으로 행해지기도 합니다. 다양한 문화권에서 공통적으로 '나쁜 것을 내보낸다'는 의미가 구토의 상징적 핵심에 자리합니다.",
+      "english": "Across cultures, vomiting appears as a universal symbol of purification, liberation, and removal of toxins. In Chinese dream tradition, vomiting similarly signifies renewal through expulsion. In some Indigenous American ritual contexts, induced vomiting was a deliberate act of spiritual cleansing. The shared core across cultures is the idea of 'expelling what is harmful' — a deeply human symbolic archetype."
+    }
+  },
+  "relatedSymbols": [
+    "blood-dream",
+    "sick-dream",
+    "stomach-dream",
+    "throat-dream",
+    "teeth-dream",
+    "hospital-dream",
+    "diarrhea-dream",
+    "food-dream"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "구토하는 꿈",
+      "토하는 꿈해몽",
+      "꿈에서 토하는 꿈",
+      "구역질 꿈 의미",
+      "피를 토하는 꿈",
+      "음식 먹고 토하는 꿈",
+      "술 마시고 토하는 꿈",
+      "남이 토하는 꿈",
+      "보석 토하는 꿈",
+      "빈속에 토하는 꿈",
+      "벌레 토하는 꿈",
+      "임산부 구토 꿈",
+      "공공장소 토하는 꿈",
+      "구토 꿈 길몽 흉몽"
+    ],
+    "english": [
+      "vomiting dream meaning",
+      "dream about throwing up",
+      "vomit in dream interpretation",
+      "dreaming of vomiting blood",
+      "someone vomiting in dream",
+      "vomiting dream spiritual meaning",
+      "Korean dream vomiting",
+      "vomiting dream psychology",
+      "dream vomiting jewels meaning",
+      "throwing up dream symbolism"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "구토하는 꿈은 무조건 흉몽인가요?",
+      "answer_ko": "아닙니다. 구토하는 꿈은 반드시 나쁜 꿈이 아닙니다. 무엇을 토하는지, 어떤 상황인지에 따라 길몽이 되기도 합니다. 빈속에 토하거나, 보석·이물질을 토하거나, 경쟁자가 토하는 꿈은 길몽으로 해석됩니다. 반면 음식을 먹고 토하거나, 피를 토하는 꿈은 흉몽으로 봅니다.",
+      "question_en": "Is a vomiting dream always a bad omen?",
+      "answer_en": "Not at all. Whether a vomiting dream is auspicious or inauspicious depends on what is vomited and the circumstances. Vomiting on an empty stomach, expelling jewels or foreign objects, or seeing a rival vomit are all auspicious signs. Vomiting after eating or vomiting blood, however, tend to be inauspicious warnings."
+    },
+    {
+      "question_ko": "피를 토하는 꿈은 어떤 의미인가요?",
+      "answer_ko": "피를 토하는 꿈은 일반적으로 재산 손실, 사고, 건강 악화를 경고하는 흉몽으로 해석됩니다. 다만 일부 해석에서는 현재 맡고 있는 사업이나 업무에서 뜻밖의 이익을 얻는다는 길몽으로 보기도 합니다. 꿈속에서 느낀 감정(공포 vs. 홀가분함)을 함께 고려해 해석하는 것이 중요합니다.",
+      "question_en": "What does it mean to dream of vomiting blood?",
+      "answer_en": "Vomiting blood in a dream is generally an inauspicious omen warning of financial loss, accidents, or health problems. However, some interpretations read it as a sign of unexpected profits in business or work. The emotional tone of the dream — whether you felt frightened or relieved — is an important guide to which interpretation applies."
+    },
+    {
+      "question_ko": "꿈에서 남이 토하는 것을 보면 무슨 뜻인가요?",
+      "answer_ko": "아는 사람이 토하면 그 사람과의 관계에서 억압된 감정이나 해결되지 않은 갈등이 있다는 신호입니다. 경쟁자나 싫어하는 사람이 토하는 꿈이라면 내 운세가 그 사람을 앞선다는 길몽입니다. 모르는 사람이 토하는 꿈은 뜻밖의 사고나 질병을 경고하는 흉몽으로 봅니다.",
+      "question_en": "What does it mean to watch someone else vomit in a dream?",
+      "answer_en": "If someone familiar vomits, it signals unresolved emotions or conflict in that relationship. If a rival or someone disliked is vomiting, it is auspicious — your fortune will outshine theirs. If a stranger vomits, it is a warning of unexpected accidents or illness."
+    },
+    {
+      "question_ko": "임산부가 구토하는 꿈을 꾸면 태몽인가요?",
+      "answer_ko": "임산부가 빈속에 구토하는 꿈을 꾸면 태몽으로 해석하는 전통이 있습니다. 임신 중 입덧을 상징하는 이미지가 꿈속에서 새 생명을 품은 징조로 연결된 것입니다. 물론 꿈해몽은 절대적인 과학이 아니므로, 하나의 상징적 해석으로 참고하시기 바랍니다.",
+      "question_en": "Can a pregnant woman's vomiting dream be a conception dream (태몽)?",
+      "answer_en": "Yes — in Korean dream tradition, a pregnant woman vomiting on an empty stomach is sometimes interpreted as a 태몽 (conception dream), evoking the imagery of morning sickness as a sign of carrying new life. This is a symbolic interpretation and should be taken as one cultural reading rather than a definitive prediction."
+    },
+    {
+      "question_ko": "구토하는 꿈을 자주 꾸면 어떤 의미가 있나요?",
+      "answer_ko": "구토하는 꿈을 반복적으로 꾼다면 현실에서 높은 스트레스나 해소되지 않은 감정이 누적되어 있다는 신호일 수 있습니다. 심리적으로 '배출하고 싶지만 배출하지 못하는' 무언가가 있을 때, 그 억압된 감정이 꿈속에서 구토의 형태로 나타나기도 합니다. 충분한 휴식과 함께 감정 표현의 기회를 갖는 것이 도움이 됩니다.",
+      "question_en": "What does it mean if I repeatedly dream about vomiting?",
+      "answer_en": "Recurring vomiting dreams often signal accumulated stress or unexpressed emotions in waking life. Psychologically, they may represent something you feel an urge to 'expel' but cannot — suppressed feelings finding their outlet in dream imagery. Prioritizing rest and finding healthy channels for emotional expression can help."
+    },
+    {
+      "question_ko": "술 마시고 토하는 꿈은 왜 흉몽인가요?",
+      "answer_ko": "한국 전통 해몽에서 술은 인간관계와 교류를 상징합니다. 술을 마신 뒤 토하는 꿈은 그 관계나 교류에서 얻은 것(이익, 신뢰, 기회)을 잃어버린다는 이미지로 해석됩니다. 가족 불화나 사업 실패를 경고하는 흉몽으로 보는 이유가 여기 있습니다.",
+      "question_en": "Why is dreaming of vomiting after drinking considered inauspicious?",
+      "answer_en": "In Korean folk dream interpretation, alcohol symbolizes relationships and social exchange. Vomiting after drinking represents losing what was gained through those relationships — trust, opportunity, or benefit. This is why the dream is read as a warning of family discord or business failure."
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "symbol": {
+    "korean": "땀을 흘리는 꿈",
+    "english": "Sweating Dream",
+    "slug": "sweating-dream"
+  },
+  "summary": {
+    "korean": "땀을 흘리는 꿈은 심리적 긴장과 스트레스, 노력의 과정, 혹은 기력 소진을 상징합니다. 꿈속 상황에 따라 근심과 피로를 예고하기도 하지만, 수건으로 땀을 닦는 꿈은 마음의 안정과 기력 회복을 뜻하는 길한 신호로 풀이됩니다.",
+    "english": "Dreaming of sweating symbolizes psychological tension, ongoing effort, or the depletion of vital energy. Depending on the context, it may foretell worry and fatigue, but wiping away sweat signals emotional relief and the recovery of strength — a more auspicious sign."
+  },
+  "interpretations": [
+    {
+      "type": "흉몽",
+      "korean": "땀을 많이 흘리는 꿈은 기력이 쇠퇴하거나 의욕을 잃을 수 있다는 신호입니다. 전통 해몽에서는 땀이 솟아나는 것을 길하지 못한 징조로 보아 근심 걱정이 생기거나 건강이 악화될 수 있음을 경고합니다.",
+      "english": "Sweating profusely in a dream warns of declining vitality and loss of motivation. In traditional Korean dream lore, sudden sweating is considered an inauspicious sign that may foretell worry, illness, or waning strength.",
+      "context": "과도한 땀 분비, 통제 불가능한 땀"
+    },
+    {
+      "type": "흉몽",
+      "korean": "식은땀을 흘리는 꿈은 두려움이나 공포, 심리적 압박감을 나타냅니다. 숨겨진 불안이 표면으로 드러나거나, 현실에서 해결하지 못한 걱정거리가 꿈으로 나타나는 경우가 많습니다.",
+      "english": "Cold sweats in a dream represent deep fear, psychological pressure, or hidden anxiety rising to the surface. It often reflects unresolved worries in waking life that the mind is struggling to process.",
+      "context": "공포나 긴장감 속에서 흘리는 식은땀"
+    },
+    {
+      "type": "neutral",
+      "korean": "운동이나 힘든 육체적 활동 중에 땀을 흘리는 꿈은 노력과 과정의 상징입니다. 현재의 수고가 쌓이고 있음을 의미하며, 결과보다 과정에 집중하라는 메시지로 해석됩니다.",
+      "english": "Sweating during exercise or physical exertion in a dream symbolizes ongoing effort and the value of process. It suggests that hard work is accumulating and encourages focus on the journey rather than immediate results.",
+      "context": "운동, 작업 중 흘리는 땀"
+    },
+    {
+      "type": "길몽",
+      "korean": "땀을 수건으로 닦아내는 꿈은 마음이 편안한 상태를 나타내며, 기력이 회복될 것을 암시합니다. 근심이 해소되고 안정을 되찾는 길한 꿈으로 풀이됩니다.",
+      "english": "Wiping away sweat with a towel in a dream is an auspicious sign indicating emotional ease and the recovery of energy. It suggests that worries will resolve and stability will be restored.",
+      "context": "땀을 닦거나 씻어내는 행위"
+    },
+    {
+      "type": "길몽",
+      "korean": "누군가의 땀을 닦아주는 꿈은 그 상대방에게 좋은 일이 일어나거나 회복과 성과의 징조로 봅니다. 상대방의 노력이 결실을 맺거나 어려운 상황이 나아질 것을 예고합니다.",
+      "english": "Wiping someone else's sweat in a dream is a positive sign for that person — it suggests their efforts are bearing fruit and that difficult circumstances will improve.",
+      "context": "타인의 땀을 닦아주는 행위"
+    },
+    {
+      "type": "흉몽",
+      "korean": "피땀을 흘리는 꿈은 극도의 고통, 희생, 또는 생명력의 위기를 상징합니다. 신체적·정신적으로 한계에 몰렸거나 과도한 희생을 요구받고 있음을 경고합니다.",
+      "english": "Sweating blood in a dream symbolizes extreme suffering, sacrifice, or a crisis of vital energy. It warns that the dreamer may be pushed to their limits — physically, emotionally, or spiritually.",
+      "context": "피땀을 흘리는 극단적 상황"
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "땀을 많이 흘리는 꿈",
+      "keyword_en": "Sweating profusely dream",
+      "interpretation_ko": "기력 소진과 의욕 저하의 징조입니다. 몸과 마음이 지쳐 있음을 나타내며, 충분한 휴식과 재충전이 필요함을 알려주는 꿈입니다. 무리한 일이나 부담스러운 상황에서 벗어날 필요가 있습니다.",
+      "interpretation_en": "A sign of depleted vitality and diminishing motivation. This dream indicates physical and emotional exhaustion, urging rest and recuperation. It may signal the need to step back from overwhelming responsibilities."
+    },
+    {
+      "keyword_ko": "식은땀을 흘리는 꿈",
+      "keyword_en": "Cold sweat dream",
+      "interpretation_ko": "깊은 불안감이나 두려움, 숨겨진 죄책감을 상징합니다. 현실에서 해결되지 않은 긴장감이 잠재의식에서 표출되는 경우로, 스스로 두려워하고 있는 상황이나 대면하기 어려운 문제가 있음을 암시합니다.",
+      "interpretation_en": "Symbolizes deep anxiety, fear, or hidden guilt. Cold sweats in dreams often represent unresolved tension from waking life surfacing through the subconscious — pointing to a situation the dreamer fears or a problem difficult to face."
+    },
+    {
+      "keyword_ko": "운동 중 땀 흘리는 꿈",
+      "keyword_en": "Sweating during exercise dream",
+      "interpretation_ko": "노력과 성취를 향한 과정을 상징합니다. 현실에서 목표를 향해 열심히 달려가고 있음을 반영하며, 꾸준한 노력이 결실로 이어질 것임을 알려주는 중립적 혹은 긍정적인 꿈입니다.",
+      "interpretation_en": "Symbolizes the process of effort and achievement. This dream reflects diligent pursuit of goals in waking life and suggests that sustained effort will ultimately yield positive results."
+    },
+    {
+      "keyword_ko": "잠자다가 땀을 흘리는 꿈 (야간 발한)",
+      "keyword_en": "Night sweats dream",
+      "interpretation_ko": "신체의 어딘가에 이상이 생기거나 건강에 이상이 올 수 있음을 경고합니다. 전통적으로 야간에 흘리는 땀은 기력이 빠져나가는 신호로 보아, 건강 관리에 주의를 기울여야 함을 알려줍니다.",
+      "interpretation_en": "A warning of potential physical imbalance or deteriorating health. In Korean folk tradition, night sweats signify vital energy escaping the body, urging the dreamer to pay closer attention to their health and well-being."
+    },
+    {
+      "keyword_ko": "피땀을 흘리는 꿈",
+      "keyword_en": "Sweating blood dream",
+      "interpretation_ko": "극도의 희생과 고통, 생명력의 위기를 나타냅니다. 몸과 마음이 한계에 달했거나, 현실에서 지나치게 자신을 희생하고 있음을 경고합니다. 감당하기 어려운 짐을 내려놓아야 할 시점임을 암시합니다.",
+      "interpretation_en": "Represents extreme sacrifice, intense suffering, and a critical depletion of life energy. This vivid dream warns that the dreamer may be sacrificing too much of themselves in waking life and suggests it is time to set down an unbearable burden."
+    },
+    {
+      "keyword_ko": "타인의 땀을 닦아주는 꿈",
+      "keyword_en": "Wiping someone else's sweat dream",
+      "interpretation_ko": "상대방에게 좋은 일이 생기거나 그 사람이 어려운 상황을 극복하고 있다는 길한 신호입니다. 친밀한 사람을 향한 배려와 지지가 상대방에게 긍정적 결과로 돌아올 것을 암시합니다.",
+      "interpretation_en": "An auspicious sign indicating that the person whose sweat is being wiped will experience good fortune or overcome difficulties. It reflects the positive impact of care and support on those close to the dreamer."
+    },
+    {
+      "keyword_ko": "땀을 닦아내는 꿈",
+      "keyword_en": "Wiping away one's own sweat dream",
+      "interpretation_ko": "마음의 평안이 찾아오고 기력이 회복되는 길한 꿈입니다. 근심과 피로가 해소되고 안정을 되찾게 됨을 의미하며, 어려운 시기를 지나 나아지는 국면을 예고합니다.",
+      "interpretation_en": "An auspicious dream signaling emotional peace and the restoration of energy. It suggests that worry and fatigue will lift, stability will return, and a difficult period is giving way to better circumstances."
+    },
+    {
+      "keyword_ko": "온몸이 땀으로 젖는 꿈",
+      "keyword_en": "Drenched in sweat dream",
+      "interpretation_ko": "극심한 스트레스나 감당하기 어려운 부담감이 신체적 증상으로 표출되는 꿈입니다. 심리적 압박이 위험 수위에 달했으며, 현재의 상황을 재검토하고 쉬어가야 할 필요가 있음을 나타냅니다.",
+      "interpretation_en": "This dream reflects extreme stress or overwhelming pressure manifesting as a physical symptom. It indicates that psychological burden has reached a critical level, urging the dreamer to reassess their situation and take restorative rest."
+    }
+  ],
+  "culturalContext": {
+    "korean": "한국 전통 민속 해몽에서 땀은 신체의 기(氣)와 직결된 체액으로 여겨졌습니다. 한의학적 관점에서 땀은 심장의 액(液)으로, 과도하게 흘리면 심기(心氣)가 손상된다고 보았습니다. 이에 따라 꿈속에서 땀이 솟구치는 것은 기력의 소진이나 심신의 불균형을 경고하는 신호로 전통적으로 해석되어 왔습니다. 반면, 노력 끝에 흘리는 땀은 수고의 결실을 상징하는 긍정적 이미지로 쓰이기도 했습니다. 한국 민간에서는 '땀이 솟으면 길하지 못하다'는 속설이 전해지며, 특히 잠자리에서 흘리는 식은땀(도한, 盜汗)은 원기가 몰래 빠져나가는 것으로 보아 건강의 이상 징후로 경계해왔습니다.",
+    "english": "In Korean traditional folk interpretation, sweat was considered a bodily fluid intimately connected to a person's vital qi (氣). From a Korean medicine perspective, sweat is the fluid of the heart; excessive sweating was believed to damage the heart's qi. Accordingly, sweating in dreams was traditionally read as a warning of depleted energy or imbalance between body and mind. However, sweat earned through toil carried a more positive symbolism — representing the fruits of hard work. A Korean folk saying holds that 'if sweat rises, fortune does not.' Night sweats in particular (도한, 盜汗, meaning 'thieving sweat') were viewed as vital energy secretly escaping the body, and treated as a health warning requiring careful attention."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트적 관점에서 꿈속의 땀은 억압된 불안이나 죄책감이 신체적 반응으로 표출된 것입니다. 이드(id)의 충동과 초자아(superego)의 검열 사이에서 자아(ego)가 압박을 받을 때, 그 내적 갈등이 발한(發汗)이라는 신체적 증상으로 드러난다고 봅니다. 특히 식은땀은 억압된 성적 긴장이나 금기된 욕망에 대한 처벌 불안을 상징할 수 있습니다.",
+      "english": "From a Freudian perspective, sweating in dreams represents repressed anxiety or guilt manifesting as a physical response. When the ego is pressured between the id's impulses and the superego's censorship, the resulting internal conflict expresses itself as bodily symptoms like sweating. Cold sweats in particular may symbolize punishment anxiety connected to repressed sexual tension or forbidden desires."
+    },
+    "jungian": {
+      "korean": "융 심리학에서 땀은 변환(transformation)의 과정을 상징합니다. 땀은 내면의 연금술적 용해(solutio) 과정 — 즉, 굳어진 자아의 틀이 녹아내리며 새로운 자기(Self)로 재탄생하는 과정 — 의 물리적 표현으로 해석됩니다. 피땀은 영웅의 시련을 상징하며, 개성화(individuation)의 여정에서 치러야 하는 고통스러운 통과의례로 봅니다.",
+      "english": "In Jungian psychology, sweat symbolizes the transformational process. It is interpreted as a physical expression of the inner alchemical solutio — the dissolution of a rigid ego structure as the psyche melts and re-forms into a renewed Self. Sweating blood represents the hero's ordeal — a painful rite of passage that must be endured on the path toward individuation."
+    },
+    "modern": {
+      "korean": "현대 심리학에서 꿈속 땀은 대체로 수면 중 각성 반응(arousal response)과 연결된 신체 감각의 반영으로 봅니다. 낮 동안 경험한 만성 스트레스, 번아웃, 혹은 수행 불안(performance anxiety)이 렘(REM) 수면 중 신체 감각으로 재현되는 경우가 많습니다. 인지행동치료적 관점에서는 땀 꿈이 현실에서 회피하고 있는 문제를 인식하고 직면하도록 촉구하는 심리적 신호로 해석됩니다.",
+      "english": "Modern psychology generally views sweating in dreams as the mind reflecting physiological arousal responses during sleep. Chronic stress, burnout, or performance anxiety experienced during the day frequently resurface as bodily sensations during REM sleep. From a cognitive-behavioral perspective, sweating dreams serve as a psychological signal urging the dreamer to acknowledge and confront problems they may be avoiding in waking life."
+    },
+    "crossCultural": {
+      "korean": "문화권을 넘어서 꿈속의 땀은 대체로 노력, 두려움, 혹은 내적 정화의 상징으로 수렴됩니다. 서양 기독교 전통에서는 '피땀'이 그리스도의 겟세마네 기도를 연상시켜 극도의 고뇌와 헌신을 상징합니다. 인도 전통에서는 땀이 불순물이 몸 밖으로 배출되는 정화의 상징으로 여겨지기도 합니다. 아메리카 원주민 일부 문화에서는 땀 흘리기 의례(스웨트 로지)가 영적 정화와 변환의 의례이며, 꿈속 땀 역시 그러한 정화와 재생의 의미를 담는 것으로 해석됩니다.",
+      "english": "Across cultures, sweating in dreams generally converges around themes of effort, fear, and inner purification. In Western Christian tradition, 'bloody sweat' evokes Christ's prayer at Gethsemane, symbolizing extreme anguish and devotion. In Indian tradition, sweat can represent the expulsion of impurities — a symbol of purification. In some Native American cultures, the sweat lodge ceremony is a spiritual rite of purification and transformation, and sweat in dreams is similarly interpreted as a sign of cleansing and renewal."
+    }
+  },
+  "relatedSymbols": [
+    "fever-dream",
+    "running-dream",
+    "being-chased-dream",
+    "exhaustion-dream",
+    "crying-dream",
+    "bathing-dream",
+    "illness-dream",
+    "blood-dream"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "땀 흘리는 꿈해몽",
+      "땀나는 꿈",
+      "식은땀 꿈해몽",
+      "땀 꿈 의미",
+      "땀을 많이 흘리는 꿈",
+      "땀 닦는 꿈",
+      "피땀 꿈해몽",
+      "땀 흘리는 꿈 길몽 흉몽",
+      "꿈속에서 땀이 나는 이유",
+      "땀 꿈풀이",
+      "온몸에 땀이 나는 꿈",
+      "야간 발한 꿈해몽"
+    ],
+    "english": [
+      "sweating dream meaning",
+      "dream about sweating",
+      "cold sweat dream interpretation",
+      "profuse sweating dream",
+      "sweating blood dream meaning",
+      "Korean dream interpretation sweating",
+      "night sweats dream symbolism",
+      "wiping sweat dream meaning"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "땀을 많이 흘리는 꿈은 길몽인가요, 흉몽인가요?",
+      "answer_ko": "일반적으로 땀을 과도하게 흘리는 꿈은 흉몽으로 분류됩니다. 기력이 쇠퇴하거나 근심이 생길 수 있다는 경고의 메시지를 담고 있습니다. 다만, 운동이나 노력의 결과로 땀을 흘리거나 땀을 닦아내는 꿈은 긍정적인 의미를 지닙니다.",
+      "answer_en": "Dreaming of excessive sweating is generally classified as an inauspicious sign (흉몽), carrying a warning message about declining vitality or approaching worry. However, sweating as a result of exercise or effort, or the act of wiping sweat away, carries a more positive meaning.",
+      "question_en": "Is dreaming about sweating a good or bad omen?"
+    },
+    {
+      "question_ko": "식은땀을 흘리는 꿈은 무엇을 의미하나요?",
+      "answer_ko": "식은땀을 흘리는 꿈은 숨겨진 불안, 두려움, 또는 심리적 압박감이 잠재의식에서 표출되는 것입니다. 현실에서 직면하기 두려운 상황이나 해결되지 않은 갈등이 있음을 의미하며, 이를 인식하고 해소하는 것이 중요합니다.",
+      "answer_en": "Dreaming of cold sweats reflects hidden anxiety, fear, or psychological pressure surfacing from the subconscious. It typically means there is a situation in waking life you are afraid to face or an unresolved conflict that needs to be acknowledged and addressed."
+    },
+    {
+      "question_ko": "누군가의 땀을 닦아주는 꿈의 의미는 무엇인가요?",
+      "answer_ko": "상대방에게 좋은 일이 일어나거나 그 사람이 어려운 상황을 극복할 징조로 봅니다. 특히 아픈 사람의 땀을 닦아주는 꿈은 그 사람의 회복과 호전을 예고하는 길한 꿈으로 해석됩니다.",
+      "answer_en": "Wiping away someone else's sweat in a dream is considered an auspicious sign for that person — it suggests they will experience good fortune or overcome difficulties. If the person is ill, this dream is particularly positive and may foretell their recovery."
+    },
+    {
+      "question_ko": "꿈에서 피땀을 흘렸는데, 어떤 의미인가요?",
+      "answer_ko": "피땀을 흘리는 꿈은 극심한 고통과 희생, 또는 생명력의 위기를 상징하는 강렬한 꿈입니다. 현실에서 신체적·정신적 한계에 몰려 있거나, 과도한 희생을 강요받고 있다는 경고입니다. 자신을 돌보고 쉬어야 할 필요가 있음을 강하게 알려주는 신호입니다.",
+      "answer_en": "Sweating blood in a dream is a vivid and intense symbol of extreme suffering, sacrifice, or a serious depletion of life energy. It serves as a strong warning that you may be pushed to your physical or emotional limits in waking life, and that it is urgent to rest and care for yourself."
+    },
+    {
+      "question_ko": "한의학에서는 꿈속의 땀을 어떻게 해석하나요?",
+      "answer_ko": "한의학에서 땀은 심장의 액(液)으로, 과도한 발한은 심기(心氣)를 손상시킨다고 봅니다. 꿈속에서 땀이 많이 나는 것은 심신의 불균형이나 기력 저하를 경고하는 신호로 해석되며, 특히 도한(盜汗, 수면 중 식은땀)은 신체의 원기가 빠져나가는 이상 징후로 주의를 기울여야 한다고 합니다.",
+      "answer_en": "In Korean traditional medicine, sweat is considered the fluid of the heart, and excessive sweating is believed to damage the heart's vital qi. Profuse sweating in dreams is interpreted as a warning sign of imbalance between body and mind. Night sweats in particular — called 도한 (盜汗, 'thieving sweat') — are viewed as an alarming sign of vital energy escaping the body, warranting close attention to one's health."
+    },
+    {
+      "question_ko": "운동하다가 땀 흘리는 꿈을 꿨는데 어떤 의미인가요?",
+      "answer_ko": "운동 중 땀을 흘리는 꿈은 노력과 과정을 상징하는 중립적 또는 긍정적인 꿈입니다. 현실에서 목표를 향해 열심히 나아가고 있음을 반영하며, 꾸준한 수고가 머지않아 결실을 맺게 될 것임을 암시합니다.",
+      "answer_en": "Dreaming of sweating during exercise is a neutral to positive symbol representing effort and the pursuit of a goal. It reflects your diligent work in waking life and suggests that sustained perseverance will soon produce tangible results."
+    }
+  ]
+}

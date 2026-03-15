@@ -1,0 +1,217 @@
+{
+  "symbol": {
+    "korean": "피를 토하는",
+    "english": "Vomiting Blood",
+    "slug": "vomiting-blood-dream"
+  },
+  "summary": {
+    "korean": "피를 토하는 꿈은 한국 전통 해몽에서 의외로 길몽으로 해석되는 경우가 많습니다. 피는 생명력·재물·활력의 상징으로, 입으로 피를 토해내는 행위는 억압된 감정과 스트레스의 해소, 그리고 새로운 재물운의 유입을 뜻합니다. 단, 꿈에서 느낀 감정이 쾌감·후련함이면 길몽, 통증·불쾌감이면 흉몽으로 갈립니다.",
+    "english": "Dreaming of vomiting blood is, perhaps surprisingly, often interpreted as auspicious in Korean folk dream tradition. Blood symbolizes life force, wealth, and vitality — and the act of expelling it from the mouth represents the release of pent-up stress, emotional burdens, and the arrival of unexpected fortune. The key determinant is how the dream felt: relief and lightness point to good luck, while pain or distress signal hardship ahead."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "입에서 피를 갑자기 토하는 꿈은 경제적으로 어려운 상황이 서서히 호전되고 기대치 않은 재물이나 돈이 들어올 징조입니다. 피의 양이 많을수록 재운이 크다고 봅니다.",
+      "english": "Suddenly vomiting blood from the mouth signals that a difficult financial period is gradually improving and unexpected wealth or money is on its way. The greater the volume of blood, the greater the anticipated fortune.",
+      "context": "재물운·금전운 상승의 대표적 길몽 해석"
+    },
+    {
+      "type": "길몽",
+      "korean": "피를 토하고 나서 속이 후련하고 상쾌한 기분이 드는 꿈은 현재 쌓인 스트레스와 근심이 해소되고 활기찬 생활로 전환된다는 신호입니다.",
+      "english": "If vomiting blood in the dream is followed by a feeling of relief and freshness, it signals that accumulated stress and worries are about to dissolve, making way for an energetic and positive period in waking life.",
+      "context": "감정 정화(카타르시스)와 스트레스 해소의 상징"
+    },
+    {
+      "type": "길몽",
+      "korean": "피가 멈추지 않고 계속해서 나오는 꿈은 자신과 가족이 겪고 있는 근심이나 어려움이 해결되고, 진행 중인 일들이 순조롭게 풀리는 징조입니다.",
+      "english": "Blood that keeps flowing continuously without stopping signifies that personal and family troubles will be resolved and that ongoing projects or plans will proceed smoothly.",
+      "context": "지속적인 길운과 가정 내 문제 해결"
+    },
+    {
+      "type": "길몽",
+      "korean": "피를 토하면서 목이 아프다가 낫는 꿈은 당면한 문제의 해결책을 발견하고 근심에서 해방되는 것을 의미합니다.",
+      "english": "Dreaming of throat pain while vomiting blood, followed by relief, means that solutions to current problems will be discovered and freedom from worry is near.",
+      "context": "문제 해결과 고통 극복의 상징"
+    },
+    {
+      "type": "흉몽",
+      "korean": "피를 토하고 난 뒤에도 여전히 기분이 나쁘거나 통증이 지속되는 꿈은 건강 악화나 재정적 어려움이 다가올 수 있음을 경고합니다.",
+      "english": "When vomiting blood is followed by lingering pain, discomfort, or a bad feeling in the dream, it is a warning that health deterioration or financial hardship may be approaching.",
+      "context": "부정적 감정이 동반될 때의 흉몽 해석"
+    },
+    {
+      "type": "흉몽",
+      "korean": "피를 토해 몸이 쇠약해지는 꿈은 진행 중인 일에 방해가 생기거나 금전적 손실이 발생할 수 있음을 암시합니다.",
+      "english": "A dream in which vomiting blood leaves the body weakened and drained suggests interference in ongoing endeavors and the possibility of financial loss.",
+      "context": "사업·업무 차질과 경제적 손실 경고"
+    },
+    {
+      "type": "흉몽",
+      "korean": "기침을 하다가 피를 토하는 꿈은 정신적·육체적으로 극도로 피로가 쌓인 상태를 반영하며, 심각한 건강 문제에 대한 경각심을 일깨웁니다.",
+      "english": "Coughing and then vomiting blood in a dream reflects extreme mental and physical exhaustion and serves as a wake-up call to pay attention to serious health concerns.",
+      "context": "과로와 건강 경고의 흉몽"
+    },
+    {
+      "type": "neutral",
+      "korean": "다른 사람이 피를 토하는 꿈은 그 사람의 건강이나 재정 상태가 나빠질 수 있음을 예시하거나, 그 사람과의 관계에서 오해·구설수가 생길 징조로 봅니다.",
+      "english": "Dreaming that another person vomits blood may foreshadow deterioration in that person's health or finances, or indicate that misunderstandings and rumors may arise in your relationship with them.",
+      "context": "타인에 대한 걱정 또는 관계 갈등의 신호"
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "피를 많이 토하는 꿈",
+      "keyword_en": "vomiting a large amount of blood dream",
+      "interpretation_ko": "토해내는 피의 양이 많을수록 앞으로 들어올 재물운이나 행운의 크기도 크다고 해석합니다. 사업가나 투자자에게 특히 좋은 징조로 여겨집니다.",
+      "interpretation_en": "The larger the volume of blood expelled, the greater the incoming fortune or good luck. This variation is considered especially auspicious for entrepreneurs and investors."
+    },
+    {
+      "keyword_ko": "피를 조금 토하는 꿈",
+      "keyword_en": "vomiting a small amount of blood dream",
+      "interpretation_ko": "소량의 피를 토하는 꿈은 소소한 스트레스 해소나 작은 재물의 유입을 나타내며, 크게 길흉을 따지기보다는 현재 감정 상태를 점검하라는 신호로 봅니다.",
+      "interpretation_en": "Vomiting a small amount of blood indicates minor stress relief or modest financial gains. It is more of a gentle signal to check your current emotional and physical state than a strong omen either way."
+    },
+    {
+      "keyword_ko": "선명한 붉은 피를 토하는 꿈",
+      "keyword_en": "vomiting bright red blood dream",
+      "interpretation_ko": "선명하고 깨끗한 붉은 피는 강한 생명력과 왕성한 에너지를 상징합니다. 새로운 사업 기회나 열정적인 활동이 시작될 징조로 길몽에 해당합니다.",
+      "interpretation_en": "Bright, vivid red blood symbolizes strong life force and vigorous energy. It is an auspicious sign pointing to new business opportunities or the start of passionate, energetic activity."
+    },
+    {
+      "keyword_ko": "검거나 탁한 피를 토하는 꿈",
+      "keyword_en": "vomiting dark or murky blood dream",
+      "interpretation_ko": "탁하거나 검은색 피는 억압된 분노, 독소, 해결되지 않은 감정적 짐을 상징합니다. 건강 이상이나 감정적 소진에 대한 경고로 흉몽으로 해석됩니다.",
+      "interpretation_en": "Dark or murky blood symbolizes suppressed anger, toxicity, or unresolved emotional burdens. It is interpreted as a warning sign regarding health problems or emotional exhaustion — a inauspicious dream."
+    },
+    {
+      "keyword_ko": "음식과 함께 피를 토하는 꿈",
+      "keyword_en": "vomiting blood mixed with food dream",
+      "interpretation_ko": "음식과 함께 피가 나오는 꿈은 재물 획득 과정에서의 어려움 또는 과욕으로 인한 손실을 의미할 수 있습니다. 욕심을 절제하라는 경고로 해석됩니다.",
+      "interpretation_en": "Vomiting blood mixed with food can suggest difficulties in the process of accumulating wealth or losses caused by overgreed. It is interpreted as a warning to practice restraint."
+    },
+    {
+      "keyword_ko": "물을 마시다 피를 토하는 꿈",
+      "keyword_en": "vomiting blood while drinking water dream",
+      "interpretation_ko": "물을 마시는 중 갑자기 피를 토하는 꿈은 예상치 못한 어려움이 닥쳐올 수 있는 주의 꿈입니다. 현재 진행 중인 일에 돌발 변수가 생길 수 있으니 대비하라는 신호입니다.",
+      "interpretation_en": "Vomiting blood while drinking water is a cautionary dream suggesting that unexpected difficulties may arise. It is a signal to prepare for sudden variables in ongoing plans."
+    },
+    {
+      "keyword_ko": "연인·배우자가 피를 토하는 꿈",
+      "keyword_en": "romantic partner or spouse vomiting blood dream",
+      "interpretation_ko": "연인이나 배우자가 피를 토하는 꿈은 그 사람에게 사고나 건강 이상이 생길 수 있다는 경고이거나, 두 사람의 관계에서 숨겨진 갈등이 표면으로 드러날 수 있음을 암시합니다.",
+      "interpretation_en": "A romantic partner or spouse vomiting blood in your dream may warn of an accident or health issue befalling that person, or suggest that hidden tensions in the relationship are about to surface."
+    },
+    {
+      "keyword_ko": "타인이 자신의 옷에 피를 토하는 꿈",
+      "keyword_en": "someone vomiting blood onto your clothes dream",
+      "interpretation_ko": "다른 사람이 자신의 옷에 피를 토하는 꿈은 억울한 오해나 구설수에 오를 수 있다는 경고입니다. 말과 행동을 신중히 하라는 신호로 봅니다.",
+      "interpretation_en": "Someone vomiting blood onto your clothes warns that you may become the subject of misunderstandings or malicious gossip. It is a signal to be careful with your words and actions."
+    },
+    {
+      "keyword_ko": "각혈하는 꿈 (폐에서 피)",
+      "keyword_en": "coughing up blood (hemoptysis) dream",
+      "interpretation_ko": "기침을 통해 폐에서 피가 올라오는 각혈 꿈은 육체적·정신적 과부하 상태를 직접적으로 반영합니다. 심각한 스트레스 누적이나 건강 문제에 대한 신체의 경고 신호일 수 있습니다.",
+      "interpretation_en": "Dreaming of coughing up blood from the lungs (hemoptysis) directly reflects a state of physical and mental overload. It may be the body's symbolic warning signal about severe accumulated stress or health concerns."
+    }
+  ],
+  "culturalContext": {
+    "korean": "한국 민속 해몽에서 피(血)는 단순한 체액이 아닌 생명력(生命力), 재물, 열정, 가문의 기운을 상징하는 핵심 요소입니다. '피는 물보다 진하다'는 속담처럼 피는 혈연 공동체의 결속과 생명의 근원을 뜻하며, 꿈에서 피가 나오는 것은 이 생명 에너지가 활성화되어 밖으로 발현된다는 의미로 해석됩니다. 특히 입으로 피를 토해내는 꿈은 한(恨)·울화·스트레스 등 내면에 억눌린 감정이 마침내 해소되는 '정화(淨化)의 행위'로 보아, 역설적으로 길몽으로 해석하는 전통이 강합니다. 또한 피의 색이 선명할수록 강한 생명력, 탁하거나 검을수록 부정적 에너지로 판단하는 음양오행적 색채 해석도 적용됩니다. 예로부터 붉은색은 액(厄)을 쫓고 생명을 북돋우는 색으로, 제사나 부적에서도 붉은색이 중요한 역할을 했기에 꿈 속의 붉은 피 역시 수호와 재물의 의미를 담는 경우가 많습니다.",
+    "english": "In Korean folk dream interpretation, blood (피/血) is far more than a bodily fluid — it is a core symbol of life force (생명력), wealth, passion, and the vitality of one's lineage. Just as the proverb 'blood is thicker than water' (피는 물보다 진하다) attests, blood represents the bonds of family and the source of all life. In dreams, blood emerging from the body is interpreted as this life energy becoming activated and manifesting outward. The act of vomiting blood in particular carries a strong traditional reading as a purification (정화) ritual — a cathartic expulsion of suppressed han (恨, accumulated sorrow and resentment), frustration, and stress — making it paradoxically auspicious. Color plays a crucial role: bright red blood signals strong vitality under the yin-yang color framework, while dark or murky blood indicates negative energy. Red has historically been the color that wards off evil and invites good fortune in Korean shamanistic practice, appearing prominently in rituals and amulets — giving bright red blood in dreams an association with protection and incoming prosperity."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트적 관점에서 피를 토하는 꿈은 억압된 공격성, 분노, 혹은 죄책감의 외현화로 해석됩니다. 입은 언어와 표현의 기관이므로, 입에서 피를 토해내는 행위는 무의식 속에 억눌린 말이나 감정을 마침내 표출하고 싶은 욕구를 상징할 수 있습니다. 또한 피는 리비도적 에너지나 성적 상징과도 연결될 수 있습니다.",
+      "english": "From a Freudian perspective, vomiting blood in a dream represents the externalization of repressed aggression, anger, or guilt. Since the mouth is the organ of speech and expression, expelling blood from it may symbolize a deep unconscious desire to finally voice suppressed words or emotions. Blood may also connect to libidinal energy and psychosexual symbolism in Freudian analysis."
+    },
+    "jungian": {
+      "korean": "융 심리학에서 피는 영혼의 에너지이자 집단 무의식의 원형적 상징입니다. 피를 토해내는 꿈은 '그림자(Shadow)' 원형과 관련이 있을 수 있으며, 의식이 받아들이기 꺼리는 자신의 어두운 면이나 억압된 감정을 직면하고 통합하는 심리적 과정을 나타냅니다. 이는 개인화(individuation) 과정의 일부로, 전인격적 성장을 위한 필수 통과 의례로 볼 수 있습니다.",
+      "english": "In Jungian psychology, blood is a numinous symbol of psychic energy and an archetype rooted in the collective unconscious. Vomiting blood in a dream may relate to the Shadow archetype — the process of confronting and integrating the darker, rejected aspects of the self that the conscious mind refuses to acknowledge. This can represent a stage in the individuation process, a necessary rite of passage toward wholeness."
+    },
+    "modern": {
+      "korean": "현대 인지 신경과학적 관점에서 피를 토하는 꿈은 일상에서 경험하는 극심한 스트레스, 신체적 피로, 또는 건강에 대한 불안이 수면 중 처리되는 과정에서 나타나는 상징적 표현으로 봅니다. 현재 자신의 한계를 넘어 소진되고 있다는 몸과 마음의 자기 신호일 수 있으며, 충분한 휴식과 자기 돌봄이 필요하다는 메시지로 해석됩니다.",
+      "english": "From a modern cognitive-neuroscience perspective, dreaming of vomiting blood is understood as the brain's symbolic processing of extreme stress, physical fatigue, or health anxiety experienced in waking life. It may represent the body-mind system's own signal that one is being pushed beyond capacity and is heading toward burnout, carrying a message that adequate rest and self-care are urgently needed."
+    },
+    "crossCultural": {
+      "korean": "동아시아 문화권 전반에서 피는 생명력의 정수(精髓)로 여겨지며, 중국 민간 신앙에서도 꿈 속의 피는 재물이나 강한 기운의 상징으로 길몽에 해당하는 경우가 많습니다. 반면 서양 문화에서는 피를 토하는 꿈을 주로 건강 악화나 생명력 소진에 대한 공포로 해석하는 경향이 강합니다. 이슬람 전통 해몽에서는 구강에서 피가 나오는 것이 재정적 손실 또는 가족 갈등과 연관되기도 합니다. 이처럼 문화권마다 해석이 다르지만, 피가 변화와 전환의 상징이라는 점은 공통됩니다.",
+      "english": "Across East Asian cultures, blood is regarded as the very essence of life force. In Chinese folk belief as well, blood appearing in dreams is frequently interpreted as auspicious — symbolizing wealth and strong vital energy. Western traditions, by contrast, tend to interpret vomiting blood in dreams primarily as a fear of health deterioration or depletion of life force. In Islamic dream interpretation, blood from the mouth can relate to financial loss or family conflict. Despite these cultural differences, the common thread is that blood in dreams universally signals transformation, change, and a threshold moment in life."
+    }
+  },
+  "relatedSymbols": [
+    "blood-dream",
+    "bleeding-dream",
+    "nosebleed-dream",
+    "vomiting-dream",
+    "teeth-falling-dream",
+    "sick-dream",
+    "hospital-dream",
+    "red-color-dream"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "피를 토하는 꿈",
+      "피 토하는 꿈 해몽",
+      "피토하는꿈",
+      "각혈 꿈",
+      "입에서 피 나오는 꿈",
+      "피를 토하는 꿈 길몽",
+      "피를 토하는 꿈 흉몽",
+      "피 꿈해몽",
+      "피 토하는 꿈 재물",
+      "피토하는꿈 의미",
+      "꿈에서 피를 토하다",
+      "붉은 피 토하는 꿈",
+      "많은 피 토하는 꿈",
+      "기침하다 피 토하는 꿈"
+    ],
+    "english": [
+      "vomiting blood dream meaning",
+      "dreaming of vomiting blood",
+      "blood vomit dream interpretation",
+      "coughing up blood dream",
+      "spitting blood dream",
+      "blood dream Korean interpretation",
+      "hemoptysis dream symbolism",
+      "vomiting blood dream auspicious",
+      "vomiting blood dream lucky or unlucky",
+      "blood in mouth dream meaning"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "피를 토하는 꿈은 길몽인가요, 흉몽인가요?",
+      "answer_ko": "피를 토하는 꿈은 꿈에서 느낀 감정에 따라 길흉이 갈립니다. 토하고 나서 속이 후련하고 상쾌한 기분이 들었다면 스트레스 해소와 재물운 상승을 알리는 길몽입니다. 반면 통증이 있거나 기분이 나빴다면 건강 악화나 어려움을 경고하는 흉몽으로 봅니다.",
+      "question_en": "Is dreaming of vomiting blood lucky or unlucky?",
+      "answer_en": "It depends on the emotional tone of the dream. If you felt relieved and refreshed after vomiting blood, it is considered an auspicious dream (길몽) signaling stress relief and incoming wealth. If you felt pain or distress during or after, it is interpreted as an inauspicious warning about health issues or hardship."
+    },
+    {
+      "question_ko": "피를 많이 토할수록 좋은 꿈인가요?",
+      "answer_ko": "네, 길몽의 맥락에서는 토해내는 피의 양이 많을수록 들어올 재물이나 행운의 크기도 크다고 해석합니다. 특히 사업이나 투자를 앞둔 분들에게 많은 피를 토하는 꿈은 대박의 징조로 여겨지기도 합니다.",
+      "question_en": "Does vomiting more blood mean better luck?",
+      "answer_en": "Yes, within the auspicious interpretation framework, the greater the amount of blood expelled in the dream, the larger the anticipated fortune or good luck. For those planning a business venture or investment, dreaming of vomiting large amounts of blood is sometimes seen as an omen of a major windfall."
+    },
+    {
+      "question_ko": "피의 색깔이 꿈 해몽에서 중요한가요?",
+      "answer_ko": "매우 중요합니다. 선명하고 깨끗한 붉은 피는 강한 생명력과 활력, 긍정적인 변화를 상징하는 길몽입니다. 반면 검거나 탁한 피는 억눌린 분노나 독소, 건강 문제를 암시하는 흉몽으로 해석됩니다.",
+      "question_en": "Does the color of blood matter in dream interpretation?",
+      "answer_en": "Very much so. Bright, vivid red blood symbolizes strong vitality and positive change — an auspicious sign. Dark, murky, or blackish blood, on the other hand, implies suppressed anger, emotional toxicity, or health concerns and is interpreted as an inauspicious omen."
+    },
+    {
+      "question_ko": "다른 사람이 피를 토하는 꿈은 어떤 의미인가요?",
+      "answer_ko": "다른 사람이 피를 토하는 꿈은 그 사람의 건강이나 재정 상태가 나빠질 수 있다는 경고이거나, 그 사람과의 관계에서 오해나 갈등이 생길 수 있음을 암시합니다. 가까운 사람이라면 건강 상태에 관심을 기울여 보세요.",
+      "question_en": "What does it mean when someone else vomits blood in my dream?",
+      "answer_en": "When another person vomits blood in your dream, it may warn of a decline in that person's health or finances, or suggest that misunderstandings and conflicts may arise between you and them. If it was someone close to you, consider paying closer attention to their well-being."
+    },
+    {
+      "question_ko": "기침을 하다 피를 토하는 꿈은 건강 경고인가요?",
+      "answer_ko": "기침 후 각혈하는 꿈은 정신적·육체적 극도의 피로 상태를 반영하는 것으로, 현실에서 과로하거나 심한 스트레스 상태에 있다는 신호로 해석됩니다. 건강 검진이나 충분한 휴식을 통해 자신을 돌볼 것을 권합니다.",
+      "question_en": "Is dreaming of coughing and vomiting blood a health warning?",
+      "answer_en": "Yes, this variation is interpreted as a direct reflection of extreme physical and mental exhaustion. It is a symbolic signal that you may be overworking or under severe stress in waking life. It is advisable to schedule a health check-up or prioritize rest and recovery."
+    },
+    {
+      "question_ko": "피를 토하는 꿈을 꾸면 로또 복권 운이 있나요?",
+      "answer_ko": "한국 전통 해몽에서 피 토하는 꿈은 재물운의 유입을 상징하는 길몽으로 분류되는 경우가 많아 복권 구입의 징조로 여기는 사람도 있습니다. 다만 꿈의 해석은 절대적이지 않으므로, 재운이 좋아지는 길몽 정도로 긍정적으로 참고하는 것이 좋습니다.",
+      "question_en": "Does dreaming of vomiting blood mean I'll be lucky with the lottery?",
+      "answer_en": "In Korean folk dream tradition, vomiting blood dreams are frequently categorized as auspicious omens of incoming wealth, which leads some people to associate them with lottery luck. That said, dream interpretations are not guarantees — it is best to take it as a positive sign of improving financial fortune rather than a literal prediction."
+    }
+  ]
+}

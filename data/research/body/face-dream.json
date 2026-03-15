@@ -1,0 +1,235 @@
+{
+  "symbol": {
+    "korean": "얼굴",
+    "english": "Face",
+    "slug": "face-dream"
+  },
+  "summary": {
+    "korean": "꿈속의 얼굴은 자아, 정체성, 사회적 체면을 상징합니다. 밝고 아름다운 얼굴은 명예와 행운을 예고하는 길몽이며, 어둡거나 일그러진 얼굴은 불명예·건강 이상·대인 갈등을 경고하는 흉몽으로 해석됩니다. 한국 전통에서 얼굴은 관상학(觀相學)과 깊이 연결되어 있어 얼굴의 형태와 빛깔이 삶의 길흉을 드러낸다고 여겨집니다.",
+    "english": "In dreams, the face symbolizes the self, identity, and social reputation. A bright or beautiful face is an auspicious omen of honor and good fortune, while a dark, distorted, or disfigured face warns of disgrace, health problems, or interpersonal conflict. In Korean tradition, faces are deeply connected to the art of physiognomy (관상학), where facial features and complexion are believed to reveal the fortunes of one's life."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "꿈속에서 자신이나 타인의 얼굴이 밝게 빛나거나 아름답게 보이는 것은 예상치 못한 귀인을 만나거나 좋은 소식을 듣게 될 것을 암시하는 길몽입니다. 명예가 높아지고 주변으로부터 인정받게 되는 상황이 펼쳐집니다.",
+      "english": "Dreaming of a glowing or beautiful face — whether your own or someone else's — is an auspicious sign foretelling unexpected encounters with a benefactor or the arrival of good news. It signals a rise in reputation and recognition from those around you.",
+      "context": "밝은 얼굴 = 귀인 만남, 명예 상승, 기쁜 소식 예고"
+    },
+    {
+      "type": "길몽",
+      "korean": "꿈에서 얼굴을 깨끗하게 씻는 행위는 시험 합격, 승진, 오랫동안 쌓였던 걱정과 불안이 해소되는 것을 상징합니다. 묵은 문제가 해결되고 새로운 출발을 앞두고 있음을 나타냅니다.",
+      "english": "Washing your face cleanly in a dream symbolizes passing an exam, receiving a promotion, or resolving long-accumulated worries and anxieties. It signifies that old problems are being resolved and a fresh start is on the horizon.",
+      "context": "세수/세면 = 정화, 합격, 승진, 문제 해결"
+    },
+    {
+      "type": "길몽",
+      "korean": "자신의 얼굴이 달처럼 환하게 빛나는 꿈은 훌륭한 스승이나 멘토를 만나게 될 것임을 예고합니다. 또한 귀한 인연이 맺어지거나 사회적 지위가 높아질 조짐입니다.",
+      "english": "Dreaming of your face shining as brightly as the moon is a sign that you will meet an excellent teacher or mentor. It also heralds the formation of a precious relationship or an elevation of social standing.",
+      "context": "달처럼 빛나는 얼굴 = 훌륭한 인연, 지위 상승"
+    },
+    {
+      "type": "흉몽",
+      "korean": "꿈속에서 모든 사람의 얼굴이 어둡게 보이거나 검게 변해 있다면, 꺼리는 사람과의 만남이나 달갑지 않은 거래가 생길 것을 경고합니다. 대인 관계에서 어려움과 갈등이 예상됩니다.",
+      "english": "If everyone's face appears dark or blackened in a dream, it warns of unwanted encounters with undesirable people or troublesome transactions. Interpersonal difficulties and conflicts are to be expected.",
+      "context": "어두운/검은 얼굴 = 불쾌한 만남, 대인 갈등"
+    },
+    {
+      "type": "흉몽",
+      "korean": "꿈에서 얼굴에 흉터가 생기거나 상처를 입는 것은 공개적인 망신이나 명예 손상을 암시합니다. 직장이나 사회에서 체면이 깎이는 상황에 처할 수 있으니 언행을 조심해야 합니다.",
+      "english": "Dreaming of a scarred or injured face implies public humiliation or damage to one's reputation. You may find yourself in a situation where your standing at work or in society is undermined — exercise caution in your words and actions.",
+      "context": "상처 난 얼굴 = 명예 손상, 망신, 체면 훼손"
+    },
+    {
+      "type": "흉몽",
+      "korean": "꿈속에서 얼굴이 해골처럼 변하거나 시체의 창백한 얼굴이 나타나는 것은 죽음이나 심각한 질병, 사고를 경고하는 불길한 징조입니다. 건강과 안전에 각별한 주의가 필요합니다.",
+      "english": "A face transforming into a skull or appearing as a corpse's pallid visage is an ominous warning of death, serious illness, or accidents. Extra vigilance regarding health and personal safety is strongly advised.",
+      "context": "해골/시체 얼굴 = 질병, 사고, 죽음 암시"
+    },
+    {
+      "type": "neutral",
+      "korean": "꿈에서 낯선 사람의 얼굴을 보는 것은 새로운 인간관계의 확장을 암시합니다. 그 얼굴의 인상이 좋으면 유익한 인연이, 나쁘면 경계해야 할 인물이 나타날 수 있음을 나타냅니다.",
+      "english": "Seeing a stranger's face in a dream suggests the expansion of new human connections. A favorable impression points to a beneficial relationship, while an unfavorable one signals someone to be wary of.",
+      "context": "낯선 얼굴 = 새로운 만남, 인상에 따라 길흉 달라짐"
+    },
+    {
+      "type": "neutral",
+      "korean": "꿈속에서 자신의 얼굴이 다른 사람으로 바뀌거나 변형되는 것은 현재 자아 정체성에 혼란을 느끼고 있거나, 삶의 역할과 위치에 변화가 일어나고 있음을 반영합니다.",
+      "english": "Dreaming of your own face changing into someone else's or becoming distorted reflects a current confusion about self-identity, or indicates that your role and position in life are undergoing transformation.",
+      "context": "얼굴 변형 = 정체성 혼란, 삶의 변화 중"
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "예쁜 얼굴 꿈",
+      "keyword_en": "Beautiful face dream",
+      "interpretation_ko": "꿈에서 아름답고 단정한 얼굴을 보는 것은 기분 좋은 일이 생기고 행운이 따르며 현재 진행 중인 일이 순조롭게 풀릴 조짐입니다. 새로운 좋은 인연이 시작될 수도 있습니다.",
+      "interpretation_en": "Seeing a beautiful, well-formed face in a dream is a sign that pleasant events and good luck are on their way, and that ongoing endeavors will proceed smoothly. A new favorable relationship may also be beginning."
+    },
+    {
+      "keyword_ko": "못생긴 얼굴 꿈",
+      "keyword_en": "Ugly face dream",
+      "interpretation_ko": "못생기거나 기이한 얼굴을 꿈에서 보는 것은 불안과 부진함의 상징입니다. 현재 하는 일에 의구심이 생기거나 건강이 나빠질 수 있으니 무리하지 말고 휴식을 취하는 것이 좋습니다.",
+      "interpretation_en": "Seeing an ugly or strange face in a dream is a symbol of anxiety and stagnation. Doubts may arise about current endeavors, or your health may be declining — it is best to rest and not overexert yourself."
+    },
+    {
+      "keyword_ko": "얼굴 없는 꿈",
+      "keyword_en": "Faceless person dream",
+      "interpretation_ko": "꿈에서 얼굴이 없는 사람이 나타나는 것은 자아와 정체성이 사라지는 느낌, 극심한 스트레스나 압박으로 자신을 잃어버리고 있음을 상징합니다. 현실에서 자신의 목소리를 내지 못하고 있지는 않은지 돌아볼 필요가 있습니다.",
+      "interpretation_en": "A faceless person in a dream symbolizes a feeling of disappearing identity or self — losing oneself under extreme stress or pressure. It may be a sign to reflect on whether you are suppressing your own voice in waking life."
+    },
+    {
+      "keyword_ko": "얼굴이 변하는 꿈",
+      "keyword_en": "Face changing / transforming dream",
+      "interpretation_ko": "친한 사람의 얼굴이 다른 모습으로 바뀌는 꿈은 그 사람과의 관계에 변화가 생길 수 있음을 암시합니다. 자신의 얼굴이 변하는 것은 역할과 위치의 변화, 혹은 내면의 갈등을 반영합니다.",
+      "interpretation_en": "A dream where a familiar person's face changes into something else suggests that your relationship with that person is about to shift. Your own face transforming reflects a change in role or position, or an internal conflict."
+    },
+    {
+      "keyword_ko": "낯선 얼굴 꿈",
+      "keyword_en": "Stranger's face dream",
+      "interpretation_ko": "꿈속에서 낯선 사람의 얼굴을 보는 것은 인맥의 확장을 암시합니다. 인상이 좋은 낯선 얼굴은 새로운 기회나 귀인의 등장을 의미하며, 인상이 어두우면 경계할 인물이 다가올 수 있습니다.",
+      "interpretation_en": "Seeing a stranger's face in a dream hints at an expanding social network. A favorable-looking stranger signals new opportunities or the arrival of a benefactor, while a dark-looking stranger warns of someone who may prove harmful."
+    },
+    {
+      "keyword_ko": "아는 사람 얼굴 꿈",
+      "keyword_en": "Familiar person's face dream",
+      "interpretation_ko": "꿈에서 잘 아는 사람의 얼굴이 선명하게 나타나면, 그 사람과 관련된 일이 곧 생기거나 연락이 올 수 있음을 의미합니다. 그 얼굴의 표정과 분위기가 꿈의 길흉을 결정하는 데 중요한 역할을 합니다.",
+      "interpretation_en": "If a familiar person's face appears clearly in a dream, it means that an event related to that person or a message from them may soon come. The expression and atmosphere of that face plays a key role in determining whether the omen is auspicious or inauspicious."
+    },
+    {
+      "keyword_ko": "얼굴이 일그러지는 꿈",
+      "keyword_en": "Deformed or distorted face dream",
+      "interpretation_ko": "얼굴이 일그러지거나 흉하게 변형되는 꿈은 명예 손상, 사회적 체면이 깎이는 상황, 또는 건강 이상을 경고하는 흉몽입니다. 대인 관계에서 오해나 갈등이 생길 수 있으니 주의해야 합니다.",
+      "interpretation_en": "A dream of a face becoming grotesquely deformed is an inauspicious warning of damaged reputation, loss of social face, or health issues. Misunderstandings or conflicts in relationships may arise, so caution is warranted."
+    },
+    {
+      "keyword_ko": "빛나는 얼굴 꿈",
+      "keyword_en": "Glowing / radiant face dream",
+      "interpretation_ko": "얼굴이 빛을 발하듯 환하게 빛나는 꿈은 귀인을 만나거나 예상치 못한 기쁜 소식을 접하게 될 것을 예고하는 길몽입니다. 사회적으로 인정받고 명성이 높아질 조짐이기도 합니다.",
+      "interpretation_en": "A dream in which a face radiates brilliant light is an auspicious omen foretelling the meeting of a benefactor or the arrival of unexpected joyful news. It also signals social recognition and a rise in prestige."
+    },
+    {
+      "keyword_ko": "거울 속 얼굴 꿈",
+      "keyword_en": "Face in mirror dream",
+      "interpretation_ko": "거울에 비친 자신의 얼굴이 아름답게 보이면 좋은 만남이나 소식이 예고됩니다. 반대로 거울 속 얼굴이 어둡거나 낯설게 느껴지면 자기 자신에 대한 불안이나 정체성의 혼란을 반영합니다.",
+      "interpretation_en": "Seeing a beautiful reflection of your face in a mirror foretells good encounters or news. Conversely, a dark or unfamiliar-looking reflection in the mirror reflects anxiety about oneself or confusion over one's identity."
+    },
+    {
+      "keyword_ko": "얼굴 수술하는 꿈",
+      "keyword_en": "Face surgery dream",
+      "interpretation_ko": "꿈에서 얼굴 수술을 받는 것은 자신의 이미지나 평판을 바꾸고 싶은 심리적 욕구를 반영하거나, 현실에서 새로운 모습으로 변신을 꾀하고 있음을 상징합니다. 변화를 앞둔 중립적인 예조입니다.",
+      "interpretation_en": "Undergoing facial surgery in a dream reflects a psychological desire to change one's image or reputation, or symbolizes that you are actively seeking a new version of yourself in waking life. It is a neutral omen of imminent transformation."
+    },
+    {
+      "keyword_ko": "얼굴에 여드름 나는 꿈",
+      "keyword_en": "Acne-covered face dream",
+      "interpretation_ko": "얼굴에 여드름이 가득 난 꿈은 체면이 깎이거나 깊은 수치심을 느끼게 되는 상황에 처할 수 있음을 경고합니다. 사회적으로 망신을 당하거나 불명예스러운 일이 생길 수 있습니다.",
+      "interpretation_en": "Dreaming of an acne-covered face warns of situations involving loss of dignity or deep shame. You may face social embarrassment or a dishonorable situation."
+    },
+    {
+      "keyword_ko": "얼굴이 용으로 변하는 꿈",
+      "keyword_en": "Face transforming into a dragon dream",
+      "interpretation_ko": "자신의 얼굴이 용의 얼굴로 변하는 꿈은 매우 강력한 길몽으로, 높은 명예와 사회적 존경을 얻게 되는 큰 성취를 예고합니다. 한국 전통에서 용은 최고의 권위와 성공의 상징입니다.",
+      "interpretation_en": "Dreaming of your face transforming into a dragon's visage is a powerfully auspicious dream, foretelling great achievement and the attainment of high honor and social respect. In Korean tradition, the dragon is the supreme symbol of authority and success."
+    }
+  ],
+  "culturalContext": {
+    "korean": "한국 전통 문화에서 얼굴은 단순한 신체 부위를 넘어 개인의 정체성, 체면(體面), 그리고 사회적 지위를 상징하는 매우 중요한 요소입니다. 특히 '체면 문화'는 한국 사회에서 핵심적인 개념으로, 얼굴을 잃는 것(체면 손상)은 사회적으로 큰 타격으로 여겨집니다. 이러한 문화적 배경이 꿈 해석에도 깊이 반영되어 있어, 꿈속에서 밝고 아름다운 얼굴은 명예와 성공을 의미하고 어둡거나 일그러진 얼굴은 수치와 실패를 암시합니다.\n\n관상학(觀相學)은 한국을 포함한 동아시아 전통에서 수천 년간 이어온 학문으로, 얼굴의 생김새·골격·기색(氣色)으로 그 사람의 운명과 성품을 파악한다고 봅니다. 이마, 눈, 코, 입, 귀, 턱의 형태와 색깔이 각각 다른 삶의 영역(부·귀·수·복 등)을 나타낸다고 여겨지며, 꿈속에 나타나는 얼굴의 특징 역시 이 관상학적 상징 체계와 맞닿아 있습니다. 예를 들어, 이마에 뿔이 나는 꿈은 승진을, 코가 없어지는 꿈은 명예 상실을 뜻하는 식입니다.\n\n또한 한국 민간 신앙에서 돌아가신 조상이 꿈속에 얼굴을 보이는 것은 자손에게 메시지를 전달하거나 길흉을 예고하는 행위로 해석되었으며, 이를 '조상 현몽'이라 합니다.",
+    "english": "In Korean traditional culture, the face is far more than a physical feature — it is a vital symbol of individual identity, 'chemyeon' (체면, face/honor), and social standing. The concept of 'face culture' (체면 문화) is central to Korean society, where losing face is considered a serious social blow. This cultural backdrop is deeply embedded in dream interpretation: a bright, beautiful face in a dream signals honor and success, while a dark or distorted one implies shame and failure.\n\nPhysiognomy (관상학) is a discipline practiced across East Asia for millennia, reading a person's destiny and character from facial features — the shape and coloring of the forehead, eyes, nose, mouth, ears, and jaw each correspond to different life domains (wealth, nobility, longevity, fortune). The symbolic system of physiognomy directly informs how faces are interpreted in dreams. For instance, horns growing from the forehead foretell promotion, while a disappearing nose signals loss of authority.\n\nIn Korean folk belief, when a deceased ancestor appears in a dream showing their face, it is interpreted as the ancestor delivering a message or foretelling fortune to the living — a practice known as 'josang hyeonmong' (조상 현몽, ancestral dream visitation)."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트 심리학에서 얼굴은 자아(ego)와 페르소나의 표현으로 해석됩니다. 꿈속에서 얼굴이 변형되거나 일그러지는 것은 억압된 감정, 수치심, 또는 타인에게 보이는 자신의 모습에 대한 불안을 반영합니다. 특히 얼굴을 씻거나 가리는 행위는 죄책감을 정화하려는 무의식적 욕구로 해석될 수 있습니다.",
+      "english": "In Freudian psychology, the face represents the expression of the ego and persona. A distorted or transforming face in a dream reflects repressed emotions, shame, or anxiety about how one appears to others. Washing or hiding one's face can be interpreted as an unconscious desire to cleanse feelings of guilt."
+    },
+    "jungian": {
+      "korean": "융의 분석심리학에서 얼굴은 '페르소나(Persona)', 즉 사회적으로 보여주는 가면의 상징입니다. 꿈속에서 낯선 얼굴이 나타나는 것은 그림자(Shadow) 원형 — 우리가 인식하지 못했던 내면의 또 다른 자아 — 과의 만남을 나타낼 수 있습니다. 얼굴이 없는 꿈은 진정한 자아와 사회적 자아 사이의 갈등을 나타내며, 아니마/아니무스 원형의 출현으로 낯선 이성의 얼굴이 나타나기도 합니다.",
+      "english": "In Jungian analytical psychology, the face represents the 'Persona' — the social mask we present to the world. A stranger's face appearing in a dream may represent an encounter with the Shadow archetype: the unknown, unacknowledged aspect of the self. A faceless dream signals conflict between the true self and the social self, while a stranger of the opposite sex's face may represent the Anima or Animus archetype."
+    },
+    "modern": {
+      "korean": "현대 인지심리학에서는 얼굴 꿈을 뇌의 얼굴 인식 메커니즘과 연결 짓습니다. 뇌의 방추형 얼굴 영역(FFA)은 수면 중에도 활성화되며, 꿈속의 얼굴은 일상에서 경험한 감정적 상호작용의 처리 과정입니다. 사회적 불안이 높은 사람일수록 얼굴이 일그러지거나 어두운 꿈을 더 자주 꾼다는 연구 결과도 있습니다.",
+      "english": "Modern cognitive psychology links face dreams to the brain's face-recognition mechanisms. The fusiform face area (FFA) of the brain remains active during sleep, and faces in dreams reflect the processing of emotionally significant social interactions experienced during waking life. Research suggests that people with higher social anxiety are more likely to dream of distorted or dark faces."
+    },
+    "crossCultural": {
+      "korean": "얼굴 꿈은 전 세계 문화권에서 보편적으로 자아와 정체성의 상징으로 해석됩니다. 중국 전통에서도 빛나는 얼굴은 운과 명예를 상징하며, 일본의 '면(面)' 문화에서 얼굴은 명예와 수치의 핵심 기호입니다. 서양 꿈 사전에서도 아름다운 얼굴은 성공과 사랑의 전조로, 일그러진 얼굴은 배신과 손실의 경고로 풀이됩니다. 이슬람 전통에서는 꿈속에 빛나는 얼굴이 나타나면 축복받은 인물과의 만남을 의미한다고 합니다.",
+      "english": "Face dreams are universally interpreted across world cultures as symbols of the self and identity. In Chinese tradition, a radiant face symbolizes luck and honor; in Japanese 'men' (面, face) culture, the face is a central marker of honor and shame. Western dream dictionaries likewise read a beautiful face as an omen of success and love, and a distorted face as a warning of betrayal and loss. In Islamic tradition, a glowing face appearing in a dream signifies an encounter with a blessed individual."
+    }
+  },
+  "relatedSymbols": [
+    "eyes-dream",
+    "hands-dream",
+    "teeth-falling-out-dream",
+    "hair-falling-out-dream",
+    "mirror-dream",
+    "body-dream",
+    "being-naked-dream",
+    "going-bald-dream"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "얼굴 꿈해몽",
+      "얼굴 꿈 해석",
+      "얼굴 꿈 의미",
+      "예쁜 얼굴 꿈",
+      "못생긴 얼굴 꿈해몽",
+      "얼굴 없는 꿈",
+      "얼굴이 변하는 꿈",
+      "낯선 얼굴 꿈",
+      "빛나는 얼굴 꿈 길몽",
+      "얼굴 일그러지는 꿈 흉몽",
+      "거울 속 얼굴 꿈",
+      "얼굴 수술 꿈해몽",
+      "아는 사람 얼굴 꿈",
+      "얼굴에 여드름 꿈해몽"
+    ],
+    "english": [
+      "face dream meaning",
+      "dream about face interpretation",
+      "beautiful face dream",
+      "faceless person dream",
+      "face changing in dream",
+      "glowing face dream",
+      "deformed face dream meaning",
+      "stranger face dream symbolism",
+      "face dream Korean interpretation",
+      "face in mirror dream meaning"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "꿈에서 얼굴이 빛나면 길몽인가요?",
+      "answer_ko": "네, 꿈속에서 자신이나 타인의 얼굴이 밝게 빛나는 것은 대표적인 길몽입니다. 귀인을 만나거나 예상치 못한 기쁜 소식을 접하게 될 것을 예고하며, 명예와 인정이 높아질 조짐으로 해석됩니다.",
+      "question_en": "Is dreaming of a glowing face a good omen?",
+      "answer_en": "Yes, dreaming of a radiant or glowing face — whether your own or another's — is a classic auspicious dream. It foretells an encounter with a benefactor or the arrival of unexpected good news, and is interpreted as a sign of rising honor and recognition."
+    },
+    {
+      "question_ko": "꿈에 낯선 사람의 얼굴이 나타나면 어떤 의미인가요?",
+      "answer_ko": "낯선 얼굴의 꿈은 새로운 인연이나 인맥 확장을 암시합니다. 그 사람의 인상이 밝고 호감이 가면 유익한 인연이 생길 좋은 조짐이고, 어둡거나 불쾌한 인상이라면 경계해야 할 인물이 나타날 수 있음을 경고합니다.",
+      "question_en": "What does it mean when a stranger's face appears in a dream?",
+      "answer_en": "A stranger's face in a dream suggests the expansion of new social connections. A pleasant, favorable-looking stranger is a good sign of a beneficial new relationship, while a dark or unpleasant-looking stranger is a warning to be wary of someone who may soon enter your life."
+    },
+    {
+      "question_ko": "꿈속에서 얼굴이 없는 사람이 나타나면 무슨 뜻인가요?",
+      "answer_ko": "얼굴 없는 사람이 꿈에 나타나는 것은 자아 정체성에 대한 혼란이나 극심한 스트레스로 인해 자신을 잃어버리고 있다는 심리적 신호로 해석됩니다. 현실에서 자신의 의견과 목소리를 억누르고 있지 않은지 돌아볼 필요가 있습니다.",
+      "question_en": "What does it mean to dream of a person with no face?",
+      "answer_en": "A faceless person in a dream is interpreted as a psychological signal of confusion about your own identity or a sense of losing yourself under extreme stress. It may be a cue to reflect on whether you are suppressing your own opinions and voice in your waking life."
+    },
+    {
+      "question_ko": "꿈에서 얼굴을 씻는 꿈은 어떤 징조인가요?",
+      "answer_ko": "얼굴을 깨끗하게 씻는 꿈은 시험 합격, 승진, 묵은 걱정과 불안의 해소를 상징하는 길몽입니다. 정화와 새로운 출발을 의미하며, 오래된 문제가 해결되고 새로운 시작을 앞두고 있음을 나타냅니다.",
+      "question_en": "What does washing one's face in a dream signify?",
+      "answer_en": "Washing your face in a dream is an auspicious sign symbolizing success in exams, promotion, or the resolution of long-held worries. It represents purification and a fresh start, indicating that old problems are being resolved and a new beginning is near."
+    },
+    {
+      "question_ko": "얼굴이 일그러지거나 변형되는 꿈은 나쁜 꿈인가요?",
+      "answer_ko": "일반적으로 흉몽으로 해석됩니다. 얼굴이 일그러지거나 흉하게 변하는 꿈은 명예 손상, 대인 갈등, 또는 건강 이상을 경고합니다. 직장이나 사회생활에서 체면이 깎이는 상황이 생길 수 있으니 언행을 조심하는 것이 좋습니다.",
+      "question_en": "Is it bad to dream of a distorted or deformed face?",
+      "answer_en": "It is generally interpreted as an inauspicious dream. A distorted or grotesquely deformed face warns of reputational damage, interpersonal conflict, or health issues. You may face situations in your professional or social life where your standing is undermined, so careful conduct is advisable."
+    },
+    {
+      "question_ko": "꿈에서 자신의 얼굴이 용으로 변하면 무슨 의미인가요?",
+      "answer_ko": "자신의 얼굴이 용의 얼굴로 변하는 꿈은 매우 강력한 길몽입니다. 한국 전통에서 용은 최고의 권위와 성공의 상징이므로, 이 꿈은 높은 명예와 사회적 존경을 얻게 될 큰 성취를 예고합니다.",
+      "question_en": "What does it mean if your face transforms into a dragon's face in a dream?",
+      "answer_en": "Dreaming of your face transforming into a dragon's is a powerfully auspicious omen. In Korean tradition, the dragon is the supreme symbol of authority and success, so this dream foretells a great achievement and the attainment of high honor and social respect."
+    }
+  ]
+}

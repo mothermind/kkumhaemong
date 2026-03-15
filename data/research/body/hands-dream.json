@@ -1,0 +1,247 @@
+{
+  "symbol": {
+    "korean": "손",
+    "english": "Hands",
+    "slug": "hands-dream"
+  },
+  "summary": {
+    "korean": "손 꿈은 능력, 재물운, 인간관계, 기회를 상징하는 꿈입니다. 손의 상태와 행동에 따라 해석이 크게 달라지며, 아름답고 힘 있는 손은 성공과 번영을, 다치거나 잘린 손은 손실과 어려움을 예고합니다. 한국 전통 꿈해몽에서 손은 자신의 의지와 실행력을 나타내는 핵심 신체 부위입니다.",
+    "english": "Dreams about hands symbolize capability, financial fortune, relationships, and opportunity. The interpretation varies greatly depending on the condition and action of the hands — beautiful, strong hands signal success and prosperity, while injured or severed hands warn of loss and hardship. In Korean traditional dream interpretation, hands represent one's willpower and ability to act in the world."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "손에 피가 흐르는 꿈은 역설적으로 대표적인 길몽입니다. 자신의 노력으로 큰 재물을 얻게 될 것을 의미하며, 횡재, 사업 성공, 발명이나 상품 개발에서의 성과를 예고합니다.",
+      "english": "Paradoxically, dreaming of blood flowing from the hands is one of the most auspicious hand dreams. It foretells significant wealth earned through personal effort — unexpected windfalls, business success, or breakthroughs in invention and product development.",
+      "context": "피=재물 상징의 한국 꿈해몽 전통. 노력의 결실이 피처럼 흘러 들어온다는 의미."
+    },
+    {
+      "type": "길몽",
+      "korean": "아름답고 크고 잘 가꿔진 손이 나오는 꿈은 번영, 영향력, 사회적 지위 상승을 의미합니다. 사업이 번창하고 가정에 화목이 찾아오며, 대인관계에서 신뢰를 얻게 됩니다.",
+      "english": "Dreaming of beautiful, large, or well-groomed hands represents prosperity, influence, and a rise in social standing. Business flourishes, family harmony improves, and you gain trust in personal relationships.",
+      "context": "손의 외형은 그 사람의 능력과 품격을 상징함."
+    },
+    {
+      "type": "길몽",
+      "korean": "손을 깨끗이 씻는 꿈은 과거의 어려움과 고통이 해소되고 새 출발을 하게 됨을 의미합니다. 사업이나 업무에서 순조로운 진전이 이루어지고, 오랜 걱정거리가 사라집니다.",
+      "english": "Dreaming of washing your hands cleanly signals the resolution of past hardships and a fresh start. Work and business progress smoothly, and long-standing worries disappear.",
+      "context": "세정(洗淨) 행위는 정화와 새 출발의 상징."
+    },
+    {
+      "type": "길몽",
+      "korean": "누군가 손을 잡아 이끌어 주는 꿈은 귀인의 도움을 크게 얻어 위기를 모면하고 소망을 성취하게 될 징조입니다. 잡아준 손이 따뜻하다면 더욱 좋은 도움이 찾아옵니다.",
+      "english": "Dreaming of someone taking your hand and guiding you signals that a benefactor will provide great assistance, helping you overcome crisis and achieve your goals. If the hand feels warm, even better support is coming.",
+      "context": "귀인(貴人) 모티프는 한국 꿈해몽의 중요 요소."
+    },
+    {
+      "type": "길몽",
+      "korean": "손이 커지거나 늘어나는 꿈은 능력이 확장되고 사업이 번창하며 재정 상황이 개선되는 것을 나타냅니다. 승진이나 리더십 역할을 맡게 될 가능성이 높습니다.",
+      "english": "Dreaming that your hands grow larger or multiply represents expanding capabilities, flourishing business, and improving finances. A promotion or leadership role is likely on the horizon.",
+      "context": "손의 크기=영향력과 능력의 직접적 상징."
+    },
+    {
+      "type": "흉몽",
+      "korean": "손이 잘리거나 절단되는 꿈은 가족과의 이별, 진행 중인 프로젝트의 실패, 또는 중요한 능력이나 지위를 잃게 될 것을 예고합니다. 자손에게 좋지 않은 일이 생길 수 있는 징조이기도 합니다.",
+      "english": "Dreaming of hands being cut off or amputated warns of family separation, the failure of an ongoing project, or the loss of an important ability or position. It may also signal misfortune affecting your children or descendants.",
+      "context": "신체 절단은 능력·가족·권위의 상실을 상징."
+    },
+    {
+      "type": "흉몽",
+      "korean": "손에 화상을 입거나 불에 데이는 꿈은 직장, 단체, 또는 가정에서 사소한 일로 큰 다툼이 발생하거나, 불법적인 일에 연루되어 신세를 망칠 수 있음을 경고합니다.",
+      "english": "Dreaming of burning or scorching your hands warns of a major conflict arising from a trivial matter at work, in a group, or at home. It may also caution against involvement in illegal activities that could ruin your reputation.",
+      "context": "불=분쟁·위험의 상징. 화상=스스로 초래한 피해."
+    },
+    {
+      "type": "흉몽",
+      "korean": "손이 검거나 더러운 꿈은 건강 위기나 사고가 찾아올 수 있음을 경고합니다. 도덕적 타협이나 나쁜 평판과 연관될 수 있으며, 가까운 사람이 어려움을 겪을 수도 있습니다.",
+      "english": "Dreaming of black or dirty hands warns of an impending health crisis or accident. It may also be associated with moral compromise or a damaged reputation, and could indicate that someone close to you faces hardship.",
+      "context": "색의 어두움=불운·부정(不淨)의 상징."
+    },
+    {
+      "type": "neutral",
+      "korean": "손을 잡는 꿈은 두 손 모두의 상태에 따라 해석이 달라집니다. 상대의 손이 따뜻하면 상호 협력과 지지를, 차갑거나 축축하면 관계의 냉담함이나 거절을 의미합니다.",
+      "english": "Dreaming of holding hands varies in meaning based on the quality of the touch. A warm hand suggests mutual cooperation and support; a cold or clammy hand indicates emotional distance or rejection in the relationship.",
+      "context": "온도=감정의 온도를 직접 반영."
+    },
+    {
+      "type": "neutral",
+      "korean": "붉게 물들거나 빨간 손이 나오는 꿈은 업무에서 적극성이 높아지고 새 직장이나 직종 전환이 일어날 수 있음을 의미합니다. 지나친 적극성이 오히려 갈등을 불러올 수도 있습니다.",
+      "english": "Dreaming of reddened hands suggests increased activity and drive at work, with a possible career change or job transition. However, excessive assertiveness may inadvertently invite conflict.",
+      "context": "빨강=활력·열정이지만 때로는 과도한 에너지."
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "손 씻는 꿈",
+      "keyword_en": "washing hands dream",
+      "interpretation_ko": "오랫동안 힘들었던 문제들이 해결되고 새로운 시작을 맞이하게 됨을 의미합니다. 업무나 사업에서 순조로운 진전이 기대됩니다.",
+      "interpretation_en": "Long-standing problems are resolved and a new chapter begins. Smooth progress in work or business is anticipated."
+    },
+    {
+      "keyword_ko": "손 잡는 꿈 / 악수하는 꿈",
+      "keyword_en": "holding hands dream / handshake dream",
+      "interpretation_ko": "상대방의 손이 따뜻하면 귀인의 도움을 받을 길몽이며, 차가우면 관계에서 거절이나 냉담함을 경험하게 됩니다. 유명인과 악수하는 꿈은 협력으로 큰 성공을 거둘 징조입니다.",
+      "interpretation_en": "A warm handshake signals a benefactor's help (auspicious); a cold handshake suggests rejection or emotional distance. Shaking hands with a celebrity or prominent figure forecasts collaborative success."
+    },
+    {
+      "keyword_ko": "손 잘리는 꿈",
+      "keyword_en": "hand cut off dream / severed hand dream",
+      "interpretation_ko": "가족과의 이별, 중요한 사람이나 능력을 잃게 될 흉몽입니다. 자손에게 어려운 일이 생기거나, 핵심 프로젝트가 실패로 돌아갈 수 있습니다.",
+      "interpretation_en": "An ominous dream warning of family separation, the loss of someone or something important, or the failure of a key project. Descendants or children may face trouble."
+    },
+    {
+      "keyword_ko": "손 다치는 꿈",
+      "keyword_en": "injured hand dream",
+      "interpretation_ko": "평소 소중히 여기던 것을 잃게 될 것을 의미하며, 인간관계에서 충돌이나 손실이 발생할 수 있습니다. 진행 중인 일에 장애물이 나타날 징조입니다.",
+      "interpretation_en": "Warns of losing something you cherish, relationship conflict, or an obstacle appearing in an ongoing project or plan."
+    },
+    {
+      "keyword_ko": "검은 손 꿈 / 더러운 손 꿈",
+      "keyword_en": "black hands dream / dirty hands dream",
+      "interpretation_ko": "건강 이상이나 사고를 경고하는 흉몽입니다. 도덕적 타협이나 평판 손상과도 연관될 수 있습니다.",
+      "interpretation_en": "Warns of health problems or accidents. May also indicate moral compromise or reputational damage."
+    },
+    {
+      "keyword_ko": "깨끗한 손 꿈",
+      "keyword_en": "clean hands dream",
+      "interpretation_ko": "정직하고 명예로운 방식으로 일이 잘 풀릴 것을 의미합니다. 오해나 누명이 해소되고 정당한 평가를 받게 됩니다.",
+      "interpretation_en": "Work proceeds honorably and correctly. Misunderstandings or false accusations are resolved and you receive fair recognition."
+    },
+    {
+      "keyword_ko": "손에 피가 나는 꿈",
+      "keyword_en": "bleeding hand dream",
+      "interpretation_ko": "노력의 결실로 큰 재물이 들어오는 대표적 길몽입니다. 사업, 투자, 창작 활동에서 성과를 거두게 됩니다.",
+      "interpretation_en": "A classic auspicious dream — significant wealth flows in as a result of effort. Success in business, investment, or creative endeavors is foretold."
+    },
+    {
+      "keyword_ko": "손가락 잘리는 꿈",
+      "keyword_en": "finger cut off dream",
+      "interpretation_ko": "자손이나 가까운 사람에게 불행이 생기거나, 소중한 인연을 잃게 될 것을 경고합니다. 진행 중인 일이 갑자기 중단될 수 있습니다.",
+      "interpretation_en": "Warns of misfortune affecting descendants or close ones, or the loss of a cherished relationship. An ongoing project may come to an abrupt halt."
+    },
+    {
+      "keyword_ko": "손가락에 반지 끼는 꿈",
+      "keyword_en": "ring on finger dream",
+      "interpretation_ko": "엄지에 금반지는 리더십 자리와 승진을, 약지의 은반지는 아름다운 로맨스를, 모든 손가락에 금반지를 끼면 가문의 번영과 횡재를 상징합니다.",
+      "interpretation_en": "A gold ring on the thumb signifies leadership and promotion; a silver ring on the ring finger suggests a beautiful romance; gold rings on all fingers symbolize family prosperity and a windfall."
+    },
+    {
+      "keyword_ko": "손이 커지는 꿈",
+      "keyword_en": "enlarged hands dream",
+      "interpretation_ko": "능력과 영향력이 확대되고 사업이 번창할 것을 의미합니다. 리더십 역할을 맡거나 승진할 가능성이 높습니다.",
+      "interpretation_en": "Capabilities and influence expand, and business flourishes. A leadership role or promotion is likely."
+    },
+    {
+      "keyword_ko": "손이 얼어붙는 꿈",
+      "keyword_en": "frozen hands dream",
+      "interpretation_ko": "잘못된 판단이나 실수로 인해 불운을 자초하게 될 것을 경고합니다. 중요한 결정 전에 신중히 생각해야 할 때입니다.",
+      "interpretation_en": "Warns that poor judgment or mistakes will lead to self-inflicted misfortune. Take time to think carefully before making important decisions."
+    },
+    {
+      "keyword_ko": "여러 개의 손 / 팔이 여러 개인 꿈",
+      "keyword_en": "multiple arms dream",
+      "interpretation_ko": "여러 사람을 관리하거나 책임지는 위치에 서게 될 것을 의미합니다. 사업 확장이나 조직 내 리더십 강화로 이어집니다.",
+      "interpretation_en": "Suggests moving into a managerial position with responsibility over others. Business expansion or strengthened organizational leadership follows."
+    }
+  ],
+  "culturalContext": {
+    "korean": "한국 전통 꿈해몽에서 손(手)은 사람의 능력, 의지, 실행력을 상징하는 핵심 신체 부위입니다. 농경 사회에서 손은 노동과 생산의 직접적 도구였기 때문에, 손의 상태가 곧 삶의 질과 연결되었습니다. '손이 크다'는 표현이 씀씀이가 넉넉함을, '손발이 맞다'가 협력을 의미하듯, 손은 실생활에서도 다양한 의미를 담고 있습니다. 무속 신앙에서는 무당이 손짓(수인, 手印)으로 신과 소통하며, 안수(按手)는 치유와 축복을 전달하는 신성한 행위로 여겨졌습니다. 점술에서는 손금(수상, 手相)이 운명과 성격을 읽는 주요 수단으로, 손금 보는 꿈 자체도 자신의 운명에 대한 탐색을 상징합니다. 손가락은 개별적으로도 의미를 지니는데, 엄지는 힘과 자존심, 검지는 지도력과 방향성, 중지는 자아와 균형, 약지는 사랑과 결속, 새끼손가락은 약속과 소통을 상징합니다.",
+    "english": "In Korean traditional dream interpretation, hands represent a person's capability, willpower, and ability to act — they are the most fundamental symbol of what a person can accomplish. In agrarian Korean society, hands were the direct instruments of labor and production, making the condition of the hands inseparable from the quality of life. Korean idiomatic expressions reinforce this: '손이 크다' (big hands) means generosity, and '손발이 맞다' (hands and feet match) means good cooperation. In Korean shamanism (무속), the shaman's hand gestures (수인, mudras) communicate with the divine, and the laying of hands (안수) is a sacred act of healing and blessing. In divination, palm reading (손금, 수상) is a primary means of reading fate and personality — dreaming of having one's palm read therefore symbolizes a search for one's own destiny. Individual fingers also carry meanings: the thumb represents strength and pride; the index finger, leadership and direction; the middle finger, the self and balance; the ring finger, love and commitment; the little finger, promises and communication."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트의 관점에서 손은 능동적 의지와 통제욕구를 상징하며, 꿈에서의 손 행동은 무의식적 욕망의 표현입니다. 잡거나 쥐는 행위는 소유욕이나 성적 에너지의 변형으로 해석될 수 있으며, 손을 잃는 꿈은 거세 불안(castration anxiety) 혹은 무력감의 표현으로 볼 수 있습니다. 더러운 손은 억압된 죄책감이나 수치심과 연관됩니다.",
+      "english": "From a Freudian perspective, hands symbolize active will and the drive for control. Hand actions in dreams express unconscious desires — grasping or seizing can be interpreted as possessiveness or sublimated sexual energy. Losing hands in a dream may reflect castration anxiety or a sense of powerlessness. Dirty hands are associated with repressed guilt or shame."
+    },
+    "jungian": {
+      "korean": "융의 분석심리학에서 손은 '행동하는 자아(the acting ego)'의 상징이며, 꿈에서 손이 자신의 것인지 타인의 것인지에 따라 의미가 달라집니다. 타인의 손이 무언가를 건네는 꿈은 외부 세계 혹은 집단무의식으로부터의 선물이나 가르침을 의미합니다. 손은 '기능적 유형'과도 연결되어 창의성, 치유, 기술(techne)의 원형적 에너지를 담고 있습니다.",
+      "english": "In Jungian analytical psychology, hands symbolize the 'acting ego' — the self that engages with the world. Whether the hands belong to self or another shifts the meaning: hands that offer something represent gifts or teachings from the outer world or the collective unconscious. Hands are connected to functional archetypes — they carry the archetypal energy of creativity, healing, and craftsmanship (techne)."
+    },
+    "modern": {
+      "korean": "현대 인지과학과 꿈 연구에서 손 꿈은 일상에서의 통제감, 역량감(sense of competence), 그리고 목표 달성 여부와 밀접한 관련이 있습니다. 손에 대한 꿈은 현실에서 어떤 일을 '처리'해야 한다는 심리적 압박감, 혹은 반대로 성공적으로 '해냈다'는 자신감의 반영일 수 있습니다. 루시드 드리밍(자각몽) 연구에서도 꿈속에서 손을 보는 행위가 자각 상태 진입의 중요한 신호로 활용됩니다.",
+      "english": "In modern cognitive science and dream research, hand dreams are closely linked to one's everyday sense of control and competence, and to feelings about achieving goals. A dream featuring hands may reflect psychological pressure to 'handle' something in waking life, or conversely, confidence from having successfully 'taken care of' a matter. In lucid dreaming research, looking at one's hands in a dream is a classic technique for triggering conscious awareness."
+    },
+    "crossCultural": {
+      "korean": "손은 전 세계 문화권에서 보편적으로 능력, 창조, 보호의 상징입니다. 이슬람 문화권의 '파티마의 손(하무사)' 부적, 힌두교와 불교의 무드라(수인), 유대교의 '하미사'는 손이 신성한 보호와 치유의 힘을 지닌다는 믿음을 공유합니다. 고대 이집트에서는 손이 창조 행위와 권력의 상징이었으며, 아메리카 원주민 문화에서 손 문양은 정체성과 소통을 나타냈습니다. 동아시아 전반에서 손은 노동과 덕(德)을 연결하며, 손으로 쌓은 것이 진정한 가치라는 사상이 공유됩니다.",
+      "english": "Hands are a universal symbol of capability, creation, and protection across world cultures. The Hamsa (Hand of Fatima) in Islamic and Middle Eastern cultures, mudras in Hinduism and Buddhism, and the Hamsa in Jewish tradition all share the belief that hands carry sacred protective and healing power. In ancient Egypt, hands symbolized the act of creation and authority. In Native American cultures, hand motifs represent identity and communication. Across East Asia, hands connect labor and virtue (德), with the shared belief that what is built by one's own hands holds true worth."
+    }
+  },
+  "relatedSymbols": [
+    "fingers-dream",
+    "arms-dream",
+    "nails-dream",
+    "blood-dream",
+    "body-parts-dream",
+    "handshake-dream",
+    "ring-dream"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "손 꿈해몽",
+      "손 나오는 꿈",
+      "손 꿈 의미",
+      "손 잘리는 꿈 해몽",
+      "손 다치는 꿈",
+      "손 씻는 꿈",
+      "손 잡는 꿈",
+      "손에 피 나는 꿈",
+      "검은 손 꿈",
+      "손가락 꿈해몽",
+      "손 커지는 꿈",
+      "더러운 손 꿈",
+      "깨끗한 손 꿈",
+      "악수하는 꿈",
+      "손가락 잘리는 꿈"
+    ],
+    "english": [
+      "hand dream meaning Korean",
+      "dreaming of hands interpretation",
+      "severed hand dream",
+      "bleeding hand dream meaning",
+      "washing hands dream",
+      "holding hands dream",
+      "dirty hands dream meaning",
+      "hand injury dream",
+      "Korean dream hands symbolism",
+      "손 꿈 meaning"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "손에 피가 나는 꿈은 흉몽인가요?",
+      "answer_ko": "아닙니다. 한국 꿈해몽에서 손에서 피가 흐르는 꿈은 오히려 대표적인 길몽입니다. 자신의 노력으로 큰 재물을 얻게 되거나, 사업·투자에서 성과를 거두게 될 것을 예고합니다. 피가 재물의 상징으로 사용되는 한국 전통 해몽의 특성에서 비롯된 해석입니다.",
+      "answer_en": "No — in Korean dream interpretation, bleeding hands are considered highly auspicious, not ominous. The dream foretells significant wealth earned through effort, or success in business and investment. This stems from the Korean traditional symbolism in which blood represents the flow of money and material gain.",
+      "question_en": "Is dreaming of bleeding hands a bad omen?"
+    },
+    {
+      "question_ko": "손이 잘리는 꿈은 어떤 의미인가요?",
+      "answer_ko": "손이 잘리는 꿈은 흉몽에 속합니다. 가족과의 이별, 소중한 관계나 능력의 상실, 진행 중인 프로젝트의 실패를 경고합니다. 자손에게 어려운 일이 생길 수 있다는 징조로도 해석됩니다. 꿈을 꾼 후에는 중요한 결정에서 신중함을 기하는 것이 좋습니다.",
+      "answer_en": "A hand-severing dream is an ominous sign. It warns of family separation, the loss of a cherished relationship or ability, or the failure of an ongoing project. It may also signal coming trouble for descendants or children. After such a dream, extra caution in important decisions is advised.",
+      "question_en": "What does it mean to dream of a hand being cut off?"
+    },
+    {
+      "question_ko": "악수하는 꿈의 해석은 어떻게 달라지나요?",
+      "answer_ko": "악수하는 상대의 손이 따뜻하다면 귀인의 도움을 받을 좋은 꿈이며, 차갑거나 축축하다면 관계에서 냉담함이나 거절을 경험하게 됩니다. 유명인이나 사회적으로 높은 위치의 사람과 악수하는 꿈은 협력을 통한 큰 성공을 예고합니다.",
+      "answer_en": "The interpretation depends on the temperature of the handshake. A warm handshake from the other person signals beneficial help from a well-placed acquaintance. A cold or clammy handshake suggests coldness or rejection in a relationship. Shaking hands with a celebrity or highly positioned person forecasts major success through collaboration.",
+      "question_en": "How does the meaning of a handshake dream change?"
+    },
+    {
+      "question_ko": "더러운 손이 나오는 꿈은 무엇을 뜻하나요?",
+      "answer_ko": "더러운 손 꿈은 흉몽으로, 건강 이상이나 사고 가능성을 경고합니다. 또한 가까운 사람이 어려움에 처하거나, 도덕적으로 타협해야 하는 상황에 놓이게 될 수 있음을 암시합니다. 평판이나 명예가 손상될 수 있으니 주변 관계를 살펴볼 필요가 있습니다.",
+      "answer_en": "Dirty hands in a dream are an inauspicious sign warning of possible health issues or accidents. It also suggests that someone close to you may face hardship, or that you may be placed in a morally compromising situation. Your reputation or honor could be at risk — paying attention to your surrounding relationships is advised.",
+      "question_en": "What does it mean to dream of dirty hands?"
+    },
+    {
+      "question_ko": "손 꿈에서 손가락은 각각 어떤 의미를 가지나요?",
+      "answer_ko": "엄지는 힘·자존심·리더십을, 검지는 방향성과 지도력을, 중지는 자아와 균형을, 약지는 사랑·결혼·결속을, 새끼손가락은 약속·소통·관계를 상징합니다. 따라서 꿈에서 특정 손가락이 다치거나 잘리면 그 손가락이 상징하는 영역에서 어려움이 생길 수 있습니다.",
+      "answer_en": "Each finger carries its own symbolism: the thumb represents strength, pride, and leadership; the index finger, direction and guidance; the middle finger, the self and balance; the ring finger, love, marriage, and commitment; the little finger, promises, communication, and relationships. When a specific finger is injured or severed in a dream, expect challenges in the domain that finger symbolizes.",
+      "question_en": "What do individual fingers symbolize in hand dreams?"
+    },
+    {
+      "question_ko": "손을 씻는 꿈은 어떤 의미가 있나요?",
+      "answer_ko": "손을 깨끗이 씻는 꿈은 길몽으로, 오랫동안 짊어졌던 어려움이나 걱정이 해소되고 새 출발을 맞이하게 됨을 의미합니다. 업무나 사업에서 순조로운 진전이 이루어지며, 오해나 누명이 풀리고 정당한 평가를 받게 됩니다.",
+      "answer_en": "Dreaming of washing your hands clean is auspicious — it signals that long-held burdens and worries are being released, allowing a fresh start. Work and business proceed smoothly, and misunderstandings or false accusations are resolved so you receive fair recognition.",
+      "question_en": "What does it mean to dream of washing hands?"
+    }
+  ]
+}

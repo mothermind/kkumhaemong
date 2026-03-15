@@ -1,0 +1,209 @@
+{
+  "symbol": {
+    "korean": "몸이 가려운 꿈",
+    "english": "Itching Body Dream",
+    "slug": "itching-dream"
+  },
+  "summary": {
+    "korean": "몸이 가려운 꿈은 억눌린 불만이나 해소되지 못한 욕구가 표면으로 떠오르는 신호로, 꿈에서 어느 신체 부위가 가렵느냐에 따라 재물운·인간관계·건강을 각각 암시한다.",
+    "english": "A dream of bodily itching signals suppressed frustrations or unmet desires rising to the surface, with the specific body part that itches pointing to matters of wealth, relationships, or health."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "손바닥, 특히 오른손바닥이 가려운 꿈은 전통적으로 재물이 들어오거나 뜻밖의 횡재가 따른다는 길몽으로 여겨져요. 오른손은 받는 손, 즉 복이 찾아오는 방향을 상징하기 때문에 금전적 수입이나 선물을 기대해볼 수 있어요.",
+      "english": "Dreaming that the right palm itches is traditionally considered auspicious, foretelling incoming wealth or an unexpected windfall. The right hand symbolizes the receiving side, suggesting money, gifts, or good fortune on the way.",
+      "context": "오른손 가려움 — 재물 유입 징조"
+    },
+    {
+      "type": "길몽",
+      "korean": "발바닥이 가려운 꿈은 멀리 떠나는 여행이나 새로운 기회를 만나게 될 징조예요. 발은 삶의 방향과 전진을 상징하므로, 가려움은 새 출발이나 이직·이사 같은 긍정적 변화를 예고하기도 해요.",
+      "english": "Itching feet or soles in a dream foretell a journey, new opportunities, or a beneficial change of circumstances such as relocation or a new job. Feet symbolize life direction and forward movement.",
+      "context": "발 가려움 — 새 출발·이동 징조"
+    },
+    {
+      "type": "길몽",
+      "korean": "머리나 두피가 가려운 꿈은 지혜와 창의적 발상이 솟아나는 시기임을 암시해요. 머리는 이성과 영감의 자리로, 두피가 가렵게 느껴지는 꿈은 새로운 아이디어나 승진·학업 성취를 예고하는 길몽으로 풀이돼요.",
+      "english": "Dreaming of an itchy scalp or head suggests an awakening of intellect and fresh inspiration. The head represents reason and vision, and this dream can foreshadow new ideas, career advancement, or academic success.",
+      "context": "두피·머리 가려움 — 지혜·승진 징조"
+    },
+    {
+      "type": "흉몽",
+      "korean": "왼손이나 왼손바닥이 가려운 꿈은 금전 손실이나 불필요한 지출이 생길 수 있다는 경고로 봐요. 왼손은 내보내는 방향을 상징하여, 재물이 빠져나갈 수 있으니 충동구매나 투자에 각별히 주의해야 해요.",
+      "english": "An itchy left palm in a dream warns of financial loss or unwanted expenditure. The left hand symbolizes the giving or outgoing direction, suggesting money may flow out unexpectedly.",
+      "context": "왼손 가려움 — 금전 손실 경고"
+    },
+    {
+      "type": "흉몽",
+      "korean": "등이나 척추 부근이 가려운 꿈은 뒤에서 험담을 듣거나 모르는 사이에 주변 사람과 갈등이 생길 수 있다는 경고예요. 눈에 보이지 않는 곳이 가렵다는 것은 자신이 의식하지 못하는 문제가 쌓이고 있음을 뜻해요.",
+      "english": "Itching on the back or along the spine suggests hidden gossip, backstabbing, or conflicts brewing unnoticed. The unseen nature of the back symbolizes problems accumulating out of awareness.",
+      "context": "등·척추 가려움 — 은밀한 갈등·험담 경고"
+    },
+    {
+      "type": "흉몽",
+      "korean": "온몸이 두루 가렵거나 긁어도 나아지지 않는 꿈은 오랫동안 해소되지 못한 스트레스와 억눌린 감정이 한계에 달했다는 신호예요. 건강 문제나 극심한 피로, 대인관계에서의 불만이 폭발 직전임을 암시해요.",
+      "english": "Dreaming of itching all over the body that cannot be relieved through scratching signals unresolved stress and bottled-up emotions reaching a breaking point, and may foreshadow health concerns or relationship conflicts.",
+      "context": "전신 가려움 — 극한 스트레스·건강 경고"
+    },
+    {
+      "type": "neutral",
+      "korean": "가슴이나 배가 가려운 꿈은 감정적 변화나 소화되지 못한 경험이 내면에서 처리되고 있다는 중립적 신호예요. 강한 길흉보다는 현재 자신의 감정 상태를 돌아보고 주변 사람과 솔직하게 소통하라는 메시지로 읽혀요.",
+      "english": "Itching on the chest or abdomen reflects emotional processing and undigested experiences working themselves out internally, carrying a neutral message to reflect on one's feelings and communicate openly.",
+      "context": "가슴·배 가려움 — 감정 정리·소통 촉구"
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "오른손 가려운 꿈",
+      "keyword_en": "right hand itching dream",
+      "interpretation_ko": "오른손이 가려운 꿈은 예상치 못한 금전 수입이나 행운이 찾아온다는 길몽이에요. 계약, 선물, 복권 당첨 같은 형태의 재물이 들어올 수 있어요.",
+      "interpretation_en": "Dreaming of the right hand itching is a lucky sign forecasting unexpected financial gain or good fortune, possibly through a contract, gift, or windfall."
+    },
+    {
+      "keyword_ko": "왼손 가려운 꿈",
+      "keyword_en": "left hand itching dream",
+      "interpretation_ko": "왼손이 가려운 꿈은 지출이나 금전 손실을 암시하는 흉몽 기운이 있어요. 충동구매를 자제하고 금전 관리에 신경 써야 해요.",
+      "interpretation_en": "An itchy left hand in a dream suggests coming financial loss or unexpected expenses; it is advisable to be cautious with spending."
+    },
+    {
+      "keyword_ko": "등이 가려운 꿈",
+      "keyword_en": "back itching dream",
+      "interpretation_ko": "등이 가려운 꿈은 자신도 모르는 사이에 뒷담화의 대상이 되거나 숨겨진 갈등이 존재함을 경고해요. 주변 인간관계를 주의 깊게 살펴보는 것이 좋아요.",
+      "interpretation_en": "Dreaming of an itchy back warns of hidden gossip or concealed conflicts in your social circle that you may be unaware of."
+    },
+    {
+      "keyword_ko": "발이 가려운 꿈",
+      "keyword_en": "feet itching dream",
+      "interpretation_ko": "발이 가려운 꿈은 새로운 장소로의 여행이나 이사, 이직 같은 긍정적인 변화가 다가오고 있음을 예고해요.",
+      "interpretation_en": "Itchy feet in a dream foretell beneficial travel, relocation, or a positive change of direction in life."
+    },
+    {
+      "keyword_ko": "두피나 머리가 가려운 꿈",
+      "keyword_en": "scalp or head itching dream",
+      "interpretation_ko": "두피가 가려운 꿈은 지적 각성이나 창의적 아이디어가 샘솟는 시기를 암시해요. 승진이나 학업 성취를 예고하는 길몽이 될 수 있어요.",
+      "interpretation_en": "A dream of an itchy scalp suggests mental stimulation and creative inspiration; it can herald a promotion, academic achievement, or innovative breakthrough."
+    },
+    {
+      "keyword_ko": "온몸이 가려운 꿈",
+      "keyword_en": "whole body itching dream",
+      "interpretation_ko": "온몸이 가렵고 긁어도 해소되지 않는 꿈은 장기간 누적된 스트레스와 불만이 폭발 직전임을 알려줘요. 건강 점검과 충분한 휴식이 필요해요.",
+      "interpretation_en": "Dreaming of unrelenting whole-body itching signals accumulated stress and suppressed frustration nearing a breaking point, urging rest and health attention."
+    },
+    {
+      "keyword_ko": "얼굴이 가려운 꿈",
+      "keyword_en": "face itching dream",
+      "interpretation_ko": "얼굴이 가려운 꿈은 타인의 평가나 사회적 체면에 대한 불안을 반영해요. 뺨 중 오른쪽이 가렵다면 호평, 왼쪽이면 험담의 징조로 전통적으로 해석해요.",
+      "interpretation_en": "A dreamed itch on the face reflects anxiety about one's social image; traditionally, the right cheek itching means someone speaks well of you, while the left cheek signals gossip."
+    },
+    {
+      "keyword_ko": "가렵지만 개운한 꿈",
+      "keyword_en": "pleasurable itching dream",
+      "interpretation_ko": "긁으면 개운하고 시원한 느낌이 드는 꿈은 현재 상황에서 해소와 해방감을 얻게 될 것임을 암시해요. 오랫동안 해결 못 했던 문제가 풀리는 신호예요.",
+      "interpretation_en": "Dreaming of itching that feels satisfying and relieving when scratched suggests resolution of long-standing problems and a liberating release from tension."
+    },
+    {
+      "keyword_ko": "긁어도 낫지 않는 꿈",
+      "keyword_en": "unrelieved itching dream",
+      "interpretation_ko": "긁을수록 더 가려워지는 꿈은 현실에서 억지로 해결하려 할수록 상황이 악화되는 문제를 경고해요. 인내심을 갖고 근본 원인을 찾아야 해요.",
+      "interpretation_en": "Dreaming of itching that worsens the more you scratch warns that forcing a solution may aggravate a real-life problem; patience and addressing the root cause are needed."
+    }
+  ],
+  "culturalContext": {
+    "korean": "한국 민간신앙에서 신체의 특정 부위가 가렵거나 떨리는 것은 오래전부터 길흉의 전조로 받아들여져 왔어요. 손바닥, 발바닥, 귀, 코 등 신체 각 부위에 부여된 상징은 무속(巫俗) 전통 및 중국으로부터 전래된 오행(五行) 사상과 밀접하게 연결되어 있어요. 특히 오른쪽은 양(陽)·길(吉)의 방향, 왼쪽은 음(陰)·흉(凶)의 방향으로 구분하는 음양(陰陽) 사상이 강하게 반영되어, 오른손바닥이 가려우면 재물이 들어오고 왼손바닥이 가려우면 돈이 나간다는 속신이 전국적으로 퍼져 있어요. 가려움은 또한 무당이나 영매가 신령의 접촉을 감지할 때 몸에 나타나는 반응이라는 무속적 해석도 존재해요. 꿈 속 가려움은 이 같은 민간 믿음이 수면 중 무의식에 투영된 것으로, 몸이 보내는 영적·심리적 신호로 간주되었어요.",
+    "english": "In Korean folk belief, tingling or itching sensations in specific body parts have long been interpreted as omens of good or ill fortune. The symbolism assigned to different body parts is closely tied to shamanic tradition (무속) and the Five Elements (오행) philosophy transmitted from China. The yin-yang (음양) principle divides right from left — right being yang (positive, auspicious) and left being yin (negative, cautionary) — giving rise to widespread folk sayings such as 'right palm itching means money coming in, left palm means money going out.' In shamanic practice, itching was also seen as a sign of a spirit's touch, experienced by mediums during spiritual contact. A dream of itching is understood as the unconscious mind projecting these folk beliefs during sleep, treating the body as a spiritual and psychological messenger."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트 심리학에서 피부 가려움은 억압된 욕망이나 죄책감이 신체 증상으로 표출되는 전형적인 사례로 봐요. 꿈에서 몸을 긁는 행위는 심리적 긴장을 신체로 전환하는 '신체화(somatization)' 과정이며, 충족되지 않은 성적·공격적 충동이 피부 감각으로 우회된 것으로 해석해요.",
+      "english": "In Freudian psychology, skin itching represents a classic case of repressed desires or guilt manifesting as bodily symptoms. Scratching in dreams reflects somatization — the conversion of psychological tension into physical sensation — and may indicate unfulfilled sexual or aggressive impulses redirected through the skin."
+    },
+    "jungian": {
+      "korean": "융 심리학에서 피부는 내면의 심리와 외부 세계 사이의 경계를 상징해요. 꿈에서 피부가 가려운 것은 자아(Ego)와 그림자(Shadow) 사이의 경계가 불안정하거나, 무의식의 내용이 의식 위로 떠오르려는 신호예요. 가려움은 변환·탈피의 원형(Archetype)과 연결되어, 낡은 자아상을 벗어나 새로운 자기(Self)로 나아가는 개성화(individuation) 과정을 암시할 수 있어요.",
+      "english": "In Jungian psychology, the skin represents the boundary between the inner psyche and the outer world. Dreaming of skin itching signals instability at the ego-shadow boundary or unconscious contents pressing upward into awareness. The itch connects to the archetype of transformation and shedding, suggesting an individuation process in which the dreamer is outgrowing an old self-image."
+    },
+    "modern": {
+      "korean": "현대 심리학에서는 꿈 속 가려움이 주로 현실 스트레스와 감정 조절의 어려움을 반영한다고 봐요. 직장·인간관계·경제적 불안처럼 일상에서 해소되지 않은 자극이 수면 중에도 감각 신호로 재현되는 것이에요. 연구에 따르면, 만성 스트레스를 경험하는 사람일수록 신체 감각 중심의 꿈을 꾸는 경향이 높아요.",
+      "english": "Modern psychology views dreaming of itching as primarily reflecting real-life stress and difficulty regulating emotions. Unresolved daily irritants — workplace pressure, relationship friction, financial anxiety — resurface as physical sensations during sleep. Research suggests that people under chronic stress are more likely to experience somatosensory dreams."
+    },
+    "crossCultural": {
+      "korean": "몸의 가려움에 부여된 의미는 전 세계 문화권에서 놀랍도록 유사한 패턴을 보여요. 힌두 전통에서 오른손 가려움은 금전 수입, 왼손 가려움은 지출의 징조로 한국 민간신앙과 거의 일치해요. 아프리카 일부 문화에서는 피부 가려움을 조상령의 접촉 신호로 해석하며, 유럽 민속에서는 코 가려움을 다툼이나 뜻밖의 방문객 징조로 봐요. 이처럼 피부를 '영혼의 안테나'로 보는 시각은 동서양을 가로질러 공통적으로 나타나요.",
+      "english": "The symbolism of bodily itching shows strikingly similar patterns across world cultures. Hindu tradition assigns right-palm itching to incoming money and left-palm itching to outgoing money — nearly identical to Korean folk belief. Some African cultures interpret skin itching as a signal of ancestral contact, and European folklore associates nose itching with quarrels or unexpected visitors. The cross-cultural view of skin as a spiritual antenna — receiving messages from unseen realms — appears consistently across Eastern and Western traditions."
+    }
+  },
+  "relatedSymbols": [
+    "skin-rash-dream",
+    "scratching-dream",
+    "body-pain-dream",
+    "washing-body-dream",
+    "right-hand-dream",
+    "left-hand-dream",
+    "feet-dream",
+    "losing-teeth-dream"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "몸이 가려운 꿈",
+      "가려운 꿈 해몽",
+      "꿈에서 몸이 가려운",
+      "온몸 가려운 꿈",
+      "손이 가려운 꿈 해몽",
+      "오른손 가려운 꿈",
+      "왼손 가려운 꿈 해몽",
+      "등 가려운 꿈",
+      "발 가려운 꿈 해몽",
+      "두피 가려운 꿈",
+      "긁는 꿈 해몽",
+      "피부 가려운 꿈 의미"
+    ],
+    "english": [
+      "itching dream meaning",
+      "dream of body itching",
+      "scratching in dreams interpretation",
+      "right hand itching dream",
+      "left hand itching dream",
+      "itchy back dream meaning",
+      "itchy feet dream",
+      "whole body itching dream",
+      "skin itching dream spiritual meaning",
+      "Korean dream interpretation itching"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "몸이 가려운 꿈은 길몽인가요, 흉몽인가요?",
+      "answer_ko": "꿈에서 어느 신체 부위가 가렵냐에 따라 달라져요. 오른손이나 발이 가렵다면 재물 유입이나 새로운 기회를 암시하는 길몽이고, 왼손이나 등이 가렵다면 금전 손실이나 숨겨진 갈등을 경고하는 흉몽 기운이 있어요. 온몸이 심하게 가려운 꿈은 스트레스가 한계에 달했다는 신호로, 건강과 휴식에 주의가 필요해요.",
+      "question_en": "Is dreaming of an itching body a good or bad omen?",
+      "answer_en": "It depends on which body part itches. An itchy right hand or feet signals incoming wealth or new opportunities (auspicious), while an itchy left hand or back warns of financial loss or hidden conflict (inauspicious). Whole-body itching that cannot be relieved indicates peak stress and calls for rest and health attention."
+    },
+    {
+      "question_ko": "오른손이 가려운 꿈은 어떤 의미인가요?",
+      "answer_ko": "오른손이 가려운 꿈은 예상치 못한 금전 수입이나 행운이 찾아온다는 길몽이에요. 한국 민간신앙에서 오른손은 양(陽)의 기운, 즉 복이 들어오는 방향을 상징하기 때문에 재물·계약·선물 같은 형태의 좋은 소식이 생길 수 있어요.",
+      "question_en": "What does it mean to dream of the right hand itching?",
+      "answer_en": "Dreaming of the right hand itching is auspicious, foretelling unexpected financial gain or good news. In Korean folk belief, the right hand represents the yang (positive) direction — the side from which blessings enter — suggesting money, a favourable contract, or a welcome gift."
+    },
+    {
+      "question_ko": "왼손이 가려운 꿈은 왜 나쁜가요?",
+      "answer_ko": "왼손은 음(陰)의 기운, 즉 내보내는 방향을 상징해요. 따라서 왼손이 가려운 꿈은 불필요한 지출이나 금전 손실이 생길 수 있다는 경고로 해석돼요. 충동구매나 섣부른 투자를 자제하는 것이 좋아요.",
+      "question_en": "Why is dreaming of the left hand itching considered unfavourable?",
+      "answer_en": "The left hand symbolises yin energy — the outgoing direction. Dreaming of it itching therefore warns of unnecessary spending or financial loss. It is advisable to avoid impulsive purchases or premature investments around the time of such a dream."
+    },
+    {
+      "question_ko": "온몸이 가려운 꿈을 자주 꾸면 어떻게 해야 하나요?",
+      "answer_ko": "온몸이 가렵고 긁어도 낫지 않는 꿈을 반복해서 꾼다면 장기간 누적된 스트레스와 감정적 억압의 신호일 수 있어요. 충분한 수면과 휴식을 취하고, 필요하다면 전문가 상담을 통해 심리적 부담을 해소하는 것을 권해요. 신체 피부 건강도 함께 점검해 보세요.",
+      "question_en": "What should I do if I frequently dream of itching all over my body?",
+      "answer_en": "Recurring dreams of unrelieved whole-body itching may be a sign of prolonged accumulated stress and emotional suppression. Ensure adequate sleep and rest, and consider professional counselling to address underlying psychological burdens. It is also worth checking your skin health, as the dream can mirror real physical discomfort."
+    },
+    {
+      "question_ko": "꿈에서 등이 가려운 것은 무슨 뜻인가요?",
+      "answer_ko": "등은 눈에 보이지 않는 신체 부위예요. 등이 가려운 꿈은 자신이 의식하지 못하는 뒤에서의 험담이나, 주변에서 조용히 쌓이는 갈등을 경고해요. 가까운 사람과의 관계를 주의 깊게 살피고, 오해가 생기지 않도록 솔직한 소통을 유지하는 것이 좋아요.",
+      "question_en": "What does it mean to dream of an itchy back?",
+      "answer_en": "The back is a part of the body you cannot easily see, and dreaming of it itching warns of hidden gossip or quietly accumulating conflict in your social circle. It encourages you to pay closer attention to relationships and maintain honest communication to prevent misunderstandings."
+    },
+    {
+      "question_ko": "꿈에서 가려워 긁었더니 시원한 느낌이 들었어요. 이건 좋은 꿈인가요?",
+      "answer_ko": "긁을 때 개운하고 시원한 느낌이 드는 꿈은 그렇지 않은 경우보다 긍정적이에요. 오랫동안 풀리지 않던 문제나 억눌려 있던 감정이 해소되는 과정을 상징하며, 곧 해방감과 안도를 경험하게 될 것임을 암시해요.",
+      "question_en": "In my dream, scratching the itch felt satisfying and refreshing. Is that a good sign?",
+      "answer_en": "Yes — dreaming of an itch that feels satisfying when scratched is more positive than an itch that persists. It symbolises the resolution of long-standing problems or the release of suppressed emotions, suggesting you will soon experience relief and a sense of liberation."
+    }
+  ]
+}

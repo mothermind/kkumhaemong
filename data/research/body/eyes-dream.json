@@ -1,0 +1,247 @@
+{
+  "symbol": {
+    "korean": "눈",
+    "english": "Eyes",
+    "slug": "eyes-dream"
+  },
+  "summary": {
+    "korean": "눈 꿈은 인식, 통찰, 진실을 꿰뚫어 보는 능력을 상징합니다. 한국 민속 해몽에서 눈은 마음의 창이자 판단력과 삶의 방향성을 나타내는 중요한 신체 기관입니다. 빛나고 맑은 눈은 명예와 성공의 길몽이며, 눈을 잃거나 눈병을 앓는 꿈은 판단력 상실이나 재난을 경고하는 흉몽입니다. 꿈의 세부 상황—눈의 밝기, 크기, 건강 상태—에 따라 해석이 크게 달라집니다.",
+    "english": "Dreams about eyes symbolize perception, insight, and the ability to see through to the truth. In Korean folk dream interpretation, the eyes are considered the windows of the soul and a key indicator of judgment and life direction. Bright, luminous eyes are auspicious omens of honor and success, while losing eyesight or suffering eye disease warns of lost judgment or impending hardship. Interpretation varies significantly based on the dream's details—the brightness, size, and health of the eyes."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "자신의 눈에서 빛이 나며 먼 곳이 뚜렷하게 보이는 꿈은 현실에서 자신감이 넘치고 하는 일이 순조롭게 풀릴 징조입니다. 사업, 학업, 인간관계 모두에서 긍정적인 전개가 기대되며 명예가 높아집니다.",
+      "english": "Dreaming that your eyes radiate light and can see distant things with crystal clarity signals overflowing confidence and smooth progress in all your endeavors. Business, academics, and relationships are all set for positive developments, and your reputation will rise.",
+      "context": "brightness_success"
+    },
+    {
+      "type": "길몽",
+      "korean": "눈이 크고 아름다운 여성을 안는 꿈은 오래된 고민이 해결되거나 새로운 기회가 찾아올 길몽입니다. 특히 사업 확장이나 귀인(貴人) 만남의 예조로 해석됩니다.",
+      "english": "Embracing a woman with large, beautiful eyes in a dream is an auspicious omen of long-standing worries resolving or new opportunities arising. It is especially interpreted as a foreshadowing of business expansion or the encounter with a mentor or benefactor.",
+      "context": "large_beautiful_eyes"
+    },
+    {
+      "type": "길몽",
+      "korean": "맹인이 눈을 뜨는 꿈은 한국 민속에서 매우 강력한 길몽으로 꼽힙니다. 오랫동안 막혀 있던 일이 돌파구를 찾거나, 승진이나 시험 합격 등 인생의 전환점이 될 좋은 소식이 도래합니다.",
+      "english": "A blind person regaining sight is considered one of the most powerful auspicious omens in Korean folk dream tradition. It signals that a long-blocked situation will find its breakthrough—good news such as a promotion, exam success, or a life-changing turning point is on its way.",
+      "context": "blind_regains_sight"
+    },
+    {
+      "type": "길몽",
+      "korean": "눈의 티끌이나 이물질을 제거하는 꿈은 오랫동안 지연되던 일이 완료되고, 사업이 번창하며 장애물이 사라짐을 의미합니다.",
+      "english": "Dreaming of successfully removing a speck or foreign object from the eye means that long-delayed tasks will finally be completed, business will flourish, and obstacles will disappear.",
+      "context": "removing_obstruction"
+    },
+    {
+      "type": "흉몽",
+      "korean": "꿈에서 실명하거나 갑자기 앞이 보이지 않게 되는 꿈은 경제적 어려움, 후원자나 의지할 사람을 잃는 상황, 또는 상황이 복잡하게 꼬여 절망에 빠지는 것을 암시합니다.",
+      "english": "Dreaming of going blind or suddenly losing vision suggests economic hardship, the loss of a supporter or someone to rely on, or a situation becoming so entangled that despair follows.",
+      "context": "blindness"
+    },
+    {
+      "type": "흉몽",
+      "korean": "눈병을 앓거나 눈에 이상이 생기는 꿈은 사업상 큰 고통이나 가정에 우환이 생기는 징조입니다. 감정 통제가 어려워지거나 계획이 실패할 수 있습니다.",
+      "english": "Dreaming of suffering eye disease or an eye disorder is a sign of serious business difficulties or family hardship. Emotional control may become difficult and plans may fail.",
+      "context": "eye_disease"
+    },
+    {
+      "type": "흉몽",
+      "korean": "눈에서 피가 나는 꿈은 가족 간의 분쟁이나 불화, 가정 내 큰 변고가 생길 수 있음을 경고하는 흉조입니다.",
+      "english": "Dreaming of bleeding eyes is an ominous warning of disputes or discord within the family, or a significant calamity within the household.",
+      "context": "bleeding_eyes"
+    },
+    {
+      "type": "흉몽",
+      "korean": "눈알이 빠지거나 눈을 잃는 꿈은 자녀와의 이별 혹은 자신을 지지해주던 중요한 관계나 사람을 잃게 됨을 암시합니다.",
+      "english": "Dreaming of an eye falling out or losing an eye suggests separation from a child or the loss of an important supportive relationship or person in your life.",
+      "context": "eye_falling_out"
+    },
+    {
+      "type": "neutral",
+      "korean": "한쪽 눈이 손상되거나 한쪽 눈만 보이는 꿈은 균형 잡힌 시각의 상실, 한쪽으로 치우친 판단, 또는 편견을 가진 사람과의 만남을 의미합니다. 상황을 다각도로 살필 것을 권고하는 꿈입니다.",
+      "english": "Dreaming of one eye being damaged or only being able to see with one eye symbolizes a loss of balanced perspective, biased judgment, or an encounter with a one-sided person. The dream advises examining situations from multiple angles.",
+      "context": "one_eye"
+    },
+    {
+      "type": "neutral",
+      "korean": "눈이 충혈되거나 빨개지는 꿈은 현재 진행 중인 일에 불확실성이 따르며, 기대와 현실 사이의 괴리가 클 수 있음을 나타냅니다. 지나친 집착이나 욕망이 판단력을 흐리게 할 수 있습니다.",
+      "english": "Dreaming of red or bloodshot eyes indicates uncertainty surrounding current endeavors and a possible gap between expectations and reality. Excessive attachment or desire may be clouding judgment.",
+      "context": "red_eyes"
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "눈이 빛나는 꿈",
+      "keyword_en": "dreaming of glowing eyes",
+      "interpretation_ko": "눈에서 빛이 나고 밝게 빛나는 꿈은 현실에서의 자신감과 통찰력이 최고조에 달해 있음을 나타내며, 중요한 결정을 내리거나 리더십을 발휘하기에 최적의 시기임을 알립니다.",
+      "interpretation_en": "Dreaming of eyes that glow or shine brightly indicates your confidence and insight are at their peak in waking life. It signals an optimal time to make important decisions or step into a leadership role."
+    },
+    {
+      "keyword_ko": "눈알이 빠지는 꿈",
+      "keyword_en": "dreaming of eyes falling out",
+      "interpretation_ko": "눈알이 빠지는 꿈은 자녀나 소중한 사람과의 이별, 또는 믿었던 관계의 상실을 상징합니다. 가족 관계에서 소통과 유대를 강화해야 한다는 경고로 해석하는 경우가 많습니다.",
+      "interpretation_en": "Dreaming of eyes falling out symbolizes separation from a child or a beloved person, or the loss of a trusted relationship. It is often interpreted as a warning to strengthen communication and bonds within family relationships."
+    },
+    {
+      "keyword_ko": "눈이 멀거나 실명하는 꿈",
+      "keyword_en": "dreaming of going blind",
+      "interpretation_ko": "꿈에서 갑자기 실명하는 것은 방향 감각 상실, 중요한 사실을 보지 못하거나 외면하고 있음을 경고합니다. 경제적 손실이나 심리적 고립감이 찾아올 수 있습니다.",
+      "interpretation_en": "Suddenly going blind in a dream warns of losing one's sense of direction, or refusing to see important facts. Financial loss or psychological isolation may follow."
+    },
+    {
+      "keyword_ko": "아름다운 눈을 가진 사람을 보는 꿈",
+      "keyword_en": "dreaming of seeing someone with beautiful eyes",
+      "interpretation_ko": "눈이 크고 아름다운 사람을 꿈에서 만나는 것은 현실에서 귀인을 만나거나 도움을 받을 기회를 상징하는 길몽입니다. 새로운 인연이나 협력자의 등장을 예고합니다.",
+      "interpretation_en": "Encountering someone with large, beautiful eyes in a dream is an auspicious omen symbolizing the arrival of a benefactor or an opportunity to receive help in real life. It foreshadows the appearance of a new meaningful connection or collaborator."
+    },
+    {
+      "keyword_ko": "눈을 감는 꿈",
+      "keyword_en": "dreaming of closing eyes",
+      "interpretation_ko": "꿈에서 눈을 감는 것은 현실을 외면하거나 특정 문제를 의도적으로 무시하려는 심리를 반영합니다. 상황을 직시하지 않으면 어려움이 쌓일 수 있다는 내면의 경고로 볼 수 있습니다.",
+      "interpretation_en": "Closing your eyes in a dream reflects a tendency to turn away from reality or deliberately ignore a specific problem. It can be seen as an inner warning that difficulties may accumulate if you avoid confronting the situation head-on."
+    },
+    {
+      "keyword_ko": "눈이 충혈되는 꿈 (붉은 눈)",
+      "keyword_en": "dreaming of red or bloodshot eyes",
+      "interpretation_ko": "눈이 충혈되거나 붉어지는 꿈은 과도한 집착, 분노, 또는 극심한 피로로 인해 판단력이 흐려지고 있음을 나타냅니다. 주변 상황을 냉정하게 재검토할 필요가 있습니다.",
+      "interpretation_en": "Dreaming of red or bloodshot eyes indicates that excessive obsession, anger, or extreme fatigue is clouding your judgment. It points to the need to calmly reassess your surroundings and circumstances."
+    },
+    {
+      "keyword_ko": "외눈 꿈 (한쪽 눈만 있는 꿈)",
+      "keyword_en": "dreaming of having only one eye",
+      "interpretation_ko": "외눈으로 보거나 한쪽 눈만 기능하는 꿈은 사물을 일방적으로 판단하고 있거나 중요한 면을 놓치고 있음을 경고합니다. 다양한 관점에서 상황을 바라보라는 메시지입니다.",
+      "interpretation_en": "Dreaming of seeing with only one eye or having only one functioning eye warns that you are making one-sided judgments or missing important aspects of a situation. The message is to view circumstances from a variety of perspectives."
+    },
+    {
+      "keyword_ko": "맹인이 눈을 뜨는 꿈",
+      "keyword_en": "dreaming of a blind person gaining sight",
+      "interpretation_ko": "맹인이 눈을 뜨는 꿈은 한국 꿈해몽에서 최고 수준의 길몽으로 손꼽힙니다. 오랜 장애물이 사라지고 인생의 전환점이 되는 큰 행운이 찾아올 징조입니다.",
+      "interpretation_en": "A blind person gaining sight is considered one of the highest-grade auspicious omens in Korean dream interpretation. It foreshadows the removal of longstanding obstacles and the arrival of a tremendous stroke of luck that marks a turning point in life."
+    },
+    {
+      "keyword_ko": "눈에서 피가 나는 꿈",
+      "keyword_en": "dreaming of bleeding from the eyes",
+      "interpretation_ko": "눈에서 피가 흐르는 꿈은 가족 내 불화나 큰 걱정거리가 생길 수 있음을 알리는 흉몽입니다. 가족 구성원의 건강이나 관계에 각별한 주의를 기울여야 합니다.",
+      "interpretation_en": "Dreaming of blood flowing from the eyes is an inauspicious omen warning of discord within the family or the emergence of a major worry. Special attention should be paid to the health or relationships of family members."
+    },
+    {
+      "keyword_ko": "눈병을 앓는 꿈",
+      "keyword_en": "dreaming of having an eye disease",
+      "interpretation_ko": "눈병을 앓는 꿈은 사업이나 직업적인 면에서 큰 고통이 따르거나, 가정에 근심이 생길 징조입니다. 건강 관리와 함께 재정 및 가정 문제에도 신경을 써야 할 시기입니다.",
+      "interpretation_en": "Dreaming of suffering from eye disease is an omen that major difficulties await in business or professional life, or that domestic worries will arise. It signals a time to pay attention to health, finances, and family matters."
+    },
+    {
+      "keyword_ko": "눈이 커지는 꿈 (큰 눈 꿈)",
+      "keyword_en": "dreaming of eyes growing large",
+      "interpretation_ko": "눈이 비정상적으로 커지는 꿈은 통찰력이나 직관이 넓어지는 것을 상징하며, 중요한 정보나 기회를 포착할 능력이 강화됨을 의미합니다.",
+      "interpretation_en": "Dreaming of eyes growing unusually large symbolizes an expansion of insight or intuition, and suggests your ability to capture important information or opportunities is being strengthened."
+    },
+    {
+      "keyword_ko": "상대방의 눈과 눈이 마주치는 꿈",
+      "keyword_en": "dreaming of making direct eye contact",
+      "interpretation_ko": "꿈에서 누군가와 강렬하게 눈이 마주치는 것은 그 관계에 중요한 변화가 생길 수 있음을 시사합니다. 상대가 낯선 사람이라면 새로운 중요한 인연의 등장을, 아는 사람이라면 그 관계의 심화 또는 갈등을 암시합니다.",
+      "interpretation_en": "Intensely meeting someone's gaze in a dream suggests an important change is coming in that relationship. If the person is a stranger, it hints at the arrival of a significant new connection; if it's someone known, it may hint at the deepening or conflict of that relationship."
+    }
+  ],
+  "culturalContext": {
+    "korean": "한국 민속 전통에서 눈은 단순한 신체 기관을 넘어 마음의 창(心之窓)이자 영혼의 거울로 여겨져 왔습니다. '눈은 마음의 창문'이라는 속담은 눈을 통해 사람의 내면을 읽을 수 있다는 믿음을 반영합니다. 조선시대 관상학(觀相學)에서도 눈은 인품과 운명을 판단하는 핵심 요소로, 눈이 맑고 빛나는 사람은 총명하고 운이 좋다고 믿었습니다. 민간 무속 신앙에서는 눈이 빛나는 꿈을 신령이나 조상이 길(吉)한 기운을 전달하는 통로로 해석하기도 했습니다. 특히 '눈 밝은 꿈'은 과거 시험 합격이나 관직 제수 등 사회적 성공의 징조로 귀하게 여겨졌습니다. 반면 눈을 잃는 꿈은 공동체 내에서의 지위와 영향력을 상실하거나, 도덕적 판단력이 흐려지는 사태를 경고하는 것으로 해석되었습니다. 한국 전통 예술과 문학에서도 눈은 진실과 거짓을 구분하는 능력, 세상을 올바르게 바라보는 지혜를 상징해왔습니다.",
+    "english": "In Korean folk tradition, the eyes are regarded far beyond a mere physical organ — they are seen as the windows of the mind (心之窓) and mirrors of the soul. The proverb 'eyes are the windows of the heart' reflects the deep belief that one can read a person's inner world through their eyes. In Joseon-era physiognomy (관상학), the eyes were a central factor in assessing character and fate; clear, luminous eyes indicated intelligence and good fortune. In shamanistic folk belief, dreaming of eyes that shine was interpreted as a channel through which spirits or ancestors convey auspicious energy. Dreams of 'bright eyes' were especially prized as omens of passing state examinations or receiving an official appointment — markers of social success. Conversely, dreaming of losing an eye was interpreted as a warning of losing one's status and influence within the community, or of one's moral judgment becoming compromised. In traditional Korean art and literature, the eyes have consistently symbolized the ability to distinguish truth from falsehood and the wisdom to see the world clearly."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트 심리학에서 눈은 억압된 욕망과 관음증(觀淫症)적 충동과 연관됩니다. 눈을 잃는 꿈은 고전적인 거세 불안(castration anxiety)의 상징으로, 권력이나 성적 능력에 대한 두려움을 나타낼 수 있습니다. 눈으로 무언가를 보는 꿈은 금지된 것을 알고 싶다는 욕망 혹은 비밀을 엿보려는 무의식적 충동을 반영합니다.",
+      "english": "In Freudian psychology, the eye is associated with repressed desires and voyeuristic impulses. Dreaming of losing an eye is a classic symbol of castration anxiety, representing fear around power or sexual potency. Dreaming of seeing something through the eyes reflects the desire to know the forbidden or the unconscious impulse to peer into secrets."
+    },
+    "jungian": {
+      "korean": "융 심리학에서 눈은 의식과 자아 인식, 내면을 들여다보는 능력을 상징하는 강력한 원형(原型) 이미지입니다. '세 번째 눈(Third Eye)'은 융의 개념에서 집단 무의식(集團無意識) 속 깊은 직관과 영적 각성을 나타냅니다. 밝게 빛나는 눈 꿈은 자기실현(individuation) 과정에서 진아(眞我)와 접촉하는 긍정적 신호로 볼 수 있으며, 눈을 잃는 꿈은 그림자(shadow)—무의식 속에 억압된 자아의 부분—와 마주하는 것을 회피하려는 심리를 반영할 수 있습니다.",
+      "english": "In Jungian psychology, the eye is a powerful archetypal image symbolizing consciousness, self-awareness, and the capacity for inner reflection. The 'Third Eye' represents deep intuition and spiritual awakening within the collective unconscious. Dreaming of brightly shining eyes can be seen as a positive signal of contact with the true Self during the individuation process, while dreaming of losing an eye may reflect a tendency to avoid confronting the shadow — the repressed part of the self in the unconscious."
+    },
+    "modern": {
+      "korean": "현대 심리학에서는 눈 꿈을 자기 인식 및 외부 평가에 대한 불안과 연결합니다. '관찰받는다'는 느낌, 즉 타인의 시선에 대한 민감성은 눈에 관한 꿈으로 자주 표현됩니다. 눈이 아프거나 기능을 잃는 꿈은 번아웃, 정보 과부하, 또는 중요한 무언가를 놓치고 있다는 무의식적 인식을 나타낼 수 있습니다. 긍정적인 눈 꿈은 자신감, 명확한 목표의식, 뛰어난 문제 해결 능력과 관련됩니다.",
+      "english": "Modern psychology connects eye dreams to self-perception and anxiety about external evaluation. The feeling of 'being observed' — sensitivity to others' gaze — is frequently expressed through dreams about eyes. Dreams of eye pain or dysfunction can indicate burnout, information overload, or an unconscious recognition of missing something important. Positive eye dreams are linked to self-confidence, clear sense of purpose, and strong problem-solving ability."
+    },
+    "crossCultural": {
+      "korean": "눈의 상징성은 세계 문화 전반에 걸쳐 폭넓게 공유됩니다. 이슬람 문화권의 '파티마의 손(Hamsa)'과 지중해권의 '나자르(Nazar) 부적'은 눈이 악운을 막는 보호 기능을 한다고 믿습니다. 고대 이집트의 '호루스의 눈(Eye of Horus)'은 신성한 보호와 왕권의 상징이었습니다. 힌두교에서 '세 번째 눈(Third Eye)'은 시바 신의 영적 지혜를 나타냅니다. 이렇듯 동서양을 막론하고 눈은 신성한 감시, 진실의 탐색, 그리고 영혼의 상태를 반영하는 보편적 상징으로 기능합니다.",
+      "english": "Eye symbolism is broadly shared across world cultures. In Islamic culture, the Hamsa (Hand of Fatima) and the Mediterranean Nazar amulet reflect a belief that the eye has a protective function against bad luck. The Eye of Horus in ancient Egypt was a symbol of divine protection and royal power. In Hinduism, the Third Eye represents the spiritual wisdom of the god Shiva. Across both Eastern and Western traditions, the eye functions as a universal symbol of divine surveillance, the search for truth, and a reflection of the state of the soul."
+    }
+  },
+  "relatedSymbols": [
+    "face-dream",
+    "tears-dream",
+    "blind-dream",
+    "nose-dream",
+    "ear-dream",
+    "glasses-dream",
+    "light-dream",
+    "mirror-dream"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "눈 꿈해몽",
+      "눈 꿈 의미",
+      "눈알 빠지는 꿈",
+      "눈이 빛나는 꿈",
+      "실명 꿈 해석",
+      "눈에서 피나는 꿈",
+      "눈병 꿈 해몽",
+      "외눈 꿈",
+      "맹인 눈뜨는 꿈",
+      "아름다운 눈 꿈",
+      "충혈된 눈 꿈",
+      "눈 꿈 길몽 흉몽",
+      "신체 꿈해몽 눈",
+      "눈을 감는 꿈 해석"
+    ],
+    "english": [
+      "eyes dream meaning",
+      "dreaming about eyes",
+      "eyes falling out dream",
+      "going blind dream interpretation",
+      "bleeding eyes dream",
+      "beautiful eyes dream",
+      "one eye dream meaning",
+      "Korean dream interpretation eyes",
+      "eye disease dream",
+      "glowing eyes dream symbolism"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "눈알이 빠지는 꿈은 어떤 의미인가요?",
+      "answer_ko": "눈알이 빠지는 꿈은 자녀나 소중한 사람과의 이별, 또는 자신을 지지해주던 중요한 관계가 끊어지는 것을 상징합니다. 가족 관계에서 소통을 강화하고 유대를 돈독히 해야 한다는 경고로 해석하는 것이 좋습니다. 지나친 스트레스나 불안이 이런 꿈을 유발하는 경우도 많습니다.",
+      "question_en": "What does it mean to dream of eyes falling out?",
+      "answer_en": "Dreaming of eyes falling out symbolizes separation from a child or a beloved person, or the severing of an important supportive relationship. It is best interpreted as a warning to strengthen communication and deepen bonds in family relationships. Excessive stress or anxiety often triggers this type of dream."
+    },
+    {
+      "question_ko": "꿈에서 눈이 빛나거나 밝게 보이면 좋은 꿈인가요?",
+      "answer_ko": "네, 눈이 빛나고 밝게 빛나는 꿈은 대표적인 길몽입니다. 현실에서의 자신감과 통찰력이 최고조에 달해 있음을 나타내며, 사업·학업·인간관계 모두에서 긍정적인 전개가 기대됩니다. 특히 중요한 결정을 내리거나 새로운 도전을 시작하기에 매우 좋은 시기임을 알려주는 꿈입니다.",
+      "question_en": "Is it a good dream if your eyes shine or glow brightly?",
+      "answer_en": "Yes, dreaming of bright, shining eyes is a quintessential auspicious omen. It signals peak confidence and insight in waking life, and positive developments are expected in business, academics, and relationships. It is particularly a great sign for making important decisions or starting new challenges."
+    },
+    {
+      "question_ko": "꿈에서 실명하거나 앞이 안 보이면 어떤 의미인가요?",
+      "answer_ko": "꿈에서 실명하는 것은 방향 감각을 잃거나 중요한 사실을 외면하고 있다는 경고입니다. 경제적 어려움이 찾아오거나 믿었던 사람을 잃게 될 수 있다는 흉조로도 해석됩니다. 현재 상황을 냉정하게 점검하고 놓치고 있는 부분이 없는지 살펴볼 것을 권합니다.",
+      "question_en": "What does it mean to go blind or lose vision in a dream?",
+      "answer_en": "Going blind in a dream warns that you are losing your sense of direction or avoiding seeing important truths. It is also interpreted as an omen that financial difficulties may arrive or a trusted person may be lost. It is advisable to calmly assess your current situation and examine whether you are missing something important."
+    },
+    {
+      "question_ko": "맹인이 눈을 뜨는 꿈은 왜 길몽으로 보나요?",
+      "answer_ko": "맹인이 눈을 뜨는 꿈은 한국 꿈해몽에서 최고 수준의 길몽으로 꼽힙니다. 오랫동안 막혀 있던 문제가 돌파구를 찾고, 승진·합격·사업 성공 등 인생의 전환점이 될 큰 행운이 도래한다는 의미를 담고 있습니다. '어둠에서 빛으로'라는 전환의 이미지가 새로운 가능성의 열림을 상징하기 때문입니다.",
+      "question_en": "Why is dreaming of a blind person gaining sight considered a great auspicious omen?",
+      "answer_en": "Dreaming of a blind person gaining sight is considered one of the top auspicious dreams in Korean interpretation. It holds the meaning that a long-blocked problem will find its breakthrough, and great fortune marking a life turning point — such as a promotion, exam success, or business triumph — is on its way. This is because the image of transitioning 'from darkness to light' symbolizes the opening of new possibilities."
+    },
+    {
+      "question_ko": "눈에서 피가 나는 꿈은 무엇을 뜻하나요?",
+      "answer_ko": "눈에서 피가 흐르는 꿈은 가족 간의 불화나 분쟁, 또는 가정 내 큰 변고를 경고하는 흉몽입니다. 이런 꿈을 꾼 후에는 가족 구성원의 건강과 관계에 각별히 주의를 기울이고, 오해나 갈등이 쌓이지 않도록 적극적으로 소통하는 것이 좋습니다.",
+      "question_en": "What does it mean to dream of bleeding from the eyes?",
+      "answer_en": "Dreaming of blood flowing from the eyes is an inauspicious omen warning of family discord, disputes, or a significant calamity within the household. After having this dream, it is advisable to pay special attention to family members' health and relationships, and to communicate actively to prevent misunderstandings or conflicts from building up."
+    },
+    {
+      "question_ko": "꿈에서 눈이 충혈되거나 빨개지면 어떤 의미인가요?",
+      "answer_ko": "눈이 충혈되는 꿈은 과도한 집착, 분노, 또는 극심한 피로로 인해 판단력이 흐려지고 있다는 신호입니다. 현재 몰두하고 있는 일이나 관계를 한 발짝 물러서서 냉정하게 바라볼 필요가 있다는 내면의 메시지로 해석합니다. 감정을 조율하고 휴식을 취하는 것이 도움이 됩니다.",
+      "question_en": "What does it mean if your eyes are red or bloodshot in a dream?",
+      "answer_en": "Dreaming of bloodshot eyes is a signal that excessive obsession, anger, or extreme fatigue is clouding your judgment. It is an inner message that you need to step back and look coolly at the work or relationship you are currently absorbed in. Regulating your emotions and taking rest will be helpful."
+    }
+  ]
+}

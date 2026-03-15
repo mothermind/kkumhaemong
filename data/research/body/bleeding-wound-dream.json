@@ -1,0 +1,185 @@
+{
+  "symbol": {
+    "korean": "상처에서 피가 나는 꿈",
+    "english": "Bleeding Wound",
+    "slug": "bleeding-wound-dream"
+  },
+  "summary": {
+    "korean": "상처에서 피가 나는 꿈은 표면적으로는 흉몽처럼 보이지만, 피가 선명하고 양이 많을수록 오히려 재물운과 문제 해결을 알리는 반전 길몽이 됩니다. 상처의 위치, 피의 색깔, 통증 여부에 따라 해석이 크게 달라지며, 억눌렸던 감정의 정화와 오랜 걱정의 해소를 상징하기도 합니다.",
+    "english": "Dreaming of a wound bleeding may seem alarming, but in Korean dream interpretation it is often a sign of reversal fortune — vivid, flowing blood signals incoming wealth and resolution of problems. The meaning shifts significantly based on where the wound is, the color of blood, and whether pain is felt, and can also symbolize emotional purification and relief from long-held burdens."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "상처에서 선명한 붉은 피가 흘러나오는 꿈은 한국 전통 꿈해몽에서 '반전 길몽'으로 손꼽힙니다. 다쳐서 피가 나는 상황임에도 꿈속에서 통증이 없거나 오히려 후련한 느낌이 들었다면, 이는 오랫동안 짊어지고 있던 걱정거리와 감정적 상처가 마침내 해소되는 신호입니다. 재물이 들어오거나 오래 막혔던 일이 뚫릴 징조이며, 칼에 베인 상처에서 피가 흐르는 꿈은 특히 원하는 바를 이루고 이익을 얻게 될 것을 암시합니다.",
+      "english": "A wound bleeding bright red blood is considered a 'reversal fortune dream' in Korean folk interpretation. Even though the dream involves injury, if there is no pain — or even a sense of relief — it signals that long-held anxieties and emotional wounds are finally being released. This type of dream predicts incoming wealth and a breakthrough in stalled endeavors. A cut or blade wound that bleeds freely is especially auspicious, pointing toward wish fulfillment and financial gain.",
+      "context": "피가 선명한 붉은색이며 양이 많고, 통증보다는 후련함이 느껴질 때 길몽으로 해석. 특히 칼, 유리, 날카로운 물체에 베인 후 피가 나오는 꿈이 해당됨"
+    },
+    {
+      "type": "길몽",
+      "korean": "상처를 치료받는 꿈은 귀인의 도움을 상징합니다. 누군가가 내 상처를 닦아주거나 붕대를 감아주는 장면은 현실에서 든든한 조력자가 나타나 어려운 상황을 함께 헤쳐나갈 것을 예고합니다. 또한 상처가 완전히 낫는 꿈은 건강 회복과 운세 상승의 길몽으로 해석됩니다.",
+      "english": "Dreaming of having a wound treated is a sign that a helpful benefactor will appear in real life. Someone cleaning or bandaging your wound symbolizes a reliable ally arriving to help you through difficulty. A wound healing completely in the dream is a strong auspicious omen for health recovery and improving fortune.",
+      "context": "상처를 치료받는 행위, 상처가 낫는 장면이 등장할 때의 해석"
+    },
+    {
+      "type": "흉몽",
+      "korean": "피가 멈추지 않거나 상처가 계속 벌어지는 꿈은 현실의 심리적 고통이나 건강 문제의 심각성을 나타냅니다. 특히 검붉거나 탁한 색의 피가 흐르는 상처 꿈은 건강 이상이나 금전 손실을 경고합니다. 다리나 발에 상처가 나 피가 흐르는 꿈은 재정적 기반의 흔들림이나 타인으로 인한 금전 손실을, 손이나 팔에 피나는 상처가 생기는 꿈은 능력이나 권한의 손실 혹은 동료와의 갈등을 암시합니다.",
+      "english": "A wound that will not stop bleeding, or one that keeps reopening, reflects serious psychological distress or unresolved health concerns in waking life. Dark or murky blood from a wound specifically warns of health problems or financial loss. A bleeding wound on the legs or feet signals an unstable financial foundation or money lost through others, while a wound on the hands or arms suggests loss of ability, authority, or conflict with colleagues.",
+      "context": "피가 멈추지 않거나 검붉은 색일 때, 특정 신체 부위(다리, 발, 손)에 상처가 날 때 흉몽으로 분류"
+    },
+    {
+      "type": "neutral",
+      "korean": "상처를 입은 것은 알지만 피가 나지 않는 꿈은 문제가 발생했으나 실질적인 피해는 없는 상황을 의미합니다. 해결되지 않은 갈등이나 미완의 상황이 내면에 남아 있음을 보여주는 심리적 반영으로 해석됩니다. 타인이 상처를 입어 피 흘리는 것을 목격하는 꿈은 그 사람에 대한 걱정이나 보호 본능의 투영이며, 때로는 실제 그 사람에게 어떤 변화가 생길 수 있다는 경고로 보기도 합니다.",
+      "english": "Being aware of an injury but seeing no blood suggests a problem has arisen that will cause no real damage — an unresolved inner conflict or unfinished situation lingering below the surface. Witnessing someone else bleed from a wound reflects concern for that person or a protective instinct, and in traditional interpretation may also serve as a gentle warning that changes are coming in that person's life.",
+      "context": "상처가 있으나 피가 나지 않을 때, 타인의 상처에서 피가 날 때의 해석"
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "손에서 피나는 꿈",
+      "keyword_en": "bleeding wound on hand",
+      "interpretation_ko": "손의 상처에서 피가 나는 꿈은 문예, 예술, 기술 분야에서 성과를 거두는 길몽으로 풀이되기도 하지만, 동시에 동료나 파트너와의 갈등 혹은 작업 능력에 타격이 올 수 있다는 경고를 담기도 합니다. 피가 선명하고 많으면 전자, 피가 탁하거나 상처가 덧나면 후자로 해석합니다.",
+      "interpretation_en": "A bleeding hand wound can indicate achievement in literary, artistic, or technical fields if the blood is vivid and flows freely. However, murky blood or a festering wound warns of friction with a colleague or partner, or damage to one's working capabilities."
+    },
+    {
+      "keyword_ko": "발이나 다리에서 피나는 꿈",
+      "keyword_en": "bleeding wound on leg or foot",
+      "interpretation_ko": "다리나 발에 상처가 생겨 피가 나는 꿈은 재정적 기반이 흔들리거나 타인에게 금전적 손실을 당할 수 있다는 경고성 꿈입니다. 사업의 토대가 약해지거나 계획이 무산될 위험을 암시하므로 투자나 보증에 신중해야 할 시기임을 알려줍니다.",
+      "interpretation_en": "A wound bleeding on the leg or foot warns of an unstable financial foundation or monetary loss through others. It signals a weakening of the base of one's plans or business, cautioning against risky investments or acting as a guarantor for someone else's debt."
+    },
+    {
+      "keyword_ko": "머리에 상처가 나 피나는 꿈",
+      "keyword_en": "bleeding head wound",
+      "interpretation_ko": "머리에서 피가 나는 꿈은 양면성을 지닙니다. 머리 상처에서 피가 솟구치는 꿈은 새로운 아이디어나 도전으로 사업이 번창한다는 길몽으로 해석되기도 하지만, 머리를 다쳐 심하게 출혈하는 꿈은 판단력 상실, 시험 실패, 또는 지위 하락을 경고합니다.",
+      "interpretation_en": "A head wound bleeding can be interpreted two ways. Blood surging from the head may indicate business prosperity through bold new ideas. However, suffering a severe head wound with heavy bleeding warns of impaired judgment, exam failure, or a decline in social standing."
+    },
+    {
+      "keyword_ko": "칼에 베여 피나는 꿈",
+      "keyword_en": "cut by a knife and bleeding",
+      "interpretation_ko": "칼이나 날카로운 도구에 베여 상처에서 피가 흐르는 꿈은 원하는 목표를 달성하고 큰 이익을 얻게 될 것을 암시하는 대표적인 길몽입니다. 오래 추진해온 사업이나 취업, 시험 등에서 좋은 결과를 예고하며, 피가 선명할수록 그 성취의 크기도 크다고 봅니다.",
+      "interpretation_en": "Being cut by a knife or sharp tool with blood flowing freely is one of the most recognized auspicious dream variations in Korean interpretation. It predicts achieving desired goals and reaping substantial rewards — in business, job applications, or exams. The more vivid and plentiful the blood, the greater the predicted success."
+    },
+    {
+      "keyword_ko": "피가 멈추지 않는 상처 꿈",
+      "keyword_en": "wound that won't stop bleeding",
+      "interpretation_ko": "상처에서 피가 계속 흘러 멈추지 않는 꿈은 심리적 소진과 에너지 고갈을 나타냅니다. 현실에서 지속적인 스트레스, 끝이 보이지 않는 문제, 또는 정서적 탈진 상태에 처해 있을 가능성이 높습니다. 건강 검진이나 정서적 돌봄이 필요한 시기라는 신호입니다.",
+      "interpretation_en": "Dreaming of a wound that won't stop bleeding reflects psychological burnout and energy depletion. It often mirrors a waking state of relentless stress, an unsolvable problem, or emotional exhaustion. This dream serves as a prompt to seek health care or emotional support."
+    },
+    {
+      "keyword_ko": "유리에 찔려 피나는 꿈",
+      "keyword_en": "glass shard wound bleeding",
+      "interpretation_ko": "유리 파편에 찔려 상처에서 피가 나는 꿈은 예기치 못한 상실과 아픔을 예고하는 흉몽입니다. 소중한 사람과의 이별, 건강 이상, 또는 예상치 못한 감정적 충격이 찾아올 수 있음을 암시합니다. 특히 발이나 맨발 상태에서 유리를 밟는 꿈은 부지불식간에 입게 될 손해를 경고합니다.",
+      "interpretation_en": "A wound from a glass shard is an inauspicious omen foretelling unexpected loss and pain. It may signal separation from a loved one, a health scare, or an unforeseen emotional shock. Walking barefoot on broken glass with bleeding feet particularly warns of unseen damage coming in daily life."
+    },
+    {
+      "keyword_ko": "상처를 직접 치료하는 꿈",
+      "keyword_en": "treating one's own wound in a dream",
+      "interpretation_ko": "자신의 상처를 스스로 닦고 치료하는 꿈은 능동적인 자기 치유의 상징입니다. 현실에서 어떤 문제를 직접 해결하려는 의지와 실행력이 있음을 나타내며, 어려운 상황을 극복해 나가는 과정에 있음을 알려줍니다. 상처가 완전히 닫히는 꿈이면 더욱 긍정적입니다.",
+      "interpretation_en": "Tending to your own wound in a dream symbolizes active self-healing and agency. It reflects a real-world willingness to confront and resolve a problem head-on. If the wound closes completely during the dream, the prognosis for overcoming current difficulties is especially positive."
+    },
+    {
+      "keyword_ko": "가족이 상처 입어 피 흘리는 꿈",
+      "keyword_en": "family member with a bleeding wound",
+      "interpretation_ko": "가족이 상처를 입어 피를 흘리는 꿈은 그 가족에 대한 깊은 걱정과 보호 본능이 꿈으로 표출된 것입니다. 단순한 심리적 반영일 수 있지만, 전통 해석에서는 그 가족에게 건강 이상이나 중요한 변화가 찾아올 수 있다는 경고성 꿈으로도 봅니다. 상처를 치료해주는 꿈이라면 오히려 관계 회복이나 화해의 신호입니다.",
+      "interpretation_en": "A family member bleeding from a wound expresses deep concern and a protective instinct toward that person. While it may be a purely psychological reflection of worry, traditional Korean interpretation also reads it as a cautionary sign that the person may face health changes or significant life shifts. If you treat their wound in the dream, it can signal relationship healing or reconciliation."
+    }
+  ],
+  "culturalContext": {
+    "korean": "한국 전통 꿈해몽에서 '피'는 생명력, 재물, 기운의 상징으로 복잡한 이중성을 지닙니다. 상처에서 피가 나는 꿈은 표면적으로는 해를 입는 것이지만, 선명한 붉은 피가 흘러나오는 것은 억눌린 기운이 밖으로 표출되는 '기가 흐르는' 상태로 해석됩니다. 이는 막혔던 길이 뚫리고 새로운 기운이 유입된다는 의미로 이어집니다. 조선 시대 민간신앙에서도 피는 사기(邪氣)를 쫓는 힘을 지닌다고 믿어, 출혈이 오히려 부정을 씻어내는 정화의 의식으로 여겨졌습니다. 반면 검거나 탁한 피, 또는 피를 닦거나 씻어내는 행위는 이 생명력을 잃거나 거부하는 것으로 해석되어 흉하게 봅니다. 상처의 위치 또한 중요하여, 머리는 지혜와 사회적 지위, 손은 능력과 재능, 발은 재정적 기반과 연결하여 풀이합니다.",
+    "english": "In Korean traditional dream interpretation, blood carries a complex dual symbolism — simultaneously representing vitality, wealth, and life force. A bleeding wound, though seemingly harmful on the surface, is often read as the release of suppressed energy, akin to a blocked force finally flowing free. This is seen as a positive sign: channels open up, new energy enters. In Joseon-era folk belief, blood was thought to possess power to ward off malevolent spirits (사기, 邪氣), so bleeding in a dream could be understood as a purification ritual — the body expelling negative forces. By contrast, dark or murky blood, or the act of wiping blood away, represents a refusal or loss of this life energy and is considered inauspicious. The location of the wound further shapes interpretation: the head connects to wisdom and social standing, the hands to skill and talent, the feet to financial foundations."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트의 관점에서 상처와 출혈 꿈은 억압된 공격성이나 자기처벌 욕구의 무의식적 표현입니다. 피는 생명력과 성적 에너지의 상징으로, 상처에서 피가 흘러나오는 것은 억제된 욕동(libido)이 방출되는 것을 나타낼 수 있습니다. 또한 상처를 입는 것은 거세 불안이나 신체적 손상에 대한 두려움을 반영하며, 특히 남성의 경우 사회적 권력 상실에 대한 무의식적 공포로 해석될 수 있습니다.",
+      "english": "From a Freudian perspective, dreams of wounds and bleeding represent unconscious expressions of suppressed aggression or self-punishment impulses. Blood symbolizes life force and sexual energy, and bleeding from a wound may indicate the release of repressed libidinal drives. Being wounded also reflects castration anxiety or fear of bodily harm — particularly in men, it can be read as an unconscious fear of losing social power or virility."
+    },
+    "jungian": {
+      "korean": "융의 분석심리학에서 상처에서 피가 나는 꿈은 정신적 변환과 개성화(individuation) 과정의 상징입니다. 상처는 자아가 새로운 차원으로 성장하기 위해 낡은 자기 이미지나 페르소나(persona)를 깨뜨려야 함을 의미합니다. 흘러내리는 피는 이 과정에서의 고통이자 동시에 변환을 위한 에너지로, 꿈속의 피는 종종 '삶의 본질'과 '그림자(shadow)의 통합'을 상징합니다. 상처가 치유되는 결말은 더 성숙한 자아의 출현을 나타냅니다.",
+      "english": "In Jungian analytical psychology, a bleeding wound in a dream symbolizes psychic transformation and the individuation process. The wound represents the need to break through an old self-image or persona in order to grow into a deeper dimension of selfhood. The flowing blood is both the pain of this transition and the energy that fuels transformation — dream blood often symbolizes 'the essence of life' and the integration of the shadow. A dream that ends with wound healing indicates the emergence of a more mature self."
+    },
+    "modern": {
+      "korean": "현대 인지심리학과 수면 과학의 관점에서 상처에서 피 흘리는 꿈은 주로 현실의 스트레스, 신체적 불안, 또는 감정적 고통의 처리 과정으로 이해됩니다. 반복적으로 이런 꿈을 꾼다면 만성 스트레스, 외상 후 스트레스 장애(PTSD), 또는 번아웃 상태의 신호일 수 있으며, 실제 건강에 대한 잠재적 걱정이 꿈에 투영된 것일 수도 있습니다. 심리치료에서는 상처 꿈의 반복이 해소되지 않은 심리적 상처(psychological wound)를 처리하라는 내면의 신호로 해석하기도 합니다.",
+      "english": "From a modern cognitive psychology and sleep science perspective, dreams of wounds bleeding are primarily understood as the brain processing real-world stress, physical anxiety, or emotional pain during REM sleep. Recurring versions of this dream can signal chronic stress, PTSD, or burnout, and may reflect underlying health anxieties being projected into the dream space. In psychotherapy, repetitive wound dreams are often interpreted as an inner signal to address unresolved psychological wounds that have not yet been consciously processed."
+    },
+    "crossCultural": {
+      "korean": "혈액과 상처는 전 세계 문화권에서 다양한 상징성을 지닙니다. 고대 그리스에서 피는 신성한 생명의 본질로, 의식에서의 출혈은 신과의 교감을 의미했습니다. 이슬람 전통 해몽에서 피 흘리는 꿈은 대체로 죄의 속죄나 정화를 나타내며, 아메리카 원주민 전통에서 상처에서 피가 나는 꿈은 부족의 전사로서 용기와 희생을 상징합니다. 서양 민간 전통에서는 피 흘리는 꿈이 불운의 전조로 여겨지는 경우가 많은 반면, 동아시아 문화권(한국, 중국, 일본)에서는 풍부한 출혈이 오히려 재물운의 상징으로 반전되는 독특한 해석 체계를 공유합니다.",
+      "english": "Blood and wounds carry rich symbolic meaning across world cultures. In ancient Greece, blood was the sacred essence of life, and ritual bleeding signified communion with the divine. In Islamic dream tradition, bleeding generally represents atonement or purification of sins. Native American traditions may see a bleeding wound in a dream as a symbol of warrior courage and sacrifice. Western folk traditions often read bleeding dreams as ill omens, while East Asian cultures — Korea, China, and Japan — share a distinctive interpretive system in which abundant bleeding paradoxically signals incoming wealth and good fortune, inverting the Western reading entirely."
+    }
+  },
+  "relatedSymbols": [
+    "blood-dream",
+    "getting-hurt-dream",
+    "injury-dream",
+    "knife-dream",
+    "scar-dream",
+    "surgery-dream",
+    "pain-dream",
+    "accident-dream"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "상처에서 피나는 꿈",
+      "상처 피 꿈해몽",
+      "다쳐서 피나는 꿈",
+      "피나는 상처 꿈 해석",
+      "칼에 베여 피나는 꿈",
+      "출혈 꿈 해몽",
+      "피 흘리는 꿈 의미",
+      "상처 꿈해몽",
+      "손에서 피나는 꿈",
+      "다리에서 피나는 꿈",
+      "머리 상처 피나는 꿈",
+      "피 멈추지 않는 꿈",
+      "유리에 베이는 꿈",
+      "상처 치료받는 꿈"
+    ],
+    "english": [
+      "bleeding wound dream meaning",
+      "dream of bleeding from a wound",
+      "cut and bleeding dream interpretation",
+      "Korean dream interpretation bleeding",
+      "wound dream symbolism",
+      "dreaming of injury and blood",
+      "blood flowing from wound dream",
+      "dream about getting cut and bleeding"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "상처에서 피나는 꿈은 길몽인가요, 흉몽인가요?",
+      "answer_ko": "상처에서 피가 나는 꿈은 맥락에 따라 달라집니다. 피가 선명한 붉은색이고 양이 많으며 통증이 없었다면 재물운과 걱정 해소를 알리는 길몽입니다. 반면 피가 검붉거나 탁하고 멈추지 않는다면 건강 문제나 스트레스의 경고 신호인 흉몽에 가깝습니다.",
+      "answer_en": "It depends on the context. If the blood was bright red, flowed freely, and there was no pain, it is considered an auspicious dream signaling incoming wealth and relief from worries. However, if the blood was dark or murky and would not stop, it leans toward an inauspicious reading, warning of health issues or mounting stress.",
+      "question_en": "Is dreaming of a bleeding wound a good or bad omen?"
+    },
+    {
+      "question_ko": "칼에 베여 피나는 꿈은 무슨 의미인가요?",
+      "answer_ko": "칼에 베여 상처에서 피가 흐르는 꿈은 한국 꿈해몽에서 대표적인 길몽 중 하나입니다. 원하는 일을 이루고 큰 이익을 얻게 될 것을 암시하며, 특히 취업, 사업, 시험 등에서 좋은 결과를 예고합니다. 피가 선명하고 많을수록 성취의 크기도 크다고 해석합니다.",
+      "answer_en": "A dream of being cut by a knife with blood flowing is one of the most recognized good omens in Korean dream interpretation. It signals that you will achieve your goals and gain substantial benefits — particularly in job applications, business ventures, or exams. The more vivid and plentiful the blood, the greater the predicted success.",
+      "question_en": "What does it mean to dream of being cut by a knife and bleeding?"
+    },
+    {
+      "question_ko": "상처에서 피가 멈추지 않는 꿈을 꿨는데 걱정해야 하나요?",
+      "answer_ko": "피가 멈추지 않는 꿈은 현실에서 감당하기 힘든 스트레스나 심리적 소진 상태를 반영하는 경우가 많습니다. 꿈 자체가 미래를 결정하지는 않지만, 이런 꿈이 반복된다면 현재 몸과 마음이 지쳐 있다는 신호이므로 충분한 휴식과 전문가 상담을 고려해보는 것이 좋습니다.",
+      "answer_en": "A wound that won't stop bleeding in a dream often reflects overwhelming stress or psychological exhaustion in waking life. The dream itself does not determine your future, but if it recurs, it is a signal that your body and mind are depleted. Consider prioritizing rest and, if needed, speaking with a professional.",
+      "question_en": "Should I be worried if I dream of bleeding that won't stop?"
+    },
+    {
+      "question_ko": "가족이 상처 입어 피 흘리는 꿈은 어떻게 해석하나요?",
+      "answer_ko": "가족이 피 흘리는 꿈은 대부분 그 가족에 대한 깊은 걱정과 보호 본능이 꿈으로 표출된 것입니다. 단순한 심리적 반영일 수 있지만, 전통 해석에서는 그 가족에게 건강 변화나 중요한 사건이 생길 수 있다는 경고로 보기도 합니다. 만약 꿈 속에서 상처를 치료해줬다면 오히려 관계 회복의 좋은 신호로 해석합니다.",
+      "answer_en": "A family member bleeding in your dream most commonly expresses your deep concern and protective instinct toward them. It may simply be a psychological reflection of worry. In traditional interpretation, however, it can also serve as a cautionary sign that this person may face health changes or significant events. If you treated their wound in the dream, it is read as a positive sign of relationship healing.",
+      "question_en": "What does it mean when a family member is bleeding from a wound in my dream?"
+    },
+    {
+      "question_ko": "상처를 스스로 치료하는 꿈은 무슨 뜻인가요?",
+      "answer_ko": "자신의 상처를 직접 닦고 치료하는 꿈은 어려운 상황을 능동적으로 극복하고 있거나 극복해 나갈 의지가 있음을 상징합니다. 현실에서 직면한 문제를 스스로 해결할 수 있다는 내면의 자신감이 표출된 것이며, 상처가 완전히 닫혀 낫는 꿈이라면 어려움에서 벗어나 새로운 국면을 맞이할 길몽입니다.",
+      "answer_en": "Tending to your own wound in a dream symbolizes an active drive to overcome difficulty. It reflects inner confidence that you can solve the problem you are facing in real life. If the wound closes and heals completely in the dream, it is an auspicious sign that you will move beyond current hardship into a new, better chapter.",
+      "question_en": "What does it mean to treat your own bleeding wound in a dream?"
+    },
+    {
+      "question_ko": "피나는 상처 꿈과 일반 피 꿈은 어떻게 다른가요?",
+      "answer_ko": "일반 피 꿈은 출혈의 원인 없이 피 자체가 등장하는 경우로, 재물운의 상징성이 강합니다. 반면 상처에서 피가 나는 꿈은 '상처'와 '피'가 동시에 등장하므로, 상처 부위의 상징(머리=지위, 손=능력, 발=재정)이 피의 의미에 더해져 훨씬 구체적이고 복합적인 해석이 필요합니다. 피의 상태(선명함 vs. 탁함)와 꿈속의 감정이 최종 해석의 핵심입니다.",
+      "answer_en": "A general blood dream involves blood appearing without a clear wound as its source, and its symbolism centers heavily on wealth and fortune. A bleeding wound dream combines 'wound' and 'blood,' adding the symbolism of the injured body part (head = status, hand = ability, foot = finances) on top of the blood's meaning, requiring a more specific and layered reading. The color and clarity of the blood, and the emotional tone of the dream, are the most critical factors in determining the final interpretation.",
+      "question_en": "How is a bleeding wound dream different from a general blood dream?"
+    }
+  ]
+}

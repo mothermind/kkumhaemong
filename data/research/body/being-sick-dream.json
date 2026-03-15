@@ -1,0 +1,210 @@
+{
+  "symbol": {
+    "korean": "아픈",
+    "english": "Being Sick",
+    "slug": "being-sick-dream"
+  },
+  "summary": {
+    "korean": "아픈 꿈은 한국 꿈해몽에서 매우 독특한 상징을 지닙니다. 단순히 건강 악화를 예고하는 흉몽으로만 볼 수 없으며, 꿈의 세부 상황에 따라 현실의 변화와 전환, 나아가 뜻밖의 행운을 암시하는 길몽이 되기도 합니다. 특히 중병이나 불치병에 걸리는 꿈은 오히려 현실에서 하는 일이 원활하게 풀릴 징조로 해석되는 경우가 많습니다. 아픈 꿈은 심리적으로 극도의 스트레스, 과중한 부담, 혹은 큰 변화의 기로에 서 있음을 반영하기도 합니다.",
+    "english": "Dreaming of being sick carries a uniquely nuanced meaning in Korean dream interpretation. Rather than being a straightforward bad omen, the outcome depends heavily on context: mild illness often signals psychological stress or workload strain, while dreaming of a severe or terminal illness can paradoxically indicate that a long-standing difficulty is about to resolve. Recovery dreams and cure dreams are strong positive omens of completion and new beginnings. The sick dream tradition reflects the Korean folk belief that suffering in a dream can herald relief or transformation in waking life."
+  },
+  "interpretations": [
+    {
+      "type": "흉몽",
+      "korean": "꿈속에서 몸이 아프고 고통이 뚜렷하게 느껴졌다면, 현재 심리적으로 매우 불안정한 상태에 있음을 나타냅니다. 직장이나 사업에서 과중한 부담을 지고 있으며, 스트레스가 쌓여 실제 건강에도 영향을 줄 수 있음을 경고하는 꿈입니다. 빠른 휴식과 자기 돌봄이 필요한 시점입니다.",
+      "english": "When illness in a dream is accompanied by vivid pain or discomfort, it signals a state of severe psychological instability. The dreamer is likely carrying excessive burdens at work or in business, and the accumulated stress may be beginning to affect physical health. This dream is a warning to rest and practice self-care before the situation worsens.",
+      "context": "고통 동반, 스트레스 과부하"
+    },
+    {
+      "type": "흉몽",
+      "korean": "불치병·희귀 질병·말기 암에 걸리는 꿈은 오랫동안 해결하지 못하고 끌어온 문제들이 더욱 악화되는 상황을 상징합니다. 마음속 깊이 쌓인 불안과 절망이 꿈으로 표출된 것이며, 현실에서도 심적으로 매우 힘든 국면에 처해 있음을 뜻합니다.",
+      "english": "Dreaming of an incurable disease, rare illness, or terminal cancer symbolizes long-standing problems becoming worse. It reflects deep-seated anxiety and despair that has built up over time. In waking life, the dreamer may be facing an emotionally exhausting situation with no clear resolution in sight.",
+      "context": "불치병·말기 암 꿈, 장기 문제 악화"
+    },
+    {
+      "type": "길몽",
+      "korean": "죽을 만큼 중한 병에 걸리는 꿈은 역설적으로 어려운 상황의 전환점을 의미하며 운세가 호전될 것을 암시합니다. 고통이 클수록 현실에서의 반전도 크다는 민간 해석이 있습니다. 사업상 난관을 극복하거나, 오랫동안 막혔던 일이 돌파구를 찾게 되는 길조입니다.",
+      "english": "Paradoxically, dreaming of a life-threatening illness is a strong positive omen in Korean folk tradition. It signals a turning point: the more severe the illness in the dream, the greater the reversal of fortune in reality. Business obstacles will be overcome, and long-stalled projects will find a breakthrough.",
+      "context": "중병·죽을 병 꿈, 역설적 길몽"
+    },
+    {
+      "type": "길몽",
+      "korean": "병이 완치되거나 회복되는 꿈은 진행 중인 일에 결론이 맺어지거나 새로운 사업·프로젝트를 시작하게 됨을 의미합니다. 오래된 문제가 해소되고 새 출발의 에너지가 찾아오는 매우 긍정적인 꿈입니다.",
+      "english": "Dreaming of recovery or being cured of illness is an auspicious sign that a current endeavor will reach a satisfying conclusion, or that a new project or business venture will begin. Long-standing problems dissolve, and fresh energy for a new chapter arrives.",
+      "context": "완치·회복 꿈, 새 출발"
+    },
+    {
+      "type": "neutral",
+      "korean": "꿈에서 아프긴 했지만 고통이 거의 없거나 무감각했다면, 심리적으로 지쳐 감각이 무뎌진 상태를 반영합니다. 번아웃 직전이거나 현실의 문제를 무의식적으로 외면하고 있는 신호일 수 있으므로, 내면의 목소리에 귀를 기울일 필요가 있습니다.",
+      "english": "If the illness in the dream caused little or no pain — a feeling of numbness — this reflects psychological exhaustion and emotional detachment. The dreamer may be nearing burnout or subconsciously suppressing real-life problems. A signal to listen to inner needs before they escalate.",
+      "context": "무통증 아픔, 번아웃·감정 마비"
+    },
+    {
+      "type": "흉몽",
+      "korean": "타인(가족, 친구)이 아픈 꿈은 그 사람과의 관계에 대한 걱정이나, 실제로 그 사람의 건강 또는 상황이 좋지 않음을 직감적으로 감지한 것일 수 있습니다. 특히 부모님이 아픈 꿈은 가정 내 갈등이나 가족 구성원의 건강 악화를 암시합니다.",
+      "english": "Dreaming that another person — a family member or close friend — is sick reflects underlying worry about that relationship, or may be an intuitive signal about that person's actual wellbeing. A parent being sick in a dream can indicate family conflict or a deterioration in that person's health.",
+      "context": "타인 아픔, 가족 걱정"
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "내가 아픈 꿈",
+      "keyword_en": "Dreaming of being sick yourself",
+      "interpretation_ko": "자신이 아픈 꿈은 현재 정신적·신체적으로 과부하 상태임을 알리는 경고이거나, 심각한 병일수록 오히려 운세 전환의 길몽으로 해석됩니다. 꿈 속 고통의 정도와 병의 심각성을 함께 살펴보세요.",
+      "interpretation_en": "Dreaming you are personally ill signals either mental/physical overload (if the illness is mild and painful) or an impending positive turn of fortune (if the illness is severe). The degree of suffering and the severity of illness in the dream are key indicators."
+    },
+    {
+      "keyword_ko": "가족이 아픈 꿈",
+      "keyword_en": "Family member being sick in a dream",
+      "interpretation_ko": "가족이 아픈 꿈은 그 가족에 대한 걱정이 무의식에서 표출된 것입니다. 부모님이 아픈 경우 가정 불화나 건강 악화를 암시하고, 자녀가 아픈 꿈은 자녀의 앞날에 대한 염려를 반영합니다.",
+      "interpretation_en": "A family member's illness in a dream represents subconscious worry. Parents being sick signals potential family discord or health decline; a child being sick reflects anxious concern about the child's future."
+    },
+    {
+      "keyword_ko": "불치병·말기암에 걸리는 꿈",
+      "keyword_en": "Dreaming of terminal illness or cancer",
+      "interpretation_ko": "한국 꿈해몽 전통에서 암이나 불치병에 걸리는 꿈은 역설적으로 큰 행운이 올 길몽으로 자주 해석됩니다. 가장 극단적인 흉사 이미지가 극단적인 반전의 길조가 되는 것입니다.",
+      "interpretation_en": "In Korean dream tradition, dreaming of cancer or a terminal illness is often paradoxically interpreted as a great fortune omen. The most extreme image of misfortune signals the most dramatic reversal of luck in waking life."
+    },
+    {
+      "keyword_ko": "병이 낫는 꿈",
+      "keyword_en": "Recovering from illness in a dream",
+      "interpretation_ko": "병이 낫는 꿈은 진행 중인 일의 완성, 문제의 해결, 또는 새로운 시작을 알리는 매우 좋은 꿈입니다. 오래 지속된 고민이나 갈등이 마침내 해소될 것을 암시합니다.",
+      "interpretation_en": "Recovering from illness in a dream is an excellent omen indicating the completion of an ongoing project, resolution of a problem, or a fresh new beginning. Long-standing worries or conflicts are about to dissolve."
+    },
+    {
+      "keyword_ko": "배가 아픈 꿈",
+      "keyword_en": "Stomach ache or abdominal pain dream",
+      "interpretation_ko": "배가 아픈 꿈은 책임 있는 일을 맡았지만 나의 능력이 부족하게 느껴져 심리적 압박을 받고 있음을 나타냅니다. 소화하기 벅찬 상황이 주어진 것으로, 도움을 구하거나 역할을 조정할 필요가 있습니다.",
+      "interpretation_en": "Stomach pain in a dream indicates that a responsibility has been taken on that feels beyond the dreamer's current capacity, creating psychological pressure. It suggests a situation that is 'hard to digest' — help should be sought or the role adjusted."
+    },
+    {
+      "keyword_ko": "피부병에 걸리는 꿈",
+      "keyword_en": "Dreaming of a skin disease",
+      "interpretation_ko": "피부병이 생기는 꿈은 몸에 이상이 생기거나 예상치 못한 고민이 생겨 마음이 힘들어질 것을 예고합니다. 하는 일이 순조롭게 풀리지 않아 어려움을 겪을 수 있습니다.",
+      "interpretation_en": "Dreaming of a skin condition signals unexpected worries or problems arising, causing emotional distress. Ongoing plans or projects may hit obstacles and progress may slow."
+    },
+    {
+      "keyword_ko": "열이 나는 꿈",
+      "keyword_en": "Dreaming of having a fever",
+      "interpretation_ko": "열이 나는 꿈은 내면의 감정이 뜨겁게 끓어오르는 상태, 즉 억눌린 감정이나 열정이 폭발하기 직전임을 상징합니다. 긍정적으로 발산하면 창의적 에너지가 되지만, 억압하면 갈등으로 표출될 수 있습니다.",
+      "interpretation_en": "A fever dream symbolizes inner emotions reaching a boiling point — suppressed feelings or intense passion on the verge of release. When channeled positively, this becomes creative energy; when suppressed, it may erupt as conflict."
+    },
+    {
+      "keyword_ko": "두통·머리가 아픈 꿈",
+      "keyword_en": "Headache dream",
+      "interpretation_ko": "꿈에서 두통이 있었다면 반대로 기쁜 소식이 찾아오거나 인간관계가 개선될 징조입니다. 한국의 꿈해몽 전통에서 머리 통증은 '머리가 맑아지는' 좋은 사건의 전조로도 해석됩니다.",
+      "interpretation_en": "A headache in a dream is considered a reverse omen — good news is coming, or an interpersonal relationship will improve. In Korean dream tradition, head pain can paradoxically herald mental clarity and positive developments ahead."
+    },
+    {
+      "keyword_ko": "병원에 입원하는 꿈",
+      "keyword_en": "Being hospitalized in a dream",
+      "interpretation_ko": "병원에 입원하는 꿈은 심리적 극한 상황을 상징하며, 현재 감당하기 어려운 스트레스나 불안이 쌓였음을 반영합니다. 동시에 '치료받는다'는 상징으로 외부의 도움이나 지지가 필요한 시점임을 알립니다.",
+      "interpretation_en": "Being hospitalized in a dream symbolizes a psychological state pushed to the limit. It reflects overwhelming stress or anxiety that has accumulated. The 'receiving treatment' symbolism also signals that outside support or help is needed now."
+    },
+    {
+      "keyword_ko": "타인이 아픈 것을 돌보는 꿈",
+      "keyword_en": "Caring for someone who is sick",
+      "interpretation_ko": "아픈 사람을 간호하는 꿈은 향후 타인의 도움이 필요하게 될 상황이 오지만, 결국 큰 보상이 따른다는 징조입니다. 또한 상대방과의 관계가 더욱 돈독해질 것을 암시합니다.",
+      "interpretation_en": "Caring for a sick person in a dream foretells that you may soon need others' help, but great rewards will eventually follow. It also suggests that the relationship with the person being cared for will deepen and strengthen."
+    }
+  ],
+  "culturalContext": {
+    "korean": "한국 민간 꿈해몽 전통에서 아픈 꿈은 두 가지 상반된 해석 체계 안에서 이해됩니다. 첫째는 꿈의 내용을 상징적으로 직접 해석하는 방식으로, 아픔은 현실의 고통·부담·스트레스를 반영합니다. 둘째는 꿈의 내용이 현실과 반대로 실현된다는 '역몽(逆夢)' 원리로, 이 원리에 따르면 꿈에서 심하게 아프거나 죽을 병에 걸릴수록 현실에서는 오히려 건강하고 운이 좋아진다고 봅니다. 이 역몽의 원리는 특히 불치병·말기 암에 걸리는 꿈을 대길몽으로 해석하는 데 핵심적으로 작용합니다. 또한 전통적으로 몸은 가족과 공동체의 연장선으로 인식되어, 가족이 아픈 꿈은 가정 내 기운의 변화와 직결된다고 보았습니다. 무속 전통에서는 꿈속 질병이 신령이나 조상령의 메시지이거나, 부정(不淨)한 기운이 몸을 통해 나타나는 것으로 해석하기도 했습니다.",
+    "english": "In Korean folk dream tradition, illness dreams are understood through two coexisting interpretive frameworks. The first is direct symbolic interpretation: pain and sickness mirror real-life burdens, stress, and hardship. The second is the 'reverse dream' (역몽) principle, in which a dream's content manifests as the opposite in reality — meaning the sicker one is in the dream, the healthier and luckier they will be in waking life. This reverse principle is central to interpreting terminal illness dreams as great fortune omens. Traditionally, the body was also seen as an extension of the family and community; a dream of a family member falling ill was therefore directly linked to shifts in the household's spiritual energy. In shamanic (무속) tradition, dream illnesses could be messages from spirits or ancestral energies, or manifestations of negative energy (부정) passing through the body."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트의 관점에서 아픈 꿈은 억압된 욕망이나 죄책감, 자기 처벌의 욕구와 연결됩니다. 특히 신체의 특정 부위가 아픈 꿈은 해당 부위와 연관된 상징적 의미—성적 욕망, 권력욕, 무의식적 불안—를 담고 있을 수 있습니다. 또한 꿈속 질병은 현실에서 인정받지 못하는 자아의 취약성이 외부로 투사된 것으로 해석될 수 있습니다.",
+      "english": "From a Freudian perspective, illness dreams connect to repressed desires, guilt, or an unconscious wish for self-punishment. Sickness in a specific body part may carry symbolic meaning tied to that region — sexual drives, power struggles, or latent anxieties. Disease can also represent the projection of an unacknowledged vulnerable self that is not accepted in waking life."
+    },
+    "jungian": {
+      "korean": "융의 심리학에서 아픈 꿈은 정신의 보상 기능을 수행합니다. 일상에서 지나치게 외향적이거나 활동적인 사람이 꿈에서 병을 앓음으로써 내면의 균형을 회복하려는 시도를 합니다. 또한 아픔은 '상처 입은 치유자(Wounded Healer)' 원형과 연결되며, 병의 체험을 통해 더 깊은 자기 이해와 변환이 일어남을 상징합니다. 그림자(Shadow)의 억압된 요소들이 신체 증상으로 나타나는 과정이기도 합니다.",
+      "english": "In Jungian psychology, illness dreams serve a compensatory function for the psyche. Someone who is excessively active or extroverted in waking life may dream of illness as the unconscious tries to restore inner balance. Sickness also connects to the 'Wounded Healer' archetype — transformation and deeper self-knowledge emerge through the experience of suffering. The dream may also symbolize suppressed Shadow elements manifesting as physical symptoms."
+    },
+    "modern": {
+      "korean": "현대 심리학에서는 아픈 꿈을 주로 신체적·정서적 신호로 해석합니다. 꿈 연구에 따르면 실제로 아프거나 면역 체계가 약해질 때 신체가 뇌에 신호를 보내며, 이것이 꿈에서 질병 이미지로 나타날 수 있습니다. 또한 번아웃, 만성 스트레스, 감정적 탈진 상태에서 아픈 꿈이 자주 보고되며, 이는 자기 돌봄의 필요성에 대한 무의식의 경고 신호로 해석됩니다.",
+      "english": "Modern psychology interprets illness dreams primarily as physical and emotional signals. Research suggests that when the immune system weakens, the body sends signals to the brain that may appear as illness imagery in dreams. Sick dreams are also frequently reported during burnout, chronic stress, and emotional exhaustion — interpreted as the unconscious signaling an urgent need for self-care and rest."
+    },
+    "crossCultural": {
+      "korean": "문화권을 막론하고 아픈 꿈은 변화와 전환의 상징으로 널리 인식됩니다. 중국 전통에서는 꿈속 질병이 음양의 불균형을 나타내며, 기(氣)의 흐름이 막혔음을 의미합니다. 서양 고대 문화(그리스·로마)에서는 질병 꿈이 신탁이나 예언과 연결되어 신의 메시지로 받아들여졌습니다. 인도 아유르베다 전통에서는 꿈속 아픔이 도샤(dosha)의 불균형을 반영한다고 봅니다. 공통적으로, 아픈 꿈은 '치유가 필요한 무언가가 존재한다'는 보편적 메시지를 담고 있습니다.",
+      "english": "Across cultures, illness dreams are widely recognized as symbols of change and transition. In Chinese tradition, dreaming of sickness indicates an imbalance of yin and yang and a blocked flow of qi. In ancient Western cultures (Greek, Roman), illness dreams were treated as oracles — divine messages requiring interpretation. In Ayurvedic tradition, dreamed illness reflects an imbalance of doshas. Universally, the sick dream carries the message: 'something requires healing attention.'"
+    }
+  },
+  "relatedSymbols": [
+    "hospital-dream",
+    "death-dream",
+    "doctor-dream",
+    "medicine-dream",
+    "pain-dream",
+    "recovery-dream",
+    "teeth-crumbling-dream",
+    "injury-dream"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "아픈 꿈해몽",
+      "아픈 꿈 의미",
+      "병에 걸리는 꿈",
+      "질병 꿈해몽",
+      "불치병 꿈 길몽",
+      "말기암 꿈 해석",
+      "병이 낫는 꿈",
+      "가족 아픈 꿈",
+      "배 아픈 꿈",
+      "두통 꿈해몽",
+      "열나는 꿈",
+      "피부병 꿈",
+      "죽을 병 꿈 길몽",
+      "아픈 꿈 흉몽"
+    ],
+    "english": [
+      "being sick dream meaning",
+      "illness dream interpretation",
+      "sick dream symbolism",
+      "dreaming of disease",
+      "terminal illness dream omen",
+      "Korean sick dream meaning",
+      "recovering from illness dream",
+      "family member sick dream",
+      "sick dream good or bad"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "아픈 꿈은 무조건 나쁜 꿈인가요?",
+      "answer_ko": "아닙니다. 아픈 꿈은 상황에 따라 길몽이 되기도 합니다. 특히 중병이나 불치병, 말기 암에 걸리는 꿈은 한국 꿈해몽 전통에서 오히려 큰 행운이 찾아올 대길몽으로 해석됩니다. 이를 '역몽(逆夢)' 원리라 하며, 꿈속 고통이 현실의 행운으로 반전된다고 봅니다.",
+      "question_en": "Is dreaming of being sick always a bad omen?",
+      "answer_en": "Not at all. In Korean dream interpretation, illness dreams can be highly auspicious depending on the context. Dreaming of a serious or terminal illness is often interpreted as a great fortune omen — a 'reverse dream' (역몽) where suffering in the dream transforms into luck in reality."
+    },
+    {
+      "question_ko": "꿈에서 병이 낫는 꿈은 어떤 의미인가요?",
+      "answer_ko": "병이 낫거나 완치되는 꿈은 매우 긍정적인 꿈입니다. 진행 중인 일이나 프로젝트가 완성되거나, 오래된 문제가 해결되고 새로운 출발의 기회가 찾아올 것을 암시합니다. 관계 갈등이 해소되거나 사업이 새로운 국면으로 접어드는 신호이기도 합니다.",
+      "question_en": "What does it mean to dream of recovering from an illness?",
+      "answer_en": "Dreaming of recovery or being cured is a very positive omen. It indicates that an ongoing project will reach completion, a long-standing problem will finally be resolved, and a new chapter is about to begin. It can also signal the healing of a relationship conflict or a business entering a new, more promising phase."
+    },
+    {
+      "question_ko": "가족이 아픈 꿈은 실제로 그 사람이 아프다는 의미인가요?",
+      "answer_ko": "반드시 그런 것은 아닙니다. 가족이 아픈 꿈은 대체로 그 가족에 대한 걱정이나 관계의 긴장감이 무의식에서 표출된 것입니다. 그러나 직관적으로 강하게 느껴진다면 실제 건강 상태를 확인해보는 것도 좋습니다. 특히 부모님이 아픈 꿈은 가정 내 갈등이나 건강 문제를 암시할 수 있습니다.",
+      "question_en": "Does dreaming of a sick family member mean they are actually ill?",
+      "answer_en": "Not necessarily. A family member's illness in a dream usually reflects subconscious worry or relational tension you feel toward that person. If the dream was particularly vivid and emotionally intense, it may be worth checking in on their wellbeing — but the dream is primarily a reflection of your own emotional state and concerns."
+    },
+    {
+      "question_ko": "배가 아픈 꿈은 무슨 의미인가요?",
+      "answer_ko": "배가 아픈 꿈은 현실에서 감당하기 벅찬 책임이나 역할을 맡고 있어 심리적 압박을 받고 있음을 나타냅니다. '소화하기 힘든 상황'에 처해 있다는 무의식의 표현이며, 도움을 요청하거나 역할을 재분배할 필요가 있다는 신호입니다.",
+      "question_en": "What does it mean to dream of a stomach ache?",
+      "answer_en": "A stomach ache dream indicates that you are carrying a responsibility or role that feels beyond your current capacity, creating psychological pressure. It is the unconscious expressing that a situation is 'hard to digest.' Consider asking for help or redistributing responsibilities to reduce the burden."
+    },
+    {
+      "question_ko": "아픈 꿈을 자주 꾸는 이유는 무엇인가요?",
+      "answer_ko": "아픈 꿈을 반복적으로 꾼다면 만성적인 스트레스, 번아웃, 또는 실제 신체 건강에 이상이 생기고 있다는 신호일 수 있습니다. 현대 심리학에서는 면역 체계가 약해지거나 신체가 피로를 느낄 때 뇌가 이를 꿈에서 질병 이미지로 표현한다고 봅니다. 반복적으로 꾼다면 충분한 휴식과 건강 검진을 고려해보세요.",
+      "question_en": "Why do I keep dreaming about being sick?",
+      "answer_en": "Recurring illness dreams can signal chronic stress, burnout, or an early sign that your physical health needs attention. Modern research suggests that when the immune system is weakened or the body is fatigued, the brain may express this through illness imagery in dreams. If these dreams recur, prioritize rest and consider a health check-up."
+    },
+    {
+      "question_ko": "암에 걸리는 꿈은 진짜로 암에 걸린다는 예지몽인가요?",
+      "answer_ko": "그렇지 않습니다. 한국 꿈해몽에서 암에 걸리는 꿈은 오히려 큰 행운이 찾아올 길몽으로 해석됩니다. 꿈은 예지보다 현재의 심리 상태를 상징적으로 표현하는 경우가 훨씬 많습니다. 건강에 대한 실제 걱정이 있다면 꿈의 의미보다 의사와의 상담이 우선입니다.",
+      "question_en": "Does dreaming of cancer mean I will actually get cancer?",
+      "answer_en": "No. In Korean dream interpretation, dreaming of cancer is actually considered one of the luckiest omens — a sign of great fortune to come. Dreams are symbolic expressions of the psyche's current state far more often than literal premonitions. If you have real health concerns, a doctor's consultation takes priority over dream interpretation."
+    }
+  ]
+}
