@@ -55,6 +55,7 @@ scripts/firebase-service-account.json
 # Pipeline artifacts — regenerable, not needed for app
 /data/images/
 /data/validation/
+/data/content/
 
 # Local Claude settings override
 .claude/settings.local.json
