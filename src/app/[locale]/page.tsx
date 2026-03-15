@@ -30,7 +30,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       description: t("description"),
       url: canonical,
       siteName: "꿈해몽 Kkumhaemong",
-      images: [{ url: "/og-image.png", width: 1200, height: 630 }],
+      images: [{ url: "/og-image.jpg", width: 1200, height: 630 }],
       locale: isKo ? "ko_KR" : "en_US",
       type: "website",
     },
@@ -38,7 +38,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       card: "summary_large_image",
       title: t("title"),
       description: t("description"),
-      images: ["/og-image.png"],
+      images: ["/og-image.jpg"],
     },
   };
 }
