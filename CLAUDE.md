@@ -387,15 +387,23 @@ All hooks are minimal — logging + security only, no TTS, no external API calls
 
 ---
 
-## Current State (last updated: 2026-03-15)
+## Current State (last updated: 2026-03-17)
 
-### Infrastructure Migration — COMPLETE ✅
+### Infrastructure — COMPLETE ✅
 - **Firebase Storage**: All 404 slug image folders uploaded as WebP (was PNG, ~90% size reduction). Bucket: `my-fortune-site.firebasestorage.app` (asia-northeast3). Public URL: `https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/{slug}/{name}.webp`
 - **Firestore**: 413 content docs in collection `dreams` (doc ID = english slug). `src/lib/content.ts` reads from Firestore via Admin SDK.
 - **`public/images/dreams/`**: Added to `.gitignore`, removed from git tracking (795 MB freed)
 - **Env vars required**: `FIREBASE_PROJECT_ID`, `FIREBASE_CLIENT_EMAIL`, `FIREBASE_PRIVATE_KEY` (set in `.env` locally, Vercel env vars for production)
-- **`next.config.ts`**: `remotePatterns` added for `storage.googleapis.com`
+- **`FIREBASE_PRIVATE_KEY` format**: paste raw key WITHOUT surrounding quotes in Vercel dashboard — quotes are treated as literal characters and break auth
+- **`next.config.ts`**: `remotePatterns` added for `storage.googleapis.com`, `serverExternalPackages: ["firebase-admin"]`
 - **Migration scripts**: `scripts/migrate-images-to-firebase.mjs`, `scripts/migrate-content-to-firestore.mjs`
+
+### Vercel Deployment — LIVE ✅ (2026-03-17)
+- **URL**: kkumhaemong.com (DNS connected)
+- **Rendering**: ISR (`revalidate = 86400`, `dynamicParams = true`) on all dream/category/explore pages
+- **Build time**: ~42 seconds (was 55+ minutes with full SSG)
+- **Search index**: `public/search-index.json` committed to git (413 entries). `scripts/build-search-index.mjs` bails early if `data/content/` not present — prevents Vercel from overwriting with empty array. Run locally after adding content, then commit.
+- **`@opentelemetry/api`**: installed as peer dep for firebase-admin on Vercel
 
 ### Content Pipeline Progress — PHASE 1 COMPLETE ✅
 - **Total articles: 413** across all 24 categories (actions: 161, others: 9–10 each)
@@ -460,7 +468,7 @@ All 204 body taxonomy symbols researched: 181 research files in `data/research/b
 - [x] ~~Bash permission for subagents~~ → `Bash(*)` in `.claude/settings.json` allow list ✅
 - [x] ~~Infrastructure migration~~ → Firebase Storage + Firestore + Vercel Hobby ✅
 - [x] ~~GitHub repo~~ → `llnOrmll/kkumhaemong` ✅
-- [ ] **Deploy to Vercel**: Remove `@opennextjs/cloudflare`, connect repo, set Firebase env vars in Vercel dashboard
+- [x] ~~Deploy to Vercel~~ → Live at kkumhaemong.com, ISR enabled, Firebase env vars set ✅
 - [ ] Ad slot implementation: replace placeholder divs with real AdSense + Kakao AdFit units
 - [ ] Naver Blog mirroring: manual vs semi-automated
 - [ ] Rename `src/middleware.ts` → `src/proxy.ts` (Next.js 16 deprecation)
