@@ -1,7 +1,7 @@
 import type { MetadataRoute } from "next";
 import { getAllSlugs, getTaxonomyMeta } from "@/lib/taxonomy";
 
-const BASE_URL = "https://kkumhaemong.com";
+const BASE_URL = "https://www.kkumhaemong.com";
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const entries: MetadataRoute.Sitemap = [];

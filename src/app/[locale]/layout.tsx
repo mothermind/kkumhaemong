@@ -16,7 +16,7 @@ const nanumMyeongjo = Nanum_Myeongjo({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://kkumhaemong.com"),
+  metadataBase: new URL("https://www.kkumhaemong.com"),
 };
 
 export default async function LocaleLayout({

@@ -26,8 +26,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     ? `${data.korean} 관련 꿈해몽을 모두 모았습니다. 길몽·흉몽 구분과 상황별 해석을 확인하세요.`
     : `Explore all ${data.english.toLowerCase()} dream meanings with auspicious and inauspicious interpretations from Korean tradition.`;
   const canonical = isKo
-    ? `https://kkumhaemong.com/ko/탐색/${category}`
-    : `https://kkumhaemong.com/en/explore/${category}`;
+    ? `https://www.kkumhaemong.com/ko/탐색/${category}`
+    : `https://www.kkumhaemong.com/en/explore/${category}`;
 
   return {
     title,
@@ -35,8 +35,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     alternates: {
       canonical,
       languages: {
-        ko: `https://kkumhaemong.com/ko/탐색/${category}`,
-        en: `https://kkumhaemong.com/en/explore/${category}`,
+        ko: `https://www.kkumhaemong.com/ko/탐색/${category}`,
+        en: `https://www.kkumhaemong.com/en/explore/${category}`,
       },
     },
     openGraph: {

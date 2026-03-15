@@ -43,8 +43,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     ? "동물, 행동, 태몽, 재물 등 카테고리별로 꿈해몽을 찾아보세요. 길몽·흉몽 구분과 함께 상세한 한국 전통 꿈 해석을 제공합니다."
     : "Browse Korean dream interpretations by category — animals, actions, pregnancy, money and more. Find auspicious and inauspicious meanings.";
   const canonical = isKo
-    ? "https://kkumhaemong.com/ko/탐색"
-    : "https://kkumhaemong.com/en/explore";
+    ? "https://www.kkumhaemong.com/ko/탐색"
+    : "https://www.kkumhaemong.com/en/explore";
 
   return {
     title,
@@ -52,8 +52,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     alternates: {
       canonical,
       languages: {
-        ko: "https://kkumhaemong.com/ko/탐색",
-        en: "https://kkumhaemong.com/en/explore",
+        ko: "https://www.kkumhaemong.com/ko/탐색",
+        en: "https://www.kkumhaemong.com/en/explore",
       },
     },
     openGraph: {

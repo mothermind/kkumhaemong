@@ -14,6 +14,6 @@ export default function robots(): MetadataRoute.Robots {
         allow: "/",
       },
     ],
-    sitemap: "https://kkumhaemong.com/sitemap.xml",
+    sitemap: "https://www.kkumhaemong.com/sitemap.xml",
   };
 }

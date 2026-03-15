@@ -13,7 +13,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: "home" });
   const isKo = locale === "ko";
-  const canonical = isKo ? "https://kkumhaemong.com/ko" : "https://kkumhaemong.com/en";
+  const canonical = isKo ? "https://www.kkumhaemong.com/ko" : "https://www.kkumhaemong.com/en";
 
   return {
     title: t("title"),
@@ -21,8 +21,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     alternates: {
       canonical,
       languages: {
-        ko: "https://kkumhaemong.com/ko",
-        en: "https://kkumhaemong.com/en",
+        ko: "https://www.kkumhaemong.com/ko",
+        en: "https://www.kkumhaemong.com/en",
       },
     },
     openGraph: {
