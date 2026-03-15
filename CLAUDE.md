@@ -387,7 +387,7 @@ All hooks are minimal — logging + security only, no TTS, no external API calls
 
 ---
 
-## Current State (last updated: 2026-03-14)
+## Current State (last updated: 2026-03-15)
 
 ### Infrastructure Migration — COMPLETE ✅
 - **Firebase Storage**: All 404 slug image folders uploaded as WebP (was PNG, ~90% size reduction). Bucket: `my-fortune-site.firebasestorage.app` (asia-northeast3). Public URL: `https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/{slug}/{name}.webp`
@@ -417,13 +417,33 @@ Three rounds of prose cleanup applied to all content files:
 - **Cliffhanger rewrite**: 392 of 413 intros used the identical `그런데 한 가지—` transition. Rewrote all 392 using GPT-4o-mini with varied natural Korean alternatives. Script: `scripts/rewrite-cliffhanger.mjs` (dry-run + full mode, batch size 6). Content agent updated to ban this phrase with 6 varied alternatives.
 - All changes synced to Firestore after each round.
 
-### All 24 Categories — Research + Content Complete ✅
+### Body Category Research — COMPLETE ✅ (2026-03-15)
+All 204 body taxonomy symbols researched: 181 research files in `data/research/body/` (some taxonomy entries share slugs). Batches 12–27 completed this session covering physical sensations, transformations, injuries, medical procedures, and body-part variations.
+
+### All 24 Categories — Phase 1 Research + Content Complete ✅
 - actions: 161/161 ✅
 - animals, body, celestial, clothing, colors, death: 10/10 ✅
 - disasters: 9/10 ✅ (car-accident-dream canonical to actions)
 - emotions, fire, food, insects, marriage, money, nature: 10/10 ✅
 - numbers: 9/10 ✅ (winning-lottery-dream canonical to money)
 - objects, people, places, plants, pregnancy, spirits, transportation, water, weather: 10/10 ✅
+
+### Phase 2 Research — IN PROGRESS
+- **animals**: 212/212 research ✅, content pending (~183 articles)
+- **body**: 181/204 research ✅, content pending
+- Other categories: research expansion planned per `data/research/_plan.json`
+
+### View Count Tracking — COMPLETE ✅ (2026-03-15)
+- `src/app/api/view/route.ts` — POST endpoint increments `views` field in Firestore
+- `src/components/dream/ViewTracker.tsx` — client component fires on page mount
+- `src/lib/content.ts` `getTopDreamsByViews()` — queries top dreams by views
+- Homepage trending section now dynamic; falls back to `POPULAR_SLUGS` on cold start
+
+### GitHub Repo — CREATED ✅ (2026-03-15)
+- Repo: `git@github-llnormll:llnOrmll/kkumhaemong.git`
+- SSH host alias `github-llnormll` configured in `~/.ssh/config` (port 443 for firewall bypass)
+- `.gitignore` updated: `logs/`, `data/images/`, `data/validation/`, `data/content/`, `.claude/settings.local.json` all excluded
+- `data/content/` removed from git tracking (mirrored in Firestore — Firestore is source of truth)
 
 ### Pipeline to run next articles
 1. Content agent calls Imagen 4 (`imagen-4.0-generate-001`) via Google Generative Language API
@@ -439,6 +459,7 @@ Three rounds of prose cleanup applied to all content files:
 - [x] ~~Explorer UI~~ → `/explore` category grid + `/explore/[category]` with subcategory filter pills ✅
 - [x] ~~Bash permission for subagents~~ → `Bash(*)` in `.claude/settings.json` allow list ✅
 - [x] ~~Infrastructure migration~~ → Firebase Storage + Firestore + Vercel Hobby ✅
+- [x] ~~GitHub repo~~ → `llnOrmll/kkumhaemong` ✅
 - [ ] **Deploy to Vercel**: Remove `@opennextjs/cloudflare`, connect repo, set Firebase env vars in Vercel dashboard
 - [ ] Ad slot implementation: replace placeholder divs with real AdSense + Kakao AdFit units
 - [ ] Naver Blog mirroring: manual vs semi-automated

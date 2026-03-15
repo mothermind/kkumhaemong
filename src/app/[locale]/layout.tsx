@@ -40,6 +40,10 @@ export default async function LocaleLayout({
     <html lang={locale} className={nanumMyeongjo.variable} suppressHydrationWarning>
       <head>
         <script dangerouslySetInnerHTML={{ __html: themeScript }} />
+        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+        <link rel="manifest" href="/site.webmanifest" />
       </head>
       <body className="flex min-h-screen flex-col bg-midnight light:bg-[#f5f0e8] text-text-primary">
         <NextIntlClientProvider messages={messages}>

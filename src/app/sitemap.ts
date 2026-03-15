@@ -12,18 +12,24 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     { url: `${BASE_URL}/en`, lastModified: new Date(), priority: 0.9 }
   );
 
-  // Category pages
+  // Explore index pages
+  entries.push(
+    { url: `${BASE_URL}/ko/탐색`, lastModified: new Date(), priority: 0.85 },
+    { url: `${BASE_URL}/en/explore`, lastModified: new Date(), priority: 0.8 }
+  );
+
+  // Explore category pages
   const meta = await getTaxonomyMeta();
   if (meta) {
     for (const cat of meta.categories) {
       entries.push(
         {
-          url: `${BASE_URL}/ko/카테고리/${cat.slug}`,
+          url: `${BASE_URL}/ko/탐색/${cat.slug}`,
           lastModified: new Date(),
-          priority: 0.8,
+          priority: 0.75,
         },
         {
-          url: `${BASE_URL}/en/category/${cat.slug}`,
+          url: `${BASE_URL}/en/explore/${cat.slug}`,
           lastModified: new Date(),
           priority: 0.7,
         }

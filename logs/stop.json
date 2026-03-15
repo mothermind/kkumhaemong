@@ -13613,5 +13613,176 @@
     "hook_event_name": "Stop",
     "stop_hook_active": false,
     "last_assistant_message": "Done. `.gitignore` updated with 4 new entries and `data/validation/` deleted. Your repo will now exclude `logs/`, `data/images/`, `data/validation/`, and `.claude/settings.local.json`."
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "last_assistant_message": "**SSH** \u2014 no need to re-enter credentials on every push.\n\nIf you haven't set up an SSH key for GitHub yet:\n```bash\n# Check if you already have one\nls ~/.ssh/id_ed25519.pub\n\n# If not, generate one\nssh-keygen -t ed25519 -C \"your@email.com\"\n\n# Copy public key to clipboard\npbcopy < ~/.ssh/id_ed25519.pub\n```\nThen paste it in GitHub \u2192 Settings \u2192 SSH and GPG keys \u2192 New SSH key.\n\nThen add the remote and push:\n```bash\ngit remote add origin git@github.com:YOUR_USERNAME/YOUR_REPO.git\ngit push -u origin main\n```"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "last_assistant_message": "SSH is authenticated but as **cch0213**, not **llnOrmll**. Two possible issues:\n\n1. **Wrong GitHub account** \u2014 the SSH key is registered to `cch0213`, not `llnOrmll`\n2. **Wrong repo URL** \u2014 the repo might be under `cch0213`\n\n**Quickest fix** \u2014 check which account the repo actually belongs to and use that:\n\n```bash\ngit remote set-url origin git@github.com:cch0213/kkumhaemong.git\ngit push -u origin main\n```\n\nOr if you created it under `llnOrmll` and need to add that account's SSH key, you'd need to generate a separate key and add it to that GitHub account.\n\nWhich account did you create the repo under?"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "last_assistant_message": "You need to generate a new SSH key and add it to the `llnOrmll` GitHub account:\n\n```bash\n# 1. Generate a new key for the llnOrmll account\nssh-keygen -t ed25519 -C \"llnOrmll\" -f ~/.ssh/id_ed25519_llnormll\n\n# 2. Copy the public key\npbcopy < ~/.ssh/id_ed25519_llnormll.pub\n```\n\nThen go to **github.com \u2192 log in as llnOrmll \u2192 Settings \u2192 SSH and GPG keys \u2192 New SSH key** \u2192 paste it.\n\nThen configure SSH to use the right key for GitHub:\n\n```bash\n# 3. Add to ~/.ssh/config\ncat >> ~/.ssh/config << 'EOF'\n\nHost github-llnormll\n  HostName github.com\n  User git\n  IdentityFile ~/.ssh/id_ed25519_llnormll\nEOF\n```\n\nThen update the remote to use the alias:\n\n```bash\n# 4. Update remote URL\ngit remote set-url origin git@github-llnormll:llnOrmll/kkumhaemong.git\n\n# 5. Push\ngit push -u origin main\n```"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "last_assistant_message": "```bash\nnano ~/.ssh/config\n```\n\nIn nano, add this at the end of the file (or it may be empty \u2014 that's fine):\n\n```\nHost github-llnormll\n  HostName github.com\n  User git\n  IdentityFile ~/.ssh/id_ed25519_llnormll\n```\n\nThen save: **Ctrl+O** \u2192 Enter \u2192 **Ctrl+X**"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "last_assistant_message": "Now run steps 4 and 5:\n\n```bash\ngit remote set-url origin git@github-llnormll:llnOrmll/kkumhaemong.git\ngit push -u origin main\n```"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "last_assistant_message": "It's likely just uploading \u2014 `data/research/` and `data/content/` have hundreds of JSON files which takes a moment. Give it 1-2 minutes. You'll see output when it completes."
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "last_assistant_message": "Port 22 is being blocked (common on some networks). Use HTTPS port 443 instead \u2014 update the SSH config:\n\n```bash\nnano ~/.ssh/config\n```\n\nChange the entry to:\n\n```\nHost github-llnormll\n  HostName ssh.github.com\n  Port 443\n  User git\n  IdentityFile ~/.ssh/id_ed25519_llnormll\n```\n\n**Ctrl+O** \u2192 Enter \u2192 **Ctrl+X**, then push again:\n\n```bash\ngit push -u origin main\n```"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "last_assistant_message": "5668 objects, ~880 MB \u2014 that's the `data/research/` and `data/content/` JSON files adding up. Let it finish, should complete in a few more minutes at 5 MB/s."
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "last_assistant_message": "Technically it works, but it's on the heavy side. GitHub's soft limit is 1 GB per repo. You're pushing ~880 MB+ which is mostly the JSON data files:\n\n- `data/research/` \u2014 hundreds of research JSONs\n- `data/content/` \u2014 413 content JSONs\n\n**Options to consider:**\n\n1. **Leave as-is** \u2014 it'll work, just slow to clone. Fine for a solo project.\n\n2. **Gitignore `data/content/`** \u2014 it's already fully mirrored in Firestore, so the repo copy is redundant. This would cut the most weight.\n\n3. **Gitignore `data/research/`** \u2014 these are pipeline inputs, but they're regenerable by the agents.\n\nMy recommendation: **gitignore `data/content/`** since Firestore is the source of truth for the app. Keep `data/research/` and `data/taxonomy/` since those aren't stored anywhere else and are needed to regenerate content.\n\nWant to do that after this push completes?"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "last_assistant_message": "Now remove it from git tracking (keeps the local files intact):\n\n```bash\ngit rm -r --cached data/content/\ngit add .gitignore\ngit commit -m \"Remove data/content from git tracking (mirrored in Firestore)\"\ngit push\n```"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "last_assistant_message": "All updated. Summary of changes:\n\n**CLAUDE.md:**\n- Date bumped to 2026-03-15\n- Body category research complete section added\n- Phase 2 research progress updated\n- View count tracking section added\n- GitHub repo marked complete in Open Decisions\n\n**Memory:**\n- New `project_view_tracking.md` file created\n- `MEMORY.md` updated: recent features section, infrastructure notes (data/content gitignored, views field, GitHub repo), content gaps updated, open decisions updated, app structure updated"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "last_assistant_message": "Good picture. Here's the full audit:\n\n---\n\n## \u2705 Already solid\n\n- `metadataBase` set to `https://kkumhaemong.com`\n- Dream pages: full `generateMetadata` \u2014 title, description, canonical, `hreflang` alternates, OpenGraph \u2705\n- JSON-LD (FAQ + Article schema) on every dream page \u2705\n- `robots.ts` \u2014 Naver Yeti explicitly allowed, `/api/` disallowed, sitemap linked \u2705\n- `lang={locale}` on `<html>` \u2705\n- Korean URL localization (`/ko/\uafc8\ud574\ubabd/[slug]`) \u2705\n- Font `display: swap` \u2705\n- `favicon.ico` exists \u2705\n\n---\n\n## \u274c Issues to fix before deploy\n\n### 1. **Homepage has no `generateMetadata`** \u2014 critical\n`src/app/[locale]/page.tsx` outputs no `<title>`, no `<meta description>`, no OG tags. Google/Naver will infer or leave blank.\n\n### 2. **Sitemap has wrong category URLs**\nIt's generating `/ko/\uce74\ud14c\uace0\ub9ac/{slug}` (legacy route) instead of `/ko/\ud0d0\uc0c9/{slug}` (the live explorer route). Also missing `/ko/\ud0d0\uc0c9` and `/en/explore` index pages entirely.\n\n### 3. **Explore + Explore/[category] pages \u2014 thin metadata**\n- No `description` on either\n- No `canonical` URL\n- No `hreflang` alternates (Google won't know KO and EN are equivalents)\n- No OG image\n\n### 4. **No OG image for non-article pages**\nHomepage and explore pages have no `og:image` \u2014 social shares will show nothing.\n\n---\n\n## Minor (post-launch)\n- No `apple-touch-icon` or `manifest.json` (PWA/mobile bookmarks)\n- Custom favicon (currently Next.js default)\n- `changefreq` missing from sitemap entries\n\n---\n\n**Want me to fix the critical issues now (1\u20134)?** That's what matters for launch \u2014 homepage metadata, sitemap URLs, and explore page hreflang/canonicals."
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "last_assistant_message": "Clean. All 4 fixes done:\n\n| Fix | Status |\n|-----|--------|\n| Homepage `generateMetadata` \u2014 title, description, canonical, hreflang, OG, Twitter card | \u2705 |\n| Sitemap \u2014 correct `/\ud0d0\uc0c9/` and `/explore/` URLs, added explore index pages | \u2705 |\n| Explore index \u2014 description, canonical, hreflang, OG | \u2705 |\n| Explore/[category] \u2014 description, canonical, hreflang, OG | \u2705 |\n\nOnce you have the OG image (`public/og-image.png`) and favicon assets ready, drop them in and the SEO setup will be complete for launch."
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "last_assistant_message": "**Yes, text in OG images is standard and recommended.** When someone shares your link on KakaoTalk, Twitter, or Discord, the image is the first thing people see \u2014 text anchors the brand and tells them what the site is before they even read the link preview text.\n\n**Optimal size: 1200\u00d7630px**\n- This is the universal safe size for all platforms\n- Facebook, Twitter/X, KakaoTalk, Discord, iMessage all use this ratio (1.91:1)\n- Keep critical content (logo/text) within the center **1000\u00d7500px** safe zone \u2014 edges can get cropped on some platforms\n\n---\n\n**For your OG image, I'd suggest:**\n\n```\n[dark atmospheric background \u2014 use hero_05.png as base]\n\n         \u2726 \uafc8\ud574\ubabd \u2726          \u2190 large \uba85\uc870\uccb4, gold #d4af37\n    Kkumhaemong.com          \u2190 small, muted\n                             \n  \uafc8\uc758 \uc758\ubbf8\ub97c \ucc3e\uc544\ubcf4\uc138\uc694      \u2190 subtitle, white, lighter weight\n  Korean Dream Interpretation \u2190 English line below, smaller\n```\n\n**Design rules:**\n- Dark overlay on the hero image (~70% opacity) so text pops\n- Gold `#d4af37` for the main title only \u2014 everything else white or light gray\n- No more than 3\u20134 lines of text\n- Avoid putting text near the edges (top 60px, bottom 60px, sides 80px)\n\n**Tools to make it:**\n- **Figma** \u2014 most control, free, export as PNG\n- **Canva** \u2014 faster, has 1200\u00d7630 OG template preset\n- **Sharp/Node script** \u2014 if you want to generate it programmatically from the hero image (I can write this)\n\nWant me to write a script that composites `hero_05.png` + text overlay \u2192 `og-image.png` automatically using Sharp?"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "last_assistant_message": "For the \"\uafc8\" favicon:\n\n**Font:** Nanum Myeongjo Bold (`font-weight: 700`) \u2014 same serif font the site uses, will feel native\n\n**Background shape:** Rounded square (border-radius ~22% of size) \u2014 standard app icon shape, works at all sizes including iOS home screen\n\n**Colors:**\n- Background: `#0d1525` (midnight \u2014 your `--color-bg`)\n- Font: `#d4af37` (gold \u2014 your `--color-gold`)\n\n**Proportions:**\n- \"\uafc8\" character should fill ~60% of the icon width, vertically centered slightly above true center (Korean characters optically sit low)\n\n---\n\nThis gives you a clean dark square with a gold Korean character \u2014 matches the site palette exactly and is instantly recognizable as the brand at 16px all the way up to 512px."
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "last_assistant_message": "For a 512\u00d7512 canvas, font size 90 is **too small** \u2014 \"\uafc8\" would appear tiny.\n\nAt 512\u00d7512, aim for **~320\u2013340px** font size. That puts the character at ~60\u201365% of the canvas width which is the sweet spot.\n\nScale guide:\n| Canvas | Font size |\n|--------|-----------|\n| 512\u00d7512 | ~320\u2013340px |\n| 180\u00d7180 | ~110\u2013115px |\n| 32\u00d732 | ~20px |\n| 16\u00d716 | ~11px |\n\nWhat tool are you using? I can give you the exact value for that canvas size."
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "last_assistant_message": "On favicon.io \u2192 **Text to Favicon**:\n\n- **Text:** \uafc8\n- **Background:** Rounded\n- **Font Family:** Nanum Myeongjo\n- **Font Size:** 70 \u2190 (favicon.io uses a different scale, 70 is the right value here)\n- **Font Color:** #d4af37\n- **Background Color:** #0d1525\n\nDownload the package \u2014 it gives you `favicon.ico`, `favicon-16x16.png`, `favicon-32x32.png`, `apple-touch-icon.png`, and a `site.webmanifest`. All sizes covered in one download."
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "last_assistant_message": "**Favicon files** \u2192 `public/` (root level)\n```\npublic/\n\u251c\u2500\u2500 favicon.ico\n\u251c\u2500\u2500 favicon-16x16.png\n\u251c\u2500\u2500 favicon-32x32.png\n\u2514\u2500\u2500 apple-touch-icon.png\n```\n\n**OG image** \u2192 `public/`\n```\npublic/\n\u2514\u2500\u2500 og-image.png\n```\n\n**`site.webmanifest`** \u2192 also `public/`, but you'll need to update the colors inside it:\n```json\n{\n  \"name\": \"\uafc8\ud574\ubabd\",\n  \"short_name\": \"\uafc8\ud574\ubabd\",\n  \"icons\": [...],\n  \"theme_color\": \"#0d1525\",\n  \"background_color\": \"#0d1525\",\n  \"display\": \"standalone\"\n}\n```\n\nThen add the favicon links to `src/app/[locale]/layout.tsx` in the `<head>`:\n\n```tsx\n<link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"/apple-touch-icon.png\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"32x32\" href=\"/favicon-32x32.png\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"16x16\" href=\"/favicon-16x16.png\" />\n<link rel=\"manifest\" href=\"/site.webmanifest\" />\n```\n\nThe existing `src/app/favicon.ico` (Next.js default) should be **deleted** \u2014 replace it with your new one in `public/`."
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "Stop",
+    "stop_hook_active": false,
+    "last_assistant_message": "Clean build. Everything is in order:\n\n- `public/favicon.ico` \u2705\n- `public/favicon-16x16.png` + `favicon-32x32.png` \u2705\n- `public/apple-touch-icon.png` \u2705\n- `public/android-chrome-192x192.png` + `android-chrome-512x512.png` \u2705\n- `public/site.webmanifest` \u2705 (created with correct colors)\n- `public/og-image.png` \u2705\n- `src/app/favicon.ico` (old default) \u2705 deleted\n- Favicon `<link>` tags added to layout \u2705\n\nReady to deploy."
   }
 ]

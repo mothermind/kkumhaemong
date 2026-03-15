@@ -37,12 +37,31 @@ const CATEGORY_ICONS: Record<string, string> = {
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale } = await params;
+  const isKo = locale === "ko";
+  const title = isKo ? "꿈 탐색 - 꿈해몽" : "Dream Explorer - Kkumhaemong";
+  const description = isKo
+    ? "동물, 행동, 태몽, 재물 등 카테고리별로 꿈해몽을 찾아보세요. 길몽·흉몽 구분과 함께 상세한 한국 전통 꿈 해석을 제공합니다."
+    : "Browse Korean dream interpretations by category — animals, actions, pregnancy, money and more. Find auspicious and inauspicious meanings.";
+  const canonical = isKo
+    ? "https://kkumhaemong.com/ko/탐색"
+    : "https://kkumhaemong.com/en/explore";
+
   return {
-    title: locale === "ko" ? "꿈 탐색 - 꿈해몽" : "Dream Explorer - Kkumhaemong",
-    description:
-      locale === "ko"
-        ? "카테고리별로 꿈해몽을 찾아보세요"
-        : "Browse Korean dream interpretations by category",
+    title,
+    description,
+    alternates: {
+      canonical,
+      languages: {
+        ko: "https://kkumhaemong.com/ko/탐색",
+        en: "https://kkumhaemong.com/en/explore",
+      },
+    },
+    openGraph: {
+      title,
+      description,
+      url: canonical,
+      images: [{ url: "/og-image.png", width: 1200, height: 630 }],
+    },
   };
 }
 

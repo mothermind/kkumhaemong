@@ -14,11 +14,34 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale, category } = await params;
   const data = await getTaxonomyCategory(category);
   if (!data) return {};
+
+  const isKo = locale === "ko";
+  const title = isKo
+    ? `${data.korean} 꿈해몽 - 꿈해몽`
+    : `${data.english} Dream Meanings - Kkumhaemong`;
+  const description = isKo
+    ? `${data.korean} 관련 꿈해몽을 모두 모았습니다. 길몽·흉몽 구분과 상황별 해석을 확인하세요.`
+    : `Explore all ${data.english.toLowerCase()} dream meanings with auspicious and inauspicious interpretations from Korean tradition.`;
+  const canonical = isKo
+    ? `https://kkumhaemong.com/ko/탐색/${category}`
+    : `https://kkumhaemong.com/en/explore/${category}`;
+
   return {
-    title:
-      locale === "ko"
-        ? `${data.korean} 꿈해몽 - 꿈해몽`
-        : `${data.english} Dream Meanings - Kkumhaemong`,
+    title,
+    description,
+    alternates: {
+      canonical,
+      languages: {
+        ko: `https://kkumhaemong.com/ko/탐색/${category}`,
+        en: `https://kkumhaemong.com/en/explore/${category}`,
+      },
+    },
+    openGraph: {
+      title,
+      description,
+      url: canonical,
+      images: [{ url: "/og-image.png", width: 1200, height: 630 }],
+    },
   };
 }
 
