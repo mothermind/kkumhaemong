@@ -3,68 +3,1254 @@
   "korean": "자연/자연현상",
   "english": "Nature",
   "symbols": [
-    {"id":"nature-mountain","korean":"산꿈","english":"Dream of a mountain","slug":"mountain-dream","koreanSlug":"san-kkum","category":"nature","subcategory":"mountain","subcategoryKorean":"산","related":["nature-mountain-climb","nature-mountain-top"],"searchTier":"high","naverKeywords":["산꿈","산꿈 해몽"],"googleKeywords":["mountain dream meaning"]},
-    {"id":"nature-mountain-climb","korean":"산을 오르는 꿈","english":"Dream of climbing a mountain","slug":"climbing-mountain-nature-dream","koreanSlug":"san-oreuneun-kkum","category":"nature","subcategory":"mountain","subcategoryKorean":"산","related":["nature-mountain","action-climbing"],"searchTier":"medium","naverKeywords":["산을 오르는 꿈","등산 꿈 해몽"],"googleKeywords":["climbing mountain dream meaning"]},
-    {"id":"nature-mountain-top","korean":"산 정상에 오르는 꿈","english":"Dream of reaching mountain top","slug":"mountain-top-dream","koreanSlug":"san-jeongsang-kkum","category":"nature","subcategory":"mountain","subcategoryKorean":"산","related":["nature-mountain","nature-mountain-climb"],"searchTier":"medium","naverKeywords":["산 정상 꿈","산 정상 오르는 꿈 해몽"],"googleKeywords":["reaching mountain top dream meaning"]},
-    {"id":"nature-mountain-fall","korean":"산에서 떨어지는 꿈","english":"Dream of falling from a mountain","slug":"falling-from-mountain-dream","koreanSlug":"san-tteoreojineun-kkum","category":"nature","subcategory":"mountain","subcategoryKorean":"산","related":["nature-mountain","action-falling"],"searchTier":"medium","naverKeywords":["산에서 떨어지는 꿈","산 추락 꿈 해몽"],"googleKeywords":["falling from mountain dream meaning"]},
-    {"id":"nature-earthquake","korean":"지진 꿈","english":"Dream of an earthquake","slug":"earthquake-dream","koreanSlug":"jijin-kkum","category":"nature","subcategory":"disaster","subcategoryKorean":"재해","related":["disaster-earthquake","nature-landslide"],"searchTier":"high","naverKeywords":["지진 꿈","지진 꿈 해몽"],"googleKeywords":["earthquake dream meaning"]},
-    {"id":"nature-landslide","korean":"산사태 꿈","english":"Dream of a landslide","slug":"landslide-dream","koreanSlug":"sansatae-kkum","category":"nature","subcategory":"disaster","subcategoryKorean":"재해","related":["nature-earthquake","nature-mountain"],"searchTier":"longtail","naverKeywords":["산사태 꿈","산사태 꿈 해몽"],"googleKeywords":["landslide dream meaning"]},
-    {"id":"nature-volcano","korean":"화산 꿈","english":"Dream of a volcano","slug":"volcano-dream","koreanSlug":"hwasan-kkum","category":"nature","subcategory":"disaster","subcategoryKorean":"재해","related":["fire-lava","nature-earthquake"],"searchTier":"medium","naverKeywords":["화산 꿈","화산 폭발 꿈 해몽"],"googleKeywords":["volcano dream meaning"]},
-    {"id":"nature-forest","korean":"숲 꿈","english":"Dream of a forest","slug":"forest-dream","koreanSlug":"sup-kkum","category":"nature","subcategory":"forest","subcategoryKorean":"숲","related":["nature-mountain","plant-tree-general"],"searchTier":"medium","naverKeywords":["숲 꿈","숲 꿈 해몽"],"googleKeywords":["forest dream meaning"]},
-    {"id":"nature-field","korean":"들판 꿈","english":"Dream of a field","slug":"field-dream","koreanSlug":"deulpan-kkum","category":"nature","subcategory":"field","subcategoryKorean":"들판","related":["nature-forest","plant-rice-field"],"searchTier":"longtail","naverKeywords":["들판 꿈","들판 꿈 해몽"],"googleKeywords":["field dream meaning"]},
-    {"id":"nature-cave","korean":"동굴 꿈","english":"Dream of a cave","slug":"cave-dream","koreanSlug":"donggul-kkum","category":"nature","subcategory":"cave","subcategoryKorean":"동굴","related":["nature-mountain"],"searchTier":"medium","naverKeywords":["동굴 꿈","동굴 꿈 해몽"],"googleKeywords":["cave dream meaning"]},
-    {"id":"nature-island","korean":"섬 꿈","english":"Dream of an island","slug":"island-dream","koreanSlug":"seom-kkum","category":"nature","subcategory":"island","subcategoryKorean":"섬","related":["water-ocean"],"searchTier":"longtail","naverKeywords":["섬 꿈","섬 꿈 해몽"],"googleKeywords":["island dream meaning"]},
-    {"id":"nature-desert","korean":"사막 꿈","english":"Dream of a desert","slug":"desert-dream","koreanSlug":"samak-kkum","category":"nature","subcategory":"desert","subcategoryKorean":"사막","related":["nature-field"],"searchTier":"longtail","naverKeywords":["사막 꿈","사막 꿈 해몽"],"googleKeywords":["desert dream meaning"]},
-    {"id":"nature-garden","korean":"정원 꿈","english":"Dream of a garden","slug":"garden-dream","koreanSlug":"jeongwon-kkum","category":"nature","subcategory":"garden","subcategoryKorean":"정원","related":["plant-flower-general","nature-forest"],"searchTier":"medium","naverKeywords":["정원 꿈","정원 꿈 해몽"],"googleKeywords":["garden dream meaning"]},
-    {"id":"nature-cliff","korean":"절벽 꿈","english":"Dream of a cliff","slug":"cliff-dream","koreanSlug":"jeolbyeok-kkum","category":"nature","subcategory":"mountain","subcategoryKorean":"산","related":["nature-mountain","action-falling-cliff"],"searchTier":"medium","naverKeywords":["절벽 꿈","절벽 꿈 해몽"],"googleKeywords":["cliff dream meaning"]},
-    {"id":"nature-valley","korean":"계곡 꿈","english":"Dream of a valley","slug":"valley-dream","koreanSlug":"gyegok-kkum","category":"nature","subcategory":"mountain","subcategoryKorean":"산","related":["nature-mountain","water-stream"],"searchTier":"longtail","naverKeywords":["계곡 꿈","계곡 꿈 해몽"],"googleKeywords":["valley dream meaning"]},
-    {"id":"nature-beach","korean":"해변 꿈","english":"Dream of a beach","slug":"beach-dream","koreanSlug":"haebyeon-kkum","category":"nature","subcategory":"beach","subcategoryKorean":"해변","related":["water-ocean"],"searchTier":"medium","naverKeywords":["해변 꿈","해변 꿈 해몽","바닷가 꿈"],"googleKeywords":["beach dream meaning"]},
-    {"id":"nature-mud","korean":"진흙 꿈","english":"Dream of mud","slug":"mud-dream","koreanSlug":"jinheuk-kkum","category":"nature","subcategory":"earth","subcategoryKorean":"흙","related":["nature-field"],"searchTier":"longtail","naverKeywords":["진흙 꿈","진흙 꿈 해몽"],"googleKeywords":["mud dream meaning"]},
-    {"id":"nature-earth","korean":"흙 꿈","english":"Dream of soil/earth","slug":"soil-dream","koreanSlug":"heuk-kkum","category":"nature","subcategory":"earth","subcategoryKorean":"흙","related":["action-digging","nature-mud"],"searchTier":"longtail","naverKeywords":["흙 꿈","흙 꿈 해몽"],"googleKeywords":["soil dream meaning","earth dream meaning"]},
-    {"id":"nature-stone","korean":"돌 꿈","english":"Dream of stones","slug":"stones-dream","koreanSlug":"dol-kkum","category":"nature","subcategory":"rock","subcategoryKorean":"돌","related":["nature-mountain","nature-boulder"],"searchTier":"medium","naverKeywords":["돌 꿈","돌 꿈 해몽"],"googleKeywords":["stone dream meaning","rock dream meaning"]},
-    {"id":"nature-boulder","korean":"바위 꿈","english":"Dream of a boulder","slug":"boulder-dream","koreanSlug":"bawi-kkum","category":"nature","subcategory":"rock","subcategoryKorean":"돌","related":["nature-stone","nature-mountain"],"searchTier":"longtail","naverKeywords":["바위 꿈","바위 꿈 해몽"],"googleKeywords":["boulder dream meaning"]},
-    {"id":"nature-sand","korean":"모래 꿈","english":"Dream of sand","slug":"sand-dream","koreanSlug":"morae-kkum","category":"nature","subcategory":"beach","subcategoryKorean":"해변","related":["nature-beach","nature-desert"],"searchTier":"longtail","naverKeywords":["모래 꿈","모래 꿈 해몽"],"googleKeywords":["sand dream meaning"]},
-    {"id":"nature-sunrise","korean":"일출 꿈","english":"Dream of sunrise","slug":"sunrise-dream","koreanSlug":"ilchul-kkum","category":"nature","subcategory":"sky","subcategoryKorean":"하늘","related":["celestial-sun","nature-sunset"],"searchTier":"medium","naverKeywords":["일출 꿈","일출 꿈 해몽","해돋이 꿈"],"googleKeywords":["sunrise dream meaning"]},
-    {"id":"nature-sunset","korean":"일몰 꿈","english":"Dream of sunset","slug":"sunset-dream","koreanSlug":"ilmol-kkum","category":"nature","subcategory":"sky","subcategoryKorean":"하늘","related":["celestial-sun","nature-sunrise"],"searchTier":"longtail","naverKeywords":["일몰 꿈","해지는 꿈 해몽"],"googleKeywords":["sunset dream meaning"]},
-    {"id":"nature-sky","korean":"하늘 꿈","english":"Dream of the sky","slug":"sky-dream","koreanSlug":"haneul-kkum","category":"nature","subcategory":"sky","subcategoryKorean":"하늘","related":["celestial-general","action-flying"],"searchTier":"medium","naverKeywords":["하늘 꿈","하늘 꿈 해몽"],"googleKeywords":["sky dream meaning"]},
-    {"id":"nature-cloud","korean":"구름 꿈","english":"Dream of clouds","slug":"clouds-dream","koreanSlug":"gureum-kkum","category":"nature","subcategory":"sky","subcategoryKorean":"하늘","related":["nature-sky","weather-general"],"searchTier":"medium","naverKeywords":["구름 꿈","구름 꿈 해몽"],"googleKeywords":["clouds dream meaning"]},
-    {"id":"nature-aurora","korean":"오로라 꿈","english":"Dream of aurora","slug":"aurora-dream","koreanSlug":"orora-kkum","category":"nature","subcategory":"sky","subcategoryKorean":"하늘","related":["nature-sky","celestial-general"],"searchTier":"longtail","naverKeywords":["오로라 꿈","오로라 꿈 해몽"],"googleKeywords":["aurora dream meaning"]},
-    {"id":"nature-horizon","korean":"수평선 꿈","english":"Dream of the horizon","slug":"horizon-dream","koreanSlug":"supyeongseon-kkum","category":"nature","subcategory":"sky","subcategoryKorean":"하늘","related":["water-ocean","nature-sky"],"searchTier":"longtail","naverKeywords":["수평선 꿈","수평선 꿈 해몽"],"googleKeywords":["horizon dream meaning"]},
-    {"id":"nature-pond","korean":"연못 꿈","english":"Dream of a pond","slug":"pond-dream","koreanSlug":"yeonmot-kkum","category":"nature","subcategory":"pond","subcategoryKorean":"연못","related":["water-lake","nature-garden"],"searchTier":"longtail","naverKeywords":["연못 꿈","연못 꿈 해몽"],"googleKeywords":["pond dream meaning"]},
-    {"id":"nature-swamp","korean":"늪 꿈","english":"Dream of a swamp","slug":"swamp-dream","koreanSlug":"neup-kkum","category":"nature","subcategory":"wetland","subcategoryKorean":"습지","related":["water-dirty","nature-mud"],"searchTier":"longtail","naverKeywords":["늪 꿈","늪 꿈 해몽"],"googleKeywords":["swamp dream meaning"]},
-    {"id":"nature-hill","korean":"언덕 꿈","english":"Dream of a hill","slug":"hill-dream","koreanSlug":"eondeok-kkum","category":"nature","subcategory":"mountain","subcategoryKorean":"산","related":["nature-mountain"],"searchTier":"longtail","naverKeywords":["언덕 꿈","언덕 꿈 해몽"],"googleKeywords":["hill dream meaning"]},
-    {"id":"nature-mountain-snow","korean":"설산 꿈","english":"Dream of a snowy mountain","slug":"snowy-mountain-dream","koreanSlug":"seolsan-kkum","category":"nature","subcategory":"mountain","subcategoryKorean":"산","related":["nature-mountain","weather-snow"],"searchTier":"longtail","naverKeywords":["설산 꿈","설산 꿈 해몽"],"googleKeywords":["snowy mountain dream meaning"]},
-    {"id":"nature-mountain-green","korean":"푸른 산 꿈","english":"Dream of a green mountain","slug":"green-mountain-dream","koreanSlug":"pureun-san-kkum","category":"nature","subcategory":"mountain","subcategoryKorean":"산","related":["nature-mountain","nature-forest"],"searchTier":"longtail","naverKeywords":["푸른 산 꿈","초록 산 꿈 해몽"],"googleKeywords":["green mountain dream meaning"]},
-    {"id":"nature-path-forest","korean":"숲속 길 꿈","english":"Dream of a forest path","slug":"forest-path-dream","koreanSlug":"supsok-gil-kkum","category":"nature","subcategory":"forest","subcategoryKorean":"숲","related":["nature-forest","place-road"],"searchTier":"longtail","naverKeywords":["숲속 길 꿈","숲 길 꿈 해몽"],"googleKeywords":["forest path dream meaning"]},
-    {"id":"nature-dark-forest","korean":"어두운 숲 꿈","english":"Dream of a dark forest","slug":"dark-forest-dream","koreanSlug":"eoduun-sup-kkum","category":"nature","subcategory":"forest","subcategoryKorean":"숲","related":["nature-forest","action-lost"],"searchTier":"longtail","naverKeywords":["어두운 숲 꿈","어두운 숲 꿈 해몽"],"googleKeywords":["dark forest dream meaning"]},
-    {"id":"nature-jungle","korean":"정글 꿈","english":"Dream of a jungle","slug":"jungle-dream","koreanSlug":"jeonggeul-kkum","category":"nature","subcategory":"forest","subcategoryKorean":"숲","related":["nature-forest"],"searchTier":"longtail","naverKeywords":["정글 꿈","정글 꿈 해몽"],"googleKeywords":["jungle dream meaning"]},
-    {"id":"nature-oasis","korean":"오아시스 꿈","english":"Dream of an oasis","slug":"oasis-dream","koreanSlug":"oasiseu-kkum","category":"nature","subcategory":"desert","subcategoryKorean":"사막","related":["nature-desert","water-general"],"searchTier":"longtail","naverKeywords":["오아시스 꿈","오아시스 꿈 해몽"],"googleKeywords":["oasis dream meaning"]},
-    {"id":"nature-glacier","korean":"빙하 꿈","english":"Dream of a glacier","slug":"glacier-dream","koreanSlug":"bingha-kkum","category":"nature","subcategory":"ice","subcategoryKorean":"얼음","related":["water-ice","nature-mountain"],"searchTier":"longtail","naverKeywords":["빙하 꿈","빙하 꿈 해몽"],"googleKeywords":["glacier dream meaning"]},
-    {"id":"nature-creek","korean":"시내 꿈","english":"Dream of a creek","slug":"creek-dream","koreanSlug":"sinae-kkum","category":"nature","subcategory":"river","subcategoryKorean":"강","related":["water-stream"],"searchTier":"longtail","naverKeywords":["시내 꿈","시내 꿈 해몽"],"googleKeywords":["creek dream meaning"]},
-    {"id":"nature-ravine","korean":"협곡 꿈","english":"Dream of a ravine","slug":"ravine-dream","koreanSlug":"hyeopgok-kkum","category":"nature","subcategory":"mountain","subcategoryKorean":"산","related":["nature-valley","nature-cliff"],"searchTier":"longtail","naverKeywords":["협곡 꿈","협곡 꿈 해몽"],"googleKeywords":["ravine dream meaning"]},
-    {"id":"nature-volcano-eruption","korean":"화산 폭발 꿈","english":"Dream of a volcanic eruption","slug":"volcanic-eruption-dream","koreanSlug":"hwasan-pokbal-kkum","category":"nature","subcategory":"disaster","subcategoryKorean":"재해","related":["nature-volcano","fire-general"],"searchTier":"medium","naverKeywords":["화산 폭발 꿈","화산 폭발 꿈 해몽"],"googleKeywords":["volcanic eruption dream meaning"]},
-    {"id":"nature-meadow","korean":"초원 꿈","english":"Dream of a meadow","slug":"meadow-dream","koreanSlug":"chowon-kkum","category":"nature","subcategory":"field","subcategoryKorean":"들판","related":["nature-field","plant-grass"],"searchTier":"longtail","naverKeywords":["초원 꿈","초원 꿈 해몽"],"googleKeywords":["meadow dream meaning"]},
-    {"id":"nature-waterfall-big","korean":"큰 폭포 꿈","english":"Dream of a large waterfall","slug":"large-waterfall-dream","koreanSlug":"keun-pokpo-kkum","category":"nature","subcategory":"waterfall","subcategoryKorean":"폭포","related":["water-waterfall"],"searchTier":"longtail","naverKeywords":["큰 폭포 꿈","큰 폭포 꿈 해몽"],"googleKeywords":["large waterfall dream meaning"]},
-    {"id":"nature-night-sky","korean":"밤하늘 꿈","english":"Dream of the night sky","slug":"night-sky-dream","koreanSlug":"bamhaneul-kkum","category":"nature","subcategory":"sky","subcategoryKorean":"하늘","related":["nature-sky","celestial-star"],"searchTier":"longtail","naverKeywords":["밤하늘 꿈","밤하늘 꿈 해몽"],"googleKeywords":["night sky dream meaning"]},
-    {"id":"nature-rainbow-mountain","korean":"산 위 무지개 꿈","english":"Dream of a rainbow over a mountain","slug":"rainbow-mountain-dream","koreanSlug":"san-wi-mujigae-kkum","category":"nature","subcategory":"sky","subcategoryKorean":"하늘","related":["weather-rainbow","nature-mountain"],"searchTier":"longtail","naverKeywords":["산 무지개 꿈","산 위 무지개 꿈 해몽"],"googleKeywords":["rainbow over mountain dream meaning"]},
-    {"id":"nature-reef","korean":"산호초 꿈","english":"Dream of a coral reef","slug":"coral-reef-dream","koreanSlug":"sanhocho-kkum","category":"nature","subcategory":"sea","subcategoryKorean":"바다","related":["water-ocean","fish-general"],"searchTier":"longtail","naverKeywords":["산호초 꿈","산호초 꿈 해몽"],"googleKeywords":["coral reef dream meaning"]},
-    {"id":"nature-earthquake-building","korean":"건물이 흔들리는 꿈","english":"Dream of a building shaking","slug":"building-shaking-dream","koreanSlug":"geonmul-heundeullineun-kkum","category":"nature","subcategory":"disaster","subcategoryKorean":"재해","related":["nature-earthquake","place-building"],"searchTier":"medium","naverKeywords":["건물 흔들리는 꿈","건물 흔들리는 꿈 해몽"],"googleKeywords":["building shaking dream meaning"]},
-    {"id":"nature-sinkhole","korean":"싱크홀 꿈","english":"Dream of a sinkhole","slug":"sinkhole-nature-dream","koreanSlug":"singkeuhol-kkum","category":"nature","subcategory":"disaster","subcategoryKorean":"재해","related":["nature-earthquake","action-falling"],"searchTier":"longtail","naverKeywords":["싱크홀 꿈","땅 꺼지는 꿈 해몽"],"googleKeywords":["sinkhole dream meaning"]},
-    {"id":"nature-flower-field","korean":"꽃밭 꿈","english":"Dream of a flower field","slug":"flower-field-dream","koreanSlug":"kkotbat-kkum","category":"nature","subcategory":"field","subcategoryKorean":"들판","related":["nature-field","plant-flower-general"],"searchTier":"medium","naverKeywords":["꽃밭 꿈","꽃밭 꿈 해몽"],"googleKeywords":["flower field dream meaning"]},
-    {"id":"nature-crystal","korean":"수정 꿈","english":"Dream of crystals","slug":"crystal-dream","koreanSlug":"sujeong-kkum","category":"nature","subcategory":"rock","subcategoryKorean":"돌","related":["nature-stone","money-jewelry"],"searchTier":"longtail","naverKeywords":["수정 꿈","수정 꿈 해몽"],"googleKeywords":["crystal dream meaning"]},
-    {"id":"nature-diamond-rough","korean":"원석 꿈","english":"Dream of a rough diamond","slug":"rough-diamond-dream","koreanSlug":"wonseok-kkum","category":"nature","subcategory":"rock","subcategoryKorean":"돌","related":["nature-stone","money-diamond"],"searchTier":"longtail","naverKeywords":["원석 꿈","원석 꿈 해몽"],"googleKeywords":["rough diamond dream meaning"]},
-    {"id":"nature-hot-spring","korean":"온천 꿈","english":"Dream of a natural hot spring","slug":"natural-hot-spring-dream","koreanSlug":"oncheon-kkum","category":"nature","subcategory":"spring","subcategoryKorean":"샘","related":["water-hot-spring","nature-mountain"],"searchTier":"longtail","naverKeywords":["온천 꿈","천연 온천 꿈 해몽"],"googleKeywords":["natural hot spring dream meaning"]},
-    {"id":"nature-soil-fertile","korean":"비옥한 땅 꿈","english":"Dream of fertile soil","slug":"fertile-soil-dream","koreanSlug":"biokhan-ttang-kkum","category":"nature","subcategory":"earth","subcategoryKorean":"흙","related":["nature-earth","nature-field"],"searchTier":"longtail","naverKeywords":["비옥한 땅 꿈","비옥한 땅 꿈 해몽"],"googleKeywords":["fertile soil dream meaning"]},
-    {"id":"nature-quicksand","korean":"모래늪 꿈","english":"Dream of quicksand","slug":"quicksand-dream","koreanSlug":"moraeneup-kkum","category":"nature","subcategory":"desert","subcategoryKorean":"사막","related":["nature-sand","nature-swamp"],"searchTier":"longtail","naverKeywords":["모래늪 꿈","유사 꿈 해몽"],"googleKeywords":["quicksand dream meaning"]},
-    {"id":"nature-spring-water","korean":"약수 꿈","english":"Dream of mineral spring water","slug":"mineral-spring-dream","koreanSlug":"yaksu-kkum","category":"nature","subcategory":"spring","subcategoryKorean":"샘","related":["water-spring","water-clear"],"searchTier":"longtail","naverKeywords":["약수 꿈","약수터 꿈 해몽"],"googleKeywords":["mineral spring dream meaning"]},
-    {"id":"nature-moss","korean":"이끼 꿈","english":"Dream of moss","slug":"moss-dream","koreanSlug":"ikki-kkum","category":"nature","subcategory":"plant","subcategoryKorean":"식물","related":["nature-forest","nature-stone"],"searchTier":"longtail","naverKeywords":["이끼 꿈","이끼 꿈 해몽"],"googleKeywords":["moss dream meaning"]},
-    {"id":"nature-cliff","korean":"절벽 꿈","english":"Dream of a cliff","slug":"cliff-dream","koreanSlug":"jeolbyeok-kkum","category":"nature","subcategory":"mountain","subcategoryKorean":"산","related":["nature-mountain","action-falling"],"searchTier":"medium","naverKeywords":["절벽 꿈","절벽 꿈 해몽"],"googleKeywords":["cliff dream meaning"]},
-    {"id":"nature-cave","korean":"자연 동굴 꿈","english":"Dream of a natural cave","slug":"natural-cave-dream","koreanSlug":"jayeon-donggul-kkum","category":"nature","subcategory":"mountain","subcategoryKorean":"산","related":["place-cave","nature-mountain"],"searchTier":"longtail","naverKeywords":["자연 동굴 꿈","동굴 꿈 해몽"],"googleKeywords":["natural cave dream meaning"]},
-    {"id":"nature-sunset","korean":"석양 꿈","english":"Dream of a sunset","slug":"sunset-dream","koreanSlug":"seogyang-kkum","category":"nature","subcategory":"sky","subcategoryKorean":"하늘","related":["celestial-sun","nature-sunrise"],"searchTier":"medium","naverKeywords":["석양 꿈","석양 꿈 해몽"],"googleKeywords":["sunset dream meaning"]},
-    {"id":"nature-sunrise","korean":"일출 꿈","english":"Dream of a sunrise","slug":"sunrise-dream","koreanSlug":"ilchul-kkum","category":"nature","subcategory":"sky","subcategoryKorean":"하늘","related":["celestial-sun","nature-sunset"],"searchTier":"medium","naverKeywords":["일출 꿈","일출 꿈 해몽"],"googleKeywords":["sunrise dream meaning"]},
-    {"id":"nature-swamp","korean":"늪 꿈","english":"Dream of a swamp","slug":"swamp-dream","koreanSlug":"neup-kkum","category":"nature","subcategory":"water","subcategoryKorean":"물","related":["nature-quicksand","water-dirty"],"searchTier":"longtail","naverKeywords":["늪 꿈","늪 꿈 해몽"],"googleKeywords":["swamp dream meaning"]},
-    {"id":"nature-aurora","korean":"오로라 꿈","english":"Dream of aurora","slug":"aurora-dream","koreanSlug":"orora-kkum","category":"nature","subcategory":"sky","subcategoryKorean":"하늘","related":["celestial-northern-lights","nature-night-sky"],"searchTier":"longtail","naverKeywords":["오로라 꿈","오로라 꿈 해몽"],"googleKeywords":["aurora dream meaning"]},
-    {"id":"nature-volcano","korean":"화산 꿈","english":"Dream of a volcano","slug":"volcano-dream","koreanSlug":"hwasan-kkum","category":"nature","subcategory":"mountain","subcategoryKorean":"산","related":["nature-volcanic-eruption","fire-general"],"searchTier":"medium","naverKeywords":["화산 꿈","화산 꿈 해몽"],"googleKeywords":["volcano dream meaning"]},
-    {"id":"nature-bamboo-forest","korean":"대나무 숲 꿈","english":"Dream of a bamboo forest","slug":"bamboo-forest-dream","koreanSlug":"daenamu-sup-kkum","category":"nature","subcategory":"forest","subcategoryKorean":"숲","related":["nature-forest","plant-bamboo"],"searchTier":"longtail","naverKeywords":["대나무 숲 꿈","대나무 숲 꿈 해몽"],"googleKeywords":["bamboo forest dream meaning"]}
+    {
+      "id": "nature-mountain",
+      "korean": "산꿈",
+      "english": "Dream of a mountain",
+      "slug": "mountain-dream",
+      "koreanSlug": "san-kkum",
+      "category": "nature",
+      "subcategory": "mountain",
+      "subcategoryKorean": "산",
+      "related": [
+        "nature-mountain-climb",
+        "nature-mountain-top"
+      ],
+      "searchTier": "high",
+      "naverKeywords": [
+        "산꿈",
+        "산꿈 해몽"
+      ],
+      "googleKeywords": [
+        "mountain dream meaning"
+      ]
+    },
+    {
+      "id": "nature-mountain-climb",
+      "korean": "산을 오르는 꿈",
+      "english": "Dream of climbing a mountain",
+      "slug": "climbing-mountain-nature-dream",
+      "koreanSlug": "san-oreuneun-kkum",
+      "category": "nature",
+      "subcategory": "mountain",
+      "subcategoryKorean": "산",
+      "related": [
+        "nature-mountain",
+        "action-climbing"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "산을 오르는 꿈",
+        "등산 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "climbing mountain dream meaning"
+      ]
+    },
+    {
+      "id": "nature-mountain-top",
+      "korean": "산 정상에 오르는 꿈",
+      "english": "Dream of reaching mountain top",
+      "slug": "mountain-top-dream",
+      "koreanSlug": "san-jeongsang-kkum",
+      "category": "nature",
+      "subcategory": "mountain",
+      "subcategoryKorean": "산",
+      "related": [
+        "nature-mountain",
+        "nature-mountain-climb"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "산 정상 꿈",
+        "산 정상 오르는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "reaching mountain top dream meaning"
+      ]
+    },
+    {
+      "id": "nature-mountain-fall",
+      "korean": "산에서 떨어지는 꿈",
+      "english": "Dream of falling from a mountain",
+      "slug": "falling-from-mountain-dream",
+      "koreanSlug": "san-tteoreojineun-kkum",
+      "category": "nature",
+      "subcategory": "mountain",
+      "subcategoryKorean": "산",
+      "related": [
+        "nature-mountain",
+        "action-falling"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "산에서 떨어지는 꿈",
+        "산 추락 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "falling from mountain dream meaning"
+      ]
+    },
+    {
+      "id": "nature-earthquake",
+      "korean": "지진 꿈",
+      "english": "Dream of an earthquake",
+      "slug": "earthquake-dream",
+      "koreanSlug": "jijin-kkum",
+      "category": "nature",
+      "subcategory": "disaster",
+      "subcategoryKorean": "재해",
+      "related": [
+        "disaster-earthquake",
+        "nature-landslide"
+      ],
+      "searchTier": "high",
+      "naverKeywords": [
+        "지진 꿈",
+        "지진 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "earthquake dream meaning"
+      ]
+    },
+    {
+      "id": "nature-landslide",
+      "korean": "산사태 꿈",
+      "english": "Dream of a landslide",
+      "slug": "landslide-dream",
+      "koreanSlug": "sansatae-kkum",
+      "category": "nature",
+      "subcategory": "disaster",
+      "subcategoryKorean": "재해",
+      "related": [
+        "nature-earthquake",
+        "nature-mountain"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "산사태 꿈",
+        "산사태 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "landslide dream meaning"
+      ]
+    },
+    {
+      "id": "nature-volcano",
+      "korean": "화산 꿈",
+      "english": "Dream of a volcano",
+      "slug": "volcano-dream",
+      "koreanSlug": "hwasan-kkum",
+      "category": "nature",
+      "subcategory": "disaster",
+      "subcategoryKorean": "재해",
+      "related": [
+        "fire-lava",
+        "nature-earthquake"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "화산 꿈",
+        "화산 폭발 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "volcano dream meaning"
+      ]
+    },
+    {
+      "id": "nature-forest",
+      "korean": "숲 꿈",
+      "english": "Dream of a forest",
+      "slug": "forest-dream",
+      "koreanSlug": "sup-kkum",
+      "category": "nature",
+      "subcategory": "forest",
+      "subcategoryKorean": "숲",
+      "related": [
+        "nature-mountain",
+        "plant-tree-general"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "숲 꿈",
+        "숲 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "forest dream meaning"
+      ]
+    },
+    {
+      "id": "nature-field",
+      "korean": "들판 꿈",
+      "english": "Dream of a field",
+      "slug": "field-dream",
+      "koreanSlug": "deulpan-kkum",
+      "category": "nature",
+      "subcategory": "field",
+      "subcategoryKorean": "들판",
+      "related": [
+        "nature-forest",
+        "plant-rice-field"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "들판 꿈",
+        "들판 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "field dream meaning"
+      ]
+    },
+    {
+      "id": "nature-cave",
+      "korean": "동굴 꿈",
+      "english": "Dream of a cave",
+      "slug": "cave-dream",
+      "koreanSlug": "donggul-kkum",
+      "category": "nature",
+      "subcategory": "cave",
+      "subcategoryKorean": "동굴",
+      "related": [
+        "nature-mountain"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "동굴 꿈",
+        "동굴 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "cave dream meaning"
+      ]
+    },
+    {
+      "id": "nature-island",
+      "korean": "섬 꿈",
+      "english": "Dream of an island",
+      "slug": "island-dream",
+      "koreanSlug": "seom-kkum",
+      "category": "nature",
+      "subcategory": "island",
+      "subcategoryKorean": "섬",
+      "related": [
+        "water-ocean"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "섬 꿈",
+        "섬 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "island dream meaning"
+      ]
+    },
+    {
+      "id": "nature-desert",
+      "korean": "사막 꿈",
+      "english": "Dream of a desert",
+      "slug": "desert-dream",
+      "koreanSlug": "samak-kkum",
+      "category": "nature",
+      "subcategory": "desert",
+      "subcategoryKorean": "사막",
+      "related": [
+        "nature-field"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "사막 꿈",
+        "사막 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "desert dream meaning"
+      ]
+    },
+    {
+      "id": "nature-garden",
+      "korean": "정원 꿈",
+      "english": "Dream of a garden",
+      "slug": "garden-dream",
+      "koreanSlug": "jeongwon-kkum",
+      "category": "nature",
+      "subcategory": "garden",
+      "subcategoryKorean": "정원",
+      "related": [
+        "plant-flower-general",
+        "nature-forest"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "정원 꿈",
+        "정원 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "garden dream meaning"
+      ]
+    },
+    {
+      "id": "nature-cliff",
+      "korean": "절벽 꿈",
+      "english": "Dream of a cliff",
+      "slug": "cliff-dream",
+      "koreanSlug": "jeolbyeok-kkum",
+      "category": "nature",
+      "subcategory": "mountain",
+      "subcategoryKorean": "산",
+      "related": [
+        "nature-mountain",
+        "action-falling-cliff"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "절벽 꿈",
+        "절벽 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "cliff dream meaning"
+      ]
+    },
+    {
+      "id": "nature-valley",
+      "korean": "계곡 꿈",
+      "english": "Dream of a valley",
+      "slug": "valley-dream",
+      "koreanSlug": "gyegok-kkum",
+      "category": "nature",
+      "subcategory": "mountain",
+      "subcategoryKorean": "산",
+      "related": [
+        "nature-mountain",
+        "water-stream"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "계곡 꿈",
+        "계곡 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "valley dream meaning"
+      ]
+    },
+    {
+      "id": "nature-beach",
+      "korean": "해변 꿈",
+      "english": "Dream of a beach",
+      "slug": "beach-dream",
+      "koreanSlug": "haebyeon-kkum",
+      "category": "nature",
+      "subcategory": "beach",
+      "subcategoryKorean": "해변",
+      "related": [
+        "water-ocean"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "해변 꿈",
+        "해변 꿈 해몽",
+        "바닷가 꿈"
+      ],
+      "googleKeywords": [
+        "beach dream meaning"
+      ]
+    },
+    {
+      "id": "nature-mud",
+      "korean": "진흙 꿈",
+      "english": "Dream of mud",
+      "slug": "mud-dream",
+      "koreanSlug": "jinheuk-kkum",
+      "category": "nature",
+      "subcategory": "earth",
+      "subcategoryKorean": "흙",
+      "related": [
+        "nature-field"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "진흙 꿈",
+        "진흙 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "mud dream meaning"
+      ]
+    },
+    {
+      "id": "nature-earth",
+      "korean": "흙 꿈",
+      "english": "Dream of soil/earth",
+      "slug": "soil-dream",
+      "koreanSlug": "heuk-kkum",
+      "category": "nature",
+      "subcategory": "earth",
+      "subcategoryKorean": "흙",
+      "related": [
+        "action-digging",
+        "nature-mud"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "흙 꿈",
+        "흙 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "soil dream meaning",
+        "earth dream meaning"
+      ]
+    },
+    {
+      "id": "nature-stone",
+      "korean": "돌 꿈",
+      "english": "Dream of stones",
+      "slug": "stones-dream",
+      "koreanSlug": "dol-kkum",
+      "category": "nature",
+      "subcategory": "rock",
+      "subcategoryKorean": "돌",
+      "related": [
+        "nature-mountain",
+        "nature-boulder"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "돌 꿈",
+        "돌 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "stone dream meaning",
+        "rock dream meaning"
+      ]
+    },
+    {
+      "id": "nature-boulder",
+      "korean": "바위 꿈",
+      "english": "Dream of a boulder",
+      "slug": "boulder-dream",
+      "koreanSlug": "bawi-kkum",
+      "category": "nature",
+      "subcategory": "rock",
+      "subcategoryKorean": "돌",
+      "related": [
+        "nature-stone",
+        "nature-mountain"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "바위 꿈",
+        "바위 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "boulder dream meaning"
+      ]
+    },
+    {
+      "id": "nature-sand",
+      "korean": "모래 꿈",
+      "english": "Dream of sand",
+      "slug": "sand-dream",
+      "koreanSlug": "morae-kkum",
+      "category": "nature",
+      "subcategory": "beach",
+      "subcategoryKorean": "해변",
+      "related": [
+        "nature-beach",
+        "nature-desert"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "모래 꿈",
+        "모래 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "sand dream meaning"
+      ]
+    },
+    {
+      "id": "nature-sunrise",
+      "korean": "일출 꿈",
+      "english": "Dream of sunrise",
+      "slug": "sunrise-dream",
+      "koreanSlug": "ilchul-kkum",
+      "category": "nature",
+      "subcategory": "sky",
+      "subcategoryKorean": "하늘",
+      "related": [
+        "celestial-sun",
+        "nature-sunset"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "일출 꿈",
+        "일출 꿈 해몽",
+        "해돋이 꿈"
+      ],
+      "googleKeywords": [
+        "sunrise dream meaning"
+      ]
+    },
+    {
+      "id": "nature-sunset",
+      "korean": "일몰 꿈",
+      "english": "Dream of sunset",
+      "slug": "sunset-dream",
+      "koreanSlug": "ilmol-kkum",
+      "category": "nature",
+      "subcategory": "sky",
+      "subcategoryKorean": "하늘",
+      "related": [
+        "celestial-sun",
+        "nature-sunrise"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "일몰 꿈",
+        "해지는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "sunset dream meaning"
+      ]
+    },
+    {
+      "id": "nature-sky",
+      "korean": "하늘 꿈",
+      "english": "Dream of the sky",
+      "slug": "sky-dream",
+      "koreanSlug": "haneul-kkum",
+      "category": "nature",
+      "subcategory": "sky",
+      "subcategoryKorean": "하늘",
+      "related": [
+        "celestial-general",
+        "action-flying"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "하늘 꿈",
+        "하늘 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "sky dream meaning"
+      ]
+    },
+    {
+      "id": "nature-cloud",
+      "korean": "구름 꿈",
+      "english": "Dream of clouds",
+      "slug": "clouds-dream",
+      "koreanSlug": "gureum-kkum",
+      "category": "nature",
+      "subcategory": "sky",
+      "subcategoryKorean": "하늘",
+      "related": [
+        "nature-sky",
+        "weather-general"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "구름 꿈",
+        "구름 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "clouds dream meaning"
+      ]
+    },
+    {
+      "id": "nature-aurora",
+      "korean": "오로라 꿈",
+      "english": "Dream of aurora",
+      "slug": "aurora-dream",
+      "koreanSlug": "orora-kkum",
+      "category": "nature",
+      "subcategory": "sky",
+      "subcategoryKorean": "하늘",
+      "related": [
+        "nature-sky",
+        "celestial-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "오로라 꿈",
+        "오로라 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "aurora dream meaning"
+      ]
+    },
+    {
+      "id": "nature-horizon",
+      "korean": "수평선 꿈",
+      "english": "Dream of the horizon",
+      "slug": "horizon-dream",
+      "koreanSlug": "supyeongseon-kkum",
+      "category": "nature",
+      "subcategory": "sky",
+      "subcategoryKorean": "하늘",
+      "related": [
+        "water-ocean",
+        "nature-sky"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "수평선 꿈",
+        "수평선 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "horizon dream meaning"
+      ]
+    },
+    {
+      "id": "nature-pond",
+      "korean": "연못 꿈",
+      "english": "Dream of a pond",
+      "slug": "pond-dream",
+      "koreanSlug": "yeonmot-kkum",
+      "category": "nature",
+      "subcategory": "pond",
+      "subcategoryKorean": "연못",
+      "related": [
+        "water-lake",
+        "nature-garden"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "연못 꿈",
+        "연못 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "pond dream meaning"
+      ]
+    },
+    {
+      "id": "nature-swamp",
+      "korean": "늪 꿈",
+      "english": "Dream of a swamp",
+      "slug": "swamp-dream",
+      "koreanSlug": "neup-kkum",
+      "category": "nature",
+      "subcategory": "wetland",
+      "subcategoryKorean": "습지",
+      "related": [
+        "water-dirty",
+        "nature-mud"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "늪 꿈",
+        "늪 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "swamp dream meaning"
+      ]
+    },
+    {
+      "id": "nature-hill",
+      "korean": "언덕 꿈",
+      "english": "Dream of a hill",
+      "slug": "hill-dream",
+      "koreanSlug": "eondeok-kkum",
+      "category": "nature",
+      "subcategory": "mountain",
+      "subcategoryKorean": "산",
+      "related": [
+        "nature-mountain"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "언덕 꿈",
+        "언덕 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "hill dream meaning"
+      ]
+    },
+    {
+      "id": "nature-mountain-snow",
+      "korean": "설산 꿈",
+      "english": "Dream of a snowy mountain",
+      "slug": "snowy-mountain-dream",
+      "koreanSlug": "seolsan-kkum",
+      "category": "nature",
+      "subcategory": "mountain",
+      "subcategoryKorean": "산",
+      "related": [
+        "nature-mountain",
+        "weather-snow"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "설산 꿈",
+        "설산 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "snowy mountain dream meaning"
+      ]
+    },
+    {
+      "id": "nature-mountain-green",
+      "korean": "푸른 산 꿈",
+      "english": "Dream of a green mountain",
+      "slug": "green-mountain-dream",
+      "koreanSlug": "pureun-san-kkum",
+      "category": "nature",
+      "subcategory": "mountain",
+      "subcategoryKorean": "산",
+      "related": [
+        "nature-mountain",
+        "nature-forest"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "푸른 산 꿈",
+        "초록 산 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "green mountain dream meaning"
+      ]
+    },
+    {
+      "id": "nature-path-forest",
+      "korean": "숲속 길 꿈",
+      "english": "Dream of a forest path",
+      "slug": "forest-path-dream",
+      "koreanSlug": "supsok-gil-kkum",
+      "category": "nature",
+      "subcategory": "forest",
+      "subcategoryKorean": "숲",
+      "related": [
+        "nature-forest",
+        "place-road"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "숲속 길 꿈",
+        "숲 길 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "forest path dream meaning"
+      ]
+    },
+    {
+      "id": "nature-dark-forest",
+      "korean": "어두운 숲 꿈",
+      "english": "Dream of a dark forest",
+      "slug": "dark-forest-dream",
+      "koreanSlug": "eoduun-sup-kkum",
+      "category": "nature",
+      "subcategory": "forest",
+      "subcategoryKorean": "숲",
+      "related": [
+        "nature-forest",
+        "action-lost"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "어두운 숲 꿈",
+        "어두운 숲 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "dark forest dream meaning"
+      ]
+    },
+    {
+      "id": "nature-jungle",
+      "korean": "정글 꿈",
+      "english": "Dream of a jungle",
+      "slug": "jungle-dream",
+      "koreanSlug": "jeonggeul-kkum",
+      "category": "nature",
+      "subcategory": "forest",
+      "subcategoryKorean": "숲",
+      "related": [
+        "nature-forest"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "정글 꿈",
+        "정글 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "jungle dream meaning"
+      ]
+    },
+    {
+      "id": "nature-oasis",
+      "korean": "오아시스 꿈",
+      "english": "Dream of an oasis",
+      "slug": "oasis-dream",
+      "koreanSlug": "oasiseu-kkum",
+      "category": "nature",
+      "subcategory": "desert",
+      "subcategoryKorean": "사막",
+      "related": [
+        "nature-desert",
+        "water-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "오아시스 꿈",
+        "오아시스 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "oasis dream meaning"
+      ]
+    },
+    {
+      "id": "nature-glacier",
+      "korean": "빙하 꿈",
+      "english": "Dream of a glacier",
+      "slug": "glacier-dream",
+      "koreanSlug": "bingha-kkum",
+      "category": "nature",
+      "subcategory": "ice",
+      "subcategoryKorean": "얼음",
+      "related": [
+        "water-ice",
+        "nature-mountain"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "빙하 꿈",
+        "빙하 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "glacier dream meaning"
+      ]
+    },
+    {
+      "id": "nature-creek",
+      "korean": "시내 꿈",
+      "english": "Dream of a creek",
+      "slug": "creek-dream",
+      "koreanSlug": "sinae-kkum",
+      "category": "nature",
+      "subcategory": "river",
+      "subcategoryKorean": "강",
+      "related": [
+        "water-stream"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "시내 꿈",
+        "시내 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "creek dream meaning"
+      ]
+    },
+    {
+      "id": "nature-ravine",
+      "korean": "협곡 꿈",
+      "english": "Dream of a ravine",
+      "slug": "ravine-dream",
+      "koreanSlug": "hyeopgok-kkum",
+      "category": "nature",
+      "subcategory": "mountain",
+      "subcategoryKorean": "산",
+      "related": [
+        "nature-valley",
+        "nature-cliff"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "협곡 꿈",
+        "협곡 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "ravine dream meaning"
+      ]
+    },
+    {
+      "id": "nature-volcano-eruption",
+      "korean": "화산 폭발 꿈",
+      "english": "Dream of a volcanic eruption",
+      "slug": "volcanic-eruption-dream",
+      "koreanSlug": "hwasan-pokbal-kkum",
+      "category": "nature",
+      "subcategory": "disaster",
+      "subcategoryKorean": "재해",
+      "related": [
+        "nature-volcano",
+        "fire-general"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "화산 폭발 꿈",
+        "화산 폭발 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "volcanic eruption dream meaning"
+      ]
+    },
+    {
+      "id": "nature-meadow",
+      "korean": "초원 꿈",
+      "english": "Dream of a meadow",
+      "slug": "meadow-dream",
+      "koreanSlug": "chowon-kkum",
+      "category": "nature",
+      "subcategory": "field",
+      "subcategoryKorean": "들판",
+      "related": [
+        "nature-field",
+        "plant-grass"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "초원 꿈",
+        "초원 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "meadow dream meaning"
+      ]
+    },
+    {
+      "id": "nature-waterfall-big",
+      "korean": "큰 폭포 꿈",
+      "english": "Dream of a large waterfall",
+      "slug": "large-waterfall-dream",
+      "koreanSlug": "keun-pokpo-kkum",
+      "category": "nature",
+      "subcategory": "waterfall",
+      "subcategoryKorean": "폭포",
+      "related": [
+        "water-waterfall"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "큰 폭포 꿈",
+        "큰 폭포 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "large waterfall dream meaning"
+      ]
+    },
+    {
+      "id": "nature-night-sky",
+      "korean": "밤하늘 꿈",
+      "english": "Dream of the night sky",
+      "slug": "night-sky-dream",
+      "koreanSlug": "bamhaneul-kkum",
+      "category": "nature",
+      "subcategory": "sky",
+      "subcategoryKorean": "하늘",
+      "related": [
+        "nature-sky",
+        "celestial-star"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "밤하늘 꿈",
+        "밤하늘 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "night sky dream meaning"
+      ]
+    },
+    {
+      "id": "nature-rainbow-mountain",
+      "korean": "산 위 무지개 꿈",
+      "english": "Dream of a rainbow over a mountain",
+      "slug": "rainbow-mountain-dream",
+      "koreanSlug": "san-wi-mujigae-kkum",
+      "category": "nature",
+      "subcategory": "sky",
+      "subcategoryKorean": "하늘",
+      "related": [
+        "weather-rainbow",
+        "nature-mountain"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "산 무지개 꿈",
+        "산 위 무지개 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "rainbow over mountain dream meaning"
+      ]
+    },
+    {
+      "id": "nature-reef",
+      "korean": "산호초 꿈",
+      "english": "Dream of a coral reef",
+      "slug": "coral-reef-dream",
+      "koreanSlug": "sanhocho-kkum",
+      "category": "nature",
+      "subcategory": "sea",
+      "subcategoryKorean": "바다",
+      "related": [
+        "water-ocean",
+        "fish-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "산호초 꿈",
+        "산호초 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "coral reef dream meaning"
+      ]
+    },
+    {
+      "id": "nature-earthquake-building",
+      "korean": "건물이 흔들리는 꿈",
+      "english": "Dream of a building shaking",
+      "slug": "building-shaking-dream",
+      "koreanSlug": "geonmul-heundeullineun-kkum",
+      "category": "nature",
+      "subcategory": "disaster",
+      "subcategoryKorean": "재해",
+      "related": [
+        "nature-earthquake",
+        "place-building"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "건물 흔들리는 꿈",
+        "건물 흔들리는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "building shaking dream meaning"
+      ]
+    },
+    {
+      "id": "nature-sinkhole",
+      "korean": "싱크홀 꿈",
+      "english": "Dream of a sinkhole",
+      "slug": "sinkhole-nature-dream",
+      "koreanSlug": "singkeuhol-kkum",
+      "category": "nature",
+      "subcategory": "disaster",
+      "subcategoryKorean": "재해",
+      "related": [
+        "nature-earthquake",
+        "action-falling"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "싱크홀 꿈",
+        "땅 꺼지는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "sinkhole dream meaning"
+      ]
+    },
+    {
+      "id": "nature-flower-field",
+      "korean": "꽃밭 꿈",
+      "english": "Dream of a flower field",
+      "slug": "flower-field-dream",
+      "koreanSlug": "kkotbat-kkum",
+      "category": "nature",
+      "subcategory": "field",
+      "subcategoryKorean": "들판",
+      "related": [
+        "nature-field",
+        "plant-flower-general"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "꽃밭 꿈",
+        "꽃밭 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "flower field dream meaning"
+      ]
+    },
+    {
+      "id": "nature-crystal",
+      "korean": "수정 꿈",
+      "english": "Dream of crystals",
+      "slug": "crystal-dream",
+      "koreanSlug": "sujeong-kkum",
+      "category": "nature",
+      "subcategory": "rock",
+      "subcategoryKorean": "돌",
+      "related": [
+        "nature-stone",
+        "money-jewelry"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "수정 꿈",
+        "수정 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "crystal dream meaning"
+      ]
+    },
+    {
+      "id": "nature-diamond-rough",
+      "korean": "원석 꿈",
+      "english": "Dream of a rough diamond",
+      "slug": "rough-diamond-dream",
+      "koreanSlug": "wonseok-kkum",
+      "category": "nature",
+      "subcategory": "rock",
+      "subcategoryKorean": "돌",
+      "related": [
+        "nature-stone",
+        "money-diamond"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "원석 꿈",
+        "원석 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "rough diamond dream meaning"
+      ]
+    },
+    {
+      "id": "nature-hot-spring",
+      "korean": "온천 꿈",
+      "english": "Dream of a natural hot spring",
+      "slug": "natural-hot-spring-dream",
+      "koreanSlug": "oncheon-kkum",
+      "category": "nature",
+      "subcategory": "spring",
+      "subcategoryKorean": "샘",
+      "related": [
+        "water-hot-spring",
+        "nature-mountain"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "온천 꿈",
+        "천연 온천 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "natural hot spring dream meaning"
+      ]
+    },
+    {
+      "id": "nature-soil-fertile",
+      "korean": "비옥한 땅 꿈",
+      "english": "Dream of fertile soil",
+      "slug": "fertile-soil-dream",
+      "koreanSlug": "biokhan-ttang-kkum",
+      "category": "nature",
+      "subcategory": "earth",
+      "subcategoryKorean": "흙",
+      "related": [
+        "nature-earth",
+        "nature-field"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "비옥한 땅 꿈",
+        "비옥한 땅 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "fertile soil dream meaning"
+      ]
+    },
+    {
+      "id": "nature-quicksand",
+      "korean": "모래늪 꿈",
+      "english": "Dream of quicksand",
+      "slug": "quicksand-dream",
+      "koreanSlug": "moraeneup-kkum",
+      "category": "nature",
+      "subcategory": "desert",
+      "subcategoryKorean": "사막",
+      "related": [
+        "nature-sand",
+        "nature-swamp"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "모래늪 꿈",
+        "유사 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "quicksand dream meaning"
+      ]
+    },
+    {
+      "id": "nature-spring-water",
+      "korean": "약수 꿈",
+      "english": "Dream of mineral spring water",
+      "slug": "mineral-spring-dream",
+      "koreanSlug": "yaksu-kkum",
+      "category": "nature",
+      "subcategory": "spring",
+      "subcategoryKorean": "샘",
+      "related": [
+        "water-spring",
+        "water-clear"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "약수 꿈",
+        "약수터 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "mineral spring dream meaning"
+      ]
+    },
+    {
+      "id": "nature-moss",
+      "korean": "이끼 꿈",
+      "english": "Dream of moss",
+      "slug": "moss-dream",
+      "koreanSlug": "ikki-kkum",
+      "category": "nature",
+      "subcategory": "plant",
+      "subcategoryKorean": "식물",
+      "related": [
+        "nature-forest",
+        "nature-stone"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "이끼 꿈",
+        "이끼 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "moss dream meaning"
+      ]
+    },
+    {
+      "id": "nature-cave",
+      "korean": "자연 동굴 꿈",
+      "english": "Dream of a natural cave",
+      "slug": "natural-cave-dream",
+      "koreanSlug": "jayeon-donggul-kkum",
+      "category": "nature",
+      "subcategory": "mountain",
+      "subcategoryKorean": "산",
+      "related": [
+        "place-cave",
+        "nature-mountain"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "자연 동굴 꿈",
+        "동굴 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "natural cave dream meaning"
+      ]
+    },
+    {
+      "id": "nature-bamboo-forest",
+      "korean": "대나무 숲 꿈",
+      "english": "Dream of a bamboo forest",
+      "slug": "bamboo-forest-dream",
+      "koreanSlug": "daenamu-sup-kkum",
+      "category": "nature",
+      "subcategory": "forest",
+      "subcategoryKorean": "숲",
+      "related": [
+        "nature-forest",
+        "plant-bamboo"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "대나무 숲 꿈",
+        "대나무 숲 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "bamboo forest dream meaning"
+      ]
+    }
   ]
 }

@@ -3,46 +3,871 @@
   "korean": "옷/의복",
   "english": "Clothing",
   "symbols": [
-    {"id":"clothing-general","korean":"옷 꿈","english":"Dream of clothes","slug":"clothes-dream","koreanSlug":"ot-kkum","category":"clothing","subcategory":"general","subcategoryKorean":"일반","related":["clothing-new","clothing-dirty","clothing-missing"],"searchTier":"medium","naverKeywords":["옷 꿈","옷 꿈 해몽"],"googleKeywords":["clothes dream meaning"]},
-    {"id":"clothing-new","korean":"새 옷 꿈","english":"Dream of new clothes","slug":"new-clothes-dream","koreanSlug":"sae-ot-kkum","category":"clothing","subcategory":"general","subcategoryKorean":"일반","related":["clothing-general","clothing-buying"],"searchTier":"medium","naverKeywords":["새 옷 꿈","새옷 꿈 해몽"],"googleKeywords":["new clothes dream meaning"]},
-    {"id":"clothing-dirty","korean":"더러운 옷 꿈","english":"Dream of dirty clothes","slug":"dirty-clothes-dream","koreanSlug":"deoreoun-ot-kkum","category":"clothing","subcategory":"general","subcategoryKorean":"일반","related":["clothing-general","clothing-torn"],"searchTier":"longtail","naverKeywords":["더러운 옷 꿈","더러운 옷 꿈 해몽"],"googleKeywords":["dirty clothes dream meaning"]},
-    {"id":"clothing-torn","korean":"찢어진 옷 꿈","english":"Dream of torn clothes","slug":"torn-clothes-dream","koreanSlug":"jjijeojin-ot-kkum","category":"clothing","subcategory":"general","subcategoryKorean":"일반","related":["clothing-dirty","clothing-general"],"searchTier":"longtail","naverKeywords":["찢어진 옷 꿈","찢어진 옷 꿈 해몽"],"googleKeywords":["torn clothes dream meaning"]},
-    {"id":"clothing-buying","korean":"옷을 사는 꿈","english":"Dream of buying clothes","slug":"buying-clothes-dream","koreanSlug":"ot-saneun-kkum","category":"clothing","subcategory":"general","subcategoryKorean":"일반","related":["clothing-new","action-shopping"],"searchTier":"medium","naverKeywords":["옷 사는 꿈","옷 사는 꿈 해몽"],"googleKeywords":["buying clothes dream meaning"]},
-    {"id":"clothing-missing","korean":"옷이 없는 꿈","english":"Dream of having no clothes","slug":"no-clothes-dream","koreanSlug":"ot-eomneun-kkum","category":"clothing","subcategory":"general","subcategoryKorean":"일반","related":["body-naked","clothing-general"],"searchTier":"medium","naverKeywords":["옷이 없는 꿈","옷 없는 꿈 해몽"],"googleKeywords":["no clothes dream meaning"]},
-    {"id":"clothing-white","korean":"흰옷 꿈","english":"Dream of white clothes","slug":"white-clothes-dream","koreanSlug":"huin-ot-kkum","category":"clothing","subcategory":"color","subcategoryKorean":"색상","related":["clothing-general","clothing-black"],"searchTier":"medium","naverKeywords":["흰옷 꿈","흰옷 꿈 해몽"],"googleKeywords":["white clothes dream meaning"]},
-    {"id":"clothing-black","korean":"검은 옷 꿈","english":"Dream of black clothes","slug":"black-clothes-dream","koreanSlug":"geomeun-ot-kkum","category":"clothing","subcategory":"color","subcategoryKorean":"색상","related":["clothing-general","clothing-white"],"searchTier":"medium","naverKeywords":["검은 옷 꿈","검정 옷 꿈 해몽"],"googleKeywords":["black clothes dream meaning"]},
-    {"id":"clothing-red","korean":"빨간 옷 꿈","english":"Dream of red clothes","slug":"red-clothes-dream","koreanSlug":"ppalgan-ot-kkum","category":"clothing","subcategory":"color","subcategoryKorean":"색상","related":["clothing-general"],"searchTier":"longtail","naverKeywords":["빨간 옷 꿈","빨간 옷 꿈 해몽"],"googleKeywords":["red clothes dream meaning"]},
-    {"id":"clothing-shoes","korean":"신발 꿈","english":"Dream of shoes","slug":"shoes-dream","koreanSlug":"sinbal-kkum","category":"clothing","subcategory":"shoes","subcategoryKorean":"신발","related":["clothing-shoes-new","clothing-shoes-lost"],"searchTier":"high","naverKeywords":["신발 꿈","신발 꿈 해몽"],"googleKeywords":["shoes dream meaning"]},
-    {"id":"clothing-shoes-new","korean":"새 신발 꿈","english":"Dream of new shoes","slug":"new-shoes-dream","koreanSlug":"sae-sinbal-kkum","category":"clothing","subcategory":"shoes","subcategoryKorean":"신발","related":["clothing-shoes"],"searchTier":"medium","naverKeywords":["새 신발 꿈","새 신발 꿈 해몽"],"googleKeywords":["new shoes dream meaning"]},
-    {"id":"clothing-shoes-lost","korean":"신발을 잃어버리는 꿈","english":"Dream of losing shoes","slug":"losing-shoes-dream","koreanSlug":"sinbal-ilheobeorineun-kkum","category":"clothing","subcategory":"shoes","subcategoryKorean":"신발","related":["clothing-shoes","action-losing"],"searchTier":"medium","naverKeywords":["신발 잃어버리는 꿈","신발 잃는 꿈 해몽"],"googleKeywords":["losing shoes dream meaning"]},
-    {"id":"clothing-shoes-broken","korean":"신발이 찢어지는 꿈","english":"Dream of broken shoes","slug":"broken-shoes-dream","koreanSlug":"sinbal-jjijeojineun-kkum","category":"clothing","subcategory":"shoes","subcategoryKorean":"신발","related":["clothing-shoes"],"searchTier":"longtail","naverKeywords":["신발 찢어지는 꿈","신발 깨지는 꿈 해몽"],"googleKeywords":["broken shoes dream meaning"]},
-    {"id":"clothing-hat","korean":"모자 꿈","english":"Dream of a hat","slug":"hat-dream","koreanSlug":"moja-kkum","category":"clothing","subcategory":"accessory","subcategoryKorean":"액세서리","related":["clothing-general"],"searchTier":"longtail","naverKeywords":["모자 꿈","모자 꿈 해몽"],"googleKeywords":["hat dream meaning"]},
-    {"id":"clothing-uniform","korean":"교복/유니폼 꿈","english":"Dream of a uniform","slug":"uniform-dream","koreanSlug":"gyobok-kkum","category":"clothing","subcategory":"special","subcategoryKorean":"특수의류","related":["place-school","clothing-general"],"searchTier":"medium","naverKeywords":["교복 꿈","유니폼 꿈 해몽"],"googleKeywords":["uniform dream meaning"]},
-    {"id":"clothing-hanbok","korean":"한복 꿈","english":"Dream of hanbok (Korean traditional dress)","slug":"hanbok-dream","koreanSlug":"hanbok-kkum","category":"clothing","subcategory":"special","subcategoryKorean":"특수의류","related":["clothing-general","marriage-wedding"],"searchTier":"medium","naverKeywords":["한복 꿈","한복 꿈 해몽"],"googleKeywords":["hanbok dream meaning","Korean traditional dress dream"]},
-    {"id":"clothing-underwear","korean":"속옷 꿈","english":"Dream of underwear","slug":"underwear-dream","koreanSlug":"sogot-kkum","category":"clothing","subcategory":"undergarment","subcategoryKorean":"속옷","related":["body-naked","clothing-general"],"searchTier":"medium","naverKeywords":["속옷 꿈","속옷 꿈 해몽"],"googleKeywords":["underwear dream meaning"]},
-    {"id":"clothing-glasses","korean":"안경 꿈","english":"Dream of glasses","slug":"glasses-dream","koreanSlug":"angyeong-kkum","category":"clothing","subcategory":"accessory","subcategoryKorean":"액세서리","related":["eye-general"],"searchTier":"longtail","naverKeywords":["안경 꿈","안경 꿈 해몽"],"googleKeywords":["glasses dream meaning"]},
-    {"id":"clothing-suit","korean":"정장 꿈","english":"Dream of a suit","slug":"suit-dream","koreanSlug":"jeongjang-kkum","category":"clothing","subcategory":"formal","subcategoryKorean":"정장","related":["clothing-general","clothing-new"],"searchTier":"longtail","naverKeywords":["정장 꿈","정장 꿈 해몽"],"googleKeywords":["suit dream meaning"]},
-    {"id":"clothing-laundry","korean":"빨래하는 꿈","english":"Dream of doing laundry","slug":"doing-laundry-dream","koreanSlug":"ppallae-haneun-kkum","category":"clothing","subcategory":"general","subcategoryKorean":"일반","related":["clothing-dirty","action-cleaning"],"searchTier":"longtail","naverKeywords":["빨래하는 꿈","빨래 꿈 해몽"],"googleKeywords":["doing laundry dream meaning"]},
-    {"id":"clothing-changing","korean":"옷을 갈아입는 꿈","english":"Dream of changing clothes","slug":"changing-clothes-dream","koreanSlug":"ot-garaibneun-kkum","category":"clothing","subcategory":"general","subcategoryKorean":"일반","related":["clothing-general","clothing-new"],"searchTier":"longtail","naverKeywords":["옷 갈아입는 꿈","옷 바꾸는 꿈 해몽"],"googleKeywords":["changing clothes dream meaning"]},
-    {"id":"clothing-socks","korean":"양말 꿈","english":"Dream of socks","slug":"socks-dream","koreanSlug":"yangmal-kkum","category":"clothing","subcategory":"accessory","subcategoryKorean":"액세서리","related":["clothing-shoes"],"searchTier":"longtail","naverKeywords":["양말 꿈","양말 꿈 해몽"],"googleKeywords":["socks dream meaning"]},
-    {"id":"clothing-coat","korean":"코트/외투 꿈","english":"Dream of a coat","slug":"coat-dream","koreanSlug":"koteu-kkum","category":"clothing","subcategory":"outerwear","subcategoryKorean":"겉옷","related":["clothing-general","weather-cold"],"searchTier":"longtail","naverKeywords":["코트 꿈","외투 꿈 해몽"],"googleKeywords":["coat dream meaning"]},
-    {"id":"clothing-scarf","korean":"스카프/목도리 꿈","english":"Dream of a scarf","slug":"scarf-dream","koreanSlug":"seukapeu-kkum","category":"clothing","subcategory":"accessory","subcategoryKorean":"액세서리","related":["clothing-general"],"searchTier":"longtail","naverKeywords":["스카프 꿈","목도리 꿈 해몽"],"googleKeywords":["scarf dream meaning"]},
-    {"id":"clothing-gloves","korean":"장갑 꿈","english":"Dream of gloves","slug":"gloves-dream","koreanSlug":"janggap-kkum","category":"clothing","subcategory":"accessory","subcategoryKorean":"액세서리","related":["hand-general"],"searchTier":"longtail","naverKeywords":["장갑 꿈","장갑 꿈 해몽"],"googleKeywords":["gloves dream meaning"]},
-    {"id":"clothing-jewelry","korean":"보석/장신구 꿈","english":"Dream of jewelry","slug":"jewelry-dream","koreanSlug":"boseok-kkum","category":"clothing","subcategory":"accessory","subcategoryKorean":"액세서리","related":["marriage-ring","money-gold"],"searchTier":"medium","naverKeywords":["보석 꿈","장신구 꿈 해몽"],"googleKeywords":["jewelry dream meaning"]},
-    {"id":"clothing-necklace","korean":"목걸이 꿈","english":"Dream of a necklace","slug":"necklace-dream","koreanSlug":"mokgeori-kkum","category":"clothing","subcategory":"accessory","subcategoryKorean":"액세서리","related":["clothing-jewelry"],"searchTier":"longtail","naverKeywords":["목걸이 꿈","목걸이 꿈 해몽"],"googleKeywords":["necklace dream meaning"]},
-    {"id":"clothing-watch","korean":"시계 꿈","english":"Dream of a watch","slug":"watch-dream","koreanSlug":"sigye-kkum","category":"clothing","subcategory":"accessory","subcategoryKorean":"액세서리","related":["number-time"],"searchTier":"longtail","naverKeywords":["시계 꿈","시계 꿈 해몽"],"googleKeywords":["watch dream meaning"]},
-    {"id":"clothing-pajamas","korean":"잠옷 꿈","english":"Dream of pajamas","slug":"pajamas-dream","koreanSlug":"jamot-kkum","category":"clothing","subcategory":"undergarment","subcategoryKorean":"속옷","related":["action-sleeping","clothing-general"],"searchTier":"longtail","naverKeywords":["잠옷 꿈","잠옷 꿈 해몽"],"googleKeywords":["pajamas dream meaning"]},
-    {"id":"clothing-mask","korean":"마스크/가면 꿈","english":"Dream of a mask","slug":"mask-dream","koreanSlug":"maseukeu-kkum","category":"clothing","subcategory":"accessory","subcategoryKorean":"액세서리","related":["face-general","body-invisible"],"searchTier":"medium","naverKeywords":["마스크 꿈","가면 꿈 해몽"],"googleKeywords":["mask dream meaning"]},
-    {"id":"clothing-wedding-dress","korean":"웨딩드레스 꿈","english":"Dream of a wedding dress","slug":"wedding-dress-clothing-dream","koreanSlug":"weding-deureseu-kkum","category":"clothing","subcategory":"special","subcategoryKorean":"특수의류","related":["marriage-dress","marriage-wedding"],"searchTier":"medium","naverKeywords":["웨딩드레스 꿈","웨딩드레스 꿈 해몽"],"googleKeywords":["wedding dress dream meaning"]},
-    {"id":"clothing-fur-coat","korean":"모피 코트 꿈","english":"Dream of a fur coat","slug":"fur-coat-dream","koreanSlug":"mopi-koteu-kkum","category":"clothing","subcategory":"outerwear","subcategoryKorean":"겉옷","related":["clothing-coat"],"searchTier":"longtail","naverKeywords":["모피 꿈","모피 코트 꿈 해몽"],"googleKeywords":["fur coat dream meaning"]},
-    {"id":"clothing-armor","korean":"갑옷 꿈","english":"Dream of armor","slug":"armor-dream","koreanSlug":"gabot-kkum","category":"clothing","subcategory":"special","subcategoryKorean":"특수의류","related":["object-sword","action-war"],"searchTier":"longtail","naverKeywords":["갑옷 꿈","갑옷 꿈 해몽"],"googleKeywords":["armor dream meaning"]},
-    {"id":"clothing-sandals","korean":"샌들 꿈","english":"Dream of sandals","slug":"sandals-dream","koreanSlug":"saendeul-kkum","category":"clothing","subcategory":"shoes","subcategoryKorean":"신발","related":["clothing-shoes"],"searchTier":"longtail","naverKeywords":["샌들 꿈","샌들 꿈 해몽"],"googleKeywords":["sandals dream meaning"]},
-    {"id":"clothing-high-heels","korean":"하이힐 꿈","english":"Dream of high heels","slug":"high-heels-dream","koreanSlug":"haihil-kkum","category":"clothing","subcategory":"shoes","subcategoryKorean":"신발","related":["clothing-shoes"],"searchTier":"longtail","naverKeywords":["하이힐 꿈","하이힐 꿈 해몽"],"googleKeywords":["high heels dream meaning"]},
-    {"id":"clothing-sneakers","korean":"운동화 꿈","english":"Dream of sneakers","slug":"sneakers-dream","koreanSlug":"undonghwa-kkum","category":"clothing","subcategory":"shoes","subcategoryKorean":"신발","related":["clothing-shoes"],"searchTier":"longtail","naverKeywords":["운동화 꿈","운동화 꿈 해몽"],"googleKeywords":["sneakers dream meaning"]},
-    {"id":"clothing-belt","korean":"벨트 꿈","english":"Dream of a belt","slug":"belt-dream","koreanSlug":"belteu-kkum","category":"clothing","subcategory":"accessory","subcategoryKorean":"액세서리","related":["clothing-general"],"searchTier":"longtail","naverKeywords":["벨트 꿈","벨트 꿈 해몽"],"googleKeywords":["belt dream meaning"]},
-    {"id":"clothing-tie","korean":"넥타이 꿈","english":"Dream of a tie","slug":"tie-dream","koreanSlug":"nektai-kkum","category":"clothing","subcategory":"accessory","subcategoryKorean":"액세서리","related":["clothing-suit"],"searchTier":"longtail","naverKeywords":["넥타이 꿈","넥타이 꿈 해몽"],"googleKeywords":["tie dream meaning"]},
-    {"id":"clothing-swimsuit","korean":"수영복 꿈","english":"Dream of a swimsuit","slug":"swimsuit-dream","koreanSlug":"suyeongbok-kkum","category":"clothing","subcategory":"special","subcategoryKorean":"특수의류","related":["action-swimming","water-pool"],"searchTier":"longtail","naverKeywords":["수영복 꿈","수영복 꿈 해몽"],"googleKeywords":["swimsuit dream meaning"]},
-    {"id":"clothing-pajamas","korean":"잠옷 꿈","english":"Dream of pajamas","slug":"pajamas-dream","koreanSlug":"jamot-kkum","category":"clothing","subcategory":"casual","subcategoryKorean":"편한옷","related":["clothing-general","action-sleeping"],"searchTier":"longtail","naverKeywords":["잠옷 꿈","잠옷 꿈 해몽"],"googleKeywords":["pajamas dream meaning"]},
-    {"id":"clothing-raincoat","korean":"우비 꿈","english":"Dream of a raincoat","slug":"raincoat-dream","koreanSlug":"ubi-kkum","category":"clothing","subcategory":"outerwear","subcategoryKorean":"외투","related":["weather-rain","object-umbrella"],"searchTier":"longtail","naverKeywords":["우비 꿈","우비 꿈 해몽"],"googleKeywords":["raincoat dream meaning"]}
+    {
+      "id": "clothing-general",
+      "korean": "옷 꿈",
+      "english": "Dream of clothes",
+      "slug": "clothes-dream",
+      "koreanSlug": "ot-kkum",
+      "category": "clothing",
+      "subcategory": "general",
+      "subcategoryKorean": "일반",
+      "related": [
+        "clothing-new",
+        "clothing-dirty",
+        "clothing-missing"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "옷 꿈",
+        "옷 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "clothes dream meaning"
+      ]
+    },
+    {
+      "id": "clothing-new",
+      "korean": "새 옷 꿈",
+      "english": "Dream of new clothes",
+      "slug": "new-clothes-dream",
+      "koreanSlug": "sae-ot-kkum",
+      "category": "clothing",
+      "subcategory": "general",
+      "subcategoryKorean": "일반",
+      "related": [
+        "clothing-general",
+        "clothing-buying"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "새 옷 꿈",
+        "새옷 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "new clothes dream meaning"
+      ]
+    },
+    {
+      "id": "clothing-dirty",
+      "korean": "더러운 옷 꿈",
+      "english": "Dream of dirty clothes",
+      "slug": "dirty-clothes-dream",
+      "koreanSlug": "deoreoun-ot-kkum",
+      "category": "clothing",
+      "subcategory": "general",
+      "subcategoryKorean": "일반",
+      "related": [
+        "clothing-general",
+        "clothing-torn"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "더러운 옷 꿈",
+        "더러운 옷 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "dirty clothes dream meaning"
+      ]
+    },
+    {
+      "id": "clothing-torn",
+      "korean": "찢어진 옷 꿈",
+      "english": "Dream of torn clothes",
+      "slug": "torn-clothes-dream",
+      "koreanSlug": "jjijeojin-ot-kkum",
+      "category": "clothing",
+      "subcategory": "general",
+      "subcategoryKorean": "일반",
+      "related": [
+        "clothing-dirty",
+        "clothing-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "찢어진 옷 꿈",
+        "찢어진 옷 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "torn clothes dream meaning"
+      ]
+    },
+    {
+      "id": "clothing-buying",
+      "korean": "옷을 사는 꿈",
+      "english": "Dream of buying clothes",
+      "slug": "buying-clothes-dream",
+      "koreanSlug": "ot-saneun-kkum",
+      "category": "clothing",
+      "subcategory": "general",
+      "subcategoryKorean": "일반",
+      "related": [
+        "clothing-new",
+        "action-shopping"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "옷 사는 꿈",
+        "옷 사는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "buying clothes dream meaning"
+      ]
+    },
+    {
+      "id": "clothing-missing",
+      "korean": "옷이 없는 꿈",
+      "english": "Dream of having no clothes",
+      "slug": "no-clothes-dream",
+      "koreanSlug": "ot-eomneun-kkum",
+      "category": "clothing",
+      "subcategory": "general",
+      "subcategoryKorean": "일반",
+      "related": [
+        "body-naked",
+        "clothing-general"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "옷이 없는 꿈",
+        "옷 없는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "no clothes dream meaning"
+      ]
+    },
+    {
+      "id": "clothing-white",
+      "korean": "흰옷 꿈",
+      "english": "Dream of white clothes",
+      "slug": "white-clothes-dream",
+      "koreanSlug": "huin-ot-kkum",
+      "category": "clothing",
+      "subcategory": "color",
+      "subcategoryKorean": "색상",
+      "related": [
+        "clothing-general",
+        "clothing-black"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "흰옷 꿈",
+        "흰옷 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "white clothes dream meaning"
+      ]
+    },
+    {
+      "id": "clothing-black",
+      "korean": "검은 옷 꿈",
+      "english": "Dream of black clothes",
+      "slug": "black-clothes-dream",
+      "koreanSlug": "geomeun-ot-kkum",
+      "category": "clothing",
+      "subcategory": "color",
+      "subcategoryKorean": "색상",
+      "related": [
+        "clothing-general",
+        "clothing-white"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "검은 옷 꿈",
+        "검정 옷 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "black clothes dream meaning"
+      ]
+    },
+    {
+      "id": "clothing-red",
+      "korean": "빨간 옷 꿈",
+      "english": "Dream of red clothes",
+      "slug": "red-clothes-dream",
+      "koreanSlug": "ppalgan-ot-kkum",
+      "category": "clothing",
+      "subcategory": "color",
+      "subcategoryKorean": "색상",
+      "related": [
+        "clothing-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "빨간 옷 꿈",
+        "빨간 옷 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "red clothes dream meaning"
+      ]
+    },
+    {
+      "id": "clothing-shoes",
+      "korean": "신발 꿈",
+      "english": "Dream of shoes",
+      "slug": "shoes-dream",
+      "koreanSlug": "sinbal-kkum",
+      "category": "clothing",
+      "subcategory": "shoes",
+      "subcategoryKorean": "신발",
+      "related": [
+        "clothing-shoes-new",
+        "clothing-shoes-lost"
+      ],
+      "searchTier": "high",
+      "naverKeywords": [
+        "신발 꿈",
+        "신발 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "shoes dream meaning"
+      ]
+    },
+    {
+      "id": "clothing-shoes-new",
+      "korean": "새 신발 꿈",
+      "english": "Dream of new shoes",
+      "slug": "new-shoes-dream",
+      "koreanSlug": "sae-sinbal-kkum",
+      "category": "clothing",
+      "subcategory": "shoes",
+      "subcategoryKorean": "신발",
+      "related": [
+        "clothing-shoes"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "새 신발 꿈",
+        "새 신발 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "new shoes dream meaning"
+      ]
+    },
+    {
+      "id": "clothing-shoes-lost",
+      "korean": "신발을 잃어버리는 꿈",
+      "english": "Dream of losing shoes",
+      "slug": "losing-shoes-dream",
+      "koreanSlug": "sinbal-ilheobeorineun-kkum",
+      "category": "clothing",
+      "subcategory": "shoes",
+      "subcategoryKorean": "신발",
+      "related": [
+        "clothing-shoes",
+        "action-losing"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "신발 잃어버리는 꿈",
+        "신발 잃는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "losing shoes dream meaning"
+      ]
+    },
+    {
+      "id": "clothing-shoes-broken",
+      "korean": "신발이 찢어지는 꿈",
+      "english": "Dream of broken shoes",
+      "slug": "broken-shoes-dream",
+      "koreanSlug": "sinbal-jjijeojineun-kkum",
+      "category": "clothing",
+      "subcategory": "shoes",
+      "subcategoryKorean": "신발",
+      "related": [
+        "clothing-shoes"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "신발 찢어지는 꿈",
+        "신발 깨지는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "broken shoes dream meaning"
+      ]
+    },
+    {
+      "id": "clothing-hat",
+      "korean": "모자 꿈",
+      "english": "Dream of a hat",
+      "slug": "hat-dream",
+      "koreanSlug": "moja-kkum",
+      "category": "clothing",
+      "subcategory": "accessory",
+      "subcategoryKorean": "액세서리",
+      "related": [
+        "clothing-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "모자 꿈",
+        "모자 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "hat dream meaning"
+      ]
+    },
+    {
+      "id": "clothing-uniform",
+      "korean": "교복/유니폼 꿈",
+      "english": "Dream of a uniform",
+      "slug": "uniform-dream",
+      "koreanSlug": "gyobok-kkum",
+      "category": "clothing",
+      "subcategory": "special",
+      "subcategoryKorean": "특수의류",
+      "related": [
+        "place-school",
+        "clothing-general"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "교복 꿈",
+        "유니폼 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "uniform dream meaning"
+      ]
+    },
+    {
+      "id": "clothing-hanbok",
+      "korean": "한복 꿈",
+      "english": "Dream of hanbok (Korean traditional dress)",
+      "slug": "hanbok-dream",
+      "koreanSlug": "hanbok-kkum",
+      "category": "clothing",
+      "subcategory": "special",
+      "subcategoryKorean": "특수의류",
+      "related": [
+        "clothing-general",
+        "marriage-wedding"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "한복 꿈",
+        "한복 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "hanbok dream meaning",
+        "Korean traditional dress dream"
+      ]
+    },
+    {
+      "id": "clothing-underwear",
+      "korean": "속옷 꿈",
+      "english": "Dream of underwear",
+      "slug": "underwear-dream",
+      "koreanSlug": "sogot-kkum",
+      "category": "clothing",
+      "subcategory": "undergarment",
+      "subcategoryKorean": "속옷",
+      "related": [
+        "body-naked",
+        "clothing-general"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "속옷 꿈",
+        "속옷 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "underwear dream meaning"
+      ]
+    },
+    {
+      "id": "clothing-glasses",
+      "korean": "안경 꿈",
+      "english": "Dream of glasses",
+      "slug": "glasses-dream",
+      "koreanSlug": "angyeong-kkum",
+      "category": "clothing",
+      "subcategory": "accessory",
+      "subcategoryKorean": "액세서리",
+      "related": [
+        "eye-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "안경 꿈",
+        "안경 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "glasses dream meaning"
+      ]
+    },
+    {
+      "id": "clothing-suit",
+      "korean": "정장 꿈",
+      "english": "Dream of a suit",
+      "slug": "suit-dream",
+      "koreanSlug": "jeongjang-kkum",
+      "category": "clothing",
+      "subcategory": "formal",
+      "subcategoryKorean": "정장",
+      "related": [
+        "clothing-general",
+        "clothing-new"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "정장 꿈",
+        "정장 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "suit dream meaning"
+      ]
+    },
+    {
+      "id": "clothing-laundry",
+      "korean": "빨래하는 꿈",
+      "english": "Dream of doing laundry",
+      "slug": "doing-laundry-dream",
+      "koreanSlug": "ppallae-haneun-kkum",
+      "category": "clothing",
+      "subcategory": "general",
+      "subcategoryKorean": "일반",
+      "related": [
+        "clothing-dirty",
+        "action-cleaning"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "빨래하는 꿈",
+        "빨래 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "doing laundry dream meaning"
+      ]
+    },
+    {
+      "id": "clothing-changing",
+      "korean": "옷을 갈아입는 꿈",
+      "english": "Dream of changing clothes",
+      "slug": "changing-clothes-dream",
+      "koreanSlug": "ot-garaibneun-kkum",
+      "category": "clothing",
+      "subcategory": "general",
+      "subcategoryKorean": "일반",
+      "related": [
+        "clothing-general",
+        "clothing-new"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "옷 갈아입는 꿈",
+        "옷 바꾸는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "changing clothes dream meaning"
+      ]
+    },
+    {
+      "id": "clothing-socks",
+      "korean": "양말 꿈",
+      "english": "Dream of socks",
+      "slug": "socks-dream",
+      "koreanSlug": "yangmal-kkum",
+      "category": "clothing",
+      "subcategory": "accessory",
+      "subcategoryKorean": "액세서리",
+      "related": [
+        "clothing-shoes"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "양말 꿈",
+        "양말 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "socks dream meaning"
+      ]
+    },
+    {
+      "id": "clothing-coat",
+      "korean": "코트/외투 꿈",
+      "english": "Dream of a coat",
+      "slug": "coat-dream",
+      "koreanSlug": "koteu-kkum",
+      "category": "clothing",
+      "subcategory": "outerwear",
+      "subcategoryKorean": "겉옷",
+      "related": [
+        "clothing-general",
+        "weather-cold"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "코트 꿈",
+        "외투 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "coat dream meaning"
+      ]
+    },
+    {
+      "id": "clothing-scarf",
+      "korean": "스카프/목도리 꿈",
+      "english": "Dream of a scarf",
+      "slug": "scarf-dream",
+      "koreanSlug": "seukapeu-kkum",
+      "category": "clothing",
+      "subcategory": "accessory",
+      "subcategoryKorean": "액세서리",
+      "related": [
+        "clothing-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "스카프 꿈",
+        "목도리 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "scarf dream meaning"
+      ]
+    },
+    {
+      "id": "clothing-gloves",
+      "korean": "장갑 꿈",
+      "english": "Dream of gloves",
+      "slug": "gloves-dream",
+      "koreanSlug": "janggap-kkum",
+      "category": "clothing",
+      "subcategory": "accessory",
+      "subcategoryKorean": "액세서리",
+      "related": [
+        "hand-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "장갑 꿈",
+        "장갑 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "gloves dream meaning"
+      ]
+    },
+    {
+      "id": "clothing-jewelry",
+      "korean": "보석/장신구 꿈",
+      "english": "Dream of jewelry",
+      "slug": "jewelry-dream",
+      "koreanSlug": "boseok-kkum",
+      "category": "clothing",
+      "subcategory": "accessory",
+      "subcategoryKorean": "액세서리",
+      "related": [
+        "marriage-ring",
+        "money-gold"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "보석 꿈",
+        "장신구 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "jewelry dream meaning"
+      ]
+    },
+    {
+      "id": "clothing-necklace",
+      "korean": "목걸이 꿈",
+      "english": "Dream of a necklace",
+      "slug": "necklace-dream",
+      "koreanSlug": "mokgeori-kkum",
+      "category": "clothing",
+      "subcategory": "accessory",
+      "subcategoryKorean": "액세서리",
+      "related": [
+        "clothing-jewelry"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "목걸이 꿈",
+        "목걸이 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "necklace dream meaning"
+      ]
+    },
+    {
+      "id": "clothing-watch",
+      "korean": "시계 꿈",
+      "english": "Dream of a watch",
+      "slug": "watch-dream",
+      "koreanSlug": "sigye-kkum",
+      "category": "clothing",
+      "subcategory": "accessory",
+      "subcategoryKorean": "액세서리",
+      "related": [
+        "number-time"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "시계 꿈",
+        "시계 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "watch dream meaning"
+      ]
+    },
+    {
+      "id": "clothing-pajamas",
+      "korean": "잠옷 꿈",
+      "english": "Dream of pajamas",
+      "slug": "pajamas-dream",
+      "koreanSlug": "jamot-kkum",
+      "category": "clothing",
+      "subcategory": "undergarment",
+      "subcategoryKorean": "속옷",
+      "related": [
+        "action-sleeping",
+        "clothing-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "잠옷 꿈",
+        "잠옷 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "pajamas dream meaning"
+      ]
+    },
+    {
+      "id": "clothing-mask",
+      "korean": "마스크/가면 꿈",
+      "english": "Dream of a mask",
+      "slug": "mask-dream",
+      "koreanSlug": "maseukeu-kkum",
+      "category": "clothing",
+      "subcategory": "accessory",
+      "subcategoryKorean": "액세서리",
+      "related": [
+        "face-general",
+        "body-invisible"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "마스크 꿈",
+        "가면 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "mask dream meaning"
+      ]
+    },
+    {
+      "id": "clothing-wedding-dress",
+      "korean": "웨딩드레스 꿈",
+      "english": "Dream of a wedding dress",
+      "slug": "wedding-dress-clothing-dream",
+      "koreanSlug": "weding-deureseu-kkum",
+      "category": "clothing",
+      "subcategory": "special",
+      "subcategoryKorean": "특수의류",
+      "related": [
+        "marriage-dress",
+        "marriage-wedding"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "웨딩드레스 꿈",
+        "웨딩드레스 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "wedding dress dream meaning"
+      ]
+    },
+    {
+      "id": "clothing-fur-coat",
+      "korean": "모피 코트 꿈",
+      "english": "Dream of a fur coat",
+      "slug": "fur-coat-dream",
+      "koreanSlug": "mopi-koteu-kkum",
+      "category": "clothing",
+      "subcategory": "outerwear",
+      "subcategoryKorean": "겉옷",
+      "related": [
+        "clothing-coat"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "모피 꿈",
+        "모피 코트 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "fur coat dream meaning"
+      ]
+    },
+    {
+      "id": "clothing-armor",
+      "korean": "갑옷 꿈",
+      "english": "Dream of armor",
+      "slug": "armor-dream",
+      "koreanSlug": "gabot-kkum",
+      "category": "clothing",
+      "subcategory": "special",
+      "subcategoryKorean": "특수의류",
+      "related": [
+        "object-sword",
+        "action-war"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "갑옷 꿈",
+        "갑옷 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "armor dream meaning"
+      ]
+    },
+    {
+      "id": "clothing-sandals",
+      "korean": "샌들 꿈",
+      "english": "Dream of sandals",
+      "slug": "sandals-dream",
+      "koreanSlug": "saendeul-kkum",
+      "category": "clothing",
+      "subcategory": "shoes",
+      "subcategoryKorean": "신발",
+      "related": [
+        "clothing-shoes"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "샌들 꿈",
+        "샌들 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "sandals dream meaning"
+      ]
+    },
+    {
+      "id": "clothing-high-heels",
+      "korean": "하이힐 꿈",
+      "english": "Dream of high heels",
+      "slug": "high-heels-dream",
+      "koreanSlug": "haihil-kkum",
+      "category": "clothing",
+      "subcategory": "shoes",
+      "subcategoryKorean": "신발",
+      "related": [
+        "clothing-shoes"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "하이힐 꿈",
+        "하이힐 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "high heels dream meaning"
+      ]
+    },
+    {
+      "id": "clothing-sneakers",
+      "korean": "운동화 꿈",
+      "english": "Dream of sneakers",
+      "slug": "sneakers-dream",
+      "koreanSlug": "undonghwa-kkum",
+      "category": "clothing",
+      "subcategory": "shoes",
+      "subcategoryKorean": "신발",
+      "related": [
+        "clothing-shoes"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "운동화 꿈",
+        "운동화 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "sneakers dream meaning"
+      ]
+    },
+    {
+      "id": "clothing-belt",
+      "korean": "벨트 꿈",
+      "english": "Dream of a belt",
+      "slug": "belt-dream",
+      "koreanSlug": "belteu-kkum",
+      "category": "clothing",
+      "subcategory": "accessory",
+      "subcategoryKorean": "액세서리",
+      "related": [
+        "clothing-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "벨트 꿈",
+        "벨트 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "belt dream meaning"
+      ]
+    },
+    {
+      "id": "clothing-tie",
+      "korean": "넥타이 꿈",
+      "english": "Dream of a tie",
+      "slug": "tie-dream",
+      "koreanSlug": "nektai-kkum",
+      "category": "clothing",
+      "subcategory": "accessory",
+      "subcategoryKorean": "액세서리",
+      "related": [
+        "clothing-suit"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "넥타이 꿈",
+        "넥타이 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "tie dream meaning"
+      ]
+    },
+    {
+      "id": "clothing-swimsuit",
+      "korean": "수영복 꿈",
+      "english": "Dream of a swimsuit",
+      "slug": "swimsuit-dream",
+      "koreanSlug": "suyeongbok-kkum",
+      "category": "clothing",
+      "subcategory": "special",
+      "subcategoryKorean": "특수의류",
+      "related": [
+        "action-swimming",
+        "water-pool"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "수영복 꿈",
+        "수영복 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "swimsuit dream meaning"
+      ]
+    },
+    {
+      "id": "clothing-raincoat",
+      "korean": "우비 꿈",
+      "english": "Dream of a raincoat",
+      "slug": "raincoat-dream",
+      "koreanSlug": "ubi-kkum",
+      "category": "clothing",
+      "subcategory": "outerwear",
+      "subcategoryKorean": "외투",
+      "related": [
+        "weather-rain",
+        "object-umbrella"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "우비 꿈",
+        "우비 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "raincoat dream meaning"
+      ]
+    }
   ]
 }

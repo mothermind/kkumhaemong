@@ -12,10 +12,22 @@
       "category": "animals",
       "subcategory": "snake",
       "subcategoryKorean": "뱀",
-      "related": ["snake-bite", "snake-white", "snake-large", "snake-kill"],
+      "related": [
+        "snake-bite",
+        "snake-white",
+        "snake-large",
+        "snake-kill"
+      ],
       "searchTier": "high",
-      "naverKeywords": ["뱀꿈", "뱀꿈 해몽", "뱀꿈 의미"],
-      "googleKeywords": ["snake dream meaning", "dream of snake Korean interpretation"]
+      "naverKeywords": [
+        "뱀꿈",
+        "뱀꿈 해몽",
+        "뱀꿈 의미"
+      ],
+      "googleKeywords": [
+        "snake dream meaning",
+        "dream of snake Korean interpretation"
+      ]
     },
     {
       "id": "snake-bite",
@@ -26,10 +38,20 @@
       "category": "animals",
       "subcategory": "snake",
       "subcategoryKorean": "뱀",
-      "related": ["snake-general", "snake-attack", "snake-large"],
+      "related": [
+        "snake-general",
+        "snake-attack",
+        "snake-large"
+      ],
       "searchTier": "high",
-      "naverKeywords": ["뱀에게 물리는 꿈", "뱀 물리는 꿈 해몽"],
-      "googleKeywords": ["snake bite dream meaning", "dream of snake biting me"]
+      "naverKeywords": [
+        "뱀에게 물리는 꿈",
+        "뱀 물리는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "snake bite dream meaning",
+        "dream of snake biting me"
+      ]
     },
     {
       "id": "snake-white",
@@ -40,10 +62,21 @@
       "category": "animals",
       "subcategory": "snake",
       "subcategoryKorean": "뱀",
-      "related": ["snake-general", "snake-gold", "snake-large"],
+      "related": [
+        "snake-general",
+        "snake-gold",
+        "snake-large"
+      ],
       "searchTier": "high",
-      "naverKeywords": ["흰뱀 꿈", "흰뱀 꿈 해몽", "하얀 뱀 꿈"],
-      "googleKeywords": ["white snake dream meaning", "dream of white snake"]
+      "naverKeywords": [
+        "흰뱀 꿈",
+        "흰뱀 꿈 해몽",
+        "하얀 뱀 꿈"
+      ],
+      "googleKeywords": [
+        "white snake dream meaning",
+        "dream of white snake"
+      ]
     },
     {
       "id": "snake-large",
@@ -54,10 +87,21 @@
       "category": "animals",
       "subcategory": "snake",
       "subcategoryKorean": "뱀",
-      "related": ["snake-general", "snake-python", "snake-white"],
+      "related": [
+        "snake-general",
+        "snake-python",
+        "snake-white"
+      ],
       "searchTier": "high",
-      "naverKeywords": ["큰 뱀 꿈", "큰 뱀 꿈 해몽", "거대한 뱀 꿈"],
-      "googleKeywords": ["big snake dream meaning", "dream of large snake"]
+      "naverKeywords": [
+        "큰 뱀 꿈",
+        "큰 뱀 꿈 해몽",
+        "거대한 뱀 꿈"
+      ],
+      "googleKeywords": [
+        "big snake dream meaning",
+        "dream of large snake"
+      ]
     },
     {
       "id": "snake-kill",
@@ -68,10 +112,20 @@
       "category": "animals",
       "subcategory": "snake",
       "subcategoryKorean": "뱀",
-      "related": ["snake-general", "snake-bite", "snake-catch"],
+      "related": [
+        "snake-general",
+        "snake-bite",
+        "snake-catch"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["뱀 죽이는 꿈", "뱀을 죽이는 꿈 해몽"],
-      "googleKeywords": ["killing snake dream meaning", "dream of killing a snake"]
+      "naverKeywords": [
+        "뱀 죽이는 꿈",
+        "뱀을 죽이는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "killing snake dream meaning",
+        "dream of killing a snake"
+      ]
     },
     {
       "id": "snake-home",
@@ -82,10 +136,20 @@
       "category": "animals",
       "subcategory": "snake",
       "subcategoryKorean": "뱀",
-      "related": ["snake-general", "snake-large", "snake-many"],
+      "related": [
+        "snake-general",
+        "snake-large",
+        "snake-many"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["뱀이 집에 들어오는 꿈", "집에 뱀 꿈 해몽"],
-      "googleKeywords": ["snake in house dream meaning", "dream snake entering home"]
+      "naverKeywords": [
+        "뱀이 집에 들어오는 꿈",
+        "집에 뱀 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "snake in house dream meaning",
+        "dream snake entering home"
+      ]
     },
     {
       "id": "snake-many",
@@ -96,10 +160,20 @@
       "category": "animals",
       "subcategory": "snake",
       "subcategoryKorean": "뱀",
-      "related": ["snake-general", "snake-home", "snake-large"],
+      "related": [
+        "snake-general",
+        "snake-home",
+        "snake-large"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["뱀이 많은 꿈", "뱀 여러마리 꿈 해몽"],
-      "googleKeywords": ["many snakes dream meaning", "dream of multiple snakes"]
+      "naverKeywords": [
+        "뱀이 많은 꿈",
+        "뱀 여러마리 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "many snakes dream meaning",
+        "dream of multiple snakes"
+      ]
     },
     {
       "id": "snake-gold",
@@ -110,10 +184,21 @@
       "category": "animals",
       "subcategory": "snake",
       "subcategoryKorean": "뱀",
-      "related": ["snake-white", "snake-general", "snake-large"],
+      "related": [
+        "snake-white",
+        "snake-general",
+        "snake-large"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["금색 뱀 꿈", "금뱀 꿈 해몽", "황금 뱀 꿈"],
-      "googleKeywords": ["golden snake dream meaning", "dream of gold snake"]
+      "naverKeywords": [
+        "금색 뱀 꿈",
+        "금뱀 꿈 해몽",
+        "황금 뱀 꿈"
+      ],
+      "googleKeywords": [
+        "golden snake dream meaning",
+        "dream of gold snake"
+      ]
     },
     {
       "id": "snake-catch",
@@ -124,10 +209,20 @@
       "category": "animals",
       "subcategory": "snake",
       "subcategoryKorean": "뱀",
-      "related": ["snake-kill", "snake-general", "snake-bite"],
+      "related": [
+        "snake-kill",
+        "snake-general",
+        "snake-bite"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["뱀을 잡는 꿈", "뱀 잡는 꿈 해몽"],
-      "googleKeywords": ["catching snake dream meaning", "dream of catching a snake"]
+      "naverKeywords": [
+        "뱀을 잡는 꿈",
+        "뱀 잡는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "catching snake dream meaning",
+        "dream of catching a snake"
+      ]
     },
     {
       "id": "snake-attack",
@@ -138,10 +233,20 @@
       "category": "animals",
       "subcategory": "snake",
       "subcategoryKorean": "뱀",
-      "related": ["snake-bite", "snake-chase", "snake-general"],
+      "related": [
+        "snake-bite",
+        "snake-chase",
+        "snake-general"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["뱀이 공격하는 꿈", "뱀 공격 꿈 해몽"],
-      "googleKeywords": ["snake attacking dream meaning", "dream of snake attack"]
+      "naverKeywords": [
+        "뱀이 공격하는 꿈",
+        "뱀 공격 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "snake attacking dream meaning",
+        "dream of snake attack"
+      ]
     },
     {
       "id": "snake-chase",
@@ -152,10 +257,20 @@
       "category": "animals",
       "subcategory": "snake",
       "subcategoryKorean": "뱀",
-      "related": ["snake-attack", "snake-bite", "snake-general"],
+      "related": [
+        "snake-attack",
+        "snake-bite",
+        "snake-general"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["뱀에게 쫓기는 꿈", "뱀한테 쫓기는 꿈 해몽"],
-      "googleKeywords": ["chased by snake dream meaning", "dream of snake chasing me"]
+      "naverKeywords": [
+        "뱀에게 쫓기는 꿈",
+        "뱀한테 쫓기는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "chased by snake dream meaning",
+        "dream of snake chasing me"
+      ]
     },
     {
       "id": "snake-python",
@@ -166,10 +281,20 @@
       "category": "animals",
       "subcategory": "snake",
       "subcategoryKorean": "뱀",
-      "related": ["snake-large", "snake-general", "snake-home"],
+      "related": [
+        "snake-large",
+        "snake-general",
+        "snake-home"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["구렁이 꿈", "구렁이 꿈 해몽"],
-      "googleKeywords": ["python dream meaning", "dream of python snake"]
+      "naverKeywords": [
+        "구렁이 꿈",
+        "구렁이 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "python dream meaning",
+        "dream of python snake"
+      ]
     },
     {
       "id": "snake-dead",
@@ -180,10 +305,19 @@
       "category": "animals",
       "subcategory": "snake",
       "subcategoryKorean": "뱀",
-      "related": ["snake-kill", "snake-general"],
+      "related": [
+        "snake-kill",
+        "snake-general"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["죽은 뱀 꿈", "죽은 뱀 꿈 해몽"],
-      "googleKeywords": ["dead snake dream meaning", "dream of dead snake"]
+      "naverKeywords": [
+        "죽은 뱀 꿈",
+        "죽은 뱀 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "dead snake dream meaning",
+        "dream of dead snake"
+      ]
     },
     {
       "id": "snake-water",
@@ -194,10 +328,20 @@
       "category": "animals",
       "subcategory": "snake",
       "subcategoryKorean": "뱀",
-      "related": ["snake-general", "snake-large", "water-general"],
+      "related": [
+        "snake-general",
+        "snake-large",
+        "water-general"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["물속 뱀 꿈", "물에서 뱀 꿈 해몽"],
-      "googleKeywords": ["snake in water dream meaning", "dream of snake swimming"]
+      "naverKeywords": [
+        "물속 뱀 꿈",
+        "물에서 뱀 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "snake in water dream meaning",
+        "dream of snake swimming"
+      ]
     },
     {
       "id": "snake-black",
@@ -208,10 +352,20 @@
       "category": "animals",
       "subcategory": "snake",
       "subcategoryKorean": "뱀",
-      "related": ["snake-general", "snake-white", "snake-gold"],
+      "related": [
+        "snake-general",
+        "snake-white",
+        "snake-gold"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["검은 뱀 꿈", "검은 뱀 꿈 해몽"],
-      "googleKeywords": ["black snake dream meaning", "dream of black snake"]
+      "naverKeywords": [
+        "검은 뱀 꿈",
+        "검은 뱀 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "black snake dream meaning",
+        "dream of black snake"
+      ]
     },
     {
       "id": "pig-general",
@@ -222,10 +376,22 @@
       "category": "animals",
       "subcategory": "pig",
       "subcategoryKorean": "돼지",
-      "related": ["pig-gold", "pig-chase", "pig-many", "pig-baby"],
+      "related": [
+        "pig-gold",
+        "pig-chase",
+        "pig-many",
+        "pig-baby"
+      ],
       "searchTier": "high",
-      "naverKeywords": ["돼지꿈", "돼지꿈 해몽", "돼지꿈 의미"],
-      "googleKeywords": ["pig dream meaning", "dream of pig Korean"]
+      "naverKeywords": [
+        "돼지꿈",
+        "돼지꿈 해몽",
+        "돼지꿈 의미"
+      ],
+      "googleKeywords": [
+        "pig dream meaning",
+        "dream of pig Korean"
+      ]
     },
     {
       "id": "pig-gold",
@@ -236,10 +402,20 @@
       "category": "animals",
       "subcategory": "pig",
       "subcategoryKorean": "돼지",
-      "related": ["pig-general", "pig-many", "money-general"],
+      "related": [
+        "pig-general",
+        "pig-many",
+        "money-general"
+      ],
       "searchTier": "high",
-      "naverKeywords": ["황금 돼지 꿈", "금돼지 꿈 해몽"],
-      "googleKeywords": ["golden pig dream meaning", "dream of gold pig"]
+      "naverKeywords": [
+        "황금 돼지 꿈",
+        "금돼지 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "golden pig dream meaning",
+        "dream of gold pig"
+      ]
     },
     {
       "id": "pig-chase",
@@ -250,10 +426,19 @@
       "category": "animals",
       "subcategory": "pig",
       "subcategoryKorean": "돼지",
-      "related": ["pig-general", "pig-attack"],
+      "related": [
+        "pig-general",
+        "pig-attack"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["돼지에게 쫓기는 꿈", "돼지한테 쫓기는 꿈 해몽"],
-      "googleKeywords": ["chased by pig dream", "dream of pig chasing me"]
+      "naverKeywords": [
+        "돼지에게 쫓기는 꿈",
+        "돼지한테 쫓기는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "chased by pig dream",
+        "dream of pig chasing me"
+      ]
     },
     {
       "id": "pig-many",
@@ -264,10 +449,19 @@
       "category": "animals",
       "subcategory": "pig",
       "subcategoryKorean": "돼지",
-      "related": ["pig-general", "pig-gold"],
+      "related": [
+        "pig-general",
+        "pig-gold"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["돼지가 많은 꿈", "돼지 여러마리 꿈 해몽"],
-      "googleKeywords": ["many pigs dream meaning", "dream of multiple pigs"]
+      "naverKeywords": [
+        "돼지가 많은 꿈",
+        "돼지 여러마리 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "many pigs dream meaning",
+        "dream of multiple pigs"
+      ]
     },
     {
       "id": "pig-baby",
@@ -278,10 +472,20 @@
       "category": "animals",
       "subcategory": "pig",
       "subcategoryKorean": "돼지",
-      "related": ["pig-general", "pig-gold", "pregnancy-pig"],
+      "related": [
+        "pig-general",
+        "pig-gold",
+        "pregnancy-pig"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["새끼 돼지 꿈", "아기 돼지 꿈 해몽"],
-      "googleKeywords": ["piglet dream meaning", "dream of baby pig"]
+      "naverKeywords": [
+        "새끼 돼지 꿈",
+        "아기 돼지 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "piglet dream meaning",
+        "dream of baby pig"
+      ]
     },
     {
       "id": "pig-attack",
@@ -292,10 +496,19 @@
       "category": "animals",
       "subcategory": "pig",
       "subcategoryKorean": "돼지",
-      "related": ["pig-chase", "pig-general"],
+      "related": [
+        "pig-chase",
+        "pig-general"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["돼지가 공격하는 꿈", "돼지 공격 꿈 해몽"],
-      "googleKeywords": ["pig attacking dream meaning", "dream of pig attack"]
+      "naverKeywords": [
+        "돼지가 공격하는 꿈",
+        "돼지 공격 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "pig attacking dream meaning",
+        "dream of pig attack"
+      ]
     },
     {
       "id": "pig-dead",
@@ -306,10 +519,19 @@
       "category": "animals",
       "subcategory": "pig",
       "subcategoryKorean": "돼지",
-      "related": ["pig-general", "pig-slaughter"],
+      "related": [
+        "pig-general",
+        "pig-slaughter"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["죽은 돼지 꿈", "죽은 돼지 꿈 해몽"],
-      "googleKeywords": ["dead pig dream meaning", "dream of dead pig"]
+      "naverKeywords": [
+        "죽은 돼지 꿈",
+        "죽은 돼지 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "dead pig dream meaning",
+        "dream of dead pig"
+      ]
     },
     {
       "id": "pig-slaughter",
@@ -320,10 +542,19 @@
       "category": "animals",
       "subcategory": "pig",
       "subcategoryKorean": "돼지",
-      "related": ["pig-general", "pig-dead"],
+      "related": [
+        "pig-general",
+        "pig-dead"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["돼지를 잡는 꿈", "돼지 잡는 꿈 해몽"],
-      "googleKeywords": ["slaughtering pig dream meaning", "dream of killing pig"]
+      "naverKeywords": [
+        "돼지를 잡는 꿈",
+        "돼지 잡는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "slaughtering pig dream meaning",
+        "dream of killing pig"
+      ]
     },
     {
       "id": "pig-flying",
@@ -334,10 +565,19 @@
       "category": "animals",
       "subcategory": "pig",
       "subcategoryKorean": "돼지",
-      "related": ["pig-general", "pig-gold"],
+      "related": [
+        "pig-general",
+        "pig-gold"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["돼지가 나는 꿈", "돼지 하늘 꿈 해몽"],
-      "googleKeywords": ["flying pig dream meaning", "dream of pig flying"]
+      "naverKeywords": [
+        "돼지가 나는 꿈",
+        "돼지 하늘 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "flying pig dream meaning",
+        "dream of pig flying"
+      ]
     },
     {
       "id": "dog-general",
@@ -348,10 +588,22 @@
       "category": "animals",
       "subcategory": "dog",
       "subcategoryKorean": "개",
-      "related": ["dog-bite", "dog-black", "dog-white", "dog-chase"],
+      "related": [
+        "dog-bite",
+        "dog-black",
+        "dog-white",
+        "dog-chase"
+      ],
       "searchTier": "high",
-      "naverKeywords": ["개꿈", "개꿈 해몽", "개꿈 의미"],
-      "googleKeywords": ["dog dream meaning Korean", "dream of dog"]
+      "naverKeywords": [
+        "개꿈",
+        "개꿈 해몽",
+        "개꿈 의미"
+      ],
+      "googleKeywords": [
+        "dog dream meaning Korean",
+        "dream of dog"
+      ]
     },
     {
       "id": "dog-bite",
@@ -362,10 +614,20 @@
       "category": "animals",
       "subcategory": "dog",
       "subcategoryKorean": "개",
-      "related": ["dog-general", "dog-attack", "dog-chase"],
+      "related": [
+        "dog-general",
+        "dog-attack",
+        "dog-chase"
+      ],
       "searchTier": "high",
-      "naverKeywords": ["개에게 물리는 꿈", "개 물리는 꿈 해몽"],
-      "googleKeywords": ["dog bite dream meaning", "dream of dog biting me"]
+      "naverKeywords": [
+        "개에게 물리는 꿈",
+        "개 물리는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "dog bite dream meaning",
+        "dream of dog biting me"
+      ]
     },
     {
       "id": "dog-black",
@@ -376,10 +638,20 @@
       "category": "animals",
       "subcategory": "dog",
       "subcategoryKorean": "개",
-      "related": ["dog-general", "dog-white", "dog-bite"],
+      "related": [
+        "dog-general",
+        "dog-white",
+        "dog-bite"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["검은 개 꿈", "검정 개 꿈 해몽"],
-      "googleKeywords": ["black dog dream meaning", "dream of black dog"]
+      "naverKeywords": [
+        "검은 개 꿈",
+        "검정 개 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "black dog dream meaning",
+        "dream of black dog"
+      ]
     },
     {
       "id": "dog-white",
@@ -390,10 +662,19 @@
       "category": "animals",
       "subcategory": "dog",
       "subcategoryKorean": "개",
-      "related": ["dog-general", "dog-black"],
+      "related": [
+        "dog-general",
+        "dog-black"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["흰 개 꿈", "하얀 개 꿈 해몽"],
-      "googleKeywords": ["white dog dream meaning", "dream of white dog"]
+      "naverKeywords": [
+        "흰 개 꿈",
+        "하얀 개 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "white dog dream meaning",
+        "dream of white dog"
+      ]
     },
     {
       "id": "dog-chase",
@@ -404,10 +685,20 @@
       "category": "animals",
       "subcategory": "dog",
       "subcategoryKorean": "개",
-      "related": ["dog-general", "dog-bite", "dog-attack"],
+      "related": [
+        "dog-general",
+        "dog-bite",
+        "dog-attack"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["개에게 쫓기는 꿈", "개한테 쫓기는 꿈 해몽"],
-      "googleKeywords": ["chased by dog dream meaning", "dream of dog chasing"]
+      "naverKeywords": [
+        "개에게 쫓기는 꿈",
+        "개한테 쫓기는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "chased by dog dream meaning",
+        "dream of dog chasing"
+      ]
     },
     {
       "id": "dog-attack",
@@ -418,10 +709,20 @@
       "category": "animals",
       "subcategory": "dog",
       "subcategoryKorean": "개",
-      "related": ["dog-bite", "dog-chase", "dog-general"],
+      "related": [
+        "dog-bite",
+        "dog-chase",
+        "dog-general"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["개가 공격하는 꿈", "개 공격 꿈 해몽"],
-      "googleKeywords": ["dog attacking dream meaning", "dream of aggressive dog"]
+      "naverKeywords": [
+        "개가 공격하는 꿈",
+        "개 공격 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "dog attacking dream meaning",
+        "dream of aggressive dog"
+      ]
     },
     {
       "id": "dog-dead",
@@ -432,10 +733,19 @@
       "category": "animals",
       "subcategory": "dog",
       "subcategoryKorean": "개",
-      "related": ["dog-general", "dog-sick"],
+      "related": [
+        "dog-general",
+        "dog-sick"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["죽은 개 꿈", "개 죽는 꿈 해몽"],
-      "googleKeywords": ["dead dog dream meaning", "dream of dog dying"]
+      "naverKeywords": [
+        "죽은 개 꿈",
+        "개 죽는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "dead dog dream meaning",
+        "dream of dog dying"
+      ]
     },
     {
       "id": "dog-puppy",
@@ -446,10 +756,20 @@
       "category": "animals",
       "subcategory": "dog",
       "subcategoryKorean": "개",
-      "related": ["dog-general", "dog-white", "dog-many"],
+      "related": [
+        "dog-general",
+        "dog-white",
+        "dog-many"
+      ],
       "searchTier": "high",
-      "naverKeywords": ["강아지 꿈", "강아지 꿈 해몽"],
-      "googleKeywords": ["puppy dream meaning", "dream of puppy"]
+      "naverKeywords": [
+        "강아지 꿈",
+        "강아지 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "puppy dream meaning",
+        "dream of puppy"
+      ]
     },
     {
       "id": "dog-many",
@@ -460,10 +780,19 @@
       "category": "animals",
       "subcategory": "dog",
       "subcategoryKorean": "개",
-      "related": ["dog-general", "dog-puppy"],
+      "related": [
+        "dog-general",
+        "dog-puppy"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["개가 많은 꿈", "개 여러마리 꿈 해몽"],
-      "googleKeywords": ["many dogs dream meaning", "dream of pack of dogs"]
+      "naverKeywords": [
+        "개가 많은 꿈",
+        "개 여러마리 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "many dogs dream meaning",
+        "dream of pack of dogs"
+      ]
     },
     {
       "id": "dog-sick",
@@ -474,10 +803,19 @@
       "category": "animals",
       "subcategory": "dog",
       "subcategoryKorean": "개",
-      "related": ["dog-dead", "dog-general"],
+      "related": [
+        "dog-dead",
+        "dog-general"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["아픈 개 꿈", "개 아픈 꿈 해몽"],
-      "googleKeywords": ["sick dog dream meaning", "dream of injured dog"]
+      "naverKeywords": [
+        "아픈 개 꿈",
+        "개 아픈 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "sick dog dream meaning",
+        "dream of injured dog"
+      ]
     },
     {
       "id": "dog-barking",
@@ -488,10 +826,19 @@
       "category": "animals",
       "subcategory": "dog",
       "subcategoryKorean": "개",
-      "related": ["dog-general", "dog-attack"],
+      "related": [
+        "dog-general",
+        "dog-attack"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["개가 짖는 꿈", "개 짖는 꿈 해몽"],
-      "googleKeywords": ["barking dog dream meaning", "dream of dog barking"]
+      "naverKeywords": [
+        "개가 짖는 꿈",
+        "개 짖는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "barking dog dream meaning",
+        "dream of dog barking"
+      ]
     },
     {
       "id": "cat-general",
@@ -502,10 +849,22 @@
       "category": "animals",
       "subcategory": "cat",
       "subcategoryKorean": "고양이",
-      "related": ["cat-black", "cat-white", "cat-bite", "cat-many"],
+      "related": [
+        "cat-black",
+        "cat-white",
+        "cat-bite",
+        "cat-many"
+      ],
       "searchTier": "high",
-      "naverKeywords": ["고양이꿈", "고양이꿈 해몽", "고양이꿈 의미"],
-      "googleKeywords": ["cat dream meaning Korean", "dream of cat"]
+      "naverKeywords": [
+        "고양이꿈",
+        "고양이꿈 해몽",
+        "고양이꿈 의미"
+      ],
+      "googleKeywords": [
+        "cat dream meaning Korean",
+        "dream of cat"
+      ]
     },
     {
       "id": "cat-black",
@@ -516,10 +875,19 @@
       "category": "animals",
       "subcategory": "cat",
       "subcategoryKorean": "고양이",
-      "related": ["cat-general", "cat-white"],
+      "related": [
+        "cat-general",
+        "cat-white"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["검은 고양이 꿈", "검정 고양이 꿈 해몽"],
-      "googleKeywords": ["black cat dream meaning", "dream of black cat"]
+      "naverKeywords": [
+        "검은 고양이 꿈",
+        "검정 고양이 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "black cat dream meaning",
+        "dream of black cat"
+      ]
     },
     {
       "id": "cat-white",
@@ -530,10 +898,19 @@
       "category": "animals",
       "subcategory": "cat",
       "subcategoryKorean": "고양이",
-      "related": ["cat-general", "cat-black"],
+      "related": [
+        "cat-general",
+        "cat-black"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["흰 고양이 꿈", "하얀 고양이 꿈 해몽"],
-      "googleKeywords": ["white cat dream meaning", "dream of white cat"]
+      "naverKeywords": [
+        "흰 고양이 꿈",
+        "하얀 고양이 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "white cat dream meaning",
+        "dream of white cat"
+      ]
     },
     {
       "id": "cat-bite",
@@ -544,10 +921,20 @@
       "category": "animals",
       "subcategory": "cat",
       "subcategoryKorean": "고양이",
-      "related": ["cat-general", "cat-scratch", "cat-attack"],
+      "related": [
+        "cat-general",
+        "cat-scratch",
+        "cat-attack"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["고양이에게 물리는 꿈", "고양이 물리는 꿈 해몽"],
-      "googleKeywords": ["cat bite dream meaning", "dream of cat biting"]
+      "naverKeywords": [
+        "고양이에게 물리는 꿈",
+        "고양이 물리는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "cat bite dream meaning",
+        "dream of cat biting"
+      ]
     },
     {
       "id": "cat-scratch",
@@ -558,10 +945,20 @@
       "category": "animals",
       "subcategory": "cat",
       "subcategoryKorean": "고양이",
-      "related": ["cat-bite", "cat-attack", "cat-general"],
+      "related": [
+        "cat-bite",
+        "cat-attack",
+        "cat-general"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["고양이에게 할퀴는 꿈", "고양이 할퀴는 꿈 해몽"],
-      "googleKeywords": ["cat scratching dream meaning", "dream of cat scratching me"]
+      "naverKeywords": [
+        "고양이에게 할퀴는 꿈",
+        "고양이 할퀴는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "cat scratching dream meaning",
+        "dream of cat scratching me"
+      ]
     },
     {
       "id": "cat-many",
@@ -572,10 +969,19 @@
       "category": "animals",
       "subcategory": "cat",
       "subcategoryKorean": "고양이",
-      "related": ["cat-general", "cat-kitten"],
+      "related": [
+        "cat-general",
+        "cat-kitten"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["고양이가 많은 꿈", "고양이 여러마리 꿈 해몽"],
-      "googleKeywords": ["many cats dream meaning", "dream of multiple cats"]
+      "naverKeywords": [
+        "고양이가 많은 꿈",
+        "고양이 여러마리 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "many cats dream meaning",
+        "dream of multiple cats"
+      ]
     },
     {
       "id": "cat-kitten",
@@ -586,10 +992,19 @@
       "category": "animals",
       "subcategory": "cat",
       "subcategoryKorean": "고양이",
-      "related": ["cat-general", "cat-many"],
+      "related": [
+        "cat-general",
+        "cat-many"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["새끼 고양이 꿈", "아기 고양이 꿈 해몽"],
-      "googleKeywords": ["kitten dream meaning", "dream of baby cat"]
+      "naverKeywords": [
+        "새끼 고양이 꿈",
+        "아기 고양이 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "kitten dream meaning",
+        "dream of baby cat"
+      ]
     },
     {
       "id": "cat-dead",
@@ -600,10 +1015,18 @@
       "category": "animals",
       "subcategory": "cat",
       "subcategoryKorean": "고양이",
-      "related": ["cat-general"],
+      "related": [
+        "cat-general"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["죽은 고양이 꿈", "고양이 죽는 꿈 해몽"],
-      "googleKeywords": ["dead cat dream meaning", "dream of cat dying"]
+      "naverKeywords": [
+        "죽은 고양이 꿈",
+        "고양이 죽는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "dead cat dream meaning",
+        "dream of cat dying"
+      ]
     },
     {
       "id": "cat-attack",
@@ -614,10 +1037,20 @@
       "category": "animals",
       "subcategory": "cat",
       "subcategoryKorean": "고양이",
-      "related": ["cat-bite", "cat-scratch", "cat-general"],
+      "related": [
+        "cat-bite",
+        "cat-scratch",
+        "cat-general"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["고양이가 공격하는 꿈", "고양이 공격 꿈 해몽"],
-      "googleKeywords": ["cat attacking dream meaning", "dream of aggressive cat"]
+      "naverKeywords": [
+        "고양이가 공격하는 꿈",
+        "고양이 공격 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "cat attacking dream meaning",
+        "dream of aggressive cat"
+      ]
     },
     {
       "id": "tiger-general",
@@ -628,10 +1061,22 @@
       "category": "animals",
       "subcategory": "tiger",
       "subcategoryKorean": "호랑이",
-      "related": ["tiger-chase", "tiger-white", "tiger-ride", "tiger-attack"],
+      "related": [
+        "tiger-chase",
+        "tiger-white",
+        "tiger-ride",
+        "tiger-attack"
+      ],
       "searchTier": "high",
-      "naverKeywords": ["호랑이꿈", "호랑이꿈 해몽", "호랑이꿈 의미"],
-      "googleKeywords": ["tiger dream meaning Korean", "dream of tiger"]
+      "naverKeywords": [
+        "호랑이꿈",
+        "호랑이꿈 해몽",
+        "호랑이꿈 의미"
+      ],
+      "googleKeywords": [
+        "tiger dream meaning Korean",
+        "dream of tiger"
+      ]
     },
     {
       "id": "tiger-chase",
@@ -642,10 +1087,20 @@
       "category": "animals",
       "subcategory": "tiger",
       "subcategoryKorean": "호랑이",
-      "related": ["tiger-general", "tiger-attack", "tiger-bite"],
+      "related": [
+        "tiger-general",
+        "tiger-attack",
+        "tiger-bite"
+      ],
       "searchTier": "high",
-      "naverKeywords": ["호랑이에게 쫓기는 꿈", "호랑이한테 쫓기는 꿈 해몽"],
-      "googleKeywords": ["chased by tiger dream", "dream of tiger chasing me"]
+      "naverKeywords": [
+        "호랑이에게 쫓기는 꿈",
+        "호랑이한테 쫓기는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "chased by tiger dream",
+        "dream of tiger chasing me"
+      ]
     },
     {
       "id": "tiger-white",
@@ -656,10 +1111,19 @@
       "category": "animals",
       "subcategory": "tiger",
       "subcategoryKorean": "호랑이",
-      "related": ["tiger-general", "tiger-ride"],
+      "related": [
+        "tiger-general",
+        "tiger-ride"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["백호 꿈", "흰 호랑이 꿈 해몽"],
-      "googleKeywords": ["white tiger dream meaning", "dream of white tiger"]
+      "naverKeywords": [
+        "백호 꿈",
+        "흰 호랑이 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "white tiger dream meaning",
+        "dream of white tiger"
+      ]
     },
     {
       "id": "tiger-ride",
@@ -670,10 +1134,19 @@
       "category": "animals",
       "subcategory": "tiger",
       "subcategoryKorean": "호랑이",
-      "related": ["tiger-general", "tiger-white"],
+      "related": [
+        "tiger-general",
+        "tiger-white"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["호랑이를 타는 꿈", "호랑이 타는 꿈 해몽"],
-      "googleKeywords": ["riding tiger dream meaning", "dream of riding a tiger"]
+      "naverKeywords": [
+        "호랑이를 타는 꿈",
+        "호랑이 타는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "riding tiger dream meaning",
+        "dream of riding a tiger"
+      ]
     },
     {
       "id": "tiger-attack",
@@ -684,10 +1157,20 @@
       "category": "animals",
       "subcategory": "tiger",
       "subcategoryKorean": "호랑이",
-      "related": ["tiger-chase", "tiger-bite", "tiger-general"],
+      "related": [
+        "tiger-chase",
+        "tiger-bite",
+        "tiger-general"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["호랑이가 공격하는 꿈", "호랑이 공격 꿈 해몽"],
-      "googleKeywords": ["tiger attacking dream meaning", "dream of tiger attack"]
+      "naverKeywords": [
+        "호랑이가 공격하는 꿈",
+        "호랑이 공격 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "tiger attacking dream meaning",
+        "dream of tiger attack"
+      ]
     },
     {
       "id": "tiger-bite",
@@ -698,10 +1181,20 @@
       "category": "animals",
       "subcategory": "tiger",
       "subcategoryKorean": "호랑이",
-      "related": ["tiger-attack", "tiger-chase", "tiger-general"],
+      "related": [
+        "tiger-attack",
+        "tiger-chase",
+        "tiger-general"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["호랑이에게 물리는 꿈", "호랑이 물리는 꿈 해몽"],
-      "googleKeywords": ["tiger bite dream meaning", "dream of tiger biting"]
+      "naverKeywords": [
+        "호랑이에게 물리는 꿈",
+        "호랑이 물리는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "tiger bite dream meaning",
+        "dream of tiger biting"
+      ]
     },
     {
       "id": "tiger-baby",
@@ -712,10 +1205,19 @@
       "category": "animals",
       "subcategory": "tiger",
       "subcategoryKorean": "호랑이",
-      "related": ["tiger-general", "tiger-white"],
+      "related": [
+        "tiger-general",
+        "tiger-white"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["아기 호랑이 꿈", "새끼 호랑이 꿈 해몽"],
-      "googleKeywords": ["tiger cub dream meaning", "dream of baby tiger"]
+      "naverKeywords": [
+        "아기 호랑이 꿈",
+        "새끼 호랑이 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "tiger cub dream meaning",
+        "dream of baby tiger"
+      ]
     },
     {
       "id": "tiger-dead",
@@ -726,10 +1228,17 @@
       "category": "animals",
       "subcategory": "tiger",
       "subcategoryKorean": "호랑이",
-      "related": ["tiger-general"],
+      "related": [
+        "tiger-general"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["죽은 호랑이 꿈", "호랑이 죽는 꿈 해몽"],
-      "googleKeywords": ["dead tiger dream meaning"]
+      "naverKeywords": [
+        "죽은 호랑이 꿈",
+        "호랑이 죽는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "dead tiger dream meaning"
+      ]
     },
     {
       "id": "dragon-general",
@@ -740,10 +1249,22 @@
       "category": "animals",
       "subcategory": "dragon",
       "subcategoryKorean": "용",
-      "related": ["dragon-fly", "dragon-gold", "dragon-water", "dragon-fire"],
+      "related": [
+        "dragon-fly",
+        "dragon-gold",
+        "dragon-water",
+        "dragon-fire"
+      ],
       "searchTier": "high",
-      "naverKeywords": ["용꿈", "용꿈 해몽", "용꿈 의미"],
-      "googleKeywords": ["dragon dream meaning Korean", "dream of dragon"]
+      "naverKeywords": [
+        "용꿈",
+        "용꿈 해몽",
+        "용꿈 의미"
+      ],
+      "googleKeywords": [
+        "dragon dream meaning Korean",
+        "dream of dragon"
+      ]
     },
     {
       "id": "dragon-fly",
@@ -754,10 +1275,20 @@
       "category": "animals",
       "subcategory": "dragon",
       "subcategoryKorean": "용",
-      "related": ["dragon-general", "dragon-gold", "dragon-ascending"],
+      "related": [
+        "dragon-general",
+        "dragon-gold",
+        "dragon-ascending"
+      ],
       "searchTier": "high",
-      "naverKeywords": ["용이 하늘을 나는 꿈", "용 나는 꿈 해몽"],
-      "googleKeywords": ["dragon flying dream meaning", "dream of flying dragon"]
+      "naverKeywords": [
+        "용이 하늘을 나는 꿈",
+        "용 나는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "dragon flying dream meaning",
+        "dream of flying dragon"
+      ]
     },
     {
       "id": "dragon-gold",
@@ -768,10 +1299,19 @@
       "category": "animals",
       "subcategory": "dragon",
       "subcategoryKorean": "용",
-      "related": ["dragon-general", "dragon-fly"],
+      "related": [
+        "dragon-general",
+        "dragon-fly"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["황금 용 꿈", "금룡 꿈 해몽"],
-      "googleKeywords": ["golden dragon dream meaning", "dream of gold dragon"]
+      "naverKeywords": [
+        "황금 용 꿈",
+        "금룡 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "golden dragon dream meaning",
+        "dream of gold dragon"
+      ]
     },
     {
       "id": "dragon-water",
@@ -782,10 +1322,19 @@
       "category": "animals",
       "subcategory": "dragon",
       "subcategoryKorean": "용",
-      "related": ["dragon-general", "dragon-ascending"],
+      "related": [
+        "dragon-general",
+        "dragon-ascending"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["용이 물에서 나오는 꿈", "용 물 꿈 해몽"],
-      "googleKeywords": ["dragon in water dream meaning", "dream of dragon from water"]
+      "naverKeywords": [
+        "용이 물에서 나오는 꿈",
+        "용 물 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "dragon in water dream meaning",
+        "dream of dragon from water"
+      ]
     },
     {
       "id": "dragon-ascending",
@@ -796,10 +1345,20 @@
       "category": "animals",
       "subcategory": "dragon",
       "subcategoryKorean": "용",
-      "related": ["dragon-fly", "dragon-general", "dragon-gold"],
+      "related": [
+        "dragon-fly",
+        "dragon-general",
+        "dragon-gold"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["용이 승천하는 꿈", "용 승천 꿈 해몽"],
-      "googleKeywords": ["dragon ascending dream meaning", "dream of dragon rising"]
+      "naverKeywords": [
+        "용이 승천하는 꿈",
+        "용 승천 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "dragon ascending dream meaning",
+        "dream of dragon rising"
+      ]
     },
     {
       "id": "dragon-fire",
@@ -810,10 +1369,18 @@
       "category": "animals",
       "subcategory": "dragon",
       "subcategoryKorean": "용",
-      "related": ["dragon-general", "dragon-gold"],
+      "related": [
+        "dragon-general",
+        "dragon-gold"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["용이 불을 뿜는 꿈", "용 불 꿈 해몽"],
-      "googleKeywords": ["fire breathing dragon dream meaning"]
+      "naverKeywords": [
+        "용이 불을 뿜는 꿈",
+        "용 불 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "fire breathing dragon dream meaning"
+      ]
     },
     {
       "id": "dragon-imugi",
@@ -824,10 +1391,19 @@
       "category": "animals",
       "subcategory": "dragon",
       "subcategoryKorean": "용",
-      "related": ["dragon-general", "snake-large"],
+      "related": [
+        "dragon-general",
+        "snake-large"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["이무기 꿈", "이무기 꿈 해몽"],
-      "googleKeywords": ["imugi dream meaning", "Korean dragon dream"]
+      "naverKeywords": [
+        "이무기 꿈",
+        "이무기 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "imugi dream meaning",
+        "Korean dragon dream"
+      ]
     },
     {
       "id": "fish-general",
@@ -838,10 +1414,22 @@
       "category": "animals",
       "subcategory": "fish",
       "subcategoryKorean": "물고기",
-      "related": ["fish-catch", "fish-big", "fish-carp", "fish-many"],
+      "related": [
+        "fish-catch",
+        "fish-big",
+        "fish-carp",
+        "fish-many"
+      ],
       "searchTier": "high",
-      "naverKeywords": ["물고기꿈", "물고기꿈 해몽", "물고기꿈 의미"],
-      "googleKeywords": ["fish dream meaning Korean", "dream of fish"]
+      "naverKeywords": [
+        "물고기꿈",
+        "물고기꿈 해몽",
+        "물고기꿈 의미"
+      ],
+      "googleKeywords": [
+        "fish dream meaning Korean",
+        "dream of fish"
+      ]
     },
     {
       "id": "fish-catch",
@@ -852,10 +1440,20 @@
       "category": "animals",
       "subcategory": "fish",
       "subcategoryKorean": "물고기",
-      "related": ["fish-general", "fish-big", "fish-many"],
+      "related": [
+        "fish-general",
+        "fish-big",
+        "fish-many"
+      ],
       "searchTier": "high",
-      "naverKeywords": ["물고기를 잡는 꿈", "물고기 잡는 꿈 해몽"],
-      "googleKeywords": ["catching fish dream meaning", "dream of catching fish"]
+      "naverKeywords": [
+        "물고기를 잡는 꿈",
+        "물고기 잡는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "catching fish dream meaning",
+        "dream of catching fish"
+      ]
     },
     {
       "id": "fish-big",
@@ -866,10 +1464,20 @@
       "category": "animals",
       "subcategory": "fish",
       "subcategoryKorean": "물고기",
-      "related": ["fish-general", "fish-catch", "fish-carp"],
+      "related": [
+        "fish-general",
+        "fish-catch",
+        "fish-carp"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["큰 물고기 꿈", "큰 물고기 꿈 해몽"],
-      "googleKeywords": ["big fish dream meaning", "dream of large fish"]
+      "naverKeywords": [
+        "큰 물고기 꿈",
+        "큰 물고기 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "big fish dream meaning",
+        "dream of large fish"
+      ]
     },
     {
       "id": "fish-carp",
@@ -880,10 +1488,20 @@
       "category": "animals",
       "subcategory": "fish",
       "subcategoryKorean": "물고기",
-      "related": ["fish-general", "fish-big", "fish-gold"],
+      "related": [
+        "fish-general",
+        "fish-big",
+        "fish-gold"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["잉어 꿈", "잉어 꿈 해몽"],
-      "googleKeywords": ["carp dream meaning", "dream of carp fish"]
+      "naverKeywords": [
+        "잉어 꿈",
+        "잉어 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "carp dream meaning",
+        "dream of carp fish"
+      ]
     },
     {
       "id": "fish-gold",
@@ -894,10 +1512,19 @@
       "category": "animals",
       "subcategory": "fish",
       "subcategoryKorean": "물고기",
-      "related": ["fish-general", "fish-carp"],
+      "related": [
+        "fish-general",
+        "fish-carp"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["금붕어 꿈", "금붕어 꿈 해몽"],
-      "googleKeywords": ["goldfish dream meaning", "dream of goldfish"]
+      "naverKeywords": [
+        "금붕어 꿈",
+        "금붕어 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "goldfish dream meaning",
+        "dream of goldfish"
+      ]
     },
     {
       "id": "fish-many",
@@ -908,10 +1535,19 @@
       "category": "animals",
       "subcategory": "fish",
       "subcategoryKorean": "물고기",
-      "related": ["fish-general", "fish-catch"],
+      "related": [
+        "fish-general",
+        "fish-catch"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["물고기가 많은 꿈", "물고기 많은 꿈 해몽"],
-      "googleKeywords": ["many fish dream meaning", "dream of lots of fish"]
+      "naverKeywords": [
+        "물고기가 많은 꿈",
+        "물고기 많은 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "many fish dream meaning",
+        "dream of lots of fish"
+      ]
     },
     {
       "id": "fish-dead",
@@ -922,10 +1558,18 @@
       "category": "animals",
       "subcategory": "fish",
       "subcategoryKorean": "물고기",
-      "related": ["fish-general"],
+      "related": [
+        "fish-general"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["죽은 물고기 꿈", "물고기 죽는 꿈 해몽"],
-      "googleKeywords": ["dead fish dream meaning", "dream of dead fish"]
+      "naverKeywords": [
+        "죽은 물고기 꿈",
+        "물고기 죽는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "dead fish dream meaning",
+        "dream of dead fish"
+      ]
     },
     {
       "id": "fish-flying",
@@ -936,10 +1580,18 @@
       "category": "animals",
       "subcategory": "fish",
       "subcategoryKorean": "물고기",
-      "related": ["fish-general", "fish-big"],
+      "related": [
+        "fish-general",
+        "fish-big"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["물고기가 나는 꿈", "물고기 하늘 꿈 해몽"],
-      "googleKeywords": ["flying fish dream meaning"]
+      "naverKeywords": [
+        "물고기가 나는 꿈",
+        "물고기 하늘 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "flying fish dream meaning"
+      ]
     },
     {
       "id": "horse-general",
@@ -950,10 +1602,22 @@
       "category": "animals",
       "subcategory": "horse",
       "subcategoryKorean": "말",
-      "related": ["horse-ride", "horse-white", "horse-black", "horse-run"],
+      "related": [
+        "horse-ride",
+        "horse-white",
+        "horse-black",
+        "horse-run"
+      ],
       "searchTier": "high",
-      "naverKeywords": ["말꿈", "말꿈 해몽", "말꿈 의미"],
-      "googleKeywords": ["horse dream meaning Korean", "dream of horse"]
+      "naverKeywords": [
+        "말꿈",
+        "말꿈 해몽",
+        "말꿈 의미"
+      ],
+      "googleKeywords": [
+        "horse dream meaning Korean",
+        "dream of horse"
+      ]
     },
     {
       "id": "horse-ride",
@@ -964,10 +1628,20 @@
       "category": "animals",
       "subcategory": "horse",
       "subcategoryKorean": "말",
-      "related": ["horse-general", "horse-white", "horse-run"],
+      "related": [
+        "horse-general",
+        "horse-white",
+        "horse-run"
+      ],
       "searchTier": "high",
-      "naverKeywords": ["말을 타는 꿈", "말 타는 꿈 해몽"],
-      "googleKeywords": ["riding horse dream meaning", "dream of horse riding"]
+      "naverKeywords": [
+        "말을 타는 꿈",
+        "말 타는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "riding horse dream meaning",
+        "dream of horse riding"
+      ]
     },
     {
       "id": "horse-white",
@@ -978,10 +1652,20 @@
       "category": "animals",
       "subcategory": "horse",
       "subcategoryKorean": "말",
-      "related": ["horse-general", "horse-ride", "horse-black"],
+      "related": [
+        "horse-general",
+        "horse-ride",
+        "horse-black"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["백마 꿈", "흰 말 꿈 해몽"],
-      "googleKeywords": ["white horse dream meaning", "dream of white horse"]
+      "naverKeywords": [
+        "백마 꿈",
+        "흰 말 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "white horse dream meaning",
+        "dream of white horse"
+      ]
     },
     {
       "id": "horse-black",
@@ -992,10 +1676,19 @@
       "category": "animals",
       "subcategory": "horse",
       "subcategoryKorean": "말",
-      "related": ["horse-general", "horse-white"],
+      "related": [
+        "horse-general",
+        "horse-white"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["검은 말 꿈", "검정 말 꿈 해몽"],
-      "googleKeywords": ["black horse dream meaning", "dream of black horse"]
+      "naverKeywords": [
+        "검은 말 꿈",
+        "검정 말 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "black horse dream meaning",
+        "dream of black horse"
+      ]
     },
     {
       "id": "horse-run",
@@ -1006,10 +1699,19 @@
       "category": "animals",
       "subcategory": "horse",
       "subcategoryKorean": "말",
-      "related": ["horse-general", "horse-ride"],
+      "related": [
+        "horse-general",
+        "horse-ride"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["말이 달리는 꿈", "말 달리는 꿈 해몽"],
-      "googleKeywords": ["running horse dream meaning", "dream of galloping horse"]
+      "naverKeywords": [
+        "말이 달리는 꿈",
+        "말 달리는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "running horse dream meaning",
+        "dream of galloping horse"
+      ]
     },
     {
       "id": "horse-dead",
@@ -1020,10 +1722,17 @@
       "category": "animals",
       "subcategory": "horse",
       "subcategoryKorean": "말",
-      "related": ["horse-general"],
+      "related": [
+        "horse-general"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["죽은 말 꿈", "말 죽는 꿈 해몽"],
-      "googleKeywords": ["dead horse dream meaning"]
+      "naverKeywords": [
+        "죽은 말 꿈",
+        "말 죽는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "dead horse dream meaning"
+      ]
     },
     {
       "id": "cow-general",
@@ -1034,10 +1743,22 @@
       "category": "animals",
       "subcategory": "cow",
       "subcategoryKorean": "소",
-      "related": ["cow-bull", "cow-calf", "cow-many", "cow-ride"],
+      "related": [
+        "cow-bull",
+        "cow-calf",
+        "cow-many",
+        "cow-ride"
+      ],
       "searchTier": "high",
-      "naverKeywords": ["소꿈", "소꿈 해몽", "소꿈 의미"],
-      "googleKeywords": ["cow dream meaning Korean", "dream of cow"]
+      "naverKeywords": [
+        "소꿈",
+        "소꿈 해몽",
+        "소꿈 의미"
+      ],
+      "googleKeywords": [
+        "cow dream meaning Korean",
+        "dream of cow"
+      ]
     },
     {
       "id": "cow-bull",
@@ -1048,10 +1769,19 @@
       "category": "animals",
       "subcategory": "cow",
       "subcategoryKorean": "소",
-      "related": ["cow-general", "cow-attack"],
+      "related": [
+        "cow-general",
+        "cow-attack"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["황소 꿈", "황소 꿈 해몽"],
-      "googleKeywords": ["bull dream meaning", "dream of bull"]
+      "naverKeywords": [
+        "황소 꿈",
+        "황소 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "bull dream meaning",
+        "dream of bull"
+      ]
     },
     {
       "id": "cow-calf",
@@ -1062,10 +1792,19 @@
       "category": "animals",
       "subcategory": "cow",
       "subcategoryKorean": "소",
-      "related": ["cow-general", "cow-many"],
+      "related": [
+        "cow-general",
+        "cow-many"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["송아지 꿈", "송아지 꿈 해몽"],
-      "googleKeywords": ["calf dream meaning", "dream of baby cow"]
+      "naverKeywords": [
+        "송아지 꿈",
+        "송아지 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "calf dream meaning",
+        "dream of baby cow"
+      ]
     },
     {
       "id": "cow-many",
@@ -1076,10 +1815,19 @@
       "category": "animals",
       "subcategory": "cow",
       "subcategoryKorean": "소",
-      "related": ["cow-general", "cow-calf"],
+      "related": [
+        "cow-general",
+        "cow-calf"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["소가 많은 꿈", "소 여러마리 꿈 해몽"],
-      "googleKeywords": ["many cows dream meaning", "dream of herd of cows"]
+      "naverKeywords": [
+        "소가 많은 꿈",
+        "소 여러마리 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "many cows dream meaning",
+        "dream of herd of cows"
+      ]
     },
     {
       "id": "cow-ride",
@@ -1090,10 +1838,18 @@
       "category": "animals",
       "subcategory": "cow",
       "subcategoryKorean": "소",
-      "related": ["cow-general", "cow-bull"],
+      "related": [
+        "cow-general",
+        "cow-bull"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["소를 타는 꿈", "소 타는 꿈 해몽"],
-      "googleKeywords": ["riding cow dream meaning"]
+      "naverKeywords": [
+        "소를 타는 꿈",
+        "소 타는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "riding cow dream meaning"
+      ]
     },
     {
       "id": "cow-attack",
@@ -1104,10 +1860,18 @@
       "category": "animals",
       "subcategory": "cow",
       "subcategoryKorean": "소",
-      "related": ["cow-general", "cow-bull"],
+      "related": [
+        "cow-general",
+        "cow-bull"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["소에게 쫓기는 꿈", "소 쫓기는 꿈 해몽"],
-      "googleKeywords": ["chased by cow dream meaning"]
+      "naverKeywords": [
+        "소에게 쫓기는 꿈",
+        "소 쫓기는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "chased by cow dream meaning"
+      ]
     },
     {
       "id": "bird-general",
@@ -1118,10 +1882,22 @@
       "category": "animals",
       "subcategory": "bird",
       "subcategoryKorean": "새",
-      "related": ["bird-fly", "bird-eagle", "bird-magpie", "bird-crow"],
+      "related": [
+        "bird-fly",
+        "bird-eagle",
+        "bird-magpie",
+        "bird-crow"
+      ],
       "searchTier": "high",
-      "naverKeywords": ["새꿈", "새꿈 해몽", "새꿈 의미"],
-      "googleKeywords": ["bird dream meaning Korean", "dream of bird"]
+      "naverKeywords": [
+        "새꿈",
+        "새꿈 해몽",
+        "새꿈 의미"
+      ],
+      "googleKeywords": [
+        "bird dream meaning Korean",
+        "dream of bird"
+      ]
     },
     {
       "id": "bird-fly",
@@ -1132,10 +1908,19 @@
       "category": "animals",
       "subcategory": "bird",
       "subcategoryKorean": "새",
-      "related": ["bird-general", "bird-eagle"],
+      "related": [
+        "bird-general",
+        "bird-eagle"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["새가 나는 꿈", "새 나는 꿈 해몽"],
-      "googleKeywords": ["bird flying dream meaning", "dream of bird flying"]
+      "naverKeywords": [
+        "새가 나는 꿈",
+        "새 나는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "bird flying dream meaning",
+        "dream of bird flying"
+      ]
     },
     {
       "id": "bird-eagle",
@@ -1146,10 +1931,20 @@
       "category": "animals",
       "subcategory": "bird",
       "subcategoryKorean": "새",
-      "related": ["bird-general", "bird-hawk", "bird-fly"],
+      "related": [
+        "bird-general",
+        "bird-hawk",
+        "bird-fly"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["독수리 꿈", "독수리 꿈 해몽"],
-      "googleKeywords": ["eagle dream meaning", "dream of eagle"]
+      "naverKeywords": [
+        "독수리 꿈",
+        "독수리 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "eagle dream meaning",
+        "dream of eagle"
+      ]
     },
     {
       "id": "bird-magpie",
@@ -1160,10 +1955,19 @@
       "category": "animals",
       "subcategory": "bird",
       "subcategoryKorean": "새",
-      "related": ["bird-general", "bird-crow"],
+      "related": [
+        "bird-general",
+        "bird-crow"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["까치 꿈", "까치 꿈 해몽"],
-      "googleKeywords": ["magpie dream meaning", "dream of magpie"]
+      "naverKeywords": [
+        "까치 꿈",
+        "까치 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "magpie dream meaning",
+        "dream of magpie"
+      ]
     },
     {
       "id": "bird-crow",
@@ -1174,10 +1978,19 @@
       "category": "animals",
       "subcategory": "bird",
       "subcategoryKorean": "새",
-      "related": ["bird-general", "bird-magpie"],
+      "related": [
+        "bird-general",
+        "bird-magpie"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["까마귀 꿈", "까마귀 꿈 해몽"],
-      "googleKeywords": ["crow dream meaning", "dream of crow"]
+      "naverKeywords": [
+        "까마귀 꿈",
+        "까마귀 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "crow dream meaning",
+        "dream of crow"
+      ]
     },
     {
       "id": "bird-hawk",
@@ -1188,10 +2001,19 @@
       "category": "animals",
       "subcategory": "bird",
       "subcategoryKorean": "새",
-      "related": ["bird-eagle", "bird-general"],
+      "related": [
+        "bird-eagle",
+        "bird-general"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["매 꿈", "매 꿈 해몽"],
-      "googleKeywords": ["hawk dream meaning", "dream of hawk"]
+      "naverKeywords": [
+        "매 꿈",
+        "매 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "hawk dream meaning",
+        "dream of hawk"
+      ]
     },
     {
       "id": "bird-chicken",
@@ -1202,10 +2024,19 @@
       "category": "animals",
       "subcategory": "bird",
       "subcategoryKorean": "새",
-      "related": ["bird-general", "bird-egg"],
+      "related": [
+        "bird-general",
+        "bird-egg"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["닭꿈", "닭꿈 해몽"],
-      "googleKeywords": ["chicken dream meaning", "dream of chicken"]
+      "naverKeywords": [
+        "닭꿈",
+        "닭꿈 해몽"
+      ],
+      "googleKeywords": [
+        "chicken dream meaning",
+        "dream of chicken"
+      ]
     },
     {
       "id": "bird-egg",
@@ -1216,10 +2047,20 @@
       "category": "animals",
       "subcategory": "bird",
       "subcategoryKorean": "새",
-      "related": ["bird-general", "bird-chicken"],
+      "related": [
+        "bird-general",
+        "bird-chicken"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["새알 꿈", "새알 꿈 해몽", "달걀 꿈"],
-      "googleKeywords": ["bird egg dream meaning", "dream of egg"]
+      "naverKeywords": [
+        "새알 꿈",
+        "새알 꿈 해몽",
+        "달걀 꿈"
+      ],
+      "googleKeywords": [
+        "bird egg dream meaning",
+        "dream of egg"
+      ]
     },
     {
       "id": "bird-owl",
@@ -1230,10 +2071,20 @@
       "category": "animals",
       "subcategory": "bird",
       "subcategoryKorean": "새",
-      "related": ["bird-general", "bird-crow"],
+      "related": [
+        "bird-general",
+        "bird-crow"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["부엉이 꿈", "부엉이 꿈 해몽", "올빼미 꿈"],
-      "googleKeywords": ["owl dream meaning", "dream of owl"]
+      "naverKeywords": [
+        "부엉이 꿈",
+        "부엉이 꿈 해몽",
+        "올빼미 꿈"
+      ],
+      "googleKeywords": [
+        "owl dream meaning",
+        "dream of owl"
+      ]
     },
     {
       "id": "bird-crane",
@@ -1244,10 +2095,20 @@
       "category": "animals",
       "subcategory": "bird",
       "subcategoryKorean": "새",
-      "related": ["bird-general", "bird-fly"],
+      "related": [
+        "bird-general",
+        "bird-fly"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["학 꿈", "학 꿈 해몽", "두루미 꿈"],
-      "googleKeywords": ["crane dream meaning", "dream of crane bird"]
+      "naverKeywords": [
+        "학 꿈",
+        "학 꿈 해몽",
+        "두루미 꿈"
+      ],
+      "googleKeywords": [
+        "crane dream meaning",
+        "dream of crane bird"
+      ]
     },
     {
       "id": "bird-phoenix",
@@ -1258,10 +2119,19 @@
       "category": "animals",
       "subcategory": "bird",
       "subcategoryKorean": "새",
-      "related": ["bird-general", "dragon-general"],
+      "related": [
+        "bird-general",
+        "dragon-general"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["봉황 꿈", "봉황 꿈 해몽"],
-      "googleKeywords": ["phoenix dream meaning Korean", "dream of phoenix"]
+      "naverKeywords": [
+        "봉황 꿈",
+        "봉황 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "phoenix dream meaning Korean",
+        "dream of phoenix"
+      ]
     },
     {
       "id": "bird-sparrow",
@@ -1272,10 +2142,18 @@
       "category": "animals",
       "subcategory": "bird",
       "subcategoryKorean": "새",
-      "related": ["bird-general", "bird-many"],
+      "related": [
+        "bird-general",
+        "bird-many"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["참새 꿈", "참새 꿈 해몽"],
-      "googleKeywords": ["sparrow dream meaning"]
+      "naverKeywords": [
+        "참새 꿈",
+        "참새 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "sparrow dream meaning"
+      ]
     },
     {
       "id": "bird-many",
@@ -1286,10 +2164,19 @@
       "category": "animals",
       "subcategory": "bird",
       "subcategoryKorean": "새",
-      "related": ["bird-general", "bird-fly"],
+      "related": [
+        "bird-general",
+        "bird-fly"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["새가 많은 꿈", "새 많은 꿈 해몽"],
-      "googleKeywords": ["many birds dream meaning", "flock of birds dream"]
+      "naverKeywords": [
+        "새가 많은 꿈",
+        "새 많은 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "many birds dream meaning",
+        "flock of birds dream"
+      ]
     },
     {
       "id": "bird-dead",
@@ -1300,10 +2187,17 @@
       "category": "animals",
       "subcategory": "bird",
       "subcategoryKorean": "새",
-      "related": ["bird-general"],
+      "related": [
+        "bird-general"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["죽은 새 꿈", "새 죽는 꿈 해몽"],
-      "googleKeywords": ["dead bird dream meaning"]
+      "naverKeywords": [
+        "죽은 새 꿈",
+        "새 죽는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "dead bird dream meaning"
+      ]
     },
     {
       "id": "bird-parrot",
@@ -1314,10 +2208,17 @@
       "category": "animals",
       "subcategory": "bird",
       "subcategoryKorean": "새",
-      "related": ["bird-general"],
+      "related": [
+        "bird-general"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["앵무새 꿈", "앵무새 꿈 해몽"],
-      "googleKeywords": ["parrot dream meaning"]
+      "naverKeywords": [
+        "앵무새 꿈",
+        "앵무새 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "parrot dream meaning"
+      ]
     },
     {
       "id": "turtle-general",
@@ -1328,10 +2229,21 @@
       "category": "animals",
       "subcategory": "turtle",
       "subcategoryKorean": "거북이",
-      "related": ["turtle-gold", "turtle-large", "turtle-sea"],
+      "related": [
+        "turtle-gold",
+        "turtle-large",
+        "turtle-sea"
+      ],
       "searchTier": "high",
-      "naverKeywords": ["거북이꿈", "거북이꿈 해몽", "거북이꿈 의미"],
-      "googleKeywords": ["turtle dream meaning Korean", "dream of turtle"]
+      "naverKeywords": [
+        "거북이꿈",
+        "거북이꿈 해몽",
+        "거북이꿈 의미"
+      ],
+      "googleKeywords": [
+        "turtle dream meaning Korean",
+        "dream of turtle"
+      ]
     },
     {
       "id": "turtle-gold",
@@ -1342,10 +2254,18 @@
       "category": "animals",
       "subcategory": "turtle",
       "subcategoryKorean": "거북이",
-      "related": ["turtle-general", "turtle-large"],
+      "related": [
+        "turtle-general",
+        "turtle-large"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["금거북이 꿈", "황금 거북이 꿈 해몽"],
-      "googleKeywords": ["golden turtle dream meaning"]
+      "naverKeywords": [
+        "금거북이 꿈",
+        "황금 거북이 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "golden turtle dream meaning"
+      ]
     },
     {
       "id": "turtle-large",
@@ -1356,10 +2276,18 @@
       "category": "animals",
       "subcategory": "turtle",
       "subcategoryKorean": "거북이",
-      "related": ["turtle-general", "turtle-sea"],
+      "related": [
+        "turtle-general",
+        "turtle-sea"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["큰 거북이 꿈", "큰 거북이 꿈 해몽"],
-      "googleKeywords": ["large turtle dream meaning"]
+      "naverKeywords": [
+        "큰 거북이 꿈",
+        "큰 거북이 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "large turtle dream meaning"
+      ]
     },
     {
       "id": "turtle-sea",
@@ -1370,10 +2298,18 @@
       "category": "animals",
       "subcategory": "turtle",
       "subcategoryKorean": "거북이",
-      "related": ["turtle-general", "turtle-large"],
+      "related": [
+        "turtle-general",
+        "turtle-large"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["바다거북 꿈", "바다거북 꿈 해몽"],
-      "googleKeywords": ["sea turtle dream meaning"]
+      "naverKeywords": [
+        "바다거북 꿈",
+        "바다거북 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "sea turtle dream meaning"
+      ]
     },
     {
       "id": "rabbit-general",
@@ -1384,10 +2320,20 @@
       "category": "animals",
       "subcategory": "rabbit",
       "subcategoryKorean": "토끼",
-      "related": ["rabbit-white", "rabbit-catch", "rabbit-many"],
+      "related": [
+        "rabbit-white",
+        "rabbit-catch",
+        "rabbit-many"
+      ],
       "searchTier": "high",
-      "naverKeywords": ["토끼꿈", "토끼꿈 해몽"],
-      "googleKeywords": ["rabbit dream meaning Korean", "dream of rabbit"]
+      "naverKeywords": [
+        "토끼꿈",
+        "토끼꿈 해몽"
+      ],
+      "googleKeywords": [
+        "rabbit dream meaning Korean",
+        "dream of rabbit"
+      ]
     },
     {
       "id": "rabbit-white",
@@ -1398,10 +2344,17 @@
       "category": "animals",
       "subcategory": "rabbit",
       "subcategoryKorean": "토끼",
-      "related": ["rabbit-general"],
+      "related": [
+        "rabbit-general"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["흰 토끼 꿈", "하얀 토끼 꿈 해몽"],
-      "googleKeywords": ["white rabbit dream meaning"]
+      "naverKeywords": [
+        "흰 토끼 꿈",
+        "하얀 토끼 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "white rabbit dream meaning"
+      ]
     },
     {
       "id": "rabbit-catch",
@@ -1412,10 +2365,18 @@
       "category": "animals",
       "subcategory": "rabbit",
       "subcategoryKorean": "토끼",
-      "related": ["rabbit-general", "rabbit-many"],
+      "related": [
+        "rabbit-general",
+        "rabbit-many"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["토끼를 잡는 꿈", "토끼 잡는 꿈 해몽"],
-      "googleKeywords": ["catching rabbit dream meaning"]
+      "naverKeywords": [
+        "토끼를 잡는 꿈",
+        "토끼 잡는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "catching rabbit dream meaning"
+      ]
     },
     {
       "id": "rabbit-many",
@@ -1426,10 +2387,18 @@
       "category": "animals",
       "subcategory": "rabbit",
       "subcategoryKorean": "토끼",
-      "related": ["rabbit-general", "rabbit-white"],
+      "related": [
+        "rabbit-general",
+        "rabbit-white"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["토끼가 많은 꿈", "토끼 많은 꿈 해몽"],
-      "googleKeywords": ["many rabbits dream meaning"]
+      "naverKeywords": [
+        "토끼가 많은 꿈",
+        "토끼 많은 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "many rabbits dream meaning"
+      ]
     },
     {
       "id": "frog-general",
@@ -1440,10 +2409,19 @@
       "category": "animals",
       "subcategory": "frog",
       "subcategoryKorean": "개구리",
-      "related": ["frog-many", "frog-toad"],
+      "related": [
+        "frog-many",
+        "frog-toad"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["개구리꿈", "개구리꿈 해몽"],
-      "googleKeywords": ["frog dream meaning Korean", "dream of frog"]
+      "naverKeywords": [
+        "개구리꿈",
+        "개구리꿈 해몽"
+      ],
+      "googleKeywords": [
+        "frog dream meaning Korean",
+        "dream of frog"
+      ]
     },
     {
       "id": "frog-many",
@@ -1454,10 +2432,17 @@
       "category": "animals",
       "subcategory": "frog",
       "subcategoryKorean": "개구리",
-      "related": ["frog-general"],
+      "related": [
+        "frog-general"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["개구리가 많은 꿈", "개구리 많은 꿈 해몽"],
-      "googleKeywords": ["many frogs dream meaning"]
+      "naverKeywords": [
+        "개구리가 많은 꿈",
+        "개구리 많은 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "many frogs dream meaning"
+      ]
     },
     {
       "id": "frog-toad",
@@ -1468,10 +2453,19 @@
       "category": "animals",
       "subcategory": "frog",
       "subcategoryKorean": "개구리",
-      "related": ["frog-general", "frog-gold-toad"],
+      "related": [
+        "frog-general",
+        "frog-gold-toad"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["두꺼비 꿈", "두꺼비 꿈 해몽"],
-      "googleKeywords": ["toad dream meaning", "dream of toad"]
+      "naverKeywords": [
+        "두꺼비 꿈",
+        "두꺼비 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "toad dream meaning",
+        "dream of toad"
+      ]
     },
     {
       "id": "frog-gold-toad",
@@ -1482,10 +2476,18 @@
       "category": "animals",
       "subcategory": "frog",
       "subcategoryKorean": "개구리",
-      "related": ["frog-toad", "frog-general"],
+      "related": [
+        "frog-toad",
+        "frog-general"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["금두꺼비 꿈", "금두꺼비 꿈 해몽"],
-      "googleKeywords": ["golden toad dream meaning"]
+      "naverKeywords": [
+        "금두꺼비 꿈",
+        "금두꺼비 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "golden toad dream meaning"
+      ]
     },
     {
       "id": "elephant-general",
@@ -1496,10 +2498,19 @@
       "category": "animals",
       "subcategory": "elephant",
       "subcategoryKorean": "코끼리",
-      "related": ["elephant-ride", "elephant-white"],
+      "related": [
+        "elephant-ride",
+        "elephant-white"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["코끼리꿈", "코끼리꿈 해몽"],
-      "googleKeywords": ["elephant dream meaning", "dream of elephant"]
+      "naverKeywords": [
+        "코끼리꿈",
+        "코끼리꿈 해몽"
+      ],
+      "googleKeywords": [
+        "elephant dream meaning",
+        "dream of elephant"
+      ]
     },
     {
       "id": "elephant-ride",
@@ -1510,10 +2521,17 @@
       "category": "animals",
       "subcategory": "elephant",
       "subcategoryKorean": "코끼리",
-      "related": ["elephant-general"],
+      "related": [
+        "elephant-general"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["코끼리를 타는 꿈", "코끼리 타는 꿈 해몽"],
-      "googleKeywords": ["riding elephant dream meaning"]
+      "naverKeywords": [
+        "코끼리를 타는 꿈",
+        "코끼리 타는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "riding elephant dream meaning"
+      ]
     },
     {
       "id": "elephant-white",
@@ -1524,10 +2542,17 @@
       "category": "animals",
       "subcategory": "elephant",
       "subcategoryKorean": "코끼리",
-      "related": ["elephant-general"],
+      "related": [
+        "elephant-general"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["흰 코끼리 꿈", "흰 코끼리 꿈 해몽"],
-      "googleKeywords": ["white elephant dream meaning"]
+      "naverKeywords": [
+        "흰 코끼리 꿈",
+        "흰 코끼리 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "white elephant dream meaning"
+      ]
     },
     {
       "id": "lion-general",
@@ -1538,10 +2563,20 @@
       "category": "animals",
       "subcategory": "lion",
       "subcategoryKorean": "사자",
-      "related": ["lion-attack", "lion-chase", "tiger-general"],
+      "related": [
+        "lion-attack",
+        "lion-chase",
+        "tiger-general"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["사자꿈", "사자꿈 해몽"],
-      "googleKeywords": ["lion dream meaning Korean", "dream of lion"]
+      "naverKeywords": [
+        "사자꿈",
+        "사자꿈 해몽"
+      ],
+      "googleKeywords": [
+        "lion dream meaning Korean",
+        "dream of lion"
+      ]
     },
     {
       "id": "lion-attack",
@@ -1552,10 +2587,18 @@
       "category": "animals",
       "subcategory": "lion",
       "subcategoryKorean": "사자",
-      "related": ["lion-general", "lion-chase"],
+      "related": [
+        "lion-general",
+        "lion-chase"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["사자에게 공격당하는 꿈", "사자 공격 꿈 해몽"],
-      "googleKeywords": ["lion attack dream meaning"]
+      "naverKeywords": [
+        "사자에게 공격당하는 꿈",
+        "사자 공격 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "lion attack dream meaning"
+      ]
     },
     {
       "id": "lion-chase",
@@ -1566,10 +2609,18 @@
       "category": "animals",
       "subcategory": "lion",
       "subcategoryKorean": "사자",
-      "related": ["lion-general", "lion-attack"],
+      "related": [
+        "lion-general",
+        "lion-attack"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["사자에게 쫓기는 꿈", "사자 쫓기는 꿈 해몽"],
-      "googleKeywords": ["chased by lion dream meaning"]
+      "naverKeywords": [
+        "사자에게 쫓기는 꿈",
+        "사자 쫓기는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "chased by lion dream meaning"
+      ]
     },
     {
       "id": "bear-general",
@@ -1580,10 +2631,19 @@
       "category": "animals",
       "subcategory": "bear",
       "subcategoryKorean": "곰",
-      "related": ["bear-attack", "bear-chase"],
+      "related": [
+        "bear-attack",
+        "bear-chase"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["곰꿈", "곰꿈 해몽"],
-      "googleKeywords": ["bear dream meaning Korean", "dream of bear"]
+      "naverKeywords": [
+        "곰꿈",
+        "곰꿈 해몽"
+      ],
+      "googleKeywords": [
+        "bear dream meaning Korean",
+        "dream of bear"
+      ]
     },
     {
       "id": "bear-attack",
@@ -1594,10 +2654,18 @@
       "category": "animals",
       "subcategory": "bear",
       "subcategoryKorean": "곰",
-      "related": ["bear-general", "bear-chase"],
+      "related": [
+        "bear-general",
+        "bear-chase"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["곰에게 공격당하는 꿈", "곰 공격 꿈 해몽"],
-      "googleKeywords": ["bear attack dream meaning"]
+      "naverKeywords": [
+        "곰에게 공격당하는 꿈",
+        "곰 공격 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "bear attack dream meaning"
+      ]
     },
     {
       "id": "bear-chase",
@@ -1608,10 +2676,18 @@
       "category": "animals",
       "subcategory": "bear",
       "subcategoryKorean": "곰",
-      "related": ["bear-general", "bear-attack"],
+      "related": [
+        "bear-general",
+        "bear-attack"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["곰에게 쫓기는 꿈", "곰 쫓기는 꿈 해몽"],
-      "googleKeywords": ["chased by bear dream meaning"]
+      "naverKeywords": [
+        "곰에게 쫓기는 꿈",
+        "곰 쫓기는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "chased by bear dream meaning"
+      ]
     },
     {
       "id": "deer-general",
@@ -1622,10 +2698,18 @@
       "category": "animals",
       "subcategory": "deer",
       "subcategoryKorean": "사슴",
-      "related": ["deer-white"],
+      "related": [
+        "deer-white"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["사슴꿈", "사슴꿈 해몽"],
-      "googleKeywords": ["deer dream meaning", "dream of deer"]
+      "naverKeywords": [
+        "사슴꿈",
+        "사슴꿈 해몽"
+      ],
+      "googleKeywords": [
+        "deer dream meaning",
+        "dream of deer"
+      ]
     },
     {
       "id": "deer-white",
@@ -1636,10 +2720,17 @@
       "category": "animals",
       "subcategory": "deer",
       "subcategoryKorean": "사슴",
-      "related": ["deer-general"],
+      "related": [
+        "deer-general"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["흰 사슴 꿈", "흰 사슴 꿈 해몽"],
-      "googleKeywords": ["white deer dream meaning"]
+      "naverKeywords": [
+        "흰 사슴 꿈",
+        "흰 사슴 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "white deer dream meaning"
+      ]
     },
     {
       "id": "monkey-general",
@@ -1650,10 +2741,18 @@
       "category": "animals",
       "subcategory": "monkey",
       "subcategoryKorean": "원숭이",
-      "related": ["monkey-many"],
+      "related": [
+        "monkey-many"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["원숭이꿈", "원숭이꿈 해몽"],
-      "googleKeywords": ["monkey dream meaning", "dream of monkey"]
+      "naverKeywords": [
+        "원숭이꿈",
+        "원숭이꿈 해몽"
+      ],
+      "googleKeywords": [
+        "monkey dream meaning",
+        "dream of monkey"
+      ]
     },
     {
       "id": "monkey-many",
@@ -1664,10 +2763,17 @@
       "category": "animals",
       "subcategory": "monkey",
       "subcategoryKorean": "원숭이",
-      "related": ["monkey-general"],
+      "related": [
+        "monkey-general"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["원숭이가 많은 꿈", "원숭이 많은 꿈 해몽"],
-      "googleKeywords": ["many monkeys dream meaning"]
+      "naverKeywords": [
+        "원숭이가 많은 꿈",
+        "원숭이 많은 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "many monkeys dream meaning"
+      ]
     },
     {
       "id": "wolf-general",
@@ -1678,10 +2784,20 @@
       "category": "animals",
       "subcategory": "wolf",
       "subcategoryKorean": "늑대",
-      "related": ["wolf-chase", "wolf-attack", "dog-general"],
+      "related": [
+        "wolf-chase",
+        "wolf-attack",
+        "dog-general"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["늑대꿈", "늑대꿈 해몽"],
-      "googleKeywords": ["wolf dream meaning", "dream of wolf"]
+      "naverKeywords": [
+        "늑대꿈",
+        "늑대꿈 해몽"
+      ],
+      "googleKeywords": [
+        "wolf dream meaning",
+        "dream of wolf"
+      ]
     },
     {
       "id": "wolf-chase",
@@ -1692,10 +2808,18 @@
       "category": "animals",
       "subcategory": "wolf",
       "subcategoryKorean": "늑대",
-      "related": ["wolf-general", "wolf-attack"],
+      "related": [
+        "wolf-general",
+        "wolf-attack"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["늑대에게 쫓기는 꿈", "늑대 쫓기는 꿈 해몽"],
-      "googleKeywords": ["chased by wolf dream meaning"]
+      "naverKeywords": [
+        "늑대에게 쫓기는 꿈",
+        "늑대 쫓기는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "chased by wolf dream meaning"
+      ]
     },
     {
       "id": "wolf-attack",
@@ -1706,10 +2830,18 @@
       "category": "animals",
       "subcategory": "wolf",
       "subcategoryKorean": "늑대",
-      "related": ["wolf-general", "wolf-chase"],
+      "related": [
+        "wolf-general",
+        "wolf-chase"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["늑대에게 공격당하는 꿈", "늑대 공격 꿈 해몽"],
-      "googleKeywords": ["wolf attack dream meaning"]
+      "naverKeywords": [
+        "늑대에게 공격당하는 꿈",
+        "늑대 공격 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "wolf attack dream meaning"
+      ]
     },
     {
       "id": "fox-general",
@@ -1720,10 +2852,19 @@
       "category": "animals",
       "subcategory": "fox",
       "subcategoryKorean": "여우",
-      "related": ["fox-white", "fox-nine-tail"],
+      "related": [
+        "fox-white",
+        "fox-nine-tail"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["여우꿈", "여우꿈 해몽"],
-      "googleKeywords": ["fox dream meaning Korean", "dream of fox"]
+      "naverKeywords": [
+        "여우꿈",
+        "여우꿈 해몽"
+      ],
+      "googleKeywords": [
+        "fox dream meaning Korean",
+        "dream of fox"
+      ]
     },
     {
       "id": "fox-white",
@@ -1734,10 +2875,18 @@
       "category": "animals",
       "subcategory": "fox",
       "subcategoryKorean": "여우",
-      "related": ["fox-general", "fox-nine-tail"],
+      "related": [
+        "fox-general",
+        "fox-nine-tail"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["흰 여우 꿈", "흰 여우 꿈 해몽"],
-      "googleKeywords": ["white fox dream meaning"]
+      "naverKeywords": [
+        "흰 여우 꿈",
+        "흰 여우 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "white fox dream meaning"
+      ]
     },
     {
       "id": "fox-nine-tail",
@@ -1748,10 +2897,19 @@
       "category": "animals",
       "subcategory": "fox",
       "subcategoryKorean": "여우",
-      "related": ["fox-general", "spirits-general"],
+      "related": [
+        "fox-general",
+        "spirits-general"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["구미호 꿈", "구미호 꿈 해몽"],
-      "googleKeywords": ["nine tailed fox dream meaning", "gumiho dream"]
+      "naverKeywords": [
+        "구미호 꿈",
+        "구미호 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "nine tailed fox dream meaning",
+        "gumiho dream"
+      ]
     },
     {
       "id": "whale-general",
@@ -1762,10 +2920,19 @@
       "category": "animals",
       "subcategory": "whale",
       "subcategoryKorean": "고래",
-      "related": ["whale-big", "dolphin-general"],
+      "related": [
+        "whale-big",
+        "dolphin-general"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["고래꿈", "고래꿈 해몽"],
-      "googleKeywords": ["whale dream meaning", "dream of whale"]
+      "naverKeywords": [
+        "고래꿈",
+        "고래꿈 해몽"
+      ],
+      "googleKeywords": [
+        "whale dream meaning",
+        "dream of whale"
+      ]
     },
     {
       "id": "whale-big",
@@ -1776,10 +2943,17 @@
       "category": "animals",
       "subcategory": "whale",
       "subcategoryKorean": "고래",
-      "related": ["whale-general"],
+      "related": [
+        "whale-general"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["큰 고래 꿈", "큰 고래 꿈 해몽"],
-      "googleKeywords": ["big whale dream meaning"]
+      "naverKeywords": [
+        "큰 고래 꿈",
+        "큰 고래 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "big whale dream meaning"
+      ]
     },
     {
       "id": "dolphin-general",
@@ -1790,10 +2964,19 @@
       "category": "animals",
       "subcategory": "dolphin",
       "subcategoryKorean": "돌고래",
-      "related": ["whale-general", "fish-general"],
+      "related": [
+        "whale-general",
+        "fish-general"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["돌고래 꿈", "돌고래 꿈 해몽"],
-      "googleKeywords": ["dolphin dream meaning", "dream of dolphin"]
+      "naverKeywords": [
+        "돌고래 꿈",
+        "돌고래 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "dolphin dream meaning",
+        "dream of dolphin"
+      ]
     },
     {
       "id": "shark-general",
@@ -1804,10 +2987,19 @@
       "category": "animals",
       "subcategory": "shark",
       "subcategoryKorean": "상어",
-      "related": ["shark-attack", "fish-general"],
+      "related": [
+        "shark-attack",
+        "fish-general"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["상어꿈", "상어꿈 해몽"],
-      "googleKeywords": ["shark dream meaning", "dream of shark"]
+      "naverKeywords": [
+        "상어꿈",
+        "상어꿈 해몽"
+      ],
+      "googleKeywords": [
+        "shark dream meaning",
+        "dream of shark"
+      ]
     },
     {
       "id": "shark-attack",
@@ -1818,10 +3010,17 @@
       "category": "animals",
       "subcategory": "shark",
       "subcategoryKorean": "상어",
-      "related": ["shark-general"],
+      "related": [
+        "shark-general"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["상어에게 공격당하는 꿈", "상어 공격 꿈 해몽"],
-      "googleKeywords": ["shark attack dream meaning"]
+      "naverKeywords": [
+        "상어에게 공격당하는 꿈",
+        "상어 공격 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "shark attack dream meaning"
+      ]
     },
     {
       "id": "mouse-general",
@@ -1832,10 +3031,21 @@
       "category": "animals",
       "subcategory": "mouse",
       "subcategoryKorean": "쥐",
-      "related": ["mouse-white", "mouse-many", "mouse-catch"],
+      "related": [
+        "mouse-white",
+        "mouse-many",
+        "mouse-catch"
+      ],
       "searchTier": "high",
-      "naverKeywords": ["쥐꿈", "쥐꿈 해몽", "쥐꿈 의미"],
-      "googleKeywords": ["mouse dream meaning Korean", "rat dream meaning"]
+      "naverKeywords": [
+        "쥐꿈",
+        "쥐꿈 해몽",
+        "쥐꿈 의미"
+      ],
+      "googleKeywords": [
+        "mouse dream meaning Korean",
+        "rat dream meaning"
+      ]
     },
     {
       "id": "mouse-white",
@@ -1846,10 +3056,17 @@
       "category": "animals",
       "subcategory": "mouse",
       "subcategoryKorean": "쥐",
-      "related": ["mouse-general"],
+      "related": [
+        "mouse-general"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["흰 쥐 꿈", "하얀 쥐 꿈 해몽"],
-      "googleKeywords": ["white mouse dream meaning"]
+      "naverKeywords": [
+        "흰 쥐 꿈",
+        "하얀 쥐 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "white mouse dream meaning"
+      ]
     },
     {
       "id": "mouse-many",
@@ -1860,10 +3077,17 @@
       "category": "animals",
       "subcategory": "mouse",
       "subcategoryKorean": "쥐",
-      "related": ["mouse-general"],
+      "related": [
+        "mouse-general"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["쥐가 많은 꿈", "쥐 많은 꿈 해몽"],
-      "googleKeywords": ["many mice dream meaning"]
+      "naverKeywords": [
+        "쥐가 많은 꿈",
+        "쥐 많은 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "many mice dream meaning"
+      ]
     },
     {
       "id": "mouse-catch",
@@ -1874,10 +3098,18 @@
       "category": "animals",
       "subcategory": "mouse",
       "subcategoryKorean": "쥐",
-      "related": ["mouse-general", "mouse-dead"],
+      "related": [
+        "mouse-general",
+        "mouse-dead"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["쥐를 잡는 꿈", "쥐 잡는 꿈 해몽"],
-      "googleKeywords": ["catching mouse dream meaning"]
+      "naverKeywords": [
+        "쥐를 잡는 꿈",
+        "쥐 잡는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "catching mouse dream meaning"
+      ]
     },
     {
       "id": "mouse-dead",
@@ -1888,10 +3120,18 @@
       "category": "animals",
       "subcategory": "mouse",
       "subcategoryKorean": "쥐",
-      "related": ["mouse-general", "mouse-catch"],
+      "related": [
+        "mouse-general",
+        "mouse-catch"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["죽은 쥐 꿈", "쥐 죽은 꿈 해몽"],
-      "googleKeywords": ["dead mouse dream meaning"]
+      "naverKeywords": [
+        "죽은 쥐 꿈",
+        "쥐 죽은 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "dead mouse dream meaning"
+      ]
     },
     {
       "id": "crocodile-general",
@@ -1902,10 +3142,19 @@
       "category": "animals",
       "subcategory": "crocodile",
       "subcategoryKorean": "악어",
-      "related": ["crocodile-attack", "snake-general"],
+      "related": [
+        "crocodile-attack",
+        "snake-general"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["악어꿈", "악어꿈 해몽"],
-      "googleKeywords": ["crocodile dream meaning", "dream of crocodile"]
+      "naverKeywords": [
+        "악어꿈",
+        "악어꿈 해몽"
+      ],
+      "googleKeywords": [
+        "crocodile dream meaning",
+        "dream of crocodile"
+      ]
     },
     {
       "id": "crocodile-attack",
@@ -1916,10 +3165,17 @@
       "category": "animals",
       "subcategory": "crocodile",
       "subcategoryKorean": "악어",
-      "related": ["crocodile-general"],
+      "related": [
+        "crocodile-general"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["악어에게 공격당하는 꿈", "악어 공격 꿈 해몽"],
-      "googleKeywords": ["crocodile attack dream meaning"]
+      "naverKeywords": [
+        "악어에게 공격당하는 꿈",
+        "악어 공격 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "crocodile attack dream meaning"
+      ]
     },
     {
       "id": "chicken-egg",
@@ -1930,10 +3186,20 @@
       "category": "animals",
       "subcategory": "bird",
       "subcategoryKorean": "새",
-      "related": ["bird-chicken", "bird-egg"],
+      "related": [
+        "bird-chicken",
+        "bird-egg"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["달걀 꿈", "달걀 꿈 해몽", "계란 꿈"],
-      "googleKeywords": ["egg dream meaning", "dream of eggs"]
+      "naverKeywords": [
+        "달걀 꿈",
+        "달걀 꿈 해몽",
+        "계란 꿈"
+      ],
+      "googleKeywords": [
+        "egg dream meaning",
+        "dream of eggs"
+      ]
     },
     {
       "id": "peacock-general",
@@ -1944,10 +3210,18 @@
       "category": "animals",
       "subcategory": "bird",
       "subcategoryKorean": "새",
-      "related": ["bird-general", "bird-phoenix"],
+      "related": [
+        "bird-general",
+        "bird-phoenix"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["공작새 꿈", "공작새 꿈 해몽"],
-      "googleKeywords": ["peacock dream meaning"]
+      "naverKeywords": [
+        "공작새 꿈",
+        "공작새 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "peacock dream meaning"
+      ]
     },
     {
       "id": "swan-general",
@@ -1958,10 +3232,18 @@
       "category": "animals",
       "subcategory": "bird",
       "subcategoryKorean": "새",
-      "related": ["bird-general", "bird-crane"],
+      "related": [
+        "bird-general",
+        "bird-crane"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["백조 꿈", "백조 꿈 해몽"],
-      "googleKeywords": ["swan dream meaning"]
+      "naverKeywords": [
+        "백조 꿈",
+        "백조 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "swan dream meaning"
+      ]
     },
     {
       "id": "bat-general",
@@ -1972,10 +3254,18 @@
       "category": "animals",
       "subcategory": "bat",
       "subcategoryKorean": "박쥐",
-      "related": ["bird-general"],
+      "related": [
+        "bird-general"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["박쥐 꿈", "박쥐 꿈 해몽"],
-      "googleKeywords": ["bat dream meaning", "dream of bat"]
+      "naverKeywords": [
+        "박쥐 꿈",
+        "박쥐 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "bat dream meaning",
+        "dream of bat"
+      ]
     },
     {
       "id": "octopus-general",
@@ -1986,10 +3276,18 @@
       "category": "animals",
       "subcategory": "sea-creatures",
       "subcategoryKorean": "해양생물",
-      "related": ["squid-general", "fish-general"],
+      "related": [
+        "squid-general",
+        "fish-general"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["문어 꿈", "문어 꿈 해몽"],
-      "googleKeywords": ["octopus dream meaning"]
+      "naverKeywords": [
+        "문어 꿈",
+        "문어 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "octopus dream meaning"
+      ]
     },
     {
       "id": "squid-general",
@@ -2000,10 +3298,18 @@
       "category": "animals",
       "subcategory": "sea-creatures",
       "subcategoryKorean": "해양생물",
-      "related": ["octopus-general", "fish-general"],
+      "related": [
+        "octopus-general",
+        "fish-general"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["오징어 꿈", "오징어 꿈 해몽"],
-      "googleKeywords": ["squid dream meaning"]
+      "naverKeywords": [
+        "오징어 꿈",
+        "오징어 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "squid dream meaning"
+      ]
     },
     {
       "id": "crab-general",
@@ -2014,10 +3320,18 @@
       "category": "animals",
       "subcategory": "sea-creatures",
       "subcategoryKorean": "해양생물",
-      "related": ["shrimp-general", "fish-general"],
+      "related": [
+        "shrimp-general",
+        "fish-general"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["게 꿈", "게 꿈 해몽"],
-      "googleKeywords": ["crab dream meaning"]
+      "naverKeywords": [
+        "게 꿈",
+        "게 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "crab dream meaning"
+      ]
     },
     {
       "id": "shrimp-general",
@@ -2028,10 +3342,18 @@
       "category": "animals",
       "subcategory": "sea-creatures",
       "subcategoryKorean": "해양생물",
-      "related": ["crab-general", "fish-general"],
+      "related": [
+        "crab-general",
+        "fish-general"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["새우 꿈", "새우 꿈 해몽"],
-      "googleKeywords": ["shrimp dream meaning"]
+      "naverKeywords": [
+        "새우 꿈",
+        "새우 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "shrimp dream meaning"
+      ]
     },
     {
       "id": "snail-general",
@@ -2042,10 +3364,17 @@
       "category": "animals",
       "subcategory": "other",
       "subcategoryKorean": "기타동물",
-      "related": ["frog-general"],
+      "related": [
+        "frog-general"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["달팽이 꿈", "달팽이 꿈 해몽"],
-      "googleKeywords": ["snail dream meaning"]
+      "naverKeywords": [
+        "달팽이 꿈",
+        "달팽이 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "snail dream meaning"
+      ]
     },
     {
       "id": "lizard-general",
@@ -2056,10 +3385,18 @@
       "category": "animals",
       "subcategory": "reptile",
       "subcategoryKorean": "파충류",
-      "related": ["snake-general", "crocodile-general"],
+      "related": [
+        "snake-general",
+        "crocodile-general"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["도마뱀 꿈", "도마뱀 꿈 해몽"],
-      "googleKeywords": ["lizard dream meaning"]
+      "naverKeywords": [
+        "도마뱀 꿈",
+        "도마뱀 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "lizard dream meaning"
+      ]
     },
     {
       "id": "dinosaur-general",
@@ -2070,10 +3407,18 @@
       "category": "animals",
       "subcategory": "other",
       "subcategoryKorean": "기타동물",
-      "related": ["dragon-general", "crocodile-general"],
+      "related": [
+        "dragon-general",
+        "crocodile-general"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["공룡 꿈", "공룡 꿈 해몽"],
-      "googleKeywords": ["dinosaur dream meaning"]
+      "naverKeywords": [
+        "공룡 꿈",
+        "공룡 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "dinosaur dream meaning"
+      ]
     },
     {
       "id": "pet-general",
@@ -2084,10 +3429,18 @@
       "category": "animals",
       "subcategory": "other",
       "subcategoryKorean": "기타동물",
-      "related": ["dog-general", "cat-general"],
+      "related": [
+        "dog-general",
+        "cat-general"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["반려동물 꿈", "반려동물 꿈 해몽"],
-      "googleKeywords": ["pet dream meaning"]
+      "naverKeywords": [
+        "반려동물 꿈",
+        "반려동물 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "pet dream meaning"
+      ]
     },
     {
       "id": "hamster-general",
@@ -2098,10 +3451,18 @@
       "category": "animals",
       "subcategory": "other",
       "subcategoryKorean": "기타동물",
-      "related": ["mouse-general", "rabbit-general"],
+      "related": [
+        "mouse-general",
+        "rabbit-general"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["햄스터 꿈", "햄스터 꿈 해몽"],
-      "googleKeywords": ["hamster dream meaning"]
+      "naverKeywords": [
+        "햄스터 꿈",
+        "햄스터 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "hamster dream meaning"
+      ]
     },
     {
       "id": "pig-wild",
@@ -2112,10 +3473,18 @@
       "category": "animals",
       "subcategory": "pig",
       "subcategoryKorean": "돼지",
-      "related": ["pig-general", "pig-attack"],
+      "related": [
+        "pig-general",
+        "pig-attack"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["멧돼지 꿈", "멧돼지 꿈 해몽"],
-      "googleKeywords": ["wild boar dream meaning"]
+      "naverKeywords": [
+        "멧돼지 꿈",
+        "멧돼지 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "wild boar dream meaning"
+      ]
     },
     {
       "id": "sheep-general",
@@ -2126,10 +3495,17 @@
       "category": "animals",
       "subcategory": "sheep",
       "subcategoryKorean": "양",
-      "related": ["goat-general"],
+      "related": [
+        "goat-general"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["양꿈", "양꿈 해몽"],
-      "googleKeywords": ["sheep dream meaning"]
+      "naverKeywords": [
+        "양꿈",
+        "양꿈 해몽"
+      ],
+      "googleKeywords": [
+        "sheep dream meaning"
+      ]
     },
     {
       "id": "goat-general",
@@ -2140,10 +3516,17 @@
       "category": "animals",
       "subcategory": "goat",
       "subcategoryKorean": "염소",
-      "related": ["sheep-general"],
+      "related": [
+        "sheep-general"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["염소 꿈", "염소 꿈 해몽"],
-      "googleKeywords": ["goat dream meaning"]
+      "naverKeywords": [
+        "염소 꿈",
+        "염소 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "goat dream meaning"
+      ]
     },
     {
       "id": "duck-general",
@@ -2154,10 +3537,18 @@
       "category": "animals",
       "subcategory": "bird",
       "subcategoryKorean": "새",
-      "related": ["bird-general", "swan-general"],
+      "related": [
+        "bird-general",
+        "swan-general"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["오리 꿈", "오리 꿈 해몽"],
-      "googleKeywords": ["duck dream meaning"]
+      "naverKeywords": [
+        "오리 꿈",
+        "오리 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "duck dream meaning"
+      ]
     },
     {
       "id": "pigeon-general",
@@ -2168,10 +3559,19 @@
       "category": "animals",
       "subcategory": "bird",
       "subcategoryKorean": "새",
-      "related": ["bird-general", "bird-white-dove"],
+      "related": [
+        "bird-general",
+        "bird-white-dove"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["비둘기 꿈", "비둘기 꿈 해몽"],
-      "googleKeywords": ["pigeon dream meaning", "dove dream meaning"]
+      "naverKeywords": [
+        "비둘기 꿈",
+        "비둘기 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "pigeon dream meaning",
+        "dove dream meaning"
+      ]
     },
     {
       "id": "bird-white-dove",
@@ -2182,10 +3582,18 @@
       "category": "animals",
       "subcategory": "bird",
       "subcategoryKorean": "새",
-      "related": ["pigeon-general", "bird-general"],
+      "related": [
+        "pigeon-general",
+        "bird-general"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["흰 비둘기 꿈", "흰 비둘기 꿈 해몽"],
-      "googleKeywords": ["white dove dream meaning"]
+      "naverKeywords": [
+        "흰 비둘기 꿈",
+        "흰 비둘기 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "white dove dream meaning"
+      ]
     },
     {
       "id": "animal-escape",
@@ -2196,10 +3604,17 @@
       "category": "animals",
       "subcategory": "other",
       "subcategoryKorean": "기타동물",
-      "related": ["animal-chase"],
+      "related": [
+        "animal-chase"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["동물이 도망가는 꿈", "동물 도망 꿈 해몽"],
-      "googleKeywords": ["animal escaping dream meaning"]
+      "naverKeywords": [
+        "동물이 도망가는 꿈",
+        "동물 도망 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "animal escaping dream meaning"
+      ]
     },
     {
       "id": "animal-chase",
@@ -2210,10 +3625,19 @@
       "category": "animals",
       "subcategory": "other",
       "subcategoryKorean": "기타동물",
-      "related": ["snake-chase", "tiger-chase", "dog-chase"],
+      "related": [
+        "snake-chase",
+        "tiger-chase",
+        "dog-chase"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["동물에게 쫓기는 꿈", "동물 쫓기는 꿈 해몽"],
-      "googleKeywords": ["chased by animal dream meaning"]
+      "naverKeywords": [
+        "동물에게 쫓기는 꿈",
+        "동물 쫓기는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "chased by animal dream meaning"
+      ]
     },
     {
       "id": "animal-talk",
@@ -2224,10 +3648,17 @@
       "category": "animals",
       "subcategory": "other",
       "subcategoryKorean": "기타동물",
-      "related": ["animal-chase"],
+      "related": [
+        "animal-chase"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["동물이 말하는 꿈", "동물 말하는 꿈 해몽"],
-      "googleKeywords": ["talking animal dream meaning"]
+      "naverKeywords": [
+        "동물이 말하는 꿈",
+        "동물 말하는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "talking animal dream meaning"
+      ]
     },
     {
       "id": "animal-dead",
@@ -2238,10 +3669,19 @@
       "category": "animals",
       "subcategory": "other",
       "subcategoryKorean": "기타동물",
-      "related": ["snake-dead", "dog-dead", "cat-dead"],
+      "related": [
+        "snake-dead",
+        "dog-dead",
+        "cat-dead"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["동물이 죽는 꿈", "동물 죽는 꿈 해몽"],
-      "googleKeywords": ["animal dying dream meaning"]
+      "naverKeywords": [
+        "동물이 죽는 꿈",
+        "동물 죽는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "animal dying dream meaning"
+      ]
     },
     {
       "id": "animal-feed",
@@ -2252,10 +3692,17 @@
       "category": "animals",
       "subcategory": "other",
       "subcategoryKorean": "기타동물",
-      "related": ["pet-general"],
+      "related": [
+        "pet-general"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["동물에게 먹이를 주는 꿈", "동물 먹이주는 꿈 해몽"],
-      "googleKeywords": ["feeding animal dream meaning"]
+      "naverKeywords": [
+        "동물에게 먹이를 주는 꿈",
+        "동물 먹이주는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "feeding animal dream meaning"
+      ]
     },
     {
       "id": "animal-transform",
@@ -2266,10 +3713,17 @@
       "category": "animals",
       "subcategory": "other",
       "subcategoryKorean": "기타동물",
-      "related": ["animal-talk"],
+      "related": [
+        "animal-talk"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["동물로 변하는 꿈", "동물 변신 꿈 해몽"],
-      "googleKeywords": ["turning into animal dream meaning"]
+      "naverKeywords": [
+        "동물로 변하는 꿈",
+        "동물 변신 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "turning into animal dream meaning"
+      ]
     },
     {
       "id": "snake-green",
@@ -2280,10 +3734,19 @@
       "category": "animals",
       "subcategory": "snake",
       "subcategoryKorean": "뱀",
-      "related": ["snake-general", "snake-white", "snake-black"],
+      "related": [
+        "snake-general",
+        "snake-white",
+        "snake-black"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["초록 뱀 꿈", "초록 뱀 꿈 해몽"],
-      "googleKeywords": ["green snake dream meaning"]
+      "naverKeywords": [
+        "초록 뱀 꿈",
+        "초록 뱀 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "green snake dream meaning"
+      ]
     },
     {
       "id": "snake-red",
@@ -2294,10 +3757,18 @@
       "category": "animals",
       "subcategory": "snake",
       "subcategoryKorean": "뱀",
-      "related": ["snake-general", "snake-black"],
+      "related": [
+        "snake-general",
+        "snake-black"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["빨간 뱀 꿈", "빨간 뱀 꿈 해몽"],
-      "googleKeywords": ["red snake dream meaning"]
+      "naverKeywords": [
+        "빨간 뱀 꿈",
+        "빨간 뱀 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "red snake dream meaning"
+      ]
     },
     {
       "id": "snake-two-headed",
@@ -2308,10 +3779,18 @@
       "category": "animals",
       "subcategory": "snake",
       "subcategoryKorean": "뱀",
-      "related": ["snake-general", "snake-large"],
+      "related": [
+        "snake-general",
+        "snake-large"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["머리 두개 뱀 꿈", "쌍두사 꿈 해몽"],
-      "googleKeywords": ["two headed snake dream meaning"]
+      "naverKeywords": [
+        "머리 두개 뱀 꿈",
+        "쌍두사 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "two headed snake dream meaning"
+      ]
     },
     {
       "id": "snake-swallow",
@@ -2322,10 +3801,18 @@
       "category": "animals",
       "subcategory": "snake",
       "subcategoryKorean": "뱀",
-      "related": ["snake-general", "snake-large"],
+      "related": [
+        "snake-general",
+        "snake-large"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["뱀이 삼키는 꿈", "뱀 먹이 삼키는 꿈 해몽"],
-      "googleKeywords": ["snake swallowing dream meaning"]
+      "naverKeywords": [
+        "뱀이 삼키는 꿈",
+        "뱀 먹이 삼키는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "snake swallowing dream meaning"
+      ]
     },
     {
       "id": "snake-wrap",
@@ -2336,79 +3823,980 @@
       "category": "animals",
       "subcategory": "snake",
       "subcategoryKorean": "뱀",
-      "related": ["snake-bite", "snake-attack", "snake-general"],
+      "related": [
+        "snake-bite",
+        "snake-attack",
+        "snake-general"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["뱀이 몸을 감는 꿈", "뱀 몸 감기는 꿈 해몽"],
-      "googleKeywords": ["snake wrapping around body dream meaning"]
+      "naverKeywords": [
+        "뱀이 몸을 감는 꿈",
+        "뱀 몸 감기는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "snake wrapping around body dream meaning"
+      ]
     },
-    {"id":"animal-alpaca","korean":"알파카 꿈","english":"Dream of an alpaca","slug":"alpaca-dream","koreanSlug":"alpaka-kkum","category":"animals","subcategory":"farm","subcategoryKorean":"가축","related":["animal-sheep"],"searchTier":"longtail","naverKeywords":["알파카 꿈","알파카 꿈 해몽"],"googleKeywords":["alpaca dream meaning"]},
-    {"id":"animal-buffalo","korean":"물소 꿈","english":"Dream of a buffalo","slug":"buffalo-dream","koreanSlug":"mulso-kkum","category":"animals","subcategory":"wild","subcategoryKorean":"야생","related":["cow-general"],"searchTier":"longtail","naverKeywords":["물소 꿈","물소 꿈 해몽"],"googleKeywords":["buffalo dream meaning"]},
-    {"id":"animal-camel","korean":"낙타 꿈","english":"Dream of a camel","slug":"camel-dream","koreanSlug":"nakta-kkum","category":"animals","subcategory":"wild","subcategoryKorean":"야생","related":["horse-general"],"searchTier":"longtail","naverKeywords":["낙타 꿈","낙타 꿈 해몽"],"googleKeywords":["camel dream meaning"]},
-    {"id":"animal-cheetah","korean":"치타 꿈","english":"Dream of a cheetah","slug":"cheetah-dream","koreanSlug":"chita-kkum","category":"animals","subcategory":"wild","subcategoryKorean":"야생","related":["lion-general","tiger-general"],"searchTier":"longtail","naverKeywords":["치타 꿈","치타 꿈 해몽"],"googleKeywords":["cheetah dream meaning"]},
-    {"id":"animal-gorilla","korean":"고릴라 꿈","english":"Dream of a gorilla","slug":"gorilla-dream","koreanSlug":"gorilla-kkum","category":"animals","subcategory":"wild","subcategoryKorean":"야생","related":["monkey-general"],"searchTier":"longtail","naverKeywords":["고릴라 꿈","고릴라 꿈 해몽"],"googleKeywords":["gorilla dream meaning"]},
-    {"id":"animal-panda","korean":"판다 꿈","english":"Dream of a panda","slug":"panda-dream","koreanSlug":"panda-kkum","category":"animals","subcategory":"wild","subcategoryKorean":"야생","related":["bear-general"],"searchTier":"longtail","naverKeywords":["판다 꿈","판다 꿈 해몽"],"googleKeywords":["panda dream meaning"]},
-    {"id":"animal-penguin","korean":"펭귄 꿈","english":"Dream of a penguin","slug":"penguin-dream","koreanSlug":"pengwin-kkum","category":"animals","subcategory":"bird","subcategoryKorean":"새","related":["bird-general"],"searchTier":"longtail","naverKeywords":["펭귄 꿈","펭귄 꿈 해몽"],"googleKeywords":["penguin dream meaning"]},
-    {"id":"animal-koala","korean":"코알라 꿈","english":"Dream of a koala","slug":"koala-dream","koreanSlug":"koalla-kkum","category":"animals","subcategory":"wild","subcategoryKorean":"야생","related":["bear-general"],"searchTier":"longtail","naverKeywords":["코알라 꿈","코알라 꿈 해몽"],"googleKeywords":["koala dream meaning"]},
-    {"id":"animal-hippo","korean":"하마 꿈","english":"Dream of a hippopotamus","slug":"hippo-dream","koreanSlug":"hama-kkum","category":"animals","subcategory":"wild","subcategoryKorean":"야생","related":["elephant-general"],"searchTier":"longtail","naverKeywords":["하마 꿈","하마 꿈 해몽"],"googleKeywords":["hippo dream meaning"]},
-    {"id":"animal-rhino","korean":"코뿔소 꿈","english":"Dream of a rhinoceros","slug":"rhino-dream","koreanSlug":"koppulso-kkum","category":"animals","subcategory":"wild","subcategoryKorean":"야생","related":["elephant-general"],"searchTier":"longtail","naverKeywords":["코뿔소 꿈","코뿔소 꿈 해몽"],"googleKeywords":["rhinoceros dream meaning"]},
-    {"id":"animal-kangaroo","korean":"캥거루 꿈","english":"Dream of a kangaroo","slug":"kangaroo-dream","koreanSlug":"kaenggeoru-kkum","category":"animals","subcategory":"wild","subcategoryKorean":"야생","related":[],"searchTier":"longtail","naverKeywords":["캥거루 꿈","캥거루 꿈 해몽"],"googleKeywords":["kangaroo dream meaning"]},
-    {"id":"animal-zebra","korean":"얼룩말 꿈","english":"Dream of a zebra","slug":"zebra-dream","koreanSlug":"eollungmal-kkum","category":"animals","subcategory":"wild","subcategoryKorean":"야생","related":["horse-general"],"searchTier":"longtail","naverKeywords":["얼룩말 꿈","얼룩말 꿈 해몽"],"googleKeywords":["zebra dream meaning"]},
-    {"id":"animal-giraffe","korean":"기린 꿈","english":"Dream of a giraffe","slug":"giraffe-dream","koreanSlug":"girin-kkum","category":"animals","subcategory":"wild","subcategoryKorean":"야생","related":[],"searchTier":"longtail","naverKeywords":["기린 꿈","기린 꿈 해몽"],"googleKeywords":["giraffe dream meaning"]},
-    {"id":"animal-otter","korean":"수달 꿈","english":"Dream of an otter","slug":"otter-dream","koreanSlug":"sudal-kkum","category":"animals","subcategory":"wild","subcategoryKorean":"야생","related":["water-river"],"searchTier":"longtail","naverKeywords":["수달 꿈","수달 꿈 해몽"],"googleKeywords":["otter dream meaning"]},
-    {"id":"animal-bat","korean":"박쥐 꿈","english":"Dream of a bat","slug":"bat-dream","koreanSlug":"bakjwi-kkum","category":"animals","subcategory":"wild","subcategoryKorean":"야생","related":["bird-general","spirits-ghost"],"searchTier":"medium","naverKeywords":["박쥐 꿈","박쥐 꿈 해몽"],"googleKeywords":["bat dream meaning"]},
-    {"id":"animal-hamster","korean":"햄스터 꿈","english":"Dream of a hamster","slug":"hamster-dream","koreanSlug":"haemseuteo-kkum","category":"animals","subcategory":"pet","subcategoryKorean":"반려동물","related":["rabbit-general","mouse-general"],"searchTier":"longtail","naverKeywords":["햄스터 꿈","햄스터 꿈 해몽"],"googleKeywords":["hamster dream meaning"]},
-    {"id":"animal-parrot","korean":"앵무새 꿈","english":"Dream of a parrot","slug":"parrot-dream","koreanSlug":"aengmusae-kkum","category":"animals","subcategory":"bird","subcategoryKorean":"새","related":["bird-general"],"searchTier":"longtail","naverKeywords":["앵무새 꿈","앵무새 꿈 해몽"],"googleKeywords":["parrot dream meaning"]},
-    {"id":"animal-swan","korean":"백조 꿈","english":"Dream of a swan","slug":"swan-dream","koreanSlug":"baekjo-kkum","category":"animals","subcategory":"bird","subcategoryKorean":"새","related":["bird-general","duck-general"],"searchTier":"medium","naverKeywords":["백조 꿈","백조 꿈 해몽"],"googleKeywords":["swan dream meaning"]},
-    {"id":"animal-peacock","korean":"공작새 꿈","english":"Dream of a peacock","slug":"peacock-dream","koreanSlug":"gongjaksae-kkum","category":"animals","subcategory":"bird","subcategoryKorean":"새","related":["bird-general"],"searchTier":"longtail","naverKeywords":["공작새 꿈","공작 꿈 해몽"],"googleKeywords":["peacock dream meaning"]},
-    {"id":"animal-stork","korean":"황새 꿈","english":"Dream of a stork","slug":"stork-dream","koreanSlug":"hwangsae-kkum","category":"animals","subcategory":"bird","subcategoryKorean":"새","related":["bird-general","bird-crane"],"searchTier":"longtail","naverKeywords":["황새 꿈","황새 꿈 해몽"],"googleKeywords":["stork dream meaning"]},
-    {"id":"animal-pigeon","korean":"비둘기 꿈","english":"Dream of a pigeon","slug":"pigeon-dream","koreanSlug":"bidulgi-kkum","category":"animals","subcategory":"bird","subcategoryKorean":"새","related":["bird-general"],"searchTier":"medium","naverKeywords":["비둘기 꿈","비둘기 꿈 해몽"],"googleKeywords":["pigeon dream meaning"]},
-    {"id":"animal-sparrow","korean":"참새 꿈","english":"Dream of a sparrow","slug":"sparrow-dream","koreanSlug":"chamsae-kkum","category":"animals","subcategory":"bird","subcategoryKorean":"새","related":["bird-general"],"searchTier":"longtail","naverKeywords":["참새 꿈","참새 꿈 해몽"],"googleKeywords":["sparrow dream meaning"]},
-    {"id":"animal-owl","korean":"올빼미 꿈","english":"Dream of an owl","slug":"owl-dream","koreanSlug":"olppaemi-kkum","category":"animals","subcategory":"bird","subcategoryKorean":"새","related":["bird-general"],"searchTier":"medium","naverKeywords":["올빼미 꿈","부엉이 꿈 해몽"],"googleKeywords":["owl dream meaning"]},
-    {"id":"animal-hawk","korean":"매 꿈","english":"Dream of a hawk","slug":"hawk-dream","koreanSlug":"mae-kkum","category":"animals","subcategory":"bird","subcategoryKorean":"새","related":["bird-eagle"],"searchTier":"longtail","naverKeywords":["매 꿈","매 꿈 해몽"],"googleKeywords":["hawk dream meaning"]},
-    {"id":"animal-jellyfish","korean":"해파리 꿈","english":"Dream of a jellyfish","slug":"jellyfish-dream","koreanSlug":"haepari-kkum","category":"animals","subcategory":"sea","subcategoryKorean":"바다동물","related":["fish-general","water-ocean"],"searchTier":"longtail","naverKeywords":["해파리 꿈","해파리 꿈 해몽"],"googleKeywords":["jellyfish dream meaning"]},
-    {"id":"animal-starfish","korean":"불가사리 꿈","english":"Dream of a starfish","slug":"starfish-dream","koreanSlug":"bulgasari-kkum","category":"animals","subcategory":"sea","subcategoryKorean":"바다동물","related":["fish-general","water-ocean"],"searchTier":"longtail","naverKeywords":["불가사리 꿈","불가사리 꿈 해몽"],"googleKeywords":["starfish dream meaning"]},
-    {"id":"animal-seahorse","korean":"해마 꿈","english":"Dream of a seahorse","slug":"seahorse-dream","koreanSlug":"haema-kkum","category":"animals","subcategory":"sea","subcategoryKorean":"바다동물","related":["fish-general"],"searchTier":"longtail","naverKeywords":["해마 꿈","해마 꿈 해몽"],"googleKeywords":["seahorse dream meaning"]},
-    {"id":"animal-seal","korean":"물개 꿈","english":"Dream of a seal","slug":"seal-dream","koreanSlug":"mulgae-kkum","category":"animals","subcategory":"sea","subcategoryKorean":"바다동물","related":["water-ocean"],"searchTier":"longtail","naverKeywords":["물개 꿈","물개 꿈 해몽"],"googleKeywords":["seal dream meaning"]},
-    {"id":"animal-lobster","korean":"바닷가재 꿈","english":"Dream of a lobster","slug":"lobster-dream","koreanSlug":"badatgajae-kkum","category":"animals","subcategory":"sea","subcategoryKorean":"바다동물","related":["fish-crab"],"searchTier":"longtail","naverKeywords":["바닷가재 꿈","바닷가재 꿈 해몽"],"googleKeywords":["lobster dream meaning"]},
-    {"id":"animal-clam","korean":"조개 꿈","english":"Dream of clams","slug":"clam-dream","koreanSlug":"jogae-kkum","category":"animals","subcategory":"sea","subcategoryKorean":"바다동물","related":["water-ocean","money-pearl"],"searchTier":"longtail","naverKeywords":["조개 꿈","조개 꿈 해몽"],"googleKeywords":["clam dream meaning"]},
-    {"id":"animal-snake-gold","korean":"금색 뱀 꿈","english":"Dream of a golden snake","slug":"golden-snake-dream","koreanSlug":"geumsaek-baem-kkum","category":"animals","subcategory":"snake","subcategoryKorean":"뱀","related":["snake-general","money-gold"],"searchTier":"medium","naverKeywords":["금색 뱀 꿈","금뱀 꿈 해몽"],"googleKeywords":["golden snake dream meaning"]},
-    {"id":"animal-snake-green","korean":"초록색 뱀 꿈","english":"Dream of a green snake","slug":"green-snake-dream","koreanSlug":"choroksaek-baem-kkum","category":"animals","subcategory":"snake","subcategoryKorean":"뱀","related":["snake-general"],"searchTier":"longtail","naverKeywords":["초록 뱀 꿈","초록 뱀 꿈 해몽"],"googleKeywords":["green snake dream meaning"]},
-    {"id":"animal-snake-dead","korean":"죽은 뱀 꿈","english":"Dream of a dead snake","slug":"dead-snake-dream","koreanSlug":"jugeun-baem-kkum","category":"animals","subcategory":"snake","subcategoryKorean":"뱀","related":["snake-general","snake-kill"],"searchTier":"medium","naverKeywords":["죽은 뱀 꿈","죽은 뱀 꿈 해몽"],"googleKeywords":["dead snake dream meaning"]},
-    {"id":"animal-snake-egg","korean":"뱀 알 꿈","english":"Dream of snake eggs","slug":"snake-eggs-dream","koreanSlug":"baem-al-kkum","category":"animals","subcategory":"snake","subcategoryKorean":"뱀","related":["snake-general"],"searchTier":"longtail","naverKeywords":["뱀 알 꿈","뱀 알 꿈 해몽"],"googleKeywords":["snake eggs dream meaning"]},
-    {"id":"animal-dog-friendly","korean":"강아지가 반기는 꿈","english":"Dream of a dog greeting you","slug":"dog-greeting-dream","koreanSlug":"gangaji-bangineun-kkum","category":"animals","subcategory":"dog","subcategoryKorean":"개","related":["dog-general"],"searchTier":"longtail","naverKeywords":["강아지 반기는 꿈","강아지 반기는 꿈 해몽"],"googleKeywords":["dog greeting dream meaning"]},
-    {"id":"animal-dog-poop","korean":"강아지 똥 꿈","english":"Dream of dog poop","slug":"dog-poop-dream","koreanSlug":"gangaji-ttong-kkum","category":"animals","subcategory":"dog","subcategoryKorean":"개","related":["dog-general","poop-general"],"searchTier":"medium","naverKeywords":["강아지 똥 꿈","강아지 똥 꿈 해몽"],"googleKeywords":["dog poop dream meaning"]},
-    {"id":"animal-cat-black","korean":"검은 고양이 꿈","english":"Dream of a black cat","slug":"black-cat-dream","koreanSlug":"geomeun-goyangi-kkum","category":"animals","subcategory":"cat","subcategoryKorean":"고양이","related":["cat-general"],"searchTier":"medium","naverKeywords":["검은 고양이 꿈","검은 고양이 꿈 해몽"],"googleKeywords":["black cat dream meaning"]},
-    {"id":"animal-cat-kitten","korean":"아기 고양이 꿈","english":"Dream of kittens","slug":"kitten-dream","koreanSlug":"agi-goyangi-kkum","category":"animals","subcategory":"cat","subcategoryKorean":"고양이","related":["cat-general"],"searchTier":"medium","naverKeywords":["아기 고양이 꿈","새끼 고양이 꿈 해몽"],"googleKeywords":["kitten dream meaning"]},
-    {"id":"animal-cat-stray","korean":"길고양이 꿈","english":"Dream of a stray cat","slug":"stray-cat-dream","koreanSlug":"gilgoyangi-kkum","category":"animals","subcategory":"cat","subcategoryKorean":"고양이","related":["cat-general"],"searchTier":"longtail","naverKeywords":["길고양이 꿈","길고양이 꿈 해몽"],"googleKeywords":["stray cat dream meaning"]},
-    {"id":"animal-horse-running","korean":"말이 달리는 꿈","english":"Dream of a horse running","slug":"horse-running-dream","koreanSlug":"mal-dallineun-kkum","category":"animals","subcategory":"horse","subcategoryKorean":"말","related":["horse-general","horse-riding"],"searchTier":"medium","naverKeywords":["말 달리는 꿈","말 달리는 꿈 해몽"],"googleKeywords":["horse running dream meaning"]},
-    {"id":"animal-tiger-baby","korean":"아기 호랑이 꿈","english":"Dream of a baby tiger","slug":"baby-tiger-dream","koreanSlug":"agi-horangi-kkum","category":"animals","subcategory":"tiger","subcategoryKorean":"호랑이","related":["tiger-general"],"searchTier":"longtail","naverKeywords":["아기 호랑이 꿈","아기 호랑이 꿈 해몽"],"googleKeywords":["baby tiger dream meaning"]},
-    {"id":"animal-lion-roar","korean":"사자가 포효하는 꿈","english":"Dream of a lion roaring","slug":"lion-roaring-dream","koreanSlug":"saja-pohyo-kkum","category":"animals","subcategory":"wild","subcategoryKorean":"야생","related":["lion-general"],"searchTier":"longtail","naverKeywords":["사자 포효 꿈","사자 울음 꿈 해몽"],"googleKeywords":["lion roaring dream meaning"]},
-    {"id":"animal-bear-attack","korean":"곰에게 공격당하는 꿈","english":"Dream of bear attacking","slug":"bear-attack-dream","koreanSlug":"gom-gonggyeok-kkum","category":"animals","subcategory":"wild","subcategoryKorean":"야생","related":["bear-general","action-chased-animal"],"searchTier":"longtail","naverKeywords":["곰 공격 꿈","곰 공격 꿈 해몽"],"googleKeywords":["bear attack dream meaning"]},
-    {"id":"animal-wolf-howl","korean":"늑대가 울부짖는 꿈","english":"Dream of a wolf howling","slug":"wolf-howling-dream","koreanSlug":"neukdae-ulbu-jitneun-kkum","category":"animals","subcategory":"wild","subcategoryKorean":"야생","related":["wolf-general"],"searchTier":"longtail","naverKeywords":["늑대 울음 꿈","늑대 울부짖는 꿈 해몽"],"googleKeywords":["wolf howling dream meaning"]},
-    {"id":"animal-fox-nine-tail","korean":"구미호 꿈","english":"Dream of a nine-tailed fox","slug":"nine-tailed-fox-dream","koreanSlug":"gumiho-kkum","category":"animals","subcategory":"mythical","subcategoryKorean":"신화","related":["fox-general","spirits-dokkaebi"],"searchTier":"medium","naverKeywords":["구미호 꿈","구미호 꿈 해몽"],"googleKeywords":["nine-tailed fox dream meaning"]},
-    {"id":"animal-unicorn","korean":"유니콘 꿈","english":"Dream of a unicorn","slug":"unicorn-dream","koreanSlug":"yunikon-kkum","category":"animals","subcategory":"mythical","subcategoryKorean":"신화","related":["horse-general"],"searchTier":"longtail","naverKeywords":["유니콘 꿈","유니콘 꿈 해몽"],"googleKeywords":["unicorn dream meaning"]},
-    {"id":"animal-dinosaur","korean":"공룡 꿈","english":"Dream of a dinosaur","slug":"dinosaur-dream","koreanSlug":"gongnyong-kkum","category":"animals","subcategory":"mythical","subcategoryKorean":"신화","related":[],"searchTier":"medium","naverKeywords":["공룡 꿈","공룡 꿈 해몽"],"googleKeywords":["dinosaur dream meaning"]},
-    {"id":"animal-goldfish","korean":"금붕어 꿈","english":"Dream of a goldfish","slug":"goldfish-dream","koreanSlug":"geumbungeo-kkum","category":"animals","subcategory":"fish","subcategoryKorean":"물고기","related":["fish-general","money-gold"],"searchTier":"medium","naverKeywords":["금붕어 꿈","금붕어 꿈 해몽"],"googleKeywords":["goldfish dream meaning"]},
-    {"id":"animal-salmon","korean":"연어 꿈","english":"Dream of salmon","slug":"salmon-dream","koreanSlug":"yeoneo-kkum","category":"animals","subcategory":"fish","subcategoryKorean":"물고기","related":["fish-general"],"searchTier":"longtail","naverKeywords":["연어 꿈","연어 꿈 해몽"],"googleKeywords":["salmon dream meaning"]},
-    {"id":"animal-dog-stray","korean":"떠돌이 개 꿈","english":"Dream of a stray dog","slug":"stray-dog-dream","koreanSlug":"tteodori-gae-kkum","category":"animals","subcategory":"dog","subcategoryKorean":"개","related":["dog-general"],"searchTier":"longtail","naverKeywords":["떠돌이 개 꿈","떠돌이 개 꿈 해몽"],"googleKeywords":["stray dog dream meaning"]},
-    {"id":"animal-flamingo","korean":"플라밍고 꿈","english":"Dream of a flamingo","slug":"flamingo-dream","koreanSlug":"peullaminggo-kkum","category":"animals","subcategory":"bird","subcategoryKorean":"새","related":["animal-swan","animal-peacock"],"searchTier":"longtail","naverKeywords":["플라밍고 꿈","플라밍고 꿈 해몽"],"googleKeywords":["flamingo dream meaning"]},
-    {"id":"animal-chameleon","korean":"카멜레온 꿈","english":"Dream of a chameleon","slug":"chameleon-dream","koreanSlug":"kamelleon-kkum","category":"animals","subcategory":"reptile","subcategoryKorean":"파충류","related":["animal-lizard","animal-iguana"],"searchTier":"longtail","naverKeywords":["카멜레온 꿈","카멜레온 꿈 해몽"],"googleKeywords":["chameleon dream meaning"]},
-    {"id":"animal-hedgehog","korean":"고슴도치 꿈","english":"Dream of a hedgehog","slug":"hedgehog-dream","koreanSlug":"goseumdochi-kkum","category":"animals","subcategory":"mammal","subcategoryKorean":"포유류","related":["animal-hamster","animal-rabbit"],"searchTier":"longtail","naverKeywords":["고슴도치 꿈","고슴도치 꿈 해몽"],"googleKeywords":["hedgehog dream meaning"]},
-    {"id":"animal-mole","korean":"두더지 꿈","english":"Dream of a mole","slug":"mole-dream","koreanSlug":"dudeoji-kkum","category":"animals","subcategory":"mammal","subcategoryKorean":"포유류","related":["animal-mouse","animal-hamster"],"searchTier":"longtail","naverKeywords":["두더지 꿈","두더지 꿈 해몽"],"googleKeywords":["mole dream meaning"]},
-    {"id":"animal-raccoon","korean":"너구리 꿈","english":"Dream of a raccoon","slug":"raccoon-dream","koreanSlug":"neoguri-kkum","category":"animals","subcategory":"mammal","subcategoryKorean":"포유류","related":["animal-fox","animal-tanuki"],"searchTier":"longtail","naverKeywords":["너구리 꿈","너구리 꿈 해몽"],"googleKeywords":["raccoon dream meaning"]},
-    {"id":"animal-squirrel","korean":"다람쥐 꿈","english":"Dream of a squirrel","slug":"squirrel-dream","koreanSlug":"daramjwi-kkum","category":"animals","subcategory":"mammal","subcategoryKorean":"포유류","related":["animal-hamster","animal-mouse"],"searchTier":"longtail","naverKeywords":["다람쥐 꿈","다람쥐 꿈 해몽"],"googleKeywords":["squirrel dream meaning"]},
-    {"id":"animal-weasel","korean":"족제비 꿈","english":"Dream of a weasel","slug":"weasel-dream","koreanSlug":"jokjebi-kkum","category":"animals","subcategory":"mammal","subcategoryKorean":"포유류","related":["animal-fox","animal-raccoon"],"searchTier":"longtail","naverKeywords":["족제비 꿈","족제비 꿈 해몽"],"googleKeywords":["weasel dream meaning"]},
-    {"id":"animal-whale-blue","korean":"대왕고래 꿈","english":"Dream of a blue whale","slug":"blue-whale-dream","koreanSlug":"daewanggorae-kkum","category":"animals","subcategory":"marine","subcategoryKorean":"해양동물","related":["animal-whale","animal-dolphin"],"searchTier":"longtail","naverKeywords":["대왕고래 꿈","대왕고래 꿈 해몽"],"googleKeywords":["blue whale dream meaning"]},
-    {"id":"animal-shark-attack","korean":"상어에게 공격당하는 꿈","english":"Dream of shark attack","slug":"shark-attack-dream","koreanSlug":"sangeo-gonggyeok-kkum","category":"animals","subcategory":"marine","subcategoryKorean":"해양동물","related":["animal-shark","water-ocean"],"searchTier":"medium","naverKeywords":["상어 공격 꿈","상어 공격당하는 꿈 해몽"],"googleKeywords":["shark attack dream meaning"]},
-    {"id":"animal-cat-white","korean":"흰 고양이 꿈","english":"Dream of a white cat","slug":"white-cat-dream","koreanSlug":"huin-goyangi-kkum","category":"animals","subcategory":"cat","subcategoryKorean":"고양이","related":["cat-general","animal-kitten"],"searchTier":"medium","naverKeywords":["흰 고양이 꿈","하얀 고양이 꿈 해몽"],"googleKeywords":["white cat dream meaning"]},
-    {"id":"animal-dog-dead","korean":"개가 죽는 꿈","english":"Dream of a dog dying","slug":"dog-dying-dream","koreanSlug":"gae-jungneun-kkum","category":"animals","subcategory":"dog","subcategoryKorean":"개","related":["dog-general","death-animal"],"searchTier":"medium","naverKeywords":["개 죽는 꿈","강아지 죽는 꿈 해몽"],"googleKeywords":["dog dying dream meaning"]},
-    {"id":"animal-snake-two-headed","korean":"머리 두 개 달린 뱀 꿈","english":"Dream of a two-headed snake","slug":"two-headed-snake-dream","koreanSlug":"meori-dugae-dallin-baem-kkum","category":"animals","subcategory":"snake","subcategoryKorean":"뱀","related":["snake-general","animal-golden-snake"],"searchTier":"longtail","naverKeywords":["머리 두 개 뱀 꿈","쌍두사 꿈 해몽"],"googleKeywords":["two-headed snake dream meaning"]},
-    {"id":"animal-snake-bite","korean":"뱀에게 물리는 꿈","english":"Dream of being bitten by a snake","slug":"snake-bite-dream","koreanSlug":"baem-mullineun-kkum","category":"animals","subcategory":"snake","subcategoryKorean":"뱀","related":["snake-general","body-injury"],"searchTier":"high","naverKeywords":["뱀에게 물리는 꿈","뱀 물리는 꿈 해몽"],"googleKeywords":["snake bite dream meaning"]},
-    {"id":"animal-pig-flying","korean":"날아다니는 돼지 꿈","english":"Dream of a flying pig","slug":"flying-pig-dream","koreanSlug":"naradanineun-dwaeji-kkum","category":"animals","subcategory":"pig","subcategoryKorean":"돼지","related":["pig-general","action-flying"],"searchTier":"longtail","naverKeywords":["날아다니는 돼지 꿈","돼지 나는 꿈 해몽"],"googleKeywords":["flying pig dream meaning"]},
-    {"id":"animal-rooster","korean":"수탉 꿈","english":"Dream of a rooster","slug":"rooster-dream","koreanSlug":"sutak-kkum","category":"animals","subcategory":"bird","subcategoryKorean":"새","related":["chicken-general","animal-hen"],"searchTier":"longtail","naverKeywords":["수탉 꿈","수탉 꿈 해몽"],"googleKeywords":["rooster dream meaning"]},
-    {"id":"animal-hen","korean":"암탉 꿈","english":"Dream of a hen","slug":"hen-dream","koreanSlug":"amtak-kkum","category":"animals","subcategory":"bird","subcategoryKorean":"새","related":["chicken-general","animal-rooster"],"searchTier":"longtail","naverKeywords":["암탉 꿈","암탉 꿈 해몽"],"googleKeywords":["hen dream meaning"]},
-    {"id":"animal-monkey","korean":"원숭이 꿈","english":"Dream of a monkey","slug":"monkey-dream","koreanSlug":"wonsungi-kkum","category":"animals","subcategory":"mammal","subcategoryKorean":"포유류","related":["animal-gorilla","animal-chimpanzee"],"searchTier":"medium","naverKeywords":["원숭이 꿈","원숭이 꿈 해몽"],"googleKeywords":["monkey dream meaning"]},
-    {"id":"animal-chimpanzee","korean":"침팬지 꿈","english":"Dream of a chimpanzee","slug":"chimpanzee-dream","koreanSlug":"chimpanji-kkum","category":"animals","subcategory":"mammal","subcategoryKorean":"포유류","related":["animal-monkey","animal-gorilla"],"searchTier":"longtail","naverKeywords":["침팬지 꿈","침팬지 꿈 해몽"],"googleKeywords":["chimpanzee dream meaning"]},
-    {"id":"animal-snake-many","korean":"뱀이 많은 꿈","english":"Dream of many snakes","slug":"many-snakes-dream","koreanSlug":"baem-maneun-kkum","category":"animals","subcategory":"snake","subcategoryKorean":"뱀","related":["snake-general","animal-snake-big"],"searchTier":"medium","naverKeywords":["뱀 많은 꿈","뱀 여러 마리 꿈 해몽"],"googleKeywords":["many snakes dream meaning"]}
+    {
+      "id": "animal-alpaca",
+      "korean": "알파카 꿈",
+      "english": "Dream of an alpaca",
+      "slug": "alpaca-dream",
+      "koreanSlug": "alpaka-kkum",
+      "category": "animals",
+      "subcategory": "farm",
+      "subcategoryKorean": "가축",
+      "related": [
+        "animal-sheep"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "알파카 꿈",
+        "알파카 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "alpaca dream meaning"
+      ]
+    },
+    {
+      "id": "animal-buffalo",
+      "korean": "물소 꿈",
+      "english": "Dream of a buffalo",
+      "slug": "buffalo-dream",
+      "koreanSlug": "mulso-kkum",
+      "category": "animals",
+      "subcategory": "wild",
+      "subcategoryKorean": "야생",
+      "related": [
+        "cow-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "물소 꿈",
+        "물소 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "buffalo dream meaning"
+      ]
+    },
+    {
+      "id": "animal-camel",
+      "korean": "낙타 꿈",
+      "english": "Dream of a camel",
+      "slug": "camel-dream",
+      "koreanSlug": "nakta-kkum",
+      "category": "animals",
+      "subcategory": "wild",
+      "subcategoryKorean": "야생",
+      "related": [
+        "horse-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "낙타 꿈",
+        "낙타 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "camel dream meaning"
+      ]
+    },
+    {
+      "id": "animal-cheetah",
+      "korean": "치타 꿈",
+      "english": "Dream of a cheetah",
+      "slug": "cheetah-dream",
+      "koreanSlug": "chita-kkum",
+      "category": "animals",
+      "subcategory": "wild",
+      "subcategoryKorean": "야생",
+      "related": [
+        "lion-general",
+        "tiger-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "치타 꿈",
+        "치타 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "cheetah dream meaning"
+      ]
+    },
+    {
+      "id": "animal-gorilla",
+      "korean": "고릴라 꿈",
+      "english": "Dream of a gorilla",
+      "slug": "gorilla-dream",
+      "koreanSlug": "gorilla-kkum",
+      "category": "animals",
+      "subcategory": "wild",
+      "subcategoryKorean": "야생",
+      "related": [
+        "monkey-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "고릴라 꿈",
+        "고릴라 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "gorilla dream meaning"
+      ]
+    },
+    {
+      "id": "animal-panda",
+      "korean": "판다 꿈",
+      "english": "Dream of a panda",
+      "slug": "panda-dream",
+      "koreanSlug": "panda-kkum",
+      "category": "animals",
+      "subcategory": "wild",
+      "subcategoryKorean": "야생",
+      "related": [
+        "bear-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "판다 꿈",
+        "판다 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "panda dream meaning"
+      ]
+    },
+    {
+      "id": "animal-penguin",
+      "korean": "펭귄 꿈",
+      "english": "Dream of a penguin",
+      "slug": "penguin-dream",
+      "koreanSlug": "pengwin-kkum",
+      "category": "animals",
+      "subcategory": "bird",
+      "subcategoryKorean": "새",
+      "related": [
+        "bird-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "펭귄 꿈",
+        "펭귄 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "penguin dream meaning"
+      ]
+    },
+    {
+      "id": "animal-koala",
+      "korean": "코알라 꿈",
+      "english": "Dream of a koala",
+      "slug": "koala-dream",
+      "koreanSlug": "koalla-kkum",
+      "category": "animals",
+      "subcategory": "wild",
+      "subcategoryKorean": "야생",
+      "related": [
+        "bear-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "코알라 꿈",
+        "코알라 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "koala dream meaning"
+      ]
+    },
+    {
+      "id": "animal-hippo",
+      "korean": "하마 꿈",
+      "english": "Dream of a hippopotamus",
+      "slug": "hippo-dream",
+      "koreanSlug": "hama-kkum",
+      "category": "animals",
+      "subcategory": "wild",
+      "subcategoryKorean": "야생",
+      "related": [
+        "elephant-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "하마 꿈",
+        "하마 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "hippo dream meaning"
+      ]
+    },
+    {
+      "id": "animal-rhino",
+      "korean": "코뿔소 꿈",
+      "english": "Dream of a rhinoceros",
+      "slug": "rhino-dream",
+      "koreanSlug": "koppulso-kkum",
+      "category": "animals",
+      "subcategory": "wild",
+      "subcategoryKorean": "야생",
+      "related": [
+        "elephant-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "코뿔소 꿈",
+        "코뿔소 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "rhinoceros dream meaning"
+      ]
+    },
+    {
+      "id": "animal-kangaroo",
+      "korean": "캥거루 꿈",
+      "english": "Dream of a kangaroo",
+      "slug": "kangaroo-dream",
+      "koreanSlug": "kaenggeoru-kkum",
+      "category": "animals",
+      "subcategory": "wild",
+      "subcategoryKorean": "야생",
+      "related": [],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "캥거루 꿈",
+        "캥거루 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "kangaroo dream meaning"
+      ]
+    },
+    {
+      "id": "animal-zebra",
+      "korean": "얼룩말 꿈",
+      "english": "Dream of a zebra",
+      "slug": "zebra-dream",
+      "koreanSlug": "eollungmal-kkum",
+      "category": "animals",
+      "subcategory": "wild",
+      "subcategoryKorean": "야생",
+      "related": [
+        "horse-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "얼룩말 꿈",
+        "얼룩말 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "zebra dream meaning"
+      ]
+    },
+    {
+      "id": "animal-giraffe",
+      "korean": "기린 꿈",
+      "english": "Dream of a giraffe",
+      "slug": "giraffe-dream",
+      "koreanSlug": "girin-kkum",
+      "category": "animals",
+      "subcategory": "wild",
+      "subcategoryKorean": "야생",
+      "related": [],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "기린 꿈",
+        "기린 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "giraffe dream meaning"
+      ]
+    },
+    {
+      "id": "animal-otter",
+      "korean": "수달 꿈",
+      "english": "Dream of an otter",
+      "slug": "otter-dream",
+      "koreanSlug": "sudal-kkum",
+      "category": "animals",
+      "subcategory": "wild",
+      "subcategoryKorean": "야생",
+      "related": [
+        "water-river"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "수달 꿈",
+        "수달 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "otter dream meaning"
+      ]
+    },
+    {
+      "id": "animal-stork",
+      "korean": "황새 꿈",
+      "english": "Dream of a stork",
+      "slug": "stork-dream",
+      "koreanSlug": "hwangsae-kkum",
+      "category": "animals",
+      "subcategory": "bird",
+      "subcategoryKorean": "새",
+      "related": [
+        "bird-general",
+        "bird-crane"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "황새 꿈",
+        "황새 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "stork dream meaning"
+      ]
+    },
+    {
+      "id": "animal-jellyfish",
+      "korean": "해파리 꿈",
+      "english": "Dream of a jellyfish",
+      "slug": "jellyfish-dream",
+      "koreanSlug": "haepari-kkum",
+      "category": "animals",
+      "subcategory": "sea",
+      "subcategoryKorean": "바다동물",
+      "related": [
+        "fish-general",
+        "water-ocean"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "해파리 꿈",
+        "해파리 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "jellyfish dream meaning"
+      ]
+    },
+    {
+      "id": "animal-starfish",
+      "korean": "불가사리 꿈",
+      "english": "Dream of a starfish",
+      "slug": "starfish-dream",
+      "koreanSlug": "bulgasari-kkum",
+      "category": "animals",
+      "subcategory": "sea",
+      "subcategoryKorean": "바다동물",
+      "related": [
+        "fish-general",
+        "water-ocean"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "불가사리 꿈",
+        "불가사리 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "starfish dream meaning"
+      ]
+    },
+    {
+      "id": "animal-seahorse",
+      "korean": "해마 꿈",
+      "english": "Dream of a seahorse",
+      "slug": "seahorse-dream",
+      "koreanSlug": "haema-kkum",
+      "category": "animals",
+      "subcategory": "sea",
+      "subcategoryKorean": "바다동물",
+      "related": [
+        "fish-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "해마 꿈",
+        "해마 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "seahorse dream meaning"
+      ]
+    },
+    {
+      "id": "animal-seal",
+      "korean": "물개 꿈",
+      "english": "Dream of a seal",
+      "slug": "seal-dream",
+      "koreanSlug": "mulgae-kkum",
+      "category": "animals",
+      "subcategory": "sea",
+      "subcategoryKorean": "바다동물",
+      "related": [
+        "water-ocean"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "물개 꿈",
+        "물개 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "seal dream meaning"
+      ]
+    },
+    {
+      "id": "animal-lobster",
+      "korean": "바닷가재 꿈",
+      "english": "Dream of a lobster",
+      "slug": "lobster-dream",
+      "koreanSlug": "badatgajae-kkum",
+      "category": "animals",
+      "subcategory": "sea",
+      "subcategoryKorean": "바다동물",
+      "related": [
+        "fish-crab"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "바닷가재 꿈",
+        "바닷가재 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "lobster dream meaning"
+      ]
+    },
+    {
+      "id": "animal-clam",
+      "korean": "조개 꿈",
+      "english": "Dream of clams",
+      "slug": "clam-dream",
+      "koreanSlug": "jogae-kkum",
+      "category": "animals",
+      "subcategory": "sea",
+      "subcategoryKorean": "바다동물",
+      "related": [
+        "water-ocean",
+        "money-pearl"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "조개 꿈",
+        "조개 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "clam dream meaning"
+      ]
+    },
+    {
+      "id": "animal-snake-egg",
+      "korean": "뱀 알 꿈",
+      "english": "Dream of snake eggs",
+      "slug": "snake-eggs-dream",
+      "koreanSlug": "baem-al-kkum",
+      "category": "animals",
+      "subcategory": "snake",
+      "subcategoryKorean": "뱀",
+      "related": [
+        "snake-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "뱀 알 꿈",
+        "뱀 알 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "snake eggs dream meaning"
+      ]
+    },
+    {
+      "id": "animal-dog-friendly",
+      "korean": "강아지가 반기는 꿈",
+      "english": "Dream of a dog greeting you",
+      "slug": "dog-greeting-dream",
+      "koreanSlug": "gangaji-bangineun-kkum",
+      "category": "animals",
+      "subcategory": "dog",
+      "subcategoryKorean": "개",
+      "related": [
+        "dog-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "강아지 반기는 꿈",
+        "강아지 반기는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "dog greeting dream meaning"
+      ]
+    },
+    {
+      "id": "animal-dog-poop",
+      "korean": "강아지 똥 꿈",
+      "english": "Dream of dog poop",
+      "slug": "dog-poop-dream",
+      "koreanSlug": "gangaji-ttong-kkum",
+      "category": "animals",
+      "subcategory": "dog",
+      "subcategoryKorean": "개",
+      "related": [
+        "dog-general",
+        "poop-general"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "강아지 똥 꿈",
+        "강아지 똥 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "dog poop dream meaning"
+      ]
+    },
+    {
+      "id": "animal-cat-stray",
+      "korean": "길고양이 꿈",
+      "english": "Dream of a stray cat",
+      "slug": "stray-cat-dream",
+      "koreanSlug": "gilgoyangi-kkum",
+      "category": "animals",
+      "subcategory": "cat",
+      "subcategoryKorean": "고양이",
+      "related": [
+        "cat-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "길고양이 꿈",
+        "길고양이 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "stray cat dream meaning"
+      ]
+    },
+    {
+      "id": "animal-horse-running",
+      "korean": "말이 달리는 꿈",
+      "english": "Dream of a horse running",
+      "slug": "horse-running-dream",
+      "koreanSlug": "mal-dallineun-kkum",
+      "category": "animals",
+      "subcategory": "horse",
+      "subcategoryKorean": "말",
+      "related": [
+        "horse-general",
+        "horse-riding"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "말 달리는 꿈",
+        "말 달리는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "horse running dream meaning"
+      ]
+    },
+    {
+      "id": "animal-tiger-baby",
+      "korean": "아기 호랑이 꿈",
+      "english": "Dream of a baby tiger",
+      "slug": "baby-tiger-dream",
+      "koreanSlug": "agi-horangi-kkum",
+      "category": "animals",
+      "subcategory": "tiger",
+      "subcategoryKorean": "호랑이",
+      "related": [
+        "tiger-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "아기 호랑이 꿈",
+        "아기 호랑이 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "baby tiger dream meaning"
+      ]
+    },
+    {
+      "id": "animal-lion-roar",
+      "korean": "사자가 포효하는 꿈",
+      "english": "Dream of a lion roaring",
+      "slug": "lion-roaring-dream",
+      "koreanSlug": "saja-pohyo-kkum",
+      "category": "animals",
+      "subcategory": "wild",
+      "subcategoryKorean": "야생",
+      "related": [
+        "lion-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "사자 포효 꿈",
+        "사자 울음 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "lion roaring dream meaning"
+      ]
+    },
+    {
+      "id": "animal-bear-attack",
+      "korean": "곰에게 공격당하는 꿈",
+      "english": "Dream of bear attacking",
+      "slug": "bear-attack-dream",
+      "koreanSlug": "gom-gonggyeok-kkum",
+      "category": "animals",
+      "subcategory": "wild",
+      "subcategoryKorean": "야생",
+      "related": [
+        "bear-general",
+        "action-chased-animal"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "곰 공격 꿈",
+        "곰 공격 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "bear attack dream meaning"
+      ]
+    },
+    {
+      "id": "animal-wolf-howl",
+      "korean": "늑대가 울부짖는 꿈",
+      "english": "Dream of a wolf howling",
+      "slug": "wolf-howling-dream",
+      "koreanSlug": "neukdae-ulbu-jitneun-kkum",
+      "category": "animals",
+      "subcategory": "wild",
+      "subcategoryKorean": "야생",
+      "related": [
+        "wolf-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "늑대 울음 꿈",
+        "늑대 울부짖는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "wolf howling dream meaning"
+      ]
+    },
+    {
+      "id": "animal-unicorn",
+      "korean": "유니콘 꿈",
+      "english": "Dream of a unicorn",
+      "slug": "unicorn-dream",
+      "koreanSlug": "yunikon-kkum",
+      "category": "animals",
+      "subcategory": "mythical",
+      "subcategoryKorean": "신화",
+      "related": [
+        "horse-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "유니콘 꿈",
+        "유니콘 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "unicorn dream meaning"
+      ]
+    },
+    {
+      "id": "animal-salmon",
+      "korean": "연어 꿈",
+      "english": "Dream of salmon",
+      "slug": "salmon-dream",
+      "koreanSlug": "yeoneo-kkum",
+      "category": "animals",
+      "subcategory": "fish",
+      "subcategoryKorean": "물고기",
+      "related": [
+        "fish-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "연어 꿈",
+        "연어 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "salmon dream meaning"
+      ]
+    },
+    {
+      "id": "animal-dog-stray",
+      "korean": "떠돌이 개 꿈",
+      "english": "Dream of a stray dog",
+      "slug": "stray-dog-dream",
+      "koreanSlug": "tteodori-gae-kkum",
+      "category": "animals",
+      "subcategory": "dog",
+      "subcategoryKorean": "개",
+      "related": [
+        "dog-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "떠돌이 개 꿈",
+        "떠돌이 개 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "stray dog dream meaning"
+      ]
+    },
+    {
+      "id": "animal-flamingo",
+      "korean": "플라밍고 꿈",
+      "english": "Dream of a flamingo",
+      "slug": "flamingo-dream",
+      "koreanSlug": "peullaminggo-kkum",
+      "category": "animals",
+      "subcategory": "bird",
+      "subcategoryKorean": "새",
+      "related": [
+        "animal-swan",
+        "animal-peacock"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "플라밍고 꿈",
+        "플라밍고 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "flamingo dream meaning"
+      ]
+    },
+    {
+      "id": "animal-chameleon",
+      "korean": "카멜레온 꿈",
+      "english": "Dream of a chameleon",
+      "slug": "chameleon-dream",
+      "koreanSlug": "kamelleon-kkum",
+      "category": "animals",
+      "subcategory": "reptile",
+      "subcategoryKorean": "파충류",
+      "related": [
+        "animal-lizard",
+        "animal-iguana"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "카멜레온 꿈",
+        "카멜레온 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "chameleon dream meaning"
+      ]
+    },
+    {
+      "id": "animal-hedgehog",
+      "korean": "고슴도치 꿈",
+      "english": "Dream of a hedgehog",
+      "slug": "hedgehog-dream",
+      "koreanSlug": "goseumdochi-kkum",
+      "category": "animals",
+      "subcategory": "mammal",
+      "subcategoryKorean": "포유류",
+      "related": [
+        "animal-hamster",
+        "animal-rabbit"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "고슴도치 꿈",
+        "고슴도치 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "hedgehog dream meaning"
+      ]
+    },
+    {
+      "id": "animal-mole",
+      "korean": "두더지 꿈",
+      "english": "Dream of a mole",
+      "slug": "mole-dream",
+      "koreanSlug": "dudeoji-kkum",
+      "category": "animals",
+      "subcategory": "mammal",
+      "subcategoryKorean": "포유류",
+      "related": [
+        "animal-mouse",
+        "animal-hamster"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "두더지 꿈",
+        "두더지 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "mole dream meaning"
+      ]
+    },
+    {
+      "id": "animal-raccoon",
+      "korean": "너구리 꿈",
+      "english": "Dream of a raccoon",
+      "slug": "raccoon-dream",
+      "koreanSlug": "neoguri-kkum",
+      "category": "animals",
+      "subcategory": "mammal",
+      "subcategoryKorean": "포유류",
+      "related": [
+        "animal-fox",
+        "animal-tanuki"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "너구리 꿈",
+        "너구리 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "raccoon dream meaning"
+      ]
+    },
+    {
+      "id": "animal-squirrel",
+      "korean": "다람쥐 꿈",
+      "english": "Dream of a squirrel",
+      "slug": "squirrel-dream",
+      "koreanSlug": "daramjwi-kkum",
+      "category": "animals",
+      "subcategory": "mammal",
+      "subcategoryKorean": "포유류",
+      "related": [
+        "animal-hamster",
+        "animal-mouse"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "다람쥐 꿈",
+        "다람쥐 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "squirrel dream meaning"
+      ]
+    },
+    {
+      "id": "animal-weasel",
+      "korean": "족제비 꿈",
+      "english": "Dream of a weasel",
+      "slug": "weasel-dream",
+      "koreanSlug": "jokjebi-kkum",
+      "category": "animals",
+      "subcategory": "mammal",
+      "subcategoryKorean": "포유류",
+      "related": [
+        "animal-fox",
+        "animal-raccoon"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "족제비 꿈",
+        "족제비 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "weasel dream meaning"
+      ]
+    },
+    {
+      "id": "animal-whale-blue",
+      "korean": "대왕고래 꿈",
+      "english": "Dream of a blue whale",
+      "slug": "blue-whale-dream",
+      "koreanSlug": "daewanggorae-kkum",
+      "category": "animals",
+      "subcategory": "marine",
+      "subcategoryKorean": "해양동물",
+      "related": [
+        "animal-whale",
+        "animal-dolphin"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "대왕고래 꿈",
+        "대왕고래 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "blue whale dream meaning"
+      ]
+    },
+    {
+      "id": "animal-dog-dead",
+      "korean": "개가 죽는 꿈",
+      "english": "Dream of a dog dying",
+      "slug": "dog-dying-dream",
+      "koreanSlug": "gae-jungneun-kkum",
+      "category": "animals",
+      "subcategory": "dog",
+      "subcategoryKorean": "개",
+      "related": [
+        "dog-general",
+        "death-animal"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "개 죽는 꿈",
+        "강아지 죽는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "dog dying dream meaning"
+      ]
+    },
+    {
+      "id": "animal-rooster",
+      "korean": "수탉 꿈",
+      "english": "Dream of a rooster",
+      "slug": "rooster-dream",
+      "koreanSlug": "sutak-kkum",
+      "category": "animals",
+      "subcategory": "bird",
+      "subcategoryKorean": "새",
+      "related": [
+        "chicken-general",
+        "animal-hen"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "수탉 꿈",
+        "수탉 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "rooster dream meaning"
+      ]
+    },
+    {
+      "id": "animal-hen",
+      "korean": "암탉 꿈",
+      "english": "Dream of a hen",
+      "slug": "hen-dream",
+      "koreanSlug": "amtak-kkum",
+      "category": "animals",
+      "subcategory": "bird",
+      "subcategoryKorean": "새",
+      "related": [
+        "chicken-general",
+        "animal-rooster"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "암탉 꿈",
+        "암탉 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "hen dream meaning"
+      ]
+    },
+    {
+      "id": "animal-chimpanzee",
+      "korean": "침팬지 꿈",
+      "english": "Dream of a chimpanzee",
+      "slug": "chimpanzee-dream",
+      "koreanSlug": "chimpanji-kkum",
+      "category": "animals",
+      "subcategory": "mammal",
+      "subcategoryKorean": "포유류",
+      "related": [
+        "animal-monkey",
+        "animal-gorilla"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "침팬지 꿈",
+        "침팬지 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "chimpanzee dream meaning"
+      ]
+    }
   ]
 }

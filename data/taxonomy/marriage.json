@@ -3,53 +3,933 @@
   "korean": "결혼/연애",
   "english": "Marriage & Love",
   "symbols": [
-    {"id":"marriage-general","korean":"결혼 꿈","english":"Dream of marriage","slug":"marriage-dream","koreanSlug":"gyeolhon-kkum","category":"marriage","subcategory":"wedding","subcategoryKorean":"결혼","related":["marriage-wedding","marriage-ring","marriage-dress"],"searchTier":"high","naverKeywords":["결혼 꿈","결혼 꿈 해몽","결혼꿈 의미"],"googleKeywords":["marriage dream meaning","wedding dream meaning"]},
-    {"id":"marriage-wedding","korean":"결혼식 꿈","english":"Dream of a wedding ceremony","slug":"wedding-ceremony-dream","koreanSlug":"gyeolhonsik-kkum","category":"marriage","subcategory":"wedding","subcategoryKorean":"결혼","related":["marriage-general","marriage-dress"],"searchTier":"high","naverKeywords":["결혼식 꿈","결혼식 꿈 해몽"],"googleKeywords":["wedding ceremony dream meaning"]},
-    {"id":"marriage-ring","korean":"결혼반지 꿈","english":"Dream of a wedding ring","slug":"wedding-ring-dream","koreanSlug":"gyeolhon-banji-kkum","category":"marriage","subcategory":"wedding","subcategoryKorean":"결혼","related":["marriage-general","money-ring"],"searchTier":"medium","naverKeywords":["결혼반지 꿈","결혼반지 꿈 해몽"],"googleKeywords":["wedding ring dream meaning"]},
-    {"id":"marriage-dress","korean":"웨딩드레스 꿈","english":"Dream of a wedding dress","slug":"wedding-dress-dream","koreanSlug":"weding-deureseu-kkum","category":"marriage","subcategory":"wedding","subcategoryKorean":"결혼","related":["marriage-general","marriage-wedding"],"searchTier":"medium","naverKeywords":["웨딩드레스 꿈","웨딩드레스 꿈 해몽"],"googleKeywords":["wedding dress dream meaning"]},
-    {"id":"marriage-proposal","korean":"프로포즈 꿈","english":"Dream of a proposal","slug":"proposal-dream","koreanSlug":"peuropojeu-kkum","category":"marriage","subcategory":"romance","subcategoryKorean":"연애","related":["marriage-general","marriage-ring"],"searchTier":"medium","naverKeywords":["프로포즈 꿈","프로포즈 꿈 해몽","청혼 꿈"],"googleKeywords":["proposal dream meaning"]},
-    {"id":"marriage-dating","korean":"연애하는 꿈","english":"Dream of dating","slug":"dating-dream","koreanSlug":"yeonae-haneun-kkum","category":"marriage","subcategory":"romance","subcategoryKorean":"연애","related":["people-crush","action-kissing"],"searchTier":"medium","naverKeywords":["연애하는 꿈","연애 꿈 해몽"],"googleKeywords":["dating dream meaning"]},
-    {"id":"marriage-breakup","korean":"이별 꿈","english":"Dream of a breakup","slug":"breakup-dream","koreanSlug":"ibyeol-kkum","category":"marriage","subcategory":"breakup","subcategoryKorean":"이별","related":["people-ex","marriage-divorce"],"searchTier":"medium","naverKeywords":["이별 꿈","이별 꿈 해몽","헤어지는 꿈"],"googleKeywords":["breakup dream meaning"]},
-    {"id":"marriage-divorce","korean":"이혼 꿈","english":"Dream of divorce","slug":"divorce-dream","koreanSlug":"ihon-kkum","category":"marriage","subcategory":"breakup","subcategoryKorean":"이별","related":["marriage-breakup","marriage-general"],"searchTier":"medium","naverKeywords":["이혼 꿈","이혼 꿈 해몽"],"googleKeywords":["divorce dream meaning"]},
-    {"id":"marriage-affair","korean":"바람피우는 꿈","english":"Dream of an affair","slug":"affair-dream","koreanSlug":"baram-piuneun-kkum","category":"marriage","subcategory":"infidelity","subcategoryKorean":"외도","related":["marriage-general","people-spouse"],"searchTier":"high","naverKeywords":["바람피우는 꿈","바람 꿈 해몽","외도 꿈"],"googleKeywords":["affair dream meaning","cheating dream meaning"]},
-    {"id":"marriage-spouse-affair","korean":"배우자가 바람피우는 꿈","english":"Dream of spouse cheating","slug":"spouse-cheating-dream","koreanSlug":"baeuja-baram-kkum","category":"marriage","subcategory":"infidelity","subcategoryKorean":"외도","related":["marriage-affair","people-spouse"],"searchTier":"high","naverKeywords":["배우자 바람 꿈","남편 바람 꿈 해몽","아내 바람 꿈"],"googleKeywords":["spouse cheating dream meaning"]},
-    {"id":"marriage-confession","korean":"고백하는 꿈","english":"Dream of confessing love","slug":"love-confession-dream","koreanSlug":"gobaek-haneun-kkum","category":"marriage","subcategory":"romance","subcategoryKorean":"연애","related":["people-crush","marriage-dating"],"searchTier":"medium","naverKeywords":["고백하는 꿈","고백 꿈 해몽"],"googleKeywords":["love confession dream meaning"]},
-    {"id":"marriage-honeymoon","korean":"신혼여행 꿈","english":"Dream of a honeymoon","slug":"honeymoon-dream","koreanSlug":"sinhon-yeohaeng-kkum","category":"marriage","subcategory":"wedding","subcategoryKorean":"결혼","related":["marriage-wedding","action-traveling"],"searchTier":"longtail","naverKeywords":["신혼여행 꿈","신혼여행 꿈 해몽"],"googleKeywords":["honeymoon dream meaning"]},
-    {"id":"marriage-bouquet","korean":"부케 받는 꿈","english":"Dream of catching a bouquet","slug":"catching-bouquet-dream","koreanSlug":"buke-banneun-kkum","category":"marriage","subcategory":"wedding","subcategoryKorean":"결혼","related":["marriage-wedding"],"searchTier":"longtail","naverKeywords":["부케 받는 꿈","부케 꿈 해몽"],"googleKeywords":["catching bouquet dream meaning"]},
-    {"id":"marriage-love-letter","korean":"러브레터 꿈","english":"Dream of a love letter","slug":"love-letter-dream","koreanSlug":"reobeureteo-kkum","category":"marriage","subcategory":"romance","subcategoryKorean":"연애","related":["people-crush","marriage-confession"],"searchTier":"longtail","naverKeywords":["러브레터 꿈","연애편지 꿈 해몽"],"googleKeywords":["love letter dream meaning"]},
-    {"id":"marriage-jealousy","korean":"질투하는 꿈","english":"Dream of jealousy","slug":"jealousy-dream","koreanSlug":"jiltu-haneun-kkum","category":"marriage","subcategory":"emotion","subcategoryKorean":"감정","related":["marriage-affair","emotion-angry"],"searchTier":"longtail","naverKeywords":["질투하는 꿈","질투 꿈 해몽"],"googleKeywords":["jealousy dream meaning"]},
-    {"id":"marriage-reunite","korean":"재회하는 꿈","english":"Dream of reuniting with ex","slug":"reuniting-ex-dream","koreanSlug":"jaehoe-haneun-kkum","category":"marriage","subcategory":"breakup","subcategoryKorean":"이별","related":["people-ex","marriage-breakup"],"searchTier":"medium","naverKeywords":["재회하는 꿈","재회 꿈 해몽"],"googleKeywords":["reuniting with ex dream meaning"]},
-    {"id":"marriage-engagement","korean":"약혼 꿈","english":"Dream of engagement","slug":"engagement-dream","koreanSlug":"yakhon-kkum","category":"marriage","subcategory":"wedding","subcategoryKorean":"결혼","related":["marriage-proposal","marriage-ring"],"searchTier":"longtail","naverKeywords":["약혼 꿈","약혼 꿈 해몽"],"googleKeywords":["engagement dream meaning"]},
-    {"id":"marriage-wedding-cancel","korean":"결혼식이 취소되는 꿈","english":"Dream of wedding being cancelled","slug":"wedding-cancelled-dream","koreanSlug":"gyeolhonsik-chwiso-kkum","category":"marriage","subcategory":"wedding","subcategoryKorean":"결혼","related":["marriage-wedding","marriage-breakup"],"searchTier":"longtail","naverKeywords":["결혼식 취소 꿈","결혼식 취소 꿈 해몽"],"googleKeywords":["wedding cancelled dream meaning"]},
-    {"id":"marriage-wedding-late","korean":"결혼식에 늦는 꿈","english":"Dream of being late to wedding","slug":"late-to-wedding-dream","koreanSlug":"gyeolhonsik-neunneun-kkum","category":"marriage","subcategory":"wedding","subcategoryKorean":"결혼","related":["marriage-wedding","action-late-school"],"searchTier":"longtail","naverKeywords":["결혼식 늦는 꿈","결혼식 늦는 꿈 해몽"],"googleKeywords":["late to wedding dream meaning"]},
-    {"id":"marriage-veil","korean":"면사포 꿈","english":"Dream of a wedding veil","slug":"wedding-veil-dream","koreanSlug":"myeonsapo-kkum","category":"marriage","subcategory":"wedding","subcategoryKorean":"결혼","related":["marriage-dress","marriage-wedding"],"searchTier":"longtail","naverKeywords":["면사포 꿈","면사포 꿈 해몽"],"googleKeywords":["wedding veil dream meaning"]},
-    {"id":"marriage-first-love","korean":"첫사랑 꿈","english":"Dream of first love","slug":"first-love-dream","koreanSlug":"cheot-sarang-kkum","category":"marriage","subcategory":"romance","subcategoryKorean":"연애","related":["people-ex","emotion-nostalgia"],"searchTier":"high","naverKeywords":["첫사랑 꿈","첫사랑 꿈 해몽"],"googleKeywords":["first love dream meaning"]},
-    {"id":"marriage-blind-date","korean":"소개팅 꿈","english":"Dream of a blind date","slug":"blind-date-dream","koreanSlug":"sogaeting-kkum","category":"marriage","subcategory":"romance","subcategoryKorean":"연애","related":["marriage-dating","people-stranger"],"searchTier":"longtail","naverKeywords":["소개팅 꿈","소개팅 꿈 해몽"],"googleKeywords":["blind date dream meaning"]},
-    {"id":"marriage-love-triangle","korean":"삼각관계 꿈","english":"Dream of love triangle","slug":"love-triangle-dream","koreanSlug":"samgak-gwangye-kkum","category":"marriage","subcategory":"infidelity","subcategoryKorean":"외도","related":["marriage-affair","emotion-jealous"],"searchTier":"longtail","naverKeywords":["삼각관계 꿈","삼각관계 꿈 해몽"],"googleKeywords":["love triangle dream meaning"]},
-    {"id":"marriage-reconcile","korean":"화해하는 꿈","english":"Dream of reconciliation","slug":"reconciliation-dream","koreanSlug":"hwahae-haneun-kkum","category":"marriage","subcategory":"emotion","subcategoryKorean":"감정","related":["marriage-breakup","emotion-relief"],"searchTier":"longtail","naverKeywords":["화해 꿈","화해 꿈 해몽"],"googleKeywords":["reconciliation dream meaning"]},
-    {"id":"marriage-anniversary","korean":"결혼기념일 꿈","english":"Dream of wedding anniversary","slug":"wedding-anniversary-dream","koreanSlug":"gyeolhon-ginyeomil-kkum","category":"marriage","subcategory":"wedding","subcategoryKorean":"결혼","related":["marriage-general","people-spouse"],"searchTier":"longtail","naverKeywords":["결혼기념일 꿈","결혼기념일 꿈 해몽"],"googleKeywords":["wedding anniversary dream meaning"]},
-    {"id":"marriage-holding-hands","korean":"연인과 손잡는 꿈","english":"Dream of holding hands with lover","slug":"holding-hands-lover-dream","koreanSlug":"yeonin-son-jamneun-kkum","category":"marriage","subcategory":"romance","subcategoryKorean":"연애","related":["hand-hold","marriage-dating"],"searchTier":"longtail","naverKeywords":["연인 손잡는 꿈","연인 손잡는 꿈 해몽"],"googleKeywords":["holding hands lover dream meaning"]},
-    {"id":"marriage-crying-breakup","korean":"이별하고 우는 꿈","english":"Dream of crying over breakup","slug":"crying-breakup-dream","koreanSlug":"ibyeol-uneun-kkum","category":"marriage","subcategory":"breakup","subcategoryKorean":"이별","related":["marriage-breakup","action-crying"],"searchTier":"longtail","naverKeywords":["이별 우는 꿈","이별 울음 꿈 해몽"],"googleKeywords":["crying over breakup dream meaning"]},
-    {"id":"marriage-wedding-photo","korean":"웨딩 사진 꿈","english":"Dream of wedding photos","slug":"wedding-photos-dream","koreanSlug":"weding-sajin-kkum","category":"marriage","subcategory":"wedding","subcategoryKorean":"결혼","related":["marriage-wedding"],"searchTier":"longtail","naverKeywords":["웨딩 사진 꿈","웨딩 사진 꿈 해몽"],"googleKeywords":["wedding photos dream meaning"]},
-    {"id":"marriage-secret-relationship","korean":"몰래 만나는 꿈","english":"Dream of a secret relationship","slug":"secret-relationship-dream","koreanSlug":"mollae-mannaneun-kkum","category":"marriage","subcategory":"infidelity","subcategoryKorean":"외도","related":["marriage-affair","emotion-guilt"],"searchTier":"longtail","naverKeywords":["몰래 만나는 꿈","비밀 연애 꿈 해몽"],"googleKeywords":["secret relationship dream meaning"]},
-    {"id":"marriage-love-letter","korean":"러브레터 꿈","english":"Dream of a love letter","slug":"love-letter-dream","koreanSlug":"reobeuleteo-kkum","category":"marriage","subcategory":"romance","subcategoryKorean":"연애","related":["marriage-dating","object-letter"],"searchTier":"longtail","naverKeywords":["러브레터 꿈","연애편지 꿈 해몽"],"googleKeywords":["love letter dream meaning"]},
-    {"id":"marriage-jealousy","korean":"연인이 질투하는 꿈","english":"Dream of partner being jealous","slug":"partner-jealous-dream","koreanSlug":"yeonin-jiltu-kkum","category":"marriage","subcategory":"emotion","subcategoryKorean":"감정","related":["emotion-jealous","marriage-general"],"searchTier":"longtail","naverKeywords":["연인 질투 꿈","질투 꿈 해몽"],"googleKeywords":["partner jealous dream meaning"]},
-    {"id":"marriage-honeymoon","korean":"신혼여행 꿈","english":"Dream of a honeymoon","slug":"honeymoon-dream","koreanSlug":"sinhon-yeohaeng-kkum","category":"marriage","subcategory":"wedding","subcategoryKorean":"결혼","related":["marriage-wedding","action-traveling"],"searchTier":"longtail","naverKeywords":["신혼여행 꿈","신혼여행 꿈 해몽"],"googleKeywords":["honeymoon dream meaning"]},
-    {"id":"marriage-confess-love","korean":"고백하는 꿈","english":"Dream of confessing love","slug":"confessing-love-dream","koreanSlug":"gobaek-haneun-kkum","category":"marriage","subcategory":"romance","subcategoryKorean":"연애","related":["marriage-dating","emotion-love-intense"],"searchTier":"medium","naverKeywords":["고백 꿈","고백하는 꿈 해몽"],"googleKeywords":["confessing love dream meaning"]},
-    {"id":"marriage-rejection","korean":"거절당하는 꿈","english":"Dream of romantic rejection","slug":"romantic-rejection-dream","koreanSlug":"geojeol-danghaneun-kkum","category":"marriage","subcategory":"breakup","subcategoryKorean":"이별","related":["marriage-breakup","emotion-sad"],"searchTier":"longtail","naverKeywords":["거절당하는 꿈","거절 꿈 해몽"],"googleKeywords":["romantic rejection dream meaning"]},
-    {"id":"marriage-wedding-invitation","korean":"청첩장 꿈","english":"Dream of a wedding invitation","slug":"wedding-invitation-dream","koreanSlug":"cheongcheopjang-kkum","category":"marriage","subcategory":"wedding","subcategoryKorean":"결혼","related":["marriage-wedding"],"searchTier":"longtail","naverKeywords":["청첩장 꿈","청첩장 꿈 해몽"],"googleKeywords":["wedding invitation dream meaning"]},
-    {"id":"marriage-divorce-sign","korean":"이혼 서류 꿈","english":"Dream of divorce papers","slug":"divorce-papers-dream","koreanSlug":"ihon-seoryu-kkum","category":"marriage","subcategory":"divorce","subcategoryKorean":"이혼","related":["marriage-divorce"],"searchTier":"longtail","naverKeywords":["이혼 서류 꿈","이혼 서류 꿈 해몽"],"googleKeywords":["divorce papers dream meaning"]},
-    {"id":"marriage-couple-fight","korean":"연인과 싸우는 꿈","english":"Dream of fighting with partner","slug":"fighting-partner-dream","koreanSlug":"yeonin-ssauneun-kkum","category":"marriage","subcategory":"conflict","subcategoryKorean":"갈등","related":["action-fighting","marriage-general"],"searchTier":"medium","naverKeywords":["연인 싸우는 꿈","연인 싸움 꿈 해몽"],"googleKeywords":["fighting with partner dream meaning"]},
-    {"id":"marriage-long-distance","korean":"장거리 연애 꿈","english":"Dream of long distance relationship","slug":"long-distance-dream","koreanSlug":"janggeori-yeonae-kkum","category":"marriage","subcategory":"romance","subcategoryKorean":"연애","related":["marriage-dating","emotion-lonely"],"searchTier":"longtail","naverKeywords":["장거리 연애 꿈","장거리 꿈 해몽"],"googleKeywords":["long distance relationship dream meaning"]},
-    {"id":"marriage-ex-wedding","korean":"전 애인이 결혼하는 꿈","english":"Dream of ex getting married","slug":"ex-getting-married-dream","koreanSlug":"jeon-aein-gyeolhon-kkum","category":"marriage","subcategory":"ex","subcategoryKorean":"전 애인","related":["people-ex","marriage-wedding"],"searchTier":"medium","naverKeywords":["전 애인 결혼 꿈","전남친 결혼 꿈 해몽"],"googleKeywords":["ex getting married dream meaning"]},
-    {"id":"marriage-wedding-dress-buy","korean":"웨딩드레스 사는 꿈","english":"Dream of buying a wedding dress","slug":"buying-wedding-dress-dream","koreanSlug":"wedingdeureseu-saneun-kkum","category":"marriage","subcategory":"wedding","subcategoryKorean":"결혼","related":["marriage-dress","action-shopping"],"searchTier":"longtail","naverKeywords":["웨딩드레스 사는 꿈","웨딩드레스 사는 꿈 해몽"],"googleKeywords":["buying wedding dress dream meaning"]},
-    {"id":"marriage-hug-lover","korean":"연인과 포옹하는 꿈","english":"Dream of hugging lover","slug":"hugging-lover-dream","koreanSlug":"yeonin-poong-kkum","category":"marriage","subcategory":"romance","subcategoryKorean":"연애","related":["action-hugging","marriage-dating"],"searchTier":"longtail","naverKeywords":["연인 포옹 꿈","연인 안는 꿈 해몽"],"googleKeywords":["hugging lover dream meaning"]},
-    {"id":"marriage-bouquet-catch","korean":"부케를 잡는 꿈","english":"Dream of catching a bouquet","slug":"catching-bouquet-dream","koreanSlug":"buke-jamneun-kkum","category":"marriage","subcategory":"wedding","subcategoryKorean":"결혼","related":["marriage-wedding","plant-flower-bouquet"],"searchTier":"longtail","naverKeywords":["부케 잡는 꿈","부케 꿈 해몽"],"googleKeywords":["catching bouquet dream meaning"]},
-    {"id":"marriage-matchmaker","korean":"중매 꿈","english":"Dream of matchmaking","slug":"matchmaking-dream","koreanSlug":"jungmae-kkum","category":"marriage","subcategory":"romance","subcategoryKorean":"연애","related":["marriage-blind-date","marriage-general"],"searchTier":"longtail","naverKeywords":["중매 꿈","중매 꿈 해몽"],"googleKeywords":["matchmaking dream meaning"]},
-    {"id":"marriage-proposal","korean":"프로포즈 꿈","english":"Dream of a proposal","slug":"proposal-dream","koreanSlug":"peuropojeu-kkum","category":"marriage","subcategory":"wedding","subcategoryKorean":"결혼","related":["marriage-wedding","marriage-ring"],"searchTier":"medium","naverKeywords":["프로포즈 꿈","프로포즈 꿈 해몽"],"googleKeywords":["proposal dream meaning"]},
-    {"id":"marriage-anniversary","korean":"결혼기념일 꿈","english":"Dream of a wedding anniversary","slug":"wedding-anniversary-dream","koreanSlug":"gyeolhon-ginyeomil-kkum","category":"marriage","subcategory":"wedding","subcategoryKorean":"결혼","related":["marriage-wedding","emotion-happy"],"searchTier":"longtail","naverKeywords":["결혼기념일 꿈","결혼기념일 꿈 해몽"],"googleKeywords":["wedding anniversary dream meaning"]},
-    {"id":"marriage-engagement","korean":"약혼 꿈","english":"Dream of engagement","slug":"engagement-dream","koreanSlug":"yakhon-kkum","category":"marriage","subcategory":"wedding","subcategoryKorean":"결혼","related":["marriage-proposal","marriage-ring"],"searchTier":"longtail","naverKeywords":["약혼 꿈","약혼 꿈 해몽"],"googleKeywords":["engagement dream meaning"]},
-    {"id":"marriage-ex-boyfriend","korean":"전남친 꿈","english":"Dream of ex-boyfriend","slug":"ex-boyfriend-dream","koreanSlug":"jeonnamchin-kkum","category":"marriage","subcategory":"romance","subcategoryKorean":"연애","related":["people-ex","marriage-breakup"],"searchTier":"high","naverKeywords":["전남친 꿈","전남친 꿈 해몽"],"googleKeywords":["ex-boyfriend dream meaning"]},
-    {"id":"marriage-ex-girlfriend","korean":"전여친 꿈","english":"Dream of ex-girlfriend","slug":"ex-girlfriend-dream","koreanSlug":"jeonyeochin-kkum","category":"marriage","subcategory":"romance","subcategoryKorean":"연애","related":["people-ex","marriage-breakup"],"searchTier":"high","naverKeywords":["전여친 꿈","전여친 꿈 해몽"],"googleKeywords":["ex-girlfriend dream meaning"]}
+    {
+      "id": "marriage-general",
+      "korean": "결혼 꿈",
+      "english": "Dream of marriage",
+      "slug": "marriage-dream",
+      "koreanSlug": "gyeolhon-kkum",
+      "category": "marriage",
+      "subcategory": "wedding",
+      "subcategoryKorean": "결혼",
+      "related": [
+        "marriage-wedding",
+        "marriage-ring",
+        "marriage-dress"
+      ],
+      "searchTier": "high",
+      "naverKeywords": [
+        "결혼 꿈",
+        "결혼 꿈 해몽",
+        "결혼꿈 의미"
+      ],
+      "googleKeywords": [
+        "marriage dream meaning",
+        "wedding dream meaning"
+      ]
+    },
+    {
+      "id": "marriage-wedding",
+      "korean": "결혼식 꿈",
+      "english": "Dream of a wedding ceremony",
+      "slug": "wedding-ceremony-dream",
+      "koreanSlug": "gyeolhonsik-kkum",
+      "category": "marriage",
+      "subcategory": "wedding",
+      "subcategoryKorean": "결혼",
+      "related": [
+        "marriage-general",
+        "marriage-dress"
+      ],
+      "searchTier": "high",
+      "naverKeywords": [
+        "결혼식 꿈",
+        "결혼식 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "wedding ceremony dream meaning"
+      ]
+    },
+    {
+      "id": "marriage-ring",
+      "korean": "결혼반지 꿈",
+      "english": "Dream of a wedding ring",
+      "slug": "wedding-ring-dream",
+      "koreanSlug": "gyeolhon-banji-kkum",
+      "category": "marriage",
+      "subcategory": "wedding",
+      "subcategoryKorean": "결혼",
+      "related": [
+        "marriage-general",
+        "money-ring"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "결혼반지 꿈",
+        "결혼반지 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "wedding ring dream meaning"
+      ]
+    },
+    {
+      "id": "marriage-dress",
+      "korean": "웨딩드레스 꿈",
+      "english": "Dream of a wedding dress",
+      "slug": "wedding-dress-dream",
+      "koreanSlug": "weding-deureseu-kkum",
+      "category": "marriage",
+      "subcategory": "wedding",
+      "subcategoryKorean": "결혼",
+      "related": [
+        "marriage-general",
+        "marriage-wedding"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "웨딩드레스 꿈",
+        "웨딩드레스 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "wedding dress dream meaning"
+      ]
+    },
+    {
+      "id": "marriage-proposal",
+      "korean": "프로포즈 꿈",
+      "english": "Dream of a proposal",
+      "slug": "proposal-dream",
+      "koreanSlug": "peuropojeu-kkum",
+      "category": "marriage",
+      "subcategory": "romance",
+      "subcategoryKorean": "연애",
+      "related": [
+        "marriage-general",
+        "marriage-ring"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "프로포즈 꿈",
+        "프로포즈 꿈 해몽",
+        "청혼 꿈"
+      ],
+      "googleKeywords": [
+        "proposal dream meaning"
+      ]
+    },
+    {
+      "id": "marriage-dating",
+      "korean": "연애하는 꿈",
+      "english": "Dream of dating",
+      "slug": "dating-dream",
+      "koreanSlug": "yeonae-haneun-kkum",
+      "category": "marriage",
+      "subcategory": "romance",
+      "subcategoryKorean": "연애",
+      "related": [
+        "people-crush",
+        "action-kissing"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "연애하는 꿈",
+        "연애 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "dating dream meaning"
+      ]
+    },
+    {
+      "id": "marriage-breakup",
+      "korean": "이별 꿈",
+      "english": "Dream of a breakup",
+      "slug": "breakup-dream",
+      "koreanSlug": "ibyeol-kkum",
+      "category": "marriage",
+      "subcategory": "breakup",
+      "subcategoryKorean": "이별",
+      "related": [
+        "people-ex",
+        "marriage-divorce"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "이별 꿈",
+        "이별 꿈 해몽",
+        "헤어지는 꿈"
+      ],
+      "googleKeywords": [
+        "breakup dream meaning"
+      ]
+    },
+    {
+      "id": "marriage-divorce",
+      "korean": "이혼 꿈",
+      "english": "Dream of divorce",
+      "slug": "divorce-dream",
+      "koreanSlug": "ihon-kkum",
+      "category": "marriage",
+      "subcategory": "breakup",
+      "subcategoryKorean": "이별",
+      "related": [
+        "marriage-breakup",
+        "marriage-general"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "이혼 꿈",
+        "이혼 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "divorce dream meaning"
+      ]
+    },
+    {
+      "id": "marriage-affair",
+      "korean": "바람피우는 꿈",
+      "english": "Dream of an affair",
+      "slug": "affair-dream",
+      "koreanSlug": "baram-piuneun-kkum",
+      "category": "marriage",
+      "subcategory": "infidelity",
+      "subcategoryKorean": "외도",
+      "related": [
+        "marriage-general",
+        "people-spouse"
+      ],
+      "searchTier": "high",
+      "naverKeywords": [
+        "바람피우는 꿈",
+        "바람 꿈 해몽",
+        "외도 꿈"
+      ],
+      "googleKeywords": [
+        "affair dream meaning",
+        "cheating dream meaning"
+      ]
+    },
+    {
+      "id": "marriage-spouse-affair",
+      "korean": "배우자가 바람피우는 꿈",
+      "english": "Dream of spouse cheating",
+      "slug": "spouse-cheating-dream",
+      "koreanSlug": "baeuja-baram-kkum",
+      "category": "marriage",
+      "subcategory": "infidelity",
+      "subcategoryKorean": "외도",
+      "related": [
+        "marriage-affair",
+        "people-spouse"
+      ],
+      "searchTier": "high",
+      "naverKeywords": [
+        "배우자 바람 꿈",
+        "남편 바람 꿈 해몽",
+        "아내 바람 꿈"
+      ],
+      "googleKeywords": [
+        "spouse cheating dream meaning"
+      ]
+    },
+    {
+      "id": "marriage-confession",
+      "korean": "고백하는 꿈",
+      "english": "Dream of confessing love",
+      "slug": "love-confession-dream",
+      "koreanSlug": "gobaek-haneun-kkum",
+      "category": "marriage",
+      "subcategory": "romance",
+      "subcategoryKorean": "연애",
+      "related": [
+        "people-crush",
+        "marriage-dating"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "고백하는 꿈",
+        "고백 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "love confession dream meaning"
+      ]
+    },
+    {
+      "id": "marriage-honeymoon",
+      "korean": "신혼여행 꿈",
+      "english": "Dream of a honeymoon",
+      "slug": "honeymoon-dream",
+      "koreanSlug": "sinhon-yeohaeng-kkum",
+      "category": "marriage",
+      "subcategory": "wedding",
+      "subcategoryKorean": "결혼",
+      "related": [
+        "marriage-wedding",
+        "action-traveling"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "신혼여행 꿈",
+        "신혼여행 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "honeymoon dream meaning"
+      ]
+    },
+    {
+      "id": "marriage-bouquet",
+      "korean": "부케 받는 꿈",
+      "english": "Dream of catching a bouquet",
+      "slug": "catching-bouquet-dream",
+      "koreanSlug": "buke-banneun-kkum",
+      "category": "marriage",
+      "subcategory": "wedding",
+      "subcategoryKorean": "결혼",
+      "related": [
+        "marriage-wedding"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "부케 받는 꿈",
+        "부케 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "catching bouquet dream meaning"
+      ]
+    },
+    {
+      "id": "marriage-love-letter",
+      "korean": "러브레터 꿈",
+      "english": "Dream of a love letter",
+      "slug": "love-letter-dream",
+      "koreanSlug": "reobeureteo-kkum",
+      "category": "marriage",
+      "subcategory": "romance",
+      "subcategoryKorean": "연애",
+      "related": [
+        "people-crush",
+        "marriage-confession"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "러브레터 꿈",
+        "연애편지 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "love letter dream meaning"
+      ]
+    },
+    {
+      "id": "marriage-jealousy",
+      "korean": "질투하는 꿈",
+      "english": "Dream of jealousy",
+      "slug": "jealousy-dream",
+      "koreanSlug": "jiltu-haneun-kkum",
+      "category": "marriage",
+      "subcategory": "emotion",
+      "subcategoryKorean": "감정",
+      "related": [
+        "marriage-affair",
+        "emotion-angry"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "질투하는 꿈",
+        "질투 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "jealousy dream meaning"
+      ]
+    },
+    {
+      "id": "marriage-reunite",
+      "korean": "재회하는 꿈",
+      "english": "Dream of reuniting with ex",
+      "slug": "reuniting-ex-dream",
+      "koreanSlug": "jaehoe-haneun-kkum",
+      "category": "marriage",
+      "subcategory": "breakup",
+      "subcategoryKorean": "이별",
+      "related": [
+        "people-ex",
+        "marriage-breakup"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "재회하는 꿈",
+        "재회 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "reuniting with ex dream meaning"
+      ]
+    },
+    {
+      "id": "marriage-engagement",
+      "korean": "약혼 꿈",
+      "english": "Dream of engagement",
+      "slug": "engagement-dream",
+      "koreanSlug": "yakhon-kkum",
+      "category": "marriage",
+      "subcategory": "wedding",
+      "subcategoryKorean": "결혼",
+      "related": [
+        "marriage-proposal",
+        "marriage-ring"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "약혼 꿈",
+        "약혼 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "engagement dream meaning"
+      ]
+    },
+    {
+      "id": "marriage-wedding-cancel",
+      "korean": "결혼식이 취소되는 꿈",
+      "english": "Dream of wedding being cancelled",
+      "slug": "wedding-cancelled-dream",
+      "koreanSlug": "gyeolhonsik-chwiso-kkum",
+      "category": "marriage",
+      "subcategory": "wedding",
+      "subcategoryKorean": "결혼",
+      "related": [
+        "marriage-wedding",
+        "marriage-breakup"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "결혼식 취소 꿈",
+        "결혼식 취소 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "wedding cancelled dream meaning"
+      ]
+    },
+    {
+      "id": "marriage-wedding-late",
+      "korean": "결혼식에 늦는 꿈",
+      "english": "Dream of being late to wedding",
+      "slug": "late-to-wedding-dream",
+      "koreanSlug": "gyeolhonsik-neunneun-kkum",
+      "category": "marriage",
+      "subcategory": "wedding",
+      "subcategoryKorean": "결혼",
+      "related": [
+        "marriage-wedding",
+        "action-late-school"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "결혼식 늦는 꿈",
+        "결혼식 늦는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "late to wedding dream meaning"
+      ]
+    },
+    {
+      "id": "marriage-veil",
+      "korean": "면사포 꿈",
+      "english": "Dream of a wedding veil",
+      "slug": "wedding-veil-dream",
+      "koreanSlug": "myeonsapo-kkum",
+      "category": "marriage",
+      "subcategory": "wedding",
+      "subcategoryKorean": "결혼",
+      "related": [
+        "marriage-dress",
+        "marriage-wedding"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "면사포 꿈",
+        "면사포 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "wedding veil dream meaning"
+      ]
+    },
+    {
+      "id": "marriage-first-love",
+      "korean": "첫사랑 꿈",
+      "english": "Dream of first love",
+      "slug": "first-love-dream",
+      "koreanSlug": "cheot-sarang-kkum",
+      "category": "marriage",
+      "subcategory": "romance",
+      "subcategoryKorean": "연애",
+      "related": [
+        "people-ex",
+        "emotion-nostalgia"
+      ],
+      "searchTier": "high",
+      "naverKeywords": [
+        "첫사랑 꿈",
+        "첫사랑 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "first love dream meaning"
+      ]
+    },
+    {
+      "id": "marriage-blind-date",
+      "korean": "소개팅 꿈",
+      "english": "Dream of a blind date",
+      "slug": "blind-date-dream",
+      "koreanSlug": "sogaeting-kkum",
+      "category": "marriage",
+      "subcategory": "romance",
+      "subcategoryKorean": "연애",
+      "related": [
+        "marriage-dating",
+        "people-stranger"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "소개팅 꿈",
+        "소개팅 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "blind date dream meaning"
+      ]
+    },
+    {
+      "id": "marriage-love-triangle",
+      "korean": "삼각관계 꿈",
+      "english": "Dream of love triangle",
+      "slug": "love-triangle-dream",
+      "koreanSlug": "samgak-gwangye-kkum",
+      "category": "marriage",
+      "subcategory": "infidelity",
+      "subcategoryKorean": "외도",
+      "related": [
+        "marriage-affair",
+        "emotion-jealous"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "삼각관계 꿈",
+        "삼각관계 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "love triangle dream meaning"
+      ]
+    },
+    {
+      "id": "marriage-reconcile",
+      "korean": "화해하는 꿈",
+      "english": "Dream of reconciliation",
+      "slug": "reconciliation-dream",
+      "koreanSlug": "hwahae-haneun-kkum",
+      "category": "marriage",
+      "subcategory": "emotion",
+      "subcategoryKorean": "감정",
+      "related": [
+        "marriage-breakup",
+        "emotion-relief"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "화해 꿈",
+        "화해 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "reconciliation dream meaning"
+      ]
+    },
+    {
+      "id": "marriage-anniversary",
+      "korean": "결혼기념일 꿈",
+      "english": "Dream of wedding anniversary",
+      "slug": "wedding-anniversary-dream",
+      "koreanSlug": "gyeolhon-ginyeomil-kkum",
+      "category": "marriage",
+      "subcategory": "wedding",
+      "subcategoryKorean": "결혼",
+      "related": [
+        "marriage-general",
+        "people-spouse"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "결혼기념일 꿈",
+        "결혼기념일 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "wedding anniversary dream meaning"
+      ]
+    },
+    {
+      "id": "marriage-holding-hands",
+      "korean": "연인과 손잡는 꿈",
+      "english": "Dream of holding hands with lover",
+      "slug": "holding-hands-lover-dream",
+      "koreanSlug": "yeonin-son-jamneun-kkum",
+      "category": "marriage",
+      "subcategory": "romance",
+      "subcategoryKorean": "연애",
+      "related": [
+        "hand-hold",
+        "marriage-dating"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "연인 손잡는 꿈",
+        "연인 손잡는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "holding hands lover dream meaning"
+      ]
+    },
+    {
+      "id": "marriage-crying-breakup",
+      "korean": "이별하고 우는 꿈",
+      "english": "Dream of crying over breakup",
+      "slug": "crying-breakup-dream",
+      "koreanSlug": "ibyeol-uneun-kkum",
+      "category": "marriage",
+      "subcategory": "breakup",
+      "subcategoryKorean": "이별",
+      "related": [
+        "marriage-breakup",
+        "action-crying"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "이별 우는 꿈",
+        "이별 울음 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "crying over breakup dream meaning"
+      ]
+    },
+    {
+      "id": "marriage-wedding-photo",
+      "korean": "웨딩 사진 꿈",
+      "english": "Dream of wedding photos",
+      "slug": "wedding-photos-dream",
+      "koreanSlug": "weding-sajin-kkum",
+      "category": "marriage",
+      "subcategory": "wedding",
+      "subcategoryKorean": "결혼",
+      "related": [
+        "marriage-wedding"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "웨딩 사진 꿈",
+        "웨딩 사진 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "wedding photos dream meaning"
+      ]
+    },
+    {
+      "id": "marriage-secret-relationship",
+      "korean": "몰래 만나는 꿈",
+      "english": "Dream of a secret relationship",
+      "slug": "secret-relationship-dream",
+      "koreanSlug": "mollae-mannaneun-kkum",
+      "category": "marriage",
+      "subcategory": "infidelity",
+      "subcategoryKorean": "외도",
+      "related": [
+        "marriage-affair",
+        "emotion-guilt"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "몰래 만나는 꿈",
+        "비밀 연애 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "secret relationship dream meaning"
+      ]
+    },
+    {
+      "id": "marriage-jealousy",
+      "korean": "연인이 질투하는 꿈",
+      "english": "Dream of partner being jealous",
+      "slug": "partner-jealous-dream",
+      "koreanSlug": "yeonin-jiltu-kkum",
+      "category": "marriage",
+      "subcategory": "emotion",
+      "subcategoryKorean": "감정",
+      "related": [
+        "emotion-jealous",
+        "marriage-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "연인 질투 꿈",
+        "질투 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "partner jealous dream meaning"
+      ]
+    },
+    {
+      "id": "marriage-confess-love",
+      "korean": "고백하는 꿈",
+      "english": "Dream of confessing love",
+      "slug": "confessing-love-dream",
+      "koreanSlug": "gobaek-haneun-kkum",
+      "category": "marriage",
+      "subcategory": "romance",
+      "subcategoryKorean": "연애",
+      "related": [
+        "marriage-dating",
+        "emotion-love-intense"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "고백 꿈",
+        "고백하는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "confessing love dream meaning"
+      ]
+    },
+    {
+      "id": "marriage-rejection",
+      "korean": "거절당하는 꿈",
+      "english": "Dream of romantic rejection",
+      "slug": "romantic-rejection-dream",
+      "koreanSlug": "geojeol-danghaneun-kkum",
+      "category": "marriage",
+      "subcategory": "breakup",
+      "subcategoryKorean": "이별",
+      "related": [
+        "marriage-breakup",
+        "emotion-sad"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "거절당하는 꿈",
+        "거절 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "romantic rejection dream meaning"
+      ]
+    },
+    {
+      "id": "marriage-wedding-invitation",
+      "korean": "청첩장 꿈",
+      "english": "Dream of a wedding invitation",
+      "slug": "wedding-invitation-dream",
+      "koreanSlug": "cheongcheopjang-kkum",
+      "category": "marriage",
+      "subcategory": "wedding",
+      "subcategoryKorean": "결혼",
+      "related": [
+        "marriage-wedding"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "청첩장 꿈",
+        "청첩장 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "wedding invitation dream meaning"
+      ]
+    },
+    {
+      "id": "marriage-divorce-sign",
+      "korean": "이혼 서류 꿈",
+      "english": "Dream of divorce papers",
+      "slug": "divorce-papers-dream",
+      "koreanSlug": "ihon-seoryu-kkum",
+      "category": "marriage",
+      "subcategory": "divorce",
+      "subcategoryKorean": "이혼",
+      "related": [
+        "marriage-divorce"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "이혼 서류 꿈",
+        "이혼 서류 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "divorce papers dream meaning"
+      ]
+    },
+    {
+      "id": "marriage-couple-fight",
+      "korean": "연인과 싸우는 꿈",
+      "english": "Dream of fighting with partner",
+      "slug": "fighting-partner-dream",
+      "koreanSlug": "yeonin-ssauneun-kkum",
+      "category": "marriage",
+      "subcategory": "conflict",
+      "subcategoryKorean": "갈등",
+      "related": [
+        "action-fighting",
+        "marriage-general"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "연인 싸우는 꿈",
+        "연인 싸움 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "fighting with partner dream meaning"
+      ]
+    },
+    {
+      "id": "marriage-long-distance",
+      "korean": "장거리 연애 꿈",
+      "english": "Dream of long distance relationship",
+      "slug": "long-distance-dream",
+      "koreanSlug": "janggeori-yeonae-kkum",
+      "category": "marriage",
+      "subcategory": "romance",
+      "subcategoryKorean": "연애",
+      "related": [
+        "marriage-dating",
+        "emotion-lonely"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "장거리 연애 꿈",
+        "장거리 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "long distance relationship dream meaning"
+      ]
+    },
+    {
+      "id": "marriage-ex-wedding",
+      "korean": "전 애인이 결혼하는 꿈",
+      "english": "Dream of ex getting married",
+      "slug": "ex-getting-married-dream",
+      "koreanSlug": "jeon-aein-gyeolhon-kkum",
+      "category": "marriage",
+      "subcategory": "ex",
+      "subcategoryKorean": "전 애인",
+      "related": [
+        "people-ex",
+        "marriage-wedding"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "전 애인 결혼 꿈",
+        "전남친 결혼 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "ex getting married dream meaning"
+      ]
+    },
+    {
+      "id": "marriage-wedding-dress-buy",
+      "korean": "웨딩드레스 사는 꿈",
+      "english": "Dream of buying a wedding dress",
+      "slug": "buying-wedding-dress-dream",
+      "koreanSlug": "wedingdeureseu-saneun-kkum",
+      "category": "marriage",
+      "subcategory": "wedding",
+      "subcategoryKorean": "결혼",
+      "related": [
+        "marriage-dress",
+        "action-shopping"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "웨딩드레스 사는 꿈",
+        "웨딩드레스 사는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "buying wedding dress dream meaning"
+      ]
+    },
+    {
+      "id": "marriage-hug-lover",
+      "korean": "연인과 포옹하는 꿈",
+      "english": "Dream of hugging lover",
+      "slug": "hugging-lover-dream",
+      "koreanSlug": "yeonin-poong-kkum",
+      "category": "marriage",
+      "subcategory": "romance",
+      "subcategoryKorean": "연애",
+      "related": [
+        "action-hugging",
+        "marriage-dating"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "연인 포옹 꿈",
+        "연인 안는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "hugging lover dream meaning"
+      ]
+    },
+    {
+      "id": "marriage-matchmaker",
+      "korean": "중매 꿈",
+      "english": "Dream of matchmaking",
+      "slug": "matchmaking-dream",
+      "koreanSlug": "jungmae-kkum",
+      "category": "marriage",
+      "subcategory": "romance",
+      "subcategoryKorean": "연애",
+      "related": [
+        "marriage-blind-date",
+        "marriage-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "중매 꿈",
+        "중매 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "matchmaking dream meaning"
+      ]
+    },
+    {
+      "id": "marriage-ex-boyfriend",
+      "korean": "전남친 꿈",
+      "english": "Dream of ex-boyfriend",
+      "slug": "ex-boyfriend-dream",
+      "koreanSlug": "jeonnamchin-kkum",
+      "category": "marriage",
+      "subcategory": "romance",
+      "subcategoryKorean": "연애",
+      "related": [
+        "people-ex",
+        "marriage-breakup"
+      ],
+      "searchTier": "high",
+      "naverKeywords": [
+        "전남친 꿈",
+        "전남친 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "ex-boyfriend dream meaning"
+      ]
+    },
+    {
+      "id": "marriage-ex-girlfriend",
+      "korean": "전여친 꿈",
+      "english": "Dream of ex-girlfriend",
+      "slug": "ex-girlfriend-dream",
+      "koreanSlug": "jeonyeochin-kkum",
+      "category": "marriage",
+      "subcategory": "romance",
+      "subcategoryKorean": "연애",
+      "related": [
+        "people-ex",
+        "marriage-breakup"
+      ],
+      "searchTier": "high",
+      "naverKeywords": [
+        "전여친 꿈",
+        "전여친 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "ex-girlfriend dream meaning"
+      ]
+    }
   ]
 }

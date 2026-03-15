@@ -12,10 +12,21 @@
       "category": "pregnancy",
       "subcategory": "pregnancy",
       "subcategoryKorean": "임신",
-      "related": ["pregnancy-taemong", "action-giving-birth", "people-baby"],
+      "related": [
+        "pregnancy-taemong",
+        "action-giving-birth",
+        "people-baby"
+      ],
       "searchTier": "high",
-      "naverKeywords": ["임신 꿈", "임신꿈 해몽", "임신꿈 의미"],
-      "googleKeywords": ["pregnancy dream meaning Korean", "dream of being pregnant"]
+      "naverKeywords": [
+        "임신 꿈",
+        "임신꿈 해몽",
+        "임신꿈 의미"
+      ],
+      "googleKeywords": [
+        "pregnancy dream meaning Korean",
+        "dream of being pregnant"
+      ]
     },
     {
       "id": "pregnancy-test",
@@ -26,10 +37,17 @@
       "category": "pregnancy",
       "subcategory": "pregnancy",
       "subcategoryKorean": "임신",
-      "related": ["pregnancy-general"],
+      "related": [
+        "pregnancy-general"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["임신 테스트기 꿈", "임테기 꿈 해몽"],
-      "googleKeywords": ["pregnancy test dream meaning"]
+      "naverKeywords": [
+        "임신 테스트기 꿈",
+        "임테기 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "pregnancy test dream meaning"
+      ]
     },
     {
       "id": "pregnancy-belly",
@@ -40,10 +58,18 @@
       "category": "pregnancy",
       "subcategory": "pregnancy",
       "subcategoryKorean": "임신",
-      "related": ["pregnancy-general", "belly-swollen"],
+      "related": [
+        "pregnancy-general",
+        "belly-swollen"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["배가 불러오는 꿈", "배 나오는 꿈 해몽"],
-      "googleKeywords": ["pregnant belly dream meaning"]
+      "naverKeywords": [
+        "배가 불러오는 꿈",
+        "배 나오는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "pregnant belly dream meaning"
+      ]
     },
     {
       "id": "pregnancy-taemong",
@@ -54,10 +80,24 @@
       "category": "pregnancy",
       "subcategory": "taemong",
       "subcategoryKorean": "태몽",
-      "related": ["pregnancy-general", "pregnancy-pig", "pregnancy-dragon", "pregnancy-fruit"],
+      "related": [
+        "pregnancy-general",
+        "pregnancy-pig",
+        "pregnancy-dragon",
+        "pregnancy-fruit"
+      ],
       "searchTier": "high",
-      "naverKeywords": ["태몽", "태몽 해몽", "태몽 의미", "태몽 종류"],
-      "googleKeywords": ["taemong meaning", "Korean conception dream", "taemong dream"]
+      "naverKeywords": [
+        "태몽",
+        "태몽 해몽",
+        "태몽 의미",
+        "태몽 종류"
+      ],
+      "googleKeywords": [
+        "taemong meaning",
+        "Korean conception dream",
+        "taemong dream"
+      ]
     },
     {
       "id": "pregnancy-pig",
@@ -68,10 +108,20 @@
       "category": "pregnancy",
       "subcategory": "taemong-animal",
       "subcategoryKorean": "동물 태몽",
-      "related": ["pregnancy-taemong", "pig-general"],
+      "related": [
+        "pregnancy-taemong",
+        "pig-general"
+      ],
       "searchTier": "high",
-      "naverKeywords": ["돼지 태몽", "돼지 태몽 해몽", "돼지 태몽 의미"],
-      "googleKeywords": ["pig taemong meaning", "pig conception dream"]
+      "naverKeywords": [
+        "돼지 태몽",
+        "돼지 태몽 해몽",
+        "돼지 태몽 의미"
+      ],
+      "googleKeywords": [
+        "pig taemong meaning",
+        "pig conception dream"
+      ]
     },
     {
       "id": "pregnancy-dragon",
@@ -82,10 +132,18 @@
       "category": "pregnancy",
       "subcategory": "taemong-animal",
       "subcategoryKorean": "동물 태몽",
-      "related": ["pregnancy-taemong", "dragon-general"],
+      "related": [
+        "pregnancy-taemong",
+        "dragon-general"
+      ],
       "searchTier": "high",
-      "naverKeywords": ["용 태몽", "용 태몽 해몽"],
-      "googleKeywords": ["dragon taemong meaning"]
+      "naverKeywords": [
+        "용 태몽",
+        "용 태몽 해몽"
+      ],
+      "googleKeywords": [
+        "dragon taemong meaning"
+      ]
     },
     {
       "id": "pregnancy-tiger",
@@ -96,10 +154,18 @@
       "category": "pregnancy",
       "subcategory": "taemong-animal",
       "subcategoryKorean": "동물 태몽",
-      "related": ["pregnancy-taemong", "tiger-general"],
+      "related": [
+        "pregnancy-taemong",
+        "tiger-general"
+      ],
       "searchTier": "high",
-      "naverKeywords": ["호랑이 태몽", "호랑이 태몽 해몽"],
-      "googleKeywords": ["tiger taemong meaning"]
+      "naverKeywords": [
+        "호랑이 태몽",
+        "호랑이 태몽 해몽"
+      ],
+      "googleKeywords": [
+        "tiger taemong meaning"
+      ]
     },
     {
       "id": "pregnancy-snake",
@@ -110,10 +176,18 @@
       "category": "pregnancy",
       "subcategory": "taemong-animal",
       "subcategoryKorean": "동물 태몽",
-      "related": ["pregnancy-taemong", "snake-general"],
+      "related": [
+        "pregnancy-taemong",
+        "snake-general"
+      ],
       "searchTier": "high",
-      "naverKeywords": ["뱀 태몽", "뱀 태몽 해몽"],
-      "googleKeywords": ["snake taemong meaning"]
+      "naverKeywords": [
+        "뱀 태몽",
+        "뱀 태몽 해몽"
+      ],
+      "googleKeywords": [
+        "snake taemong meaning"
+      ]
     },
     {
       "id": "pregnancy-fish",
@@ -124,10 +198,18 @@
       "category": "pregnancy",
       "subcategory": "taemong-animal",
       "subcategoryKorean": "동물 태몽",
-      "related": ["pregnancy-taemong", "fish-general"],
+      "related": [
+        "pregnancy-taemong",
+        "fish-general"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["물고기 태몽", "물고기 태몽 해몽"],
-      "googleKeywords": ["fish taemong meaning"]
+      "naverKeywords": [
+        "물고기 태몽",
+        "물고기 태몽 해몽"
+      ],
+      "googleKeywords": [
+        "fish taemong meaning"
+      ]
     },
     {
       "id": "pregnancy-horse",
@@ -138,10 +220,18 @@
       "category": "pregnancy",
       "subcategory": "taemong-animal",
       "subcategoryKorean": "동물 태몽",
-      "related": ["pregnancy-taemong", "horse-general"],
+      "related": [
+        "pregnancy-taemong",
+        "horse-general"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["말 태몽", "말 태몽 해몽"],
-      "googleKeywords": ["horse taemong meaning"]
+      "naverKeywords": [
+        "말 태몽",
+        "말 태몽 해몽"
+      ],
+      "googleKeywords": [
+        "horse taemong meaning"
+      ]
     },
     {
       "id": "pregnancy-cow",
@@ -152,10 +242,18 @@
       "category": "pregnancy",
       "subcategory": "taemong-animal",
       "subcategoryKorean": "동물 태몽",
-      "related": ["pregnancy-taemong", "cow-general"],
+      "related": [
+        "pregnancy-taemong",
+        "cow-general"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["소 태몽", "소 태몽 해몽"],
-      "googleKeywords": ["cow taemong meaning"]
+      "naverKeywords": [
+        "소 태몽",
+        "소 태몽 해몽"
+      ],
+      "googleKeywords": [
+        "cow taemong meaning"
+      ]
     },
     {
       "id": "pregnancy-bird",
@@ -166,10 +264,18 @@
       "category": "pregnancy",
       "subcategory": "taemong-animal",
       "subcategoryKorean": "동물 태몽",
-      "related": ["pregnancy-taemong", "bird-general"],
+      "related": [
+        "pregnancy-taemong",
+        "bird-general"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["새 태몽", "새 태몽 해몽"],
-      "googleKeywords": ["bird taemong meaning"]
+      "naverKeywords": [
+        "새 태몽",
+        "새 태몽 해몽"
+      ],
+      "googleKeywords": [
+        "bird taemong meaning"
+      ]
     },
     {
       "id": "pregnancy-turtle",
@@ -180,10 +286,18 @@
       "category": "pregnancy",
       "subcategory": "taemong-animal",
       "subcategoryKorean": "동물 태몽",
-      "related": ["pregnancy-taemong", "turtle-general"],
+      "related": [
+        "pregnancy-taemong",
+        "turtle-general"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["거북이 태몽", "거북이 태몽 해몽"],
-      "googleKeywords": ["turtle taemong meaning"]
+      "naverKeywords": [
+        "거북이 태몽",
+        "거북이 태몽 해몽"
+      ],
+      "googleKeywords": [
+        "turtle taemong meaning"
+      ]
     },
     {
       "id": "pregnancy-rabbit",
@@ -194,10 +308,18 @@
       "category": "pregnancy",
       "subcategory": "taemong-animal",
       "subcategoryKorean": "동물 태몽",
-      "related": ["pregnancy-taemong", "rabbit-general"],
+      "related": [
+        "pregnancy-taemong",
+        "rabbit-general"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["토끼 태몽", "토끼 태몽 해몽"],
-      "googleKeywords": ["rabbit taemong meaning"]
+      "naverKeywords": [
+        "토끼 태몽",
+        "토끼 태몽 해몽"
+      ],
+      "googleKeywords": [
+        "rabbit taemong meaning"
+      ]
     },
     {
       "id": "pregnancy-dog",
@@ -208,10 +330,18 @@
       "category": "pregnancy",
       "subcategory": "taemong-animal",
       "subcategoryKorean": "동물 태몽",
-      "related": ["pregnancy-taemong", "dog-general"],
+      "related": [
+        "pregnancy-taemong",
+        "dog-general"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["개 태몽", "개 태몽 해몽"],
-      "googleKeywords": ["dog taemong meaning"]
+      "naverKeywords": [
+        "개 태몽",
+        "개 태몽 해몽"
+      ],
+      "googleKeywords": [
+        "dog taemong meaning"
+      ]
     },
     {
       "id": "pregnancy-elephant",
@@ -222,10 +352,18 @@
       "category": "pregnancy",
       "subcategory": "taemong-animal",
       "subcategoryKorean": "동물 태몽",
-      "related": ["pregnancy-taemong", "elephant-general"],
+      "related": [
+        "pregnancy-taemong",
+        "elephant-general"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["코끼리 태몽", "코끼리 태몽 해몽"],
-      "googleKeywords": ["elephant taemong meaning"]
+      "naverKeywords": [
+        "코끼리 태몽",
+        "코끼리 태몽 해몽"
+      ],
+      "googleKeywords": [
+        "elephant taemong meaning"
+      ]
     },
     {
       "id": "pregnancy-fruit",
@@ -236,10 +374,21 @@
       "category": "pregnancy",
       "subcategory": "taemong-fruit",
       "subcategoryKorean": "과일 태몽",
-      "related": ["pregnancy-taemong", "pregnancy-peach", "pregnancy-apple"],
+      "related": [
+        "pregnancy-taemong",
+        "pregnancy-peach",
+        "pregnancy-apple"
+      ],
       "searchTier": "high",
-      "naverKeywords": ["과일 태몽", "과일 태몽 해몽", "과일 태몽 종류"],
-      "googleKeywords": ["fruit taemong meaning", "fruit conception dream"]
+      "naverKeywords": [
+        "과일 태몽",
+        "과일 태몽 해몽",
+        "과일 태몽 종류"
+      ],
+      "googleKeywords": [
+        "fruit taemong meaning",
+        "fruit conception dream"
+      ]
     },
     {
       "id": "pregnancy-peach",
@@ -250,10 +399,18 @@
       "category": "pregnancy",
       "subcategory": "taemong-fruit",
       "subcategoryKorean": "과일 태몽",
-      "related": ["pregnancy-fruit", "pregnancy-taemong"],
+      "related": [
+        "pregnancy-fruit",
+        "pregnancy-taemong"
+      ],
       "searchTier": "high",
-      "naverKeywords": ["복숭아 태몽", "복숭아 태몽 해몽"],
-      "googleKeywords": ["peach taemong meaning"]
+      "naverKeywords": [
+        "복숭아 태몽",
+        "복숭아 태몽 해몽"
+      ],
+      "googleKeywords": [
+        "peach taemong meaning"
+      ]
     },
     {
       "id": "pregnancy-apple",
@@ -264,10 +421,18 @@
       "category": "pregnancy",
       "subcategory": "taemong-fruit",
       "subcategoryKorean": "과일 태몽",
-      "related": ["pregnancy-fruit", "pregnancy-taemong"],
+      "related": [
+        "pregnancy-fruit",
+        "pregnancy-taemong"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["사과 태몽", "사과 태몽 해몽"],
-      "googleKeywords": ["apple taemong meaning"]
+      "naverKeywords": [
+        "사과 태몽",
+        "사과 태몽 해몽"
+      ],
+      "googleKeywords": [
+        "apple taemong meaning"
+      ]
     },
     {
       "id": "pregnancy-grape",
@@ -278,10 +443,18 @@
       "category": "pregnancy",
       "subcategory": "taemong-fruit",
       "subcategoryKorean": "과일 태몽",
-      "related": ["pregnancy-fruit", "pregnancy-taemong"],
+      "related": [
+        "pregnancy-fruit",
+        "pregnancy-taemong"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["포도 태몽", "포도 태몽 해몽"],
-      "googleKeywords": ["grape taemong meaning"]
+      "naverKeywords": [
+        "포도 태몽",
+        "포도 태몽 해몽"
+      ],
+      "googleKeywords": [
+        "grape taemong meaning"
+      ]
     },
     {
       "id": "pregnancy-chestnut",
@@ -292,10 +465,18 @@
       "category": "pregnancy",
       "subcategory": "taemong-fruit",
       "subcategoryKorean": "과일 태몽",
-      "related": ["pregnancy-fruit", "pregnancy-taemong"],
+      "related": [
+        "pregnancy-fruit",
+        "pregnancy-taemong"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["밤 태몽", "밤 태몽 해몽"],
-      "googleKeywords": ["chestnut taemong meaning"]
+      "naverKeywords": [
+        "밤 태몽",
+        "밤 태몽 해몽"
+      ],
+      "googleKeywords": [
+        "chestnut taemong meaning"
+      ]
     },
     {
       "id": "pregnancy-watermelon",
@@ -306,10 +487,18 @@
       "category": "pregnancy",
       "subcategory": "taemong-fruit",
       "subcategoryKorean": "과일 태몽",
-      "related": ["pregnancy-fruit", "pregnancy-taemong"],
+      "related": [
+        "pregnancy-fruit",
+        "pregnancy-taemong"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["수박 태몽", "수박 태몽 해몽"],
-      "googleKeywords": ["watermelon taemong meaning"]
+      "naverKeywords": [
+        "수박 태몽",
+        "수박 태몽 해몽"
+      ],
+      "googleKeywords": [
+        "watermelon taemong meaning"
+      ]
     },
     {
       "id": "pregnancy-persimmon",
@@ -320,10 +509,18 @@
       "category": "pregnancy",
       "subcategory": "taemong-fruit",
       "subcategoryKorean": "과일 태몽",
-      "related": ["pregnancy-fruit", "pregnancy-taemong"],
+      "related": [
+        "pregnancy-fruit",
+        "pregnancy-taemong"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["감 태몽", "감 태몽 해몽"],
-      "googleKeywords": ["persimmon taemong meaning"]
+      "naverKeywords": [
+        "감 태몽",
+        "감 태몽 해몽"
+      ],
+      "googleKeywords": [
+        "persimmon taemong meaning"
+      ]
     },
     {
       "id": "pregnancy-strawberry",
@@ -334,10 +531,18 @@
       "category": "pregnancy",
       "subcategory": "taemong-fruit",
       "subcategoryKorean": "과일 태몽",
-      "related": ["pregnancy-fruit", "pregnancy-taemong"],
+      "related": [
+        "pregnancy-fruit",
+        "pregnancy-taemong"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["딸기 태몽", "딸기 태몽 해몽"],
-      "googleKeywords": ["strawberry taemong meaning"]
+      "naverKeywords": [
+        "딸기 태몽",
+        "딸기 태몽 해몽"
+      ],
+      "googleKeywords": [
+        "strawberry taemong meaning"
+      ]
     },
     {
       "id": "pregnancy-jujube",
@@ -348,10 +553,18 @@
       "category": "pregnancy",
       "subcategory": "taemong-fruit",
       "subcategoryKorean": "과일 태몽",
-      "related": ["pregnancy-fruit", "pregnancy-taemong"],
+      "related": [
+        "pregnancy-fruit",
+        "pregnancy-taemong"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["대추 태몽", "대추 태몽 해몽"],
-      "googleKeywords": ["jujube taemong meaning"]
+      "naverKeywords": [
+        "대추 태몽",
+        "대추 태몽 해몽"
+      ],
+      "googleKeywords": [
+        "jujube taemong meaning"
+      ]
     },
     {
       "id": "pregnancy-pear",
@@ -362,10 +575,18 @@
       "category": "pregnancy",
       "subcategory": "taemong-fruit",
       "subcategoryKorean": "과일 태몽",
-      "related": ["pregnancy-fruit", "pregnancy-taemong"],
+      "related": [
+        "pregnancy-fruit",
+        "pregnancy-taemong"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["배 태몽", "배 태몽 해몽"],
-      "googleKeywords": ["pear taemong meaning"]
+      "naverKeywords": [
+        "배 태몽",
+        "배 태몽 해몽"
+      ],
+      "googleKeywords": [
+        "pear taemong meaning"
+      ]
     },
     {
       "id": "pregnancy-sun",
@@ -376,10 +597,19 @@
       "category": "pregnancy",
       "subcategory": "taemong-celestial",
       "subcategoryKorean": "천체 태몽",
-      "related": ["pregnancy-taemong", "pregnancy-moon", "celestial-sun"],
+      "related": [
+        "pregnancy-taemong",
+        "pregnancy-moon",
+        "celestial-sun"
+      ],
       "searchTier": "high",
-      "naverKeywords": ["해 태몽", "태양 태몽 해몽"],
-      "googleKeywords": ["sun taemong meaning"]
+      "naverKeywords": [
+        "해 태몽",
+        "태양 태몽 해몽"
+      ],
+      "googleKeywords": [
+        "sun taemong meaning"
+      ]
     },
     {
       "id": "pregnancy-moon",
@@ -390,10 +620,19 @@
       "category": "pregnancy",
       "subcategory": "taemong-celestial",
       "subcategoryKorean": "천체 태몽",
-      "related": ["pregnancy-taemong", "pregnancy-sun", "celestial-moon"],
+      "related": [
+        "pregnancy-taemong",
+        "pregnancy-sun",
+        "celestial-moon"
+      ],
       "searchTier": "high",
-      "naverKeywords": ["달 태몽", "달 태몽 해몽"],
-      "googleKeywords": ["moon taemong meaning"]
+      "naverKeywords": [
+        "달 태몽",
+        "달 태몽 해몽"
+      ],
+      "googleKeywords": [
+        "moon taemong meaning"
+      ]
     },
     {
       "id": "pregnancy-star",
@@ -404,10 +643,19 @@
       "category": "pregnancy",
       "subcategory": "taemong-celestial",
       "subcategoryKorean": "천체 태몽",
-      "related": ["pregnancy-taemong", "pregnancy-sun", "celestial-star"],
+      "related": [
+        "pregnancy-taemong",
+        "pregnancy-sun",
+        "celestial-star"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["별 태몽", "별 태몽 해몽"],
-      "googleKeywords": ["star taemong meaning"]
+      "naverKeywords": [
+        "별 태몽",
+        "별 태몽 해몽"
+      ],
+      "googleKeywords": [
+        "star taemong meaning"
+      ]
     },
     {
       "id": "pregnancy-rainbow",
@@ -418,10 +666,18 @@
       "category": "pregnancy",
       "subcategory": "taemong-nature",
       "subcategoryKorean": "자연 태몽",
-      "related": ["pregnancy-taemong", "weather-rainbow"],
+      "related": [
+        "pregnancy-taemong",
+        "weather-rainbow"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["무지개 태몽", "무지개 태몽 해몽"],
-      "googleKeywords": ["rainbow taemong meaning"]
+      "naverKeywords": [
+        "무지개 태몽",
+        "무지개 태몽 해몽"
+      ],
+      "googleKeywords": [
+        "rainbow taemong meaning"
+      ]
     },
     {
       "id": "pregnancy-flower",
@@ -432,10 +688,18 @@
       "category": "pregnancy",
       "subcategory": "taemong-nature",
       "subcategoryKorean": "자연 태몽",
-      "related": ["pregnancy-taemong", "plant-flower-general"],
+      "related": [
+        "pregnancy-taemong",
+        "plant-flower-general"
+      ],
       "searchTier": "high",
-      "naverKeywords": ["꽃 태몽", "꽃 태몽 해몽"],
-      "googleKeywords": ["flower taemong meaning"]
+      "naverKeywords": [
+        "꽃 태몽",
+        "꽃 태몽 해몽"
+      ],
+      "googleKeywords": [
+        "flower taemong meaning"
+      ]
     },
     {
       "id": "pregnancy-gem",
@@ -446,10 +710,18 @@
       "category": "pregnancy",
       "subcategory": "taemong-object",
       "subcategoryKorean": "물건 태몽",
-      "related": ["pregnancy-taemong", "pregnancy-gold"],
+      "related": [
+        "pregnancy-taemong",
+        "pregnancy-gold"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["보석 태몽", "보석 태몽 해몽"],
-      "googleKeywords": ["gem taemong meaning"]
+      "naverKeywords": [
+        "보석 태몽",
+        "보석 태몽 해몽"
+      ],
+      "googleKeywords": [
+        "gem taemong meaning"
+      ]
     },
     {
       "id": "pregnancy-gold",
@@ -460,10 +732,18 @@
       "category": "pregnancy",
       "subcategory": "taemong-object",
       "subcategoryKorean": "물건 태몽",
-      "related": ["pregnancy-taemong", "pregnancy-gem"],
+      "related": [
+        "pregnancy-taemong",
+        "pregnancy-gem"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["금 태몽", "금 태몽 해몽"],
-      "googleKeywords": ["gold taemong meaning"]
+      "naverKeywords": [
+        "금 태몽",
+        "금 태몽 해몽"
+      ],
+      "googleKeywords": [
+        "gold taemong meaning"
+      ]
     },
     {
       "id": "pregnancy-mountain",
@@ -474,10 +754,17 @@
       "category": "pregnancy",
       "subcategory": "taemong-nature",
       "subcategoryKorean": "자연 태몽",
-      "related": ["pregnancy-taemong"],
+      "related": [
+        "pregnancy-taemong"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["산 태몽", "산 태몽 해몽"],
-      "googleKeywords": ["mountain taemong meaning"]
+      "naverKeywords": [
+        "산 태몽",
+        "산 태몽 해몽"
+      ],
+      "googleKeywords": [
+        "mountain taemong meaning"
+      ]
     },
     {
       "id": "pregnancy-water",
@@ -488,10 +775,18 @@
       "category": "pregnancy",
       "subcategory": "taemong-nature",
       "subcategoryKorean": "자연 태몽",
-      "related": ["pregnancy-taemong", "water-general"],
+      "related": [
+        "pregnancy-taemong",
+        "water-general"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["물 태몽", "물 태몽 해몽"],
-      "googleKeywords": ["water taemong meaning"]
+      "naverKeywords": [
+        "물 태몽",
+        "물 태몽 해몽"
+      ],
+      "googleKeywords": [
+        "water taemong meaning"
+      ]
     },
     {
       "id": "pregnancy-rice",
@@ -502,10 +797,18 @@
       "category": "pregnancy",
       "subcategory": "taemong-food",
       "subcategoryKorean": "음식 태몽",
-      "related": ["pregnancy-taemong", "food-rice"],
+      "related": [
+        "pregnancy-taemong",
+        "food-rice"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["쌀 태몽", "쌀 태몽 해몽"],
-      "googleKeywords": ["rice taemong meaning"]
+      "naverKeywords": [
+        "쌀 태몽",
+        "쌀 태몽 해몽"
+      ],
+      "googleKeywords": [
+        "rice taemong meaning"
+      ]
     },
     {
       "id": "pregnancy-egg",
@@ -516,10 +819,18 @@
       "category": "pregnancy",
       "subcategory": "taemong-food",
       "subcategoryKorean": "음식 태몽",
-      "related": ["pregnancy-taemong", "chicken-egg"],
+      "related": [
+        "pregnancy-taemong",
+        "chicken-egg"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["달걀 태몽", "계란 태몽 해몽"],
-      "googleKeywords": ["egg taemong meaning"]
+      "naverKeywords": [
+        "달걀 태몽",
+        "계란 태몽 해몽"
+      ],
+      "googleKeywords": [
+        "egg taemong meaning"
+      ]
     },
     {
       "id": "pregnancy-pepper",
@@ -530,10 +841,20 @@
       "category": "pregnancy",
       "subcategory": "taemong-food",
       "subcategoryKorean": "음식 태몽",
-      "related": ["pregnancy-taemong", "pregnancy-boy"],
+      "related": [
+        "pregnancy-taemong",
+        "pregnancy-boy"
+      ],
       "searchTier": "high",
-      "naverKeywords": ["고추 태몽", "고추 태몽 해몽", "고추 태몽 아들"],
-      "googleKeywords": ["pepper taemong meaning", "Korean boy conception dream"]
+      "naverKeywords": [
+        "고추 태몽",
+        "고추 태몽 해몽",
+        "고추 태몽 아들"
+      ],
+      "googleKeywords": [
+        "pepper taemong meaning",
+        "Korean boy conception dream"
+      ]
     },
     {
       "id": "pregnancy-boy",
@@ -544,10 +865,21 @@
       "category": "pregnancy",
       "subcategory": "taemong-gender",
       "subcategoryKorean": "성별 태몽",
-      "related": ["pregnancy-taemong", "pregnancy-girl", "pregnancy-pepper"],
+      "related": [
+        "pregnancy-taemong",
+        "pregnancy-girl",
+        "pregnancy-pepper"
+      ],
       "searchTier": "high",
-      "naverKeywords": ["아들 태몽", "아들 태몽 종류", "아들 태몽 해몽"],
-      "googleKeywords": ["boy taemong signs", "Korean dream predicting baby boy"]
+      "naverKeywords": [
+        "아들 태몽",
+        "아들 태몽 종류",
+        "아들 태몽 해몽"
+      ],
+      "googleKeywords": [
+        "boy taemong signs",
+        "Korean dream predicting baby boy"
+      ]
     },
     {
       "id": "pregnancy-girl",
@@ -558,10 +890,21 @@
       "category": "pregnancy",
       "subcategory": "taemong-gender",
       "subcategoryKorean": "성별 태몽",
-      "related": ["pregnancy-taemong", "pregnancy-boy", "pregnancy-flower"],
+      "related": [
+        "pregnancy-taemong",
+        "pregnancy-boy",
+        "pregnancy-flower"
+      ],
       "searchTier": "high",
-      "naverKeywords": ["딸 태몽", "딸 태몽 종류", "딸 태몽 해몽"],
-      "googleKeywords": ["girl taemong signs", "Korean dream predicting baby girl"]
+      "naverKeywords": [
+        "딸 태몽",
+        "딸 태몽 종류",
+        "딸 태몽 해몽"
+      ],
+      "googleKeywords": [
+        "girl taemong signs",
+        "Korean dream predicting baby girl"
+      ]
     },
     {
       "id": "pregnancy-cherry-blossom",
@@ -572,10 +915,18 @@
       "category": "pregnancy",
       "subcategory": "taemong-nature",
       "subcategoryKorean": "자연 태몽",
-      "related": ["pregnancy-flower", "pregnancy-taemong"],
+      "related": [
+        "pregnancy-flower",
+        "pregnancy-taemong"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["벚꽃 태몽", "벚꽃 태몽 해몽"],
-      "googleKeywords": ["cherry blossom taemong meaning"]
+      "naverKeywords": [
+        "벚꽃 태몽",
+        "벚꽃 태몽 해몽"
+      ],
+      "googleKeywords": [
+        "cherry blossom taemong meaning"
+      ]
     },
     {
       "id": "pregnancy-bear",
@@ -586,10 +937,18 @@
       "category": "pregnancy",
       "subcategory": "taemong-animal",
       "subcategoryKorean": "동물 태몽",
-      "related": ["pregnancy-taemong", "bear-general"],
+      "related": [
+        "pregnancy-taemong",
+        "bear-general"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["곰 태몽", "곰 태몽 해몽"],
-      "googleKeywords": ["bear taemong meaning"]
+      "naverKeywords": [
+        "곰 태몽",
+        "곰 태몽 해몽"
+      ],
+      "googleKeywords": [
+        "bear taemong meaning"
+      ]
     },
     {
       "id": "pregnancy-lion",
@@ -600,10 +959,18 @@
       "category": "pregnancy",
       "subcategory": "taemong-animal",
       "subcategoryKorean": "동물 태몽",
-      "related": ["pregnancy-taemong", "lion-general"],
+      "related": [
+        "pregnancy-taemong",
+        "lion-general"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["사자 태몽", "사자 태몽 해몽"],
-      "googleKeywords": ["lion taemong meaning"]
+      "naverKeywords": [
+        "사자 태몽",
+        "사자 태몽 해몽"
+      ],
+      "googleKeywords": [
+        "lion taemong meaning"
+      ]
     },
     {
       "id": "pregnancy-cat",
@@ -614,10 +981,18 @@
       "category": "pregnancy",
       "subcategory": "taemong-animal",
       "subcategoryKorean": "동물 태몽",
-      "related": ["pregnancy-taemong", "cat-general"],
+      "related": [
+        "pregnancy-taemong",
+        "cat-general"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["고양이 태몽", "고양이 태몽 해몽"],
-      "googleKeywords": ["cat taemong meaning"]
+      "naverKeywords": [
+        "고양이 태몽",
+        "고양이 태몽 해몽"
+      ],
+      "googleKeywords": [
+        "cat taemong meaning"
+      ]
     },
     {
       "id": "pregnancy-butterfly",
@@ -628,10 +1003,18 @@
       "category": "pregnancy",
       "subcategory": "taemong-animal",
       "subcategoryKorean": "동물 태몽",
-      "related": ["pregnancy-taemong", "insect-butterfly"],
+      "related": [
+        "pregnancy-taemong",
+        "insect-butterfly"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["나비 태몽", "나비 태몽 해몽"],
-      "googleKeywords": ["butterfly taemong meaning"]
+      "naverKeywords": [
+        "나비 태몽",
+        "나비 태몽 해몽"
+      ],
+      "googleKeywords": [
+        "butterfly taemong meaning"
+      ]
     },
     {
       "id": "pregnancy-tangerine",
@@ -642,10 +1025,18 @@
       "category": "pregnancy",
       "subcategory": "taemong-fruit",
       "subcategoryKorean": "과일 태몽",
-      "related": ["pregnancy-fruit", "pregnancy-taemong"],
+      "related": [
+        "pregnancy-fruit",
+        "pregnancy-taemong"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["귤 태몽", "귤 태몽 해몽"],
-      "googleKeywords": ["tangerine taemong meaning"]
+      "naverKeywords": [
+        "귤 태몽",
+        "귤 태몽 해몽"
+      ],
+      "googleKeywords": [
+        "tangerine taemong meaning"
+      ]
     },
     {
       "id": "pregnancy-phoenix",
@@ -656,10 +1047,18 @@
       "category": "pregnancy",
       "subcategory": "taemong-animal",
       "subcategoryKorean": "동물 태몽",
-      "related": ["pregnancy-taemong", "bird-phoenix"],
+      "related": [
+        "pregnancy-taemong",
+        "bird-phoenix"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["봉황 태몽", "봉황 태몽 해몽"],
-      "googleKeywords": ["phoenix taemong meaning"]
+      "naverKeywords": [
+        "봉황 태몽",
+        "봉황 태몽 해몽"
+      ],
+      "googleKeywords": [
+        "phoenix taemong meaning"
+      ]
     },
     {
       "id": "pregnancy-crane",
@@ -670,51 +1069,718 @@
       "category": "pregnancy",
       "subcategory": "taemong-animal",
       "subcategoryKorean": "동물 태몽",
-      "related": ["pregnancy-taemong", "bird-crane"],
+      "related": [
+        "pregnancy-taemong",
+        "bird-crane"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["학 태몽", "학 태몽 해몽"],
-      "googleKeywords": ["crane taemong meaning"]
+      "naverKeywords": [
+        "학 태몽",
+        "학 태몽 해몽"
+      ],
+      "googleKeywords": [
+        "crane taemong meaning"
+      ]
     },
-    {"id":"pregnancy-deer","korean":"사슴 태몽","english":"Deer taemong","slug":"deer-taemong","koreanSlug":"saseum-taemong","category":"pregnancy","subcategory":"taemong-animal","subcategoryKorean":"동물 태몽","related":["pregnancy-taemong"],"searchTier":"longtail","naverKeywords":["사슴 태몽","사슴 태몽 해몽"],"googleKeywords":["deer taemong meaning"]},
-    {"id":"pregnancy-whale","korean":"고래 태몽","english":"Whale taemong","slug":"whale-taemong","koreanSlug":"gorae-taemong","category":"pregnancy","subcategory":"taemong-animal","subcategoryKorean":"동물 태몽","related":["pregnancy-taemong","whale-general"],"searchTier":"longtail","naverKeywords":["고래 태몽","고래 태몽 해몽"],"googleKeywords":["whale taemong meaning"]},
-    {"id":"pregnancy-dolphin","korean":"돌고래 태몽","english":"Dolphin taemong","slug":"dolphin-taemong","koreanSlug":"dolgorae-taemong","category":"pregnancy","subcategory":"taemong-animal","subcategoryKorean":"동물 태몽","related":["pregnancy-taemong"],"searchTier":"longtail","naverKeywords":["돌고래 태몽","돌고래 태몽 해몽"],"googleKeywords":["dolphin taemong meaning"]},
-    {"id":"pregnancy-eagle","korean":"독수리 태몽","english":"Eagle taemong","slug":"eagle-taemong","koreanSlug":"doksuri-taemong","category":"pregnancy","subcategory":"taemong-animal","subcategoryKorean":"동물 태몽","related":["pregnancy-taemong","pregnancy-bird"],"searchTier":"longtail","naverKeywords":["독수리 태몽","독수리 태몽 해몽"],"googleKeywords":["eagle taemong meaning"]},
-    {"id":"pregnancy-rooster","korean":"닭 태몽","english":"Rooster taemong","slug":"rooster-taemong","koreanSlug":"dak-taemong","category":"pregnancy","subcategory":"taemong-animal","subcategoryKorean":"동물 태몽","related":["pregnancy-taemong","pregnancy-egg"],"searchTier":"longtail","naverKeywords":["닭 태몽","닭 태몽 해몽"],"googleKeywords":["rooster taemong meaning"]},
-    {"id":"pregnancy-frog","korean":"개구리 태몽","english":"Frog taemong","slug":"frog-taemong","koreanSlug":"gaeguri-taemong","category":"pregnancy","subcategory":"taemong-animal","subcategoryKorean":"동물 태몽","related":["pregnancy-taemong"],"searchTier":"longtail","naverKeywords":["개구리 태몽","개구리 태몽 해몽"],"googleKeywords":["frog taemong meaning"]},
-    {"id":"pregnancy-carp","korean":"잉어 태몽","english":"Carp taemong","slug":"carp-taemong","koreanSlug":"ingeo-taemong","category":"pregnancy","subcategory":"taemong-animal","subcategoryKorean":"동물 태몽","related":["pregnancy-fish","pregnancy-taemong"],"searchTier":"medium","naverKeywords":["잉어 태몽","잉어 태몽 해몽"],"googleKeywords":["carp taemong meaning"]},
-    {"id":"pregnancy-white-tiger","korean":"백호 태몽","english":"White tiger taemong","slug":"white-tiger-taemong","koreanSlug":"baekho-taemong","category":"pregnancy","subcategory":"taemong-animal","subcategoryKorean":"동물 태몽","related":["pregnancy-tiger","pregnancy-taemong"],"searchTier":"medium","naverKeywords":["백호 태몽","백호 태몽 해몽"],"googleKeywords":["white tiger taemong meaning"]},
-    {"id":"pregnancy-golden-pig","korean":"금돼지 태몽","english":"Golden pig taemong","slug":"golden-pig-taemong","koreanSlug":"geumdwaeji-taemong","category":"pregnancy","subcategory":"taemong-animal","subcategoryKorean":"동물 태몽","related":["pregnancy-pig","pregnancy-taemong"],"searchTier":"medium","naverKeywords":["금돼지 태몽","금돼지 태몽 해몽"],"googleKeywords":["golden pig taemong meaning"]},
-    {"id":"pregnancy-golden-dragon","korean":"금용 태몽","english":"Golden dragon taemong","slug":"golden-dragon-taemong","koreanSlug":"geumyong-taemong","category":"pregnancy","subcategory":"taemong-animal","subcategoryKorean":"동물 태몽","related":["pregnancy-dragon","pregnancy-taemong"],"searchTier":"medium","naverKeywords":["금용 태몽","금룡 태몽 해몽"],"googleKeywords":["golden dragon taemong meaning"]},
-    {"id":"pregnancy-pomegranate","korean":"석류 태몽","english":"Pomegranate taemong","slug":"pomegranate-taemong","koreanSlug":"seongyu-taemong","category":"pregnancy","subcategory":"taemong-fruit","subcategoryKorean":"과일 태몽","related":["pregnancy-fruit","pregnancy-taemong"],"searchTier":"medium","naverKeywords":["석류 태몽","석류 태몽 해몽"],"googleKeywords":["pomegranate taemong meaning"]},
-    {"id":"pregnancy-lotus-flower","korean":"연꽃 태몽","english":"Lotus taemong","slug":"lotus-taemong","koreanSlug":"yeonkkot-taemong","category":"pregnancy","subcategory":"taemong-nature","subcategoryKorean":"자연 태몽","related":["pregnancy-flower","plant-lotus"],"searchTier":"longtail","naverKeywords":["연꽃 태몽","연꽃 태몽 해몽"],"googleKeywords":["lotus taemong meaning"]},
-    {"id":"pregnancy-rose-taemong","korean":"장미 태몽","english":"Rose taemong","slug":"rose-taemong","koreanSlug":"jangmi-taemong","category":"pregnancy","subcategory":"taemong-nature","subcategoryKorean":"자연 태몽","related":["pregnancy-flower","plant-rose"],"searchTier":"longtail","naverKeywords":["장미 태몽","장미 태몽 해몽"],"googleKeywords":["rose taemong meaning"]},
-    {"id":"pregnancy-cloud","korean":"구름 태몽","english":"Cloud taemong","slug":"cloud-taemong","koreanSlug":"gureum-taemong","category":"pregnancy","subcategory":"taemong-celestial","subcategoryKorean":"천체 태몽","related":["pregnancy-taemong","nature-cloud"],"searchTier":"longtail","naverKeywords":["구름 태몽","구름 태몽 해몽"],"googleKeywords":["cloud taemong meaning"]},
-    {"id":"pregnancy-twins","korean":"쌍둥이 태몽","english":"Twins taemong","slug":"twins-taemong","koreanSlug":"ssangdungi-taemong","category":"pregnancy","subcategory":"taemong-gender","subcategoryKorean":"성별 태몽","related":["pregnancy-taemong","pregnancy-boy","pregnancy-girl"],"searchTier":"high","naverKeywords":["쌍둥이 태몽","쌍둥이 태몽 해몽","쌍둥이 태몽 종류"],"googleKeywords":["twins taemong meaning","twins conception dream"]},
-    {"id":"pregnancy-ring-taemong","korean":"반지 태몽","english":"Ring taemong","slug":"ring-taemong","koreanSlug":"banji-taemong","category":"pregnancy","subcategory":"taemong-object","subcategoryKorean":"물건 태몽","related":["pregnancy-taemong","money-ring"],"searchTier":"longtail","naverKeywords":["반지 태몽","반지 태몽 해몽"],"googleKeywords":["ring taemong meaning"]},
-    {"id":"pregnancy-pearl-taemong","korean":"진주 태몽","english":"Pearl taemong","slug":"pearl-taemong","koreanSlug":"jinju-taemong","category":"pregnancy","subcategory":"taemong-object","subcategoryKorean":"물건 태몽","related":["pregnancy-taemong","pregnancy-gem"],"searchTier":"longtail","naverKeywords":["진주 태몽","진주 태몽 해몽"],"googleKeywords":["pearl taemong meaning"]},
-    {"id":"pregnancy-flying","korean":"하늘을 나는 태몽","english":"Flying taemong","slug":"flying-taemong","koreanSlug":"haneul-naneun-taemong","category":"pregnancy","subcategory":"taemong-action","subcategoryKorean":"행동 태몽","related":["pregnancy-taemong","action-flying"],"searchTier":"longtail","naverKeywords":["하늘 나는 태몽","날아다니는 태몽 해몽"],"googleKeywords":["flying taemong meaning"]},
-    {"id":"pregnancy-river-taemong","korean":"강 태몽","english":"River taemong","slug":"river-taemong","koreanSlug":"gang-taemong","category":"pregnancy","subcategory":"taemong-nature","subcategoryKorean":"자연 태몽","related":["pregnancy-water","water-river"],"searchTier":"longtail","naverKeywords":["강 태몽","강 태몽 해몽"],"googleKeywords":["river taemong meaning"]},
-    {"id":"pregnancy-ocean-taemong","korean":"바다 태몽","english":"Ocean taemong","slug":"ocean-taemong","koreanSlug":"bada-taemong","category":"pregnancy","subcategory":"taemong-nature","subcategoryKorean":"자연 태몽","related":["pregnancy-water","water-ocean"],"searchTier":"medium","naverKeywords":["바다 태몽","바다 태몽 해몽"],"googleKeywords":["ocean taemong meaning"]},
-    {"id":"pregnancy-miscarriage","korean":"유산 꿈","english":"Dream of miscarriage","slug":"miscarriage-dream","koreanSlug":"yusan-kkum","category":"pregnancy","subcategory":"pregnancy","subcategoryKorean":"임신","related":["pregnancy-general"],"searchTier":"medium","naverKeywords":["유산 꿈","유산 꿈 해몽"],"googleKeywords":["miscarriage dream meaning"]},
-    {"id":"pregnancy-giving-birth","korean":"출산하는 꿈","english":"Dream of giving birth","slug":"giving-birth-dream","koreanSlug":"chulsan-haneun-kkum","category":"pregnancy","subcategory":"pregnancy","subcategoryKorean":"임신","related":["pregnancy-general","people-baby"],"searchTier":"high","naverKeywords":["출산 꿈","출산하는 꿈 해몽","아기 낳는 꿈"],"googleKeywords":["giving birth dream meaning"]},
-    {"id":"pregnancy-baby-boy-birth","korean":"아들 낳는 꿈","english":"Dream of giving birth to a boy","slug":"giving-birth-boy-dream","koreanSlug":"adeul-nahneun-kkum","category":"pregnancy","subcategory":"pregnancy","subcategoryKorean":"임신","related":["pregnancy-boy","pregnancy-giving-birth"],"searchTier":"high","naverKeywords":["아들 낳는 꿈","아들 출산 꿈 해몽"],"googleKeywords":["giving birth to boy dream meaning"]},
-    {"id":"pregnancy-baby-girl-birth","korean":"딸 낳는 꿈","english":"Dream of giving birth to a girl","slug":"giving-birth-girl-dream","koreanSlug":"ttal-nahneun-kkum","category":"pregnancy","subcategory":"pregnancy","subcategoryKorean":"임신","related":["pregnancy-girl","pregnancy-giving-birth"],"searchTier":"high","naverKeywords":["딸 낳는 꿈","딸 출산 꿈 해몽"],"googleKeywords":["giving birth to girl dream meaning"]},
-    {"id":"pregnancy-someone-pregnant","korean":"다른 사람이 임신하는 꿈","english":"Dream of someone else being pregnant","slug":"someone-else-pregnant-dream","koreanSlug":"dareun-saram-imsin-kkum","category":"pregnancy","subcategory":"pregnancy","subcategoryKorean":"임신","related":["pregnancy-general"],"searchTier":"medium","naverKeywords":["다른 사람 임신 꿈","남이 임신 꿈 해몽"],"googleKeywords":["someone else pregnant dream meaning"]},
-    {"id":"pregnancy-morning-sickness","korean":"입덧하는 꿈","english":"Dream of morning sickness","slug":"morning-sickness-dream","koreanSlug":"ipdeot-haneun-kkum","category":"pregnancy","subcategory":"pregnancy","subcategoryKorean":"임신","related":["pregnancy-general"],"searchTier":"longtail","naverKeywords":["입덧 꿈","입덧 꿈 해몽"],"googleKeywords":["morning sickness dream meaning"]},
-    {"id":"pregnancy-umbilical","korean":"탯줄 꿈","english":"Dream of an umbilical cord","slug":"umbilical-cord-dream","koreanSlug":"taetjul-kkum","category":"pregnancy","subcategory":"pregnancy","subcategoryKorean":"임신","related":["pregnancy-giving-birth"],"searchTier":"longtail","naverKeywords":["탯줄 꿈","탯줄 꿈 해몽"],"googleKeywords":["umbilical cord dream meaning"]},
-    {"id":"pregnancy-wolf-taemong","korean":"늑대 태몽","english":"Wolf taemong","slug":"wolf-taemong","koreanSlug":"neukdae-taemong","category":"pregnancy","subcategory":"taemong-animal","subcategoryKorean":"동물 태몽","related":["pregnancy-taemong"],"searchTier":"longtail","naverKeywords":["늑대 태몽","늑대 태몽 해몽"],"googleKeywords":["wolf taemong meaning"]},
-    {"id":"pregnancy-white-snake","korean":"흰뱀 태몽","english":"White snake taemong","slug":"white-snake-taemong","koreanSlug":"huinbaem-taemong","category":"pregnancy","subcategory":"taemong-animal","subcategoryKorean":"동물 태몽","related":["pregnancy-snake","pregnancy-taemong"],"searchTier":"medium","naverKeywords":["흰뱀 태몽","흰뱀 태몽 해몽"],"googleKeywords":["white snake taemong meaning"]},
-    {"id":"pregnancy-big-snake","korean":"큰 뱀 태몽","english":"Big snake taemong","slug":"big-snake-taemong","koreanSlug":"keun-baem-taemong","category":"pregnancy","subcategory":"taemong-animal","subcategoryKorean":"동물 태몽","related":["pregnancy-snake","pregnancy-taemong"],"searchTier":"medium","naverKeywords":["큰 뱀 태몽","큰 뱀 태몽 해몽"],"googleKeywords":["big snake taemong meaning"]},
-    {"id":"pregnancy-melon-taemong","korean":"참외 태몽","english":"Korean melon taemong","slug":"korean-melon-taemong","koreanSlug":"chamoe-taemong","category":"pregnancy","subcategory":"taemong-fruit","subcategoryKorean":"과일 태몽","related":["pregnancy-fruit","pregnancy-taemong"],"searchTier":"longtail","naverKeywords":["참외 태몽","참외 태몽 해몽"],"googleKeywords":["Korean melon taemong meaning"]},
-    {"id":"pregnancy-walnut-taemong","korean":"호두 태몽","english":"Walnut taemong","slug":"walnut-taemong","koreanSlug":"hodu-taemong","category":"pregnancy","subcategory":"taemong-fruit","subcategoryKorean":"과일 태몽","related":["pregnancy-fruit","pregnancy-taemong"],"searchTier":"longtail","naverKeywords":["호두 태몽","호두 태몽 해몽"],"googleKeywords":["walnut taemong meaning"]},
-    {"id":"pregnancy-cow-taemong","korean":"소 태몽","english":"Cow taemong","slug":"cow-taemong","koreanSlug":"so-taemong","category":"pregnancy","subcategory":"taemong-animal","subcategoryKorean":"동물 태몽","related":["pregnancy-taemong","animal-cow"],"searchTier":"medium","naverKeywords":["소 태몽","소 태몽 해몽"],"googleKeywords":["cow taemong meaning"]},
-    {"id":"pregnancy-rabbit-taemong","korean":"토끼 태몽","english":"Rabbit taemong","slug":"rabbit-taemong","koreanSlug":"tokki-taemong","category":"pregnancy","subcategory":"taemong-animal","subcategoryKorean":"동물 태몽","related":["pregnancy-taemong","animal-rabbit"],"searchTier":"medium","naverKeywords":["토끼 태몽","토끼 태몽 해몽"],"googleKeywords":["rabbit taemong meaning"]},
-    {"id":"pregnancy-butterfly-taemong","korean":"나비 태몽","english":"Butterfly taemong","slug":"butterfly-taemong","koreanSlug":"nabi-taemong","category":"pregnancy","subcategory":"taemong-animal","subcategoryKorean":"동물 태몽","related":["pregnancy-taemong","insect-butterfly"],"searchTier":"longtail","naverKeywords":["나비 태몽","나비 태몽 해몽"],"googleKeywords":["butterfly taemong meaning"]},
-    {"id":"pregnancy-chestnut-taemong","korean":"밤 태몽","english":"Chestnut taemong","slug":"chestnut-taemong","koreanSlug":"bam-taemong","category":"pregnancy","subcategory":"taemong-fruit","subcategoryKorean":"과일 태몽","related":["pregnancy-fruit","pregnancy-taemong"],"searchTier":"longtail","naverKeywords":["밤 태몽","밤 태몽 해몽"],"googleKeywords":["chestnut taemong meaning"]},
-    {"id":"pregnancy-grape-taemong","korean":"포도 태몽","english":"Grape taemong","slug":"grape-taemong","koreanSlug":"podo-taemong","category":"pregnancy","subcategory":"taemong-fruit","subcategoryKorean":"과일 태몽","related":["pregnancy-fruit","pregnancy-taemong"],"searchTier":"longtail","naverKeywords":["포도 태몽","포도 태몽 해몽"],"googleKeywords":["grape taemong meaning"]},
-    {"id":"pregnancy-sun-taemong","korean":"태양 태몽","english":"Sun taemong","slug":"sun-taemong","koreanSlug":"taeyang-taemong","category":"pregnancy","subcategory":"taemong-nature","subcategoryKorean":"자연 태몽","related":["pregnancy-taemong","celestial-sun"],"searchTier":"medium","naverKeywords":["태양 태몽","태양 태몽 해몽"],"googleKeywords":["sun taemong meaning"]},
-    {"id":"pregnancy-gold-taemong","korean":"금 태몽","english":"Gold taemong","slug":"gold-taemong","koreanSlug":"geum-taemong","category":"pregnancy","subcategory":"taemong-object","subcategoryKorean":"물건 태몽","related":["pregnancy-taemong","money-gold"],"searchTier":"longtail","naverKeywords":["금 태몽","금 태몽 해몽"],"googleKeywords":["gold taemong meaning"]},
-    {"id":"pregnancy-bear-taemong","korean":"곰 태몽","english":"Bear taemong","slug":"bear-taemong","koreanSlug":"gom-taemong","category":"pregnancy","subcategory":"taemong-animal","subcategoryKorean":"동물 태몽","related":["pregnancy-taemong","animal-bear"],"searchTier":"medium","naverKeywords":["곰 태몽","곰 태몽 해몽"],"googleKeywords":["bear taemong meaning"]},
-    {"id":"pregnancy-turtle-taemong","korean":"거북이 태몽","english":"Turtle taemong","slug":"turtle-taemong","koreanSlug":"geobuk-taemong","category":"pregnancy","subcategory":"taemong-animal","subcategoryKorean":"동물 태몽","related":["pregnancy-taemong","animal-turtle"],"searchTier":"medium","naverKeywords":["거북이 태몽","거북이 태몽 해몽"],"googleKeywords":["turtle taemong meaning"]}
+    {
+      "id": "pregnancy-deer",
+      "korean": "사슴 태몽",
+      "english": "Deer taemong",
+      "slug": "deer-taemong",
+      "koreanSlug": "saseum-taemong",
+      "category": "pregnancy",
+      "subcategory": "taemong-animal",
+      "subcategoryKorean": "동물 태몽",
+      "related": [
+        "pregnancy-taemong"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "사슴 태몽",
+        "사슴 태몽 해몽"
+      ],
+      "googleKeywords": [
+        "deer taemong meaning"
+      ]
+    },
+    {
+      "id": "pregnancy-whale",
+      "korean": "고래 태몽",
+      "english": "Whale taemong",
+      "slug": "whale-taemong",
+      "koreanSlug": "gorae-taemong",
+      "category": "pregnancy",
+      "subcategory": "taemong-animal",
+      "subcategoryKorean": "동물 태몽",
+      "related": [
+        "pregnancy-taemong",
+        "whale-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "고래 태몽",
+        "고래 태몽 해몽"
+      ],
+      "googleKeywords": [
+        "whale taemong meaning"
+      ]
+    },
+    {
+      "id": "pregnancy-dolphin",
+      "korean": "돌고래 태몽",
+      "english": "Dolphin taemong",
+      "slug": "dolphin-taemong",
+      "koreanSlug": "dolgorae-taemong",
+      "category": "pregnancy",
+      "subcategory": "taemong-animal",
+      "subcategoryKorean": "동물 태몽",
+      "related": [
+        "pregnancy-taemong"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "돌고래 태몽",
+        "돌고래 태몽 해몽"
+      ],
+      "googleKeywords": [
+        "dolphin taemong meaning"
+      ]
+    },
+    {
+      "id": "pregnancy-eagle",
+      "korean": "독수리 태몽",
+      "english": "Eagle taemong",
+      "slug": "eagle-taemong",
+      "koreanSlug": "doksuri-taemong",
+      "category": "pregnancy",
+      "subcategory": "taemong-animal",
+      "subcategoryKorean": "동물 태몽",
+      "related": [
+        "pregnancy-taemong",
+        "pregnancy-bird"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "독수리 태몽",
+        "독수리 태몽 해몽"
+      ],
+      "googleKeywords": [
+        "eagle taemong meaning"
+      ]
+    },
+    {
+      "id": "pregnancy-rooster",
+      "korean": "닭 태몽",
+      "english": "Rooster taemong",
+      "slug": "rooster-taemong",
+      "koreanSlug": "dak-taemong",
+      "category": "pregnancy",
+      "subcategory": "taemong-animal",
+      "subcategoryKorean": "동물 태몽",
+      "related": [
+        "pregnancy-taemong",
+        "pregnancy-egg"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "닭 태몽",
+        "닭 태몽 해몽"
+      ],
+      "googleKeywords": [
+        "rooster taemong meaning"
+      ]
+    },
+    {
+      "id": "pregnancy-frog",
+      "korean": "개구리 태몽",
+      "english": "Frog taemong",
+      "slug": "frog-taemong",
+      "koreanSlug": "gaeguri-taemong",
+      "category": "pregnancy",
+      "subcategory": "taemong-animal",
+      "subcategoryKorean": "동물 태몽",
+      "related": [
+        "pregnancy-taemong"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "개구리 태몽",
+        "개구리 태몽 해몽"
+      ],
+      "googleKeywords": [
+        "frog taemong meaning"
+      ]
+    },
+    {
+      "id": "pregnancy-carp",
+      "korean": "잉어 태몽",
+      "english": "Carp taemong",
+      "slug": "carp-taemong",
+      "koreanSlug": "ingeo-taemong",
+      "category": "pregnancy",
+      "subcategory": "taemong-animal",
+      "subcategoryKorean": "동물 태몽",
+      "related": [
+        "pregnancy-fish",
+        "pregnancy-taemong"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "잉어 태몽",
+        "잉어 태몽 해몽"
+      ],
+      "googleKeywords": [
+        "carp taemong meaning"
+      ]
+    },
+    {
+      "id": "pregnancy-white-tiger",
+      "korean": "백호 태몽",
+      "english": "White tiger taemong",
+      "slug": "white-tiger-taemong",
+      "koreanSlug": "baekho-taemong",
+      "category": "pregnancy",
+      "subcategory": "taemong-animal",
+      "subcategoryKorean": "동물 태몽",
+      "related": [
+        "pregnancy-tiger",
+        "pregnancy-taemong"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "백호 태몽",
+        "백호 태몽 해몽"
+      ],
+      "googleKeywords": [
+        "white tiger taemong meaning"
+      ]
+    },
+    {
+      "id": "pregnancy-golden-pig",
+      "korean": "금돼지 태몽",
+      "english": "Golden pig taemong",
+      "slug": "golden-pig-taemong",
+      "koreanSlug": "geumdwaeji-taemong",
+      "category": "pregnancy",
+      "subcategory": "taemong-animal",
+      "subcategoryKorean": "동물 태몽",
+      "related": [
+        "pregnancy-pig",
+        "pregnancy-taemong"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "금돼지 태몽",
+        "금돼지 태몽 해몽"
+      ],
+      "googleKeywords": [
+        "golden pig taemong meaning"
+      ]
+    },
+    {
+      "id": "pregnancy-golden-dragon",
+      "korean": "금용 태몽",
+      "english": "Golden dragon taemong",
+      "slug": "golden-dragon-taemong",
+      "koreanSlug": "geumyong-taemong",
+      "category": "pregnancy",
+      "subcategory": "taemong-animal",
+      "subcategoryKorean": "동물 태몽",
+      "related": [
+        "pregnancy-dragon",
+        "pregnancy-taemong"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "금용 태몽",
+        "금룡 태몽 해몽"
+      ],
+      "googleKeywords": [
+        "golden dragon taemong meaning"
+      ]
+    },
+    {
+      "id": "pregnancy-pomegranate",
+      "korean": "석류 태몽",
+      "english": "Pomegranate taemong",
+      "slug": "pomegranate-taemong",
+      "koreanSlug": "seongyu-taemong",
+      "category": "pregnancy",
+      "subcategory": "taemong-fruit",
+      "subcategoryKorean": "과일 태몽",
+      "related": [
+        "pregnancy-fruit",
+        "pregnancy-taemong"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "석류 태몽",
+        "석류 태몽 해몽"
+      ],
+      "googleKeywords": [
+        "pomegranate taemong meaning"
+      ]
+    },
+    {
+      "id": "pregnancy-lotus-flower",
+      "korean": "연꽃 태몽",
+      "english": "Lotus taemong",
+      "slug": "lotus-taemong",
+      "koreanSlug": "yeonkkot-taemong",
+      "category": "pregnancy",
+      "subcategory": "taemong-nature",
+      "subcategoryKorean": "자연 태몽",
+      "related": [
+        "pregnancy-flower",
+        "plant-lotus"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "연꽃 태몽",
+        "연꽃 태몽 해몽"
+      ],
+      "googleKeywords": [
+        "lotus taemong meaning"
+      ]
+    },
+    {
+      "id": "pregnancy-rose-taemong",
+      "korean": "장미 태몽",
+      "english": "Rose taemong",
+      "slug": "rose-taemong",
+      "koreanSlug": "jangmi-taemong",
+      "category": "pregnancy",
+      "subcategory": "taemong-nature",
+      "subcategoryKorean": "자연 태몽",
+      "related": [
+        "pregnancy-flower",
+        "plant-rose"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "장미 태몽",
+        "장미 태몽 해몽"
+      ],
+      "googleKeywords": [
+        "rose taemong meaning"
+      ]
+    },
+    {
+      "id": "pregnancy-cloud",
+      "korean": "구름 태몽",
+      "english": "Cloud taemong",
+      "slug": "cloud-taemong",
+      "koreanSlug": "gureum-taemong",
+      "category": "pregnancy",
+      "subcategory": "taemong-celestial",
+      "subcategoryKorean": "천체 태몽",
+      "related": [
+        "pregnancy-taemong",
+        "nature-cloud"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "구름 태몽",
+        "구름 태몽 해몽"
+      ],
+      "googleKeywords": [
+        "cloud taemong meaning"
+      ]
+    },
+    {
+      "id": "pregnancy-twins",
+      "korean": "쌍둥이 태몽",
+      "english": "Twins taemong",
+      "slug": "twins-taemong",
+      "koreanSlug": "ssangdungi-taemong",
+      "category": "pregnancy",
+      "subcategory": "taemong-gender",
+      "subcategoryKorean": "성별 태몽",
+      "related": [
+        "pregnancy-taemong",
+        "pregnancy-boy",
+        "pregnancy-girl"
+      ],
+      "searchTier": "high",
+      "naverKeywords": [
+        "쌍둥이 태몽",
+        "쌍둥이 태몽 해몽",
+        "쌍둥이 태몽 종류"
+      ],
+      "googleKeywords": [
+        "twins taemong meaning",
+        "twins conception dream"
+      ]
+    },
+    {
+      "id": "pregnancy-ring-taemong",
+      "korean": "반지 태몽",
+      "english": "Ring taemong",
+      "slug": "ring-taemong",
+      "koreanSlug": "banji-taemong",
+      "category": "pregnancy",
+      "subcategory": "taemong-object",
+      "subcategoryKorean": "물건 태몽",
+      "related": [
+        "pregnancy-taemong",
+        "money-ring"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "반지 태몽",
+        "반지 태몽 해몽"
+      ],
+      "googleKeywords": [
+        "ring taemong meaning"
+      ]
+    },
+    {
+      "id": "pregnancy-pearl-taemong",
+      "korean": "진주 태몽",
+      "english": "Pearl taemong",
+      "slug": "pearl-taemong",
+      "koreanSlug": "jinju-taemong",
+      "category": "pregnancy",
+      "subcategory": "taemong-object",
+      "subcategoryKorean": "물건 태몽",
+      "related": [
+        "pregnancy-taemong",
+        "pregnancy-gem"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "진주 태몽",
+        "진주 태몽 해몽"
+      ],
+      "googleKeywords": [
+        "pearl taemong meaning"
+      ]
+    },
+    {
+      "id": "pregnancy-flying",
+      "korean": "하늘을 나는 태몽",
+      "english": "Flying taemong",
+      "slug": "flying-taemong",
+      "koreanSlug": "haneul-naneun-taemong",
+      "category": "pregnancy",
+      "subcategory": "taemong-action",
+      "subcategoryKorean": "행동 태몽",
+      "related": [
+        "pregnancy-taemong",
+        "action-flying"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "하늘 나는 태몽",
+        "날아다니는 태몽 해몽"
+      ],
+      "googleKeywords": [
+        "flying taemong meaning"
+      ]
+    },
+    {
+      "id": "pregnancy-river-taemong",
+      "korean": "강 태몽",
+      "english": "River taemong",
+      "slug": "river-taemong",
+      "koreanSlug": "gang-taemong",
+      "category": "pregnancy",
+      "subcategory": "taemong-nature",
+      "subcategoryKorean": "자연 태몽",
+      "related": [
+        "pregnancy-water",
+        "water-river"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "강 태몽",
+        "강 태몽 해몽"
+      ],
+      "googleKeywords": [
+        "river taemong meaning"
+      ]
+    },
+    {
+      "id": "pregnancy-ocean-taemong",
+      "korean": "바다 태몽",
+      "english": "Ocean taemong",
+      "slug": "ocean-taemong",
+      "koreanSlug": "bada-taemong",
+      "category": "pregnancy",
+      "subcategory": "taemong-nature",
+      "subcategoryKorean": "자연 태몽",
+      "related": [
+        "pregnancy-water",
+        "water-ocean"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "바다 태몽",
+        "바다 태몽 해몽"
+      ],
+      "googleKeywords": [
+        "ocean taemong meaning"
+      ]
+    },
+    {
+      "id": "pregnancy-miscarriage",
+      "korean": "유산 꿈",
+      "english": "Dream of miscarriage",
+      "slug": "miscarriage-dream",
+      "koreanSlug": "yusan-kkum",
+      "category": "pregnancy",
+      "subcategory": "pregnancy",
+      "subcategoryKorean": "임신",
+      "related": [
+        "pregnancy-general"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "유산 꿈",
+        "유산 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "miscarriage dream meaning"
+      ]
+    },
+    {
+      "id": "pregnancy-giving-birth",
+      "korean": "출산하는 꿈",
+      "english": "Dream of giving birth",
+      "slug": "giving-birth-dream",
+      "koreanSlug": "chulsan-haneun-kkum",
+      "category": "pregnancy",
+      "subcategory": "pregnancy",
+      "subcategoryKorean": "임신",
+      "related": [
+        "pregnancy-general",
+        "people-baby"
+      ],
+      "searchTier": "high",
+      "naverKeywords": [
+        "출산 꿈",
+        "출산하는 꿈 해몽",
+        "아기 낳는 꿈"
+      ],
+      "googleKeywords": [
+        "giving birth dream meaning"
+      ]
+    },
+    {
+      "id": "pregnancy-baby-boy-birth",
+      "korean": "아들 낳는 꿈",
+      "english": "Dream of giving birth to a boy",
+      "slug": "giving-birth-boy-dream",
+      "koreanSlug": "adeul-nahneun-kkum",
+      "category": "pregnancy",
+      "subcategory": "pregnancy",
+      "subcategoryKorean": "임신",
+      "related": [
+        "pregnancy-boy",
+        "pregnancy-giving-birth"
+      ],
+      "searchTier": "high",
+      "naverKeywords": [
+        "아들 낳는 꿈",
+        "아들 출산 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "giving birth to boy dream meaning"
+      ]
+    },
+    {
+      "id": "pregnancy-baby-girl-birth",
+      "korean": "딸 낳는 꿈",
+      "english": "Dream of giving birth to a girl",
+      "slug": "giving-birth-girl-dream",
+      "koreanSlug": "ttal-nahneun-kkum",
+      "category": "pregnancy",
+      "subcategory": "pregnancy",
+      "subcategoryKorean": "임신",
+      "related": [
+        "pregnancy-girl",
+        "pregnancy-giving-birth"
+      ],
+      "searchTier": "high",
+      "naverKeywords": [
+        "딸 낳는 꿈",
+        "딸 출산 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "giving birth to girl dream meaning"
+      ]
+    },
+    {
+      "id": "pregnancy-someone-pregnant",
+      "korean": "다른 사람이 임신하는 꿈",
+      "english": "Dream of someone else being pregnant",
+      "slug": "someone-else-pregnant-dream",
+      "koreanSlug": "dareun-saram-imsin-kkum",
+      "category": "pregnancy",
+      "subcategory": "pregnancy",
+      "subcategoryKorean": "임신",
+      "related": [
+        "pregnancy-general"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "다른 사람 임신 꿈",
+        "남이 임신 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "someone else pregnant dream meaning"
+      ]
+    },
+    {
+      "id": "pregnancy-morning-sickness",
+      "korean": "입덧하는 꿈",
+      "english": "Dream of morning sickness",
+      "slug": "morning-sickness-dream",
+      "koreanSlug": "ipdeot-haneun-kkum",
+      "category": "pregnancy",
+      "subcategory": "pregnancy",
+      "subcategoryKorean": "임신",
+      "related": [
+        "pregnancy-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "입덧 꿈",
+        "입덧 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "morning sickness dream meaning"
+      ]
+    },
+    {
+      "id": "pregnancy-umbilical",
+      "korean": "탯줄 꿈",
+      "english": "Dream of an umbilical cord",
+      "slug": "umbilical-cord-dream",
+      "koreanSlug": "taetjul-kkum",
+      "category": "pregnancy",
+      "subcategory": "pregnancy",
+      "subcategoryKorean": "임신",
+      "related": [
+        "pregnancy-giving-birth"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "탯줄 꿈",
+        "탯줄 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "umbilical cord dream meaning"
+      ]
+    },
+    {
+      "id": "pregnancy-wolf-taemong",
+      "korean": "늑대 태몽",
+      "english": "Wolf taemong",
+      "slug": "wolf-taemong",
+      "koreanSlug": "neukdae-taemong",
+      "category": "pregnancy",
+      "subcategory": "taemong-animal",
+      "subcategoryKorean": "동물 태몽",
+      "related": [
+        "pregnancy-taemong"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "늑대 태몽",
+        "늑대 태몽 해몽"
+      ],
+      "googleKeywords": [
+        "wolf taemong meaning"
+      ]
+    },
+    {
+      "id": "pregnancy-white-snake",
+      "korean": "흰뱀 태몽",
+      "english": "White snake taemong",
+      "slug": "white-snake-taemong",
+      "koreanSlug": "huinbaem-taemong",
+      "category": "pregnancy",
+      "subcategory": "taemong-animal",
+      "subcategoryKorean": "동물 태몽",
+      "related": [
+        "pregnancy-snake",
+        "pregnancy-taemong"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "흰뱀 태몽",
+        "흰뱀 태몽 해몽"
+      ],
+      "googleKeywords": [
+        "white snake taemong meaning"
+      ]
+    },
+    {
+      "id": "pregnancy-big-snake",
+      "korean": "큰 뱀 태몽",
+      "english": "Big snake taemong",
+      "slug": "big-snake-taemong",
+      "koreanSlug": "keun-baem-taemong",
+      "category": "pregnancy",
+      "subcategory": "taemong-animal",
+      "subcategoryKorean": "동물 태몽",
+      "related": [
+        "pregnancy-snake",
+        "pregnancy-taemong"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "큰 뱀 태몽",
+        "큰 뱀 태몽 해몽"
+      ],
+      "googleKeywords": [
+        "big snake taemong meaning"
+      ]
+    },
+    {
+      "id": "pregnancy-melon-taemong",
+      "korean": "참외 태몽",
+      "english": "Korean melon taemong",
+      "slug": "korean-melon-taemong",
+      "koreanSlug": "chamoe-taemong",
+      "category": "pregnancy",
+      "subcategory": "taemong-fruit",
+      "subcategoryKorean": "과일 태몽",
+      "related": [
+        "pregnancy-fruit",
+        "pregnancy-taemong"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "참외 태몽",
+        "참외 태몽 해몽"
+      ],
+      "googleKeywords": [
+        "Korean melon taemong meaning"
+      ]
+    },
+    {
+      "id": "pregnancy-walnut-taemong",
+      "korean": "호두 태몽",
+      "english": "Walnut taemong",
+      "slug": "walnut-taemong",
+      "koreanSlug": "hodu-taemong",
+      "category": "pregnancy",
+      "subcategory": "taemong-fruit",
+      "subcategoryKorean": "과일 태몽",
+      "related": [
+        "pregnancy-fruit",
+        "pregnancy-taemong"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "호두 태몽",
+        "호두 태몽 해몽"
+      ],
+      "googleKeywords": [
+        "walnut taemong meaning"
+      ]
+    }
   ]
 }

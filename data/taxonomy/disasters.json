@@ -3,57 +3,1015 @@
   "korean": "재난/사고",
   "english": "Disasters & Accidents",
   "symbols": [
-    {"id":"disaster-general","korean":"재난 꿈","english":"Dream of a disaster","slug":"disaster-dream","koreanSlug":"jaenan-kkum","category":"disasters","subcategory":"general","subcategoryKorean":"일반","related":["disaster-earthquake","disaster-flood","disaster-fire"],"searchTier":"medium","naverKeywords":["재난 꿈","재난 꿈 해몽"],"googleKeywords":["disaster dream meaning"]},
-    {"id":"disaster-earthquake","korean":"지진 꿈","english":"Dream of an earthquake","slug":"earthquake-disaster-dream","koreanSlug":"jijin-kkum","category":"disasters","subcategory":"natural","subcategoryKorean":"자연재해","related":["disaster-general","nature-earthquake"],"searchTier":"high","naverKeywords":["지진 꿈","지진 꿈 해몽"],"googleKeywords":["earthquake dream meaning"]},
-    {"id":"disaster-flood","korean":"홍수 재난 꿈","english":"Dream of flood disaster","slug":"flood-disaster-dream","koreanSlug":"hongsu-jaenan-kkum","category":"disasters","subcategory":"natural","subcategoryKorean":"자연재해","related":["water-flood","disaster-general"],"searchTier":"medium","naverKeywords":["홍수 재난 꿈","홍수 피해 꿈 해몽"],"googleKeywords":["flood disaster dream meaning"]},
-    {"id":"disaster-fire","korean":"화재 꿈","english":"Dream of a fire disaster","slug":"fire-disaster-dream","koreanSlug":"hwajae-kkum","category":"disasters","subcategory":"fire","subcategoryKorean":"화재","related":["fire-house","fire-general"],"searchTier":"medium","naverKeywords":["화재 꿈","화재 꿈 해몽"],"googleKeywords":["fire disaster dream meaning"]},
-    {"id":"disaster-tornado","korean":"토네이도 재난 꿈","english":"Dream of tornado disaster","slug":"tornado-disaster-dream","koreanSlug":"toneido-jaenan-kkum","category":"disasters","subcategory":"natural","subcategoryKorean":"자연재해","related":["weather-tornado","disaster-general"],"searchTier":"longtail","naverKeywords":["토네이도 재난 꿈","태풍 피해 꿈 해몽"],"googleKeywords":["tornado disaster dream meaning"]},
-    {"id":"disaster-tsunami","korean":"쓰나미 재난 꿈","english":"Dream of tsunami disaster","slug":"tsunami-disaster-dream","koreanSlug":"sseunami-jaenan-kkum","category":"disasters","subcategory":"natural","subcategoryKorean":"자연재해","related":["water-tsunami","disaster-general"],"searchTier":"medium","naverKeywords":["쓰나미 재난 꿈","해일 피해 꿈 해몽"],"googleKeywords":["tsunami disaster dream meaning"]},
-    {"id":"disaster-volcano","korean":"화산 폭발 꿈","english":"Dream of volcanic eruption","slug":"volcanic-eruption-dream","koreanSlug":"hwasan-pokbal-kkum","category":"disasters","subcategory":"natural","subcategoryKorean":"자연재해","related":["nature-volcano","fire-lava"],"searchTier":"medium","naverKeywords":["화산 폭발 꿈","화산 꿈 해몽"],"googleKeywords":["volcanic eruption dream meaning"]},
-    {"id":"disaster-accident","korean":"사고 꿈","english":"Dream of an accident","slug":"accident-dream","koreanSlug":"sago-kkum","category":"disasters","subcategory":"accident","subcategoryKorean":"사고","related":["action-accident","disaster-general"],"searchTier":"high","naverKeywords":["사고 꿈","사고 꿈 해몽"],"googleKeywords":["accident dream meaning"]},
-    {"id":"disaster-plane-crash","korean":"비행기 사고 꿈","english":"Dream of plane crash","slug":"plane-crash-dream","koreanSlug":"bihaenggi-sago-kkum","category":"disasters","subcategory":"accident","subcategoryKorean":"사고","related":["transport-airplane-crash","disaster-accident"],"searchTier":"medium","naverKeywords":["비행기 사고 꿈","비행기 사고 꿈 해몽"],"googleKeywords":["plane crash dream meaning"]},
-    {"id":"disaster-collapse","korean":"건물 붕괴 꿈","english":"Dream of building collapse","slug":"building-collapse-dream","koreanSlug":"geonmul-bunggoe-kkum","category":"disasters","subcategory":"structural","subcategoryKorean":"구조물","related":["disaster-earthquake","place-building"],"searchTier":"medium","naverKeywords":["건물 붕괴 꿈","건물 무너지는 꿈 해몽"],"googleKeywords":["building collapse dream meaning"]},
-    {"id":"disaster-explosion","korean":"폭발 사고 꿈","english":"Dream of explosion accident","slug":"explosion-accident-dream","koreanSlug":"pokbal-sago-kkum","category":"disasters","subcategory":"accident","subcategoryKorean":"사고","related":["fire-explosion","disaster-general"],"searchTier":"medium","naverKeywords":["폭발 사고 꿈","폭발 꿈 해몽"],"googleKeywords":["explosion accident dream meaning"]},
-    {"id":"disaster-sinking","korean":"침몰 꿈","english":"Dream of sinking","slug":"sinking-dream","koreanSlug":"chimmol-kkum","category":"disasters","subcategory":"accident","subcategoryKorean":"사고","related":["transport-ship-sinking","action-drowning"],"searchTier":"longtail","naverKeywords":["침몰 꿈","침몰 꿈 해몽"],"googleKeywords":["sinking dream meaning"]},
-    {"id":"disaster-trapped","korean":"갇히는 꿈","english":"Dream of being trapped","slug":"trapped-dream","koreanSlug":"gachineun-kkum","category":"disasters","subcategory":"entrapment","subcategoryKorean":"갇힘","related":["action-prison","body-paralysis"],"searchTier":"medium","naverKeywords":["갇히는 꿈","갇히는 꿈 해몽"],"googleKeywords":["being trapped dream meaning"]},
-    {"id":"disaster-rescue","korean":"구조되는 꿈","english":"Dream of being rescued","slug":"being-rescued-dream","koreanSlug":"gujo-doeneun-kkum","category":"disasters","subcategory":"rescue","subcategoryKorean":"구조","related":["disaster-trapped","fire-rescue"],"searchTier":"longtail","naverKeywords":["구조되는 꿈","구조 꿈 해몽"],"googleKeywords":["being rescued dream meaning"]},
-    {"id":"disaster-avalanche","korean":"눈사태 꿈","english":"Dream of an avalanche","slug":"avalanche-dream","koreanSlug":"nunsatae-kkum","category":"disasters","subcategory":"natural","subcategoryKorean":"자연재해","related":["weather-snow","nature-mountain"],"searchTier":"longtail","naverKeywords":["눈사태 꿈","눈사태 꿈 해몽"],"googleKeywords":["avalanche dream meaning"]},
-    {"id":"disaster-blackout","korean":"정전 꿈","english":"Dream of a blackout","slug":"blackout-dream","koreanSlug":"jeongjeon-kkum","category":"disasters","subcategory":"utility","subcategoryKorean":"인프라","related":["color-dark"],"searchTier":"longtail","naverKeywords":["정전 꿈","정전 꿈 해몽"],"googleKeywords":["blackout dream meaning"]},
-    {"id":"disaster-falling-object","korean":"물건이 떨어지는 꿈","english":"Dream of falling objects","slug":"falling-objects-dream","koreanSlug":"mulgeon-tteoreojineun-kkum","category":"disasters","subcategory":"accident","subcategoryKorean":"사고","related":["action-falling","disaster-general"],"searchTier":"longtail","naverKeywords":["물건 떨어지는 꿈","물건 떨어지는 꿈 해몽"],"googleKeywords":["falling objects dream meaning"]},
-    {"id":"disaster-drowning-other","korean":"다른 사람이 물에 빠지는 꿈","english":"Dream of someone drowning","slug":"someone-drowning-dream","koreanSlug":"dareun-saram-mul-ppajineun-kkum","category":"disasters","subcategory":"accident","subcategoryKorean":"사고","related":["action-drowning","water-drowning-save"],"searchTier":"longtail","naverKeywords":["다른 사람 물에 빠지는 꿈","남 물에 빠지는 꿈 해몽"],"googleKeywords":["someone drowning dream meaning"]},
-    {"id":"disaster-poison","korean":"독에 중독되는 꿈","english":"Dream of being poisoned","slug":"poisoned-dream","koreanSlug":"dok-jungdok-kkum","category":"disasters","subcategory":"accident","subcategoryKorean":"사고","related":["body-sick"],"searchTier":"longtail","naverKeywords":["독 중독 꿈","중독 꿈 해몽"],"googleKeywords":["being poisoned dream meaning"]},
-    {"id":"disaster-nuclear","korean":"핵전쟁/핵폭발 꿈","english":"Dream of nuclear war","slug":"nuclear-war-dream","koreanSlug":"haek-jeonjaeng-kkum","category":"disasters","subcategory":"war","subcategoryKorean":"전쟁","related":["action-war","celestial-end-of-world"],"searchTier":"longtail","naverKeywords":["핵전쟁 꿈","핵폭발 꿈 해몽"],"googleKeywords":["nuclear war dream meaning"]},
-    {"id":"disaster-crash","korean":"충돌 꿈","english":"Dream of a collision","slug":"collision-dream","koreanSlug":"chungdol-kkum","category":"disasters","subcategory":"accident","subcategoryKorean":"사고","related":["action-accident","disaster-accident"],"searchTier":"longtail","naverKeywords":["충돌 꿈","충돌 꿈 해몽"],"googleKeywords":["collision dream meaning"]},
-    {"id":"disaster-landslide","korean":"산사태 꿈","english":"Dream of a landslide","slug":"landslide-dream","koreanSlug":"sansatae-kkum","category":"disasters","subcategory":"natural","subcategoryKorean":"자연재해","related":["disaster-general","nature-mountain"],"searchTier":"longtail","naverKeywords":["산사태 꿈","산사태 꿈 해몽"],"googleKeywords":["landslide dream meaning"]},
-    {"id":"disaster-gas-leak","korean":"가스 누출 꿈","english":"Dream of gas leak","slug":"gas-leak-dream","koreanSlug":"gaseu-nuchul-kkum","category":"disasters","subcategory":"utility","subcategoryKorean":"인프라","related":["disaster-explosion","fire-general"],"searchTier":"longtail","naverKeywords":["가스 누출 꿈","가스 꿈 해몽"],"googleKeywords":["gas leak dream meaning"]},
-    {"id":"disaster-typhoon","korean":"태풍 꿈","english":"Dream of a typhoon","slug":"typhoon-dream","koreanSlug":"taepung-kkum","category":"disasters","subcategory":"natural","subcategoryKorean":"자연재해","related":["weather-storm","disaster-general"],"searchTier":"medium","naverKeywords":["태풍 꿈","태풍 꿈 해몽"],"googleKeywords":["typhoon dream meaning"]},
-    {"id":"disaster-sinkhole","korean":"싱크홀 꿈","english":"Dream of a sinkhole","slug":"sinkhole-dream","koreanSlug":"singkeuhol-kkum","category":"disasters","subcategory":"structural","subcategoryKorean":"구조물","related":["action-falling-hole","disaster-collapse"],"searchTier":"longtail","naverKeywords":["싱크홀 꿈","싱크홀 꿈 해몽"],"googleKeywords":["sinkhole dream meaning"]},
-    {"id":"disaster-train-derail","korean":"기차 탈선 꿈","english":"Dream of train derailment","slug":"train-derailment-dream","koreanSlug":"gicha-talseon-kkum","category":"disasters","subcategory":"accident","subcategoryKorean":"사고","related":["transport-train","disaster-accident"],"searchTier":"longtail","naverKeywords":["기차 탈선 꿈","기차 사고 꿈 해몽"],"googleKeywords":["train derailment dream meaning"]},
-    {"id":"disaster-bridge-collapse","korean":"다리가 무너지는 꿈","english":"Dream of bridge collapsing","slug":"bridge-collapsing-dream","koreanSlug":"dari-muneojineun-kkum","category":"disasters","subcategory":"structural","subcategoryKorean":"구조물","related":["disaster-collapse"],"searchTier":"longtail","naverKeywords":["다리 무너지는 꿈","다리 붕괴 꿈 해몽"],"googleKeywords":["bridge collapsing dream meaning"]},
-    {"id":"disaster-water-rising","korean":"물이 차오르는 꿈","english":"Dream of rising water","slug":"rising-water-dream","koreanSlug":"mul-chaoreuneun-kkum","category":"disasters","subcategory":"natural","subcategoryKorean":"자연재해","related":["disaster-flood","water-flood"],"searchTier":"medium","naverKeywords":["물 차오르는 꿈","물 차오르는 꿈 해몽"],"googleKeywords":["rising water dream meaning"]},
-    {"id":"disaster-evacuation","korean":"대피하는 꿈","english":"Dream of evacuation","slug":"evacuation-dream","koreanSlug":"daepi-haneun-kkum","category":"disasters","subcategory":"rescue","subcategoryKorean":"구조","related":["disaster-general","action-escape"],"searchTier":"longtail","naverKeywords":["대피 꿈","대피 꿈 해몽"],"googleKeywords":["evacuation dream meaning"]},
-    {"id":"disaster-plane-crash","korean":"비행기 추락 꿈","english":"Dream of plane crash","slug":"plane-crash-dream","koreanSlug":"bihaenggi-churak-kkum","category":"disasters","subcategory":"accident","subcategoryKorean":"사고","related":["transport-airplane","disaster-general"],"searchTier":"medium","naverKeywords":["비행기 추락 꿈","비행기 추락 꿈 해몽"],"googleKeywords":["plane crash dream meaning"]},
-    {"id":"disaster-building-fire","korean":"건물 화재 꿈","english":"Dream of building fire","slug":"building-fire-disaster-dream","koreanSlug":"geonmul-hwajae-kkum","category":"disasters","subcategory":"fire","subcategoryKorean":"화재","related":["fire-building","disaster-general"],"searchTier":"medium","naverKeywords":["건물 화재 꿈","건물 화재 꿈 해몽"],"googleKeywords":["building fire dream meaning"]},
-    {"id":"disaster-shipwreck","korean":"난파선 꿈","english":"Dream of a shipwreck","slug":"shipwreck-dream","koreanSlug":"nanpaseon-kkum","category":"disasters","subcategory":"accident","subcategoryKorean":"사고","related":["transport-ship","water-ocean"],"searchTier":"longtail","naverKeywords":["난파선 꿈","배 침몰 꿈 해몽"],"googleKeywords":["shipwreck dream meaning"]},
-    {"id":"disaster-rescue","korean":"구조되는 꿈","english":"Dream of being rescued","slug":"being-rescued-dream","koreanSlug":"gujo-doeneun-kkum","category":"disasters","subcategory":"rescue","subcategoryKorean":"구조","related":["disaster-general","disaster-evacuation"],"searchTier":"longtail","naverKeywords":["구조 꿈","구조되는 꿈 해몽"],"googleKeywords":["being rescued dream meaning"]},
-    {"id":"disaster-blackout","korean":"정전 꿈","english":"Dream of a blackout","slug":"blackout-dream","koreanSlug":"jeongjeon-kkum","category":"disasters","subcategory":"utility","subcategoryKorean":"인프라","related":["disaster-general"],"searchTier":"longtail","naverKeywords":["정전 꿈","정전 꿈 해몽"],"googleKeywords":["blackout dream meaning"]},
-    {"id":"disaster-avalanche","korean":"눈사태 꿈","english":"Dream of an avalanche","slug":"avalanche-dream","koreanSlug":"nunsatae-kkum","category":"disasters","subcategory":"natural","subcategoryKorean":"자연재해","related":["weather-snow","nature-mountain"],"searchTier":"longtail","naverKeywords":["눈사태 꿈","눈사태 꿈 해몽"],"googleKeywords":["avalanche dream meaning"]},
-    {"id":"disaster-drought","korean":"가뭄 꿈","english":"Dream of a drought","slug":"drought-dream","koreanSlug":"gamum-kkum","category":"disasters","subcategory":"natural","subcategoryKorean":"자연재해","related":["nature-desert","water-river-dried"],"searchTier":"longtail","naverKeywords":["가뭄 꿈","가뭄 꿈 해몽"],"googleKeywords":["drought dream meaning"]},
-    {"id":"disaster-pandemic","korean":"전염병 꿈","english":"Dream of a pandemic","slug":"pandemic-dream","koreanSlug":"jeonyeombyeong-kkum","category":"disasters","subcategory":"medical","subcategoryKorean":"의료","related":["body-sick","disaster-general"],"searchTier":"longtail","naverKeywords":["전염병 꿈","전염병 꿈 해몽"],"googleKeywords":["pandemic dream meaning"]},
-    {"id":"disaster-mine-collapse","korean":"광산 붕괴 꿈","english":"Dream of mine collapse","slug":"mine-collapse-dream","koreanSlug":"gwangsan-bunggoe-kkum","category":"disasters","subcategory":"structural","subcategoryKorean":"구조물","related":["disaster-collapse","nature-cave"],"searchTier":"longtail","naverKeywords":["광산 붕괴 꿈","광산 꿈 해몽"],"googleKeywords":["mine collapse dream meaning"]},
-    {"id":"disaster-tornado-hit","korean":"회오리에 휩쓸리는 꿈","english":"Dream of being caught in a tornado","slug":"caught-in-tornado-dream","koreanSlug":"hoeori-hwipsseullineun-kkum","category":"disasters","subcategory":"natural","subcategoryKorean":"자연재해","related":["weather-tornado","disaster-general"],"searchTier":"longtail","naverKeywords":["회오리 휩쓸리는 꿈","토네이도 꿈 해몽"],"googleKeywords":["caught in tornado dream meaning"]},
-    {"id":"disaster-earthquake-building","korean":"지진으로 건물 무너지는 꿈","english":"Dream of building collapsing in earthquake","slug":"earthquake-building-dream","koreanSlug":"jijin-geonmul-muneojineun-kkum","category":"disasters","subcategory":"natural","subcategoryKorean":"자연재해","related":["disaster-earthquake","disaster-collapse"],"searchTier":"longtail","naverKeywords":["지진 건물 붕괴 꿈","지진 건물 꿈 해몽"],"googleKeywords":["building collapse earthquake dream meaning"]},
-    {"id":"disaster-chemical-spill","korean":"화학물질 유출 꿈","english":"Dream of chemical spill","slug":"chemical-spill-dream","koreanSlug":"hwahak-mulchil-yuchul-kkum","category":"disasters","subcategory":"utility","subcategoryKorean":"인프라","related":["disaster-general","disaster-gas-leak"],"searchTier":"longtail","naverKeywords":["화학 유출 꿈","화학물질 꿈 해몽"],"googleKeywords":["chemical spill dream meaning"]},
-    {"id":"disaster-tsunami-hit","korean":"해일에 휩쓸리는 꿈","english":"Dream of being swept by tsunami","slug":"swept-tsunami-dream","koreanSlug":"haeil-hwipsseullineun-kkum","category":"disasters","subcategory":"natural","subcategoryKorean":"자연재해","related":["disaster-tsunami","water-tsunami"],"searchTier":"longtail","naverKeywords":["해일에 휩쓸리는 꿈","쓰나미 꿈 해몽"],"googleKeywords":["swept by tsunami dream meaning"]},
-    {"id":"disaster-survival","korean":"재난에서 살아남는 꿈","english":"Dream of surviving a disaster","slug":"surviving-disaster-dream","koreanSlug":"jaenan-saranneun-kkum","category":"disasters","subcategory":"rescue","subcategoryKorean":"구조","related":["disaster-general","disaster-rescue"],"searchTier":"longtail","naverKeywords":["재난 살아남는 꿈","생존 꿈 해몽"],"googleKeywords":["surviving disaster dream meaning"]},
-    {"id":"disaster-nuclear","korean":"핵폭발 꿈","english":"Dream of nuclear explosion","slug":"nuclear-explosion-dream","koreanSlug":"haek-pokbal-kkum","category":"disasters","subcategory":"war","subcategoryKorean":"전쟁","related":["disaster-explosion","fire-explosion"],"searchTier":"longtail","naverKeywords":["핵폭발 꿈","핵폭발 꿈 해몽"],"googleKeywords":["nuclear explosion dream meaning"]},
-    {"id":"disaster-car-accident","korean":"교통사고 꿈","english":"Dream of a car accident","slug":"car-accident-dream","koreanSlug":"gyotongsago-kkum","category":"disasters","subcategory":"accident","subcategoryKorean":"사고","related":["transport-car","death-car-accident"],"searchTier":"high","naverKeywords":["교통사고 꿈","교통사고 꿈 해몽"],"googleKeywords":["car accident dream meaning"]},
-    {"id":"disaster-building-explosion","korean":"건물 폭발 꿈","english":"Dream of building explosion","slug":"building-explosion-dream","koreanSlug":"geonmul-pokbal-kkum","category":"disasters","subcategory":"accident","subcategoryKorean":"사고","related":["fire-explosion","disaster-explosion"],"searchTier":"longtail","naverKeywords":["건물 폭발 꿈","폭발 꿈 해몽"],"googleKeywords":["building explosion dream meaning"]},
-    {"id":"disaster-sinking","korean":"침몰하는 꿈","english":"Dream of a sinking ship","slug":"sinking-ship-dream","koreanSlug":"chimmol-haneun-kkum","category":"disasters","subcategory":"accident","subcategoryKorean":"사고","related":["water-sinking-boat","disaster-shipwreck"],"searchTier":"medium","naverKeywords":["침몰 꿈","배 침몰 꿈 해몽"],"googleKeywords":["sinking ship dream meaning"]},
-    {"id":"disaster-hail","korean":"우박 꿈","english":"Dream of hailstorm","slug":"hailstorm-dream","koreanSlug":"ubak-kkum","category":"disasters","subcategory":"natural","subcategoryKorean":"자연재해","related":["weather-hail","disaster-general"],"searchTier":"longtail","naverKeywords":["우박 꿈","우박 꿈 해몽"],"googleKeywords":["hailstorm dream meaning"]},
-    {"id":"disaster-landslide","korean":"산사태 꿈","english":"Dream of a landslide","slug":"landslide-dream","koreanSlug":"sansatae-kkum","category":"disasters","subcategory":"natural","subcategoryKorean":"자연재해","related":["nature-mountain","disaster-earthquake"],"searchTier":"medium","naverKeywords":["산사태 꿈","산사태 꿈 해몽"],"googleKeywords":["landslide dream meaning"]},
-    {"id":"disaster-war","korean":"전쟁 꿈","english":"Dream of war","slug":"war-dream","koreanSlug":"jeonjaeng-kkum","category":"disasters","subcategory":"war","subcategoryKorean":"전쟁","related":["death-war","people-soldier"],"searchTier":"high","naverKeywords":["전쟁 꿈","전쟁 꿈 해몽"],"googleKeywords":["war dream meaning"]},
-    {"id":"disaster-trapped","korean":"갇히는 꿈","english":"Dream of being trapped","slug":"trapped-dream","koreanSlug":"gathineun-kkum","category":"disasters","subcategory":"accident","subcategoryKorean":"사고","related":["action-escaping","emotion-fear"],"searchTier":"medium","naverKeywords":["갇히는 꿈","갇히는 꿈 해몽"],"googleKeywords":["being trapped dream meaning"]},
-    {"id":"disaster-meteor","korean":"운석 충돌 꿈","english":"Dream of meteor impact","slug":"meteor-impact-dream","koreanSlug":"unseok-chungdol-kkum","category":"disasters","subcategory":"natural","subcategoryKorean":"자연재해","related":["celestial-comet","disaster-general"],"searchTier":"longtail","naverKeywords":["운석 꿈","운석 충돌 꿈 해몽"],"googleKeywords":["meteor impact dream meaning"]}
+    {
+      "id": "disaster-general",
+      "korean": "재난 꿈",
+      "english": "Dream of a disaster",
+      "slug": "disaster-dream",
+      "koreanSlug": "jaenan-kkum",
+      "category": "disasters",
+      "subcategory": "general",
+      "subcategoryKorean": "일반",
+      "related": [
+        "disaster-earthquake",
+        "disaster-flood",
+        "disaster-fire"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "재난 꿈",
+        "재난 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "disaster dream meaning"
+      ]
+    },
+    {
+      "id": "disaster-earthquake",
+      "korean": "지진 꿈",
+      "english": "Dream of an earthquake",
+      "slug": "earthquake-disaster-dream",
+      "koreanSlug": "jijin-kkum",
+      "category": "disasters",
+      "subcategory": "natural",
+      "subcategoryKorean": "자연재해",
+      "related": [
+        "disaster-general",
+        "nature-earthquake"
+      ],
+      "searchTier": "high",
+      "naverKeywords": [
+        "지진 꿈",
+        "지진 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "earthquake dream meaning"
+      ]
+    },
+    {
+      "id": "disaster-flood",
+      "korean": "홍수 재난 꿈",
+      "english": "Dream of flood disaster",
+      "slug": "flood-disaster-dream",
+      "koreanSlug": "hongsu-jaenan-kkum",
+      "category": "disasters",
+      "subcategory": "natural",
+      "subcategoryKorean": "자연재해",
+      "related": [
+        "water-flood",
+        "disaster-general"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "홍수 재난 꿈",
+        "홍수 피해 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "flood disaster dream meaning"
+      ]
+    },
+    {
+      "id": "disaster-fire",
+      "korean": "화재 꿈",
+      "english": "Dream of a fire disaster",
+      "slug": "fire-disaster-dream",
+      "koreanSlug": "hwajae-kkum",
+      "category": "disasters",
+      "subcategory": "fire",
+      "subcategoryKorean": "화재",
+      "related": [
+        "fire-house",
+        "fire-general"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "화재 꿈",
+        "화재 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "fire disaster dream meaning"
+      ]
+    },
+    {
+      "id": "disaster-tornado",
+      "korean": "토네이도 재난 꿈",
+      "english": "Dream of tornado disaster",
+      "slug": "tornado-disaster-dream",
+      "koreanSlug": "toneido-jaenan-kkum",
+      "category": "disasters",
+      "subcategory": "natural",
+      "subcategoryKorean": "자연재해",
+      "related": [
+        "weather-tornado",
+        "disaster-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "토네이도 재난 꿈",
+        "태풍 피해 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "tornado disaster dream meaning"
+      ]
+    },
+    {
+      "id": "disaster-tsunami",
+      "korean": "쓰나미 재난 꿈",
+      "english": "Dream of tsunami disaster",
+      "slug": "tsunami-disaster-dream",
+      "koreanSlug": "sseunami-jaenan-kkum",
+      "category": "disasters",
+      "subcategory": "natural",
+      "subcategoryKorean": "자연재해",
+      "related": [
+        "water-tsunami",
+        "disaster-general"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "쓰나미 재난 꿈",
+        "해일 피해 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "tsunami disaster dream meaning"
+      ]
+    },
+    {
+      "id": "disaster-volcano",
+      "korean": "화산 폭발 꿈",
+      "english": "Dream of volcanic eruption",
+      "slug": "volcanic-eruption-dream",
+      "koreanSlug": "hwasan-pokbal-kkum",
+      "category": "disasters",
+      "subcategory": "natural",
+      "subcategoryKorean": "자연재해",
+      "related": [
+        "nature-volcano",
+        "fire-lava"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "화산 폭발 꿈",
+        "화산 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "volcanic eruption dream meaning"
+      ]
+    },
+    {
+      "id": "disaster-accident",
+      "korean": "사고 꿈",
+      "english": "Dream of an accident",
+      "slug": "accident-dream",
+      "koreanSlug": "sago-kkum",
+      "category": "disasters",
+      "subcategory": "accident",
+      "subcategoryKorean": "사고",
+      "related": [
+        "action-accident",
+        "disaster-general"
+      ],
+      "searchTier": "high",
+      "naverKeywords": [
+        "사고 꿈",
+        "사고 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "accident dream meaning"
+      ]
+    },
+    {
+      "id": "disaster-plane-crash",
+      "korean": "비행기 사고 꿈",
+      "english": "Dream of plane crash",
+      "slug": "plane-crash-dream",
+      "koreanSlug": "bihaenggi-sago-kkum",
+      "category": "disasters",
+      "subcategory": "accident",
+      "subcategoryKorean": "사고",
+      "related": [
+        "transport-airplane-crash",
+        "disaster-accident"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "비행기 사고 꿈",
+        "비행기 사고 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "plane crash dream meaning"
+      ]
+    },
+    {
+      "id": "disaster-collapse",
+      "korean": "건물 붕괴 꿈",
+      "english": "Dream of building collapse",
+      "slug": "building-collapse-dream",
+      "koreanSlug": "geonmul-bunggoe-kkum",
+      "category": "disasters",
+      "subcategory": "structural",
+      "subcategoryKorean": "구조물",
+      "related": [
+        "disaster-earthquake",
+        "place-building"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "건물 붕괴 꿈",
+        "건물 무너지는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "building collapse dream meaning"
+      ]
+    },
+    {
+      "id": "disaster-explosion",
+      "korean": "폭발 사고 꿈",
+      "english": "Dream of explosion accident",
+      "slug": "explosion-accident-dream",
+      "koreanSlug": "pokbal-sago-kkum",
+      "category": "disasters",
+      "subcategory": "accident",
+      "subcategoryKorean": "사고",
+      "related": [
+        "fire-explosion",
+        "disaster-general"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "폭발 사고 꿈",
+        "폭발 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "explosion accident dream meaning"
+      ]
+    },
+    {
+      "id": "disaster-sinking",
+      "korean": "침몰 꿈",
+      "english": "Dream of sinking",
+      "slug": "sinking-dream",
+      "koreanSlug": "chimmol-kkum",
+      "category": "disasters",
+      "subcategory": "accident",
+      "subcategoryKorean": "사고",
+      "related": [
+        "transport-ship-sinking",
+        "action-drowning"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "침몰 꿈",
+        "침몰 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "sinking dream meaning"
+      ]
+    },
+    {
+      "id": "disaster-trapped",
+      "korean": "갇히는 꿈",
+      "english": "Dream of being trapped",
+      "slug": "trapped-dream",
+      "koreanSlug": "gachineun-kkum",
+      "category": "disasters",
+      "subcategory": "entrapment",
+      "subcategoryKorean": "갇힘",
+      "related": [
+        "action-prison",
+        "body-paralysis"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "갇히는 꿈",
+        "갇히는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "being trapped dream meaning"
+      ]
+    },
+    {
+      "id": "disaster-rescue",
+      "korean": "구조되는 꿈",
+      "english": "Dream of being rescued",
+      "slug": "being-rescued-dream",
+      "koreanSlug": "gujo-doeneun-kkum",
+      "category": "disasters",
+      "subcategory": "rescue",
+      "subcategoryKorean": "구조",
+      "related": [
+        "disaster-trapped",
+        "fire-rescue"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "구조되는 꿈",
+        "구조 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "being rescued dream meaning"
+      ]
+    },
+    {
+      "id": "disaster-avalanche",
+      "korean": "눈사태 꿈",
+      "english": "Dream of an avalanche",
+      "slug": "avalanche-dream",
+      "koreanSlug": "nunsatae-kkum",
+      "category": "disasters",
+      "subcategory": "natural",
+      "subcategoryKorean": "자연재해",
+      "related": [
+        "weather-snow",
+        "nature-mountain"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "눈사태 꿈",
+        "눈사태 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "avalanche dream meaning"
+      ]
+    },
+    {
+      "id": "disaster-blackout",
+      "korean": "정전 꿈",
+      "english": "Dream of a blackout",
+      "slug": "blackout-dream",
+      "koreanSlug": "jeongjeon-kkum",
+      "category": "disasters",
+      "subcategory": "utility",
+      "subcategoryKorean": "인프라",
+      "related": [
+        "color-dark"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "정전 꿈",
+        "정전 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "blackout dream meaning"
+      ]
+    },
+    {
+      "id": "disaster-falling-object",
+      "korean": "물건이 떨어지는 꿈",
+      "english": "Dream of falling objects",
+      "slug": "falling-objects-dream",
+      "koreanSlug": "mulgeon-tteoreojineun-kkum",
+      "category": "disasters",
+      "subcategory": "accident",
+      "subcategoryKorean": "사고",
+      "related": [
+        "action-falling",
+        "disaster-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "물건 떨어지는 꿈",
+        "물건 떨어지는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "falling objects dream meaning"
+      ]
+    },
+    {
+      "id": "disaster-drowning-other",
+      "korean": "다른 사람이 물에 빠지는 꿈",
+      "english": "Dream of someone drowning",
+      "slug": "someone-drowning-dream",
+      "koreanSlug": "dareun-saram-mul-ppajineun-kkum",
+      "category": "disasters",
+      "subcategory": "accident",
+      "subcategoryKorean": "사고",
+      "related": [
+        "action-drowning",
+        "water-drowning-save"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "다른 사람 물에 빠지는 꿈",
+        "남 물에 빠지는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "someone drowning dream meaning"
+      ]
+    },
+    {
+      "id": "disaster-poison",
+      "korean": "독에 중독되는 꿈",
+      "english": "Dream of being poisoned",
+      "slug": "poisoned-dream",
+      "koreanSlug": "dok-jungdok-kkum",
+      "category": "disasters",
+      "subcategory": "accident",
+      "subcategoryKorean": "사고",
+      "related": [
+        "body-sick"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "독 중독 꿈",
+        "중독 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "being poisoned dream meaning"
+      ]
+    },
+    {
+      "id": "disaster-nuclear",
+      "korean": "핵전쟁/핵폭발 꿈",
+      "english": "Dream of nuclear war",
+      "slug": "nuclear-war-dream",
+      "koreanSlug": "haek-jeonjaeng-kkum",
+      "category": "disasters",
+      "subcategory": "war",
+      "subcategoryKorean": "전쟁",
+      "related": [
+        "action-war",
+        "celestial-end-of-world"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "핵전쟁 꿈",
+        "핵폭발 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "nuclear war dream meaning"
+      ]
+    },
+    {
+      "id": "disaster-crash",
+      "korean": "충돌 꿈",
+      "english": "Dream of a collision",
+      "slug": "collision-dream",
+      "koreanSlug": "chungdol-kkum",
+      "category": "disasters",
+      "subcategory": "accident",
+      "subcategoryKorean": "사고",
+      "related": [
+        "action-accident",
+        "disaster-accident"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "충돌 꿈",
+        "충돌 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "collision dream meaning"
+      ]
+    },
+    {
+      "id": "disaster-landslide",
+      "korean": "산사태 꿈",
+      "english": "Dream of a landslide",
+      "slug": "landslide-dream",
+      "koreanSlug": "sansatae-kkum",
+      "category": "disasters",
+      "subcategory": "natural",
+      "subcategoryKorean": "자연재해",
+      "related": [
+        "disaster-general",
+        "nature-mountain"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "산사태 꿈",
+        "산사태 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "landslide dream meaning"
+      ]
+    },
+    {
+      "id": "disaster-gas-leak",
+      "korean": "가스 누출 꿈",
+      "english": "Dream of gas leak",
+      "slug": "gas-leak-dream",
+      "koreanSlug": "gaseu-nuchul-kkum",
+      "category": "disasters",
+      "subcategory": "utility",
+      "subcategoryKorean": "인프라",
+      "related": [
+        "disaster-explosion",
+        "fire-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "가스 누출 꿈",
+        "가스 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "gas leak dream meaning"
+      ]
+    },
+    {
+      "id": "disaster-typhoon",
+      "korean": "태풍 꿈",
+      "english": "Dream of a typhoon",
+      "slug": "typhoon-dream",
+      "koreanSlug": "taepung-kkum",
+      "category": "disasters",
+      "subcategory": "natural",
+      "subcategoryKorean": "자연재해",
+      "related": [
+        "weather-storm",
+        "disaster-general"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "태풍 꿈",
+        "태풍 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "typhoon dream meaning"
+      ]
+    },
+    {
+      "id": "disaster-sinkhole",
+      "korean": "싱크홀 꿈",
+      "english": "Dream of a sinkhole",
+      "slug": "sinkhole-dream",
+      "koreanSlug": "singkeuhol-kkum",
+      "category": "disasters",
+      "subcategory": "structural",
+      "subcategoryKorean": "구조물",
+      "related": [
+        "action-falling-hole",
+        "disaster-collapse"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "싱크홀 꿈",
+        "싱크홀 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "sinkhole dream meaning"
+      ]
+    },
+    {
+      "id": "disaster-train-derail",
+      "korean": "기차 탈선 꿈",
+      "english": "Dream of train derailment",
+      "slug": "train-derailment-dream",
+      "koreanSlug": "gicha-talseon-kkum",
+      "category": "disasters",
+      "subcategory": "accident",
+      "subcategoryKorean": "사고",
+      "related": [
+        "transport-train",
+        "disaster-accident"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "기차 탈선 꿈",
+        "기차 사고 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "train derailment dream meaning"
+      ]
+    },
+    {
+      "id": "disaster-bridge-collapse",
+      "korean": "다리가 무너지는 꿈",
+      "english": "Dream of bridge collapsing",
+      "slug": "bridge-collapsing-dream",
+      "koreanSlug": "dari-muneojineun-kkum",
+      "category": "disasters",
+      "subcategory": "structural",
+      "subcategoryKorean": "구조물",
+      "related": [
+        "disaster-collapse"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "다리 무너지는 꿈",
+        "다리 붕괴 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "bridge collapsing dream meaning"
+      ]
+    },
+    {
+      "id": "disaster-water-rising",
+      "korean": "물이 차오르는 꿈",
+      "english": "Dream of rising water",
+      "slug": "rising-water-dream",
+      "koreanSlug": "mul-chaoreuneun-kkum",
+      "category": "disasters",
+      "subcategory": "natural",
+      "subcategoryKorean": "자연재해",
+      "related": [
+        "disaster-flood",
+        "water-flood"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "물 차오르는 꿈",
+        "물 차오르는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "rising water dream meaning"
+      ]
+    },
+    {
+      "id": "disaster-evacuation",
+      "korean": "대피하는 꿈",
+      "english": "Dream of evacuation",
+      "slug": "evacuation-dream",
+      "koreanSlug": "daepi-haneun-kkum",
+      "category": "disasters",
+      "subcategory": "rescue",
+      "subcategoryKorean": "구조",
+      "related": [
+        "disaster-general",
+        "action-escape"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "대피 꿈",
+        "대피 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "evacuation dream meaning"
+      ]
+    },
+    {
+      "id": "disaster-building-fire",
+      "korean": "건물 화재 꿈",
+      "english": "Dream of building fire",
+      "slug": "building-fire-disaster-dream",
+      "koreanSlug": "geonmul-hwajae-kkum",
+      "category": "disasters",
+      "subcategory": "fire",
+      "subcategoryKorean": "화재",
+      "related": [
+        "fire-building",
+        "disaster-general"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "건물 화재 꿈",
+        "건물 화재 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "building fire dream meaning"
+      ]
+    },
+    {
+      "id": "disaster-shipwreck",
+      "korean": "난파선 꿈",
+      "english": "Dream of a shipwreck",
+      "slug": "shipwreck-dream",
+      "koreanSlug": "nanpaseon-kkum",
+      "category": "disasters",
+      "subcategory": "accident",
+      "subcategoryKorean": "사고",
+      "related": [
+        "transport-ship",
+        "water-ocean"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "난파선 꿈",
+        "배 침몰 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "shipwreck dream meaning"
+      ]
+    },
+    {
+      "id": "disaster-drought",
+      "korean": "가뭄 꿈",
+      "english": "Dream of a drought",
+      "slug": "drought-dream",
+      "koreanSlug": "gamum-kkum",
+      "category": "disasters",
+      "subcategory": "natural",
+      "subcategoryKorean": "자연재해",
+      "related": [
+        "nature-desert",
+        "water-river-dried"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "가뭄 꿈",
+        "가뭄 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "drought dream meaning"
+      ]
+    },
+    {
+      "id": "disaster-pandemic",
+      "korean": "전염병 꿈",
+      "english": "Dream of a pandemic",
+      "slug": "pandemic-dream",
+      "koreanSlug": "jeonyeombyeong-kkum",
+      "category": "disasters",
+      "subcategory": "medical",
+      "subcategoryKorean": "의료",
+      "related": [
+        "body-sick",
+        "disaster-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "전염병 꿈",
+        "전염병 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "pandemic dream meaning"
+      ]
+    },
+    {
+      "id": "disaster-mine-collapse",
+      "korean": "광산 붕괴 꿈",
+      "english": "Dream of mine collapse",
+      "slug": "mine-collapse-dream",
+      "koreanSlug": "gwangsan-bunggoe-kkum",
+      "category": "disasters",
+      "subcategory": "structural",
+      "subcategoryKorean": "구조물",
+      "related": [
+        "disaster-collapse",
+        "nature-cave"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "광산 붕괴 꿈",
+        "광산 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "mine collapse dream meaning"
+      ]
+    },
+    {
+      "id": "disaster-tornado-hit",
+      "korean": "회오리에 휩쓸리는 꿈",
+      "english": "Dream of being caught in a tornado",
+      "slug": "caught-in-tornado-dream",
+      "koreanSlug": "hoeori-hwipsseullineun-kkum",
+      "category": "disasters",
+      "subcategory": "natural",
+      "subcategoryKorean": "자연재해",
+      "related": [
+        "weather-tornado",
+        "disaster-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "회오리 휩쓸리는 꿈",
+        "토네이도 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "caught in tornado dream meaning"
+      ]
+    },
+    {
+      "id": "disaster-earthquake-building",
+      "korean": "지진으로 건물 무너지는 꿈",
+      "english": "Dream of building collapsing in earthquake",
+      "slug": "earthquake-building-dream",
+      "koreanSlug": "jijin-geonmul-muneojineun-kkum",
+      "category": "disasters",
+      "subcategory": "natural",
+      "subcategoryKorean": "자연재해",
+      "related": [
+        "disaster-earthquake",
+        "disaster-collapse"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "지진 건물 붕괴 꿈",
+        "지진 건물 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "building collapse earthquake dream meaning"
+      ]
+    },
+    {
+      "id": "disaster-chemical-spill",
+      "korean": "화학물질 유출 꿈",
+      "english": "Dream of chemical spill",
+      "slug": "chemical-spill-dream",
+      "koreanSlug": "hwahak-mulchil-yuchul-kkum",
+      "category": "disasters",
+      "subcategory": "utility",
+      "subcategoryKorean": "인프라",
+      "related": [
+        "disaster-general",
+        "disaster-gas-leak"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "화학 유출 꿈",
+        "화학물질 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "chemical spill dream meaning"
+      ]
+    },
+    {
+      "id": "disaster-tsunami-hit",
+      "korean": "해일에 휩쓸리는 꿈",
+      "english": "Dream of being swept by tsunami",
+      "slug": "swept-tsunami-dream",
+      "koreanSlug": "haeil-hwipsseullineun-kkum",
+      "category": "disasters",
+      "subcategory": "natural",
+      "subcategoryKorean": "자연재해",
+      "related": [
+        "disaster-tsunami",
+        "water-tsunami"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "해일에 휩쓸리는 꿈",
+        "쓰나미 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "swept by tsunami dream meaning"
+      ]
+    },
+    {
+      "id": "disaster-survival",
+      "korean": "재난에서 살아남는 꿈",
+      "english": "Dream of surviving a disaster",
+      "slug": "surviving-disaster-dream",
+      "koreanSlug": "jaenan-saranneun-kkum",
+      "category": "disasters",
+      "subcategory": "rescue",
+      "subcategoryKorean": "구조",
+      "related": [
+        "disaster-general",
+        "disaster-rescue"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "재난 살아남는 꿈",
+        "생존 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "surviving disaster dream meaning"
+      ]
+    },
+    {
+      "id": "disaster-nuclear",
+      "korean": "핵폭발 꿈",
+      "english": "Dream of nuclear explosion",
+      "slug": "nuclear-explosion-dream",
+      "koreanSlug": "haek-pokbal-kkum",
+      "category": "disasters",
+      "subcategory": "war",
+      "subcategoryKorean": "전쟁",
+      "related": [
+        "disaster-explosion",
+        "fire-explosion"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "핵폭발 꿈",
+        "핵폭발 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "nuclear explosion dream meaning"
+      ]
+    },
+    {
+      "id": "disaster-car-accident",
+      "korean": "교통사고 꿈",
+      "english": "Dream of a car accident",
+      "slug": "car-accident-dream",
+      "koreanSlug": "gyotongsago-kkum",
+      "category": "disasters",
+      "subcategory": "accident",
+      "subcategoryKorean": "사고",
+      "related": [
+        "transport-car",
+        "death-car-accident"
+      ],
+      "searchTier": "high",
+      "naverKeywords": [
+        "교통사고 꿈",
+        "교통사고 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "car accident dream meaning"
+      ]
+    },
+    {
+      "id": "disaster-building-explosion",
+      "korean": "건물 폭발 꿈",
+      "english": "Dream of building explosion",
+      "slug": "building-explosion-dream",
+      "koreanSlug": "geonmul-pokbal-kkum",
+      "category": "disasters",
+      "subcategory": "accident",
+      "subcategoryKorean": "사고",
+      "related": [
+        "fire-explosion",
+        "disaster-explosion"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "건물 폭발 꿈",
+        "폭발 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "building explosion dream meaning"
+      ]
+    },
+    {
+      "id": "disaster-sinking",
+      "korean": "침몰하는 꿈",
+      "english": "Dream of a sinking ship",
+      "slug": "sinking-ship-dream",
+      "koreanSlug": "chimmol-haneun-kkum",
+      "category": "disasters",
+      "subcategory": "accident",
+      "subcategoryKorean": "사고",
+      "related": [
+        "water-sinking-boat",
+        "disaster-shipwreck"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "침몰 꿈",
+        "배 침몰 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "sinking ship dream meaning"
+      ]
+    },
+    {
+      "id": "disaster-hail",
+      "korean": "우박 꿈",
+      "english": "Dream of hailstorm",
+      "slug": "hailstorm-dream",
+      "koreanSlug": "ubak-kkum",
+      "category": "disasters",
+      "subcategory": "natural",
+      "subcategoryKorean": "자연재해",
+      "related": [
+        "weather-hail",
+        "disaster-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "우박 꿈",
+        "우박 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "hailstorm dream meaning"
+      ]
+    },
+    {
+      "id": "disaster-war",
+      "korean": "전쟁 꿈",
+      "english": "Dream of war",
+      "slug": "war-dream",
+      "koreanSlug": "jeonjaeng-kkum",
+      "category": "disasters",
+      "subcategory": "war",
+      "subcategoryKorean": "전쟁",
+      "related": [
+        "death-war",
+        "people-soldier"
+      ],
+      "searchTier": "high",
+      "naverKeywords": [
+        "전쟁 꿈",
+        "전쟁 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "war dream meaning"
+      ]
+    },
+    {
+      "id": "disaster-meteor",
+      "korean": "운석 충돌 꿈",
+      "english": "Dream of meteor impact",
+      "slug": "meteor-impact-dream",
+      "koreanSlug": "unseok-chungdol-kkum",
+      "category": "disasters",
+      "subcategory": "natural",
+      "subcategoryKorean": "자연재해",
+      "related": [
+        "celestial-comet",
+        "disaster-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "운석 꿈",
+        "운석 충돌 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "meteor impact dream meaning"
+      ]
+    }
   ]
 }

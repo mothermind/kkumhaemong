@@ -12,10 +12,21 @@
       "category": "people",
       "subcategory": "deceased",
       "subcategoryKorean": "고인",
-      "related": ["people-dead-parent", "people-dead-grandparent", "death-general"],
+      "related": [
+        "people-dead-parent",
+        "people-dead-grandparent",
+        "death-general"
+      ],
       "searchTier": "high",
-      "naverKeywords": ["죽은 사람 꿈", "돌아가신 분 꿈 해몽", "고인 꿈"],
-      "googleKeywords": ["dead person dream meaning", "dream of deceased person"]
+      "naverKeywords": [
+        "죽은 사람 꿈",
+        "돌아가신 분 꿈 해몽",
+        "고인 꿈"
+      ],
+      "googleKeywords": [
+        "dead person dream meaning",
+        "dream of deceased person"
+      ]
     },
     {
       "id": "people-dead-parent",
@@ -26,10 +37,19 @@
       "category": "people",
       "subcategory": "deceased",
       "subcategoryKorean": "고인",
-      "related": ["people-dead-person", "people-dead-father", "people-dead-mother"],
+      "related": [
+        "people-dead-person",
+        "people-dead-father",
+        "people-dead-mother"
+      ],
       "searchTier": "high",
-      "naverKeywords": ["돌아가신 부모님 꿈", "돌아가신 부모 꿈 해몽"],
-      "googleKeywords": ["deceased parents dream meaning"]
+      "naverKeywords": [
+        "돌아가신 부모님 꿈",
+        "돌아가신 부모 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "deceased parents dream meaning"
+      ]
     },
     {
       "id": "people-dead-father",
@@ -40,10 +60,19 @@
       "category": "people",
       "subcategory": "deceased",
       "subcategoryKorean": "고인",
-      "related": ["people-dead-parent", "people-dead-mother"],
+      "related": [
+        "people-dead-parent",
+        "people-dead-mother"
+      ],
       "searchTier": "high",
-      "naverKeywords": ["돌아가신 아버지 꿈", "돌아가신 아버지 꿈 해몽"],
-      "googleKeywords": ["deceased father dream meaning", "dream of dead father"]
+      "naverKeywords": [
+        "돌아가신 아버지 꿈",
+        "돌아가신 아버지 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "deceased father dream meaning",
+        "dream of dead father"
+      ]
     },
     {
       "id": "people-dead-mother",
@@ -54,10 +83,19 @@
       "category": "people",
       "subcategory": "deceased",
       "subcategoryKorean": "고인",
-      "related": ["people-dead-parent", "people-dead-father"],
+      "related": [
+        "people-dead-parent",
+        "people-dead-father"
+      ],
       "searchTier": "high",
-      "naverKeywords": ["돌아가신 어머니 꿈", "돌아가신 엄마 꿈 해몽"],
-      "googleKeywords": ["deceased mother dream meaning", "dream of dead mother"]
+      "naverKeywords": [
+        "돌아가신 어머니 꿈",
+        "돌아가신 엄마 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "deceased mother dream meaning",
+        "dream of dead mother"
+      ]
     },
     {
       "id": "people-dead-grandparent",
@@ -68,10 +106,18 @@
       "category": "people",
       "subcategory": "deceased",
       "subcategoryKorean": "고인",
-      "related": ["people-dead-person", "people-dead-parent"],
+      "related": [
+        "people-dead-person",
+        "people-dead-parent"
+      ],
       "searchTier": "high",
-      "naverKeywords": ["돌아가신 할아버지 꿈", "돌아가신 할머니 꿈 해몽"],
-      "googleKeywords": ["deceased grandparents dream meaning"]
+      "naverKeywords": [
+        "돌아가신 할아버지 꿈",
+        "돌아가신 할머니 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "deceased grandparents dream meaning"
+      ]
     },
     {
       "id": "people-dead-friend",
@@ -82,10 +128,18 @@
       "category": "people",
       "subcategory": "deceased",
       "subcategoryKorean": "고인",
-      "related": ["people-dead-person", "people-friend"],
+      "related": [
+        "people-dead-person",
+        "people-friend"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["죽은 친구 꿈", "죽은 친구 꿈 해몽"],
-      "googleKeywords": ["dead friend dream meaning"]
+      "naverKeywords": [
+        "죽은 친구 꿈",
+        "죽은 친구 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "dead friend dream meaning"
+      ]
     },
     {
       "id": "people-dead-giving-money",
@@ -96,10 +150,18 @@
       "category": "people",
       "subcategory": "deceased",
       "subcategoryKorean": "고인",
-      "related": ["people-dead-person", "money-receive"],
+      "related": [
+        "people-dead-person",
+        "money-receive"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["죽은 사람이 돈 주는 꿈", "고인이 돈 주는 꿈 해몽"],
-      "googleKeywords": ["dead person giving money dream meaning"]
+      "naverKeywords": [
+        "죽은 사람이 돈 주는 꿈",
+        "고인이 돈 주는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "dead person giving money dream meaning"
+      ]
     },
     {
       "id": "people-dead-giving-food",
@@ -110,10 +172,18 @@
       "category": "people",
       "subcategory": "deceased",
       "subcategoryKorean": "고인",
-      "related": ["people-dead-person", "food-general"],
+      "related": [
+        "people-dead-person",
+        "food-general"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["죽은 사람이 음식 주는 꿈", "고인이 음식 꿈 해몽"],
-      "googleKeywords": ["dead person giving food dream meaning"]
+      "naverKeywords": [
+        "죽은 사람이 음식 주는 꿈",
+        "고인이 음식 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "dead person giving food dream meaning"
+      ]
     },
     {
       "id": "people-dead-smiling",
@@ -124,10 +194,18 @@
       "category": "people",
       "subcategory": "deceased",
       "subcategoryKorean": "고인",
-      "related": ["people-dead-person", "people-dead-parent"],
+      "related": [
+        "people-dead-person",
+        "people-dead-parent"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["죽은 사람이 웃는 꿈", "고인이 웃는 꿈 해몽"],
-      "googleKeywords": ["dead person smiling dream meaning"]
+      "naverKeywords": [
+        "죽은 사람이 웃는 꿈",
+        "고인이 웃는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "dead person smiling dream meaning"
+      ]
     },
     {
       "id": "people-dead-crying",
@@ -138,10 +216,18 @@
       "category": "people",
       "subcategory": "deceased",
       "subcategoryKorean": "고인",
-      "related": ["people-dead-person", "people-dead-angry"],
+      "related": [
+        "people-dead-person",
+        "people-dead-angry"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["죽은 사람이 우는 꿈", "고인이 우는 꿈 해몽"],
-      "googleKeywords": ["dead person crying dream meaning"]
+      "naverKeywords": [
+        "죽은 사람이 우는 꿈",
+        "고인이 우는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "dead person crying dream meaning"
+      ]
     },
     {
       "id": "people-dead-angry",
@@ -152,10 +238,18 @@
       "category": "people",
       "subcategory": "deceased",
       "subcategoryKorean": "고인",
-      "related": ["people-dead-person", "people-dead-crying"],
+      "related": [
+        "people-dead-person",
+        "people-dead-crying"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["죽은 사람이 화내는 꿈", "고인이 화내는 꿈 해몽"],
-      "googleKeywords": ["dead person angry dream meaning"]
+      "naverKeywords": [
+        "죽은 사람이 화내는 꿈",
+        "고인이 화내는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "dead person angry dream meaning"
+      ]
     },
     {
       "id": "people-dead-hugging",
@@ -166,10 +260,18 @@
       "category": "people",
       "subcategory": "deceased",
       "subcategoryKorean": "고인",
-      "related": ["people-dead-person", "action-hugging"],
+      "related": [
+        "people-dead-person",
+        "action-hugging"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["죽은 사람을 안는 꿈", "고인 안는 꿈 해몽"],
-      "googleKeywords": ["hugging dead person dream meaning"]
+      "naverKeywords": [
+        "죽은 사람을 안는 꿈",
+        "고인 안는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "hugging dead person dream meaning"
+      ]
     },
     {
       "id": "people-dead-calling",
@@ -180,10 +282,17 @@
       "category": "people",
       "subcategory": "deceased",
       "subcategoryKorean": "고인",
-      "related": ["people-dead-person"],
+      "related": [
+        "people-dead-person"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["죽은 사람이 부르는 꿈", "고인이 부르는 꿈 해몽"],
-      "googleKeywords": ["dead person calling me dream meaning"]
+      "naverKeywords": [
+        "죽은 사람이 부르는 꿈",
+        "고인이 부르는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "dead person calling me dream meaning"
+      ]
     },
     {
       "id": "people-baby",
@@ -194,10 +303,21 @@
       "category": "people",
       "subcategory": "baby",
       "subcategoryKorean": "아기",
-      "related": ["people-baby-boy", "people-baby-girl", "pregnancy-general"],
+      "related": [
+        "people-baby-boy",
+        "people-baby-girl",
+        "pregnancy-general"
+      ],
       "searchTier": "high",
-      "naverKeywords": ["아기 꿈", "아기꿈 해몽", "아기 꿈 의미"],
-      "googleKeywords": ["baby dream meaning Korean", "dream of baby"]
+      "naverKeywords": [
+        "아기 꿈",
+        "아기꿈 해몽",
+        "아기 꿈 의미"
+      ],
+      "googleKeywords": [
+        "baby dream meaning Korean",
+        "dream of baby"
+      ]
     },
     {
       "id": "people-baby-boy",
@@ -208,10 +328,18 @@
       "category": "people",
       "subcategory": "baby",
       "subcategoryKorean": "아기",
-      "related": ["people-baby", "people-baby-girl"],
+      "related": [
+        "people-baby",
+        "people-baby-girl"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["남자아기 꿈", "남자 아기 꿈 해몽"],
-      "googleKeywords": ["baby boy dream meaning"]
+      "naverKeywords": [
+        "남자아기 꿈",
+        "남자 아기 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "baby boy dream meaning"
+      ]
     },
     {
       "id": "people-baby-girl",
@@ -222,10 +350,18 @@
       "category": "people",
       "subcategory": "baby",
       "subcategoryKorean": "아기",
-      "related": ["people-baby", "people-baby-boy"],
+      "related": [
+        "people-baby",
+        "people-baby-boy"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["여자아기 꿈", "여자 아기 꿈 해몽"],
-      "googleKeywords": ["baby girl dream meaning"]
+      "naverKeywords": [
+        "여자아기 꿈",
+        "여자 아기 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "baby girl dream meaning"
+      ]
     },
     {
       "id": "people-baby-crying",
@@ -236,10 +372,17 @@
       "category": "people",
       "subcategory": "baby",
       "subcategoryKorean": "아기",
-      "related": ["people-baby"],
+      "related": [
+        "people-baby"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["아기가 우는 꿈", "아기 우는 꿈 해몽"],
-      "googleKeywords": ["baby crying dream meaning"]
+      "naverKeywords": [
+        "아기가 우는 꿈",
+        "아기 우는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "baby crying dream meaning"
+      ]
     },
     {
       "id": "people-baby-holding",
@@ -250,10 +393,18 @@
       "category": "people",
       "subcategory": "baby",
       "subcategoryKorean": "아기",
-      "related": ["people-baby", "pregnancy-general"],
+      "related": [
+        "people-baby",
+        "pregnancy-general"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["아기를 안는 꿈", "아기 안는 꿈 해몽"],
-      "googleKeywords": ["holding baby dream meaning"]
+      "naverKeywords": [
+        "아기를 안는 꿈",
+        "아기 안는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "holding baby dream meaning"
+      ]
     },
     {
       "id": "people-ex",
@@ -264,10 +415,22 @@
       "category": "people",
       "subcategory": "romance",
       "subcategoryKorean": "연인",
-      "related": ["people-ex-kiss", "people-ex-fight", "marriage-breakup"],
+      "related": [
+        "people-ex-kiss",
+        "people-ex-fight",
+        "marriage-breakup"
+      ],
       "searchTier": "high",
-      "naverKeywords": ["전 연인 꿈", "전 남자친구 꿈 해몽", "전 여자친구 꿈"],
-      "googleKeywords": ["ex dream meaning", "dream of ex-boyfriend", "dream of ex-girlfriend"]
+      "naverKeywords": [
+        "전 연인 꿈",
+        "전 남자친구 꿈 해몽",
+        "전 여자친구 꿈"
+      ],
+      "googleKeywords": [
+        "ex dream meaning",
+        "dream of ex-boyfriend",
+        "dream of ex-girlfriend"
+      ]
     },
     {
       "id": "people-ex-kiss",
@@ -278,10 +441,18 @@
       "category": "people",
       "subcategory": "romance",
       "subcategoryKorean": "연인",
-      "related": ["people-ex", "action-kissing"],
+      "related": [
+        "people-ex",
+        "action-kissing"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["전 연인과 키스 꿈", "전남친 키스 꿈 해몽"],
-      "googleKeywords": ["kissing ex dream meaning"]
+      "naverKeywords": [
+        "전 연인과 키스 꿈",
+        "전남친 키스 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "kissing ex dream meaning"
+      ]
     },
     {
       "id": "people-ex-fight",
@@ -292,10 +463,18 @@
       "category": "people",
       "subcategory": "romance",
       "subcategoryKorean": "연인",
-      "related": ["people-ex", "action-fighting"],
+      "related": [
+        "people-ex",
+        "action-fighting"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["전 연인과 싸우는 꿈", "전남친 싸우는 꿈 해몽"],
-      "googleKeywords": ["fighting with ex dream meaning"]
+      "naverKeywords": [
+        "전 연인과 싸우는 꿈",
+        "전남친 싸우는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "fighting with ex dream meaning"
+      ]
     },
     {
       "id": "people-crush",
@@ -306,10 +485,20 @@
       "category": "people",
       "subcategory": "romance",
       "subcategoryKorean": "연인",
-      "related": ["people-ex", "action-kissing"],
+      "related": [
+        "people-ex",
+        "action-kissing"
+      ],
       "searchTier": "high",
-      "naverKeywords": ["좋아하는 사람 꿈", "좋아하는 사람 꿈 해몽", "짝사랑 꿈"],
-      "googleKeywords": ["crush dream meaning", "dream of someone you like"]
+      "naverKeywords": [
+        "좋아하는 사람 꿈",
+        "좋아하는 사람 꿈 해몽",
+        "짝사랑 꿈"
+      ],
+      "googleKeywords": [
+        "crush dream meaning",
+        "dream of someone you like"
+      ]
     },
     {
       "id": "people-celebrity",
@@ -320,10 +509,19 @@
       "category": "people",
       "subcategory": "famous",
       "subcategoryKorean": "유명인",
-      "related": ["people-celebrity-dating", "people-idol"],
+      "related": [
+        "people-celebrity-dating",
+        "people-idol"
+      ],
       "searchTier": "high",
-      "naverKeywords": ["연예인 꿈", "연예인 꿈 해몽"],
-      "googleKeywords": ["celebrity dream meaning", "dream of famous person"]
+      "naverKeywords": [
+        "연예인 꿈",
+        "연예인 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "celebrity dream meaning",
+        "dream of famous person"
+      ]
     },
     {
       "id": "people-celebrity-dating",
@@ -334,10 +532,18 @@
       "category": "people",
       "subcategory": "famous",
       "subcategoryKorean": "유명인",
-      "related": ["people-celebrity", "action-kissing"],
+      "related": [
+        "people-celebrity",
+        "action-kissing"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["연예인과 사귀는 꿈", "연예인 사귀는 꿈 해몽"],
-      "googleKeywords": ["dating celebrity dream meaning"]
+      "naverKeywords": [
+        "연예인과 사귀는 꿈",
+        "연예인 사귀는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "dating celebrity dream meaning"
+      ]
     },
     {
       "id": "people-idol",
@@ -348,10 +554,17 @@
       "category": "people",
       "subcategory": "famous",
       "subcategoryKorean": "유명인",
-      "related": ["people-celebrity"],
+      "related": [
+        "people-celebrity"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["아이돌 꿈", "아이돌 꿈 해몽"],
-      "googleKeywords": ["kpop idol dream meaning"]
+      "naverKeywords": [
+        "아이돌 꿈",
+        "아이돌 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "kpop idol dream meaning"
+      ]
     },
     {
       "id": "people-friend",
@@ -362,10 +575,18 @@
       "category": "people",
       "subcategory": "friends",
       "subcategoryKorean": "친구",
-      "related": ["people-old-friend", "people-friend-dying"],
+      "related": [
+        "people-old-friend",
+        "people-friend-dying"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["친구 꿈", "친구 꿈 해몽"],
-      "googleKeywords": ["friend dream meaning"]
+      "naverKeywords": [
+        "친구 꿈",
+        "친구 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "friend dream meaning"
+      ]
     },
     {
       "id": "people-old-friend",
@@ -376,10 +597,17 @@
       "category": "people",
       "subcategory": "friends",
       "subcategoryKorean": "친구",
-      "related": ["people-friend"],
+      "related": [
+        "people-friend"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["오래된 친구 꿈", "옛날 친구 꿈 해몽"],
-      "googleKeywords": ["old friend dream meaning"]
+      "naverKeywords": [
+        "오래된 친구 꿈",
+        "옛날 친구 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "old friend dream meaning"
+      ]
     },
     {
       "id": "people-friend-dying",
@@ -390,10 +618,18 @@
       "category": "people",
       "subcategory": "friends",
       "subcategoryKorean": "친구",
-      "related": ["people-friend", "death-others"],
+      "related": [
+        "people-friend",
+        "death-others"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["친구가 죽는 꿈", "친구 죽는 꿈 해몽"],
-      "googleKeywords": ["friend dying dream meaning"]
+      "naverKeywords": [
+        "친구가 죽는 꿈",
+        "친구 죽는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "friend dying dream meaning"
+      ]
     },
     {
       "id": "people-stranger",
@@ -404,10 +640,18 @@
       "category": "people",
       "subcategory": "stranger",
       "subcategoryKorean": "낯선 사람",
-      "related": ["people-stranger-man", "people-stranger-woman"],
+      "related": [
+        "people-stranger-man",
+        "people-stranger-woman"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["모르는 사람 꿈", "낯선 사람 꿈 해몽"],
-      "googleKeywords": ["stranger dream meaning"]
+      "naverKeywords": [
+        "모르는 사람 꿈",
+        "낯선 사람 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "stranger dream meaning"
+      ]
     },
     {
       "id": "people-stranger-man",
@@ -418,10 +662,17 @@
       "category": "people",
       "subcategory": "stranger",
       "subcategoryKorean": "낯선 사람",
-      "related": ["people-stranger"],
+      "related": [
+        "people-stranger"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["모르는 남자 꿈", "낯선 남자 꿈 해몽"],
-      "googleKeywords": ["unknown man dream meaning"]
+      "naverKeywords": [
+        "모르는 남자 꿈",
+        "낯선 남자 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "unknown man dream meaning"
+      ]
     },
     {
       "id": "people-stranger-woman",
@@ -432,10 +683,17 @@
       "category": "people",
       "subcategory": "stranger",
       "subcategoryKorean": "낯선 사람",
-      "related": ["people-stranger"],
+      "related": [
+        "people-stranger"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["모르는 여자 꿈", "낯선 여자 꿈 해몽"],
-      "googleKeywords": ["unknown woman dream meaning"]
+      "naverKeywords": [
+        "모르는 여자 꿈",
+        "낯선 여자 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "unknown woman dream meaning"
+      ]
     },
     {
       "id": "people-mother",
@@ -446,10 +704,18 @@
       "category": "people",
       "subcategory": "family",
       "subcategoryKorean": "가족",
-      "related": ["people-father", "people-dead-mother"],
+      "related": [
+        "people-father",
+        "people-dead-mother"
+      ],
       "searchTier": "high",
-      "naverKeywords": ["엄마 꿈", "어머니 꿈 해몽"],
-      "googleKeywords": ["mother dream meaning"]
+      "naverKeywords": [
+        "엄마 꿈",
+        "어머니 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "mother dream meaning"
+      ]
     },
     {
       "id": "people-father",
@@ -460,10 +726,18 @@
       "category": "people",
       "subcategory": "family",
       "subcategoryKorean": "가족",
-      "related": ["people-mother", "people-dead-father"],
+      "related": [
+        "people-mother",
+        "people-dead-father"
+      ],
       "searchTier": "high",
-      "naverKeywords": ["아빠 꿈", "아버지 꿈 해몽"],
-      "googleKeywords": ["father dream meaning"]
+      "naverKeywords": [
+        "아빠 꿈",
+        "아버지 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "father dream meaning"
+      ]
     },
     {
       "id": "people-sibling",
@@ -474,10 +748,21 @@
       "category": "people",
       "subcategory": "family",
       "subcategoryKorean": "가족",
-      "related": ["people-mother", "people-father"],
+      "related": [
+        "people-mother",
+        "people-father"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["형제 꿈", "자매 꿈 해몽", "동생 꿈"],
-      "googleKeywords": ["sibling dream meaning", "dream of brother", "dream of sister"]
+      "naverKeywords": [
+        "형제 꿈",
+        "자매 꿈 해몽",
+        "동생 꿈"
+      ],
+      "googleKeywords": [
+        "sibling dream meaning",
+        "dream of brother",
+        "dream of sister"
+      ]
     },
     {
       "id": "people-child",
@@ -488,10 +773,21 @@
       "category": "people",
       "subcategory": "family",
       "subcategoryKorean": "가족",
-      "related": ["people-baby", "people-mother"],
+      "related": [
+        "people-baby",
+        "people-mother"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["자녀 꿈", "아들 꿈 해몽", "딸 꿈"],
-      "googleKeywords": ["child dream meaning", "dream of son", "dream of daughter"]
+      "naverKeywords": [
+        "자녀 꿈",
+        "아들 꿈 해몽",
+        "딸 꿈"
+      ],
+      "googleKeywords": [
+        "child dream meaning",
+        "dream of son",
+        "dream of daughter"
+      ]
     },
     {
       "id": "people-spouse",
@@ -502,10 +798,19 @@
       "category": "people",
       "subcategory": "family",
       "subcategoryKorean": "가족",
-      "related": ["people-husband", "people-wife"],
+      "related": [
+        "people-husband",
+        "people-wife"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["배우자 꿈", "남편 꿈 해몽", "아내 꿈"],
-      "googleKeywords": ["spouse dream meaning"]
+      "naverKeywords": [
+        "배우자 꿈",
+        "남편 꿈 해몽",
+        "아내 꿈"
+      ],
+      "googleKeywords": [
+        "spouse dream meaning"
+      ]
     },
     {
       "id": "people-husband",
@@ -516,10 +821,18 @@
       "category": "people",
       "subcategory": "family",
       "subcategoryKorean": "가족",
-      "related": ["people-spouse", "people-wife"],
+      "related": [
+        "people-spouse",
+        "people-wife"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["남편 꿈", "남편 꿈 해몽"],
-      "googleKeywords": ["husband dream meaning"]
+      "naverKeywords": [
+        "남편 꿈",
+        "남편 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "husband dream meaning"
+      ]
     },
     {
       "id": "people-wife",
@@ -530,10 +843,18 @@
       "category": "people",
       "subcategory": "family",
       "subcategoryKorean": "가족",
-      "related": ["people-spouse", "people-husband"],
+      "related": [
+        "people-spouse",
+        "people-husband"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["아내 꿈", "아내 꿈 해몽"],
-      "googleKeywords": ["wife dream meaning"]
+      "naverKeywords": [
+        "아내 꿈",
+        "아내 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "wife dream meaning"
+      ]
     },
     {
       "id": "people-boss",
@@ -544,10 +865,18 @@
       "category": "people",
       "subcategory": "work",
       "subcategoryKorean": "직장",
-      "related": ["people-coworker", "people-teacher"],
+      "related": [
+        "people-coworker",
+        "people-teacher"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["상사 꿈", "직장상사 꿈 해몽"],
-      "googleKeywords": ["boss dream meaning"]
+      "naverKeywords": [
+        "상사 꿈",
+        "직장상사 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "boss dream meaning"
+      ]
     },
     {
       "id": "people-coworker",
@@ -558,10 +887,17 @@
       "category": "people",
       "subcategory": "work",
       "subcategoryKorean": "직장",
-      "related": ["people-boss"],
+      "related": [
+        "people-boss"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["동료 꿈", "직장동료 꿈 해몽"],
-      "googleKeywords": ["coworker dream meaning"]
+      "naverKeywords": [
+        "동료 꿈",
+        "직장동료 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "coworker dream meaning"
+      ]
     },
     {
       "id": "people-teacher",
@@ -572,10 +908,17 @@
       "category": "people",
       "subcategory": "authority",
       "subcategoryKorean": "권위자",
-      "related": ["people-boss"],
+      "related": [
+        "people-boss"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["선생님 꿈", "선생님 꿈 해몽"],
-      "googleKeywords": ["teacher dream meaning"]
+      "naverKeywords": [
+        "선생님 꿈",
+        "선생님 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "teacher dream meaning"
+      ]
     },
     {
       "id": "people-king",
@@ -586,10 +929,17 @@
       "category": "people",
       "subcategory": "authority",
       "subcategoryKorean": "권위자",
-      "related": ["people-president"],
+      "related": [
+        "people-president"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["왕 꿈", "왕 꿈 해몽"],
-      "googleKeywords": ["king dream meaning"]
+      "naverKeywords": [
+        "왕 꿈",
+        "왕 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "king dream meaning"
+      ]
     },
     {
       "id": "people-president",
@@ -600,10 +950,17 @@
       "category": "people",
       "subcategory": "authority",
       "subcategoryKorean": "권위자",
-      "related": ["people-king"],
+      "related": [
+        "people-king"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["대통령 꿈", "대통령 꿈 해몽"],
-      "googleKeywords": ["president dream meaning"]
+      "naverKeywords": [
+        "대통령 꿈",
+        "대통령 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "president dream meaning"
+      ]
     },
     {
       "id": "people-doctor",
@@ -614,10 +971,17 @@
       "category": "people",
       "subcategory": "profession",
       "subcategoryKorean": "직업인",
-      "related": ["body-hospital"],
+      "related": [
+        "body-hospital"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["의사 꿈", "의사 꿈 해몽"],
-      "googleKeywords": ["doctor dream meaning"]
+      "naverKeywords": [
+        "의사 꿈",
+        "의사 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "doctor dream meaning"
+      ]
     },
     {
       "id": "people-police",
@@ -628,10 +992,17 @@
       "category": "people",
       "subcategory": "profession",
       "subcategoryKorean": "직업인",
-      "related": ["action-arrested"],
+      "related": [
+        "action-arrested"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["경찰 꿈", "경찰 꿈 해몽"],
-      "googleKeywords": ["police dream meaning"]
+      "naverKeywords": [
+        "경찰 꿈",
+        "경찰 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "police dream meaning"
+      ]
     },
     {
       "id": "people-monk",
@@ -642,10 +1013,18 @@
       "category": "people",
       "subcategory": "spiritual",
       "subcategoryKorean": "영적 인물",
-      "related": ["spirits-buddha", "action-praying"],
+      "related": [
+        "spirits-buddha",
+        "action-praying"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["스님 꿈", "승려 꿈 해몽"],
-      "googleKeywords": ["monk dream meaning"]
+      "naverKeywords": [
+        "스님 꿈",
+        "승려 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "monk dream meaning"
+      ]
     },
     {
       "id": "people-crowd",
@@ -656,10 +1035,17 @@
       "category": "people",
       "subcategory": "groups",
       "subcategoryKorean": "집단",
-      "related": ["people-stranger"],
+      "related": [
+        "people-stranger"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["사람이 많은 꿈", "사람 많은 꿈 해몽"],
-      "googleKeywords": ["crowd dream meaning"]
+      "naverKeywords": [
+        "사람이 많은 꿈",
+        "사람 많은 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "crowd dream meaning"
+      ]
     },
     {
       "id": "people-old-person",
@@ -670,10 +1056,17 @@
       "category": "people",
       "subcategory": "age",
       "subcategoryKorean": "나이",
-      "related": ["people-dead-grandparent"],
+      "related": [
+        "people-dead-grandparent"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["노인 꿈", "노인 꿈 해몽"],
-      "googleKeywords": ["elderly person dream meaning"]
+      "naverKeywords": [
+        "노인 꿈",
+        "노인 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "elderly person dream meaning"
+      ]
     },
     {
       "id": "people-pregnant-woman",
@@ -684,10 +1077,18 @@
       "category": "people",
       "subcategory": "condition",
       "subcategoryKorean": "상태",
-      "related": ["pregnancy-general", "people-baby"],
+      "related": [
+        "pregnancy-general",
+        "people-baby"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["임산부 꿈", "임산부 꿈 해몽"],
-      "googleKeywords": ["pregnant woman dream meaning"]
+      "naverKeywords": [
+        "임산부 꿈",
+        "임산부 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "pregnant woman dream meaning"
+      ]
     },
     {
       "id": "people-twin",
@@ -698,10 +1099,18 @@
       "category": "people",
       "subcategory": "baby",
       "subcategoryKorean": "아기",
-      "related": ["people-baby", "pregnancy-general"],
+      "related": [
+        "people-baby",
+        "pregnancy-general"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["쌍둥이 꿈", "쌍둥이 꿈 해몽"],
-      "googleKeywords": ["twins dream meaning"]
+      "naverKeywords": [
+        "쌍둥이 꿈",
+        "쌍둥이 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "twins dream meaning"
+      ]
     },
     {
       "id": "people-bride",
@@ -712,10 +1121,18 @@
       "category": "people",
       "subcategory": "wedding",
       "subcategoryKorean": "결혼",
-      "related": ["marriage-wedding", "people-groom"],
+      "related": [
+        "marriage-wedding",
+        "people-groom"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["신부 꿈", "신부 꿈 해몽"],
-      "googleKeywords": ["bride dream meaning"]
+      "naverKeywords": [
+        "신부 꿈",
+        "신부 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "bride dream meaning"
+      ]
     },
     {
       "id": "people-groom",
@@ -726,10 +1143,18 @@
       "category": "people",
       "subcategory": "wedding",
       "subcategoryKorean": "결혼",
-      "related": ["marriage-wedding", "people-bride"],
+      "related": [
+        "marriage-wedding",
+        "people-bride"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["신랑 꿈", "신랑 꿈 해몽"],
-      "googleKeywords": ["groom dream meaning"]
+      "naverKeywords": [
+        "신랑 꿈",
+        "신랑 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "groom dream meaning"
+      ]
     },
     {
       "id": "people-ancestor",
@@ -740,10 +1165,18 @@
       "category": "people",
       "subcategory": "deceased",
       "subcategoryKorean": "고인",
-      "related": ["people-dead-grandparent", "people-dead-person"],
+      "related": [
+        "people-dead-grandparent",
+        "people-dead-person"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["조상 꿈", "조상 꿈 해몽"],
-      "googleKeywords": ["ancestors dream meaning"]
+      "naverKeywords": [
+        "조상 꿈",
+        "조상 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "ancestors dream meaning"
+      ]
     },
     {
       "id": "people-soldier",
@@ -754,10 +1187,17 @@
       "category": "people",
       "subcategory": "profession",
       "subcategoryKorean": "직업인",
-      "related": ["action-war"],
+      "related": [
+        "action-war"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["군인 꿈", "군인 꿈 해몽"],
-      "googleKeywords": ["soldier dream meaning"]
+      "naverKeywords": [
+        "군인 꿈",
+        "군인 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "soldier dream meaning"
+      ]
     },
     {
       "id": "people-thief",
@@ -768,10 +1208,18 @@
       "category": "people",
       "subcategory": "criminal",
       "subcategoryKorean": "범죄자",
-      "related": ["action-robbed", "action-stealing"],
+      "related": [
+        "action-robbed",
+        "action-stealing"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["도둑 꿈", "도둑 꿈 해몽"],
-      "googleKeywords": ["thief dream meaning"]
+      "naverKeywords": [
+        "도둑 꿈",
+        "도둑 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "thief dream meaning"
+      ]
     },
     {
       "id": "people-giant",
@@ -782,139 +1230,2259 @@
       "category": "people",
       "subcategory": "fantasy",
       "subcategoryKorean": "환상",
-      "related": ["people-stranger"],
+      "related": [
+        "people-stranger"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["거인 꿈", "거인 꿈 해몽"],
-      "googleKeywords": ["giant dream meaning"]
+      "naverKeywords": [
+        "거인 꿈",
+        "거인 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "giant dream meaning"
+      ]
     },
-    {"id":"people-dead-sibling","korean":"돌아가신 형제/자매 꿈","english":"Dream of deceased sibling","slug":"deceased-sibling-dream","koreanSlug":"doragasin-hyeongje-kkum","category":"people","subcategory":"deceased","subcategoryKorean":"고인","related":["people-dead-person","people-sibling"],"searchTier":"medium","naverKeywords":["돌아가신 형제 꿈","돌아가신 자매 꿈 해몽"],"googleKeywords":["deceased sibling dream meaning"]},
-    {"id":"people-dead-spouse","korean":"돌아가신 배우자 꿈","english":"Dream of deceased spouse","slug":"deceased-spouse-dream","koreanSlug":"doragasin-baeuja-kkum","category":"people","subcategory":"deceased","subcategoryKorean":"고인","related":["people-dead-person","people-spouse"],"searchTier":"medium","naverKeywords":["돌아가신 배우자 꿈","돌아가신 남편 꿈 해몽"],"googleKeywords":["deceased spouse dream meaning"]},
-    {"id":"people-dead-child","korean":"돌아가신 자녀 꿈","english":"Dream of deceased child","slug":"deceased-child-dream","koreanSlug":"doragasin-janyeo-kkum","category":"people","subcategory":"deceased","subcategoryKorean":"고인","related":["people-dead-person","people-child"],"searchTier":"medium","naverKeywords":["돌아가신 자녀 꿈","죽은 아이 꿈 해몽"],"googleKeywords":["deceased child dream meaning"]},
-    {"id":"people-dead-relative","korean":"돌아가신 친척 꿈","english":"Dream of deceased relative","slug":"deceased-relative-dream","koreanSlug":"doragasin-chincheok-kkum","category":"people","subcategory":"deceased","subcategoryKorean":"고인","related":["people-dead-person","people-ancestor"],"searchTier":"medium","naverKeywords":["돌아가신 친척 꿈","죽은 친척 꿈 해몽"],"googleKeywords":["deceased relative dream meaning"]},
-    {"id":"people-dead-walking","korean":"죽은 사람이 걸어오는 꿈","english":"Dream of dead person walking toward you","slug":"dead-person-walking-dream","koreanSlug":"jugeun-saram-georeooneun-kkum","category":"people","subcategory":"deceased","subcategoryKorean":"고인","related":["people-dead-person","people-dead-calling"],"searchTier":"longtail","naverKeywords":["죽은 사람이 걸어오는 꿈","고인 걸어오는 꿈 해몽"],"googleKeywords":["dead person walking toward you dream"]},
-    {"id":"people-dead-eating-together","korean":"죽은 사람과 밥 먹는 꿈","english":"Dream of eating with dead person","slug":"eating-with-dead-person-dream","koreanSlug":"jugeun-saram-bap-meongneun-kkum","category":"people","subcategory":"deceased","subcategoryKorean":"고인","related":["people-dead-person","action-eating"],"searchTier":"medium","naverKeywords":["죽은 사람과 밥 먹는 꿈","고인과 식사 꿈 해몽"],"googleKeywords":["eating with dead person dream meaning"]},
-    {"id":"people-dead-alive-again","korean":"죽은 사람이 살아돌아오는 꿈","english":"Dream of dead person coming back to life","slug":"dead-person-alive-dream","koreanSlug":"jugeun-saram-saradoraoneun-kkum","category":"people","subcategory":"deceased","subcategoryKorean":"고인","related":["people-dead-person","death-resurrection"],"searchTier":"high","naverKeywords":["죽은 사람이 살아돌아오는 꿈","고인 부활 꿈 해몽"],"googleKeywords":["dead person coming back to life dream"]},
-    {"id":"people-dead-talking","korean":"죽은 사람과 대화하는 꿈","english":"Dream of talking to dead person","slug":"talking-dead-person-dream","koreanSlug":"jugeun-saram-daehwa-kkum","category":"people","subcategory":"deceased","subcategoryKorean":"고인","related":["people-dead-person","people-dead-calling"],"searchTier":"high","naverKeywords":["죽은 사람과 대화하는 꿈","고인과 대화 꿈 해몽"],"googleKeywords":["talking to dead person dream meaning"]},
-    {"id":"people-dead-sick","korean":"죽은 사람이 아픈 꿈","english":"Dream of dead person being sick","slug":"dead-person-sick-dream","koreanSlug":"jugeun-saram-apeun-kkum","category":"people","subcategory":"deceased","subcategoryKorean":"고인","related":["people-dead-person","body-sick"],"searchTier":"longtail","naverKeywords":["죽은 사람이 아픈 꿈","고인 아픈 꿈 해몽"],"googleKeywords":["dead person being sick dream meaning"]},
-    {"id":"people-dead-clothes","korean":"죽은 사람이 옷을 바꾸는 꿈","english":"Dream of dead person changing clothes","slug":"dead-person-clothes-dream","koreanSlug":"jugeun-saram-ot-kkum","category":"people","subcategory":"deceased","subcategoryKorean":"고인","related":["people-dead-person","clothing-general"],"searchTier":"longtail","naverKeywords":["죽은 사람 옷 꿈","고인 옷 바꾸는 꿈 해몽"],"googleKeywords":["dead person changing clothes dream"]},
-    {"id":"people-baby-laughing","korean":"아기가 웃는 꿈","english":"Dream of a baby laughing","slug":"baby-laughing-dream","koreanSlug":"agi-unneun-kkum","category":"people","subcategory":"baby","subcategoryKorean":"아기","related":["people-baby","action-laughing"],"searchTier":"medium","naverKeywords":["아기가 웃는 꿈","아기 웃는 꿈 해몽"],"googleKeywords":["baby laughing dream meaning"]},
-    {"id":"people-baby-walking","korean":"아기가 걷는 꿈","english":"Dream of a baby walking","slug":"baby-walking-dream","koreanSlug":"agi-geonneun-kkum","category":"people","subcategory":"baby","subcategoryKorean":"아기","related":["people-baby"],"searchTier":"longtail","naverKeywords":["아기 걷는 꿈","아기 걸음마 꿈 해몽"],"googleKeywords":["baby walking dream meaning"]},
-    {"id":"people-baby-sick","korean":"아기가 아픈 꿈","english":"Dream of a sick baby","slug":"sick-baby-dream","koreanSlug":"agi-apeun-kkum","category":"people","subcategory":"baby","subcategoryKorean":"아기","related":["people-baby","body-sick"],"searchTier":"longtail","naverKeywords":["아기 아픈 꿈","아기 아픈 꿈 해몽"],"googleKeywords":["sick baby dream meaning"]},
-    {"id":"people-baby-dead","korean":"아기가 죽는 꿈","english":"Dream of a baby dying","slug":"baby-dying-dream","koreanSlug":"agi-jungneun-kkum","category":"people","subcategory":"baby","subcategoryKorean":"아기","related":["people-baby","death-others"],"searchTier":"medium","naverKeywords":["아기가 죽는 꿈","아기 죽는 꿈 해몽"],"googleKeywords":["baby dying dream meaning"]},
-    {"id":"people-baby-abandoned","korean":"아기를 버리는 꿈","english":"Dream of abandoning a baby","slug":"abandoning-baby-dream","koreanSlug":"agi-beorineun-kkum","category":"people","subcategory":"baby","subcategoryKorean":"아기","related":["people-baby"],"searchTier":"longtail","naverKeywords":["아기를 버리는 꿈","아기 버리는 꿈 해몽"],"googleKeywords":["abandoning baby dream meaning"]},
-    {"id":"people-baby-many","korean":"아기가 많은 꿈","english":"Dream of many babies","slug":"many-babies-dream","koreanSlug":"agi-maneun-kkum","category":"people","subcategory":"baby","subcategoryKorean":"아기","related":["people-baby","people-twin"],"searchTier":"longtail","naverKeywords":["아기 많은 꿈","아기 여러명 꿈 해몽"],"googleKeywords":["many babies dream meaning"]},
-    {"id":"people-ex-dating-again","korean":"전 연인과 다시 사귀는 꿈","english":"Dream of dating ex again","slug":"dating-ex-again-dream","koreanSlug":"jeon-yeonin-dasi-sagwineun-kkum","category":"people","subcategory":"romance","subcategoryKorean":"연인","related":["people-ex","marriage-reunite"],"searchTier":"medium","naverKeywords":["전 연인과 다시 사귀는 꿈","전남친 다시 만나는 꿈 해몽"],"googleKeywords":["dating ex again dream meaning"]},
-    {"id":"people-ex-marry","korean":"전 연인과 결혼하는 꿈","english":"Dream of marrying ex","slug":"marrying-ex-dream","koreanSlug":"jeon-yeonin-gyeolhon-kkum","category":"people","subcategory":"romance","subcategoryKorean":"연인","related":["people-ex","marriage-wedding"],"searchTier":"longtail","naverKeywords":["전 연인과 결혼 꿈","전남친 결혼 꿈 해몽"],"googleKeywords":["marrying ex dream meaning"]},
-    {"id":"people-ex-crying","korean":"전 연인이 우는 꿈","english":"Dream of ex crying","slug":"ex-crying-dream","koreanSlug":"jeon-yeonin-uneun-kkum","category":"people","subcategory":"romance","subcategoryKorean":"연인","related":["people-ex","action-crying"],"searchTier":"longtail","naverKeywords":["전 연인이 우는 꿈","전남친 우는 꿈 해몽"],"googleKeywords":["ex crying dream meaning"]},
-    {"id":"people-ex-happy","korean":"전 연인이 행복한 꿈","english":"Dream of ex being happy","slug":"ex-happy-dream","koreanSlug":"jeon-yeonin-haengbokhan-kkum","category":"people","subcategory":"romance","subcategoryKorean":"연인","related":["people-ex"],"searchTier":"longtail","naverKeywords":["전 연인이 행복한 꿈","전남친 행복한 꿈 해몽"],"googleKeywords":["ex being happy dream meaning"]},
-    {"id":"people-crush-dating","korean":"좋아하는 사람과 사귀는 꿈","english":"Dream of dating your crush","slug":"dating-crush-dream","koreanSlug":"joahaneun-saram-sagwineun-kkum","category":"people","subcategory":"romance","subcategoryKorean":"연인","related":["people-crush","marriage-dating"],"searchTier":"medium","naverKeywords":["좋아하는 사람과 사귀는 꿈","짝사랑 사귀는 꿈 해몽"],"googleKeywords":["dating crush dream meaning"]},
-    {"id":"people-crush-kiss","korean":"좋아하는 사람과 키스하는 꿈","english":"Dream of kissing crush","slug":"kissing-crush-dream","koreanSlug":"joahaneun-saram-kiseu-kkum","category":"people","subcategory":"romance","subcategoryKorean":"연인","related":["people-crush","action-kissing"],"searchTier":"medium","naverKeywords":["좋아하는 사람과 키스 꿈","짝사랑 키스 꿈 해몽"],"googleKeywords":["kissing crush dream meaning"]},
-    {"id":"people-crush-ignore","korean":"좋아하는 사람이 무시하는 꿈","english":"Dream of crush ignoring you","slug":"crush-ignoring-dream","koreanSlug":"joahaneun-saram-musi-kkum","category":"people","subcategory":"romance","subcategoryKorean":"연인","related":["people-crush","emotion-sad"],"searchTier":"longtail","naverKeywords":["좋아하는 사람 무시 꿈","짝사랑 무시 꿈 해몽"],"googleKeywords":["crush ignoring you dream meaning"]},
-    {"id":"people-celebrity-talking","korean":"연예인과 대화하는 꿈","english":"Dream of talking to celebrity","slug":"talking-celebrity-dream","koreanSlug":"yeonyein-daehwa-kkum","category":"people","subcategory":"famous","subcategoryKorean":"유명인","related":["people-celebrity"],"searchTier":"medium","naverKeywords":["연예인과 대화 꿈","연예인 대화 꿈 해몽"],"googleKeywords":["talking to celebrity dream meaning"]},
-    {"id":"people-celebrity-friend","korean":"연예인과 친구인 꿈","english":"Dream of being friends with celebrity","slug":"friends-celebrity-dream","koreanSlug":"yeonyein-chingu-kkum","category":"people","subcategory":"famous","subcategoryKorean":"유명인","related":["people-celebrity","people-friend"],"searchTier":"longtail","naverKeywords":["연예인 친구 꿈","연예인 친구 꿈 해몽"],"googleKeywords":["friends with celebrity dream meaning"]},
-    {"id":"people-celebrity-hug","korean":"연예인을 안는 꿈","english":"Dream of hugging celebrity","slug":"hugging-celebrity-dream","koreanSlug":"yeonyein-anneun-kkum","category":"people","subcategory":"famous","subcategoryKorean":"유명인","related":["people-celebrity","action-hugging"],"searchTier":"longtail","naverKeywords":["연예인 안는 꿈","연예인 포옹 꿈 해몽"],"googleKeywords":["hugging celebrity dream meaning"]},
-    {"id":"people-friend-fighting","korean":"친구와 싸우는 꿈","english":"Dream of fighting with friend","slug":"fighting-friend-dream","koreanSlug":"chingu-ssauneun-kkum","category":"people","subcategory":"friends","subcategoryKorean":"친구","related":["people-friend","action-fighting"],"searchTier":"medium","naverKeywords":["친구와 싸우는 꿈","친구 싸우는 꿈 해몽"],"googleKeywords":["fighting with friend dream meaning"]},
-    {"id":"people-friend-betrayal","korean":"친구에게 배신당하는 꿈","english":"Dream of friend betraying you","slug":"friend-betrayal-dream","koreanSlug":"chingu-baesin-kkum","category":"people","subcategory":"friends","subcategoryKorean":"친구","related":["people-friend","emotion-betrayal"],"searchTier":"longtail","naverKeywords":["친구 배신 꿈","친구 배신 꿈 해몽"],"googleKeywords":["friend betrayal dream meaning"]},
-    {"id":"people-friend-marry","korean":"친구가 결혼하는 꿈","english":"Dream of friend getting married","slug":"friend-married-dream","koreanSlug":"chingu-gyeolhon-kkum","category":"people","subcategory":"friends","subcategoryKorean":"친구","related":["people-friend","marriage-wedding"],"searchTier":"longtail","naverKeywords":["친구 결혼 꿈","친구 결혼 꿈 해몽"],"googleKeywords":["friend getting married dream meaning"]},
-    {"id":"people-friend-pregnant","korean":"친구가 임신한 꿈","english":"Dream of friend being pregnant","slug":"friend-pregnant-dream","koreanSlug":"chingu-imsin-kkum","category":"people","subcategory":"friends","subcategoryKorean":"친구","related":["people-friend","pregnancy-general"],"searchTier":"longtail","naverKeywords":["친구 임신 꿈","친구 임신 꿈 해몽"],"googleKeywords":["friend pregnant dream meaning"]},
-    {"id":"people-stranger-help","korean":"모르는 사람이 도와주는 꿈","english":"Dream of stranger helping you","slug":"stranger-helping-dream","koreanSlug":"moreuneun-saram-dowajuneun-kkum","category":"people","subcategory":"stranger","subcategoryKorean":"낯선 사람","related":["people-stranger"],"searchTier":"longtail","naverKeywords":["모르는 사람 도와주는 꿈","낯선 사람 도움 꿈 해몽"],"googleKeywords":["stranger helping dream meaning"]},
-    {"id":"people-stranger-attack","korean":"모르는 사람이 공격하는 꿈","english":"Dream of stranger attacking you","slug":"stranger-attacking-dream","koreanSlug":"moreuneun-saram-gonggyeok-kkum","category":"people","subcategory":"stranger","subcategoryKorean":"낯선 사람","related":["people-stranger","action-attacked"],"searchTier":"medium","naverKeywords":["모르는 사람 공격 꿈","낯선 사람 공격 꿈 해몽"],"googleKeywords":["stranger attacking dream meaning"]},
-    {"id":"people-stranger-following","korean":"모르는 사람이 따라오는 꿈","english":"Dream of stranger following you","slug":"stranger-following-dream","koreanSlug":"moreuneun-saram-ttaraoneun-kkum","category":"people","subcategory":"stranger","subcategoryKorean":"낯선 사람","related":["people-stranger","action-chased"],"searchTier":"medium","naverKeywords":["모르는 사람 따라오는 꿈","낯선 사람 스토킹 꿈 해몽"],"googleKeywords":["stranger following dream meaning"]},
-    {"id":"people-mother-crying","korean":"엄마가 우는 꿈","english":"Dream of mother crying","slug":"mother-crying-dream","koreanSlug":"eomma-uneun-kkum","category":"people","subcategory":"family","subcategoryKorean":"가족","related":["people-mother","action-crying"],"searchTier":"medium","naverKeywords":["엄마가 우는 꿈","엄마 우는 꿈 해몽"],"googleKeywords":["mother crying dream meaning"]},
-    {"id":"people-mother-sick","korean":"엄마가 아픈 꿈","english":"Dream of mother being sick","slug":"mother-sick-dream","koreanSlug":"eomma-apeun-kkum","category":"people","subcategory":"family","subcategoryKorean":"가족","related":["people-mother","body-sick"],"searchTier":"medium","naverKeywords":["엄마가 아픈 꿈","엄마 아픈 꿈 해몽"],"googleKeywords":["mother sick dream meaning"]},
-    {"id":"people-mother-dying","korean":"엄마가 죽는 꿈","english":"Dream of mother dying","slug":"mother-dying-dream","koreanSlug":"eomma-jungneun-kkum","category":"people","subcategory":"family","subcategoryKorean":"가족","related":["people-mother","death-others"],"searchTier":"high","naverKeywords":["엄마가 죽는 꿈","엄마 죽는 꿈 해몽"],"googleKeywords":["mother dying dream meaning"]},
-    {"id":"people-father-dying","korean":"아빠가 죽는 꿈","english":"Dream of father dying","slug":"father-dying-dream","koreanSlug":"appa-jungneun-kkum","category":"people","subcategory":"family","subcategoryKorean":"가족","related":["people-father","death-others"],"searchTier":"high","naverKeywords":["아빠가 죽는 꿈","아빠 죽는 꿈 해몽"],"googleKeywords":["father dying dream meaning"]},
-    {"id":"people-father-angry","korean":"아빠가 화내는 꿈","english":"Dream of father being angry","slug":"father-angry-dream","koreanSlug":"appa-hwanaeneun-kkum","category":"people","subcategory":"family","subcategoryKorean":"가족","related":["people-father","emotion-angry"],"searchTier":"longtail","naverKeywords":["아빠 화내는 꿈","아빠 화 꿈 해몽"],"googleKeywords":["father angry dream meaning"]},
-    {"id":"people-sibling-fighting","korean":"형제/자매와 싸우는 꿈","english":"Dream of fighting with sibling","slug":"fighting-sibling-dream","koreanSlug":"hyeongje-ssauneun-kkum","category":"people","subcategory":"family","subcategoryKorean":"가족","related":["people-sibling","action-fighting"],"searchTier":"longtail","naverKeywords":["형제 싸우는 꿈","자매 싸우는 꿈 해몽"],"googleKeywords":["fighting with sibling dream meaning"]},
-    {"id":"people-sibling-dying","korean":"형제/자매가 죽는 꿈","english":"Dream of sibling dying","slug":"sibling-dying-dream","koreanSlug":"hyeongje-jungneun-kkum","category":"people","subcategory":"family","subcategoryKorean":"가족","related":["people-sibling","death-others"],"searchTier":"medium","naverKeywords":["형제 죽는 꿈","동생 죽는 꿈 해몽"],"googleKeywords":["sibling dying dream meaning"]},
-    {"id":"people-child-sick","korean":"자녀가 아픈 꿈","english":"Dream of child being sick","slug":"child-sick-dream","koreanSlug":"janyeo-apeun-kkum","category":"people","subcategory":"family","subcategoryKorean":"가족","related":["people-child","body-sick"],"searchTier":"medium","naverKeywords":["자녀 아픈 꿈","아이 아픈 꿈 해몽"],"googleKeywords":["child sick dream meaning"]},
-    {"id":"people-child-dying","korean":"자녀가 죽는 꿈","english":"Dream of child dying","slug":"child-dying-dream","koreanSlug":"janyeo-jungneun-kkum","category":"people","subcategory":"family","subcategoryKorean":"가족","related":["people-child","death-others"],"searchTier":"medium","naverKeywords":["자녀 죽는 꿈","아이 죽는 꿈 해몽"],"googleKeywords":["child dying dream meaning"]},
-    {"id":"people-child-missing","korean":"자녀를 잃어버리는 꿈","english":"Dream of losing your child","slug":"losing-child-dream","koreanSlug":"janyeo-ilheobeorineun-kkum","category":"people","subcategory":"family","subcategoryKorean":"가족","related":["people-child","action-losing"],"searchTier":"medium","naverKeywords":["자녀 잃어버리는 꿈","아이 잃어버리는 꿈 해몽"],"googleKeywords":["losing child dream meaning"]},
-    {"id":"people-child-growing","korean":"자녀가 성장하는 꿈","english":"Dream of child growing up","slug":"child-growing-dream","koreanSlug":"janyeo-seongjang-kkum","category":"people","subcategory":"family","subcategoryKorean":"가족","related":["people-child","people-baby"],"searchTier":"longtail","naverKeywords":["자녀 성장 꿈","아이 크는 꿈 해몽"],"googleKeywords":["child growing up dream meaning"]},
-    {"id":"people-spouse-dying","korean":"배우자가 죽는 꿈","english":"Dream of spouse dying","slug":"spouse-dying-dream","koreanSlug":"baeuja-jungneun-kkum","category":"people","subcategory":"family","subcategoryKorean":"가족","related":["people-spouse","death-others"],"searchTier":"high","naverKeywords":["배우자 죽는 꿈","남편 죽는 꿈 해몽"],"googleKeywords":["spouse dying dream meaning"]},
-    {"id":"people-spouse-fighting","korean":"배우자와 싸우는 꿈","english":"Dream of fighting with spouse","slug":"fighting-spouse-dream","koreanSlug":"baeuja-ssauneun-kkum","category":"people","subcategory":"family","subcategoryKorean":"가족","related":["people-spouse","action-fighting"],"searchTier":"medium","naverKeywords":["배우자와 싸우는 꿈","남편 싸우는 꿈 해몽"],"googleKeywords":["fighting with spouse dream meaning"]},
-    {"id":"people-grandparent","korean":"할아버지/할머니 꿈","english":"Dream of grandparents","slug":"grandparents-dream","koreanSlug":"harabeoji-halmeoni-kkum","category":"people","subcategory":"family","subcategoryKorean":"가족","related":["people-dead-grandparent","people-old-person"],"searchTier":"medium","naverKeywords":["할아버지 꿈","할머니 꿈 해몽"],"googleKeywords":["grandparents dream meaning"]},
-    {"id":"people-uncle-aunt","korean":"삼촌/이모 꿈","english":"Dream of uncle or aunt","slug":"uncle-aunt-dream","koreanSlug":"samchon-imo-kkum","category":"people","subcategory":"family","subcategoryKorean":"가족","related":["people-mother","people-father"],"searchTier":"longtail","naverKeywords":["삼촌 꿈","이모 꿈 해몽"],"googleKeywords":["uncle aunt dream meaning"]},
-    {"id":"people-cousin","korean":"사촌 꿈","english":"Dream of cousin","slug":"cousin-dream","koreanSlug":"sachon-kkum","category":"people","subcategory":"family","subcategoryKorean":"가족","related":["people-sibling"],"searchTier":"longtail","naverKeywords":["사촌 꿈","사촌 꿈 해몽"],"googleKeywords":["cousin dream meaning"]},
-    {"id":"people-in-laws","korean":"시어머니/장모 꿈","english":"Dream of in-laws","slug":"in-laws-dream","koreanSlug":"sieomeoni-jangmo-kkum","category":"people","subcategory":"family","subcategoryKorean":"가족","related":["people-mother","people-spouse"],"searchTier":"medium","naverKeywords":["시어머니 꿈","장모님 꿈 해몽"],"googleKeywords":["in-laws dream meaning"]},
-    {"id":"people-son","korean":"아들 꿈","english":"Dream of son","slug":"son-dream","koreanSlug":"adeul-kkum","category":"people","subcategory":"family","subcategoryKorean":"가족","related":["people-child","people-baby-boy"],"searchTier":"medium","naverKeywords":["아들 꿈","아들 꿈 해몽"],"googleKeywords":["son dream meaning"]},
-    {"id":"people-daughter","korean":"딸 꿈","english":"Dream of daughter","slug":"daughter-dream","koreanSlug":"ttal-kkum","category":"people","subcategory":"family","subcategoryKorean":"가족","related":["people-child","people-baby-girl"],"searchTier":"medium","naverKeywords":["딸 꿈","딸 꿈 해몽"],"googleKeywords":["daughter dream meaning"]},
-    {"id":"people-boss-angry","korean":"상사가 화내는 꿈","english":"Dream of boss being angry","slug":"boss-angry-dream","koreanSlug":"sangsa-hwanaeneun-kkum","category":"people","subcategory":"work","subcategoryKorean":"직장","related":["people-boss","emotion-angry"],"searchTier":"longtail","naverKeywords":["상사 화내는 꿈","상사 꾸중 꿈 해몽"],"googleKeywords":["boss angry dream meaning"]},
-    {"id":"people-boss-praise","korean":"상사에게 칭찬받는 꿈","english":"Dream of boss praising you","slug":"boss-praising-dream","koreanSlug":"sangsa-chingchan-kkum","category":"people","subcategory":"work","subcategoryKorean":"직장","related":["people-boss"],"searchTier":"longtail","naverKeywords":["상사 칭찬 꿈","상사 칭찬 꿈 해몽"],"googleKeywords":["boss praising dream meaning"]},
-    {"id":"people-coworker-fighting","korean":"동료와 싸우는 꿈","english":"Dream of fighting with coworker","slug":"fighting-coworker-dream","koreanSlug":"dongnyo-ssauneun-kkum","category":"people","subcategory":"work","subcategoryKorean":"직장","related":["people-coworker","action-fighting"],"searchTier":"longtail","naverKeywords":["동료 싸우는 꿈","직장동료 싸움 꿈 해몽"],"googleKeywords":["fighting coworker dream meaning"]},
-    {"id":"people-coworker-quitting","korean":"동료가 퇴사하는 꿈","english":"Dream of coworker quitting","slug":"coworker-quitting-dream","koreanSlug":"dongnyo-toesa-kkum","category":"people","subcategory":"work","subcategoryKorean":"직장","related":["people-coworker"],"searchTier":"longtail","naverKeywords":["동료 퇴사 꿈","동료 퇴사 꿈 해몽"],"googleKeywords":["coworker quitting dream meaning"]},
-    {"id":"people-teacher-scolding","korean":"선생님에게 혼나는 꿈","english":"Dream of teacher scolding you","slug":"teacher-scolding-dream","koreanSlug":"seonsaengnim-honnaneun-kkum","category":"people","subcategory":"authority","subcategoryKorean":"권위자","related":["people-teacher"],"searchTier":"longtail","naverKeywords":["선생님 혼나는 꿈","선생님 꾸중 꿈 해몽"],"googleKeywords":["teacher scolding dream meaning"]},
-    {"id":"people-judge","korean":"판사 꿈","english":"Dream of a judge","slug":"judge-dream","koreanSlug":"pansa-kkum","category":"people","subcategory":"authority","subcategoryKorean":"권위자","related":["people-police","action-arrested"],"searchTier":"longtail","naverKeywords":["판사 꿈","판사 꿈 해몽"],"googleKeywords":["judge dream meaning"]},
-    {"id":"people-lawyer","korean":"변호사 꿈","english":"Dream of a lawyer","slug":"lawyer-dream","koreanSlug":"byeonhosa-kkum","category":"people","subcategory":"profession","subcategoryKorean":"직업인","related":["people-judge"],"searchTier":"longtail","naverKeywords":["변호사 꿈","변호사 꿈 해몽"],"googleKeywords":["lawyer dream meaning"]},
-    {"id":"people-nurse","korean":"간호사 꿈","english":"Dream of a nurse","slug":"nurse-dream","koreanSlug":"ganhosa-kkum","category":"people","subcategory":"profession","subcategoryKorean":"직업인","related":["people-doctor","body-hospital"],"searchTier":"longtail","naverKeywords":["간호사 꿈","간호사 꿈 해몽"],"googleKeywords":["nurse dream meaning"]},
-    {"id":"people-firefighter","korean":"소방관 꿈","english":"Dream of a firefighter","slug":"firefighter-dream","koreanSlug":"sobangwan-kkum","category":"people","subcategory":"profession","subcategoryKorean":"직업인","related":["fire-general"],"searchTier":"longtail","naverKeywords":["소방관 꿈","소방관 꿈 해몽"],"googleKeywords":["firefighter dream meaning"]},
-    {"id":"people-priest","korean":"목사/신부 꿈","english":"Dream of a priest or pastor","slug":"priest-dream","koreanSlug":"moksa-kkum","category":"people","subcategory":"spiritual","subcategoryKorean":"영적 인물","related":["people-monk","action-praying"],"searchTier":"longtail","naverKeywords":["목사 꿈","신부님 꿈 해몽"],"googleKeywords":["priest dream meaning"]},
-    {"id":"people-shaman","korean":"무당 꿈","english":"Dream of a shaman","slug":"shaman-dream","koreanSlug":"mudang-kkum","category":"people","subcategory":"spiritual","subcategoryKorean":"영적 인물","related":["people-monk","spirits-general"],"searchTier":"medium","naverKeywords":["무당 꿈","무당 꿈 해몽"],"googleKeywords":["shaman dream meaning"]},
-    {"id":"people-fortune-teller","korean":"점쟁이 꿈","english":"Dream of a fortune teller","slug":"fortune-teller-dream","koreanSlug":"jeomjaengi-kkum","category":"people","subcategory":"spiritual","subcategoryKorean":"영적 인물","related":["people-shaman"],"searchTier":"longtail","naverKeywords":["점쟁이 꿈","점쟁이 꿈 해몽"],"googleKeywords":["fortune teller dream meaning"]},
-    {"id":"people-crowd-fight","korean":"사람들이 싸우는 꿈","english":"Dream of people fighting","slug":"people-fighting-dream","koreanSlug":"saramdeul-ssauneun-kkum","category":"people","subcategory":"groups","subcategoryKorean":"집단","related":["people-crowd","action-fighting"],"searchTier":"longtail","naverKeywords":["사람들 싸우는 꿈","군중 싸움 꿈 해몽"],"googleKeywords":["people fighting dream meaning"]},
-    {"id":"people-queue","korean":"줄 서는 꿈","english":"Dream of standing in line","slug":"standing-in-line-dream","koreanSlug":"jul-seoneun-kkum","category":"people","subcategory":"groups","subcategoryKorean":"집단","related":["people-crowd"],"searchTier":"longtail","naverKeywords":["줄 서는 꿈","줄 서는 꿈 해몽"],"googleKeywords":["standing in line dream meaning"]},
-    {"id":"people-party","korean":"파티 꿈","english":"Dream of a party","slug":"party-dream","koreanSlug":"pati-kkum","category":"people","subcategory":"groups","subcategoryKorean":"집단","related":["people-crowd","people-friend"],"searchTier":"longtail","naverKeywords":["파티 꿈","파티 꿈 해몽"],"googleKeywords":["party dream meaning"]},
-    {"id":"people-classmate","korean":"동창 꿈","english":"Dream of classmates","slug":"classmate-dream","koreanSlug":"dongchang-kkum","category":"people","subcategory":"friends","subcategoryKorean":"친구","related":["people-friend","people-old-friend"],"searchTier":"medium","naverKeywords":["동창 꿈","동창 꿈 해몽"],"googleKeywords":["classmate dream meaning"]},
-    {"id":"people-neighbor","korean":"이웃 꿈","english":"Dream of a neighbor","slug":"neighbor-dream","koreanSlug":"iut-kkum","category":"people","subcategory":"stranger","subcategoryKorean":"낯선 사람","related":["people-stranger","place-house"],"searchTier":"longtail","naverKeywords":["이웃 꿈","이웃 꿈 해몽"],"googleKeywords":["neighbor dream meaning"]},
-    {"id":"people-young-self","korean":"어린 시절의 나 꿈","english":"Dream of younger self","slug":"younger-self-dream","koreanSlug":"eorin-sijeol-na-kkum","category":"people","subcategory":"age","subcategoryKorean":"나이","related":["emotion-nostalgia"],"searchTier":"medium","naverKeywords":["어린 시절 나 꿈","어린 나 꿈 해몽"],"googleKeywords":["younger self dream meaning"]},
-    {"id":"people-old-self","korean":"늙은 나 꿈","english":"Dream of older self","slug":"older-self-dream","koreanSlug":"neulgeun-na-kkum","category":"people","subcategory":"age","subcategoryKorean":"나이","related":["people-old-person"],"searchTier":"longtail","naverKeywords":["늙은 나 꿈","노인 된 꿈 해몽"],"googleKeywords":["older self dream meaning"]},
-    {"id":"people-disabled","korean":"장애인 꿈","english":"Dream of a disabled person","slug":"disabled-person-dream","koreanSlug":"jangaein-kkum","category":"people","subcategory":"condition","subcategoryKorean":"상태","related":["body-injury"],"searchTier":"longtail","naverKeywords":["장애인 꿈","장애인 꿈 해몽"],"googleKeywords":["disabled person dream meaning"]},
-    {"id":"people-homeless","korean":"노숙자 꿈","english":"Dream of a homeless person","slug":"homeless-dream","koreanSlug":"nosukja-kkum","category":"people","subcategory":"condition","subcategoryKorean":"상태","related":["people-stranger"],"searchTier":"longtail","naverKeywords":["노숙자 꿈","노숙자 꿈 해몽"],"googleKeywords":["homeless person dream meaning"]},
-    {"id":"people-murderer","korean":"살인범 꿈","english":"Dream of a murderer","slug":"murderer-dream","koreanSlug":"salinbeom-kkum","category":"people","subcategory":"criminal","subcategoryKorean":"범죄자","related":["action-killing","people-thief"],"searchTier":"medium","naverKeywords":["살인범 꿈","살인범 꿈 해몽"],"googleKeywords":["murderer dream meaning"]},
-    {"id":"people-kidnapper","korean":"납치범 꿈","english":"Dream of a kidnapper","slug":"kidnapper-dream","koreanSlug":"napchibeom-kkum","category":"people","subcategory":"criminal","subcategoryKorean":"범죄자","related":["action-chased","people-stranger"],"searchTier":"longtail","naverKeywords":["납치범 꿈","납치 꿈 해몽"],"googleKeywords":["kidnapper dream meaning"]},
-    {"id":"people-witch","korean":"마녀 꿈","english":"Dream of a witch","slug":"witch-dream","koreanSlug":"manyeo-kkum","category":"people","subcategory":"fantasy","subcategoryKorean":"환상","related":["spirits-general","people-shaman"],"searchTier":"longtail","naverKeywords":["마녀 꿈","마녀 꿈 해몽"],"googleKeywords":["witch dream meaning"]},
-    {"id":"people-fairy","korean":"요정 꿈","english":"Dream of a fairy","slug":"fairy-dream","koreanSlug":"yojeong-kkum","category":"people","subcategory":"fantasy","subcategoryKorean":"환상","related":["people-giant"],"searchTier":"longtail","naverKeywords":["요정 꿈","요정 꿈 해몽"],"googleKeywords":["fairy dream meaning"]},
-    {"id":"people-zombie","korean":"좀비 꿈","english":"Dream of zombies","slug":"zombie-dream","koreanSlug":"zombi-kkum","category":"people","subcategory":"fantasy","subcategoryKorean":"환상","related":["spirits-undead","action-chased"],"searchTier":"medium","naverKeywords":["좀비 꿈","좀비 꿈 해몽"],"googleKeywords":["zombie dream meaning"]},
-    {"id":"people-vampire","korean":"뱀파이어 꿈","english":"Dream of a vampire","slug":"vampire-dream","koreanSlug":"baempaieo-kkum","category":"people","subcategory":"fantasy","subcategoryKorean":"환상","related":["spirits-undead","blood-general"],"searchTier":"longtail","naverKeywords":["뱀파이어 꿈","흡혈귀 꿈 해몽"],"googleKeywords":["vampire dream meaning"]},
-    {"id":"people-superhero","korean":"슈퍼히어로 꿈","english":"Dream of a superhero","slug":"superhero-dream","koreanSlug":"syupeohieoro-kkum","category":"people","subcategory":"fantasy","subcategoryKorean":"환상","related":["action-flying","people-celebrity"],"searchTier":"longtail","naverKeywords":["슈퍼히어로 꿈","영웅 꿈 해몽"],"googleKeywords":["superhero dream meaning"]},
-    {"id":"people-doppelganger","korean":"나와 닮은 사람 꿈","english":"Dream of a doppelganger","slug":"doppelganger-dream","koreanSlug":"nawa-dalmeun-saram-kkum","category":"people","subcategory":"fantasy","subcategoryKorean":"환상","related":["people-stranger","people-twin"],"searchTier":"longtail","naverKeywords":["나와 닮은 사람 꿈","도플갱어 꿈 해몽"],"googleKeywords":["doppelganger dream meaning"]},
-    {"id":"people-chef","korean":"요리사 꿈","english":"Dream of a chef","slug":"chef-dream","koreanSlug":"yorisa-kkum","category":"people","subcategory":"profession","subcategoryKorean":"직업인","related":["action-cooking","food-general"],"searchTier":"longtail","naverKeywords":["요리사 꿈","셰프 꿈 해몽"],"googleKeywords":["chef dream meaning"]},
-    {"id":"people-athlete","korean":"운동선수 꿈","english":"Dream of an athlete","slug":"athlete-dream","koreanSlug":"undongseonsu-kkum","category":"people","subcategory":"profession","subcategoryKorean":"직업인","related":["people-celebrity"],"searchTier":"longtail","naverKeywords":["운동선수 꿈","운동선수 꿈 해몽"],"googleKeywords":["athlete dream meaning"]},
-    {"id":"people-driver","korean":"운전기사 꿈","english":"Dream of a driver","slug":"driver-dream","koreanSlug":"unjeon-gisa-kkum","category":"people","subcategory":"profession","subcategoryKorean":"직업인","related":["action-driving","transport-car"],"searchTier":"longtail","naverKeywords":["운전기사 꿈","운전기사 꿈 해몽"],"googleKeywords":["driver dream meaning"]},
-    {"id":"people-pilot","korean":"조종사 꿈","english":"Dream of a pilot","slug":"pilot-dream","koreanSlug":"jojongsa-kkum","category":"people","subcategory":"profession","subcategoryKorean":"직업인","related":["transport-airplane","action-flying"],"searchTier":"longtail","naverKeywords":["조종사 꿈","파일럿 꿈 해몽"],"googleKeywords":["pilot dream meaning"]},
-    {"id":"people-singer","korean":"가수 꿈","english":"Dream of a singer","slug":"singer-dream","koreanSlug":"gasu-kkum","category":"people","subcategory":"famous","subcategoryKorean":"유명인","related":["people-celebrity","people-idol"],"searchTier":"longtail","naverKeywords":["가수 꿈","가수 꿈 해몽"],"googleKeywords":["singer dream meaning"]},
-    {"id":"people-actor","korean":"배우 꿈","english":"Dream of an actor","slug":"actor-dream","koreanSlug":"baeu-kkum","category":"people","subcategory":"famous","subcategoryKorean":"유명인","related":["people-celebrity"],"searchTier":"longtail","naverKeywords":["배우 꿈","배우 꿈 해몽"],"googleKeywords":["actor dream meaning"]},
-    {"id":"people-historical-figure","korean":"역사적 인물 꿈","english":"Dream of a historical figure","slug":"historical-figure-dream","koreanSlug":"yeoksajeok-inmul-kkum","category":"people","subcategory":"famous","subcategoryKorean":"유명인","related":["people-king"],"searchTier":"longtail","naverKeywords":["역사적 인물 꿈","위인 꿈 해몽"],"googleKeywords":["historical figure dream meaning"]},
-    {"id":"people-queen","korean":"여왕 꿈","english":"Dream of a queen","slug":"queen-dream","koreanSlug":"yeowang-kkum","category":"people","subcategory":"authority","subcategoryKorean":"권위자","related":["people-king"],"searchTier":"longtail","naverKeywords":["여왕 꿈","여왕 꿈 해몽"],"googleKeywords":["queen dream meaning"]},
-    {"id":"people-military-officer","korean":"장군/장교 꿈","english":"Dream of a military officer","slug":"military-officer-dream","koreanSlug":"janggun-kkum","category":"people","subcategory":"authority","subcategoryKorean":"권위자","related":["people-soldier","action-war"],"searchTier":"longtail","naverKeywords":["장군 꿈","장교 꿈 해몽"],"googleKeywords":["military officer dream meaning"]},
-    {"id":"people-twin","korean":"쌍둥이 꿈","english":"Dream of twins","slug":"twins-dream","koreanSlug":"ssangdungi-kkum","category":"people","subcategory":"family","subcategoryKorean":"가족","related":["people-baby","pregnancy-twins"],"searchTier":"medium","naverKeywords":["쌍둥이 꿈","쌍둥이 꿈 해몽"],"googleKeywords":["twins dream meaning"]},
-    {"id":"people-classmate","korean":"동창 꿈","english":"Dream of a classmate","slug":"classmate-dream","koreanSlug":"dongchang-kkum","category":"people","subcategory":"social","subcategoryKorean":"사회관계","related":["people-friend","place-school"],"searchTier":"medium","naverKeywords":["동창 꿈","동창 꿈 해몽"],"googleKeywords":["classmate dream meaning"]},
-    {"id":"people-neighbor","korean":"이웃 꿈","english":"Dream of a neighbor","slug":"neighbor-dream","koreanSlug":"iut-kkum","category":"people","subcategory":"social","subcategoryKorean":"사회관계","related":["place-house"],"searchTier":"longtail","naverKeywords":["이웃 꿈","이웃 꿈 해몽"],"googleKeywords":["neighbor dream meaning"]},
-    {"id":"people-soldier","korean":"군인 꿈","english":"Dream of a soldier","slug":"soldier-dream","koreanSlug":"gunin-kkum","category":"people","subcategory":"authority","subcategoryKorean":"권위자","related":["action-war","people-military-officer"],"searchTier":"medium","naverKeywords":["군인 꿈","군인 꿈 해몽"],"googleKeywords":["soldier dream meaning"]},
-    {"id":"people-thief","korean":"도둑 꿈","english":"Dream of a thief","slug":"thief-dream","koreanSlug":"doduk-kkum","category":"people","subcategory":"criminal","subcategoryKorean":"범죄자","related":["action-robbed","money-stolen"],"searchTier":"medium","naverKeywords":["도둑 꿈","도둑 꿈 해몽"],"googleKeywords":["thief dream meaning"]},
-    {"id":"people-angel-person","korean":"천사 같은 사람 꿈","english":"Dream of an angelic person","slug":"angelic-person-dream","koreanSlug":"cheonsa-gateun-saram-kkum","category":"people","subcategory":"stranger","subcategoryKorean":"낯선 사람","related":["spirits-angel","people-stranger"],"searchTier":"longtail","naverKeywords":["천사 같은 사람 꿈","천사 같은 사람 꿈 해몽"],"googleKeywords":["angelic person dream meaning"]},
-    {"id":"people-giant","korean":"거인 꿈","english":"Dream of a giant","slug":"giant-dream","koreanSlug":"geoin-kkum","category":"people","subcategory":"fantasy","subcategoryKorean":"환상","related":["body-big"],"searchTier":"longtail","naverKeywords":["거인 꿈","거인 꿈 해몽"],"googleKeywords":["giant dream meaning"]},
-    {"id":"people-dwarf","korean":"난쟁이 꿈","english":"Dream of a dwarf","slug":"dwarf-dream","koreanSlug":"nanjaengi-kkum","category":"people","subcategory":"fantasy","subcategoryKorean":"환상","related":["people-giant"],"searchTier":"longtail","naverKeywords":["난쟁이 꿈","난쟁이 꿈 해몽"],"googleKeywords":["dwarf dream meaning"]},
-    {"id":"people-newborn","korean":"갓 태어난 아기 꿈","english":"Dream of a newborn baby","slug":"newborn-baby-dream","koreanSlug":"gat-taeeonan-agi-kkum","category":"people","subcategory":"baby","subcategoryKorean":"아기","related":["people-baby","pregnancy-giving-birth"],"searchTier":"medium","naverKeywords":["갓 태어난 아기 꿈","신생아 꿈 해몽"],"googleKeywords":["newborn baby dream meaning"]},
-    {"id":"people-old-woman","korean":"할머니 꿈","english":"Dream of a grandmother","slug":"grandmother-dream","koreanSlug":"halmeoni-kkum","category":"people","subcategory":"family","subcategoryKorean":"가족","related":["people-grandparent","people-old-person"],"searchTier":"medium","naverKeywords":["할머니 꿈","할머니 꿈 해몽"],"googleKeywords":["grandmother dream meaning"]},
-    {"id":"people-old-man","korean":"할아버지 꿈","english":"Dream of a grandfather","slug":"grandfather-dream","koreanSlug":"harabeoji-kkum","category":"people","subcategory":"family","subcategoryKorean":"가족","related":["people-grandparent","people-old-person"],"searchTier":"medium","naverKeywords":["할아버지 꿈","할아버지 꿈 해몽"],"googleKeywords":["grandfather dream meaning"]},
-    {"id":"people-pregnant-woman","korean":"임산부 꿈","english":"Dream of a pregnant woman","slug":"pregnant-woman-dream","koreanSlug":"imsanbu-kkum","category":"people","subcategory":"condition","subcategoryKorean":"상태","related":["pregnancy-general","pregnancy-someone-pregnant"],"searchTier":"medium","naverKeywords":["임산부 꿈","임산부 꿈 해몽"],"googleKeywords":["pregnant woman dream meaning"]},
-    {"id":"people-blind-person","korean":"장님 꿈","english":"Dream of a blind person","slug":"blind-person-dream","koreanSlug":"jangnim-kkum","category":"people","subcategory":"condition","subcategoryKorean":"상태","related":["eye-blind"],"searchTier":"longtail","naverKeywords":["장님 꿈","장님 꿈 해몽"],"googleKeywords":["blind person dream meaning"]},
-    {"id":"people-clown","korean":"광대 꿈","english":"Dream of a clown","slug":"clown-dream","koreanSlug":"gwangdae-kkum","category":"people","subcategory":"fantasy","subcategoryKorean":"환상","related":["emotion-fear","emotion-happy"],"searchTier":"longtail","naverKeywords":["광대 꿈","광대 꿈 해몽"],"googleKeywords":["clown dream meaning"]},
-    {"id":"people-bride","korean":"신부 꿈","english":"Dream of a bride","slug":"bride-dream","koreanSlug":"sinbu-kkum","category":"people","subcategory":"special","subcategoryKorean":"특수","related":["marriage-wedding","marriage-dress"],"searchTier":"medium","naverKeywords":["신부 꿈","신부 꿈 해몽"],"googleKeywords":["bride dream meaning"]},
-    {"id":"people-groom","korean":"신랑 꿈","english":"Dream of a groom","slug":"groom-dream","koreanSlug":"sillang-kkum","category":"people","subcategory":"special","subcategoryKorean":"특수","related":["marriage-wedding"],"searchTier":"longtail","naverKeywords":["신랑 꿈","신랑 꿈 해몽"],"googleKeywords":["groom dream meaning"]},
-    {"id":"people-doctor-visit","korean":"의사를 만나는 꿈","english":"Dream of meeting a doctor","slug":"meeting-doctor-dream","koreanSlug":"uisa-mannaneun-kkum","category":"people","subcategory":"profession","subcategoryKorean":"직업","related":["people-doctor","body-hospital"],"searchTier":"longtail","naverKeywords":["의사 만나는 꿈","의사 꿈 해몽"],"googleKeywords":["meeting doctor dream meaning"]},
-    {"id":"people-dead-relative-talk","korean":"돌아가신 분과 이야기하는 꿈","english":"Dream of talking to a deceased relative","slug":"talking-deceased-relative-dream","koreanSlug":"doragasin-bun-iyagi-kkum","category":"people","subcategory":"deceased","subcategoryKorean":"고인","related":["people-dead-person","spirits-ghost"],"searchTier":"high","naverKeywords":["돌아가신 분 대화 꿈","죽은 사람 말하는 꿈 해몽"],"googleKeywords":["talking to deceased relative dream meaning"]},
-    {"id":"people-dead-alive-again","korean":"돌아가신 분이 살아 돌아오는 꿈","english":"Dream of deceased person coming back alive","slug":"deceased-alive-again-dream","koreanSlug":"doragasin-bun-sara-doraoneun-kkum","category":"people","subcategory":"deceased","subcategoryKorean":"고인","related":["people-dead-person","death-resurrection"],"searchTier":"high","naverKeywords":["돌아가신 분 살아오는 꿈","죽은 사람 살아나는 꿈 해몽"],"googleKeywords":["deceased coming back alive dream meaning"]},
-    {"id":"people-celebrity","korean":"연예인 꿈","english":"Dream of a celebrity","slug":"celebrity-dream","koreanSlug":"yeonyein-kkum","category":"people","subcategory":"famous","subcategoryKorean":"유명인","related":["people-idol","people-famous"],"searchTier":"high","naverKeywords":["연예인 꿈","연예인 꿈 해몽"],"googleKeywords":["celebrity dream meaning"]},
-    {"id":"people-president","korean":"대통령 꿈","english":"Dream of a president","slug":"president-dream","koreanSlug":"daetongnyeong-kkum","category":"people","subcategory":"famous","subcategoryKorean":"유명인","related":["people-king","people-leader"],"searchTier":"medium","naverKeywords":["대통령 꿈","대통령 꿈 해몽"],"googleKeywords":["president dream meaning"]},
-    {"id":"people-crowd","korean":"군중 꿈","english":"Dream of a crowd","slug":"crowd-dream","koreanSlug":"gunjung-kkum","category":"people","subcategory":"group","subcategoryKorean":"집단","related":["people-stranger","people-many"],"searchTier":"medium","naverKeywords":["군중 꿈","사람 많은 꿈 해몽"],"googleKeywords":["crowd dream meaning"]},
-    {"id":"people-nurse","korean":"간호사 꿈","english":"Dream of a nurse","slug":"nurse-dream","koreanSlug":"ganhosa-kkum","category":"people","subcategory":"profession","subcategoryKorean":"직업","related":["people-doctor","body-hospital"],"searchTier":"longtail","naverKeywords":["간호사 꿈","간호사 꿈 해몽"],"googleKeywords":["nurse dream meaning"]},
-    {"id":"people-priest","korean":"목사/신부 꿈","english":"Dream of a priest","slug":"priest-dream","koreanSlug":"moksa-kkum","category":"people","subcategory":"spiritual","subcategoryKorean":"영적","related":["spirits-priest","place-church"],"searchTier":"longtail","naverKeywords":["목사 꿈","신부 꿈 해몽"],"googleKeywords":["priest dream meaning"]},
-    {"id":"people-monk","korean":"스님 꿈","english":"Dream of a monk","slug":"monk-dream","koreanSlug":"seunim-kkum","category":"people","subcategory":"spiritual","subcategoryKorean":"영적","related":["spirits-buddha","place-temple"],"searchTier":"medium","naverKeywords":["스님 꿈","스님 꿈 해몽"],"googleKeywords":["monk dream meaning"]},
-    {"id":"people-judge","korean":"판사 꿈","english":"Dream of a judge","slug":"judge-dream","koreanSlug":"pansa-kkum","category":"people","subcategory":"profession","subcategoryKorean":"직업","related":["place-courtroom","people-lawyer"],"searchTier":"longtail","naverKeywords":["판사 꿈","판사 꿈 해몽"],"googleKeywords":["judge dream meaning"]},
-    {"id":"people-lawyer","korean":"변호사 꿈","english":"Dream of a lawyer","slug":"lawyer-dream","koreanSlug":"byeonhosa-kkum","category":"people","subcategory":"profession","subcategoryKorean":"직업","related":["people-judge","place-courtroom"],"searchTier":"longtail","naverKeywords":["변호사 꿈","변호사 꿈 해몽"],"googleKeywords":["lawyer dream meaning"]},
-    {"id":"people-firefighter","korean":"소방관 꿈","english":"Dream of a firefighter","slug":"firefighter-dream","koreanSlug":"sobang-gwan-kkum","category":"people","subcategory":"profession","subcategoryKorean":"직업","related":["fire-general","disaster-fire"],"searchTier":"longtail","naverKeywords":["소방관 꿈","소방관 꿈 해몽"],"googleKeywords":["firefighter dream meaning"]},
-    {"id":"people-pilot","korean":"조종사 꿈","english":"Dream of a pilot","slug":"pilot-dream","koreanSlug":"jojongsa-kkum","category":"people","subcategory":"profession","subcategoryKorean":"직업","related":["transport-airplane","action-flying"],"searchTier":"longtail","naverKeywords":["조종사 꿈","조종사 꿈 해몽"],"googleKeywords":["pilot dream meaning"]},
-    {"id":"people-chef","korean":"요리사 꿈","english":"Dream of a chef","slug":"chef-dream","koreanSlug":"yorisa-kkum","category":"people","subcategory":"profession","subcategoryKorean":"직업","related":["action-cooking","food-general"],"searchTier":"longtail","naverKeywords":["요리사 꿈","요리사 꿈 해몽"],"googleKeywords":["chef dream meaning"]},
-    {"id":"people-singer","korean":"가수 꿈","english":"Dream of a singer","slug":"singer-dream","koreanSlug":"gasu-kkum","category":"people","subcategory":"famous","subcategoryKorean":"유명인","related":["people-celebrity","action-singing"],"searchTier":"medium","naverKeywords":["가수 꿈","가수 꿈 해몽"],"googleKeywords":["singer dream meaning"]},
-    {"id":"people-athlete","korean":"운동선수 꿈","english":"Dream of an athlete","slug":"athlete-dream","koreanSlug":"undong-seonsu-kkum","category":"people","subcategory":"famous","subcategoryKorean":"유명인","related":["action-exercise","people-celebrity"],"searchTier":"longtail","naverKeywords":["운동선수 꿈","운동선수 꿈 해몽"],"googleKeywords":["athlete dream meaning"]},
-    {"id":"people-beggar","korean":"거지 꿈","english":"Dream of a beggar","slug":"beggar-dream","koreanSlug":"geoji-kkum","category":"people","subcategory":"general","subcategoryKorean":"일반","related":["money-poverty","people-stranger"],"searchTier":"medium","naverKeywords":["거지 꿈","거지 꿈 해몽"],"googleKeywords":["beggar dream meaning"]},
-    {"id":"people-witch","korean":"마녀 꿈","english":"Dream of a witch","slug":"witch-dream","koreanSlug":"manyeo-kkum","category":"people","subcategory":"mythical","subcategoryKorean":"신화","related":["spirits-ghost","spirits-evil"],"searchTier":"longtail","naverKeywords":["마녀 꿈","마녀 꿈 해몽"],"googleKeywords":["witch dream meaning"]},
-    {"id":"people-murderer","korean":"살인자 꿈","english":"Dream of a murderer","slug":"murderer-dream","koreanSlug":"sarinja-kkum","category":"people","subcategory":"crime","subcategoryKorean":"범죄","related":["action-killing","people-thief"],"searchTier":"medium","naverKeywords":["살인자 꿈","살인자 꿈 해몽"],"googleKeywords":["murderer dream meaning"]},
-    {"id":"people-police","korean":"경찰 꿈","english":"Dream of police","slug":"police-dream","koreanSlug":"gyeongchal-kkum","category":"people","subcategory":"profession","subcategoryKorean":"직업","related":["place-police-station","people-soldier"],"searchTier":"medium","naverKeywords":["경찰 꿈","경찰 꿈 해몽"],"googleKeywords":["police dream meaning"]},
-    {"id":"people-ancestor","korean":"조상 꿈","english":"Dream of ancestors","slug":"ancestor-dream","koreanSlug":"josang-kkum","category":"people","subcategory":"deceased","subcategoryKorean":"고인","related":["people-dead-person","people-grandparent"],"searchTier":"high","naverKeywords":["조상 꿈","조상 꿈 해몽"],"googleKeywords":["ancestor dream meaning"]},
-    {"id":"people-dead-smiling","korean":"죽은 사람이 웃는 꿈","english":"Dream of dead person smiling","slug":"dead-person-smiling-dream","koreanSlug":"jugeun-saram-unneun-kkum","category":"people","subcategory":"deceased","subcategoryKorean":"고인","related":["people-dead-person","emotion-joy"],"searchTier":"medium","naverKeywords":["죽은 사람이 웃는 꿈","고인 웃는 꿈 해몽"],"googleKeywords":["dead person smiling dream meaning"]},
-    {"id":"people-dead-giving","korean":"죽은 사람이 주는 꿈","english":"Dream of dead person giving something","slug":"dead-person-giving-dream","koreanSlug":"jugeun-saram-juneun-kkum","category":"people","subcategory":"deceased","subcategoryKorean":"고인","related":["people-dead-person","action-receiving-gift"],"searchTier":"high","naverKeywords":["죽은 사람이 주는 꿈","고인 선물 꿈 해몽"],"googleKeywords":["dead person giving dream meaning"]}
+    {
+      "id": "people-dead-sibling",
+      "korean": "돌아가신 형제/자매 꿈",
+      "english": "Dream of deceased sibling",
+      "slug": "deceased-sibling-dream",
+      "koreanSlug": "doragasin-hyeongje-kkum",
+      "category": "people",
+      "subcategory": "deceased",
+      "subcategoryKorean": "고인",
+      "related": [
+        "people-dead-person",
+        "people-sibling"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "돌아가신 형제 꿈",
+        "돌아가신 자매 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "deceased sibling dream meaning"
+      ]
+    },
+    {
+      "id": "people-dead-spouse",
+      "korean": "돌아가신 배우자 꿈",
+      "english": "Dream of deceased spouse",
+      "slug": "deceased-spouse-dream",
+      "koreanSlug": "doragasin-baeuja-kkum",
+      "category": "people",
+      "subcategory": "deceased",
+      "subcategoryKorean": "고인",
+      "related": [
+        "people-dead-person",
+        "people-spouse"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "돌아가신 배우자 꿈",
+        "돌아가신 남편 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "deceased spouse dream meaning"
+      ]
+    },
+    {
+      "id": "people-dead-child",
+      "korean": "돌아가신 자녀 꿈",
+      "english": "Dream of deceased child",
+      "slug": "deceased-child-dream",
+      "koreanSlug": "doragasin-janyeo-kkum",
+      "category": "people",
+      "subcategory": "deceased",
+      "subcategoryKorean": "고인",
+      "related": [
+        "people-dead-person",
+        "people-child"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "돌아가신 자녀 꿈",
+        "죽은 아이 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "deceased child dream meaning"
+      ]
+    },
+    {
+      "id": "people-dead-relative",
+      "korean": "돌아가신 친척 꿈",
+      "english": "Dream of deceased relative",
+      "slug": "deceased-relative-dream",
+      "koreanSlug": "doragasin-chincheok-kkum",
+      "category": "people",
+      "subcategory": "deceased",
+      "subcategoryKorean": "고인",
+      "related": [
+        "people-dead-person",
+        "people-ancestor"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "돌아가신 친척 꿈",
+        "죽은 친척 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "deceased relative dream meaning"
+      ]
+    },
+    {
+      "id": "people-dead-walking",
+      "korean": "죽은 사람이 걸어오는 꿈",
+      "english": "Dream of dead person walking toward you",
+      "slug": "dead-person-walking-dream",
+      "koreanSlug": "jugeun-saram-georeooneun-kkum",
+      "category": "people",
+      "subcategory": "deceased",
+      "subcategoryKorean": "고인",
+      "related": [
+        "people-dead-person",
+        "people-dead-calling"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "죽은 사람이 걸어오는 꿈",
+        "고인 걸어오는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "dead person walking toward you dream"
+      ]
+    },
+    {
+      "id": "people-dead-eating-together",
+      "korean": "죽은 사람과 밥 먹는 꿈",
+      "english": "Dream of eating with dead person",
+      "slug": "eating-with-dead-person-dream",
+      "koreanSlug": "jugeun-saram-bap-meongneun-kkum",
+      "category": "people",
+      "subcategory": "deceased",
+      "subcategoryKorean": "고인",
+      "related": [
+        "people-dead-person",
+        "action-eating"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "죽은 사람과 밥 먹는 꿈",
+        "고인과 식사 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "eating with dead person dream meaning"
+      ]
+    },
+    {
+      "id": "people-dead-alive-again",
+      "korean": "죽은 사람이 살아돌아오는 꿈",
+      "english": "Dream of dead person coming back to life",
+      "slug": "dead-person-alive-dream",
+      "koreanSlug": "jugeun-saram-saradoraoneun-kkum",
+      "category": "people",
+      "subcategory": "deceased",
+      "subcategoryKorean": "고인",
+      "related": [
+        "people-dead-person",
+        "death-resurrection"
+      ],
+      "searchTier": "high",
+      "naverKeywords": [
+        "죽은 사람이 살아돌아오는 꿈",
+        "고인 부활 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "dead person coming back to life dream"
+      ]
+    },
+    {
+      "id": "people-dead-talking",
+      "korean": "죽은 사람과 대화하는 꿈",
+      "english": "Dream of talking to dead person",
+      "slug": "talking-dead-person-dream",
+      "koreanSlug": "jugeun-saram-daehwa-kkum",
+      "category": "people",
+      "subcategory": "deceased",
+      "subcategoryKorean": "고인",
+      "related": [
+        "people-dead-person",
+        "people-dead-calling"
+      ],
+      "searchTier": "high",
+      "naverKeywords": [
+        "죽은 사람과 대화하는 꿈",
+        "고인과 대화 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "talking to dead person dream meaning"
+      ]
+    },
+    {
+      "id": "people-dead-sick",
+      "korean": "죽은 사람이 아픈 꿈",
+      "english": "Dream of dead person being sick",
+      "slug": "dead-person-sick-dream",
+      "koreanSlug": "jugeun-saram-apeun-kkum",
+      "category": "people",
+      "subcategory": "deceased",
+      "subcategoryKorean": "고인",
+      "related": [
+        "people-dead-person",
+        "body-sick"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "죽은 사람이 아픈 꿈",
+        "고인 아픈 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "dead person being sick dream meaning"
+      ]
+    },
+    {
+      "id": "people-dead-clothes",
+      "korean": "죽은 사람이 옷을 바꾸는 꿈",
+      "english": "Dream of dead person changing clothes",
+      "slug": "dead-person-clothes-dream",
+      "koreanSlug": "jugeun-saram-ot-kkum",
+      "category": "people",
+      "subcategory": "deceased",
+      "subcategoryKorean": "고인",
+      "related": [
+        "people-dead-person",
+        "clothing-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "죽은 사람 옷 꿈",
+        "고인 옷 바꾸는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "dead person changing clothes dream"
+      ]
+    },
+    {
+      "id": "people-baby-laughing",
+      "korean": "아기가 웃는 꿈",
+      "english": "Dream of a baby laughing",
+      "slug": "baby-laughing-dream",
+      "koreanSlug": "agi-unneun-kkum",
+      "category": "people",
+      "subcategory": "baby",
+      "subcategoryKorean": "아기",
+      "related": [
+        "people-baby",
+        "action-laughing"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "아기가 웃는 꿈",
+        "아기 웃는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "baby laughing dream meaning"
+      ]
+    },
+    {
+      "id": "people-baby-walking",
+      "korean": "아기가 걷는 꿈",
+      "english": "Dream of a baby walking",
+      "slug": "baby-walking-dream",
+      "koreanSlug": "agi-geonneun-kkum",
+      "category": "people",
+      "subcategory": "baby",
+      "subcategoryKorean": "아기",
+      "related": [
+        "people-baby"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "아기 걷는 꿈",
+        "아기 걸음마 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "baby walking dream meaning"
+      ]
+    },
+    {
+      "id": "people-baby-sick",
+      "korean": "아기가 아픈 꿈",
+      "english": "Dream of a sick baby",
+      "slug": "sick-baby-dream",
+      "koreanSlug": "agi-apeun-kkum",
+      "category": "people",
+      "subcategory": "baby",
+      "subcategoryKorean": "아기",
+      "related": [
+        "people-baby",
+        "body-sick"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "아기 아픈 꿈",
+        "아기 아픈 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "sick baby dream meaning"
+      ]
+    },
+    {
+      "id": "people-baby-dead",
+      "korean": "아기가 죽는 꿈",
+      "english": "Dream of a baby dying",
+      "slug": "baby-dying-dream",
+      "koreanSlug": "agi-jungneun-kkum",
+      "category": "people",
+      "subcategory": "baby",
+      "subcategoryKorean": "아기",
+      "related": [
+        "people-baby",
+        "death-others"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "아기가 죽는 꿈",
+        "아기 죽는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "baby dying dream meaning"
+      ]
+    },
+    {
+      "id": "people-baby-abandoned",
+      "korean": "아기를 버리는 꿈",
+      "english": "Dream of abandoning a baby",
+      "slug": "abandoning-baby-dream",
+      "koreanSlug": "agi-beorineun-kkum",
+      "category": "people",
+      "subcategory": "baby",
+      "subcategoryKorean": "아기",
+      "related": [
+        "people-baby"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "아기를 버리는 꿈",
+        "아기 버리는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "abandoning baby dream meaning"
+      ]
+    },
+    {
+      "id": "people-baby-many",
+      "korean": "아기가 많은 꿈",
+      "english": "Dream of many babies",
+      "slug": "many-babies-dream",
+      "koreanSlug": "agi-maneun-kkum",
+      "category": "people",
+      "subcategory": "baby",
+      "subcategoryKorean": "아기",
+      "related": [
+        "people-baby",
+        "people-twin"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "아기 많은 꿈",
+        "아기 여러명 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "many babies dream meaning"
+      ]
+    },
+    {
+      "id": "people-ex-dating-again",
+      "korean": "전 연인과 다시 사귀는 꿈",
+      "english": "Dream of dating ex again",
+      "slug": "dating-ex-again-dream",
+      "koreanSlug": "jeon-yeonin-dasi-sagwineun-kkum",
+      "category": "people",
+      "subcategory": "romance",
+      "subcategoryKorean": "연인",
+      "related": [
+        "people-ex",
+        "marriage-reunite"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "전 연인과 다시 사귀는 꿈",
+        "전남친 다시 만나는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "dating ex again dream meaning"
+      ]
+    },
+    {
+      "id": "people-ex-marry",
+      "korean": "전 연인과 결혼하는 꿈",
+      "english": "Dream of marrying ex",
+      "slug": "marrying-ex-dream",
+      "koreanSlug": "jeon-yeonin-gyeolhon-kkum",
+      "category": "people",
+      "subcategory": "romance",
+      "subcategoryKorean": "연인",
+      "related": [
+        "people-ex",
+        "marriage-wedding"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "전 연인과 결혼 꿈",
+        "전남친 결혼 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "marrying ex dream meaning"
+      ]
+    },
+    {
+      "id": "people-ex-crying",
+      "korean": "전 연인이 우는 꿈",
+      "english": "Dream of ex crying",
+      "slug": "ex-crying-dream",
+      "koreanSlug": "jeon-yeonin-uneun-kkum",
+      "category": "people",
+      "subcategory": "romance",
+      "subcategoryKorean": "연인",
+      "related": [
+        "people-ex",
+        "action-crying"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "전 연인이 우는 꿈",
+        "전남친 우는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "ex crying dream meaning"
+      ]
+    },
+    {
+      "id": "people-ex-happy",
+      "korean": "전 연인이 행복한 꿈",
+      "english": "Dream of ex being happy",
+      "slug": "ex-happy-dream",
+      "koreanSlug": "jeon-yeonin-haengbokhan-kkum",
+      "category": "people",
+      "subcategory": "romance",
+      "subcategoryKorean": "연인",
+      "related": [
+        "people-ex"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "전 연인이 행복한 꿈",
+        "전남친 행복한 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "ex being happy dream meaning"
+      ]
+    },
+    {
+      "id": "people-crush-dating",
+      "korean": "좋아하는 사람과 사귀는 꿈",
+      "english": "Dream of dating your crush",
+      "slug": "dating-crush-dream",
+      "koreanSlug": "joahaneun-saram-sagwineun-kkum",
+      "category": "people",
+      "subcategory": "romance",
+      "subcategoryKorean": "연인",
+      "related": [
+        "people-crush",
+        "marriage-dating"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "좋아하는 사람과 사귀는 꿈",
+        "짝사랑 사귀는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "dating crush dream meaning"
+      ]
+    },
+    {
+      "id": "people-crush-kiss",
+      "korean": "좋아하는 사람과 키스하는 꿈",
+      "english": "Dream of kissing crush",
+      "slug": "kissing-crush-dream",
+      "koreanSlug": "joahaneun-saram-kiseu-kkum",
+      "category": "people",
+      "subcategory": "romance",
+      "subcategoryKorean": "연인",
+      "related": [
+        "people-crush",
+        "action-kissing"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "좋아하는 사람과 키스 꿈",
+        "짝사랑 키스 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "kissing crush dream meaning"
+      ]
+    },
+    {
+      "id": "people-crush-ignore",
+      "korean": "좋아하는 사람이 무시하는 꿈",
+      "english": "Dream of crush ignoring you",
+      "slug": "crush-ignoring-dream",
+      "koreanSlug": "joahaneun-saram-musi-kkum",
+      "category": "people",
+      "subcategory": "romance",
+      "subcategoryKorean": "연인",
+      "related": [
+        "people-crush",
+        "emotion-sad"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "좋아하는 사람 무시 꿈",
+        "짝사랑 무시 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "crush ignoring you dream meaning"
+      ]
+    },
+    {
+      "id": "people-celebrity-talking",
+      "korean": "연예인과 대화하는 꿈",
+      "english": "Dream of talking to celebrity",
+      "slug": "talking-celebrity-dream",
+      "koreanSlug": "yeonyein-daehwa-kkum",
+      "category": "people",
+      "subcategory": "famous",
+      "subcategoryKorean": "유명인",
+      "related": [
+        "people-celebrity"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "연예인과 대화 꿈",
+        "연예인 대화 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "talking to celebrity dream meaning"
+      ]
+    },
+    {
+      "id": "people-celebrity-friend",
+      "korean": "연예인과 친구인 꿈",
+      "english": "Dream of being friends with celebrity",
+      "slug": "friends-celebrity-dream",
+      "koreanSlug": "yeonyein-chingu-kkum",
+      "category": "people",
+      "subcategory": "famous",
+      "subcategoryKorean": "유명인",
+      "related": [
+        "people-celebrity",
+        "people-friend"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "연예인 친구 꿈",
+        "연예인 친구 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "friends with celebrity dream meaning"
+      ]
+    },
+    {
+      "id": "people-celebrity-hug",
+      "korean": "연예인을 안는 꿈",
+      "english": "Dream of hugging celebrity",
+      "slug": "hugging-celebrity-dream",
+      "koreanSlug": "yeonyein-anneun-kkum",
+      "category": "people",
+      "subcategory": "famous",
+      "subcategoryKorean": "유명인",
+      "related": [
+        "people-celebrity",
+        "action-hugging"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "연예인 안는 꿈",
+        "연예인 포옹 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "hugging celebrity dream meaning"
+      ]
+    },
+    {
+      "id": "people-friend-fighting",
+      "korean": "친구와 싸우는 꿈",
+      "english": "Dream of fighting with friend",
+      "slug": "fighting-friend-dream",
+      "koreanSlug": "chingu-ssauneun-kkum",
+      "category": "people",
+      "subcategory": "friends",
+      "subcategoryKorean": "친구",
+      "related": [
+        "people-friend",
+        "action-fighting"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "친구와 싸우는 꿈",
+        "친구 싸우는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "fighting with friend dream meaning"
+      ]
+    },
+    {
+      "id": "people-friend-betrayal",
+      "korean": "친구에게 배신당하는 꿈",
+      "english": "Dream of friend betraying you",
+      "slug": "friend-betrayal-dream",
+      "koreanSlug": "chingu-baesin-kkum",
+      "category": "people",
+      "subcategory": "friends",
+      "subcategoryKorean": "친구",
+      "related": [
+        "people-friend",
+        "emotion-betrayal"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "친구 배신 꿈",
+        "친구 배신 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "friend betrayal dream meaning"
+      ]
+    },
+    {
+      "id": "people-friend-marry",
+      "korean": "친구가 결혼하는 꿈",
+      "english": "Dream of friend getting married",
+      "slug": "friend-married-dream",
+      "koreanSlug": "chingu-gyeolhon-kkum",
+      "category": "people",
+      "subcategory": "friends",
+      "subcategoryKorean": "친구",
+      "related": [
+        "people-friend",
+        "marriage-wedding"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "친구 결혼 꿈",
+        "친구 결혼 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "friend getting married dream meaning"
+      ]
+    },
+    {
+      "id": "people-friend-pregnant",
+      "korean": "친구가 임신한 꿈",
+      "english": "Dream of friend being pregnant",
+      "slug": "friend-pregnant-dream",
+      "koreanSlug": "chingu-imsin-kkum",
+      "category": "people",
+      "subcategory": "friends",
+      "subcategoryKorean": "친구",
+      "related": [
+        "people-friend",
+        "pregnancy-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "친구 임신 꿈",
+        "친구 임신 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "friend pregnant dream meaning"
+      ]
+    },
+    {
+      "id": "people-stranger-help",
+      "korean": "모르는 사람이 도와주는 꿈",
+      "english": "Dream of stranger helping you",
+      "slug": "stranger-helping-dream",
+      "koreanSlug": "moreuneun-saram-dowajuneun-kkum",
+      "category": "people",
+      "subcategory": "stranger",
+      "subcategoryKorean": "낯선 사람",
+      "related": [
+        "people-stranger"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "모르는 사람 도와주는 꿈",
+        "낯선 사람 도움 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "stranger helping dream meaning"
+      ]
+    },
+    {
+      "id": "people-stranger-attack",
+      "korean": "모르는 사람이 공격하는 꿈",
+      "english": "Dream of stranger attacking you",
+      "slug": "stranger-attacking-dream",
+      "koreanSlug": "moreuneun-saram-gonggyeok-kkum",
+      "category": "people",
+      "subcategory": "stranger",
+      "subcategoryKorean": "낯선 사람",
+      "related": [
+        "people-stranger",
+        "action-attacked"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "모르는 사람 공격 꿈",
+        "낯선 사람 공격 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "stranger attacking dream meaning"
+      ]
+    },
+    {
+      "id": "people-stranger-following",
+      "korean": "모르는 사람이 따라오는 꿈",
+      "english": "Dream of stranger following you",
+      "slug": "stranger-following-dream",
+      "koreanSlug": "moreuneun-saram-ttaraoneun-kkum",
+      "category": "people",
+      "subcategory": "stranger",
+      "subcategoryKorean": "낯선 사람",
+      "related": [
+        "people-stranger",
+        "action-chased"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "모르는 사람 따라오는 꿈",
+        "낯선 사람 스토킹 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "stranger following dream meaning"
+      ]
+    },
+    {
+      "id": "people-mother-crying",
+      "korean": "엄마가 우는 꿈",
+      "english": "Dream of mother crying",
+      "slug": "mother-crying-dream",
+      "koreanSlug": "eomma-uneun-kkum",
+      "category": "people",
+      "subcategory": "family",
+      "subcategoryKorean": "가족",
+      "related": [
+        "people-mother",
+        "action-crying"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "엄마가 우는 꿈",
+        "엄마 우는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "mother crying dream meaning"
+      ]
+    },
+    {
+      "id": "people-mother-sick",
+      "korean": "엄마가 아픈 꿈",
+      "english": "Dream of mother being sick",
+      "slug": "mother-sick-dream",
+      "koreanSlug": "eomma-apeun-kkum",
+      "category": "people",
+      "subcategory": "family",
+      "subcategoryKorean": "가족",
+      "related": [
+        "people-mother",
+        "body-sick"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "엄마가 아픈 꿈",
+        "엄마 아픈 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "mother sick dream meaning"
+      ]
+    },
+    {
+      "id": "people-mother-dying",
+      "korean": "엄마가 죽는 꿈",
+      "english": "Dream of mother dying",
+      "slug": "mother-dying-dream",
+      "koreanSlug": "eomma-jungneun-kkum",
+      "category": "people",
+      "subcategory": "family",
+      "subcategoryKorean": "가족",
+      "related": [
+        "people-mother",
+        "death-others"
+      ],
+      "searchTier": "high",
+      "naverKeywords": [
+        "엄마가 죽는 꿈",
+        "엄마 죽는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "mother dying dream meaning"
+      ]
+    },
+    {
+      "id": "people-father-dying",
+      "korean": "아빠가 죽는 꿈",
+      "english": "Dream of father dying",
+      "slug": "father-dying-dream",
+      "koreanSlug": "appa-jungneun-kkum",
+      "category": "people",
+      "subcategory": "family",
+      "subcategoryKorean": "가족",
+      "related": [
+        "people-father",
+        "death-others"
+      ],
+      "searchTier": "high",
+      "naverKeywords": [
+        "아빠가 죽는 꿈",
+        "아빠 죽는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "father dying dream meaning"
+      ]
+    },
+    {
+      "id": "people-father-angry",
+      "korean": "아빠가 화내는 꿈",
+      "english": "Dream of father being angry",
+      "slug": "father-angry-dream",
+      "koreanSlug": "appa-hwanaeneun-kkum",
+      "category": "people",
+      "subcategory": "family",
+      "subcategoryKorean": "가족",
+      "related": [
+        "people-father",
+        "emotion-angry"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "아빠 화내는 꿈",
+        "아빠 화 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "father angry dream meaning"
+      ]
+    },
+    {
+      "id": "people-sibling-fighting",
+      "korean": "형제/자매와 싸우는 꿈",
+      "english": "Dream of fighting with sibling",
+      "slug": "fighting-sibling-dream",
+      "koreanSlug": "hyeongje-ssauneun-kkum",
+      "category": "people",
+      "subcategory": "family",
+      "subcategoryKorean": "가족",
+      "related": [
+        "people-sibling",
+        "action-fighting"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "형제 싸우는 꿈",
+        "자매 싸우는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "fighting with sibling dream meaning"
+      ]
+    },
+    {
+      "id": "people-sibling-dying",
+      "korean": "형제/자매가 죽는 꿈",
+      "english": "Dream of sibling dying",
+      "slug": "sibling-dying-dream",
+      "koreanSlug": "hyeongje-jungneun-kkum",
+      "category": "people",
+      "subcategory": "family",
+      "subcategoryKorean": "가족",
+      "related": [
+        "people-sibling",
+        "death-others"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "형제 죽는 꿈",
+        "동생 죽는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "sibling dying dream meaning"
+      ]
+    },
+    {
+      "id": "people-child-sick",
+      "korean": "자녀가 아픈 꿈",
+      "english": "Dream of child being sick",
+      "slug": "child-sick-dream",
+      "koreanSlug": "janyeo-apeun-kkum",
+      "category": "people",
+      "subcategory": "family",
+      "subcategoryKorean": "가족",
+      "related": [
+        "people-child",
+        "body-sick"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "자녀 아픈 꿈",
+        "아이 아픈 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "child sick dream meaning"
+      ]
+    },
+    {
+      "id": "people-child-dying",
+      "korean": "자녀가 죽는 꿈",
+      "english": "Dream of child dying",
+      "slug": "child-dying-dream",
+      "koreanSlug": "janyeo-jungneun-kkum",
+      "category": "people",
+      "subcategory": "family",
+      "subcategoryKorean": "가족",
+      "related": [
+        "people-child",
+        "death-others"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "자녀 죽는 꿈",
+        "아이 죽는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "child dying dream meaning"
+      ]
+    },
+    {
+      "id": "people-child-missing",
+      "korean": "자녀를 잃어버리는 꿈",
+      "english": "Dream of losing your child",
+      "slug": "losing-child-dream",
+      "koreanSlug": "janyeo-ilheobeorineun-kkum",
+      "category": "people",
+      "subcategory": "family",
+      "subcategoryKorean": "가족",
+      "related": [
+        "people-child",
+        "action-losing"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "자녀 잃어버리는 꿈",
+        "아이 잃어버리는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "losing child dream meaning"
+      ]
+    },
+    {
+      "id": "people-child-growing",
+      "korean": "자녀가 성장하는 꿈",
+      "english": "Dream of child growing up",
+      "slug": "child-growing-dream",
+      "koreanSlug": "janyeo-seongjang-kkum",
+      "category": "people",
+      "subcategory": "family",
+      "subcategoryKorean": "가족",
+      "related": [
+        "people-child",
+        "people-baby"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "자녀 성장 꿈",
+        "아이 크는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "child growing up dream meaning"
+      ]
+    },
+    {
+      "id": "people-spouse-dying",
+      "korean": "배우자가 죽는 꿈",
+      "english": "Dream of spouse dying",
+      "slug": "spouse-dying-dream",
+      "koreanSlug": "baeuja-jungneun-kkum",
+      "category": "people",
+      "subcategory": "family",
+      "subcategoryKorean": "가족",
+      "related": [
+        "people-spouse",
+        "death-others"
+      ],
+      "searchTier": "high",
+      "naverKeywords": [
+        "배우자 죽는 꿈",
+        "남편 죽는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "spouse dying dream meaning"
+      ]
+    },
+    {
+      "id": "people-spouse-fighting",
+      "korean": "배우자와 싸우는 꿈",
+      "english": "Dream of fighting with spouse",
+      "slug": "fighting-spouse-dream",
+      "koreanSlug": "baeuja-ssauneun-kkum",
+      "category": "people",
+      "subcategory": "family",
+      "subcategoryKorean": "가족",
+      "related": [
+        "people-spouse",
+        "action-fighting"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "배우자와 싸우는 꿈",
+        "남편 싸우는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "fighting with spouse dream meaning"
+      ]
+    },
+    {
+      "id": "people-grandparent",
+      "korean": "할아버지/할머니 꿈",
+      "english": "Dream of grandparents",
+      "slug": "grandparents-dream",
+      "koreanSlug": "harabeoji-halmeoni-kkum",
+      "category": "people",
+      "subcategory": "family",
+      "subcategoryKorean": "가족",
+      "related": [
+        "people-dead-grandparent",
+        "people-old-person"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "할아버지 꿈",
+        "할머니 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "grandparents dream meaning"
+      ]
+    },
+    {
+      "id": "people-uncle-aunt",
+      "korean": "삼촌/이모 꿈",
+      "english": "Dream of uncle or aunt",
+      "slug": "uncle-aunt-dream",
+      "koreanSlug": "samchon-imo-kkum",
+      "category": "people",
+      "subcategory": "family",
+      "subcategoryKorean": "가족",
+      "related": [
+        "people-mother",
+        "people-father"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "삼촌 꿈",
+        "이모 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "uncle aunt dream meaning"
+      ]
+    },
+    {
+      "id": "people-cousin",
+      "korean": "사촌 꿈",
+      "english": "Dream of cousin",
+      "slug": "cousin-dream",
+      "koreanSlug": "sachon-kkum",
+      "category": "people",
+      "subcategory": "family",
+      "subcategoryKorean": "가족",
+      "related": [
+        "people-sibling"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "사촌 꿈",
+        "사촌 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "cousin dream meaning"
+      ]
+    },
+    {
+      "id": "people-in-laws",
+      "korean": "시어머니/장모 꿈",
+      "english": "Dream of in-laws",
+      "slug": "in-laws-dream",
+      "koreanSlug": "sieomeoni-jangmo-kkum",
+      "category": "people",
+      "subcategory": "family",
+      "subcategoryKorean": "가족",
+      "related": [
+        "people-mother",
+        "people-spouse"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "시어머니 꿈",
+        "장모님 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "in-laws dream meaning"
+      ]
+    },
+    {
+      "id": "people-son",
+      "korean": "아들 꿈",
+      "english": "Dream of son",
+      "slug": "son-dream",
+      "koreanSlug": "adeul-kkum",
+      "category": "people",
+      "subcategory": "family",
+      "subcategoryKorean": "가족",
+      "related": [
+        "people-child",
+        "people-baby-boy"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "아들 꿈",
+        "아들 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "son dream meaning"
+      ]
+    },
+    {
+      "id": "people-daughter",
+      "korean": "딸 꿈",
+      "english": "Dream of daughter",
+      "slug": "daughter-dream",
+      "koreanSlug": "ttal-kkum",
+      "category": "people",
+      "subcategory": "family",
+      "subcategoryKorean": "가족",
+      "related": [
+        "people-child",
+        "people-baby-girl"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "딸 꿈",
+        "딸 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "daughter dream meaning"
+      ]
+    },
+    {
+      "id": "people-boss-angry",
+      "korean": "상사가 화내는 꿈",
+      "english": "Dream of boss being angry",
+      "slug": "boss-angry-dream",
+      "koreanSlug": "sangsa-hwanaeneun-kkum",
+      "category": "people",
+      "subcategory": "work",
+      "subcategoryKorean": "직장",
+      "related": [
+        "people-boss",
+        "emotion-angry"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "상사 화내는 꿈",
+        "상사 꾸중 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "boss angry dream meaning"
+      ]
+    },
+    {
+      "id": "people-boss-praise",
+      "korean": "상사에게 칭찬받는 꿈",
+      "english": "Dream of boss praising you",
+      "slug": "boss-praising-dream",
+      "koreanSlug": "sangsa-chingchan-kkum",
+      "category": "people",
+      "subcategory": "work",
+      "subcategoryKorean": "직장",
+      "related": [
+        "people-boss"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "상사 칭찬 꿈",
+        "상사 칭찬 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "boss praising dream meaning"
+      ]
+    },
+    {
+      "id": "people-coworker-fighting",
+      "korean": "동료와 싸우는 꿈",
+      "english": "Dream of fighting with coworker",
+      "slug": "fighting-coworker-dream",
+      "koreanSlug": "dongnyo-ssauneun-kkum",
+      "category": "people",
+      "subcategory": "work",
+      "subcategoryKorean": "직장",
+      "related": [
+        "people-coworker",
+        "action-fighting"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "동료 싸우는 꿈",
+        "직장동료 싸움 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "fighting coworker dream meaning"
+      ]
+    },
+    {
+      "id": "people-coworker-quitting",
+      "korean": "동료가 퇴사하는 꿈",
+      "english": "Dream of coworker quitting",
+      "slug": "coworker-quitting-dream",
+      "koreanSlug": "dongnyo-toesa-kkum",
+      "category": "people",
+      "subcategory": "work",
+      "subcategoryKorean": "직장",
+      "related": [
+        "people-coworker"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "동료 퇴사 꿈",
+        "동료 퇴사 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "coworker quitting dream meaning"
+      ]
+    },
+    {
+      "id": "people-teacher-scolding",
+      "korean": "선생님에게 혼나는 꿈",
+      "english": "Dream of teacher scolding you",
+      "slug": "teacher-scolding-dream",
+      "koreanSlug": "seonsaengnim-honnaneun-kkum",
+      "category": "people",
+      "subcategory": "authority",
+      "subcategoryKorean": "권위자",
+      "related": [
+        "people-teacher"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "선생님 혼나는 꿈",
+        "선생님 꾸중 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "teacher scolding dream meaning"
+      ]
+    },
+    {
+      "id": "people-judge",
+      "korean": "판사 꿈",
+      "english": "Dream of a judge",
+      "slug": "judge-dream",
+      "koreanSlug": "pansa-kkum",
+      "category": "people",
+      "subcategory": "authority",
+      "subcategoryKorean": "권위자",
+      "related": [
+        "people-police",
+        "action-arrested"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "판사 꿈",
+        "판사 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "judge dream meaning"
+      ]
+    },
+    {
+      "id": "people-lawyer",
+      "korean": "변호사 꿈",
+      "english": "Dream of a lawyer",
+      "slug": "lawyer-dream",
+      "koreanSlug": "byeonhosa-kkum",
+      "category": "people",
+      "subcategory": "profession",
+      "subcategoryKorean": "직업인",
+      "related": [
+        "people-judge"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "변호사 꿈",
+        "변호사 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "lawyer dream meaning"
+      ]
+    },
+    {
+      "id": "people-nurse",
+      "korean": "간호사 꿈",
+      "english": "Dream of a nurse",
+      "slug": "nurse-dream",
+      "koreanSlug": "ganhosa-kkum",
+      "category": "people",
+      "subcategory": "profession",
+      "subcategoryKorean": "직업인",
+      "related": [
+        "people-doctor",
+        "body-hospital"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "간호사 꿈",
+        "간호사 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "nurse dream meaning"
+      ]
+    },
+    {
+      "id": "people-firefighter",
+      "korean": "소방관 꿈",
+      "english": "Dream of a firefighter",
+      "slug": "firefighter-dream",
+      "koreanSlug": "sobangwan-kkum",
+      "category": "people",
+      "subcategory": "profession",
+      "subcategoryKorean": "직업인",
+      "related": [
+        "fire-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "소방관 꿈",
+        "소방관 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "firefighter dream meaning"
+      ]
+    },
+    {
+      "id": "people-priest",
+      "korean": "목사/신부 꿈",
+      "english": "Dream of a priest or pastor",
+      "slug": "priest-dream",
+      "koreanSlug": "moksa-kkum",
+      "category": "people",
+      "subcategory": "spiritual",
+      "subcategoryKorean": "영적 인물",
+      "related": [
+        "people-monk",
+        "action-praying"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "목사 꿈",
+        "신부님 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "priest dream meaning"
+      ]
+    },
+    {
+      "id": "people-shaman",
+      "korean": "무당 꿈",
+      "english": "Dream of a shaman",
+      "slug": "shaman-dream",
+      "koreanSlug": "mudang-kkum",
+      "category": "people",
+      "subcategory": "spiritual",
+      "subcategoryKorean": "영적 인물",
+      "related": [
+        "people-monk",
+        "spirits-general"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "무당 꿈",
+        "무당 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "shaman dream meaning"
+      ]
+    },
+    {
+      "id": "people-fortune-teller",
+      "korean": "점쟁이 꿈",
+      "english": "Dream of a fortune teller",
+      "slug": "fortune-teller-dream",
+      "koreanSlug": "jeomjaengi-kkum",
+      "category": "people",
+      "subcategory": "spiritual",
+      "subcategoryKorean": "영적 인물",
+      "related": [
+        "people-shaman"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "점쟁이 꿈",
+        "점쟁이 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "fortune teller dream meaning"
+      ]
+    },
+    {
+      "id": "people-crowd-fight",
+      "korean": "사람들이 싸우는 꿈",
+      "english": "Dream of people fighting",
+      "slug": "people-fighting-dream",
+      "koreanSlug": "saramdeul-ssauneun-kkum",
+      "category": "people",
+      "subcategory": "groups",
+      "subcategoryKorean": "집단",
+      "related": [
+        "people-crowd",
+        "action-fighting"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "사람들 싸우는 꿈",
+        "군중 싸움 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "people fighting dream meaning"
+      ]
+    },
+    {
+      "id": "people-queue",
+      "korean": "줄 서는 꿈",
+      "english": "Dream of standing in line",
+      "slug": "standing-in-line-dream",
+      "koreanSlug": "jul-seoneun-kkum",
+      "category": "people",
+      "subcategory": "groups",
+      "subcategoryKorean": "집단",
+      "related": [
+        "people-crowd"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "줄 서는 꿈",
+        "줄 서는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "standing in line dream meaning"
+      ]
+    },
+    {
+      "id": "people-party",
+      "korean": "파티 꿈",
+      "english": "Dream of a party",
+      "slug": "party-dream",
+      "koreanSlug": "pati-kkum",
+      "category": "people",
+      "subcategory": "groups",
+      "subcategoryKorean": "집단",
+      "related": [
+        "people-crowd",
+        "people-friend"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "파티 꿈",
+        "파티 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "party dream meaning"
+      ]
+    },
+    {
+      "id": "people-classmate",
+      "korean": "동창 꿈",
+      "english": "Dream of classmates",
+      "slug": "classmate-dream",
+      "koreanSlug": "dongchang-kkum",
+      "category": "people",
+      "subcategory": "friends",
+      "subcategoryKorean": "친구",
+      "related": [
+        "people-friend",
+        "people-old-friend"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "동창 꿈",
+        "동창 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "classmate dream meaning"
+      ]
+    },
+    {
+      "id": "people-neighbor",
+      "korean": "이웃 꿈",
+      "english": "Dream of a neighbor",
+      "slug": "neighbor-dream",
+      "koreanSlug": "iut-kkum",
+      "category": "people",
+      "subcategory": "stranger",
+      "subcategoryKorean": "낯선 사람",
+      "related": [
+        "people-stranger",
+        "place-house"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "이웃 꿈",
+        "이웃 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "neighbor dream meaning"
+      ]
+    },
+    {
+      "id": "people-young-self",
+      "korean": "어린 시절의 나 꿈",
+      "english": "Dream of younger self",
+      "slug": "younger-self-dream",
+      "koreanSlug": "eorin-sijeol-na-kkum",
+      "category": "people",
+      "subcategory": "age",
+      "subcategoryKorean": "나이",
+      "related": [
+        "emotion-nostalgia"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "어린 시절 나 꿈",
+        "어린 나 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "younger self dream meaning"
+      ]
+    },
+    {
+      "id": "people-old-self",
+      "korean": "늙은 나 꿈",
+      "english": "Dream of older self",
+      "slug": "older-self-dream",
+      "koreanSlug": "neulgeun-na-kkum",
+      "category": "people",
+      "subcategory": "age",
+      "subcategoryKorean": "나이",
+      "related": [
+        "people-old-person"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "늙은 나 꿈",
+        "노인 된 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "older self dream meaning"
+      ]
+    },
+    {
+      "id": "people-disabled",
+      "korean": "장애인 꿈",
+      "english": "Dream of a disabled person",
+      "slug": "disabled-person-dream",
+      "koreanSlug": "jangaein-kkum",
+      "category": "people",
+      "subcategory": "condition",
+      "subcategoryKorean": "상태",
+      "related": [
+        "body-injury"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "장애인 꿈",
+        "장애인 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "disabled person dream meaning"
+      ]
+    },
+    {
+      "id": "people-homeless",
+      "korean": "노숙자 꿈",
+      "english": "Dream of a homeless person",
+      "slug": "homeless-dream",
+      "koreanSlug": "nosukja-kkum",
+      "category": "people",
+      "subcategory": "condition",
+      "subcategoryKorean": "상태",
+      "related": [
+        "people-stranger"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "노숙자 꿈",
+        "노숙자 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "homeless person dream meaning"
+      ]
+    },
+    {
+      "id": "people-murderer",
+      "korean": "살인범 꿈",
+      "english": "Dream of a murderer",
+      "slug": "murderer-dream",
+      "koreanSlug": "salinbeom-kkum",
+      "category": "people",
+      "subcategory": "criminal",
+      "subcategoryKorean": "범죄자",
+      "related": [
+        "action-killing",
+        "people-thief"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "살인범 꿈",
+        "살인범 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "murderer dream meaning"
+      ]
+    },
+    {
+      "id": "people-kidnapper",
+      "korean": "납치범 꿈",
+      "english": "Dream of a kidnapper",
+      "slug": "kidnapper-dream",
+      "koreanSlug": "napchibeom-kkum",
+      "category": "people",
+      "subcategory": "criminal",
+      "subcategoryKorean": "범죄자",
+      "related": [
+        "action-chased",
+        "people-stranger"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "납치범 꿈",
+        "납치 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "kidnapper dream meaning"
+      ]
+    },
+    {
+      "id": "people-witch",
+      "korean": "마녀 꿈",
+      "english": "Dream of a witch",
+      "slug": "witch-dream",
+      "koreanSlug": "manyeo-kkum",
+      "category": "people",
+      "subcategory": "fantasy",
+      "subcategoryKorean": "환상",
+      "related": [
+        "spirits-general",
+        "people-shaman"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "마녀 꿈",
+        "마녀 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "witch dream meaning"
+      ]
+    },
+    {
+      "id": "people-fairy",
+      "korean": "요정 꿈",
+      "english": "Dream of a fairy",
+      "slug": "fairy-dream",
+      "koreanSlug": "yojeong-kkum",
+      "category": "people",
+      "subcategory": "fantasy",
+      "subcategoryKorean": "환상",
+      "related": [
+        "people-giant"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "요정 꿈",
+        "요정 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "fairy dream meaning"
+      ]
+    },
+    {
+      "id": "people-zombie",
+      "korean": "좀비 꿈",
+      "english": "Dream of zombies",
+      "slug": "zombie-dream",
+      "koreanSlug": "zombi-kkum",
+      "category": "people",
+      "subcategory": "fantasy",
+      "subcategoryKorean": "환상",
+      "related": [
+        "spirits-undead",
+        "action-chased"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "좀비 꿈",
+        "좀비 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "zombie dream meaning"
+      ]
+    },
+    {
+      "id": "people-vampire",
+      "korean": "뱀파이어 꿈",
+      "english": "Dream of a vampire",
+      "slug": "vampire-dream",
+      "koreanSlug": "baempaieo-kkum",
+      "category": "people",
+      "subcategory": "fantasy",
+      "subcategoryKorean": "환상",
+      "related": [
+        "spirits-undead",
+        "blood-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "뱀파이어 꿈",
+        "흡혈귀 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "vampire dream meaning"
+      ]
+    },
+    {
+      "id": "people-superhero",
+      "korean": "슈퍼히어로 꿈",
+      "english": "Dream of a superhero",
+      "slug": "superhero-dream",
+      "koreanSlug": "syupeohieoro-kkum",
+      "category": "people",
+      "subcategory": "fantasy",
+      "subcategoryKorean": "환상",
+      "related": [
+        "action-flying",
+        "people-celebrity"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "슈퍼히어로 꿈",
+        "영웅 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "superhero dream meaning"
+      ]
+    },
+    {
+      "id": "people-doppelganger",
+      "korean": "나와 닮은 사람 꿈",
+      "english": "Dream of a doppelganger",
+      "slug": "doppelganger-dream",
+      "koreanSlug": "nawa-dalmeun-saram-kkum",
+      "category": "people",
+      "subcategory": "fantasy",
+      "subcategoryKorean": "환상",
+      "related": [
+        "people-stranger",
+        "people-twin"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "나와 닮은 사람 꿈",
+        "도플갱어 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "doppelganger dream meaning"
+      ]
+    },
+    {
+      "id": "people-chef",
+      "korean": "요리사 꿈",
+      "english": "Dream of a chef",
+      "slug": "chef-dream",
+      "koreanSlug": "yorisa-kkum",
+      "category": "people",
+      "subcategory": "profession",
+      "subcategoryKorean": "직업인",
+      "related": [
+        "action-cooking",
+        "food-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "요리사 꿈",
+        "셰프 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "chef dream meaning"
+      ]
+    },
+    {
+      "id": "people-athlete",
+      "korean": "운동선수 꿈",
+      "english": "Dream of an athlete",
+      "slug": "athlete-dream",
+      "koreanSlug": "undongseonsu-kkum",
+      "category": "people",
+      "subcategory": "profession",
+      "subcategoryKorean": "직업인",
+      "related": [
+        "people-celebrity"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "운동선수 꿈",
+        "운동선수 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "athlete dream meaning"
+      ]
+    },
+    {
+      "id": "people-driver",
+      "korean": "운전기사 꿈",
+      "english": "Dream of a driver",
+      "slug": "driver-dream",
+      "koreanSlug": "unjeon-gisa-kkum",
+      "category": "people",
+      "subcategory": "profession",
+      "subcategoryKorean": "직업인",
+      "related": [
+        "action-driving",
+        "transport-car"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "운전기사 꿈",
+        "운전기사 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "driver dream meaning"
+      ]
+    },
+    {
+      "id": "people-pilot",
+      "korean": "조종사 꿈",
+      "english": "Dream of a pilot",
+      "slug": "pilot-dream",
+      "koreanSlug": "jojongsa-kkum",
+      "category": "people",
+      "subcategory": "profession",
+      "subcategoryKorean": "직업인",
+      "related": [
+        "transport-airplane",
+        "action-flying"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "조종사 꿈",
+        "파일럿 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "pilot dream meaning"
+      ]
+    },
+    {
+      "id": "people-singer",
+      "korean": "가수 꿈",
+      "english": "Dream of a singer",
+      "slug": "singer-dream",
+      "koreanSlug": "gasu-kkum",
+      "category": "people",
+      "subcategory": "famous",
+      "subcategoryKorean": "유명인",
+      "related": [
+        "people-celebrity",
+        "people-idol"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "가수 꿈",
+        "가수 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "singer dream meaning"
+      ]
+    },
+    {
+      "id": "people-actor",
+      "korean": "배우 꿈",
+      "english": "Dream of an actor",
+      "slug": "actor-dream",
+      "koreanSlug": "baeu-kkum",
+      "category": "people",
+      "subcategory": "famous",
+      "subcategoryKorean": "유명인",
+      "related": [
+        "people-celebrity"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "배우 꿈",
+        "배우 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "actor dream meaning"
+      ]
+    },
+    {
+      "id": "people-historical-figure",
+      "korean": "역사적 인물 꿈",
+      "english": "Dream of a historical figure",
+      "slug": "historical-figure-dream",
+      "koreanSlug": "yeoksajeok-inmul-kkum",
+      "category": "people",
+      "subcategory": "famous",
+      "subcategoryKorean": "유명인",
+      "related": [
+        "people-king"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "역사적 인물 꿈",
+        "위인 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "historical figure dream meaning"
+      ]
+    },
+    {
+      "id": "people-queen",
+      "korean": "여왕 꿈",
+      "english": "Dream of a queen",
+      "slug": "queen-dream",
+      "koreanSlug": "yeowang-kkum",
+      "category": "people",
+      "subcategory": "authority",
+      "subcategoryKorean": "권위자",
+      "related": [
+        "people-king"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "여왕 꿈",
+        "여왕 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "queen dream meaning"
+      ]
+    },
+    {
+      "id": "people-military-officer",
+      "korean": "장군/장교 꿈",
+      "english": "Dream of a military officer",
+      "slug": "military-officer-dream",
+      "koreanSlug": "janggun-kkum",
+      "category": "people",
+      "subcategory": "authority",
+      "subcategoryKorean": "권위자",
+      "related": [
+        "people-soldier",
+        "action-war"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "장군 꿈",
+        "장교 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "military officer dream meaning"
+      ]
+    },
+    {
+      "id": "people-angel-person",
+      "korean": "천사 같은 사람 꿈",
+      "english": "Dream of an angelic person",
+      "slug": "angelic-person-dream",
+      "koreanSlug": "cheonsa-gateun-saram-kkum",
+      "category": "people",
+      "subcategory": "stranger",
+      "subcategoryKorean": "낯선 사람",
+      "related": [
+        "spirits-angel",
+        "people-stranger"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "천사 같은 사람 꿈",
+        "천사 같은 사람 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "angelic person dream meaning"
+      ]
+    },
+    {
+      "id": "people-dwarf",
+      "korean": "난쟁이 꿈",
+      "english": "Dream of a dwarf",
+      "slug": "dwarf-dream",
+      "koreanSlug": "nanjaengi-kkum",
+      "category": "people",
+      "subcategory": "fantasy",
+      "subcategoryKorean": "환상",
+      "related": [
+        "people-giant"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "난쟁이 꿈",
+        "난쟁이 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "dwarf dream meaning"
+      ]
+    },
+    {
+      "id": "people-newborn",
+      "korean": "갓 태어난 아기 꿈",
+      "english": "Dream of a newborn baby",
+      "slug": "newborn-baby-dream",
+      "koreanSlug": "gat-taeeonan-agi-kkum",
+      "category": "people",
+      "subcategory": "baby",
+      "subcategoryKorean": "아기",
+      "related": [
+        "people-baby",
+        "pregnancy-giving-birth"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "갓 태어난 아기 꿈",
+        "신생아 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "newborn baby dream meaning"
+      ]
+    },
+    {
+      "id": "people-old-woman",
+      "korean": "할머니 꿈",
+      "english": "Dream of a grandmother",
+      "slug": "grandmother-dream",
+      "koreanSlug": "halmeoni-kkum",
+      "category": "people",
+      "subcategory": "family",
+      "subcategoryKorean": "가족",
+      "related": [
+        "people-grandparent",
+        "people-old-person"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "할머니 꿈",
+        "할머니 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "grandmother dream meaning"
+      ]
+    },
+    {
+      "id": "people-old-man",
+      "korean": "할아버지 꿈",
+      "english": "Dream of a grandfather",
+      "slug": "grandfather-dream",
+      "koreanSlug": "harabeoji-kkum",
+      "category": "people",
+      "subcategory": "family",
+      "subcategoryKorean": "가족",
+      "related": [
+        "people-grandparent",
+        "people-old-person"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "할아버지 꿈",
+        "할아버지 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "grandfather dream meaning"
+      ]
+    },
+    {
+      "id": "people-blind-person",
+      "korean": "장님 꿈",
+      "english": "Dream of a blind person",
+      "slug": "blind-person-dream",
+      "koreanSlug": "jangnim-kkum",
+      "category": "people",
+      "subcategory": "condition",
+      "subcategoryKorean": "상태",
+      "related": [
+        "eye-blind"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "장님 꿈",
+        "장님 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "blind person dream meaning"
+      ]
+    },
+    {
+      "id": "people-clown",
+      "korean": "광대 꿈",
+      "english": "Dream of a clown",
+      "slug": "clown-dream",
+      "koreanSlug": "gwangdae-kkum",
+      "category": "people",
+      "subcategory": "fantasy",
+      "subcategoryKorean": "환상",
+      "related": [
+        "emotion-fear",
+        "emotion-happy"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "광대 꿈",
+        "광대 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "clown dream meaning"
+      ]
+    },
+    {
+      "id": "people-doctor-visit",
+      "korean": "의사를 만나는 꿈",
+      "english": "Dream of meeting a doctor",
+      "slug": "meeting-doctor-dream",
+      "koreanSlug": "uisa-mannaneun-kkum",
+      "category": "people",
+      "subcategory": "profession",
+      "subcategoryKorean": "직업",
+      "related": [
+        "people-doctor",
+        "body-hospital"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "의사 만나는 꿈",
+        "의사 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "meeting doctor dream meaning"
+      ]
+    },
+    {
+      "id": "people-dead-relative-talk",
+      "korean": "돌아가신 분과 이야기하는 꿈",
+      "english": "Dream of talking to a deceased relative",
+      "slug": "talking-deceased-relative-dream",
+      "koreanSlug": "doragasin-bun-iyagi-kkum",
+      "category": "people",
+      "subcategory": "deceased",
+      "subcategoryKorean": "고인",
+      "related": [
+        "people-dead-person",
+        "spirits-ghost"
+      ],
+      "searchTier": "high",
+      "naverKeywords": [
+        "돌아가신 분 대화 꿈",
+        "죽은 사람 말하는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "talking to deceased relative dream meaning"
+      ]
+    },
+    {
+      "id": "people-dead-alive-again",
+      "korean": "돌아가신 분이 살아 돌아오는 꿈",
+      "english": "Dream of deceased person coming back alive",
+      "slug": "deceased-alive-again-dream",
+      "koreanSlug": "doragasin-bun-sara-doraoneun-kkum",
+      "category": "people",
+      "subcategory": "deceased",
+      "subcategoryKorean": "고인",
+      "related": [
+        "people-dead-person",
+        "death-resurrection"
+      ],
+      "searchTier": "high",
+      "naverKeywords": [
+        "돌아가신 분 살아오는 꿈",
+        "죽은 사람 살아나는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "deceased coming back alive dream meaning"
+      ]
+    },
+    {
+      "id": "people-beggar",
+      "korean": "거지 꿈",
+      "english": "Dream of a beggar",
+      "slug": "beggar-dream",
+      "koreanSlug": "geoji-kkum",
+      "category": "people",
+      "subcategory": "general",
+      "subcategoryKorean": "일반",
+      "related": [
+        "money-poverty",
+        "people-stranger"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "거지 꿈",
+        "거지 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "beggar dream meaning"
+      ]
+    },
+    {
+      "id": "people-ancestor",
+      "korean": "조상 꿈",
+      "english": "Dream of ancestors",
+      "slug": "ancestor-dream",
+      "koreanSlug": "josang-kkum",
+      "category": "people",
+      "subcategory": "deceased",
+      "subcategoryKorean": "고인",
+      "related": [
+        "people-dead-person",
+        "people-grandparent"
+      ],
+      "searchTier": "high",
+      "naverKeywords": [
+        "조상 꿈",
+        "조상 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "ancestor dream meaning"
+      ]
+    },
+    {
+      "id": "people-dead-giving",
+      "korean": "죽은 사람이 주는 꿈",
+      "english": "Dream of dead person giving something",
+      "slug": "dead-person-giving-dream",
+      "koreanSlug": "jugeun-saram-juneun-kkum",
+      "category": "people",
+      "subcategory": "deceased",
+      "subcategoryKorean": "고인",
+      "related": [
+        "people-dead-person",
+        "action-receiving-gift"
+      ],
+      "searchTier": "high",
+      "naverKeywords": [
+        "죽은 사람이 주는 꿈",
+        "고인 선물 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "dead person giving dream meaning"
+      ]
+    }
   ]
 }

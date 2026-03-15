@@ -12,10 +12,21 @@
       "category": "body",
       "subcategory": "teeth",
       "subcategoryKorean": "이빨/치아",
-      "related": ["teeth-broken", "teeth-loose", "teeth-all-falling"],
+      "related": [
+        "teeth-broken",
+        "teeth-loose",
+        "teeth-all-falling"
+      ],
       "searchTier": "high",
-      "naverKeywords": ["이빨 빠지는 꿈", "이빨빠지는꿈 해몽", "치아 빠지는 꿈"],
-      "googleKeywords": ["teeth falling out dream meaning Korean", "dream of losing teeth"]
+      "naverKeywords": [
+        "이빨 빠지는 꿈",
+        "이빨빠지는꿈 해몽",
+        "치아 빠지는 꿈"
+      ],
+      "googleKeywords": [
+        "teeth falling out dream meaning Korean",
+        "dream of losing teeth"
+      ]
     },
     {
       "id": "teeth-broken",
@@ -26,10 +37,19 @@
       "category": "body",
       "subcategory": "teeth",
       "subcategoryKorean": "이빨/치아",
-      "related": ["teeth-falling", "teeth-crumbling"],
+      "related": [
+        "teeth-falling",
+        "teeth-crumbling"
+      ],
       "searchTier": "high",
-      "naverKeywords": ["이빨이 부러지는 꿈", "이빨 부러지는 꿈 해몽"],
-      "googleKeywords": ["teeth breaking dream meaning", "dream of broken teeth"]
+      "naverKeywords": [
+        "이빨이 부러지는 꿈",
+        "이빨 부러지는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "teeth breaking dream meaning",
+        "dream of broken teeth"
+      ]
     },
     {
       "id": "teeth-loose",
@@ -40,10 +60,19 @@
       "category": "body",
       "subcategory": "teeth",
       "subcategoryKorean": "이빨/치아",
-      "related": ["teeth-falling", "teeth-broken"],
+      "related": [
+        "teeth-falling",
+        "teeth-broken"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["이빨이 흔들리는 꿈", "이 흔들리는 꿈 해몽"],
-      "googleKeywords": ["loose teeth dream meaning", "dream of wobbly teeth"]
+      "naverKeywords": [
+        "이빨이 흔들리는 꿈",
+        "이 흔들리는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "loose teeth dream meaning",
+        "dream of wobbly teeth"
+      ]
     },
     {
       "id": "teeth-all-falling",
@@ -54,10 +83,19 @@
       "category": "body",
       "subcategory": "teeth",
       "subcategoryKorean": "이빨/치아",
-      "related": ["teeth-falling", "teeth-broken"],
+      "related": [
+        "teeth-falling",
+        "teeth-broken"
+      ],
       "searchTier": "high",
-      "naverKeywords": ["이빨이 다 빠지는 꿈", "이 다 빠지는 꿈 해몽"],
-      "googleKeywords": ["all teeth falling out dream", "dream of losing all teeth"]
+      "naverKeywords": [
+        "이빨이 다 빠지는 꿈",
+        "이 다 빠지는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "all teeth falling out dream",
+        "dream of losing all teeth"
+      ]
     },
     {
       "id": "teeth-crumbling",
@@ -68,10 +106,18 @@
       "category": "body",
       "subcategory": "teeth",
       "subcategoryKorean": "이빨/치아",
-      "related": ["teeth-broken", "teeth-falling"],
+      "related": [
+        "teeth-broken",
+        "teeth-falling"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["이빨이 부스러지는 꿈", "이 부스러지는 꿈 해몽"],
-      "googleKeywords": ["teeth crumbling dream meaning"]
+      "naverKeywords": [
+        "이빨이 부스러지는 꿈",
+        "이 부스러지는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "teeth crumbling dream meaning"
+      ]
     },
     {
       "id": "teeth-pulling",
@@ -82,10 +128,18 @@
       "category": "body",
       "subcategory": "teeth",
       "subcategoryKorean": "이빨/치아",
-      "related": ["teeth-falling", "teeth-broken"],
+      "related": [
+        "teeth-falling",
+        "teeth-broken"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["이빨을 뽑는 꿈", "이 뽑는 꿈 해몽"],
-      "googleKeywords": ["pulling teeth dream meaning"]
+      "naverKeywords": [
+        "이빨을 뽑는 꿈",
+        "이 뽑는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "pulling teeth dream meaning"
+      ]
     },
     {
       "id": "teeth-growing",
@@ -96,10 +150,17 @@
       "category": "body",
       "subcategory": "teeth",
       "subcategoryKorean": "이빨/치아",
-      "related": ["teeth-falling"],
+      "related": [
+        "teeth-falling"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["이빨이 새로 나는 꿈", "새 이 나는 꿈 해몽"],
-      "googleKeywords": ["new teeth growing dream meaning"]
+      "naverKeywords": [
+        "이빨이 새로 나는 꿈",
+        "새 이 나는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "new teeth growing dream meaning"
+      ]
     },
     {
       "id": "teeth-gold",
@@ -110,10 +171,18 @@
       "category": "body",
       "subcategory": "teeth",
       "subcategoryKorean": "이빨/치아",
-      "related": ["teeth-falling", "teeth-growing"],
+      "related": [
+        "teeth-falling",
+        "teeth-growing"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["금이빨 꿈", "금이빨 꿈 해몽"],
-      "googleKeywords": ["gold teeth dream meaning"]
+      "naverKeywords": [
+        "금이빨 꿈",
+        "금이빨 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "gold teeth dream meaning"
+      ]
     },
     {
       "id": "hair-falling",
@@ -124,10 +193,21 @@
       "category": "body",
       "subcategory": "hair",
       "subcategoryKorean": "머리카락",
-      "related": ["hair-cut", "hair-bald", "hair-long"],
+      "related": [
+        "hair-cut",
+        "hair-bald",
+        "hair-long"
+      ],
       "searchTier": "high",
-      "naverKeywords": ["머리카락 빠지는 꿈", "머리카락빠지는꿈 해몽", "탈모 꿈"],
-      "googleKeywords": ["hair falling out dream meaning", "dream of losing hair"]
+      "naverKeywords": [
+        "머리카락 빠지는 꿈",
+        "머리카락빠지는꿈 해몽",
+        "탈모 꿈"
+      ],
+      "googleKeywords": [
+        "hair falling out dream meaning",
+        "dream of losing hair"
+      ]
     },
     {
       "id": "hair-cut",
@@ -138,10 +218,19 @@
       "category": "body",
       "subcategory": "hair",
       "subcategoryKorean": "머리카락",
-      "related": ["hair-falling", "hair-short"],
+      "related": [
+        "hair-falling",
+        "hair-short"
+      ],
       "searchTier": "high",
-      "naverKeywords": ["머리를 자르는 꿈", "머리 자르는 꿈 해몽"],
-      "googleKeywords": ["cutting hair dream meaning", "dream of haircut"]
+      "naverKeywords": [
+        "머리를 자르는 꿈",
+        "머리 자르는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "cutting hair dream meaning",
+        "dream of haircut"
+      ]
     },
     {
       "id": "hair-long",
@@ -152,10 +241,18 @@
       "category": "body",
       "subcategory": "hair",
       "subcategoryKorean": "머리카락",
-      "related": ["hair-falling", "hair-cut"],
+      "related": [
+        "hair-falling",
+        "hair-cut"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["머리카락이 긴 꿈", "긴 머리 꿈 해몽"],
-      "googleKeywords": ["long hair dream meaning"]
+      "naverKeywords": [
+        "머리카락이 긴 꿈",
+        "긴 머리 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "long hair dream meaning"
+      ]
     },
     {
       "id": "hair-bald",
@@ -166,10 +263,17 @@
       "category": "body",
       "subcategory": "hair",
       "subcategoryKorean": "머리카락",
-      "related": ["hair-falling"],
+      "related": [
+        "hair-falling"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["대머리가 되는 꿈", "대머리 꿈 해몽"],
-      "googleKeywords": ["going bald dream meaning"]
+      "naverKeywords": [
+        "대머리가 되는 꿈",
+        "대머리 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "going bald dream meaning"
+      ]
     },
     {
       "id": "hair-white",
@@ -180,10 +284,20 @@
       "category": "body",
       "subcategory": "hair",
       "subcategoryKorean": "머리카락",
-      "related": ["hair-falling", "hair-long"],
+      "related": [
+        "hair-falling",
+        "hair-long"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["흰 머리카락 꿈", "백발 꿈 해몽", "새치 꿈"],
-      "googleKeywords": ["white hair dream meaning", "gray hair dream"]
+      "naverKeywords": [
+        "흰 머리카락 꿈",
+        "백발 꿈 해몽",
+        "새치 꿈"
+      ],
+      "googleKeywords": [
+        "white hair dream meaning",
+        "gray hair dream"
+      ]
     },
     {
       "id": "hair-short",
@@ -194,10 +308,17 @@
       "category": "body",
       "subcategory": "hair",
       "subcategoryKorean": "머리카락",
-      "related": ["hair-cut"],
+      "related": [
+        "hair-cut"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["짧은 머리 꿈", "짧은 머리 꿈 해몽"],
-      "googleKeywords": ["short hair dream meaning"]
+      "naverKeywords": [
+        "짧은 머리 꿈",
+        "짧은 머리 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "short hair dream meaning"
+      ]
     },
     {
       "id": "blood-general",
@@ -208,10 +329,21 @@
       "category": "body",
       "subcategory": "blood",
       "subcategoryKorean": "피/혈액",
-      "related": ["blood-nose", "blood-mouth", "blood-wound"],
+      "related": [
+        "blood-nose",
+        "blood-mouth",
+        "blood-wound"
+      ],
       "searchTier": "high",
-      "naverKeywords": ["피꿈", "피꿈 해몽", "피 나오는 꿈"],
-      "googleKeywords": ["blood dream meaning Korean", "dream of blood"]
+      "naverKeywords": [
+        "피꿈",
+        "피꿈 해몽",
+        "피 나오는 꿈"
+      ],
+      "googleKeywords": [
+        "blood dream meaning Korean",
+        "dream of blood"
+      ]
     },
     {
       "id": "blood-nose",
@@ -222,10 +354,19 @@
       "category": "body",
       "subcategory": "blood",
       "subcategoryKorean": "피/혈액",
-      "related": ["blood-general", "blood-mouth"],
+      "related": [
+        "blood-general",
+        "blood-mouth"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["코피 나는 꿈", "코피 꿈 해몽"],
-      "googleKeywords": ["nosebleed dream meaning", "dream of nosebleed"]
+      "naverKeywords": [
+        "코피 나는 꿈",
+        "코피 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "nosebleed dream meaning",
+        "dream of nosebleed"
+      ]
     },
     {
       "id": "blood-mouth",
@@ -236,10 +377,18 @@
       "category": "body",
       "subcategory": "blood",
       "subcategoryKorean": "피/혈액",
-      "related": ["blood-general", "blood-nose"],
+      "related": [
+        "blood-general",
+        "blood-nose"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["입에서 피가 나는 꿈", "피 토하는 꿈 해몽"],
-      "googleKeywords": ["coughing blood dream meaning"]
+      "naverKeywords": [
+        "입에서 피가 나는 꿈",
+        "피 토하는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "coughing blood dream meaning"
+      ]
     },
     {
       "id": "blood-wound",
@@ -250,10 +399,17 @@
       "category": "body",
       "subcategory": "blood",
       "subcategoryKorean": "피/혈액",
-      "related": ["blood-general"],
+      "related": [
+        "blood-general"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["상처에서 피나는 꿈", "상처 피 꿈 해몽"],
-      "googleKeywords": ["bleeding wound dream meaning"]
+      "naverKeywords": [
+        "상처에서 피나는 꿈",
+        "상처 피 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "bleeding wound dream meaning"
+      ]
     },
     {
       "id": "blood-menstrual",
@@ -264,10 +420,18 @@
       "category": "body",
       "subcategory": "blood",
       "subcategoryKorean": "피/혈액",
-      "related": ["blood-general", "pregnancy-general"],
+      "related": [
+        "blood-general",
+        "pregnancy-general"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["생리 피 꿈", "생리 꿈 해몽"],
-      "googleKeywords": ["menstrual blood dream meaning"]
+      "naverKeywords": [
+        "생리 피 꿈",
+        "생리 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "menstrual blood dream meaning"
+      ]
     },
     {
       "id": "blood-hand",
@@ -278,10 +442,18 @@
       "category": "body",
       "subcategory": "blood",
       "subcategoryKorean": "피/혈액",
-      "related": ["blood-general", "hand-general"],
+      "related": [
+        "blood-general",
+        "hand-general"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["손에 피 묻은 꿈", "손 피 꿈 해몽"],
-      "googleKeywords": ["blood on hands dream meaning"]
+      "naverKeywords": [
+        "손에 피 묻은 꿈",
+        "손 피 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "blood on hands dream meaning"
+      ]
     },
     {
       "id": "hand-general",
@@ -292,10 +464,20 @@
       "category": "body",
       "subcategory": "hand",
       "subcategoryKorean": "손",
-      "related": ["hand-cut", "hand-hold", "finger-general"],
+      "related": [
+        "hand-cut",
+        "hand-hold",
+        "finger-general"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["손 꿈", "손 꿈 해몽"],
-      "googleKeywords": ["hand dream meaning", "dream of hands"]
+      "naverKeywords": [
+        "손 꿈",
+        "손 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "hand dream meaning",
+        "dream of hands"
+      ]
     },
     {
       "id": "hand-cut",
@@ -306,10 +488,18 @@
       "category": "body",
       "subcategory": "hand",
       "subcategoryKorean": "손",
-      "related": ["hand-general", "finger-cut"],
+      "related": [
+        "hand-general",
+        "finger-cut"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["손이 잘리는 꿈", "손 잘리는 꿈 해몽"],
-      "googleKeywords": ["hand cut off dream meaning"]
+      "naverKeywords": [
+        "손이 잘리는 꿈",
+        "손 잘리는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "hand cut off dream meaning"
+      ]
     },
     {
       "id": "hand-hold",
@@ -320,10 +510,18 @@
       "category": "body",
       "subcategory": "hand",
       "subcategoryKorean": "손",
-      "related": ["hand-general", "marriage-general"],
+      "related": [
+        "hand-general",
+        "marriage-general"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["손을 잡는 꿈", "손 잡는 꿈 해몽"],
-      "googleKeywords": ["holding hands dream meaning"]
+      "naverKeywords": [
+        "손을 잡는 꿈",
+        "손 잡는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "holding hands dream meaning"
+      ]
     },
     {
       "id": "finger-general",
@@ -334,10 +532,18 @@
       "category": "body",
       "subcategory": "hand",
       "subcategoryKorean": "손",
-      "related": ["hand-general", "finger-cut"],
+      "related": [
+        "hand-general",
+        "finger-cut"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["손가락 꿈", "손가락 꿈 해몽"],
-      "googleKeywords": ["finger dream meaning"]
+      "naverKeywords": [
+        "손가락 꿈",
+        "손가락 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "finger dream meaning"
+      ]
     },
     {
       "id": "finger-cut",
@@ -348,10 +554,18 @@
       "category": "body",
       "subcategory": "hand",
       "subcategoryKorean": "손",
-      "related": ["finger-general", "hand-cut"],
+      "related": [
+        "finger-general",
+        "hand-cut"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["손가락 잘리는 꿈", "손가락 잘리는 꿈 해몽"],
-      "googleKeywords": ["finger cut off dream meaning"]
+      "naverKeywords": [
+        "손가락 잘리는 꿈",
+        "손가락 잘리는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "finger cut off dream meaning"
+      ]
     },
     {
       "id": "eye-general",
@@ -362,10 +576,18 @@
       "category": "body",
       "subcategory": "eye",
       "subcategoryKorean": "눈(안구)",
-      "related": ["eye-blind", "eye-third"],
+      "related": [
+        "eye-blind",
+        "eye-third"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["눈 꿈", "눈 꿈 해몽"],
-      "googleKeywords": ["eyes dream meaning"]
+      "naverKeywords": [
+        "눈 꿈",
+        "눈 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "eyes dream meaning"
+      ]
     },
     {
       "id": "eye-blind",
@@ -376,10 +598,18 @@
       "category": "body",
       "subcategory": "eye",
       "subcategoryKorean": "눈(안구)",
-      "related": ["eye-general"],
+      "related": [
+        "eye-general"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["눈이 안 보이는 꿈", "장님 꿈 해몽"],
-      "googleKeywords": ["going blind dream meaning", "dream of losing sight"]
+      "naverKeywords": [
+        "눈이 안 보이는 꿈",
+        "장님 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "going blind dream meaning",
+        "dream of losing sight"
+      ]
     },
     {
       "id": "eye-third",
@@ -390,10 +620,17 @@
       "category": "body",
       "subcategory": "eye",
       "subcategoryKorean": "눈(안구)",
-      "related": ["eye-general"],
+      "related": [
+        "eye-general"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["제3의 눈 꿈", "세번째 눈 꿈 해몽"],
-      "googleKeywords": ["third eye dream meaning"]
+      "naverKeywords": [
+        "제3의 눈 꿈",
+        "세번째 눈 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "third eye dream meaning"
+      ]
     },
     {
       "id": "foot-general",
@@ -404,10 +641,18 @@
       "category": "body",
       "subcategory": "foot",
       "subcategoryKorean": "발",
-      "related": ["foot-barefoot", "foot-hurt"],
+      "related": [
+        "foot-barefoot",
+        "foot-hurt"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["발 꿈", "발 꿈 해몽"],
-      "googleKeywords": ["feet dream meaning"]
+      "naverKeywords": [
+        "발 꿈",
+        "발 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "feet dream meaning"
+      ]
     },
     {
       "id": "foot-barefoot",
@@ -418,10 +663,18 @@
       "category": "body",
       "subcategory": "foot",
       "subcategoryKorean": "발",
-      "related": ["foot-general", "action-walking"],
+      "related": [
+        "foot-general",
+        "action-walking"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["맨발로 걷는 꿈", "맨발 꿈 해몽"],
-      "googleKeywords": ["walking barefoot dream meaning"]
+      "naverKeywords": [
+        "맨발로 걷는 꿈",
+        "맨발 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "walking barefoot dream meaning"
+      ]
     },
     {
       "id": "foot-hurt",
@@ -432,10 +685,17 @@
       "category": "body",
       "subcategory": "foot",
       "subcategoryKorean": "발",
-      "related": ["foot-general"],
+      "related": [
+        "foot-general"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["발 다치는 꿈", "발 다치는 꿈 해몽"],
-      "googleKeywords": ["hurting feet dream meaning"]
+      "naverKeywords": [
+        "발 다치는 꿈",
+        "발 다치는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "hurting feet dream meaning"
+      ]
     },
     {
       "id": "leg-broken",
@@ -446,10 +706,18 @@
       "category": "body",
       "subcategory": "leg",
       "subcategoryKorean": "다리",
-      "related": ["foot-general", "body-injury"],
+      "related": [
+        "foot-general",
+        "body-injury"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["다리가 부러지는 꿈", "다리 부러지는 꿈 해몽"],
-      "googleKeywords": ["broken leg dream meaning"]
+      "naverKeywords": [
+        "다리가 부러지는 꿈",
+        "다리 부러지는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "broken leg dream meaning"
+      ]
     },
     {
       "id": "leg-cant-move",
@@ -460,10 +728,18 @@
       "category": "body",
       "subcategory": "leg",
       "subcategoryKorean": "다리",
-      "related": ["leg-broken", "body-paralysis"],
+      "related": [
+        "leg-broken",
+        "body-paralysis"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["다리가 안 움직이는 꿈", "다리 마비 꿈 해몽"],
-      "googleKeywords": ["legs not moving dream meaning"]
+      "naverKeywords": [
+        "다리가 안 움직이는 꿈",
+        "다리 마비 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "legs not moving dream meaning"
+      ]
     },
     {
       "id": "face-general",
@@ -474,10 +750,18 @@
       "category": "body",
       "subcategory": "face",
       "subcategoryKorean": "얼굴",
-      "related": ["face-pimple", "face-scar"],
+      "related": [
+        "face-pimple",
+        "face-scar"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["얼굴 꿈", "얼굴 꿈 해몽"],
-      "googleKeywords": ["face dream meaning"]
+      "naverKeywords": [
+        "얼굴 꿈",
+        "얼굴 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "face dream meaning"
+      ]
     },
     {
       "id": "face-pimple",
@@ -488,10 +772,17 @@
       "category": "body",
       "subcategory": "face",
       "subcategoryKorean": "얼굴",
-      "related": ["face-general"],
+      "related": [
+        "face-general"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["여드름 꿈", "여드름 나는 꿈 해몽"],
-      "googleKeywords": ["pimple dream meaning"]
+      "naverKeywords": [
+        "여드름 꿈",
+        "여드름 나는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "pimple dream meaning"
+      ]
     },
     {
       "id": "face-scar",
@@ -502,10 +793,18 @@
       "category": "body",
       "subcategory": "face",
       "subcategoryKorean": "얼굴",
-      "related": ["face-general", "body-injury"],
+      "related": [
+        "face-general",
+        "body-injury"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["얼굴 흉터 꿈", "얼굴 흉터 꿈 해몽"],
-      "googleKeywords": ["scar on face dream meaning"]
+      "naverKeywords": [
+        "얼굴 흉터 꿈",
+        "얼굴 흉터 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "scar on face dream meaning"
+      ]
     },
     {
       "id": "body-naked",
@@ -516,10 +815,20 @@
       "category": "body",
       "subcategory": "body-state",
       "subcategoryKorean": "몸상태",
-      "related": ["body-exposed", "clothing-missing"],
+      "related": [
+        "body-exposed",
+        "clothing-missing"
+      ],
       "searchTier": "high",
-      "naverKeywords": ["벌거벗은 꿈", "알몸 꿈 해몽", "나체 꿈"],
-      "googleKeywords": ["being naked dream meaning", "dream of being nude"]
+      "naverKeywords": [
+        "벌거벗은 꿈",
+        "알몸 꿈 해몽",
+        "나체 꿈"
+      ],
+      "googleKeywords": [
+        "being naked dream meaning",
+        "dream of being nude"
+      ]
     },
     {
       "id": "body-exposed",
@@ -530,10 +839,17 @@
       "category": "body",
       "subcategory": "body-state",
       "subcategoryKorean": "몸상태",
-      "related": ["body-naked"],
+      "related": [
+        "body-naked"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["사람들 앞에서 벗겨지는 꿈", "공공장소 알몸 꿈 해몽"],
-      "googleKeywords": ["naked in public dream meaning"]
+      "naverKeywords": [
+        "사람들 앞에서 벗겨지는 꿈",
+        "공공장소 알몸 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "naked in public dream meaning"
+      ]
     },
     {
       "id": "body-fat",
@@ -544,10 +860,17 @@
       "category": "body",
       "subcategory": "body-state",
       "subcategoryKorean": "몸상태",
-      "related": ["body-thin"],
+      "related": [
+        "body-thin"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["살이 찌는 꿈", "살찌는 꿈 해몽"],
-      "googleKeywords": ["gaining weight dream meaning"]
+      "naverKeywords": [
+        "살이 찌는 꿈",
+        "살찌는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "gaining weight dream meaning"
+      ]
     },
     {
       "id": "body-thin",
@@ -558,10 +881,17 @@
       "category": "body",
       "subcategory": "body-state",
       "subcategoryKorean": "몸상태",
-      "related": ["body-fat"],
+      "related": [
+        "body-fat"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["마르는 꿈", "살빠지는 꿈 해몽"],
-      "googleKeywords": ["losing weight dream meaning"]
+      "naverKeywords": [
+        "마르는 꿈",
+        "살빠지는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "losing weight dream meaning"
+      ]
     },
     {
       "id": "body-injury",
@@ -572,10 +902,19 @@
       "category": "body",
       "subcategory": "body-state",
       "subcategoryKorean": "몸상태",
-      "related": ["blood-general", "leg-broken"],
+      "related": [
+        "blood-general",
+        "leg-broken"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["다치는 꿈", "다치는 꿈 해몽", "부상 꿈"],
-      "googleKeywords": ["getting injured dream meaning"]
+      "naverKeywords": [
+        "다치는 꿈",
+        "다치는 꿈 해몽",
+        "부상 꿈"
+      ],
+      "googleKeywords": [
+        "getting injured dream meaning"
+      ]
     },
     {
       "id": "body-paralysis",
@@ -586,10 +925,19 @@
       "category": "body",
       "subcategory": "body-state",
       "subcategoryKorean": "몸상태",
-      "related": ["body-sleep-paralysis", "leg-cant-move"],
+      "related": [
+        "body-sleep-paralysis",
+        "leg-cant-move"
+      ],
       "searchTier": "high",
-      "naverKeywords": ["몸이 안 움직이는 꿈", "가위눌리는 꿈 해몽"],
-      "googleKeywords": ["paralyzed dream meaning", "sleep paralysis dream"]
+      "naverKeywords": [
+        "몸이 안 움직이는 꿈",
+        "가위눌리는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "paralyzed dream meaning",
+        "sleep paralysis dream"
+      ]
     },
     {
       "id": "body-sleep-paralysis",
@@ -600,10 +948,18 @@
       "category": "body",
       "subcategory": "body-state",
       "subcategoryKorean": "몸상태",
-      "related": ["body-paralysis", "spirits-general"],
+      "related": [
+        "body-paralysis",
+        "spirits-general"
+      ],
       "searchTier": "high",
-      "naverKeywords": ["가위에 눌리는 꿈", "가위눌림 꿈 해몽"],
-      "googleKeywords": ["sleep paralysis dream meaning Korean"]
+      "naverKeywords": [
+        "가위에 눌리는 꿈",
+        "가위눌림 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "sleep paralysis dream meaning Korean"
+      ]
     },
     {
       "id": "body-sick",
@@ -614,10 +970,19 @@
       "category": "body",
       "subcategory": "body-state",
       "subcategoryKorean": "몸상태",
-      "related": ["body-hospital", "body-injury"],
+      "related": [
+        "body-hospital",
+        "body-injury"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["아픈 꿈", "아픈 꿈 해몽", "병 걸리는 꿈"],
-      "googleKeywords": ["being sick dream meaning"]
+      "naverKeywords": [
+        "아픈 꿈",
+        "아픈 꿈 해몽",
+        "병 걸리는 꿈"
+      ],
+      "googleKeywords": [
+        "being sick dream meaning"
+      ]
     },
     {
       "id": "body-hospital",
@@ -628,10 +993,18 @@
       "category": "body",
       "subcategory": "body-state",
       "subcategoryKorean": "몸상태",
-      "related": ["body-sick", "body-surgery"],
+      "related": [
+        "body-sick",
+        "body-surgery"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["병원 가는 꿈", "병원 꿈 해몽"],
-      "googleKeywords": ["hospital dream meaning"]
+      "naverKeywords": [
+        "병원 가는 꿈",
+        "병원 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "hospital dream meaning"
+      ]
     },
     {
       "id": "body-surgery",
@@ -642,10 +1015,18 @@
       "category": "body",
       "subcategory": "body-state",
       "subcategoryKorean": "몸상태",
-      "related": ["body-hospital", "body-sick"],
+      "related": [
+        "body-hospital",
+        "body-sick"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["수술하는 꿈", "수술 꿈 해몽"],
-      "googleKeywords": ["surgery dream meaning"]
+      "naverKeywords": [
+        "수술하는 꿈",
+        "수술 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "surgery dream meaning"
+      ]
     },
     {
       "id": "poop-general",
@@ -656,10 +1037,22 @@
       "category": "body",
       "subcategory": "excretion",
       "subcategoryKorean": "배설",
-      "related": ["poop-step", "poop-toilet", "poop-pants"],
+      "related": [
+        "poop-step",
+        "poop-toilet",
+        "poop-pants"
+      ],
       "searchTier": "high",
-      "naverKeywords": ["똥꿈", "똥꿈 해몽", "똥꿈 의미", "대변 꿈"],
-      "googleKeywords": ["poop dream meaning Korean", "feces dream meaning"]
+      "naverKeywords": [
+        "똥꿈",
+        "똥꿈 해몽",
+        "똥꿈 의미",
+        "대변 꿈"
+      ],
+      "googleKeywords": [
+        "poop dream meaning Korean",
+        "feces dream meaning"
+      ]
     },
     {
       "id": "poop-step",
@@ -670,10 +1063,18 @@
       "category": "body",
       "subcategory": "excretion",
       "subcategoryKorean": "배설",
-      "related": ["poop-general", "poop-pants"],
+      "related": [
+        "poop-general",
+        "poop-pants"
+      ],
       "searchTier": "high",
-      "naverKeywords": ["똥을 밟는 꿈", "똥 밟는 꿈 해몽"],
-      "googleKeywords": ["stepping on poop dream meaning"]
+      "naverKeywords": [
+        "똥을 밟는 꿈",
+        "똥 밟는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "stepping on poop dream meaning"
+      ]
     },
     {
       "id": "poop-toilet",
@@ -684,10 +1085,19 @@
       "category": "body",
       "subcategory": "excretion",
       "subcategoryKorean": "배설",
-      "related": ["poop-general", "poop-overflow"],
+      "related": [
+        "poop-general",
+        "poop-overflow"
+      ],
       "searchTier": "high",
-      "naverKeywords": ["화장실에서 대변보는 꿈", "화장실 꿈 해몽"],
-      "googleKeywords": ["pooping dream meaning", "toilet dream meaning"]
+      "naverKeywords": [
+        "화장실에서 대변보는 꿈",
+        "화장실 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "pooping dream meaning",
+        "toilet dream meaning"
+      ]
     },
     {
       "id": "poop-pants",
@@ -698,10 +1108,18 @@
       "category": "body",
       "subcategory": "excretion",
       "subcategoryKorean": "배설",
-      "related": ["poop-general", "poop-step"],
+      "related": [
+        "poop-general",
+        "poop-step"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["바지에 똥 싸는 꿈", "똥 싸는 꿈 해몽"],
-      "googleKeywords": ["pooping in pants dream meaning"]
+      "naverKeywords": [
+        "바지에 똥 싸는 꿈",
+        "똥 싸는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "pooping in pants dream meaning"
+      ]
     },
     {
       "id": "poop-overflow",
@@ -712,10 +1130,18 @@
       "category": "body",
       "subcategory": "excretion",
       "subcategoryKorean": "배설",
-      "related": ["poop-general", "poop-toilet"],
+      "related": [
+        "poop-general",
+        "poop-toilet"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["변기 넘치는 꿈", "화장실 넘치는 꿈 해몽"],
-      "googleKeywords": ["toilet overflowing dream meaning"]
+      "naverKeywords": [
+        "변기 넘치는 꿈",
+        "화장실 넘치는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "toilet overflowing dream meaning"
+      ]
     },
     {
       "id": "poop-dog",
@@ -726,10 +1152,18 @@
       "category": "body",
       "subcategory": "excretion",
       "subcategoryKorean": "배설",
-      "related": ["poop-general", "poop-step"],
+      "related": [
+        "poop-general",
+        "poop-step"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["개똥 꿈", "개똥 꿈 해몽"],
-      "googleKeywords": ["dog poop dream meaning"]
+      "naverKeywords": [
+        "개똥 꿈",
+        "개똥 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "dog poop dream meaning"
+      ]
     },
     {
       "id": "urine-general",
@@ -740,10 +1174,20 @@
       "category": "body",
       "subcategory": "excretion",
       "subcategoryKorean": "배설",
-      "related": ["poop-general", "urine-bed"],
+      "related": [
+        "poop-general",
+        "urine-bed"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["소변 꿈", "오줌 꿈 해몽", "소변 보는 꿈"],
-      "googleKeywords": ["urinating dream meaning", "dream of peeing"]
+      "naverKeywords": [
+        "소변 꿈",
+        "오줌 꿈 해몽",
+        "소변 보는 꿈"
+      ],
+      "googleKeywords": [
+        "urinating dream meaning",
+        "dream of peeing"
+      ]
     },
     {
       "id": "urine-bed",
@@ -754,10 +1198,18 @@
       "category": "body",
       "subcategory": "excretion",
       "subcategoryKorean": "배설",
-      "related": ["urine-general", "poop-pants"],
+      "related": [
+        "urine-general",
+        "poop-pants"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["오줌 싸는 꿈", "오줌 꿈 해몽"],
-      "googleKeywords": ["wetting the bed dream meaning"]
+      "naverKeywords": [
+        "오줌 싸는 꿈",
+        "오줌 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "wetting the bed dream meaning"
+      ]
     },
     {
       "id": "vomit-general",
@@ -768,10 +1220,17 @@
       "category": "body",
       "subcategory": "excretion",
       "subcategoryKorean": "배설",
-      "related": ["body-sick"],
+      "related": [
+        "body-sick"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["구토하는 꿈", "토하는 꿈 해몽"],
-      "googleKeywords": ["vomiting dream meaning"]
+      "naverKeywords": [
+        "구토하는 꿈",
+        "토하는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "vomiting dream meaning"
+      ]
     },
     {
       "id": "ear-general",
@@ -782,10 +1241,17 @@
       "category": "body",
       "subcategory": "ear",
       "subcategoryKorean": "귀",
-      "related": ["ear-deaf"],
+      "related": [
+        "ear-deaf"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["귀 꿈", "귀 꿈 해몽"],
-      "googleKeywords": ["ear dream meaning"]
+      "naverKeywords": [
+        "귀 꿈",
+        "귀 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "ear dream meaning"
+      ]
     },
     {
       "id": "ear-deaf",
@@ -796,10 +1262,17 @@
       "category": "body",
       "subcategory": "ear",
       "subcategoryKorean": "귀",
-      "related": ["ear-general"],
+      "related": [
+        "ear-general"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["귀가 안 들리는 꿈", "귀 안 들리는 꿈 해몽"],
-      "googleKeywords": ["going deaf dream meaning"]
+      "naverKeywords": [
+        "귀가 안 들리는 꿈",
+        "귀 안 들리는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "going deaf dream meaning"
+      ]
     },
     {
       "id": "nose-general",
@@ -810,10 +1283,17 @@
       "category": "body",
       "subcategory": "nose",
       "subcategoryKorean": "코",
-      "related": ["blood-nose"],
+      "related": [
+        "blood-nose"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["코 꿈", "코 꿈 해몽"],
-      "googleKeywords": ["nose dream meaning"]
+      "naverKeywords": [
+        "코 꿈",
+        "코 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "nose dream meaning"
+      ]
     },
     {
       "id": "mouth-general",
@@ -824,10 +1304,18 @@
       "category": "body",
       "subcategory": "mouth",
       "subcategoryKorean": "입",
-      "related": ["teeth-falling", "blood-mouth"],
+      "related": [
+        "teeth-falling",
+        "blood-mouth"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["입 꿈", "입 꿈 해몽"],
-      "googleKeywords": ["mouth dream meaning"]
+      "naverKeywords": [
+        "입 꿈",
+        "입 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "mouth dream meaning"
+      ]
     },
     {
       "id": "belly-swollen",
@@ -838,10 +1326,18 @@
       "category": "body",
       "subcategory": "belly",
       "subcategoryKorean": "배",
-      "related": ["pregnancy-general", "body-fat"],
+      "related": [
+        "pregnancy-general",
+        "body-fat"
+      ],
       "searchTier": "medium",
-      "naverKeywords": ["배가 부른 꿈", "배 부른 꿈 해몽"],
-      "googleKeywords": ["swollen belly dream meaning"]
+      "naverKeywords": [
+        "배가 부른 꿈",
+        "배 부른 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "swollen belly dream meaning"
+      ]
     },
     {
       "id": "back-pain",
@@ -852,10 +1348,18 @@
       "category": "body",
       "subcategory": "back",
       "subcategoryKorean": "허리/등",
-      "related": ["body-sick", "body-injury"],
+      "related": [
+        "body-sick",
+        "body-injury"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["허리 아픈 꿈", "허리 아픈 꿈 해몽"],
-      "googleKeywords": ["back pain dream meaning"]
+      "naverKeywords": [
+        "허리 아픈 꿈",
+        "허리 아픈 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "back pain dream meaning"
+      ]
     },
     {
       "id": "chest-pain",
@@ -866,10 +1370,17 @@
       "category": "body",
       "subcategory": "chest",
       "subcategoryKorean": "가슴",
-      "related": ["body-sick"],
+      "related": [
+        "body-sick"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["가슴이 아픈 꿈", "가슴 아픈 꿈 해몽"],
-      "googleKeywords": ["chest pain dream meaning"]
+      "naverKeywords": [
+        "가슴이 아픈 꿈",
+        "가슴 아픈 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "chest pain dream meaning"
+      ]
     },
     {
       "id": "head-pain",
@@ -880,10 +1391,17 @@
       "category": "body",
       "subcategory": "head",
       "subcategoryKorean": "머리",
-      "related": ["body-sick"],
+      "related": [
+        "body-sick"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["머리가 아픈 꿈", "두통 꿈 해몽"],
-      "googleKeywords": ["headache dream meaning"]
+      "naverKeywords": [
+        "머리가 아픈 꿈",
+        "두통 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "headache dream meaning"
+      ]
     },
     {
       "id": "skin-rash",
@@ -894,10 +1412,17 @@
       "category": "body",
       "subcategory": "skin",
       "subcategoryKorean": "피부",
-      "related": ["body-sick"],
+      "related": [
+        "body-sick"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["피부 발진 꿈", "발진 꿈 해몽"],
-      "googleKeywords": ["skin rash dream meaning"]
+      "naverKeywords": [
+        "피부 발진 꿈",
+        "발진 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "skin rash dream meaning"
+      ]
     },
     {
       "id": "nail-broken",
@@ -908,10 +1433,18 @@
       "category": "body",
       "subcategory": "nail",
       "subcategoryKorean": "손톱/발톱",
-      "related": ["finger-general", "hand-general"],
+      "related": [
+        "finger-general",
+        "hand-general"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["손톱 빠지는 꿈", "손톱 빠지는 꿈 해몽"],
-      "googleKeywords": ["losing nail dream meaning"]
+      "naverKeywords": [
+        "손톱 빠지는 꿈",
+        "손톱 빠지는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "losing nail dream meaning"
+      ]
     },
     {
       "id": "tongue-general",
@@ -922,10 +1455,17 @@
       "category": "body",
       "subcategory": "mouth",
       "subcategoryKorean": "입",
-      "related": ["mouth-general"],
+      "related": [
+        "mouth-general"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["혀 꿈", "혀 꿈 해몽"],
-      "googleKeywords": ["tongue dream meaning"]
+      "naverKeywords": [
+        "혀 꿈",
+        "혀 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "tongue dream meaning"
+      ]
     },
     {
       "id": "shoulder-pain",
@@ -936,10 +1476,18 @@
       "category": "body",
       "subcategory": "shoulder",
       "subcategoryKorean": "어깨",
-      "related": ["body-sick", "body-injury"],
+      "related": [
+        "body-sick",
+        "body-injury"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["어깨 아픈 꿈", "어깨 꿈 해몽"],
-      "googleKeywords": ["shoulder pain dream meaning"]
+      "naverKeywords": [
+        "어깨 아픈 꿈",
+        "어깨 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "shoulder pain dream meaning"
+      ]
     },
     {
       "id": "body-growing",
@@ -950,10 +1498,17 @@
       "category": "body",
       "subcategory": "body-state",
       "subcategoryKorean": "몸상태",
-      "related": ["body-shrinking"],
+      "related": [
+        "body-shrinking"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["키가 커지는 꿈", "키 크는 꿈 해몽"],
-      "googleKeywords": ["growing taller dream meaning"]
+      "naverKeywords": [
+        "키가 커지는 꿈",
+        "키 크는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "growing taller dream meaning"
+      ]
     },
     {
       "id": "body-shrinking",
@@ -964,10 +1519,17 @@
       "category": "body",
       "subcategory": "body-state",
       "subcategoryKorean": "몸상태",
-      "related": ["body-growing"],
+      "related": [
+        "body-growing"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["몸이 작아지는 꿈", "몸 작아지는 꿈 해몽"],
-      "googleKeywords": ["shrinking dream meaning"]
+      "naverKeywords": [
+        "몸이 작아지는 꿈",
+        "몸 작아지는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "shrinking dream meaning"
+      ]
     },
     {
       "id": "arm-broken",
@@ -978,10 +1540,18 @@
       "category": "body",
       "subcategory": "arm",
       "subcategoryKorean": "팔",
-      "related": ["body-injury", "hand-cut"],
+      "related": [
+        "body-injury",
+        "hand-cut"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["팔이 부러지는 꿈", "팔 부러지는 꿈 해몽"],
-      "googleKeywords": ["broken arm dream meaning"]
+      "naverKeywords": [
+        "팔이 부러지는 꿈",
+        "팔 부러지는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "broken arm dream meaning"
+      ]
     },
     {
       "id": "body-tattoo",
@@ -992,140 +1562,2420 @@
       "category": "body",
       "subcategory": "body-state",
       "subcategoryKorean": "몸상태",
-      "related": ["body-naked"],
+      "related": [
+        "body-naked"
+      ],
       "searchTier": "longtail",
-      "naverKeywords": ["문신 꿈", "타투 꿈 해몽"],
-      "googleKeywords": ["tattoo dream meaning"]
+      "naverKeywords": [
+        "문신 꿈",
+        "타투 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "tattoo dream meaning"
+      ]
     },
-    {"id":"teeth-wisdom","korean":"사랑니 빠지는 꿈","english":"Dream of wisdom tooth falling out","slug":"wisdom-tooth-dream","koreanSlug":"sarangni-ppajineun-kkum","category":"body","subcategory":"teeth","subcategoryKorean":"이빨/치아","related":["teeth-falling","teeth-pulling"],"searchTier":"medium","naverKeywords":["사랑니 빠지는 꿈","사랑니 꿈 해몽"],"googleKeywords":["wisdom tooth dream meaning"]},
-    {"id":"teeth-cavity","korean":"충치 꿈","english":"Dream of cavities","slug":"cavities-dream","koreanSlug":"chungchi-kkum","category":"body","subcategory":"teeth","subcategoryKorean":"이빨/치아","related":["teeth-falling","teeth-broken"],"searchTier":"longtail","naverKeywords":["충치 꿈","충치 꿈 해몽"],"googleKeywords":["cavity dream meaning"]},
-    {"id":"teeth-braces","korean":"치아 교정 꿈","english":"Dream of braces","slug":"braces-dream","koreanSlug":"chia-gyojeong-kkum","category":"body","subcategory":"teeth","subcategoryKorean":"이빨/치아","related":["teeth-falling"],"searchTier":"longtail","naverKeywords":["치아 교정 꿈","치아 교정 꿈 해몽"],"googleKeywords":["braces dream meaning"]},
-    {"id":"teeth-spitting","korean":"이빨을 뱉는 꿈","english":"Dream of spitting out teeth","slug":"spitting-teeth-dream","koreanSlug":"ippal-baetneun-kkum","category":"body","subcategory":"teeth","subcategoryKorean":"이빨/치아","related":["teeth-falling","teeth-crumbling"],"searchTier":"medium","naverKeywords":["이빨 뱉는 꿈","이 뱉는 꿈 해몽"],"googleKeywords":["spitting out teeth dream meaning"]},
-    {"id":"hair-dye","korean":"머리 염색하는 꿈","english":"Dream of dyeing hair","slug":"dyeing-hair-dream","koreanSlug":"meori-yeomsaek-kkum","category":"body","subcategory":"hair","subcategoryKorean":"머리카락","related":["hair-cut"],"searchTier":"longtail","naverKeywords":["머리 염색 꿈","염색 꿈 해몽"],"googleKeywords":["dyeing hair dream meaning"]},
-    {"id":"hair-growing-fast","korean":"머리카락이 빨리 자라는 꿈","english":"Dream of hair growing fast","slug":"hair-growing-fast-dream","koreanSlug":"meorikarak-ppalli-jaraneun-kkum","category":"body","subcategory":"hair","subcategoryKorean":"머리카락","related":["hair-long"],"searchTier":"longtail","naverKeywords":["머리카락 빨리 자라는 꿈","머리 빨리 자라는 꿈 해몽"],"googleKeywords":["hair growing fast dream meaning"]},
-    {"id":"hair-tangled","korean":"머리카락이 엉킨 꿈","english":"Dream of tangled hair","slug":"tangled-hair-dream","koreanSlug":"meorikarak-eongkin-kkum","category":"body","subcategory":"hair","subcategoryKorean":"머리카락","related":["hair-falling"],"searchTier":"longtail","naverKeywords":["머리카락 엉킨 꿈","머리 엉킨 꿈 해몽"],"googleKeywords":["tangled hair dream meaning"]},
-    {"id":"hair-beard","korean":"수염이 나는 꿈","english":"Dream of growing a beard","slug":"beard-dream","koreanSlug":"suyeom-naneun-kkum","category":"body","subcategory":"hair","subcategoryKorean":"머리카락","related":["hair-long","face-general"],"searchTier":"longtail","naverKeywords":["수염 꿈","수염 나는 꿈 해몽"],"googleKeywords":["beard dream meaning"]},
-    {"id":"blood-vomiting","korean":"피를 토하는 꿈","english":"Dream of vomiting blood","slug":"vomiting-blood-dream","koreanSlug":"pi-tohaneun-kkum","category":"body","subcategory":"blood","subcategoryKorean":"피/혈액","related":["blood-general","blood-mouth"],"searchTier":"medium","naverKeywords":["피를 토하는 꿈","피 토 꿈 해몽"],"googleKeywords":["vomiting blood dream meaning"]},
-    {"id":"blood-pool","korean":"피가 흐르는 꿈","english":"Dream of a pool of blood","slug":"pool-of-blood-dream","koreanSlug":"pi-heureuneun-kkum","category":"body","subcategory":"blood","subcategoryKorean":"피/혈액","related":["blood-general","blood-wound"],"searchTier":"longtail","naverKeywords":["피가 흐르는 꿈","피 흐르는 꿈 해몽"],"googleKeywords":["pool of blood dream meaning"]},
-    {"id":"blood-transfusion","korean":"수혈하는 꿈","english":"Dream of blood transfusion","slug":"blood-transfusion-dream","koreanSlug":"suhyeol-haneun-kkum","category":"body","subcategory":"blood","subcategoryKorean":"피/혈액","related":["blood-general","body-hospital"],"searchTier":"longtail","naverKeywords":["수혈 꿈","수혈 꿈 해몽"],"googleKeywords":["blood transfusion dream meaning"]},
-    {"id":"hand-washing","korean":"손을 씻는 꿈","english":"Dream of washing hands","slug":"washing-hands-dream","koreanSlug":"son-ssinneun-kkum","category":"body","subcategory":"hand","subcategoryKorean":"손","related":["hand-general","action-washing"],"searchTier":"longtail","naverKeywords":["손 씻는 꿈","손 씻는 꿈 해몽"],"googleKeywords":["washing hands dream meaning"]},
-    {"id":"hand-big","korean":"손이 커지는 꿈","english":"Dream of hands growing bigger","slug":"big-hands-dream","koreanSlug":"son-keojineun-kkum","category":"body","subcategory":"hand","subcategoryKorean":"손","related":["hand-general","body-growing"],"searchTier":"longtail","naverKeywords":["손이 커지는 꿈","손 커지는 꿈 해몽"],"googleKeywords":["big hands dream meaning"]},
-    {"id":"finger-ring","korean":"손가락에 반지 꿈","english":"Dream of ring on finger","slug":"ring-on-finger-dream","koreanSlug":"songarak-banji-kkum","category":"body","subcategory":"hand","subcategoryKorean":"손","related":["finger-general","marriage-ring"],"searchTier":"medium","naverKeywords":["손가락 반지 꿈","반지 끼는 꿈 해몽"],"googleKeywords":["ring on finger dream meaning"]},
-    {"id":"finger-extra","korean":"손가락이 하나 더 있는 꿈","english":"Dream of extra finger","slug":"extra-finger-dream","koreanSlug":"songarak-hana-deo-kkum","category":"body","subcategory":"hand","subcategoryKorean":"손","related":["finger-general","body-growing"],"searchTier":"longtail","naverKeywords":["손가락 하나 더 꿈","손가락 더 있는 꿈 해몽"],"googleKeywords":["extra finger dream meaning"]},
-    {"id":"eye-swollen","korean":"눈이 부은 꿈","english":"Dream of swollen eyes","slug":"swollen-eyes-dream","koreanSlug":"nun-bueun-kkum","category":"body","subcategory":"eye","subcategoryKorean":"눈(안구)","related":["eye-general","face-general"],"searchTier":"longtail","naverKeywords":["눈 부은 꿈","눈 부은 꿈 해몽"],"googleKeywords":["swollen eyes dream meaning"]},
-    {"id":"eye-tears","korean":"눈물이 나는 꿈","english":"Dream of tears flowing","slug":"tears-dream","koreanSlug":"nunmul-naneun-kkum","category":"body","subcategory":"eye","subcategoryKorean":"눈(안구)","related":["eye-general","action-crying"],"searchTier":"medium","naverKeywords":["눈물 나는 꿈","눈물 꿈 해몽"],"googleKeywords":["tears dream meaning"]},
-    {"id":"eye-bright","korean":"눈이 밝아지는 꿈","english":"Dream of eyes becoming brighter","slug":"bright-eyes-dream","koreanSlug":"nun-balgajineun-kkum","category":"body","subcategory":"eye","subcategoryKorean":"눈(안구)","related":["eye-general","color-bright"],"searchTier":"longtail","naverKeywords":["눈 밝아지는 꿈","눈 빛나는 꿈 해몽"],"googleKeywords":["bright eyes dream meaning"]},
-    {"id":"eye-glasses","korean":"안경 꿈","english":"Dream of glasses","slug":"glasses-dream","koreanSlug":"angyeong-kkum","category":"body","subcategory":"eye","subcategoryKorean":"눈(안구)","related":["eye-general"],"searchTier":"longtail","naverKeywords":["안경 꿈","안경 꿈 해몽"],"googleKeywords":["glasses dream meaning"]},
-    {"id":"foot-swollen","korean":"발이 부은 꿈","english":"Dream of swollen feet","slug":"swollen-feet-dream","koreanSlug":"bal-bueun-kkum","category":"body","subcategory":"foot","subcategoryKorean":"발","related":["foot-general","body-sick"],"searchTier":"longtail","naverKeywords":["발 부은 꿈","발 부은 꿈 해몽"],"googleKeywords":["swollen feet dream meaning"]},
-    {"id":"foot-washing","korean":"발을 씻는 꿈","english":"Dream of washing feet","slug":"washing-feet-dream","koreanSlug":"bal-ssinneun-kkum","category":"body","subcategory":"foot","subcategoryKorean":"발","related":["foot-general","action-washing"],"searchTier":"longtail","naverKeywords":["발 씻는 꿈","발 씻는 꿈 해몽"],"googleKeywords":["washing feet dream meaning"]},
-    {"id":"leg-amputated","korean":"다리가 잘리는 꿈","english":"Dream of leg being amputated","slug":"leg-amputated-dream","koreanSlug":"dari-jallineun-kkum","category":"body","subcategory":"leg","subcategoryKorean":"다리","related":["leg-broken","body-injury"],"searchTier":"longtail","naverKeywords":["다리 잘리는 꿈","다리 잘리는 꿈 해몽"],"googleKeywords":["leg amputated dream meaning"]},
-    {"id":"leg-strong","korean":"다리가 튼튼한 꿈","english":"Dream of strong legs","slug":"strong-legs-dream","koreanSlug":"dari-teunteunhan-kkum","category":"body","subcategory":"leg","subcategoryKorean":"다리","related":["leg-broken","action-running"],"searchTier":"longtail","naverKeywords":["다리 튼튼한 꿈","다리 힘 꿈 해몽"],"googleKeywords":["strong legs dream meaning"]},
-    {"id":"face-beautiful","korean":"얼굴이 예뻐지는 꿈","english":"Dream of becoming beautiful","slug":"becoming-beautiful-dream","koreanSlug":"eolgul-yeppeo-jineun-kkum","category":"body","subcategory":"face","subcategoryKorean":"얼굴","related":["face-general"],"searchTier":"longtail","naverKeywords":["얼굴 예뻐지는 꿈","예뻐지는 꿈 해몽"],"googleKeywords":["becoming beautiful dream meaning"]},
-    {"id":"face-ugly","korean":"얼굴이 못생겨지는 꿈","english":"Dream of becoming ugly","slug":"becoming-ugly-dream","koreanSlug":"eolgul-motsaenggineun-kkum","category":"body","subcategory":"face","subcategoryKorean":"얼굴","related":["face-general","face-scar"],"searchTier":"longtail","naverKeywords":["못생겨지는 꿈","못생겨지는 꿈 해몽"],"googleKeywords":["becoming ugly dream meaning"]},
-    {"id":"face-wrinkles","korean":"주름이 생기는 꿈","english":"Dream of getting wrinkles","slug":"wrinkles-dream","koreanSlug":"jureum-saenggineun-kkum","category":"body","subcategory":"face","subcategoryKorean":"얼굴","related":["face-general","people-old-person"],"searchTier":"longtail","naverKeywords":["주름 꿈","주름 생기는 꿈 해몽"],"googleKeywords":["wrinkles dream meaning"]},
-    {"id":"face-makeup","korean":"화장하는 꿈","english":"Dream of putting on makeup","slug":"makeup-dream","koreanSlug":"hwajang-haneun-kkum","category":"body","subcategory":"face","subcategoryKorean":"얼굴","related":["face-general","face-beautiful"],"searchTier":"medium","naverKeywords":["화장하는 꿈","화장 꿈 해몽"],"googleKeywords":["makeup dream meaning"]},
-    {"id":"body-sweat","korean":"땀을 흘리는 꿈","english":"Dream of sweating","slug":"sweating-dream","koreanSlug":"ttam-heullineun-kkum","category":"body","subcategory":"body-state","subcategoryKorean":"몸상태","related":["body-sick","action-running"],"searchTier":"longtail","naverKeywords":["땀 흘리는 꿈","땀 꿈 해몽"],"googleKeywords":["sweating dream meaning"]},
-    {"id":"body-floating","korean":"몸이 뜨는 꿈","english":"Dream of body floating","slug":"body-floating-dream","koreanSlug":"mom-tteuneun-kkum","category":"body","subcategory":"body-state","subcategoryKorean":"몸상태","related":["action-floating","action-flying"],"searchTier":"medium","naverKeywords":["몸이 뜨는 꿈","몸 떠오르는 꿈 해몽"],"googleKeywords":["body floating dream meaning"]},
-    {"id":"body-invisible","korean":"투명인간이 되는 꿈","english":"Dream of becoming invisible","slug":"invisible-dream","koreanSlug":"tumyeong-ingan-kkum","category":"body","subcategory":"body-state","subcategoryKorean":"몸상태","related":["body-naked"],"searchTier":"longtail","naverKeywords":["투명인간 꿈","투명인간 꿈 해몽"],"googleKeywords":["becoming invisible dream meaning"]},
-    {"id":"body-transform","korean":"다른 사람이 되는 꿈","english":"Dream of becoming another person","slug":"becoming-someone-else-dream","koreanSlug":"dareun-saram-doeneun-kkum","category":"body","subcategory":"body-state","subcategoryKorean":"몸상태","related":["body-growing","body-shrinking"],"searchTier":"medium","naverKeywords":["다른 사람 되는 꿈","변신 꿈 해몽"],"googleKeywords":["becoming someone else dream meaning"]},
-    {"id":"body-animal-transform","korean":"동물로 변하는 꿈","english":"Dream of turning into an animal","slug":"turning-into-animal-dream","koreanSlug":"dongmul-byeonhaneun-kkum","category":"body","subcategory":"body-state","subcategoryKorean":"몸상태","related":["body-transform"],"searchTier":"medium","naverKeywords":["동물로 변하는 꿈","동물 변신 꿈 해몽"],"googleKeywords":["turning into animal dream meaning"]},
-    {"id":"body-superpower","korean":"초능력이 생기는 꿈","english":"Dream of having superpowers","slug":"superpowers-dream","koreanSlug":"choneungnyeok-kkum","category":"body","subcategory":"body-state","subcategoryKorean":"몸상태","related":["action-flying","body-invisible"],"searchTier":"medium","naverKeywords":["초능력 꿈","초능력 꿈 해몽"],"googleKeywords":["superpowers dream meaning"]},
-    {"id":"body-pregnant","korean":"임신한 배가 나온 꿈","english":"Dream of pregnant belly","slug":"pregnant-belly-dream","koreanSlug":"imsin-bae-kkum","category":"body","subcategory":"belly","subcategoryKorean":"배","related":["belly-swollen","pregnancy-general"],"searchTier":"medium","naverKeywords":["임신 배 꿈","임신한 배 꿈 해몽"],"googleKeywords":["pregnant belly dream meaning"]},
-    {"id":"body-stomachache","korean":"배가 아픈 꿈","english":"Dream of stomachache","slug":"stomachache-dream","koreanSlug":"bae-apeun-kkum","category":"body","subcategory":"belly","subcategoryKorean":"배","related":["body-sick","belly-swollen"],"searchTier":"longtail","naverKeywords":["배 아픈 꿈","복통 꿈 해몽"],"googleKeywords":["stomachache dream meaning"]},
-    {"id":"body-heart","korean":"심장 꿈","english":"Dream of heart","slug":"heart-dream","koreanSlug":"simjang-kkum","category":"body","subcategory":"chest","subcategoryKorean":"가슴","related":["chest-pain","body-sick"],"searchTier":"longtail","naverKeywords":["심장 꿈","심장 꿈 해몽"],"googleKeywords":["heart dream meaning"]},
-    {"id":"body-heart-stop","korean":"심장이 멈추는 꿈","english":"Dream of heart stopping","slug":"heart-stopping-dream","koreanSlug":"simjang-meomchuneun-kkum","category":"body","subcategory":"chest","subcategoryKorean":"가슴","related":["body-heart","death-self"],"searchTier":"longtail","naverKeywords":["심장 멈추는 꿈","심장마비 꿈 해몽"],"googleKeywords":["heart stopping dream meaning"]},
-    {"id":"body-breast","korean":"가슴이 커지는 꿈","english":"Dream of breasts growing","slug":"breasts-growing-dream","koreanSlug":"gaseum-keojineun-kkum","category":"body","subcategory":"chest","subcategoryKorean":"가슴","related":["body-growing","body-pregnant"],"searchTier":"longtail","naverKeywords":["가슴 커지는 꿈","가슴 꿈 해몽"],"googleKeywords":["breasts growing dream meaning"]},
-    {"id":"head-bald","korean":"머리에 혹이 생기는 꿈","english":"Dream of bump on head","slug":"bump-on-head-dream","koreanSlug":"meori-hok-kkum","category":"body","subcategory":"head","subcategoryKorean":"머리","related":["head-pain","body-injury"],"searchTier":"longtail","naverKeywords":["머리 혹 꿈","머리 혹 꿈 해몽"],"googleKeywords":["bump on head dream meaning"]},
-    {"id":"head-falling-off","korean":"머리가 떨어지는 꿈","english":"Dream of head falling off","slug":"head-falling-off-dream","koreanSlug":"meori-tteoreojineun-kkum","category":"body","subcategory":"head","subcategoryKorean":"머리","related":["head-pain","death-self"],"searchTier":"longtail","naverKeywords":["머리 떨어지는 꿈","목 잘리는 꿈 해몽"],"googleKeywords":["head falling off dream meaning"]},
-    {"id":"skin-peeling","korean":"피부가 벗겨지는 꿈","english":"Dream of skin peeling","slug":"skin-peeling-dream","koreanSlug":"pibu-beotgyeojineun-kkum","category":"body","subcategory":"skin","subcategoryKorean":"피부","related":["skin-rash","body-sick"],"searchTier":"longtail","naverKeywords":["피부 벗겨지는 꿈","피부 벗겨지는 꿈 해몽"],"googleKeywords":["skin peeling dream meaning"]},
-    {"id":"skin-wound","korean":"피부에 상처가 나는 꿈","english":"Dream of skin wound","slug":"skin-wound-dream","koreanSlug":"pibu-sangcheo-kkum","category":"body","subcategory":"skin","subcategoryKorean":"피부","related":["skin-rash","body-injury"],"searchTier":"longtail","naverKeywords":["피부 상처 꿈","피부 상처 꿈 해몽"],"googleKeywords":["skin wound dream meaning"]},
-    {"id":"skin-clear","korean":"피부가 깨끗해지는 꿈","english":"Dream of clear skin","slug":"clear-skin-dream","koreanSlug":"pibu-kkaekkeuthaejineun-kkum","category":"body","subcategory":"skin","subcategoryKorean":"피부","related":["face-beautiful"],"searchTier":"longtail","naverKeywords":["피부 깨끗한 꿈","피부 좋아지는 꿈 해몽"],"googleKeywords":["clear skin dream meaning"]},
-    {"id":"nail-long","korean":"손톱이 길어지는 꿈","english":"Dream of long nails","slug":"long-nails-dream","koreanSlug":"sontop-gireojineun-kkum","category":"body","subcategory":"nail","subcategoryKorean":"손톱/발톱","related":["nail-broken","finger-general"],"searchTier":"longtail","naverKeywords":["손톱 긴 꿈","손톱 길어지는 꿈 해몽"],"googleKeywords":["long nails dream meaning"]},
-    {"id":"nail-cutting","korean":"손톱을 자르는 꿈","english":"Dream of cutting nails","slug":"cutting-nails-dream","koreanSlug":"sontop-jareuneun-kkum","category":"body","subcategory":"nail","subcategoryKorean":"손톱/발톱","related":["nail-broken"],"searchTier":"longtail","naverKeywords":["손톱 자르는 꿈","손톱 깎는 꿈 해몽"],"googleKeywords":["cutting nails dream meaning"]},
-    {"id":"toenail-broken","korean":"발톱이 빠지는 꿈","english":"Dream of losing a toenail","slug":"losing-toenail-dream","koreanSlug":"baltop-ppajineun-kkum","category":"body","subcategory":"nail","subcategoryKorean":"손톱/발톱","related":["nail-broken","foot-general"],"searchTier":"longtail","naverKeywords":["발톱 빠지는 꿈","발톱 꿈 해몽"],"googleKeywords":["losing toenail dream meaning"]},
-    {"id":"tongue-bitten","korean":"혀를 깨무는 꿈","english":"Dream of biting tongue","slug":"biting-tongue-dream","koreanSlug":"hyeo-kkaemuneun-kkum","category":"body","subcategory":"mouth","subcategoryKorean":"입","related":["tongue-general","mouth-general"],"searchTier":"longtail","naverKeywords":["혀 깨무는 꿈","혀 깨무는 꿈 해몽"],"googleKeywords":["biting tongue dream meaning"]},
-    {"id":"mouth-foreign-object","korean":"입에서 이물질이 나오는 꿈","english":"Dream of objects coming out of mouth","slug":"objects-from-mouth-dream","koreanSlug":"ibeseo-imulji-kkum","category":"body","subcategory":"mouth","subcategoryKorean":"입","related":["mouth-general","vomit-general"],"searchTier":"medium","naverKeywords":["입에서 이물질 꿈","입에서 뭔가 나오는 꿈 해몽"],"googleKeywords":["objects coming out of mouth dream"]},
-    {"id":"mouth-cant-speak","korean":"말이 안 나오는 꿈","english":"Dream of not being able to speak","slug":"cant-speak-dream","koreanSlug":"mal-an-naoneun-kkum","category":"body","subcategory":"mouth","subcategoryKorean":"입","related":["mouth-general","body-paralysis"],"searchTier":"medium","naverKeywords":["말이 안 나오는 꿈","말 못하는 꿈 해몽"],"googleKeywords":["cant speak dream meaning"]},
-    {"id":"nose-bleeding","korean":"코에서 피가 많이 나는 꿈","english":"Dream of heavy nosebleed","slug":"heavy-nosebleed-dream","koreanSlug":"ko-pi-mani-kkum","category":"body","subcategory":"nose","subcategoryKorean":"코","related":["blood-nose","nose-general"],"searchTier":"longtail","naverKeywords":["코피 많이 나는 꿈","코피 많이 꿈 해몽"],"googleKeywords":["heavy nosebleed dream meaning"]},
-    {"id":"nose-big","korean":"코가 커지는 꿈","english":"Dream of nose growing bigger","slug":"big-nose-dream","koreanSlug":"ko-keojineun-kkum","category":"body","subcategory":"nose","subcategoryKorean":"코","related":["nose-general","body-growing"],"searchTier":"longtail","naverKeywords":["코 커지는 꿈","코 큰 꿈 해몽"],"googleKeywords":["big nose dream meaning"]},
-    {"id":"ear-bug","korean":"귀에 벌레가 들어가는 꿈","english":"Dream of bug in ear","slug":"bug-in-ear-dream","koreanSlug":"gwi-beolle-deureoganeun-kkum","category":"body","subcategory":"ear","subcategoryKorean":"귀","related":["ear-general","insect-bug-general"],"searchTier":"longtail","naverKeywords":["귀에 벌레 꿈","귀 벌레 꿈 해몽"],"googleKeywords":["bug in ear dream meaning"]},
-    {"id":"ear-ringing","korean":"이명이 들리는 꿈","english":"Dream of ringing in ears","slug":"ringing-ears-dream","koreanSlug":"imyeong-deullineun-kkum","category":"body","subcategory":"ear","subcategoryKorean":"귀","related":["ear-general"],"searchTier":"longtail","naverKeywords":["이명 꿈","귀 울리는 꿈 해몽"],"googleKeywords":["ringing in ears dream meaning"]},
-    {"id":"poop-golden","korean":"황금 똥 꿈","english":"Dream of golden poop","slug":"golden-poop-dream","koreanSlug":"hwanggeum-ttong-kkum","category":"body","subcategory":"excretion","subcategoryKorean":"배설","related":["poop-general","money-gold"],"searchTier":"high","naverKeywords":["황금 똥 꿈","황금똥 꿈 해몽"],"googleKeywords":["golden poop dream meaning"]},
-    {"id":"poop-baby","korean":"아기 똥 꿈","english":"Dream of baby poop","slug":"baby-poop-dream","koreanSlug":"agi-ttong-kkum","category":"body","subcategory":"excretion","subcategoryKorean":"배설","related":["poop-general","people-baby"],"searchTier":"longtail","naverKeywords":["아기 똥 꿈","아기 똥 꿈 해몽"],"googleKeywords":["baby poop dream meaning"]},
-    {"id":"poop-lots","korean":"똥이 많은 꿈","english":"Dream of lots of poop","slug":"lots-of-poop-dream","koreanSlug":"ttong-maneun-kkum","category":"body","subcategory":"excretion","subcategoryKorean":"배설","related":["poop-general","poop-overflow"],"searchTier":"medium","naverKeywords":["똥 많은 꿈","똥 많이 보는 꿈 해몽"],"googleKeywords":["lots of poop dream meaning"]},
-    {"id":"poop-eating","korean":"똥을 먹는 꿈","english":"Dream of eating poop","slug":"eating-poop-dream","koreanSlug":"ttong-meongneun-kkum","category":"body","subcategory":"excretion","subcategoryKorean":"배설","related":["poop-general"],"searchTier":"longtail","naverKeywords":["똥 먹는 꿈","똥 먹는 꿈 해몽"],"googleKeywords":["eating poop dream meaning"]},
-    {"id":"urine-blood","korean":"피가 섞인 소변 꿈","english":"Dream of blood in urine","slug":"blood-urine-dream","koreanSlug":"pi-seokkin-sobyeon-kkum","category":"body","subcategory":"excretion","subcategoryKorean":"배설","related":["urine-general","blood-general"],"searchTier":"longtail","naverKeywords":["피 섞인 소변 꿈","혈뇨 꿈 해몽"],"googleKeywords":["blood in urine dream meaning"]},
-    {"id":"body-cancer","korean":"암에 걸리는 꿈","english":"Dream of getting cancer","slug":"cancer-dream","koreanSlug":"am-geollineun-kkum","category":"body","subcategory":"body-state","subcategoryKorean":"몸상태","related":["body-sick","body-hospital"],"searchTier":"medium","naverKeywords":["암 걸리는 꿈","암 꿈 해몽"],"googleKeywords":["getting cancer dream meaning"]},
-    {"id":"body-dying","korean":"내가 죽어가는 꿈","english":"Dream of dying","slug":"dying-dream","koreanSlug":"naega-jugeo-ganeun-kkum","category":"body","subcategory":"body-state","subcategoryKorean":"몸상태","related":["death-self","body-sick"],"searchTier":"high","naverKeywords":["내가 죽어가는 꿈","죽어가는 꿈 해몽"],"googleKeywords":["dying dream meaning"]},
-    {"id":"body-healing","korean":"병이 낫는 꿈","english":"Dream of being healed","slug":"healing-dream","koreanSlug":"byeong-nanneun-kkum","category":"body","subcategory":"body-state","subcategoryKorean":"몸상태","related":["body-sick","body-hospital"],"searchTier":"longtail","naverKeywords":["병 낫는 꿈","치유 꿈 해몽"],"googleKeywords":["being healed dream meaning"]},
-    {"id":"body-strong","korean":"몸이 건강한 꿈","english":"Dream of being strong and healthy","slug":"strong-body-dream","koreanSlug":"mom-geonganghan-kkum","category":"body","subcategory":"body-state","subcategoryKorean":"몸상태","related":["body-growing","leg-strong"],"searchTier":"longtail","naverKeywords":["건강한 꿈","몸 건강 꿈 해몽"],"googleKeywords":["strong body dream meaning"]},
-    {"id":"body-old","korean":"갑자기 늙는 꿈","english":"Dream of suddenly aging","slug":"suddenly-aging-dream","koreanSlug":"gapjagi-nungneun-kkum","category":"body","subcategory":"body-state","subcategoryKorean":"몸상태","related":["people-old-person","face-wrinkles"],"searchTier":"longtail","naverKeywords":["갑자기 늙는 꿈","늙는 꿈 해몽"],"googleKeywords":["suddenly aging dream meaning"]},
-    {"id":"body-young","korean":"젊어지는 꿈","english":"Dream of becoming younger","slug":"becoming-younger-dream","koreanSlug":"jeolmeojineun-kkum","category":"body","subcategory":"body-state","subcategoryKorean":"몸상태","related":["people-young-self"],"searchTier":"longtail","naverKeywords":["젊어지는 꿈","젊어지는 꿈 해몽"],"googleKeywords":["becoming younger dream meaning"]},
-    {"id":"body-pregnant-self","korean":"내가 임신한 꿈","english":"Dream of being pregnant","slug":"being-pregnant-dream","koreanSlug":"naega-imsinhan-kkum","category":"body","subcategory":"body-state","subcategoryKorean":"몸상태","related":["pregnancy-general","body-pregnant"],"searchTier":"high","naverKeywords":["내가 임신한 꿈","임신 꿈 해몽"],"googleKeywords":["being pregnant dream meaning"]},
-    {"id":"body-miscarriage","korean":"유산하는 꿈","english":"Dream of miscarriage","slug":"miscarriage-dream","koreanSlug":"yusan-haneun-kkum","category":"body","subcategory":"body-state","subcategoryKorean":"몸상태","related":["pregnancy-general","body-pregnant-self"],"searchTier":"medium","naverKeywords":["유산 꿈","유산 꿈 해몽"],"googleKeywords":["miscarriage dream meaning"]},
-    {"id":"body-labor","korean":"진통 꿈","english":"Dream of labor pains","slug":"labor-pains-dream","koreanSlug":"jintong-kkum","category":"body","subcategory":"body-state","subcategoryKorean":"몸상태","related":["action-giving-birth","body-pregnant-self"],"searchTier":"longtail","naverKeywords":["진통 꿈","출산 진통 꿈 해몽"],"googleKeywords":["labor pains dream meaning"]},
-    {"id":"body-injection","korean":"주사 맞는 꿈","english":"Dream of getting an injection","slug":"injection-dream","koreanSlug":"jusa-manneun-kkum","category":"body","subcategory":"body-state","subcategoryKorean":"몸상태","related":["body-hospital","body-sick"],"searchTier":"medium","naverKeywords":["주사 맞는 꿈","주사 꿈 해몽"],"googleKeywords":["injection dream meaning"]},
-    {"id":"body-medicine","korean":"약 먹는 꿈","english":"Dream of taking medicine","slug":"medicine-dream","koreanSlug":"yak-meongneun-kkum","category":"body","subcategory":"body-state","subcategoryKorean":"몸상태","related":["body-sick","body-hospital"],"searchTier":"longtail","naverKeywords":["약 먹는 꿈","약 꿈 해몽"],"googleKeywords":["taking medicine dream meaning"]},
-    {"id":"body-cpr","korean":"심폐소생술 꿈","english":"Dream of CPR","slug":"cpr-dream","koreanSlug":"simpye-sosaengsul-kkum","category":"body","subcategory":"body-state","subcategoryKorean":"몸상태","related":["body-heart-stop","body-dying"],"searchTier":"longtail","naverKeywords":["심폐소생술 꿈","CPR 꿈 해몽"],"googleKeywords":["CPR dream meaning"]},
-    {"id":"body-gender-change","korean":"성별이 바뀌는 꿈","english":"Dream of changing gender","slug":"gender-change-dream","koreanSlug":"seongbyeol-bakkwineun-kkum","category":"body","subcategory":"body-state","subcategoryKorean":"몸상태","related":["body-transform"],"searchTier":"longtail","naverKeywords":["성별 바뀌는 꿈","성전환 꿈 해몽"],"googleKeywords":["changing gender dream meaning"]},
-    {"id":"body-wings","korean":"날개가 생기는 꿈","english":"Dream of growing wings","slug":"growing-wings-dream","koreanSlug":"nalgae-saenggineun-kkum","category":"body","subcategory":"body-state","subcategoryKorean":"몸상태","related":["action-flying","body-superpower"],"searchTier":"longtail","naverKeywords":["날개 생기는 꿈","날개 꿈 해몽"],"googleKeywords":["growing wings dream meaning"]},
-    {"id":"body-tail","korean":"꼬리가 생기는 꿈","english":"Dream of growing a tail","slug":"growing-tail-dream","koreanSlug":"kkori-saenggineun-kkum","category":"body","subcategory":"body-state","subcategoryKorean":"몸상태","related":["body-animal-transform"],"searchTier":"longtail","naverKeywords":["꼬리 생기는 꿈","꼬리 꿈 해몽"],"googleKeywords":["growing tail dream meaning"]},
-    {"id":"body-scar","korean":"흉터가 생기는 꿈","english":"Dream of getting a scar","slug":"scar-dream","koreanSlug":"hyungteo-saenggineun-kkum","category":"body","subcategory":"skin","subcategoryKorean":"피부","related":["body-injury","face-scar"],"searchTier":"longtail","naverKeywords":["흉터 꿈","흉터 꿈 해몽"],"googleKeywords":["scar dream meaning"]},
-    {"id":"body-bruise","korean":"멍이 드는 꿈","english":"Dream of getting bruises","slug":"bruise-dream","koreanSlug":"meong-deuneun-kkum","category":"body","subcategory":"skin","subcategoryKorean":"피부","related":["body-injury","action-attacked"],"searchTier":"longtail","naverKeywords":["멍 꿈","멍 드는 꿈 해몽"],"googleKeywords":["bruise dream meaning"]},
-    {"id":"arm-cut","korean":"팔이 잘리는 꿈","english":"Dream of arm being cut off","slug":"arm-cut-off-dream","koreanSlug":"pal-jallineun-kkum","category":"body","subcategory":"arm","subcategoryKorean":"팔","related":["arm-broken","body-injury"],"searchTier":"longtail","naverKeywords":["팔 잘리는 꿈","팔 잘리는 꿈 해몽"],"googleKeywords":["arm cut off dream meaning"]},
-    {"id":"arm-strong","korean":"팔이 강해지는 꿈","english":"Dream of strong arms","slug":"strong-arms-dream","koreanSlug":"pal-ganghejineun-kkum","category":"body","subcategory":"arm","subcategoryKorean":"팔","related":["body-strong"],"searchTier":"longtail","naverKeywords":["팔 강해지는 꿈","팔 힘 꿈 해몽"],"googleKeywords":["strong arms dream meaning"]},
-    {"id":"body-choking","korean":"목이 막히는 꿈","english":"Dream of choking","slug":"choking-dream","koreanSlug":"mok-makhineun-kkum","category":"body","subcategory":"body-state","subcategoryKorean":"몸상태","related":["body-paralysis","mouth-cant-speak"],"searchTier":"medium","naverKeywords":["목 막히는 꿈","목 막히는 꿈 해몽"],"googleKeywords":["choking dream meaning"]},
-    {"id":"body-neck-pain","korean":"목이 아픈 꿈","english":"Dream of neck pain","slug":"neck-pain-dream","koreanSlug":"mok-apeun-kkum","category":"body","subcategory":"body-state","subcategoryKorean":"몸상태","related":["head-pain","body-sick"],"searchTier":"longtail","naverKeywords":["목 아픈 꿈","목 아픈 꿈 해몽"],"googleKeywords":["neck pain dream meaning"]},
-    {"id":"body-wart","korean":"사마귀가 생기는 꿈","english":"Dream of getting warts","slug":"warts-dream","koreanSlug":"samagwi-saenggineun-kkum","category":"body","subcategory":"skin","subcategoryKorean":"피부","related":["skin-rash"],"searchTier":"longtail","naverKeywords":["사마귀 꿈","사마귀 꿈 해몽"],"googleKeywords":["warts dream meaning"]},
-    {"id":"body-tattoo","korean":"문신하는 꿈","english":"Dream of getting a tattoo","slug":"tattoo-dream","koreanSlug":"munsin-haneun-kkum","category":"body","subcategory":"skin","subcategoryKorean":"피부","related":["skin-rash","body-scar"],"searchTier":"longtail","naverKeywords":["문신 꿈","타투 꿈 해몽"],"googleKeywords":["tattoo dream meaning"]},
-    {"id":"body-piercing","korean":"피어싱하는 꿈","english":"Dream of getting a piercing","slug":"piercing-dream","koreanSlug":"pieosinghaneun-kkum","category":"body","subcategory":"body-state","subcategoryKorean":"몸상태","related":["ear-general","body-injury"],"searchTier":"longtail","naverKeywords":["피어싱 꿈","피어싱 꿈 해몽"],"googleKeywords":["piercing dream meaning"]},
-    {"id":"body-fever","korean":"열이 나는 꿈","english":"Dream of having a fever","slug":"fever-dream","koreanSlug":"yeol-naneun-kkum","category":"body","subcategory":"body-state","subcategoryKorean":"몸상태","related":["body-sick","body-hospital"],"searchTier":"medium","naverKeywords":["열 나는 꿈","열나는 꿈 해몽"],"googleKeywords":["fever dream meaning"]},
-    {"id":"body-shivering","korean":"몸이 떨리는 꿈","english":"Dream of shivering","slug":"shivering-dream","koreanSlug":"mom-tteollineun-kkum","category":"body","subcategory":"body-state","subcategoryKorean":"몸상태","related":["body-sick","body-paralysis"],"searchTier":"longtail","naverKeywords":["몸 떨리는 꿈","떨리는 꿈 해몽"],"googleKeywords":["shivering dream meaning"]},
-    {"id":"body-itching","korean":"몸이 가려운 꿈","english":"Dream of itching body","slug":"itching-dream","koreanSlug":"mom-garyeoun-kkum","category":"body","subcategory":"skin","subcategoryKorean":"피부","related":["skin-rash","body-sick"],"searchTier":"longtail","naverKeywords":["몸 가려운 꿈","가려운 꿈 해몽"],"googleKeywords":["itching body dream meaning"]},
-    {"id":"body-sweating","korean":"땀을 많이 흘리는 꿈","english":"Dream of sweating a lot","slug":"sweating-dream","koreanSlug":"ttam-mani-heullineun-kkum","category":"body","subcategory":"body-state","subcategoryKorean":"몸상태","related":["body-fever","body-sick"],"searchTier":"longtail","naverKeywords":["땀 꿈","땀 많이 흘리는 꿈 해몽"],"googleKeywords":["sweating dream meaning"]},
-    {"id":"body-heartbeat-fast","korean":"심장이 빨리 뛰는 꿈","english":"Dream of fast heartbeat","slug":"fast-heartbeat-dream","koreanSlug":"simjang-ppalli-ttwineun-kkum","category":"body","subcategory":"body-state","subcategoryKorean":"몸상태","related":["chest-pain","body-sick"],"searchTier":"longtail","naverKeywords":["심장 빨리 뛰는 꿈","심장 두근거리는 꿈 해몽"],"googleKeywords":["fast heartbeat dream meaning"]},
-    {"id":"body-heart-stop","korean":"심장이 멈추는 꿈","english":"Dream of heart stopping","slug":"heart-stopping-dream","koreanSlug":"simjang-meomchuneun-kkum","category":"body","subcategory":"body-state","subcategoryKorean":"몸상태","related":["body-dying","body-cpr"],"searchTier":"longtail","naverKeywords":["심장 멈추는 꿈","심장마비 꿈 해몽"],"googleKeywords":["heart stopping dream meaning"]},
-    {"id":"body-blind-self","korean":"내가 장님이 되는 꿈","english":"Dream of going blind","slug":"going-blind-dream","koreanSlug":"naega-jangnim-doeneun-kkum","category":"body","subcategory":"eye","subcategoryKorean":"눈","related":["eye-blind","eye-general"],"searchTier":"medium","naverKeywords":["장님 되는 꿈","눈 안 보이는 꿈 해몽"],"googleKeywords":["going blind dream meaning"]},
-    {"id":"body-deaf-self","korean":"내가 귀머거리가 되는 꿈","english":"Dream of going deaf","slug":"going-deaf-dream","koreanSlug":"naega-gwimeogeo-doeneun-kkum","category":"body","subcategory":"ear","subcategoryKorean":"귀","related":["ear-deaf","ear-general"],"searchTier":"longtail","naverKeywords":["귀머거리 꿈","귀 안 들리는 꿈 해몽"],"googleKeywords":["going deaf dream meaning"]},
-    {"id":"body-shrinking","korean":"몸이 작아지는 꿈","english":"Dream of body shrinking","slug":"body-shrinking-dream","koreanSlug":"mom-jagajineun-kkum","category":"body","subcategory":"body-state","subcategoryKorean":"몸상태","related":["body-thin","body-transform"],"searchTier":"longtail","naverKeywords":["몸 작아지는 꿈","작아지는 꿈 해몽"],"googleKeywords":["body shrinking dream meaning"]},
-    {"id":"body-giant","korean":"몸이 커지는 꿈","english":"Dream of becoming a giant","slug":"becoming-giant-dream","koreanSlug":"mom-keojineun-kkum","category":"body","subcategory":"body-state","subcategoryKorean":"몸상태","related":["body-growing","body-strong"],"searchTier":"longtail","naverKeywords":["몸 커지는 꿈","거인 되는 꿈 해몽"],"googleKeywords":["becoming giant dream meaning"]},
-    {"id":"body-transform","korean":"몸이 변하는 꿈","english":"Dream of body transformation","slug":"body-transformation-dream","koreanSlug":"mom-byeonhaneun-kkum","category":"body","subcategory":"body-state","subcategoryKorean":"몸상태","related":["body-animal-transform","body-gender-change"],"searchTier":"longtail","naverKeywords":["몸 변하는 꿈","변신 꿈 해몽"],"googleKeywords":["body transformation dream meaning"]},
-    {"id":"body-animal-transform","korean":"동물로 변하는 꿈","english":"Dream of transforming into an animal","slug":"animal-transformation-dream","koreanSlug":"dongmullo-byeonhaneun-kkum","category":"body","subcategory":"body-state","subcategoryKorean":"몸상태","related":["body-transform","body-tail"],"searchTier":"medium","naverKeywords":["동물 변하는 꿈","동물 변신 꿈 해몽"],"googleKeywords":["transforming into animal dream meaning"]},
-    {"id":"body-invisible","korean":"투명인간이 되는 꿈","english":"Dream of becoming invisible","slug":"invisible-dream","koreanSlug":"tumyeongingan-doeneun-kkum","category":"body","subcategory":"body-state","subcategoryKorean":"몸상태","related":["body-transform","action-hiding"],"searchTier":"longtail","naverKeywords":["투명인간 꿈","투명 꿈 해몽"],"googleKeywords":["becoming invisible dream meaning"]},
-    {"id":"body-superpower","korean":"초능력 생기는 꿈","english":"Dream of gaining superpowers","slug":"superpower-dream","koreanSlug":"choneungnyeok-saenggineun-kkum","category":"body","subcategory":"body-state","subcategoryKorean":"몸상태","related":["body-wings","action-flying"],"searchTier":"longtail","naverKeywords":["초능력 꿈","초능력 꿈 해몽"],"googleKeywords":["superpower dream meaning"]},
-    {"id":"body-breathing-underwater","korean":"물속에서 숨쉬는 꿈","english":"Dream of breathing underwater","slug":"breathing-underwater-dream","koreanSlug":"mulsok-sumswineun-kkum","category":"body","subcategory":"body-state","subcategoryKorean":"몸상태","related":["water-underwater","body-superpower"],"searchTier":"longtail","naverKeywords":["물속 숨쉬는 꿈","물속 호흡 꿈 해몽"],"googleKeywords":["breathing underwater dream meaning"]},
-    {"id":"body-cant-breathe","korean":"숨을 못 쉬는 꿈","english":"Dream of not being able to breathe","slug":"cant-breathe-dream","koreanSlug":"sum-mot-swineun-kkum","category":"body","subcategory":"body-state","subcategoryKorean":"몸상태","related":["body-choking","body-paralysis"],"searchTier":"medium","naverKeywords":["숨 못 쉬는 꿈","호흡곤란 꿈 해몽"],"googleKeywords":["cant breathe dream meaning"]},
-    {"id":"body-floating","korean":"몸이 떠오르는 꿈","english":"Dream of body floating","slug":"body-floating-dream","koreanSlug":"mom-tteooreoneun-kkum","category":"body","subcategory":"body-state","subcategoryKorean":"몸상태","related":["action-flying","body-superpower"],"searchTier":"medium","naverKeywords":["몸 떠오르는 꿈","몸 뜨는 꿈 해몽"],"googleKeywords":["body floating dream meaning"]},
-    {"id":"body-pregnant","korean":"배가 부른 꿈","english":"Dream of big belly","slug":"big-belly-dream","koreanSlug":"bae-bureun-kkum","category":"body","subcategory":"belly","subcategoryKorean":"배","related":["belly-swollen","body-pregnant-self"],"searchTier":"medium","naverKeywords":["배 부른 꿈","배 나온 꿈 해몽"],"googleKeywords":["big belly dream meaning"]},
-    {"id":"body-growing","korean":"키가 크는 꿈","english":"Dream of growing taller","slug":"growing-taller-dream","koreanSlug":"ki-keuneun-kkum","category":"body","subcategory":"body-state","subcategoryKorean":"몸상태","related":["body-strong","body-giant"],"searchTier":"medium","naverKeywords":["키 크는 꿈","키 크는 꿈 해몽"],"googleKeywords":["growing taller dream meaning"]},
-    {"id":"nail-broken","korean":"손톱이 부러지는 꿈","english":"Dream of broken nail","slug":"broken-nail-dream","koreanSlug":"sontop-bureojineun-kkum","category":"body","subcategory":"nail","subcategoryKorean":"손톱/발톱","related":["nail-long","finger-cut"],"searchTier":"longtail","naverKeywords":["손톱 부러지는 꿈","손톱 꿈 해몽"],"googleKeywords":["broken nail dream meaning"]},
-    {"id":"leg-strong","korean":"다리가 튼튼한 꿈","english":"Dream of strong legs","slug":"strong-legs-dream","koreanSlug":"dari-teunteunhan-kkum","category":"body","subcategory":"leg","subcategoryKorean":"다리","related":["body-strong","action-running"],"searchTier":"longtail","naverKeywords":["다리 튼튼한 꿈","다리 힘 꿈 해몽"],"googleKeywords":["strong legs dream meaning"]},
-    {"id":"leg-amputated","korean":"다리가 잘리는 꿈","english":"Dream of leg amputation","slug":"leg-amputation-dream","koreanSlug":"dari-jallineun-kkum","category":"body","subcategory":"leg","subcategoryKorean":"다리","related":["leg-broken","body-injury"],"searchTier":"longtail","naverKeywords":["다리 잘리는 꿈","다리 잘리는 꿈 해몽"],"googleKeywords":["leg amputation dream meaning"]},
-    {"id":"face-beautiful","korean":"얼굴이 예뻐지는 꿈","english":"Dream of becoming beautiful","slug":"becoming-beautiful-dream","koreanSlug":"eolgul-yeppeojineun-kkum","category":"body","subcategory":"face","subcategoryKorean":"얼굴","related":["face-general","skin-clear"],"searchTier":"medium","naverKeywords":["얼굴 예뻐지는 꿈","예뻐지는 꿈 해몽"],"googleKeywords":["becoming beautiful dream meaning"]},
-    {"id":"face-wrinkles","korean":"주름이 생기는 꿈","english":"Dream of getting wrinkles","slug":"wrinkles-dream","koreanSlug":"jureum-saenggineun-kkum","category":"body","subcategory":"face","subcategoryKorean":"얼굴","related":["body-old","face-general"],"searchTier":"longtail","naverKeywords":["주름 꿈","주름 꿈 해몽"],"googleKeywords":["wrinkles dream meaning"]},
-    {"id":"face-no-face","korean":"얼굴이 없는 꿈","english":"Dream of faceless person","slug":"faceless-dream","koreanSlug":"eolgul-eomneun-kkum","category":"body","subcategory":"face","subcategoryKorean":"얼굴","related":["face-general","spirits-ghost"],"searchTier":"longtail","naverKeywords":["얼굴 없는 꿈","얼굴 없는 사람 꿈 해몽"],"googleKeywords":["faceless person dream meaning"]},
-    {"id":"hand-many-fingers","korean":"손가락이 많은 꿈","english":"Dream of having extra fingers","slug":"extra-fingers-dream","koreanSlug":"songarak-maneun-kkum","category":"body","subcategory":"hand","subcategoryKorean":"손","related":["finger-general","hand-general"],"searchTier":"longtail","naverKeywords":["손가락 많은 꿈","손가락 여섯개 꿈 해몽"],"googleKeywords":["extra fingers dream meaning"]},
-    {"id":"hand-washing","korean":"손을 씻는 꿈","english":"Dream of washing hands","slug":"washing-hands-dream","koreanSlug":"son-ssitneun-kkum","category":"body","subcategory":"hand","subcategoryKorean":"손","related":["hand-general","action-cleaning"],"searchTier":"longtail","naverKeywords":["손 씻는 꿈","손 씻는 꿈 해몽"],"googleKeywords":["washing hands dream meaning"]},
-    {"id":"eye-crying","korean":"눈에서 피눈물 나는 꿈","english":"Dream of crying blood","slug":"crying-blood-dream","koreanSlug":"nunmul-pi-kkum","category":"body","subcategory":"eye","subcategoryKorean":"눈","related":["eye-general","blood-general"],"searchTier":"longtail","naverKeywords":["피눈물 꿈","피눈물 나는 꿈 해몽"],"googleKeywords":["crying blood dream meaning"]},
-    {"id":"eye-glasses","korean":"안경 쓰는 꿈","english":"Dream of wearing glasses","slug":"wearing-glasses-dream","koreanSlug":"angyeong-sseuneun-kkum","category":"body","subcategory":"eye","subcategoryKorean":"눈","related":["eye-general","eye-blind"],"searchTier":"longtail","naverKeywords":["안경 꿈","안경 쓰는 꿈 해몽"],"googleKeywords":["wearing glasses dream meaning"]},
-    {"id":"hair-dyeing","korean":"머리 염색하는 꿈","english":"Dream of dyeing hair","slug":"dyeing-hair-dream","koreanSlug":"meori-yeomsaekhaneun-kkum","category":"body","subcategory":"hair","subcategoryKorean":"머리카락","related":["hair-cut","hair-long"],"searchTier":"longtail","naverKeywords":["머리 염색 꿈","염색 꿈 해몽"],"googleKeywords":["dyeing hair dream meaning"]},
-    {"id":"hair-growing-fast","korean":"머리카락이 빨리 자라는 꿈","english":"Dream of hair growing fast","slug":"hair-growing-fast-dream","koreanSlug":"meorikarak-ppalli-jaraneun-kkum","category":"body","subcategory":"hair","subcategoryKorean":"머리카락","related":["hair-long","body-growing"],"searchTier":"longtail","naverKeywords":["머리카락 빨리 자라는 꿈","머리 자라는 꿈 해몽"],"googleKeywords":["hair growing fast dream meaning"]},
-    {"id":"blood-vomit","korean":"피를 토하는 꿈","english":"Dream of vomiting blood","slug":"vomiting-blood-dream","koreanSlug":"pi-tohaneun-kkum","category":"body","subcategory":"blood","subcategoryKorean":"피/혈액","related":["blood-mouth","vomit-general"],"searchTier":"medium","naverKeywords":["피 토하는 꿈","피 토하는 꿈 해몽"],"googleKeywords":["vomiting blood dream meaning"]},
-    {"id":"blood-someone-else","korean":"남의 피를 보는 꿈","english":"Dream of seeing someone else's blood","slug":"someone-else-blood-dream","koreanSlug":"nam-pi-boneun-kkum","category":"body","subcategory":"blood","subcategoryKorean":"피/혈액","related":["blood-general","blood-wound"],"searchTier":"longtail","naverKeywords":["남의 피 꿈","다른 사람 피 꿈 해몽"],"googleKeywords":["seeing someone elses blood dream meaning"]},
-    {"id":"body-surgery-self","korean":"내가 수술받는 꿈","english":"Dream of having surgery on yourself","slug":"self-surgery-dream","koreanSlug":"naega-susul-batneun-kkum","category":"body","subcategory":"body-state","subcategoryKorean":"몸상태","related":["body-surgery","body-hospital"],"searchTier":"medium","naverKeywords":["내가 수술받는 꿈","수술 꿈 해몽"],"googleKeywords":["having surgery dream meaning"]},
-    {"id":"body-stitches","korean":"꿰매는 꿈","english":"Dream of getting stitches","slug":"stitches-dream","koreanSlug":"kkwemaeneun-kkum","category":"body","subcategory":"body-state","subcategoryKorean":"몸상태","related":["body-surgery","body-injury"],"searchTier":"longtail","naverKeywords":["꿰매는 꿈","상처 꿰매는 꿈 해몽"],"googleKeywords":["getting stitches dream meaning"]},
-    {"id":"body-cast","korean":"깁스하는 꿈","english":"Dream of wearing a cast","slug":"wearing-cast-dream","koreanSlug":"gipseu-haneun-kkum","category":"body","subcategory":"body-state","subcategoryKorean":"몸상태","related":["leg-broken","arm-broken"],"searchTier":"longtail","naverKeywords":["깁스 꿈","깁스 꿈 해몽"],"googleKeywords":["wearing cast dream meaning"]},
-    {"id":"body-wheelchair","korean":"휠체어 타는 꿈","english":"Dream of being in a wheelchair","slug":"wheelchair-dream","koreanSlug":"hwilcheeo-taneun-kkum","category":"body","subcategory":"body-state","subcategoryKorean":"몸상태","related":["leg-cant-move","body-paralysis"],"searchTier":"longtail","naverKeywords":["휠체어 꿈","휠체어 꿈 해몽"],"googleKeywords":["wheelchair dream meaning"]},
-    {"id":"body-dentures","korean":"틀니 꿈","english":"Dream of dentures","slug":"dentures-dream","koreanSlug":"teulni-kkum","category":"body","subcategory":"teeth","subcategoryKorean":"이빨/치아","related":["teeth-falling","teeth-all-falling"],"searchTier":"longtail","naverKeywords":["틀니 꿈","틀니 꿈 해몽"],"googleKeywords":["dentures dream meaning"]},
-    {"id":"body-braces","korean":"치아 교정하는 꿈","english":"Dream of getting braces","slug":"braces-dream","koreanSlug":"chia-gyojeonghaneun-kkum","category":"body","subcategory":"teeth","subcategoryKorean":"이빨/치아","related":["teeth-falling","teeth-growing"],"searchTier":"longtail","naverKeywords":["치아 교정 꿈","교정 꿈 해몽"],"googleKeywords":["braces dream meaning"]},
-    {"id":"foot-swollen","korean":"발이 부은 꿈","english":"Dream of swollen feet","slug":"swollen-feet-dream","koreanSlug":"bal-bueun-kkum","category":"body","subcategory":"foot","subcategoryKorean":"발","related":["foot-hurt","foot-general"],"searchTier":"longtail","naverKeywords":["발 부은 꿈","발 붓는 꿈 해몽"],"googleKeywords":["swollen feet dream meaning"]},
-    {"id":"shoulder-pain","korean":"어깨가 아픈 꿈","english":"Dream of shoulder pain","slug":"shoulder-pain-dream","koreanSlug":"eokkae-apeun-kkum","category":"body","subcategory":"body-state","subcategoryKorean":"몸상태","related":["back-pain","body-sick"],"searchTier":"longtail","naverKeywords":["어깨 아픈 꿈","어깨 꿈 해몽"],"googleKeywords":["shoulder pain dream meaning"]},
-    {"id":"body-acne","korean":"여드름이 나는 꿈","english":"Dream of acne","slug":"acne-dream","koreanSlug":"yeodeureum-naneun-kkum","category":"body","subcategory":"skin","subcategoryKorean":"피부","related":["face-pimple","skin-rash"],"searchTier":"longtail","naverKeywords":["여드름 꿈","여드름 꿈 해몽"],"googleKeywords":["acne dream meaning"]},
-    {"id":"tongue-general","korean":"혀 꿈","english":"Dream about tongue","slug":"tongue-dream","koreanSlug":"hyeo-kkum","category":"body","subcategory":"mouth","subcategoryKorean":"입","related":["tongue-bitten","mouth-general"],"searchTier":"longtail","naverKeywords":["혀 꿈","혀 꿈 해몽"],"googleKeywords":["tongue dream meaning"]},
-    {"id":"body-dizzy","korean":"어지러운 꿈","english":"Dream of feeling dizzy","slug":"dizzy-dream","koreanSlug":"eojireoun-kkum","category":"body","subcategory":"body-state","subcategoryKorean":"몸상태","related":["head-pain","body-sick"],"searchTier":"longtail","naverKeywords":["어지러운 꿈","어지러운 꿈 해몽"],"googleKeywords":["feeling dizzy dream meaning"]},
-    {"id":"body-numbness","korean":"몸이 저린 꿈","english":"Dream of numbness","slug":"numbness-dream","koreanSlug":"mom-jeorin-kkum","category":"body","subcategory":"body-state","subcategoryKorean":"몸상태","related":["body-paralysis","body-shivering"],"searchTier":"longtail","naverKeywords":["몸 저린 꿈","저림 꿈 해몽"],"googleKeywords":["numbness dream meaning"]},
-    {"id":"body-bone-broken","korean":"뼈가 부러지는 꿈","english":"Dream of broken bones","slug":"broken-bones-dream","koreanSlug":"ppyeo-bureojineun-kkum","category":"body","subcategory":"body-state","subcategoryKorean":"몸상태","related":["leg-broken","arm-broken"],"searchTier":"medium","naverKeywords":["뼈 부러지는 꿈","골절 꿈 해몽"],"googleKeywords":["broken bones dream meaning"]},
-    {"id":"arm-broken","korean":"팔이 부러지는 꿈","english":"Dream of broken arm","slug":"broken-arm-dream","koreanSlug":"pal-bureojineun-kkum","category":"body","subcategory":"arm","subcategoryKorean":"팔","related":["arm-cut","body-bone-broken"],"searchTier":"medium","naverKeywords":["팔 부러지는 꿈","팔 골절 꿈 해몽"],"googleKeywords":["broken arm dream meaning"]},
-    {"id":"body-burned","korean":"몸에 화상 입는 꿈","english":"Dream of body getting burned","slug":"body-burned-dream","koreanSlug":"mom-hwasang-ipneun-kkum","category":"body","subcategory":"skin","subcategoryKorean":"피부","related":["body-injury","fire-body"],"searchTier":"longtail","naverKeywords":["화상 꿈","몸 타는 꿈 해몽"],"googleKeywords":["body burned dream meaning"]}
+    {
+      "id": "teeth-wisdom",
+      "korean": "사랑니 빠지는 꿈",
+      "english": "Dream of wisdom tooth falling out",
+      "slug": "wisdom-tooth-dream",
+      "koreanSlug": "sarangni-ppajineun-kkum",
+      "category": "body",
+      "subcategory": "teeth",
+      "subcategoryKorean": "이빨/치아",
+      "related": [
+        "teeth-falling",
+        "teeth-pulling"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "사랑니 빠지는 꿈",
+        "사랑니 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "wisdom tooth dream meaning"
+      ]
+    },
+    {
+      "id": "teeth-cavity",
+      "korean": "충치 꿈",
+      "english": "Dream of cavities",
+      "slug": "cavities-dream",
+      "koreanSlug": "chungchi-kkum",
+      "category": "body",
+      "subcategory": "teeth",
+      "subcategoryKorean": "이빨/치아",
+      "related": [
+        "teeth-falling",
+        "teeth-broken"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "충치 꿈",
+        "충치 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "cavity dream meaning"
+      ]
+    },
+    {
+      "id": "teeth-braces",
+      "korean": "치아 교정 꿈",
+      "english": "Dream of braces",
+      "slug": "braces-dream",
+      "koreanSlug": "chia-gyojeong-kkum",
+      "category": "body",
+      "subcategory": "teeth",
+      "subcategoryKorean": "이빨/치아",
+      "related": [
+        "teeth-falling"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "치아 교정 꿈",
+        "치아 교정 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "braces dream meaning"
+      ]
+    },
+    {
+      "id": "teeth-spitting",
+      "korean": "이빨을 뱉는 꿈",
+      "english": "Dream of spitting out teeth",
+      "slug": "spitting-teeth-dream",
+      "koreanSlug": "ippal-baetneun-kkum",
+      "category": "body",
+      "subcategory": "teeth",
+      "subcategoryKorean": "이빨/치아",
+      "related": [
+        "teeth-falling",
+        "teeth-crumbling"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "이빨 뱉는 꿈",
+        "이 뱉는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "spitting out teeth dream meaning"
+      ]
+    },
+    {
+      "id": "hair-dye",
+      "korean": "머리 염색하는 꿈",
+      "english": "Dream of dyeing hair",
+      "slug": "dyeing-hair-dream",
+      "koreanSlug": "meori-yeomsaek-kkum",
+      "category": "body",
+      "subcategory": "hair",
+      "subcategoryKorean": "머리카락",
+      "related": [
+        "hair-cut"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "머리 염색 꿈",
+        "염색 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "dyeing hair dream meaning"
+      ]
+    },
+    {
+      "id": "hair-growing-fast",
+      "korean": "머리카락이 빨리 자라는 꿈",
+      "english": "Dream of hair growing fast",
+      "slug": "hair-growing-fast-dream",
+      "koreanSlug": "meorikarak-ppalli-jaraneun-kkum",
+      "category": "body",
+      "subcategory": "hair",
+      "subcategoryKorean": "머리카락",
+      "related": [
+        "hair-long"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "머리카락 빨리 자라는 꿈",
+        "머리 빨리 자라는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "hair growing fast dream meaning"
+      ]
+    },
+    {
+      "id": "hair-tangled",
+      "korean": "머리카락이 엉킨 꿈",
+      "english": "Dream of tangled hair",
+      "slug": "tangled-hair-dream",
+      "koreanSlug": "meorikarak-eongkin-kkum",
+      "category": "body",
+      "subcategory": "hair",
+      "subcategoryKorean": "머리카락",
+      "related": [
+        "hair-falling"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "머리카락 엉킨 꿈",
+        "머리 엉킨 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "tangled hair dream meaning"
+      ]
+    },
+    {
+      "id": "hair-beard",
+      "korean": "수염이 나는 꿈",
+      "english": "Dream of growing a beard",
+      "slug": "beard-dream",
+      "koreanSlug": "suyeom-naneun-kkum",
+      "category": "body",
+      "subcategory": "hair",
+      "subcategoryKorean": "머리카락",
+      "related": [
+        "hair-long",
+        "face-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "수염 꿈",
+        "수염 나는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "beard dream meaning"
+      ]
+    },
+    {
+      "id": "blood-vomiting",
+      "korean": "피를 토하는 꿈",
+      "english": "Dream of vomiting blood",
+      "slug": "vomiting-blood-dream",
+      "koreanSlug": "pi-tohaneun-kkum",
+      "category": "body",
+      "subcategory": "blood",
+      "subcategoryKorean": "피/혈액",
+      "related": [
+        "blood-general",
+        "blood-mouth"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "피를 토하는 꿈",
+        "피 토 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "vomiting blood dream meaning"
+      ]
+    },
+    {
+      "id": "blood-pool",
+      "korean": "피가 흐르는 꿈",
+      "english": "Dream of a pool of blood",
+      "slug": "pool-of-blood-dream",
+      "koreanSlug": "pi-heureuneun-kkum",
+      "category": "body",
+      "subcategory": "blood",
+      "subcategoryKorean": "피/혈액",
+      "related": [
+        "blood-general",
+        "blood-wound"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "피가 흐르는 꿈",
+        "피 흐르는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "pool of blood dream meaning"
+      ]
+    },
+    {
+      "id": "blood-transfusion",
+      "korean": "수혈하는 꿈",
+      "english": "Dream of blood transfusion",
+      "slug": "blood-transfusion-dream",
+      "koreanSlug": "suhyeol-haneun-kkum",
+      "category": "body",
+      "subcategory": "blood",
+      "subcategoryKorean": "피/혈액",
+      "related": [
+        "blood-general",
+        "body-hospital"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "수혈 꿈",
+        "수혈 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "blood transfusion dream meaning"
+      ]
+    },
+    {
+      "id": "hand-washing",
+      "korean": "손을 씻는 꿈",
+      "english": "Dream of washing hands",
+      "slug": "washing-hands-dream",
+      "koreanSlug": "son-ssinneun-kkum",
+      "category": "body",
+      "subcategory": "hand",
+      "subcategoryKorean": "손",
+      "related": [
+        "hand-general",
+        "action-washing"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "손 씻는 꿈",
+        "손 씻는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "washing hands dream meaning"
+      ]
+    },
+    {
+      "id": "hand-big",
+      "korean": "손이 커지는 꿈",
+      "english": "Dream of hands growing bigger",
+      "slug": "big-hands-dream",
+      "koreanSlug": "son-keojineun-kkum",
+      "category": "body",
+      "subcategory": "hand",
+      "subcategoryKorean": "손",
+      "related": [
+        "hand-general",
+        "body-growing"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "손이 커지는 꿈",
+        "손 커지는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "big hands dream meaning"
+      ]
+    },
+    {
+      "id": "finger-ring",
+      "korean": "손가락에 반지 꿈",
+      "english": "Dream of ring on finger",
+      "slug": "ring-on-finger-dream",
+      "koreanSlug": "songarak-banji-kkum",
+      "category": "body",
+      "subcategory": "hand",
+      "subcategoryKorean": "손",
+      "related": [
+        "finger-general",
+        "marriage-ring"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "손가락 반지 꿈",
+        "반지 끼는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "ring on finger dream meaning"
+      ]
+    },
+    {
+      "id": "finger-extra",
+      "korean": "손가락이 하나 더 있는 꿈",
+      "english": "Dream of extra finger",
+      "slug": "extra-finger-dream",
+      "koreanSlug": "songarak-hana-deo-kkum",
+      "category": "body",
+      "subcategory": "hand",
+      "subcategoryKorean": "손",
+      "related": [
+        "finger-general",
+        "body-growing"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "손가락 하나 더 꿈",
+        "손가락 더 있는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "extra finger dream meaning"
+      ]
+    },
+    {
+      "id": "eye-swollen",
+      "korean": "눈이 부은 꿈",
+      "english": "Dream of swollen eyes",
+      "slug": "swollen-eyes-dream",
+      "koreanSlug": "nun-bueun-kkum",
+      "category": "body",
+      "subcategory": "eye",
+      "subcategoryKorean": "눈(안구)",
+      "related": [
+        "eye-general",
+        "face-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "눈 부은 꿈",
+        "눈 부은 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "swollen eyes dream meaning"
+      ]
+    },
+    {
+      "id": "eye-tears",
+      "korean": "눈물이 나는 꿈",
+      "english": "Dream of tears flowing",
+      "slug": "tears-dream",
+      "koreanSlug": "nunmul-naneun-kkum",
+      "category": "body",
+      "subcategory": "eye",
+      "subcategoryKorean": "눈(안구)",
+      "related": [
+        "eye-general",
+        "action-crying"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "눈물 나는 꿈",
+        "눈물 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "tears dream meaning"
+      ]
+    },
+    {
+      "id": "eye-bright",
+      "korean": "눈이 밝아지는 꿈",
+      "english": "Dream of eyes becoming brighter",
+      "slug": "bright-eyes-dream",
+      "koreanSlug": "nun-balgajineun-kkum",
+      "category": "body",
+      "subcategory": "eye",
+      "subcategoryKorean": "눈(안구)",
+      "related": [
+        "eye-general",
+        "color-bright"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "눈 밝아지는 꿈",
+        "눈 빛나는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "bright eyes dream meaning"
+      ]
+    },
+    {
+      "id": "eye-glasses",
+      "korean": "안경 꿈",
+      "english": "Dream of glasses",
+      "slug": "glasses-dream",
+      "koreanSlug": "angyeong-kkum",
+      "category": "body",
+      "subcategory": "eye",
+      "subcategoryKorean": "눈(안구)",
+      "related": [
+        "eye-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "안경 꿈",
+        "안경 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "glasses dream meaning"
+      ]
+    },
+    {
+      "id": "foot-swollen",
+      "korean": "발이 부은 꿈",
+      "english": "Dream of swollen feet",
+      "slug": "swollen-feet-dream",
+      "koreanSlug": "bal-bueun-kkum",
+      "category": "body",
+      "subcategory": "foot",
+      "subcategoryKorean": "발",
+      "related": [
+        "foot-general",
+        "body-sick"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "발 부은 꿈",
+        "발 부은 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "swollen feet dream meaning"
+      ]
+    },
+    {
+      "id": "foot-washing",
+      "korean": "발을 씻는 꿈",
+      "english": "Dream of washing feet",
+      "slug": "washing-feet-dream",
+      "koreanSlug": "bal-ssinneun-kkum",
+      "category": "body",
+      "subcategory": "foot",
+      "subcategoryKorean": "발",
+      "related": [
+        "foot-general",
+        "action-washing"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "발 씻는 꿈",
+        "발 씻는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "washing feet dream meaning"
+      ]
+    },
+    {
+      "id": "leg-amputated",
+      "korean": "다리가 잘리는 꿈",
+      "english": "Dream of leg being amputated",
+      "slug": "leg-amputated-dream",
+      "koreanSlug": "dari-jallineun-kkum",
+      "category": "body",
+      "subcategory": "leg",
+      "subcategoryKorean": "다리",
+      "related": [
+        "leg-broken",
+        "body-injury"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "다리 잘리는 꿈",
+        "다리 잘리는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "leg amputated dream meaning"
+      ]
+    },
+    {
+      "id": "leg-strong",
+      "korean": "다리가 튼튼한 꿈",
+      "english": "Dream of strong legs",
+      "slug": "strong-legs-dream",
+      "koreanSlug": "dari-teunteunhan-kkum",
+      "category": "body",
+      "subcategory": "leg",
+      "subcategoryKorean": "다리",
+      "related": [
+        "leg-broken",
+        "action-running"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "다리 튼튼한 꿈",
+        "다리 힘 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "strong legs dream meaning"
+      ]
+    },
+    {
+      "id": "face-beautiful",
+      "korean": "얼굴이 예뻐지는 꿈",
+      "english": "Dream of becoming beautiful",
+      "slug": "becoming-beautiful-dream",
+      "koreanSlug": "eolgul-yeppeo-jineun-kkum",
+      "category": "body",
+      "subcategory": "face",
+      "subcategoryKorean": "얼굴",
+      "related": [
+        "face-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "얼굴 예뻐지는 꿈",
+        "예뻐지는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "becoming beautiful dream meaning"
+      ]
+    },
+    {
+      "id": "face-ugly",
+      "korean": "얼굴이 못생겨지는 꿈",
+      "english": "Dream of becoming ugly",
+      "slug": "becoming-ugly-dream",
+      "koreanSlug": "eolgul-motsaenggineun-kkum",
+      "category": "body",
+      "subcategory": "face",
+      "subcategoryKorean": "얼굴",
+      "related": [
+        "face-general",
+        "face-scar"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "못생겨지는 꿈",
+        "못생겨지는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "becoming ugly dream meaning"
+      ]
+    },
+    {
+      "id": "face-wrinkles",
+      "korean": "주름이 생기는 꿈",
+      "english": "Dream of getting wrinkles",
+      "slug": "wrinkles-dream",
+      "koreanSlug": "jureum-saenggineun-kkum",
+      "category": "body",
+      "subcategory": "face",
+      "subcategoryKorean": "얼굴",
+      "related": [
+        "face-general",
+        "people-old-person"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "주름 꿈",
+        "주름 생기는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "wrinkles dream meaning"
+      ]
+    },
+    {
+      "id": "face-makeup",
+      "korean": "화장하는 꿈",
+      "english": "Dream of putting on makeup",
+      "slug": "makeup-dream",
+      "koreanSlug": "hwajang-haneun-kkum",
+      "category": "body",
+      "subcategory": "face",
+      "subcategoryKorean": "얼굴",
+      "related": [
+        "face-general",
+        "face-beautiful"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "화장하는 꿈",
+        "화장 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "makeup dream meaning"
+      ]
+    },
+    {
+      "id": "body-sweat",
+      "korean": "땀을 흘리는 꿈",
+      "english": "Dream of sweating",
+      "slug": "sweating-dream",
+      "koreanSlug": "ttam-heullineun-kkum",
+      "category": "body",
+      "subcategory": "body-state",
+      "subcategoryKorean": "몸상태",
+      "related": [
+        "body-sick",
+        "action-running"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "땀 흘리는 꿈",
+        "땀 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "sweating dream meaning"
+      ]
+    },
+    {
+      "id": "body-floating",
+      "korean": "몸이 뜨는 꿈",
+      "english": "Dream of body floating",
+      "slug": "body-floating-dream",
+      "koreanSlug": "mom-tteuneun-kkum",
+      "category": "body",
+      "subcategory": "body-state",
+      "subcategoryKorean": "몸상태",
+      "related": [
+        "action-floating",
+        "action-flying"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "몸이 뜨는 꿈",
+        "몸 떠오르는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "body floating dream meaning"
+      ]
+    },
+    {
+      "id": "body-invisible",
+      "korean": "투명인간이 되는 꿈",
+      "english": "Dream of becoming invisible",
+      "slug": "invisible-dream",
+      "koreanSlug": "tumyeong-ingan-kkum",
+      "category": "body",
+      "subcategory": "body-state",
+      "subcategoryKorean": "몸상태",
+      "related": [
+        "body-naked"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "투명인간 꿈",
+        "투명인간 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "becoming invisible dream meaning"
+      ]
+    },
+    {
+      "id": "body-transform",
+      "korean": "다른 사람이 되는 꿈",
+      "english": "Dream of becoming another person",
+      "slug": "becoming-someone-else-dream",
+      "koreanSlug": "dareun-saram-doeneun-kkum",
+      "category": "body",
+      "subcategory": "body-state",
+      "subcategoryKorean": "몸상태",
+      "related": [
+        "body-growing",
+        "body-shrinking"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "다른 사람 되는 꿈",
+        "변신 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "becoming someone else dream meaning"
+      ]
+    },
+    {
+      "id": "body-animal-transform",
+      "korean": "동물로 변하는 꿈",
+      "english": "Dream of turning into an animal",
+      "slug": "turning-into-animal-dream",
+      "koreanSlug": "dongmul-byeonhaneun-kkum",
+      "category": "body",
+      "subcategory": "body-state",
+      "subcategoryKorean": "몸상태",
+      "related": [
+        "body-transform"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "동물로 변하는 꿈",
+        "동물 변신 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "turning into animal dream meaning"
+      ]
+    },
+    {
+      "id": "body-superpower",
+      "korean": "초능력이 생기는 꿈",
+      "english": "Dream of having superpowers",
+      "slug": "superpowers-dream",
+      "koreanSlug": "choneungnyeok-kkum",
+      "category": "body",
+      "subcategory": "body-state",
+      "subcategoryKorean": "몸상태",
+      "related": [
+        "action-flying",
+        "body-invisible"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "초능력 꿈",
+        "초능력 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "superpowers dream meaning"
+      ]
+    },
+    {
+      "id": "body-pregnant",
+      "korean": "임신한 배가 나온 꿈",
+      "english": "Dream of pregnant belly",
+      "slug": "pregnant-belly-dream",
+      "koreanSlug": "imsin-bae-kkum",
+      "category": "body",
+      "subcategory": "belly",
+      "subcategoryKorean": "배",
+      "related": [
+        "belly-swollen",
+        "pregnancy-general"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "임신 배 꿈",
+        "임신한 배 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "pregnant belly dream meaning"
+      ]
+    },
+    {
+      "id": "body-stomachache",
+      "korean": "배가 아픈 꿈",
+      "english": "Dream of stomachache",
+      "slug": "stomachache-dream",
+      "koreanSlug": "bae-apeun-kkum",
+      "category": "body",
+      "subcategory": "belly",
+      "subcategoryKorean": "배",
+      "related": [
+        "body-sick",
+        "belly-swollen"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "배 아픈 꿈",
+        "복통 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "stomachache dream meaning"
+      ]
+    },
+    {
+      "id": "body-heart",
+      "korean": "심장 꿈",
+      "english": "Dream of heart",
+      "slug": "heart-dream",
+      "koreanSlug": "simjang-kkum",
+      "category": "body",
+      "subcategory": "chest",
+      "subcategoryKorean": "가슴",
+      "related": [
+        "chest-pain",
+        "body-sick"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "심장 꿈",
+        "심장 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "heart dream meaning"
+      ]
+    },
+    {
+      "id": "body-heart-stop",
+      "korean": "심장이 멈추는 꿈",
+      "english": "Dream of heart stopping",
+      "slug": "heart-stopping-dream",
+      "koreanSlug": "simjang-meomchuneun-kkum",
+      "category": "body",
+      "subcategory": "chest",
+      "subcategoryKorean": "가슴",
+      "related": [
+        "body-heart",
+        "death-self"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "심장 멈추는 꿈",
+        "심장마비 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "heart stopping dream meaning"
+      ]
+    },
+    {
+      "id": "body-breast",
+      "korean": "가슴이 커지는 꿈",
+      "english": "Dream of breasts growing",
+      "slug": "breasts-growing-dream",
+      "koreanSlug": "gaseum-keojineun-kkum",
+      "category": "body",
+      "subcategory": "chest",
+      "subcategoryKorean": "가슴",
+      "related": [
+        "body-growing",
+        "body-pregnant"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "가슴 커지는 꿈",
+        "가슴 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "breasts growing dream meaning"
+      ]
+    },
+    {
+      "id": "head-bald",
+      "korean": "머리에 혹이 생기는 꿈",
+      "english": "Dream of bump on head",
+      "slug": "bump-on-head-dream",
+      "koreanSlug": "meori-hok-kkum",
+      "category": "body",
+      "subcategory": "head",
+      "subcategoryKorean": "머리",
+      "related": [
+        "head-pain",
+        "body-injury"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "머리 혹 꿈",
+        "머리 혹 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "bump on head dream meaning"
+      ]
+    },
+    {
+      "id": "head-falling-off",
+      "korean": "머리가 떨어지는 꿈",
+      "english": "Dream of head falling off",
+      "slug": "head-falling-off-dream",
+      "koreanSlug": "meori-tteoreojineun-kkum",
+      "category": "body",
+      "subcategory": "head",
+      "subcategoryKorean": "머리",
+      "related": [
+        "head-pain",
+        "death-self"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "머리 떨어지는 꿈",
+        "목 잘리는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "head falling off dream meaning"
+      ]
+    },
+    {
+      "id": "skin-peeling",
+      "korean": "피부가 벗겨지는 꿈",
+      "english": "Dream of skin peeling",
+      "slug": "skin-peeling-dream",
+      "koreanSlug": "pibu-beotgyeojineun-kkum",
+      "category": "body",
+      "subcategory": "skin",
+      "subcategoryKorean": "피부",
+      "related": [
+        "skin-rash",
+        "body-sick"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "피부 벗겨지는 꿈",
+        "피부 벗겨지는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "skin peeling dream meaning"
+      ]
+    },
+    {
+      "id": "skin-wound",
+      "korean": "피부에 상처가 나는 꿈",
+      "english": "Dream of skin wound",
+      "slug": "skin-wound-dream",
+      "koreanSlug": "pibu-sangcheo-kkum",
+      "category": "body",
+      "subcategory": "skin",
+      "subcategoryKorean": "피부",
+      "related": [
+        "skin-rash",
+        "body-injury"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "피부 상처 꿈",
+        "피부 상처 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "skin wound dream meaning"
+      ]
+    },
+    {
+      "id": "skin-clear",
+      "korean": "피부가 깨끗해지는 꿈",
+      "english": "Dream of clear skin",
+      "slug": "clear-skin-dream",
+      "koreanSlug": "pibu-kkaekkeuthaejineun-kkum",
+      "category": "body",
+      "subcategory": "skin",
+      "subcategoryKorean": "피부",
+      "related": [
+        "face-beautiful"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "피부 깨끗한 꿈",
+        "피부 좋아지는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "clear skin dream meaning"
+      ]
+    },
+    {
+      "id": "nail-long",
+      "korean": "손톱이 길어지는 꿈",
+      "english": "Dream of long nails",
+      "slug": "long-nails-dream",
+      "koreanSlug": "sontop-gireojineun-kkum",
+      "category": "body",
+      "subcategory": "nail",
+      "subcategoryKorean": "손톱/발톱",
+      "related": [
+        "nail-broken",
+        "finger-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "손톱 긴 꿈",
+        "손톱 길어지는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "long nails dream meaning"
+      ]
+    },
+    {
+      "id": "nail-cutting",
+      "korean": "손톱을 자르는 꿈",
+      "english": "Dream of cutting nails",
+      "slug": "cutting-nails-dream",
+      "koreanSlug": "sontop-jareuneun-kkum",
+      "category": "body",
+      "subcategory": "nail",
+      "subcategoryKorean": "손톱/발톱",
+      "related": [
+        "nail-broken"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "손톱 자르는 꿈",
+        "손톱 깎는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "cutting nails dream meaning"
+      ]
+    },
+    {
+      "id": "toenail-broken",
+      "korean": "발톱이 빠지는 꿈",
+      "english": "Dream of losing a toenail",
+      "slug": "losing-toenail-dream",
+      "koreanSlug": "baltop-ppajineun-kkum",
+      "category": "body",
+      "subcategory": "nail",
+      "subcategoryKorean": "손톱/발톱",
+      "related": [
+        "nail-broken",
+        "foot-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "발톱 빠지는 꿈",
+        "발톱 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "losing toenail dream meaning"
+      ]
+    },
+    {
+      "id": "tongue-bitten",
+      "korean": "혀를 깨무는 꿈",
+      "english": "Dream of biting tongue",
+      "slug": "biting-tongue-dream",
+      "koreanSlug": "hyeo-kkaemuneun-kkum",
+      "category": "body",
+      "subcategory": "mouth",
+      "subcategoryKorean": "입",
+      "related": [
+        "tongue-general",
+        "mouth-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "혀 깨무는 꿈",
+        "혀 깨무는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "biting tongue dream meaning"
+      ]
+    },
+    {
+      "id": "mouth-foreign-object",
+      "korean": "입에서 이물질이 나오는 꿈",
+      "english": "Dream of objects coming out of mouth",
+      "slug": "objects-from-mouth-dream",
+      "koreanSlug": "ibeseo-imulji-kkum",
+      "category": "body",
+      "subcategory": "mouth",
+      "subcategoryKorean": "입",
+      "related": [
+        "mouth-general",
+        "vomit-general"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "입에서 이물질 꿈",
+        "입에서 뭔가 나오는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "objects coming out of mouth dream"
+      ]
+    },
+    {
+      "id": "mouth-cant-speak",
+      "korean": "말이 안 나오는 꿈",
+      "english": "Dream of not being able to speak",
+      "slug": "cant-speak-dream",
+      "koreanSlug": "mal-an-naoneun-kkum",
+      "category": "body",
+      "subcategory": "mouth",
+      "subcategoryKorean": "입",
+      "related": [
+        "mouth-general",
+        "body-paralysis"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "말이 안 나오는 꿈",
+        "말 못하는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "cant speak dream meaning"
+      ]
+    },
+    {
+      "id": "nose-bleeding",
+      "korean": "코에서 피가 많이 나는 꿈",
+      "english": "Dream of heavy nosebleed",
+      "slug": "heavy-nosebleed-dream",
+      "koreanSlug": "ko-pi-mani-kkum",
+      "category": "body",
+      "subcategory": "nose",
+      "subcategoryKorean": "코",
+      "related": [
+        "blood-nose",
+        "nose-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "코피 많이 나는 꿈",
+        "코피 많이 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "heavy nosebleed dream meaning"
+      ]
+    },
+    {
+      "id": "nose-big",
+      "korean": "코가 커지는 꿈",
+      "english": "Dream of nose growing bigger",
+      "slug": "big-nose-dream",
+      "koreanSlug": "ko-keojineun-kkum",
+      "category": "body",
+      "subcategory": "nose",
+      "subcategoryKorean": "코",
+      "related": [
+        "nose-general",
+        "body-growing"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "코 커지는 꿈",
+        "코 큰 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "big nose dream meaning"
+      ]
+    },
+    {
+      "id": "ear-bug",
+      "korean": "귀에 벌레가 들어가는 꿈",
+      "english": "Dream of bug in ear",
+      "slug": "bug-in-ear-dream",
+      "koreanSlug": "gwi-beolle-deureoganeun-kkum",
+      "category": "body",
+      "subcategory": "ear",
+      "subcategoryKorean": "귀",
+      "related": [
+        "ear-general",
+        "insect-bug-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "귀에 벌레 꿈",
+        "귀 벌레 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "bug in ear dream meaning"
+      ]
+    },
+    {
+      "id": "ear-ringing",
+      "korean": "이명이 들리는 꿈",
+      "english": "Dream of ringing in ears",
+      "slug": "ringing-ears-dream",
+      "koreanSlug": "imyeong-deullineun-kkum",
+      "category": "body",
+      "subcategory": "ear",
+      "subcategoryKorean": "귀",
+      "related": [
+        "ear-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "이명 꿈",
+        "귀 울리는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "ringing in ears dream meaning"
+      ]
+    },
+    {
+      "id": "poop-golden",
+      "korean": "황금 똥 꿈",
+      "english": "Dream of golden poop",
+      "slug": "golden-poop-dream",
+      "koreanSlug": "hwanggeum-ttong-kkum",
+      "category": "body",
+      "subcategory": "excretion",
+      "subcategoryKorean": "배설",
+      "related": [
+        "poop-general",
+        "money-gold"
+      ],
+      "searchTier": "high",
+      "naverKeywords": [
+        "황금 똥 꿈",
+        "황금똥 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "golden poop dream meaning"
+      ]
+    },
+    {
+      "id": "poop-baby",
+      "korean": "아기 똥 꿈",
+      "english": "Dream of baby poop",
+      "slug": "baby-poop-dream",
+      "koreanSlug": "agi-ttong-kkum",
+      "category": "body",
+      "subcategory": "excretion",
+      "subcategoryKorean": "배설",
+      "related": [
+        "poop-general",
+        "people-baby"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "아기 똥 꿈",
+        "아기 똥 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "baby poop dream meaning"
+      ]
+    },
+    {
+      "id": "poop-lots",
+      "korean": "똥이 많은 꿈",
+      "english": "Dream of lots of poop",
+      "slug": "lots-of-poop-dream",
+      "koreanSlug": "ttong-maneun-kkum",
+      "category": "body",
+      "subcategory": "excretion",
+      "subcategoryKorean": "배설",
+      "related": [
+        "poop-general",
+        "poop-overflow"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "똥 많은 꿈",
+        "똥 많이 보는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "lots of poop dream meaning"
+      ]
+    },
+    {
+      "id": "poop-eating",
+      "korean": "똥을 먹는 꿈",
+      "english": "Dream of eating poop",
+      "slug": "eating-poop-dream",
+      "koreanSlug": "ttong-meongneun-kkum",
+      "category": "body",
+      "subcategory": "excretion",
+      "subcategoryKorean": "배설",
+      "related": [
+        "poop-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "똥 먹는 꿈",
+        "똥 먹는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "eating poop dream meaning"
+      ]
+    },
+    {
+      "id": "urine-blood",
+      "korean": "피가 섞인 소변 꿈",
+      "english": "Dream of blood in urine",
+      "slug": "blood-urine-dream",
+      "koreanSlug": "pi-seokkin-sobyeon-kkum",
+      "category": "body",
+      "subcategory": "excretion",
+      "subcategoryKorean": "배설",
+      "related": [
+        "urine-general",
+        "blood-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "피 섞인 소변 꿈",
+        "혈뇨 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "blood in urine dream meaning"
+      ]
+    },
+    {
+      "id": "body-cancer",
+      "korean": "암에 걸리는 꿈",
+      "english": "Dream of getting cancer",
+      "slug": "cancer-dream",
+      "koreanSlug": "am-geollineun-kkum",
+      "category": "body",
+      "subcategory": "body-state",
+      "subcategoryKorean": "몸상태",
+      "related": [
+        "body-sick",
+        "body-hospital"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "암 걸리는 꿈",
+        "암 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "getting cancer dream meaning"
+      ]
+    },
+    {
+      "id": "body-dying",
+      "korean": "내가 죽어가는 꿈",
+      "english": "Dream of dying",
+      "slug": "dying-dream",
+      "koreanSlug": "naega-jugeo-ganeun-kkum",
+      "category": "body",
+      "subcategory": "body-state",
+      "subcategoryKorean": "몸상태",
+      "related": [
+        "death-self",
+        "body-sick"
+      ],
+      "searchTier": "high",
+      "naverKeywords": [
+        "내가 죽어가는 꿈",
+        "죽어가는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "dying dream meaning"
+      ]
+    },
+    {
+      "id": "body-healing",
+      "korean": "병이 낫는 꿈",
+      "english": "Dream of being healed",
+      "slug": "healing-dream",
+      "koreanSlug": "byeong-nanneun-kkum",
+      "category": "body",
+      "subcategory": "body-state",
+      "subcategoryKorean": "몸상태",
+      "related": [
+        "body-sick",
+        "body-hospital"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "병 낫는 꿈",
+        "치유 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "being healed dream meaning"
+      ]
+    },
+    {
+      "id": "body-strong",
+      "korean": "몸이 건강한 꿈",
+      "english": "Dream of being strong and healthy",
+      "slug": "strong-body-dream",
+      "koreanSlug": "mom-geonganghan-kkum",
+      "category": "body",
+      "subcategory": "body-state",
+      "subcategoryKorean": "몸상태",
+      "related": [
+        "body-growing",
+        "leg-strong"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "건강한 꿈",
+        "몸 건강 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "strong body dream meaning"
+      ]
+    },
+    {
+      "id": "body-old",
+      "korean": "갑자기 늙는 꿈",
+      "english": "Dream of suddenly aging",
+      "slug": "suddenly-aging-dream",
+      "koreanSlug": "gapjagi-nungneun-kkum",
+      "category": "body",
+      "subcategory": "body-state",
+      "subcategoryKorean": "몸상태",
+      "related": [
+        "people-old-person",
+        "face-wrinkles"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "갑자기 늙는 꿈",
+        "늙는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "suddenly aging dream meaning"
+      ]
+    },
+    {
+      "id": "body-young",
+      "korean": "젊어지는 꿈",
+      "english": "Dream of becoming younger",
+      "slug": "becoming-younger-dream",
+      "koreanSlug": "jeolmeojineun-kkum",
+      "category": "body",
+      "subcategory": "body-state",
+      "subcategoryKorean": "몸상태",
+      "related": [
+        "people-young-self"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "젊어지는 꿈",
+        "젊어지는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "becoming younger dream meaning"
+      ]
+    },
+    {
+      "id": "body-pregnant-self",
+      "korean": "내가 임신한 꿈",
+      "english": "Dream of being pregnant",
+      "slug": "being-pregnant-dream",
+      "koreanSlug": "naega-imsinhan-kkum",
+      "category": "body",
+      "subcategory": "body-state",
+      "subcategoryKorean": "몸상태",
+      "related": [
+        "pregnancy-general",
+        "body-pregnant"
+      ],
+      "searchTier": "high",
+      "naverKeywords": [
+        "내가 임신한 꿈",
+        "임신 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "being pregnant dream meaning"
+      ]
+    },
+    {
+      "id": "body-miscarriage",
+      "korean": "유산하는 꿈",
+      "english": "Dream of miscarriage",
+      "slug": "miscarriage-dream",
+      "koreanSlug": "yusan-haneun-kkum",
+      "category": "body",
+      "subcategory": "body-state",
+      "subcategoryKorean": "몸상태",
+      "related": [
+        "pregnancy-general",
+        "body-pregnant-self"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "유산 꿈",
+        "유산 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "miscarriage dream meaning"
+      ]
+    },
+    {
+      "id": "body-labor",
+      "korean": "진통 꿈",
+      "english": "Dream of labor pains",
+      "slug": "labor-pains-dream",
+      "koreanSlug": "jintong-kkum",
+      "category": "body",
+      "subcategory": "body-state",
+      "subcategoryKorean": "몸상태",
+      "related": [
+        "action-giving-birth",
+        "body-pregnant-self"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "진통 꿈",
+        "출산 진통 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "labor pains dream meaning"
+      ]
+    },
+    {
+      "id": "body-injection",
+      "korean": "주사 맞는 꿈",
+      "english": "Dream of getting an injection",
+      "slug": "injection-dream",
+      "koreanSlug": "jusa-manneun-kkum",
+      "category": "body",
+      "subcategory": "body-state",
+      "subcategoryKorean": "몸상태",
+      "related": [
+        "body-hospital",
+        "body-sick"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "주사 맞는 꿈",
+        "주사 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "injection dream meaning"
+      ]
+    },
+    {
+      "id": "body-medicine",
+      "korean": "약 먹는 꿈",
+      "english": "Dream of taking medicine",
+      "slug": "medicine-dream",
+      "koreanSlug": "yak-meongneun-kkum",
+      "category": "body",
+      "subcategory": "body-state",
+      "subcategoryKorean": "몸상태",
+      "related": [
+        "body-sick",
+        "body-hospital"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "약 먹는 꿈",
+        "약 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "taking medicine dream meaning"
+      ]
+    },
+    {
+      "id": "body-cpr",
+      "korean": "심폐소생술 꿈",
+      "english": "Dream of CPR",
+      "slug": "cpr-dream",
+      "koreanSlug": "simpye-sosaengsul-kkum",
+      "category": "body",
+      "subcategory": "body-state",
+      "subcategoryKorean": "몸상태",
+      "related": [
+        "body-heart-stop",
+        "body-dying"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "심폐소생술 꿈",
+        "CPR 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "CPR dream meaning"
+      ]
+    },
+    {
+      "id": "body-gender-change",
+      "korean": "성별이 바뀌는 꿈",
+      "english": "Dream of changing gender",
+      "slug": "gender-change-dream",
+      "koreanSlug": "seongbyeol-bakkwineun-kkum",
+      "category": "body",
+      "subcategory": "body-state",
+      "subcategoryKorean": "몸상태",
+      "related": [
+        "body-transform"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "성별 바뀌는 꿈",
+        "성전환 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "changing gender dream meaning"
+      ]
+    },
+    {
+      "id": "body-wings",
+      "korean": "날개가 생기는 꿈",
+      "english": "Dream of growing wings",
+      "slug": "growing-wings-dream",
+      "koreanSlug": "nalgae-saenggineun-kkum",
+      "category": "body",
+      "subcategory": "body-state",
+      "subcategoryKorean": "몸상태",
+      "related": [
+        "action-flying",
+        "body-superpower"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "날개 생기는 꿈",
+        "날개 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "growing wings dream meaning"
+      ]
+    },
+    {
+      "id": "body-tail",
+      "korean": "꼬리가 생기는 꿈",
+      "english": "Dream of growing a tail",
+      "slug": "growing-tail-dream",
+      "koreanSlug": "kkori-saenggineun-kkum",
+      "category": "body",
+      "subcategory": "body-state",
+      "subcategoryKorean": "몸상태",
+      "related": [
+        "body-animal-transform"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "꼬리 생기는 꿈",
+        "꼬리 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "growing tail dream meaning"
+      ]
+    },
+    {
+      "id": "body-scar",
+      "korean": "흉터가 생기는 꿈",
+      "english": "Dream of getting a scar",
+      "slug": "scar-dream",
+      "koreanSlug": "hyungteo-saenggineun-kkum",
+      "category": "body",
+      "subcategory": "skin",
+      "subcategoryKorean": "피부",
+      "related": [
+        "body-injury",
+        "face-scar"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "흉터 꿈",
+        "흉터 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "scar dream meaning"
+      ]
+    },
+    {
+      "id": "body-bruise",
+      "korean": "멍이 드는 꿈",
+      "english": "Dream of getting bruises",
+      "slug": "bruise-dream",
+      "koreanSlug": "meong-deuneun-kkum",
+      "category": "body",
+      "subcategory": "skin",
+      "subcategoryKorean": "피부",
+      "related": [
+        "body-injury",
+        "action-attacked"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "멍 꿈",
+        "멍 드는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "bruise dream meaning"
+      ]
+    },
+    {
+      "id": "arm-cut",
+      "korean": "팔이 잘리는 꿈",
+      "english": "Dream of arm being cut off",
+      "slug": "arm-cut-off-dream",
+      "koreanSlug": "pal-jallineun-kkum",
+      "category": "body",
+      "subcategory": "arm",
+      "subcategoryKorean": "팔",
+      "related": [
+        "arm-broken",
+        "body-injury"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "팔 잘리는 꿈",
+        "팔 잘리는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "arm cut off dream meaning"
+      ]
+    },
+    {
+      "id": "arm-strong",
+      "korean": "팔이 강해지는 꿈",
+      "english": "Dream of strong arms",
+      "slug": "strong-arms-dream",
+      "koreanSlug": "pal-ganghejineun-kkum",
+      "category": "body",
+      "subcategory": "arm",
+      "subcategoryKorean": "팔",
+      "related": [
+        "body-strong"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "팔 강해지는 꿈",
+        "팔 힘 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "strong arms dream meaning"
+      ]
+    },
+    {
+      "id": "body-choking",
+      "korean": "목이 막히는 꿈",
+      "english": "Dream of choking",
+      "slug": "choking-dream",
+      "koreanSlug": "mok-makhineun-kkum",
+      "category": "body",
+      "subcategory": "body-state",
+      "subcategoryKorean": "몸상태",
+      "related": [
+        "body-paralysis",
+        "mouth-cant-speak"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "목 막히는 꿈",
+        "목 막히는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "choking dream meaning"
+      ]
+    },
+    {
+      "id": "body-neck-pain",
+      "korean": "목이 아픈 꿈",
+      "english": "Dream of neck pain",
+      "slug": "neck-pain-dream",
+      "koreanSlug": "mok-apeun-kkum",
+      "category": "body",
+      "subcategory": "body-state",
+      "subcategoryKorean": "몸상태",
+      "related": [
+        "head-pain",
+        "body-sick"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "목 아픈 꿈",
+        "목 아픈 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "neck pain dream meaning"
+      ]
+    },
+    {
+      "id": "body-wart",
+      "korean": "사마귀가 생기는 꿈",
+      "english": "Dream of getting warts",
+      "slug": "warts-dream",
+      "koreanSlug": "samagwi-saenggineun-kkum",
+      "category": "body",
+      "subcategory": "skin",
+      "subcategoryKorean": "피부",
+      "related": [
+        "skin-rash"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "사마귀 꿈",
+        "사마귀 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "warts dream meaning"
+      ]
+    },
+    {
+      "id": "body-piercing",
+      "korean": "피어싱하는 꿈",
+      "english": "Dream of getting a piercing",
+      "slug": "piercing-dream",
+      "koreanSlug": "pieosinghaneun-kkum",
+      "category": "body",
+      "subcategory": "body-state",
+      "subcategoryKorean": "몸상태",
+      "related": [
+        "ear-general",
+        "body-injury"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "피어싱 꿈",
+        "피어싱 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "piercing dream meaning"
+      ]
+    },
+    {
+      "id": "body-fever",
+      "korean": "열이 나는 꿈",
+      "english": "Dream of having a fever",
+      "slug": "fever-dream",
+      "koreanSlug": "yeol-naneun-kkum",
+      "category": "body",
+      "subcategory": "body-state",
+      "subcategoryKorean": "몸상태",
+      "related": [
+        "body-sick",
+        "body-hospital"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "열 나는 꿈",
+        "열나는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "fever dream meaning"
+      ]
+    },
+    {
+      "id": "body-shivering",
+      "korean": "몸이 떨리는 꿈",
+      "english": "Dream of shivering",
+      "slug": "shivering-dream",
+      "koreanSlug": "mom-tteollineun-kkum",
+      "category": "body",
+      "subcategory": "body-state",
+      "subcategoryKorean": "몸상태",
+      "related": [
+        "body-sick",
+        "body-paralysis"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "몸 떨리는 꿈",
+        "떨리는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "shivering dream meaning"
+      ]
+    },
+    {
+      "id": "body-itching",
+      "korean": "몸이 가려운 꿈",
+      "english": "Dream of itching body",
+      "slug": "itching-dream",
+      "koreanSlug": "mom-garyeoun-kkum",
+      "category": "body",
+      "subcategory": "skin",
+      "subcategoryKorean": "피부",
+      "related": [
+        "skin-rash",
+        "body-sick"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "몸 가려운 꿈",
+        "가려운 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "itching body dream meaning"
+      ]
+    },
+    {
+      "id": "body-heartbeat-fast",
+      "korean": "심장이 빨리 뛰는 꿈",
+      "english": "Dream of fast heartbeat",
+      "slug": "fast-heartbeat-dream",
+      "koreanSlug": "simjang-ppalli-ttwineun-kkum",
+      "category": "body",
+      "subcategory": "body-state",
+      "subcategoryKorean": "몸상태",
+      "related": [
+        "chest-pain",
+        "body-sick"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "심장 빨리 뛰는 꿈",
+        "심장 두근거리는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "fast heartbeat dream meaning"
+      ]
+    },
+    {
+      "id": "body-shrinking",
+      "korean": "몸이 작아지는 꿈",
+      "english": "Dream of body shrinking",
+      "slug": "body-shrinking-dream",
+      "koreanSlug": "mom-jagajineun-kkum",
+      "category": "body",
+      "subcategory": "body-state",
+      "subcategoryKorean": "몸상태",
+      "related": [
+        "body-thin",
+        "body-transform"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "몸 작아지는 꿈",
+        "작아지는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "body shrinking dream meaning"
+      ]
+    },
+    {
+      "id": "body-giant",
+      "korean": "몸이 커지는 꿈",
+      "english": "Dream of becoming a giant",
+      "slug": "becoming-giant-dream",
+      "koreanSlug": "mom-keojineun-kkum",
+      "category": "body",
+      "subcategory": "body-state",
+      "subcategoryKorean": "몸상태",
+      "related": [
+        "body-growing",
+        "body-strong"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "몸 커지는 꿈",
+        "거인 되는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "becoming giant dream meaning"
+      ]
+    },
+    {
+      "id": "body-transform",
+      "korean": "몸이 변하는 꿈",
+      "english": "Dream of body transformation",
+      "slug": "body-transformation-dream",
+      "koreanSlug": "mom-byeonhaneun-kkum",
+      "category": "body",
+      "subcategory": "body-state",
+      "subcategoryKorean": "몸상태",
+      "related": [
+        "body-animal-transform",
+        "body-gender-change"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "몸 변하는 꿈",
+        "변신 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "body transformation dream meaning"
+      ]
+    },
+    {
+      "id": "body-animal-transform",
+      "korean": "동물로 변하는 꿈",
+      "english": "Dream of transforming into an animal",
+      "slug": "animal-transformation-dream",
+      "koreanSlug": "dongmullo-byeonhaneun-kkum",
+      "category": "body",
+      "subcategory": "body-state",
+      "subcategoryKorean": "몸상태",
+      "related": [
+        "body-transform",
+        "body-tail"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "동물 변하는 꿈",
+        "동물 변신 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "transforming into animal dream meaning"
+      ]
+    },
+    {
+      "id": "body-superpower",
+      "korean": "초능력 생기는 꿈",
+      "english": "Dream of gaining superpowers",
+      "slug": "superpower-dream",
+      "koreanSlug": "choneungnyeok-saenggineun-kkum",
+      "category": "body",
+      "subcategory": "body-state",
+      "subcategoryKorean": "몸상태",
+      "related": [
+        "body-wings",
+        "action-flying"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "초능력 꿈",
+        "초능력 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "superpower dream meaning"
+      ]
+    },
+    {
+      "id": "body-breathing-underwater",
+      "korean": "물속에서 숨쉬는 꿈",
+      "english": "Dream of breathing underwater",
+      "slug": "breathing-underwater-dream",
+      "koreanSlug": "mulsok-sumswineun-kkum",
+      "category": "body",
+      "subcategory": "body-state",
+      "subcategoryKorean": "몸상태",
+      "related": [
+        "water-underwater",
+        "body-superpower"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "물속 숨쉬는 꿈",
+        "물속 호흡 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "breathing underwater dream meaning"
+      ]
+    },
+    {
+      "id": "body-cant-breathe",
+      "korean": "숨을 못 쉬는 꿈",
+      "english": "Dream of not being able to breathe",
+      "slug": "cant-breathe-dream",
+      "koreanSlug": "sum-mot-swineun-kkum",
+      "category": "body",
+      "subcategory": "body-state",
+      "subcategoryKorean": "몸상태",
+      "related": [
+        "body-choking",
+        "body-paralysis"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "숨 못 쉬는 꿈",
+        "호흡곤란 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "cant breathe dream meaning"
+      ]
+    },
+    {
+      "id": "body-pregnant",
+      "korean": "배가 부른 꿈",
+      "english": "Dream of big belly",
+      "slug": "big-belly-dream",
+      "koreanSlug": "bae-bureun-kkum",
+      "category": "body",
+      "subcategory": "belly",
+      "subcategoryKorean": "배",
+      "related": [
+        "belly-swollen",
+        "body-pregnant-self"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "배 부른 꿈",
+        "배 나온 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "big belly dream meaning"
+      ]
+    },
+    {
+      "id": "nail-broken",
+      "korean": "손톱이 부러지는 꿈",
+      "english": "Dream of broken nail",
+      "slug": "broken-nail-dream",
+      "koreanSlug": "sontop-bureojineun-kkum",
+      "category": "body",
+      "subcategory": "nail",
+      "subcategoryKorean": "손톱/발톱",
+      "related": [
+        "nail-long",
+        "finger-cut"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "손톱 부러지는 꿈",
+        "손톱 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "broken nail dream meaning"
+      ]
+    },
+    {
+      "id": "leg-amputated",
+      "korean": "다리가 잘리는 꿈",
+      "english": "Dream of leg amputation",
+      "slug": "leg-amputation-dream",
+      "koreanSlug": "dari-jallineun-kkum",
+      "category": "body",
+      "subcategory": "leg",
+      "subcategoryKorean": "다리",
+      "related": [
+        "leg-broken",
+        "body-injury"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "다리 잘리는 꿈",
+        "다리 잘리는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "leg amputation dream meaning"
+      ]
+    },
+    {
+      "id": "face-no-face",
+      "korean": "얼굴이 없는 꿈",
+      "english": "Dream of faceless person",
+      "slug": "faceless-dream",
+      "koreanSlug": "eolgul-eomneun-kkum",
+      "category": "body",
+      "subcategory": "face",
+      "subcategoryKorean": "얼굴",
+      "related": [
+        "face-general",
+        "spirits-ghost"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "얼굴 없는 꿈",
+        "얼굴 없는 사람 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "faceless person dream meaning"
+      ]
+    },
+    {
+      "id": "hand-many-fingers",
+      "korean": "손가락이 많은 꿈",
+      "english": "Dream of having extra fingers",
+      "slug": "extra-fingers-dream",
+      "koreanSlug": "songarak-maneun-kkum",
+      "category": "body",
+      "subcategory": "hand",
+      "subcategoryKorean": "손",
+      "related": [
+        "finger-general",
+        "hand-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "손가락 많은 꿈",
+        "손가락 여섯개 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "extra fingers dream meaning"
+      ]
+    },
+    {
+      "id": "eye-crying",
+      "korean": "눈에서 피눈물 나는 꿈",
+      "english": "Dream of crying blood",
+      "slug": "crying-blood-dream",
+      "koreanSlug": "nunmul-pi-kkum",
+      "category": "body",
+      "subcategory": "eye",
+      "subcategoryKorean": "눈",
+      "related": [
+        "eye-general",
+        "blood-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "피눈물 꿈",
+        "피눈물 나는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "crying blood dream meaning"
+      ]
+    },
+    {
+      "id": "eye-glasses",
+      "korean": "안경 쓰는 꿈",
+      "english": "Dream of wearing glasses",
+      "slug": "wearing-glasses-dream",
+      "koreanSlug": "angyeong-sseuneun-kkum",
+      "category": "body",
+      "subcategory": "eye",
+      "subcategoryKorean": "눈",
+      "related": [
+        "eye-general",
+        "eye-blind"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "안경 꿈",
+        "안경 쓰는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "wearing glasses dream meaning"
+      ]
+    },
+    {
+      "id": "blood-someone-else",
+      "korean": "남의 피를 보는 꿈",
+      "english": "Dream of seeing someone else's blood",
+      "slug": "someone-else-blood-dream",
+      "koreanSlug": "nam-pi-boneun-kkum",
+      "category": "body",
+      "subcategory": "blood",
+      "subcategoryKorean": "피/혈액",
+      "related": [
+        "blood-general",
+        "blood-wound"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "남의 피 꿈",
+        "다른 사람 피 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "seeing someone elses blood dream meaning"
+      ]
+    },
+    {
+      "id": "body-surgery-self",
+      "korean": "내가 수술받는 꿈",
+      "english": "Dream of having surgery on yourself",
+      "slug": "self-surgery-dream",
+      "koreanSlug": "naega-susul-batneun-kkum",
+      "category": "body",
+      "subcategory": "body-state",
+      "subcategoryKorean": "몸상태",
+      "related": [
+        "body-surgery",
+        "body-hospital"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "내가 수술받는 꿈",
+        "수술 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "having surgery dream meaning"
+      ]
+    },
+    {
+      "id": "body-stitches",
+      "korean": "꿰매는 꿈",
+      "english": "Dream of getting stitches",
+      "slug": "stitches-dream",
+      "koreanSlug": "kkwemaeneun-kkum",
+      "category": "body",
+      "subcategory": "body-state",
+      "subcategoryKorean": "몸상태",
+      "related": [
+        "body-surgery",
+        "body-injury"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "꿰매는 꿈",
+        "상처 꿰매는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "getting stitches dream meaning"
+      ]
+    },
+    {
+      "id": "body-cast",
+      "korean": "깁스하는 꿈",
+      "english": "Dream of wearing a cast",
+      "slug": "wearing-cast-dream",
+      "koreanSlug": "gipseu-haneun-kkum",
+      "category": "body",
+      "subcategory": "body-state",
+      "subcategoryKorean": "몸상태",
+      "related": [
+        "leg-broken",
+        "arm-broken"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "깁스 꿈",
+        "깁스 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "wearing cast dream meaning"
+      ]
+    },
+    {
+      "id": "body-wheelchair",
+      "korean": "휠체어 타는 꿈",
+      "english": "Dream of being in a wheelchair",
+      "slug": "wheelchair-dream",
+      "koreanSlug": "hwilcheeo-taneun-kkum",
+      "category": "body",
+      "subcategory": "body-state",
+      "subcategoryKorean": "몸상태",
+      "related": [
+        "leg-cant-move",
+        "body-paralysis"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "휠체어 꿈",
+        "휠체어 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "wheelchair dream meaning"
+      ]
+    },
+    {
+      "id": "body-dentures",
+      "korean": "틀니 꿈",
+      "english": "Dream of dentures",
+      "slug": "dentures-dream",
+      "koreanSlug": "teulni-kkum",
+      "category": "body",
+      "subcategory": "teeth",
+      "subcategoryKorean": "이빨/치아",
+      "related": [
+        "teeth-falling",
+        "teeth-all-falling"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "틀니 꿈",
+        "틀니 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "dentures dream meaning"
+      ]
+    },
+    {
+      "id": "body-acne",
+      "korean": "여드름이 나는 꿈",
+      "english": "Dream of acne",
+      "slug": "acne-dream",
+      "koreanSlug": "yeodeureum-naneun-kkum",
+      "category": "body",
+      "subcategory": "skin",
+      "subcategoryKorean": "피부",
+      "related": [
+        "face-pimple",
+        "skin-rash"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "여드름 꿈",
+        "여드름 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "acne dream meaning"
+      ]
+    },
+    {
+      "id": "body-dizzy",
+      "korean": "어지러운 꿈",
+      "english": "Dream of feeling dizzy",
+      "slug": "dizzy-dream",
+      "koreanSlug": "eojireoun-kkum",
+      "category": "body",
+      "subcategory": "body-state",
+      "subcategoryKorean": "몸상태",
+      "related": [
+        "head-pain",
+        "body-sick"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "어지러운 꿈",
+        "어지러운 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "feeling dizzy dream meaning"
+      ]
+    },
+    {
+      "id": "body-numbness",
+      "korean": "몸이 저린 꿈",
+      "english": "Dream of numbness",
+      "slug": "numbness-dream",
+      "koreanSlug": "mom-jeorin-kkum",
+      "category": "body",
+      "subcategory": "body-state",
+      "subcategoryKorean": "몸상태",
+      "related": [
+        "body-paralysis",
+        "body-shivering"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "몸 저린 꿈",
+        "저림 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "numbness dream meaning"
+      ]
+    },
+    {
+      "id": "body-bone-broken",
+      "korean": "뼈가 부러지는 꿈",
+      "english": "Dream of broken bones",
+      "slug": "broken-bones-dream",
+      "koreanSlug": "ppyeo-bureojineun-kkum",
+      "category": "body",
+      "subcategory": "body-state",
+      "subcategoryKorean": "몸상태",
+      "related": [
+        "leg-broken",
+        "arm-broken"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "뼈 부러지는 꿈",
+        "골절 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "broken bones dream meaning"
+      ]
+    },
+    {
+      "id": "body-burned",
+      "korean": "몸에 화상 입는 꿈",
+      "english": "Dream of body getting burned",
+      "slug": "body-burned-dream",
+      "koreanSlug": "mom-hwasang-ipneun-kkum",
+      "category": "body",
+      "subcategory": "skin",
+      "subcategoryKorean": "피부",
+      "related": [
+        "body-injury",
+        "fire-body"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "화상 꿈",
+        "몸 타는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "body burned dream meaning"
+      ]
+    }
   ]
 }

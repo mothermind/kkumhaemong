@@ -3,81 +3,1417 @@
   "korean": "음식/음료",
   "english": "Food & Drink",
   "symbols": [
-    {"id":"food-general","korean":"음식 꿈","english":"Dream of food","slug":"food-dream","koreanSlug":"eumsik-kkum","category":"food","subcategory":"general","subcategoryKorean":"일반","related":["food-rice","food-meat","action-eating"],"searchTier":"high","naverKeywords":["음식 꿈","음식 꿈 해몽"],"googleKeywords":["food dream meaning"]},
-    {"id":"food-rice","korean":"밥 꿈","english":"Dream of rice","slug":"rice-dream","koreanSlug":"bap-kkum","category":"food","subcategory":"grain","subcategoryKorean":"곡물","related":["food-general"],"searchTier":"medium","naverKeywords":["밥 꿈","밥 꿈 해몽"],"googleKeywords":["rice dream meaning"]},
-    {"id":"food-meat","korean":"고기 꿈","english":"Dream of meat","slug":"meat-dream","koreanSlug":"gogi-kkum","category":"food","subcategory":"meat","subcategoryKorean":"고기","related":["food-general"],"searchTier":"medium","naverKeywords":["고기 꿈","고기 꿈 해몽"],"googleKeywords":["meat dream meaning"]},
-    {"id":"food-fruit-general","korean":"과일 꿈","english":"Dream of fruit","slug":"fruit-dream","koreanSlug":"gwail-kkum","category":"food","subcategory":"fruit","subcategoryKorean":"과일","related":["food-apple","food-peach","food-grape"],"searchTier":"medium","naverKeywords":["과일 꿈","과일 꿈 해몽"],"googleKeywords":["fruit dream meaning"]},
-    {"id":"food-apple","korean":"사과 꿈","english":"Dream of apples","slug":"apple-dream","koreanSlug":"sagwa-kkum","category":"food","subcategory":"fruit","subcategoryKorean":"과일","related":["food-fruit-general"],"searchTier":"medium","naverKeywords":["사과 꿈","사과 꿈 해몽"],"googleKeywords":["apple dream meaning"]},
-    {"id":"food-peach","korean":"복숭아 꿈","english":"Dream of peaches","slug":"peach-dream","koreanSlug":"boksungah-kkum","category":"food","subcategory":"fruit","subcategoryKorean":"과일","related":["food-fruit-general","pregnancy-peach"],"searchTier":"medium","naverKeywords":["복숭아 꿈","복숭아 꿈 해몽"],"googleKeywords":["peach dream meaning"]},
-    {"id":"food-grape","korean":"포도 꿈","english":"Dream of grapes","slug":"grape-dream","koreanSlug":"podo-kkum","category":"food","subcategory":"fruit","subcategoryKorean":"과일","related":["food-fruit-general"],"searchTier":"medium","naverKeywords":["포도 꿈","포도 꿈 해몽"],"googleKeywords":["grape dream meaning"]},
-    {"id":"food-watermelon","korean":"수박 꿈","english":"Dream of watermelon","slug":"watermelon-dream","koreanSlug":"subak-kkum","category":"food","subcategory":"fruit","subcategoryKorean":"과일","related":["food-fruit-general"],"searchTier":"medium","naverKeywords":["수박 꿈","수박 꿈 해몽"],"googleKeywords":["watermelon dream meaning"]},
-    {"id":"food-persimmon","korean":"감 꿈","english":"Dream of persimmons","slug":"persimmon-dream","koreanSlug":"gam-kkum","category":"food","subcategory":"fruit","subcategoryKorean":"과일","related":["food-fruit-general"],"searchTier":"medium","naverKeywords":["감 꿈","감 꿈 해몽"],"googleKeywords":["persimmon dream meaning"]},
-    {"id":"food-strawberry","korean":"딸기 꿈","english":"Dream of strawberries","slug":"strawberry-dream","koreanSlug":"ttalgi-kkum","category":"food","subcategory":"fruit","subcategoryKorean":"과일","related":["food-fruit-general"],"searchTier":"longtail","naverKeywords":["딸기 꿈","딸기 꿈 해몽"],"googleKeywords":["strawberry dream meaning"]},
-    {"id":"food-banana","korean":"바나나 꿈","english":"Dream of bananas","slug":"banana-dream","koreanSlug":"banana-kkum","category":"food","subcategory":"fruit","subcategoryKorean":"과일","related":["food-fruit-general"],"searchTier":"longtail","naverKeywords":["바나나 꿈","바나나 꿈 해몽"],"googleKeywords":["banana dream meaning"]},
-    {"id":"food-chestnut","korean":"밤 꿈","english":"Dream of chestnuts","slug":"chestnut-dream","koreanSlug":"bam-kkum","category":"food","subcategory":"nut","subcategoryKorean":"견과류","related":["food-fruit-general"],"searchTier":"longtail","naverKeywords":["밤 꿈","밤 꿈 해몽"],"googleKeywords":["chestnut dream meaning"]},
-    {"id":"food-pepper","korean":"고추 꿈","english":"Dream of peppers","slug":"pepper-dream","koreanSlug":"gochu-kkum","category":"food","subcategory":"vegetable","subcategoryKorean":"채소","related":["pregnancy-pepper"],"searchTier":"medium","naverKeywords":["고추 꿈","고추 꿈 해몽"],"googleKeywords":["pepper dream meaning"]},
-    {"id":"food-garlic","korean":"마늘 꿈","english":"Dream of garlic","slug":"garlic-dream","koreanSlug":"maneul-kkum","category":"food","subcategory":"vegetable","subcategoryKorean":"채소","related":["food-general"],"searchTier":"longtail","naverKeywords":["마늘 꿈","마늘 꿈 해몽"],"googleKeywords":["garlic dream meaning"]},
-    {"id":"food-kimchi","korean":"김치 꿈","english":"Dream of kimchi","slug":"kimchi-dream","koreanSlug":"gimchi-kkum","category":"food","subcategory":"korean-food","subcategoryKorean":"한식","related":["food-general"],"searchTier":"longtail","naverKeywords":["김치 꿈","김치 꿈 해몽"],"googleKeywords":["kimchi dream meaning"]},
-    {"id":"food-tteok","korean":"떡 꿈","english":"Dream of rice cake (tteok)","slug":"rice-cake-dream","koreanSlug":"tteok-kkum","category":"food","subcategory":"korean-food","subcategoryKorean":"한식","related":["food-general","food-rice"],"searchTier":"medium","naverKeywords":["떡 꿈","떡 꿈 해몽"],"googleKeywords":["rice cake dream meaning","tteok dream meaning"]},
-    {"id":"food-noodle","korean":"국수 꿈","english":"Dream of noodles","slug":"noodle-dream","koreanSlug":"guksu-kkum","category":"food","subcategory":"korean-food","subcategoryKorean":"한식","related":["food-general","marriage-general"],"searchTier":"medium","naverKeywords":["국수 꿈","국수 꿈 해몽"],"googleKeywords":["noodle dream meaning"]},
-    {"id":"food-cake","korean":"케이크 꿈","english":"Dream of cake","slug":"cake-dream","koreanSlug":"keikeu-kkum","category":"food","subcategory":"dessert","subcategoryKorean":"디저트","related":["food-general"],"searchTier":"medium","naverKeywords":["케이크 꿈","케이크 꿈 해몽"],"googleKeywords":["cake dream meaning"]},
-    {"id":"food-bread","korean":"빵 꿈","english":"Dream of bread","slug":"bread-dream","koreanSlug":"ppang-kkum","category":"food","subcategory":"grain","subcategoryKorean":"곡물","related":["food-general"],"searchTier":"medium","naverKeywords":["빵 꿈","빵 꿈 해몽"],"googleKeywords":["bread dream meaning"]},
-    {"id":"food-candy","korean":"사탕 꿈","english":"Dream of candy","slug":"candy-dream","koreanSlug":"satang-kkum","category":"food","subcategory":"dessert","subcategoryKorean":"디저트","related":["food-general"],"searchTier":"longtail","naverKeywords":["사탕 꿈","사탕 꿈 해몽"],"googleKeywords":["candy dream meaning"]},
-    {"id":"food-alcohol","korean":"술 꿈","english":"Dream of alcohol","slug":"alcohol-dream","koreanSlug":"sul-kkum","category":"food","subcategory":"drink","subcategoryKorean":"음료","related":["food-drunk","food-general"],"searchTier":"medium","naverKeywords":["술 꿈","술 꿈 해몽"],"googleKeywords":["alcohol dream meaning"]},
-    {"id":"food-drunk","korean":"술에 취하는 꿈","english":"Dream of being drunk","slug":"being-drunk-dream","koreanSlug":"sul-chwihaneun-kkum","category":"food","subcategory":"drink","subcategoryKorean":"음료","related":["food-alcohol"],"searchTier":"medium","naverKeywords":["술에 취하는 꿈","취하는 꿈 해몽"],"googleKeywords":["being drunk dream meaning"]},
-    {"id":"food-coffee","korean":"커피 꿈","english":"Dream of coffee","slug":"coffee-dream","koreanSlug":"keopi-kkum","category":"food","subcategory":"drink","subcategoryKorean":"음료","related":["food-general"],"searchTier":"longtail","naverKeywords":["커피 꿈","커피 꿈 해몽"],"googleKeywords":["coffee dream meaning"]},
-    {"id":"food-tea","korean":"차 꿈","english":"Dream of tea","slug":"tea-dream","koreanSlug":"cha-kkum","category":"food","subcategory":"drink","subcategoryKorean":"음료","related":["food-general"],"searchTier":"longtail","naverKeywords":["차 꿈","차 꿈 해몽"],"googleKeywords":["tea dream meaning"]},
-    {"id":"food-milk","korean":"우유 꿈","english":"Dream of milk","slug":"milk-dream","koreanSlug":"uyu-kkum","category":"food","subcategory":"drink","subcategoryKorean":"음료","related":["food-general"],"searchTier":"longtail","naverKeywords":["우유 꿈","우유 꿈 해몽"],"googleKeywords":["milk dream meaning"]},
-    {"id":"food-rotten","korean":"상한 음식 꿈","english":"Dream of rotten food","slug":"rotten-food-dream","koreanSlug":"sanghan-eumsik-kkum","category":"food","subcategory":"general","subcategoryKorean":"일반","related":["food-general","vomit-general"],"searchTier":"longtail","naverKeywords":["상한 음식 꿈","상한 음식 꿈 해몽"],"googleKeywords":["rotten food dream meaning"]},
-    {"id":"food-feast","korean":"잔치 꿈","english":"Dream of a feast","slug":"feast-dream","koreanSlug":"janchi-kkum","category":"food","subcategory":"general","subcategoryKorean":"일반","related":["food-general","action-eating"],"searchTier":"medium","naverKeywords":["잔치 꿈","잔치 꿈 해몽"],"googleKeywords":["feast dream meaning"]},
-    {"id":"food-jujube","korean":"대추 꿈","english":"Dream of jujubes","slug":"jujube-dream","koreanSlug":"daechu-kkum","category":"food","subcategory":"fruit","subcategoryKorean":"과일","related":["food-fruit-general","pregnancy-jujube"],"searchTier":"longtail","naverKeywords":["대추 꿈","대추 꿈 해몽"],"googleKeywords":["jujube dream meaning"]},
-    {"id":"food-tofu","korean":"두부 꿈","english":"Dream of tofu","slug":"tofu-dream","koreanSlug":"dubu-kkum","category":"food","subcategory":"korean-food","subcategoryKorean":"한식","related":["food-general"],"searchTier":"longtail","naverKeywords":["두부 꿈","두부 꿈 해몽"],"googleKeywords":["tofu dream meaning"]},
-    {"id":"food-ice-cream","korean":"아이스크림 꿈","english":"Dream of ice cream","slug":"ice-cream-dream","koreanSlug":"aiseukeurim-kkum","category":"food","subcategory":"dessert","subcategoryKorean":"디저트","related":["food-general"],"searchTier":"longtail","naverKeywords":["아이스크림 꿈","아이스크림 꿈 해몽"],"googleKeywords":["ice cream dream meaning"]},
-    {"id":"food-fish-eat","korean":"생선 먹는 꿈","english":"Dream of eating fish","slug":"eating-fish-dream","koreanSlug":"saengseon-meongneun-kkum","category":"food","subcategory":"meat","subcategoryKorean":"고기","related":["fish-general","food-general"],"searchTier":"longtail","naverKeywords":["생선 먹는 꿈","생선 꿈 해몽"],"googleKeywords":["eating fish dream meaning"]},
-    {"id":"food-chocolate","korean":"초콜릿 꿈","english":"Dream of chocolate","slug":"chocolate-dream","koreanSlug":"chokollit-kkum","category":"food","subcategory":"dessert","subcategoryKorean":"디저트","related":["food-general"],"searchTier":"longtail","naverKeywords":["초콜릿 꿈","초콜릿 꿈 해몽"],"googleKeywords":["chocolate dream meaning"]},
-    {"id":"food-pear","korean":"배 꿈 (과일)","english":"Dream of pears","slug":"pear-dream","koreanSlug":"bae-kkum","category":"food","subcategory":"fruit","subcategoryKorean":"과일","related":["food-fruit-general"],"searchTier":"longtail","naverKeywords":["배 꿈","배 과일 꿈 해몽"],"googleKeywords":["pear dream meaning"]},
-    {"id":"food-egg","korean":"달걀 꿈","english":"Dream of eggs","slug":"egg-dream","koreanSlug":"dalgyal-kkum","category":"food","subcategory":"protein","subcategoryKorean":"단백질","related":["food-general","pregnancy-egg"],"searchTier":"medium","naverKeywords":["달걀 꿈","계란 꿈 해몽"],"googleKeywords":["egg dream meaning"]},
-    {"id":"food-cooking","korean":"요리하는 꿈","english":"Dream of cooking","slug":"cooking-dream","koreanSlug":"yori-haneun-kkum","category":"food","subcategory":"general","subcategoryKorean":"일반","related":["food-general","action-cooking"],"searchTier":"medium","naverKeywords":["요리하는 꿈","요리 꿈 해몽"],"googleKeywords":["cooking dream meaning"]},
-    {"id":"food-bibimbap","korean":"비빔밥 꿈","english":"Dream of bibimbap","slug":"bibimbap-dream","koreanSlug":"bibimbap-kkum","category":"food","subcategory":"korean-food","subcategoryKorean":"한식","related":["food-rice","food-general"],"searchTier":"longtail","naverKeywords":["비빔밥 꿈","비빔밥 꿈 해몽"],"googleKeywords":["bibimbap dream meaning"]},
-    {"id":"food-samgyeopsal","korean":"삼겹살 꿈","english":"Dream of samgyeopsal (pork belly)","slug":"samgyeopsal-dream","koreanSlug":"samgyeopsal-kkum","category":"food","subcategory":"meat","subcategoryKorean":"고기","related":["food-meat"],"searchTier":"longtail","naverKeywords":["삼겹살 꿈","삼겹살 꿈 해몽"],"googleKeywords":["Korean BBQ dream meaning","pork belly dream"]},
-    {"id":"food-chicken","korean":"치킨 꿈","english":"Dream of fried chicken","slug":"fried-chicken-dream","koreanSlug":"chikin-kkum","category":"food","subcategory":"meat","subcategoryKorean":"고기","related":["food-meat"],"searchTier":"longtail","naverKeywords":["치킨 꿈","치킨 꿈 해몽"],"googleKeywords":["fried chicken dream meaning"]},
-    {"id":"food-ramen","korean":"라면 꿈","english":"Dream of ramen","slug":"ramen-dream","koreanSlug":"ramyeon-kkum","category":"food","subcategory":"korean-food","subcategoryKorean":"한식","related":["food-noodle","food-general"],"searchTier":"longtail","naverKeywords":["라면 꿈","라면 꿈 해몽"],"googleKeywords":["ramen dream meaning"]},
-    {"id":"food-soup","korean":"국/찌개 꿈","english":"Dream of soup/stew","slug":"soup-dream","koreanSlug":"guk-kkum","category":"food","subcategory":"korean-food","subcategoryKorean":"한식","related":["food-general"],"searchTier":"longtail","naverKeywords":["국 꿈","찌개 꿈 해몽"],"googleKeywords":["soup dream meaning"]},
-    {"id":"food-pizza","korean":"피자 꿈","english":"Dream of pizza","slug":"pizza-dream","koreanSlug":"pija-kkum","category":"food","subcategory":"western","subcategoryKorean":"양식","related":["food-general"],"searchTier":"longtail","naverKeywords":["피자 꿈","피자 꿈 해몽"],"googleKeywords":["pizza dream meaning"]},
-    {"id":"food-sushi","korean":"초밥 꿈","english":"Dream of sushi","slug":"sushi-dream","koreanSlug":"chobap-kkum","category":"food","subcategory":"japanese","subcategoryKorean":"일식","related":["food-fish-eat"],"searchTier":"longtail","naverKeywords":["초밥 꿈","초밥 꿈 해몽"],"googleKeywords":["sushi dream meaning"]},
-    {"id":"food-orange","korean":"오렌지 꿈","english":"Dream of oranges","slug":"orange-dream","koreanSlug":"orenji-kkum","category":"food","subcategory":"fruit","subcategoryKorean":"과일","related":["food-fruit-general"],"searchTier":"longtail","naverKeywords":["오렌지 꿈","오렌지 꿈 해몽"],"googleKeywords":["orange dream meaning"]},
-    {"id":"food-tangerine","korean":"귤 꿈","english":"Dream of tangerines","slug":"tangerine-dream","koreanSlug":"gyul-kkum","category":"food","subcategory":"fruit","subcategoryKorean":"과일","related":["food-fruit-general"],"searchTier":"longtail","naverKeywords":["귤 꿈","귤 꿈 해몽"],"googleKeywords":["tangerine dream meaning"]},
-    {"id":"food-plum","korean":"자두 꿈","english":"Dream of plums","slug":"plum-dream","koreanSlug":"jadu-kkum","category":"food","subcategory":"fruit","subcategoryKorean":"과일","related":["food-fruit-general"],"searchTier":"longtail","naverKeywords":["자두 꿈","자두 꿈 해몽"],"googleKeywords":["plum dream meaning"]},
-    {"id":"food-cherry","korean":"체리 꿈","english":"Dream of cherries","slug":"cherry-dream","koreanSlug":"cheri-kkum","category":"food","subcategory":"fruit","subcategoryKorean":"과일","related":["food-fruit-general"],"searchTier":"longtail","naverKeywords":["체리 꿈","체리 꿈 해몽"],"googleKeywords":["cherry dream meaning"]},
-    {"id":"food-melon","korean":"참외/멜론 꿈","english":"Dream of melon","slug":"melon-dream","koreanSlug":"chamoe-kkum","category":"food","subcategory":"fruit","subcategoryKorean":"과일","related":["food-fruit-general"],"searchTier":"longtail","naverKeywords":["참외 꿈","멜론 꿈 해몽"],"googleKeywords":["melon dream meaning"]},
-    {"id":"food-walnut","korean":"호두 꿈","english":"Dream of walnuts","slug":"walnut-dream","koreanSlug":"hodu-kkum","category":"food","subcategory":"nut","subcategoryKorean":"견과류","related":["food-chestnut"],"searchTier":"longtail","naverKeywords":["호두 꿈","호두 꿈 해몽"],"googleKeywords":["walnut dream meaning"]},
-    {"id":"food-peanut","korean":"땅콩 꿈","english":"Dream of peanuts","slug":"peanut-dream","koreanSlug":"ttangkong-kkum","category":"food","subcategory":"nut","subcategoryKorean":"견과류","related":["food-chestnut"],"searchTier":"longtail","naverKeywords":["땅콩 꿈","땅콩 꿈 해몽"],"googleKeywords":["peanut dream meaning"]},
-    {"id":"food-vegetable","korean":"채소 꿈","english":"Dream of vegetables","slug":"vegetable-dream","koreanSlug":"chaeso-kkum","category":"food","subcategory":"vegetable","subcategoryKorean":"채소","related":["food-general"],"searchTier":"longtail","naverKeywords":["채소 꿈","야채 꿈 해몽"],"googleKeywords":["vegetable dream meaning"]},
-    {"id":"food-corn","korean":"옥수수 꿈","english":"Dream of corn","slug":"corn-dream","koreanSlug":"oksusu-kkum","category":"food","subcategory":"grain","subcategoryKorean":"곡물","related":["food-general"],"searchTier":"longtail","naverKeywords":["옥수수 꿈","옥수수 꿈 해몽"],"googleKeywords":["corn dream meaning"]},
-    {"id":"food-potato","korean":"감자 꿈","english":"Dream of potatoes","slug":"potato-dream","koreanSlug":"gamja-kkum","category":"food","subcategory":"vegetable","subcategoryKorean":"채소","related":["food-general"],"searchTier":"longtail","naverKeywords":["감자 꿈","감자 꿈 해몽"],"googleKeywords":["potato dream meaning"]},
-    {"id":"food-sweet-potato","korean":"고구마 꿈","english":"Dream of sweet potatoes","slug":"sweet-potato-dream","koreanSlug":"goguma-kkum","category":"food","subcategory":"vegetable","subcategoryKorean":"채소","related":["food-general"],"searchTier":"longtail","naverKeywords":["고구마 꿈","고구마 꿈 해몽"],"googleKeywords":["sweet potato dream meaning"]},
-    {"id":"food-water-drinking","korean":"물 마시는 꿈","english":"Dream of drinking water","slug":"drinking-water-food-dream","koreanSlug":"mul-masineun-kkum","category":"food","subcategory":"drink","subcategoryKorean":"음료","related":["water-drinking"],"searchTier":"medium","naverKeywords":["물 마시는 꿈","물 마시는 꿈 해몽"],"googleKeywords":["drinking water dream meaning"]},
-    {"id":"food-juice","korean":"주스 꿈","english":"Dream of juice","slug":"juice-dream","koreanSlug":"juseu-kkum","category":"food","subcategory":"drink","subcategoryKorean":"음료","related":["food-fruit-general"],"searchTier":"longtail","naverKeywords":["주스 꿈","주스 꿈 해몽"],"googleKeywords":["juice dream meaning"]},
-    {"id":"food-wine","korean":"와인 꿈","english":"Dream of wine","slug":"wine-dream","koreanSlug":"wain-kkum","category":"food","subcategory":"drink","subcategoryKorean":"음료","related":["food-alcohol"],"searchTier":"longtail","naverKeywords":["와인 꿈","와인 꿈 해몽"],"googleKeywords":["wine dream meaning"]},
-    {"id":"food-soju","korean":"소주 꿈","english":"Dream of soju","slug":"soju-dream","koreanSlug":"soju-kkum","category":"food","subcategory":"drink","subcategoryKorean":"음료","related":["food-alcohol"],"searchTier":"longtail","naverKeywords":["소주 꿈","소주 꿈 해몽"],"googleKeywords":["soju dream meaning"]},
-    {"id":"food-honey","korean":"꿀 꿈","english":"Dream of honey","slug":"honey-dream","koreanSlug":"kkul-kkum","category":"food","subcategory":"dessert","subcategoryKorean":"디저트","related":["food-general","insect-bee"],"searchTier":"longtail","naverKeywords":["꿀 꿈","꿀 꿈 해몽"],"googleKeywords":["honey dream meaning"]},
-    {"id":"food-salt","korean":"소금 꿈","english":"Dream of salt","slug":"salt-dream","koreanSlug":"sogeum-kkum","category":"food","subcategory":"seasoning","subcategoryKorean":"양념","related":["food-general"],"searchTier":"longtail","naverKeywords":["소금 꿈","소금 꿈 해몽"],"googleKeywords":["salt dream meaning"]},
-    {"id":"food-sugar","korean":"설탕 꿈","english":"Dream of sugar","slug":"sugar-dream","koreanSlug":"seoltang-kkum","category":"food","subcategory":"seasoning","subcategoryKorean":"양념","related":["food-general","food-candy"],"searchTier":"longtail","naverKeywords":["설탕 꿈","설탕 꿈 해몽"],"googleKeywords":["sugar dream meaning"]},
-    {"id":"food-vomit-after","korean":"음식 먹고 토하는 꿈","english":"Dream of vomiting after eating","slug":"vomiting-after-eating-dream","koreanSlug":"eumsik-meokgo-tohaneun-kkum","category":"food","subcategory":"general","subcategoryKorean":"일반","related":["food-rotten","body-vomit"],"searchTier":"longtail","naverKeywords":["음식 먹고 토하는 꿈","음식 토하는 꿈 해몽"],"googleKeywords":["vomiting after eating dream meaning"]},
-    {"id":"food-buffet","korean":"뷔페 꿈","english":"Dream of a buffet","slug":"buffet-dream","koreanSlug":"bwipe-kkum","category":"food","subcategory":"general","subcategoryKorean":"일반","related":["food-feast","food-general"],"searchTier":"longtail","naverKeywords":["뷔페 꿈","뷔페 꿈 해몽"],"googleKeywords":["buffet dream meaning"]},
-    {"id":"food-chocolate","korean":"초콜릿 꿈","english":"Dream of chocolate","slug":"chocolate-dream","koreanSlug":"chokollit-kkum","category":"food","subcategory":"dessert","subcategoryKorean":"디저트","related":["food-candy","food-cake"],"searchTier":"longtail","naverKeywords":["초콜릿 꿈","초콜릿 꿈 해몽"],"googleKeywords":["chocolate dream meaning"]},
-    {"id":"food-ice-cream","korean":"아이스크림 꿈","english":"Dream of ice cream","slug":"ice-cream-dream","koreanSlug":"aiseukeurim-kkum","category":"food","subcategory":"dessert","subcategoryKorean":"디저트","related":["food-candy","food-chocolate"],"searchTier":"longtail","naverKeywords":["아이스크림 꿈","아이스크림 꿈 해몽"],"googleKeywords":["ice cream dream meaning"]},
-    {"id":"food-bread","korean":"빵 꿈","english":"Dream of bread","slug":"bread-dream","koreanSlug":"ppang-kkum","category":"food","subcategory":"staple","subcategoryKorean":"주식","related":["food-rice","food-general"],"searchTier":"medium","naverKeywords":["빵 꿈","빵 꿈 해몽"],"googleKeywords":["bread dream meaning"]},
-    {"id":"food-noodle","korean":"국수 꿈","english":"Dream of noodles","slug":"noodles-dream","koreanSlug":"guksu-kkum","category":"food","subcategory":"korean","subcategoryKorean":"한식","related":["food-ramen","food-general"],"searchTier":"medium","naverKeywords":["국수 꿈","국수 꿈 해몽"],"googleKeywords":["noodles dream meaning"]},
-    {"id":"food-dumpling","korean":"만두 꿈","english":"Dream of dumplings","slug":"dumpling-dream","koreanSlug":"mandu-kkum","category":"food","subcategory":"korean","subcategoryKorean":"한식","related":["food-general","action-cooking"],"searchTier":"longtail","naverKeywords":["만두 꿈","만두 꿈 해몽"],"googleKeywords":["dumpling dream meaning"]},
-    {"id":"food-banana","korean":"바나나 꿈","english":"Dream of a banana","slug":"banana-dream","koreanSlug":"banana-kkum","category":"food","subcategory":"fruit","subcategoryKorean":"과일","related":["food-apple","food-fruit"],"searchTier":"longtail","naverKeywords":["바나나 꿈","바나나 꿈 해몽"],"googleKeywords":["banana dream meaning"]},
-    {"id":"food-grape","korean":"포도 꿈","english":"Dream of grapes","slug":"grape-dream","koreanSlug":"podo-kkum","category":"food","subcategory":"fruit","subcategoryKorean":"과일","related":["food-wine","food-fruit"],"searchTier":"medium","naverKeywords":["포도 꿈","포도 꿈 해몽"],"googleKeywords":["grape dream meaning"]},
-    {"id":"food-strawberry","korean":"딸기 꿈","english":"Dream of strawberries","slug":"strawberry-dream","koreanSlug":"ttalgi-kkum","category":"food","subcategory":"fruit","subcategoryKorean":"과일","related":["food-fruit","food-cherry"],"searchTier":"longtail","naverKeywords":["딸기 꿈","딸기 꿈 해몽"],"googleKeywords":["strawberry dream meaning"]},
-    {"id":"food-watermelon","korean":"수박 꿈","english":"Dream of a watermelon","slug":"watermelon-dream","koreanSlug":"subak-kkum","category":"food","subcategory":"fruit","subcategoryKorean":"과일","related":["food-melon","food-fruit"],"searchTier":"medium","naverKeywords":["수박 꿈","수박 꿈 해몽"],"googleKeywords":["watermelon dream meaning"]},
-    {"id":"food-mushroom","korean":"버섯 꿈","english":"Dream of mushrooms","slug":"mushroom-dream","koreanSlug":"beoseot-kkum","category":"food","subcategory":"vegetable","subcategoryKorean":"채소","related":["food-vegetable","nature-forest"],"searchTier":"medium","naverKeywords":["버섯 꿈","버섯 꿈 해몽"],"googleKeywords":["mushroom dream meaning"]},
-    {"id":"food-garlic","korean":"마늘 꿈","english":"Dream of garlic","slug":"garlic-dream","koreanSlug":"maneul-kkum","category":"food","subcategory":"vegetable","subcategoryKorean":"채소","related":["food-vegetable","food-general"],"searchTier":"longtail","naverKeywords":["마늘 꿈","마늘 꿈 해몽"],"googleKeywords":["garlic dream meaning"]},
-    {"id":"food-kimchi","korean":"김치 꿈","english":"Dream of kimchi","slug":"kimchi-dream","koreanSlug":"gimchi-kkum","category":"food","subcategory":"korean","subcategoryKorean":"한식","related":["food-general","action-cooking"],"searchTier":"medium","naverKeywords":["김치 꿈","김치 꿈 해몽"],"googleKeywords":["kimchi dream meaning"]},
-    {"id":"food-tteok","korean":"떡 꿈","english":"Dream of rice cake","slug":"rice-cake-dream","koreanSlug":"tteok-kkum","category":"food","subcategory":"korean","subcategoryKorean":"한식","related":["food-rice","food-general"],"searchTier":"high","naverKeywords":["떡 꿈","떡 꿈 해몽"],"googleKeywords":["rice cake dream meaning"]},
-    {"id":"food-spoiled","korean":"상한 음식 꿈","english":"Dream of spoiled food","slug":"spoiled-food-dream","koreanSlug":"sanghan-eumsik-kkum","category":"food","subcategory":"general","subcategoryKorean":"일반","related":["food-rotten","food-vomit-after"],"searchTier":"longtail","naverKeywords":["상한 음식 꿈","상한 음식 꿈 해몽"],"googleKeywords":["spoiled food dream meaning"]}
+    {
+      "id": "food-general",
+      "korean": "음식 꿈",
+      "english": "Dream of food",
+      "slug": "food-dream",
+      "koreanSlug": "eumsik-kkum",
+      "category": "food",
+      "subcategory": "general",
+      "subcategoryKorean": "일반",
+      "related": [
+        "food-rice",
+        "food-meat",
+        "action-eating"
+      ],
+      "searchTier": "high",
+      "naverKeywords": [
+        "음식 꿈",
+        "음식 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "food dream meaning"
+      ]
+    },
+    {
+      "id": "food-rice",
+      "korean": "밥 꿈",
+      "english": "Dream of rice",
+      "slug": "rice-dream",
+      "koreanSlug": "bap-kkum",
+      "category": "food",
+      "subcategory": "grain",
+      "subcategoryKorean": "곡물",
+      "related": [
+        "food-general"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "밥 꿈",
+        "밥 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "rice dream meaning"
+      ]
+    },
+    {
+      "id": "food-meat",
+      "korean": "고기 꿈",
+      "english": "Dream of meat",
+      "slug": "meat-dream",
+      "koreanSlug": "gogi-kkum",
+      "category": "food",
+      "subcategory": "meat",
+      "subcategoryKorean": "고기",
+      "related": [
+        "food-general"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "고기 꿈",
+        "고기 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "meat dream meaning"
+      ]
+    },
+    {
+      "id": "food-fruit-general",
+      "korean": "과일 꿈",
+      "english": "Dream of fruit",
+      "slug": "fruit-dream",
+      "koreanSlug": "gwail-kkum",
+      "category": "food",
+      "subcategory": "fruit",
+      "subcategoryKorean": "과일",
+      "related": [
+        "food-apple",
+        "food-peach",
+        "food-grape"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "과일 꿈",
+        "과일 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "fruit dream meaning"
+      ]
+    },
+    {
+      "id": "food-apple",
+      "korean": "사과 꿈",
+      "english": "Dream of apples",
+      "slug": "apple-dream",
+      "koreanSlug": "sagwa-kkum",
+      "category": "food",
+      "subcategory": "fruit",
+      "subcategoryKorean": "과일",
+      "related": [
+        "food-fruit-general"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "사과 꿈",
+        "사과 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "apple dream meaning"
+      ]
+    },
+    {
+      "id": "food-peach",
+      "korean": "복숭아 꿈",
+      "english": "Dream of peaches",
+      "slug": "peach-dream",
+      "koreanSlug": "boksungah-kkum",
+      "category": "food",
+      "subcategory": "fruit",
+      "subcategoryKorean": "과일",
+      "related": [
+        "food-fruit-general",
+        "pregnancy-peach"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "복숭아 꿈",
+        "복숭아 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "peach dream meaning"
+      ]
+    },
+    {
+      "id": "food-grape",
+      "korean": "포도 꿈",
+      "english": "Dream of grapes",
+      "slug": "grape-dream",
+      "koreanSlug": "podo-kkum",
+      "category": "food",
+      "subcategory": "fruit",
+      "subcategoryKorean": "과일",
+      "related": [
+        "food-fruit-general"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "포도 꿈",
+        "포도 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "grape dream meaning"
+      ]
+    },
+    {
+      "id": "food-watermelon",
+      "korean": "수박 꿈",
+      "english": "Dream of watermelon",
+      "slug": "watermelon-dream",
+      "koreanSlug": "subak-kkum",
+      "category": "food",
+      "subcategory": "fruit",
+      "subcategoryKorean": "과일",
+      "related": [
+        "food-fruit-general"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "수박 꿈",
+        "수박 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "watermelon dream meaning"
+      ]
+    },
+    {
+      "id": "food-persimmon",
+      "korean": "감 꿈",
+      "english": "Dream of persimmons",
+      "slug": "persimmon-dream",
+      "koreanSlug": "gam-kkum",
+      "category": "food",
+      "subcategory": "fruit",
+      "subcategoryKorean": "과일",
+      "related": [
+        "food-fruit-general"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "감 꿈",
+        "감 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "persimmon dream meaning"
+      ]
+    },
+    {
+      "id": "food-strawberry",
+      "korean": "딸기 꿈",
+      "english": "Dream of strawberries",
+      "slug": "strawberry-dream",
+      "koreanSlug": "ttalgi-kkum",
+      "category": "food",
+      "subcategory": "fruit",
+      "subcategoryKorean": "과일",
+      "related": [
+        "food-fruit-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "딸기 꿈",
+        "딸기 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "strawberry dream meaning"
+      ]
+    },
+    {
+      "id": "food-banana",
+      "korean": "바나나 꿈",
+      "english": "Dream of bananas",
+      "slug": "banana-dream",
+      "koreanSlug": "banana-kkum",
+      "category": "food",
+      "subcategory": "fruit",
+      "subcategoryKorean": "과일",
+      "related": [
+        "food-fruit-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "바나나 꿈",
+        "바나나 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "banana dream meaning"
+      ]
+    },
+    {
+      "id": "food-chestnut",
+      "korean": "밤 꿈",
+      "english": "Dream of chestnuts",
+      "slug": "chestnut-dream",
+      "koreanSlug": "bam-kkum",
+      "category": "food",
+      "subcategory": "nut",
+      "subcategoryKorean": "견과류",
+      "related": [
+        "food-fruit-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "밤 꿈",
+        "밤 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "chestnut dream meaning"
+      ]
+    },
+    {
+      "id": "food-pepper",
+      "korean": "고추 꿈",
+      "english": "Dream of peppers",
+      "slug": "pepper-dream",
+      "koreanSlug": "gochu-kkum",
+      "category": "food",
+      "subcategory": "vegetable",
+      "subcategoryKorean": "채소",
+      "related": [
+        "pregnancy-pepper"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "고추 꿈",
+        "고추 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "pepper dream meaning"
+      ]
+    },
+    {
+      "id": "food-garlic",
+      "korean": "마늘 꿈",
+      "english": "Dream of garlic",
+      "slug": "garlic-dream",
+      "koreanSlug": "maneul-kkum",
+      "category": "food",
+      "subcategory": "vegetable",
+      "subcategoryKorean": "채소",
+      "related": [
+        "food-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "마늘 꿈",
+        "마늘 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "garlic dream meaning"
+      ]
+    },
+    {
+      "id": "food-kimchi",
+      "korean": "김치 꿈",
+      "english": "Dream of kimchi",
+      "slug": "kimchi-dream",
+      "koreanSlug": "gimchi-kkum",
+      "category": "food",
+      "subcategory": "korean-food",
+      "subcategoryKorean": "한식",
+      "related": [
+        "food-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "김치 꿈",
+        "김치 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "kimchi dream meaning"
+      ]
+    },
+    {
+      "id": "food-tteok",
+      "korean": "떡 꿈",
+      "english": "Dream of rice cake (tteok)",
+      "slug": "rice-cake-dream",
+      "koreanSlug": "tteok-kkum",
+      "category": "food",
+      "subcategory": "korean-food",
+      "subcategoryKorean": "한식",
+      "related": [
+        "food-general",
+        "food-rice"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "떡 꿈",
+        "떡 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "rice cake dream meaning",
+        "tteok dream meaning"
+      ]
+    },
+    {
+      "id": "food-noodle",
+      "korean": "국수 꿈",
+      "english": "Dream of noodles",
+      "slug": "noodle-dream",
+      "koreanSlug": "guksu-kkum",
+      "category": "food",
+      "subcategory": "korean-food",
+      "subcategoryKorean": "한식",
+      "related": [
+        "food-general",
+        "marriage-general"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "국수 꿈",
+        "국수 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "noodle dream meaning"
+      ]
+    },
+    {
+      "id": "food-cake",
+      "korean": "케이크 꿈",
+      "english": "Dream of cake",
+      "slug": "cake-dream",
+      "koreanSlug": "keikeu-kkum",
+      "category": "food",
+      "subcategory": "dessert",
+      "subcategoryKorean": "디저트",
+      "related": [
+        "food-general"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "케이크 꿈",
+        "케이크 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "cake dream meaning"
+      ]
+    },
+    {
+      "id": "food-bread",
+      "korean": "빵 꿈",
+      "english": "Dream of bread",
+      "slug": "bread-dream",
+      "koreanSlug": "ppang-kkum",
+      "category": "food",
+      "subcategory": "grain",
+      "subcategoryKorean": "곡물",
+      "related": [
+        "food-general"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "빵 꿈",
+        "빵 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "bread dream meaning"
+      ]
+    },
+    {
+      "id": "food-candy",
+      "korean": "사탕 꿈",
+      "english": "Dream of candy",
+      "slug": "candy-dream",
+      "koreanSlug": "satang-kkum",
+      "category": "food",
+      "subcategory": "dessert",
+      "subcategoryKorean": "디저트",
+      "related": [
+        "food-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "사탕 꿈",
+        "사탕 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "candy dream meaning"
+      ]
+    },
+    {
+      "id": "food-alcohol",
+      "korean": "술 꿈",
+      "english": "Dream of alcohol",
+      "slug": "alcohol-dream",
+      "koreanSlug": "sul-kkum",
+      "category": "food",
+      "subcategory": "drink",
+      "subcategoryKorean": "음료",
+      "related": [
+        "food-drunk",
+        "food-general"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "술 꿈",
+        "술 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "alcohol dream meaning"
+      ]
+    },
+    {
+      "id": "food-drunk",
+      "korean": "술에 취하는 꿈",
+      "english": "Dream of being drunk",
+      "slug": "being-drunk-dream",
+      "koreanSlug": "sul-chwihaneun-kkum",
+      "category": "food",
+      "subcategory": "drink",
+      "subcategoryKorean": "음료",
+      "related": [
+        "food-alcohol"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "술에 취하는 꿈",
+        "취하는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "being drunk dream meaning"
+      ]
+    },
+    {
+      "id": "food-coffee",
+      "korean": "커피 꿈",
+      "english": "Dream of coffee",
+      "slug": "coffee-dream",
+      "koreanSlug": "keopi-kkum",
+      "category": "food",
+      "subcategory": "drink",
+      "subcategoryKorean": "음료",
+      "related": [
+        "food-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "커피 꿈",
+        "커피 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "coffee dream meaning"
+      ]
+    },
+    {
+      "id": "food-tea",
+      "korean": "차 꿈",
+      "english": "Dream of tea",
+      "slug": "tea-dream",
+      "koreanSlug": "cha-kkum",
+      "category": "food",
+      "subcategory": "drink",
+      "subcategoryKorean": "음료",
+      "related": [
+        "food-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "차 꿈",
+        "차 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "tea dream meaning"
+      ]
+    },
+    {
+      "id": "food-milk",
+      "korean": "우유 꿈",
+      "english": "Dream of milk",
+      "slug": "milk-dream",
+      "koreanSlug": "uyu-kkum",
+      "category": "food",
+      "subcategory": "drink",
+      "subcategoryKorean": "음료",
+      "related": [
+        "food-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "우유 꿈",
+        "우유 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "milk dream meaning"
+      ]
+    },
+    {
+      "id": "food-rotten",
+      "korean": "상한 음식 꿈",
+      "english": "Dream of rotten food",
+      "slug": "rotten-food-dream",
+      "koreanSlug": "sanghan-eumsik-kkum",
+      "category": "food",
+      "subcategory": "general",
+      "subcategoryKorean": "일반",
+      "related": [
+        "food-general",
+        "vomit-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "상한 음식 꿈",
+        "상한 음식 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "rotten food dream meaning"
+      ]
+    },
+    {
+      "id": "food-feast",
+      "korean": "잔치 꿈",
+      "english": "Dream of a feast",
+      "slug": "feast-dream",
+      "koreanSlug": "janchi-kkum",
+      "category": "food",
+      "subcategory": "general",
+      "subcategoryKorean": "일반",
+      "related": [
+        "food-general",
+        "action-eating"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "잔치 꿈",
+        "잔치 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "feast dream meaning"
+      ]
+    },
+    {
+      "id": "food-jujube",
+      "korean": "대추 꿈",
+      "english": "Dream of jujubes",
+      "slug": "jujube-dream",
+      "koreanSlug": "daechu-kkum",
+      "category": "food",
+      "subcategory": "fruit",
+      "subcategoryKorean": "과일",
+      "related": [
+        "food-fruit-general",
+        "pregnancy-jujube"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "대추 꿈",
+        "대추 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "jujube dream meaning"
+      ]
+    },
+    {
+      "id": "food-tofu",
+      "korean": "두부 꿈",
+      "english": "Dream of tofu",
+      "slug": "tofu-dream",
+      "koreanSlug": "dubu-kkum",
+      "category": "food",
+      "subcategory": "korean-food",
+      "subcategoryKorean": "한식",
+      "related": [
+        "food-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "두부 꿈",
+        "두부 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "tofu dream meaning"
+      ]
+    },
+    {
+      "id": "food-ice-cream",
+      "korean": "아이스크림 꿈",
+      "english": "Dream of ice cream",
+      "slug": "ice-cream-dream",
+      "koreanSlug": "aiseukeurim-kkum",
+      "category": "food",
+      "subcategory": "dessert",
+      "subcategoryKorean": "디저트",
+      "related": [
+        "food-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "아이스크림 꿈",
+        "아이스크림 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "ice cream dream meaning"
+      ]
+    },
+    {
+      "id": "food-fish-eat",
+      "korean": "생선 먹는 꿈",
+      "english": "Dream of eating fish",
+      "slug": "eating-fish-dream",
+      "koreanSlug": "saengseon-meongneun-kkum",
+      "category": "food",
+      "subcategory": "meat",
+      "subcategoryKorean": "고기",
+      "related": [
+        "fish-general",
+        "food-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "생선 먹는 꿈",
+        "생선 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "eating fish dream meaning"
+      ]
+    },
+    {
+      "id": "food-chocolate",
+      "korean": "초콜릿 꿈",
+      "english": "Dream of chocolate",
+      "slug": "chocolate-dream",
+      "koreanSlug": "chokollit-kkum",
+      "category": "food",
+      "subcategory": "dessert",
+      "subcategoryKorean": "디저트",
+      "related": [
+        "food-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "초콜릿 꿈",
+        "초콜릿 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "chocolate dream meaning"
+      ]
+    },
+    {
+      "id": "food-pear",
+      "korean": "배 꿈 (과일)",
+      "english": "Dream of pears",
+      "slug": "pear-dream",
+      "koreanSlug": "bae-kkum",
+      "category": "food",
+      "subcategory": "fruit",
+      "subcategoryKorean": "과일",
+      "related": [
+        "food-fruit-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "배 꿈",
+        "배 과일 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "pear dream meaning"
+      ]
+    },
+    {
+      "id": "food-egg",
+      "korean": "달걀 꿈",
+      "english": "Dream of eggs",
+      "slug": "egg-dream",
+      "koreanSlug": "dalgyal-kkum",
+      "category": "food",
+      "subcategory": "protein",
+      "subcategoryKorean": "단백질",
+      "related": [
+        "food-general",
+        "pregnancy-egg"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "달걀 꿈",
+        "계란 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "egg dream meaning"
+      ]
+    },
+    {
+      "id": "food-cooking",
+      "korean": "요리하는 꿈",
+      "english": "Dream of cooking",
+      "slug": "cooking-dream",
+      "koreanSlug": "yori-haneun-kkum",
+      "category": "food",
+      "subcategory": "general",
+      "subcategoryKorean": "일반",
+      "related": [
+        "food-general",
+        "action-cooking"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "요리하는 꿈",
+        "요리 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "cooking dream meaning"
+      ]
+    },
+    {
+      "id": "food-bibimbap",
+      "korean": "비빔밥 꿈",
+      "english": "Dream of bibimbap",
+      "slug": "bibimbap-dream",
+      "koreanSlug": "bibimbap-kkum",
+      "category": "food",
+      "subcategory": "korean-food",
+      "subcategoryKorean": "한식",
+      "related": [
+        "food-rice",
+        "food-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "비빔밥 꿈",
+        "비빔밥 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "bibimbap dream meaning"
+      ]
+    },
+    {
+      "id": "food-samgyeopsal",
+      "korean": "삼겹살 꿈",
+      "english": "Dream of samgyeopsal (pork belly)",
+      "slug": "samgyeopsal-dream",
+      "koreanSlug": "samgyeopsal-kkum",
+      "category": "food",
+      "subcategory": "meat",
+      "subcategoryKorean": "고기",
+      "related": [
+        "food-meat"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "삼겹살 꿈",
+        "삼겹살 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "Korean BBQ dream meaning",
+        "pork belly dream"
+      ]
+    },
+    {
+      "id": "food-chicken",
+      "korean": "치킨 꿈",
+      "english": "Dream of fried chicken",
+      "slug": "fried-chicken-dream",
+      "koreanSlug": "chikin-kkum",
+      "category": "food",
+      "subcategory": "meat",
+      "subcategoryKorean": "고기",
+      "related": [
+        "food-meat"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "치킨 꿈",
+        "치킨 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "fried chicken dream meaning"
+      ]
+    },
+    {
+      "id": "food-ramen",
+      "korean": "라면 꿈",
+      "english": "Dream of ramen",
+      "slug": "ramen-dream",
+      "koreanSlug": "ramyeon-kkum",
+      "category": "food",
+      "subcategory": "korean-food",
+      "subcategoryKorean": "한식",
+      "related": [
+        "food-noodle",
+        "food-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "라면 꿈",
+        "라면 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "ramen dream meaning"
+      ]
+    },
+    {
+      "id": "food-soup",
+      "korean": "국/찌개 꿈",
+      "english": "Dream of soup/stew",
+      "slug": "soup-dream",
+      "koreanSlug": "guk-kkum",
+      "category": "food",
+      "subcategory": "korean-food",
+      "subcategoryKorean": "한식",
+      "related": [
+        "food-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "국 꿈",
+        "찌개 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "soup dream meaning"
+      ]
+    },
+    {
+      "id": "food-pizza",
+      "korean": "피자 꿈",
+      "english": "Dream of pizza",
+      "slug": "pizza-dream",
+      "koreanSlug": "pija-kkum",
+      "category": "food",
+      "subcategory": "western",
+      "subcategoryKorean": "양식",
+      "related": [
+        "food-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "피자 꿈",
+        "피자 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "pizza dream meaning"
+      ]
+    },
+    {
+      "id": "food-sushi",
+      "korean": "초밥 꿈",
+      "english": "Dream of sushi",
+      "slug": "sushi-dream",
+      "koreanSlug": "chobap-kkum",
+      "category": "food",
+      "subcategory": "japanese",
+      "subcategoryKorean": "일식",
+      "related": [
+        "food-fish-eat"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "초밥 꿈",
+        "초밥 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "sushi dream meaning"
+      ]
+    },
+    {
+      "id": "food-orange",
+      "korean": "오렌지 꿈",
+      "english": "Dream of oranges",
+      "slug": "orange-dream",
+      "koreanSlug": "orenji-kkum",
+      "category": "food",
+      "subcategory": "fruit",
+      "subcategoryKorean": "과일",
+      "related": [
+        "food-fruit-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "오렌지 꿈",
+        "오렌지 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "orange dream meaning"
+      ]
+    },
+    {
+      "id": "food-tangerine",
+      "korean": "귤 꿈",
+      "english": "Dream of tangerines",
+      "slug": "tangerine-dream",
+      "koreanSlug": "gyul-kkum",
+      "category": "food",
+      "subcategory": "fruit",
+      "subcategoryKorean": "과일",
+      "related": [
+        "food-fruit-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "귤 꿈",
+        "귤 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "tangerine dream meaning"
+      ]
+    },
+    {
+      "id": "food-plum",
+      "korean": "자두 꿈",
+      "english": "Dream of plums",
+      "slug": "plum-dream",
+      "koreanSlug": "jadu-kkum",
+      "category": "food",
+      "subcategory": "fruit",
+      "subcategoryKorean": "과일",
+      "related": [
+        "food-fruit-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "자두 꿈",
+        "자두 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "plum dream meaning"
+      ]
+    },
+    {
+      "id": "food-cherry",
+      "korean": "체리 꿈",
+      "english": "Dream of cherries",
+      "slug": "cherry-dream",
+      "koreanSlug": "cheri-kkum",
+      "category": "food",
+      "subcategory": "fruit",
+      "subcategoryKorean": "과일",
+      "related": [
+        "food-fruit-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "체리 꿈",
+        "체리 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "cherry dream meaning"
+      ]
+    },
+    {
+      "id": "food-melon",
+      "korean": "참외/멜론 꿈",
+      "english": "Dream of melon",
+      "slug": "melon-dream",
+      "koreanSlug": "chamoe-kkum",
+      "category": "food",
+      "subcategory": "fruit",
+      "subcategoryKorean": "과일",
+      "related": [
+        "food-fruit-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "참외 꿈",
+        "멜론 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "melon dream meaning"
+      ]
+    },
+    {
+      "id": "food-walnut",
+      "korean": "호두 꿈",
+      "english": "Dream of walnuts",
+      "slug": "walnut-dream",
+      "koreanSlug": "hodu-kkum",
+      "category": "food",
+      "subcategory": "nut",
+      "subcategoryKorean": "견과류",
+      "related": [
+        "food-chestnut"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "호두 꿈",
+        "호두 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "walnut dream meaning"
+      ]
+    },
+    {
+      "id": "food-peanut",
+      "korean": "땅콩 꿈",
+      "english": "Dream of peanuts",
+      "slug": "peanut-dream",
+      "koreanSlug": "ttangkong-kkum",
+      "category": "food",
+      "subcategory": "nut",
+      "subcategoryKorean": "견과류",
+      "related": [
+        "food-chestnut"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "땅콩 꿈",
+        "땅콩 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "peanut dream meaning"
+      ]
+    },
+    {
+      "id": "food-vegetable",
+      "korean": "채소 꿈",
+      "english": "Dream of vegetables",
+      "slug": "vegetable-dream",
+      "koreanSlug": "chaeso-kkum",
+      "category": "food",
+      "subcategory": "vegetable",
+      "subcategoryKorean": "채소",
+      "related": [
+        "food-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "채소 꿈",
+        "야채 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "vegetable dream meaning"
+      ]
+    },
+    {
+      "id": "food-corn",
+      "korean": "옥수수 꿈",
+      "english": "Dream of corn",
+      "slug": "corn-dream",
+      "koreanSlug": "oksusu-kkum",
+      "category": "food",
+      "subcategory": "grain",
+      "subcategoryKorean": "곡물",
+      "related": [
+        "food-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "옥수수 꿈",
+        "옥수수 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "corn dream meaning"
+      ]
+    },
+    {
+      "id": "food-potato",
+      "korean": "감자 꿈",
+      "english": "Dream of potatoes",
+      "slug": "potato-dream",
+      "koreanSlug": "gamja-kkum",
+      "category": "food",
+      "subcategory": "vegetable",
+      "subcategoryKorean": "채소",
+      "related": [
+        "food-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "감자 꿈",
+        "감자 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "potato dream meaning"
+      ]
+    },
+    {
+      "id": "food-sweet-potato",
+      "korean": "고구마 꿈",
+      "english": "Dream of sweet potatoes",
+      "slug": "sweet-potato-dream",
+      "koreanSlug": "goguma-kkum",
+      "category": "food",
+      "subcategory": "vegetable",
+      "subcategoryKorean": "채소",
+      "related": [
+        "food-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "고구마 꿈",
+        "고구마 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "sweet potato dream meaning"
+      ]
+    },
+    {
+      "id": "food-water-drinking",
+      "korean": "물 마시는 꿈",
+      "english": "Dream of drinking water",
+      "slug": "drinking-water-food-dream",
+      "koreanSlug": "mul-masineun-kkum",
+      "category": "food",
+      "subcategory": "drink",
+      "subcategoryKorean": "음료",
+      "related": [
+        "water-drinking"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "물 마시는 꿈",
+        "물 마시는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "drinking water dream meaning"
+      ]
+    },
+    {
+      "id": "food-juice",
+      "korean": "주스 꿈",
+      "english": "Dream of juice",
+      "slug": "juice-dream",
+      "koreanSlug": "juseu-kkum",
+      "category": "food",
+      "subcategory": "drink",
+      "subcategoryKorean": "음료",
+      "related": [
+        "food-fruit-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "주스 꿈",
+        "주스 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "juice dream meaning"
+      ]
+    },
+    {
+      "id": "food-wine",
+      "korean": "와인 꿈",
+      "english": "Dream of wine",
+      "slug": "wine-dream",
+      "koreanSlug": "wain-kkum",
+      "category": "food",
+      "subcategory": "drink",
+      "subcategoryKorean": "음료",
+      "related": [
+        "food-alcohol"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "와인 꿈",
+        "와인 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "wine dream meaning"
+      ]
+    },
+    {
+      "id": "food-soju",
+      "korean": "소주 꿈",
+      "english": "Dream of soju",
+      "slug": "soju-dream",
+      "koreanSlug": "soju-kkum",
+      "category": "food",
+      "subcategory": "drink",
+      "subcategoryKorean": "음료",
+      "related": [
+        "food-alcohol"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "소주 꿈",
+        "소주 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "soju dream meaning"
+      ]
+    },
+    {
+      "id": "food-honey",
+      "korean": "꿀 꿈",
+      "english": "Dream of honey",
+      "slug": "honey-dream",
+      "koreanSlug": "kkul-kkum",
+      "category": "food",
+      "subcategory": "dessert",
+      "subcategoryKorean": "디저트",
+      "related": [
+        "food-general",
+        "insect-bee"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "꿀 꿈",
+        "꿀 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "honey dream meaning"
+      ]
+    },
+    {
+      "id": "food-salt",
+      "korean": "소금 꿈",
+      "english": "Dream of salt",
+      "slug": "salt-dream",
+      "koreanSlug": "sogeum-kkum",
+      "category": "food",
+      "subcategory": "seasoning",
+      "subcategoryKorean": "양념",
+      "related": [
+        "food-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "소금 꿈",
+        "소금 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "salt dream meaning"
+      ]
+    },
+    {
+      "id": "food-sugar",
+      "korean": "설탕 꿈",
+      "english": "Dream of sugar",
+      "slug": "sugar-dream",
+      "koreanSlug": "seoltang-kkum",
+      "category": "food",
+      "subcategory": "seasoning",
+      "subcategoryKorean": "양념",
+      "related": [
+        "food-general",
+        "food-candy"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "설탕 꿈",
+        "설탕 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "sugar dream meaning"
+      ]
+    },
+    {
+      "id": "food-vomit-after",
+      "korean": "음식 먹고 토하는 꿈",
+      "english": "Dream of vomiting after eating",
+      "slug": "vomiting-after-eating-dream",
+      "koreanSlug": "eumsik-meokgo-tohaneun-kkum",
+      "category": "food",
+      "subcategory": "general",
+      "subcategoryKorean": "일반",
+      "related": [
+        "food-rotten",
+        "body-vomit"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "음식 먹고 토하는 꿈",
+        "음식 토하는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "vomiting after eating dream meaning"
+      ]
+    },
+    {
+      "id": "food-buffet",
+      "korean": "뷔페 꿈",
+      "english": "Dream of a buffet",
+      "slug": "buffet-dream",
+      "koreanSlug": "bwipe-kkum",
+      "category": "food",
+      "subcategory": "general",
+      "subcategoryKorean": "일반",
+      "related": [
+        "food-feast",
+        "food-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "뷔페 꿈",
+        "뷔페 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "buffet dream meaning"
+      ]
+    },
+    {
+      "id": "food-noodle",
+      "korean": "국수 꿈",
+      "english": "Dream of noodles",
+      "slug": "noodles-dream",
+      "koreanSlug": "guksu-kkum",
+      "category": "food",
+      "subcategory": "korean",
+      "subcategoryKorean": "한식",
+      "related": [
+        "food-ramen",
+        "food-general"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "국수 꿈",
+        "국수 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "noodles dream meaning"
+      ]
+    },
+    {
+      "id": "food-dumpling",
+      "korean": "만두 꿈",
+      "english": "Dream of dumplings",
+      "slug": "dumpling-dream",
+      "koreanSlug": "mandu-kkum",
+      "category": "food",
+      "subcategory": "korean",
+      "subcategoryKorean": "한식",
+      "related": [
+        "food-general",
+        "action-cooking"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "만두 꿈",
+        "만두 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "dumpling dream meaning"
+      ]
+    },
+    {
+      "id": "food-mushroom",
+      "korean": "버섯 꿈",
+      "english": "Dream of mushrooms",
+      "slug": "mushroom-dream",
+      "koreanSlug": "beoseot-kkum",
+      "category": "food",
+      "subcategory": "vegetable",
+      "subcategoryKorean": "채소",
+      "related": [
+        "food-vegetable",
+        "nature-forest"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "버섯 꿈",
+        "버섯 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "mushroom dream meaning"
+      ]
+    },
+    {
+      "id": "food-spoiled",
+      "korean": "상한 음식 꿈",
+      "english": "Dream of spoiled food",
+      "slug": "spoiled-food-dream",
+      "koreanSlug": "sanghan-eumsik-kkum",
+      "category": "food",
+      "subcategory": "general",
+      "subcategoryKorean": "일반",
+      "related": [
+        "food-rotten",
+        "food-vomit-after"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "상한 음식 꿈",
+        "상한 음식 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "spoiled food dream meaning"
+      ]
+    }
   ]
 }

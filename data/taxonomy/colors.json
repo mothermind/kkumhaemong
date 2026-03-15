@@ -3,46 +3,879 @@
   "korean": "색깔/색상",
   "english": "Colors",
   "symbols": [
-    {"id":"color-red","korean":"빨간색 꿈","english":"Dream of red color","slug":"red-color-dream","koreanSlug":"ppalgansaek-kkum","category":"colors","subcategory":"warm","subcategoryKorean":"난색","related":["color-orange","blood-general"],"searchTier":"medium","naverKeywords":["빨간색 꿈","빨간색 꿈 해몽"],"googleKeywords":["red color dream meaning"]},
-    {"id":"color-blue","korean":"파란색 꿈","english":"Dream of blue color","slug":"blue-color-dream","koreanSlug":"paransaek-kkum","category":"colors","subcategory":"cool","subcategoryKorean":"냉색","related":["water-general","nature-sky"],"searchTier":"medium","naverKeywords":["파란색 꿈","파란색 꿈 해몽"],"googleKeywords":["blue color dream meaning"]},
-    {"id":"color-green","korean":"초록색 꿈","english":"Dream of green color","slug":"green-color-dream","koreanSlug":"choroksaek-kkum","category":"colors","subcategory":"cool","subcategoryKorean":"냉색","related":["plant-tree-general","nature-forest"],"searchTier":"medium","naverKeywords":["초록색 꿈","초록색 꿈 해몽"],"googleKeywords":["green color dream meaning"]},
-    {"id":"color-yellow","korean":"노란색 꿈","english":"Dream of yellow color","slug":"yellow-color-dream","koreanSlug":"noransaek-kkum","category":"colors","subcategory":"warm","subcategoryKorean":"난색","related":["money-gold","celestial-sun"],"searchTier":"medium","naverKeywords":["노란색 꿈","노란색 꿈 해몽"],"googleKeywords":["yellow color dream meaning"]},
-    {"id":"color-white","korean":"흰색 꿈","english":"Dream of white color","slug":"white-color-dream","koreanSlug":"huinsaek-kkum","category":"colors","subcategory":"neutral","subcategoryKorean":"무채색","related":["color-black","clothing-white"],"searchTier":"medium","naverKeywords":["흰색 꿈","흰색 꿈 해몽"],"googleKeywords":["white color dream meaning"]},
-    {"id":"color-black","korean":"검은색 꿈","english":"Dream of black color","slug":"black-color-dream","koreanSlug":"geomeunsaek-kkum","category":"colors","subcategory":"neutral","subcategoryKorean":"무채색","related":["color-white","clothing-black"],"searchTier":"medium","naverKeywords":["검은색 꿈","검은색 꿈 해몽"],"googleKeywords":["black color dream meaning"]},
-    {"id":"color-gold","korean":"금색 꿈","english":"Dream of gold color","slug":"gold-color-dream","koreanSlug":"geumsaek-kkum","category":"colors","subcategory":"metallic","subcategoryKorean":"금속","related":["money-gold","color-yellow"],"searchTier":"medium","naverKeywords":["금색 꿈","금색 꿈 해몽","황금색 꿈"],"googleKeywords":["gold color dream meaning"]},
-    {"id":"color-silver","korean":"은색 꿈","english":"Dream of silver color","slug":"silver-color-dream","koreanSlug":"eunsaek-kkum","category":"colors","subcategory":"metallic","subcategoryKorean":"금속","related":["color-white","color-gold"],"searchTier":"longtail","naverKeywords":["은색 꿈","은색 꿈 해몽"],"googleKeywords":["silver color dream meaning"]},
-    {"id":"color-purple","korean":"보라색 꿈","english":"Dream of purple color","slug":"purple-color-dream","koreanSlug":"borasaek-kkum","category":"colors","subcategory":"cool","subcategoryKorean":"냉색","related":["color-blue","color-red"],"searchTier":"longtail","naverKeywords":["보라색 꿈","보라색 꿈 해몽"],"googleKeywords":["purple color dream meaning"]},
-    {"id":"color-orange","korean":"주황색 꿈","english":"Dream of orange color","slug":"orange-color-dream","koreanSlug":"juhwangsaek-kkum","category":"colors","subcategory":"warm","subcategoryKorean":"난색","related":["color-red","color-yellow"],"searchTier":"longtail","naverKeywords":["주황색 꿈","주황색 꿈 해몽"],"googleKeywords":["orange color dream meaning"]},
-    {"id":"color-pink","korean":"분홍색 꿈","english":"Dream of pink color","slug":"pink-color-dream","koreanSlug":"bunhongsaek-kkum","category":"colors","subcategory":"warm","subcategoryKorean":"난색","related":["color-red","plant-cherry-blossom"],"searchTier":"longtail","naverKeywords":["분홍색 꿈","핑크색 꿈 해몽"],"googleKeywords":["pink color dream meaning"]},
-    {"id":"color-brown","korean":"갈색 꿈","english":"Dream of brown color","slug":"brown-color-dream","koreanSlug":"galsaek-kkum","category":"colors","subcategory":"neutral","subcategoryKorean":"무채색","related":["nature-earth"],"searchTier":"longtail","naverKeywords":["갈색 꿈","갈색 꿈 해몽"],"googleKeywords":["brown color dream meaning"]},
-    {"id":"color-gray","korean":"회색 꿈","english":"Dream of gray color","slug":"gray-color-dream","koreanSlug":"hoesaek-kkum","category":"colors","subcategory":"neutral","subcategoryKorean":"무채색","related":["color-black","color-white"],"searchTier":"longtail","naverKeywords":["회색 꿈","회색 꿈 해몽"],"googleKeywords":["gray color dream meaning"]},
-    {"id":"color-rainbow","korean":"무지개색 꿈","english":"Dream of rainbow colors","slug":"rainbow-colors-dream","koreanSlug":"mujigaesaek-kkum","category":"colors","subcategory":"multi","subcategoryKorean":"다색","related":["weather-rainbow"],"searchTier":"longtail","naverKeywords":["무지개색 꿈","무지개색 꿈 해몽"],"googleKeywords":["rainbow colors dream meaning"]},
-    {"id":"color-colorful","korean":"알록달록한 꿈","english":"Dream of colorful scenes","slug":"colorful-dream","koreanSlug":"alrokdalrokhan-kkum","category":"colors","subcategory":"multi","subcategoryKorean":"다색","related":["color-rainbow"],"searchTier":"longtail","naverKeywords":["알록달록한 꿈","화려한 색 꿈 해몽"],"googleKeywords":["colorful dream meaning"]},
-    {"id":"color-dark","korean":"어두운 꿈","english":"Dream of darkness","slug":"darkness-dream","koreanSlug":"eoduun-kkum","category":"colors","subcategory":"shade","subcategoryKorean":"명암","related":["color-black","emotion-fear"],"searchTier":"medium","naverKeywords":["어두운 꿈","어둠 꿈 해몽"],"googleKeywords":["darkness dream meaning"]},
-    {"id":"color-bright","korean":"밝은 빛 꿈","english":"Dream of bright light","slug":"bright-light-dream","koreanSlug":"balgeun-bit-kkum","category":"colors","subcategory":"shade","subcategoryKorean":"명암","related":["color-white","celestial-sun"],"searchTier":"medium","naverKeywords":["밝은 빛 꿈","빛 꿈 해몽"],"googleKeywords":["bright light dream meaning"]},
-    {"id":"color-indigo","korean":"남색 꿈","english":"Dream of indigo color","slug":"indigo-color-dream","koreanSlug":"namsaek-kkum","category":"colors","subcategory":"cool","subcategoryKorean":"냉색","related":["color-blue","color-purple"],"searchTier":"longtail","naverKeywords":["남색 꿈","남색 꿈 해몽"],"googleKeywords":["indigo color dream meaning"]},
-    {"id":"color-turquoise","korean":"청록색 꿈","english":"Dream of turquoise color","slug":"turquoise-color-dream","koreanSlug":"cheongrok-saek-kkum","category":"colors","subcategory":"cool","subcategoryKorean":"냉색","related":["color-blue","color-green"],"searchTier":"longtail","naverKeywords":["청록색 꿈","청록색 꿈 해몽"],"googleKeywords":["turquoise color dream meaning"]},
-    {"id":"color-crimson","korean":"진홍색 꿈","english":"Dream of crimson color","slug":"crimson-color-dream","koreanSlug":"jinhongsaek-kkum","category":"colors","subcategory":"warm","subcategoryKorean":"난색","related":["color-red","blood-general"],"searchTier":"longtail","naverKeywords":["진홍색 꿈","진홍 꿈 해몽"],"googleKeywords":["crimson color dream meaning"]},
-    {"id":"color-ivory","korean":"아이보리색 꿈","english":"Dream of ivory color","slug":"ivory-color-dream","koreanSlug":"aiborisaek-kkum","category":"colors","subcategory":"neutral","subcategoryKorean":"무채색","related":["color-white","color-brown"],"searchTier":"longtail","naverKeywords":["아이보리 꿈","아이보리 꿈 해몽"],"googleKeywords":["ivory color dream meaning"]},
-    {"id":"color-neon","korean":"네온색 꿈","english":"Dream of neon colors","slug":"neon-colors-dream","koreanSlug":"neonsaek-kkum","category":"colors","subcategory":"multi","subcategoryKorean":"다색","related":["color-colorful","color-bright"],"searchTier":"longtail","naverKeywords":["네온색 꿈","네온 꿈 해몽"],"googleKeywords":["neon colors dream meaning"]},
-    {"id":"color-copper","korean":"구리색 꿈","english":"Dream of copper color","slug":"copper-color-dream","koreanSlug":"gurisaek-kkum","category":"colors","subcategory":"metallic","subcategoryKorean":"금속","related":["color-gold","color-brown"],"searchTier":"longtail","naverKeywords":["구리색 꿈","구리색 꿈 해몽"],"googleKeywords":["copper color dream meaning"]},
-    {"id":"color-changing","korean":"색이 변하는 꿈","english":"Dream of colors changing","slug":"colors-changing-dream","koreanSlug":"saek-byeonhaneun-kkum","category":"colors","subcategory":"multi","subcategoryKorean":"다색","related":["color-colorful"],"searchTier":"longtail","naverKeywords":["색 변하는 꿈","색 변하는 꿈 해몽"],"googleKeywords":["colors changing dream meaning"]},
-    {"id":"color-fading","korean":"색이 바래는 꿈","english":"Dream of colors fading","slug":"colors-fading-dream","koreanSlug":"saek-baraeneun-kkum","category":"colors","subcategory":"shade","subcategoryKorean":"명암","related":["color-gray","color-dark"],"searchTier":"longtail","naverKeywords":["색 바래는 꿈","색 바래는 꿈 해몽"],"googleKeywords":["colors fading dream meaning"]},
-    {"id":"color-black-white","korean":"흑백 꿈","english":"Dream in black and white","slug":"black-white-dream","koreanSlug":"heukbaek-kkum","category":"colors","subcategory":"shade","subcategoryKorean":"명암","related":["color-black","color-white"],"searchTier":"medium","naverKeywords":["흑백 꿈","흑백 꿈 해몽"],"googleKeywords":["black and white dream meaning"]},
-    {"id":"color-glowing","korean":"빛나는 꿈","english":"Dream of things glowing","slug":"glowing-dream","koreanSlug":"bitnaneun-kkum","category":"colors","subcategory":"shade","subcategoryKorean":"명암","related":["color-bright","color-gold"],"searchTier":"longtail","naverKeywords":["빛나는 꿈","빛 꿈 해몽"],"googleKeywords":["glowing dream meaning"]},
-    {"id":"color-pastel","korean":"파스텔 색 꿈","english":"Dream of pastel colors","slug":"pastel-colors-dream","koreanSlug":"paseutel-saek-kkum","category":"colors","subcategory":"multi","subcategoryKorean":"다색","related":["color-pink","color-colorful"],"searchTier":"longtail","naverKeywords":["파스텔 색 꿈","파스텔 꿈 해몽"],"googleKeywords":["pastel colors dream meaning"]},
-    {"id":"color-blood-red","korean":"핏빛 꿈","english":"Dream of blood-red color","slug":"blood-red-dream","koreanSlug":"pitbit-kkum","category":"colors","subcategory":"warm","subcategoryKorean":"난색","related":["color-red","blood-general"],"searchTier":"longtail","naverKeywords":["핏빛 꿈","핏빛 꿈 해몽"],"googleKeywords":["blood red dream meaning"]},
-    {"id":"color-transparent","korean":"투명한 꿈","english":"Dream of transparency","slug":"transparency-dream","koreanSlug":"tumyeonghan-kkum","category":"colors","subcategory":"shade","subcategoryKorean":"명암","related":["body-invisible"],"searchTier":"longtail","naverKeywords":["투명한 꿈","투명 꿈 해몽"],"googleKeywords":["transparency dream meaning"]},
-    {"id":"color-sky-blue","korean":"하늘색 꿈","english":"Dream of sky blue","slug":"sky-blue-dream","koreanSlug":"haneulsaek-kkum","category":"colors","subcategory":"cool","subcategoryKorean":"한색","related":["color-blue","nature-sky"],"searchTier":"longtail","naverKeywords":["하늘색 꿈","하늘색 꿈 해몽"],"googleKeywords":["sky blue dream meaning"]},
-    {"id":"color-emerald","korean":"에메랄드색 꿈","english":"Dream of emerald green","slug":"emerald-green-dream","koreanSlug":"emeraldeu-saek-kkum","category":"colors","subcategory":"cool","subcategoryKorean":"한색","related":["color-green","money-emerald"],"searchTier":"longtail","naverKeywords":["에메랄드색 꿈","에메랄드 색 꿈 해몽"],"googleKeywords":["emerald green dream meaning"]},
-    {"id":"color-peach","korean":"복숭아색 꿈","english":"Dream of peach color","slug":"peach-color-dream","koreanSlug":"boksungah-saek-kkum","category":"colors","subcategory":"warm","subcategoryKorean":"난색","related":["color-pink","color-orange"],"searchTier":"longtail","naverKeywords":["복숭아색 꿈","복숭아색 꿈 해몽"],"googleKeywords":["peach color dream meaning"]},
-    {"id":"color-lavender","korean":"라벤더색 꿈","english":"Dream of lavender color","slug":"lavender-dream","koreanSlug":"rabendeosaek-kkum","category":"colors","subcategory":"cool","subcategoryKorean":"한색","related":["color-purple"],"searchTier":"longtail","naverKeywords":["라벤더색 꿈","라벤더 꿈 해몽"],"googleKeywords":["lavender color dream meaning"]},
-    {"id":"color-midnight-blue","korean":"짙은 남색 꿈","english":"Dream of midnight blue","slug":"midnight-blue-dream","koreanSlug":"jiteun-namsaek-kkum","category":"colors","subcategory":"cool","subcategoryKorean":"한색","related":["color-blue","color-dark"],"searchTier":"longtail","naverKeywords":["짙은 남색 꿈","남색 꿈 해몽"],"googleKeywords":["midnight blue dream meaning"]},
-    {"id":"color-rust","korean":"녹슨 색 꿈","english":"Dream of rust color","slug":"rust-color-dream","koreanSlug":"nokseun-saek-kkum","category":"colors","subcategory":"warm","subcategoryKorean":"난색","related":["color-brown","color-orange"],"searchTier":"longtail","naverKeywords":["녹슨 색 꿈","녹색 꿈 해몽"],"googleKeywords":["rust color dream meaning"]},
-    {"id":"color-vivid","korean":"선명한 색 꿈","english":"Dream of vivid colors","slug":"vivid-colors-dream","koreanSlug":"seonmyeonghan-saek-kkum","category":"colors","subcategory":"multi","subcategoryKorean":"다색","related":["color-colorful","color-bright"],"searchTier":"longtail","naverKeywords":["선명한 색 꿈","선명한 색 꿈 해몽"],"googleKeywords":["vivid colors dream meaning"]},
-    {"id":"color-monochrome","korean":"단색 꿈","english":"Dream in monochrome","slug":"monochrome-dream","koreanSlug":"dansaek-kkum","category":"colors","subcategory":"shade","subcategoryKorean":"명암","related":["color-black-white"],"searchTier":"longtail","naverKeywords":["단색 꿈","단색 꿈 해몽"],"googleKeywords":["monochrome dream meaning"]},
-    {"id":"color-neon","korean":"네온색 꿈","english":"Dream of neon colors","slug":"neon-colors-dream","koreanSlug":"neonsaek-kkum","category":"colors","subcategory":"bright","subcategoryKorean":"밝은색","related":["color-vivid","color-bright"],"searchTier":"longtail","naverKeywords":["네온색 꿈","네온색 꿈 해몽"],"googleKeywords":["neon colors dream meaning"]},
-    {"id":"color-dark","korean":"어두운 색 꿈","english":"Dream of dark colors","slug":"dark-colors-dream","koreanSlug":"eoduun-saek-kkum","category":"colors","subcategory":"shade","subcategoryKorean":"명암","related":["color-black","color-monochrome"],"searchTier":"longtail","naverKeywords":["어두운 색 꿈","어두운 색 꿈 해몽"],"googleKeywords":["dark colors dream meaning"]},
-    {"id":"color-bright","korean":"밝은 색 꿈","english":"Dream of bright colors","slug":"bright-colors-dream","koreanSlug":"balgeun-saek-kkum","category":"colors","subcategory":"bright","subcategoryKorean":"밝은색","related":["color-vivid","color-white"],"searchTier":"longtail","naverKeywords":["밝은 색 꿈","밝은 색 꿈 해몽"],"googleKeywords":["bright colors dream meaning"]}
+    {
+      "id": "color-red",
+      "korean": "빨간색 꿈",
+      "english": "Dream of red color",
+      "slug": "red-color-dream",
+      "koreanSlug": "ppalgansaek-kkum",
+      "category": "colors",
+      "subcategory": "warm",
+      "subcategoryKorean": "난색",
+      "related": [
+        "color-orange",
+        "blood-general"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "빨간색 꿈",
+        "빨간색 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "red color dream meaning"
+      ]
+    },
+    {
+      "id": "color-blue",
+      "korean": "파란색 꿈",
+      "english": "Dream of blue color",
+      "slug": "blue-color-dream",
+      "koreanSlug": "paransaek-kkum",
+      "category": "colors",
+      "subcategory": "cool",
+      "subcategoryKorean": "냉색",
+      "related": [
+        "water-general",
+        "nature-sky"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "파란색 꿈",
+        "파란색 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "blue color dream meaning"
+      ]
+    },
+    {
+      "id": "color-green",
+      "korean": "초록색 꿈",
+      "english": "Dream of green color",
+      "slug": "green-color-dream",
+      "koreanSlug": "choroksaek-kkum",
+      "category": "colors",
+      "subcategory": "cool",
+      "subcategoryKorean": "냉색",
+      "related": [
+        "plant-tree-general",
+        "nature-forest"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "초록색 꿈",
+        "초록색 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "green color dream meaning"
+      ]
+    },
+    {
+      "id": "color-yellow",
+      "korean": "노란색 꿈",
+      "english": "Dream of yellow color",
+      "slug": "yellow-color-dream",
+      "koreanSlug": "noransaek-kkum",
+      "category": "colors",
+      "subcategory": "warm",
+      "subcategoryKorean": "난색",
+      "related": [
+        "money-gold",
+        "celestial-sun"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "노란색 꿈",
+        "노란색 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "yellow color dream meaning"
+      ]
+    },
+    {
+      "id": "color-white",
+      "korean": "흰색 꿈",
+      "english": "Dream of white color",
+      "slug": "white-color-dream",
+      "koreanSlug": "huinsaek-kkum",
+      "category": "colors",
+      "subcategory": "neutral",
+      "subcategoryKorean": "무채색",
+      "related": [
+        "color-black",
+        "clothing-white"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "흰색 꿈",
+        "흰색 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "white color dream meaning"
+      ]
+    },
+    {
+      "id": "color-black",
+      "korean": "검은색 꿈",
+      "english": "Dream of black color",
+      "slug": "black-color-dream",
+      "koreanSlug": "geomeunsaek-kkum",
+      "category": "colors",
+      "subcategory": "neutral",
+      "subcategoryKorean": "무채색",
+      "related": [
+        "color-white",
+        "clothing-black"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "검은색 꿈",
+        "검은색 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "black color dream meaning"
+      ]
+    },
+    {
+      "id": "color-gold",
+      "korean": "금색 꿈",
+      "english": "Dream of gold color",
+      "slug": "gold-color-dream",
+      "koreanSlug": "geumsaek-kkum",
+      "category": "colors",
+      "subcategory": "metallic",
+      "subcategoryKorean": "금속",
+      "related": [
+        "money-gold",
+        "color-yellow"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "금색 꿈",
+        "금색 꿈 해몽",
+        "황금색 꿈"
+      ],
+      "googleKeywords": [
+        "gold color dream meaning"
+      ]
+    },
+    {
+      "id": "color-silver",
+      "korean": "은색 꿈",
+      "english": "Dream of silver color",
+      "slug": "silver-color-dream",
+      "koreanSlug": "eunsaek-kkum",
+      "category": "colors",
+      "subcategory": "metallic",
+      "subcategoryKorean": "금속",
+      "related": [
+        "color-white",
+        "color-gold"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "은색 꿈",
+        "은색 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "silver color dream meaning"
+      ]
+    },
+    {
+      "id": "color-purple",
+      "korean": "보라색 꿈",
+      "english": "Dream of purple color",
+      "slug": "purple-color-dream",
+      "koreanSlug": "borasaek-kkum",
+      "category": "colors",
+      "subcategory": "cool",
+      "subcategoryKorean": "냉색",
+      "related": [
+        "color-blue",
+        "color-red"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "보라색 꿈",
+        "보라색 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "purple color dream meaning"
+      ]
+    },
+    {
+      "id": "color-orange",
+      "korean": "주황색 꿈",
+      "english": "Dream of orange color",
+      "slug": "orange-color-dream",
+      "koreanSlug": "juhwangsaek-kkum",
+      "category": "colors",
+      "subcategory": "warm",
+      "subcategoryKorean": "난색",
+      "related": [
+        "color-red",
+        "color-yellow"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "주황색 꿈",
+        "주황색 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "orange color dream meaning"
+      ]
+    },
+    {
+      "id": "color-pink",
+      "korean": "분홍색 꿈",
+      "english": "Dream of pink color",
+      "slug": "pink-color-dream",
+      "koreanSlug": "bunhongsaek-kkum",
+      "category": "colors",
+      "subcategory": "warm",
+      "subcategoryKorean": "난색",
+      "related": [
+        "color-red",
+        "plant-cherry-blossom"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "분홍색 꿈",
+        "핑크색 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "pink color dream meaning"
+      ]
+    },
+    {
+      "id": "color-brown",
+      "korean": "갈색 꿈",
+      "english": "Dream of brown color",
+      "slug": "brown-color-dream",
+      "koreanSlug": "galsaek-kkum",
+      "category": "colors",
+      "subcategory": "neutral",
+      "subcategoryKorean": "무채색",
+      "related": [
+        "nature-earth"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "갈색 꿈",
+        "갈색 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "brown color dream meaning"
+      ]
+    },
+    {
+      "id": "color-gray",
+      "korean": "회색 꿈",
+      "english": "Dream of gray color",
+      "slug": "gray-color-dream",
+      "koreanSlug": "hoesaek-kkum",
+      "category": "colors",
+      "subcategory": "neutral",
+      "subcategoryKorean": "무채색",
+      "related": [
+        "color-black",
+        "color-white"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "회색 꿈",
+        "회색 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "gray color dream meaning"
+      ]
+    },
+    {
+      "id": "color-rainbow",
+      "korean": "무지개색 꿈",
+      "english": "Dream of rainbow colors",
+      "slug": "rainbow-colors-dream",
+      "koreanSlug": "mujigaesaek-kkum",
+      "category": "colors",
+      "subcategory": "multi",
+      "subcategoryKorean": "다색",
+      "related": [
+        "weather-rainbow"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "무지개색 꿈",
+        "무지개색 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "rainbow colors dream meaning"
+      ]
+    },
+    {
+      "id": "color-colorful",
+      "korean": "알록달록한 꿈",
+      "english": "Dream of colorful scenes",
+      "slug": "colorful-dream",
+      "koreanSlug": "alrokdalrokhan-kkum",
+      "category": "colors",
+      "subcategory": "multi",
+      "subcategoryKorean": "다색",
+      "related": [
+        "color-rainbow"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "알록달록한 꿈",
+        "화려한 색 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "colorful dream meaning"
+      ]
+    },
+    {
+      "id": "color-dark",
+      "korean": "어두운 꿈",
+      "english": "Dream of darkness",
+      "slug": "darkness-dream",
+      "koreanSlug": "eoduun-kkum",
+      "category": "colors",
+      "subcategory": "shade",
+      "subcategoryKorean": "명암",
+      "related": [
+        "color-black",
+        "emotion-fear"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "어두운 꿈",
+        "어둠 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "darkness dream meaning"
+      ]
+    },
+    {
+      "id": "color-bright",
+      "korean": "밝은 빛 꿈",
+      "english": "Dream of bright light",
+      "slug": "bright-light-dream",
+      "koreanSlug": "balgeun-bit-kkum",
+      "category": "colors",
+      "subcategory": "shade",
+      "subcategoryKorean": "명암",
+      "related": [
+        "color-white",
+        "celestial-sun"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "밝은 빛 꿈",
+        "빛 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "bright light dream meaning"
+      ]
+    },
+    {
+      "id": "color-indigo",
+      "korean": "남색 꿈",
+      "english": "Dream of indigo color",
+      "slug": "indigo-color-dream",
+      "koreanSlug": "namsaek-kkum",
+      "category": "colors",
+      "subcategory": "cool",
+      "subcategoryKorean": "냉색",
+      "related": [
+        "color-blue",
+        "color-purple"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "남색 꿈",
+        "남색 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "indigo color dream meaning"
+      ]
+    },
+    {
+      "id": "color-turquoise",
+      "korean": "청록색 꿈",
+      "english": "Dream of turquoise color",
+      "slug": "turquoise-color-dream",
+      "koreanSlug": "cheongrok-saek-kkum",
+      "category": "colors",
+      "subcategory": "cool",
+      "subcategoryKorean": "냉색",
+      "related": [
+        "color-blue",
+        "color-green"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "청록색 꿈",
+        "청록색 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "turquoise color dream meaning"
+      ]
+    },
+    {
+      "id": "color-crimson",
+      "korean": "진홍색 꿈",
+      "english": "Dream of crimson color",
+      "slug": "crimson-color-dream",
+      "koreanSlug": "jinhongsaek-kkum",
+      "category": "colors",
+      "subcategory": "warm",
+      "subcategoryKorean": "난색",
+      "related": [
+        "color-red",
+        "blood-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "진홍색 꿈",
+        "진홍 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "crimson color dream meaning"
+      ]
+    },
+    {
+      "id": "color-ivory",
+      "korean": "아이보리색 꿈",
+      "english": "Dream of ivory color",
+      "slug": "ivory-color-dream",
+      "koreanSlug": "aiborisaek-kkum",
+      "category": "colors",
+      "subcategory": "neutral",
+      "subcategoryKorean": "무채색",
+      "related": [
+        "color-white",
+        "color-brown"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "아이보리 꿈",
+        "아이보리 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "ivory color dream meaning"
+      ]
+    },
+    {
+      "id": "color-neon",
+      "korean": "네온색 꿈",
+      "english": "Dream of neon colors",
+      "slug": "neon-colors-dream",
+      "koreanSlug": "neonsaek-kkum",
+      "category": "colors",
+      "subcategory": "multi",
+      "subcategoryKorean": "다색",
+      "related": [
+        "color-colorful",
+        "color-bright"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "네온색 꿈",
+        "네온 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "neon colors dream meaning"
+      ]
+    },
+    {
+      "id": "color-copper",
+      "korean": "구리색 꿈",
+      "english": "Dream of copper color",
+      "slug": "copper-color-dream",
+      "koreanSlug": "gurisaek-kkum",
+      "category": "colors",
+      "subcategory": "metallic",
+      "subcategoryKorean": "금속",
+      "related": [
+        "color-gold",
+        "color-brown"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "구리색 꿈",
+        "구리색 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "copper color dream meaning"
+      ]
+    },
+    {
+      "id": "color-changing",
+      "korean": "색이 변하는 꿈",
+      "english": "Dream of colors changing",
+      "slug": "colors-changing-dream",
+      "koreanSlug": "saek-byeonhaneun-kkum",
+      "category": "colors",
+      "subcategory": "multi",
+      "subcategoryKorean": "다색",
+      "related": [
+        "color-colorful"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "색 변하는 꿈",
+        "색 변하는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "colors changing dream meaning"
+      ]
+    },
+    {
+      "id": "color-fading",
+      "korean": "색이 바래는 꿈",
+      "english": "Dream of colors fading",
+      "slug": "colors-fading-dream",
+      "koreanSlug": "saek-baraeneun-kkum",
+      "category": "colors",
+      "subcategory": "shade",
+      "subcategoryKorean": "명암",
+      "related": [
+        "color-gray",
+        "color-dark"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "색 바래는 꿈",
+        "색 바래는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "colors fading dream meaning"
+      ]
+    },
+    {
+      "id": "color-black-white",
+      "korean": "흑백 꿈",
+      "english": "Dream in black and white",
+      "slug": "black-white-dream",
+      "koreanSlug": "heukbaek-kkum",
+      "category": "colors",
+      "subcategory": "shade",
+      "subcategoryKorean": "명암",
+      "related": [
+        "color-black",
+        "color-white"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "흑백 꿈",
+        "흑백 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "black and white dream meaning"
+      ]
+    },
+    {
+      "id": "color-glowing",
+      "korean": "빛나는 꿈",
+      "english": "Dream of things glowing",
+      "slug": "glowing-dream",
+      "koreanSlug": "bitnaneun-kkum",
+      "category": "colors",
+      "subcategory": "shade",
+      "subcategoryKorean": "명암",
+      "related": [
+        "color-bright",
+        "color-gold"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "빛나는 꿈",
+        "빛 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "glowing dream meaning"
+      ]
+    },
+    {
+      "id": "color-pastel",
+      "korean": "파스텔 색 꿈",
+      "english": "Dream of pastel colors",
+      "slug": "pastel-colors-dream",
+      "koreanSlug": "paseutel-saek-kkum",
+      "category": "colors",
+      "subcategory": "multi",
+      "subcategoryKorean": "다색",
+      "related": [
+        "color-pink",
+        "color-colorful"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "파스텔 색 꿈",
+        "파스텔 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "pastel colors dream meaning"
+      ]
+    },
+    {
+      "id": "color-blood-red",
+      "korean": "핏빛 꿈",
+      "english": "Dream of blood-red color",
+      "slug": "blood-red-dream",
+      "koreanSlug": "pitbit-kkum",
+      "category": "colors",
+      "subcategory": "warm",
+      "subcategoryKorean": "난색",
+      "related": [
+        "color-red",
+        "blood-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "핏빛 꿈",
+        "핏빛 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "blood red dream meaning"
+      ]
+    },
+    {
+      "id": "color-transparent",
+      "korean": "투명한 꿈",
+      "english": "Dream of transparency",
+      "slug": "transparency-dream",
+      "koreanSlug": "tumyeonghan-kkum",
+      "category": "colors",
+      "subcategory": "shade",
+      "subcategoryKorean": "명암",
+      "related": [
+        "body-invisible"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "투명한 꿈",
+        "투명 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "transparency dream meaning"
+      ]
+    },
+    {
+      "id": "color-sky-blue",
+      "korean": "하늘색 꿈",
+      "english": "Dream of sky blue",
+      "slug": "sky-blue-dream",
+      "koreanSlug": "haneulsaek-kkum",
+      "category": "colors",
+      "subcategory": "cool",
+      "subcategoryKorean": "한색",
+      "related": [
+        "color-blue",
+        "nature-sky"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "하늘색 꿈",
+        "하늘색 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "sky blue dream meaning"
+      ]
+    },
+    {
+      "id": "color-emerald",
+      "korean": "에메랄드색 꿈",
+      "english": "Dream of emerald green",
+      "slug": "emerald-green-dream",
+      "koreanSlug": "emeraldeu-saek-kkum",
+      "category": "colors",
+      "subcategory": "cool",
+      "subcategoryKorean": "한색",
+      "related": [
+        "color-green",
+        "money-emerald"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "에메랄드색 꿈",
+        "에메랄드 색 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "emerald green dream meaning"
+      ]
+    },
+    {
+      "id": "color-peach",
+      "korean": "복숭아색 꿈",
+      "english": "Dream of peach color",
+      "slug": "peach-color-dream",
+      "koreanSlug": "boksungah-saek-kkum",
+      "category": "colors",
+      "subcategory": "warm",
+      "subcategoryKorean": "난색",
+      "related": [
+        "color-pink",
+        "color-orange"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "복숭아색 꿈",
+        "복숭아색 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "peach color dream meaning"
+      ]
+    },
+    {
+      "id": "color-lavender",
+      "korean": "라벤더색 꿈",
+      "english": "Dream of lavender color",
+      "slug": "lavender-dream",
+      "koreanSlug": "rabendeosaek-kkum",
+      "category": "colors",
+      "subcategory": "cool",
+      "subcategoryKorean": "한색",
+      "related": [
+        "color-purple"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "라벤더색 꿈",
+        "라벤더 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "lavender color dream meaning"
+      ]
+    },
+    {
+      "id": "color-midnight-blue",
+      "korean": "짙은 남색 꿈",
+      "english": "Dream of midnight blue",
+      "slug": "midnight-blue-dream",
+      "koreanSlug": "jiteun-namsaek-kkum",
+      "category": "colors",
+      "subcategory": "cool",
+      "subcategoryKorean": "한색",
+      "related": [
+        "color-blue",
+        "color-dark"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "짙은 남색 꿈",
+        "남색 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "midnight blue dream meaning"
+      ]
+    },
+    {
+      "id": "color-rust",
+      "korean": "녹슨 색 꿈",
+      "english": "Dream of rust color",
+      "slug": "rust-color-dream",
+      "koreanSlug": "nokseun-saek-kkum",
+      "category": "colors",
+      "subcategory": "warm",
+      "subcategoryKorean": "난색",
+      "related": [
+        "color-brown",
+        "color-orange"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "녹슨 색 꿈",
+        "녹색 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "rust color dream meaning"
+      ]
+    },
+    {
+      "id": "color-vivid",
+      "korean": "선명한 색 꿈",
+      "english": "Dream of vivid colors",
+      "slug": "vivid-colors-dream",
+      "koreanSlug": "seonmyeonghan-saek-kkum",
+      "category": "colors",
+      "subcategory": "multi",
+      "subcategoryKorean": "다색",
+      "related": [
+        "color-colorful",
+        "color-bright"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "선명한 색 꿈",
+        "선명한 색 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "vivid colors dream meaning"
+      ]
+    },
+    {
+      "id": "color-monochrome",
+      "korean": "단색 꿈",
+      "english": "Dream in monochrome",
+      "slug": "monochrome-dream",
+      "koreanSlug": "dansaek-kkum",
+      "category": "colors",
+      "subcategory": "shade",
+      "subcategoryKorean": "명암",
+      "related": [
+        "color-black-white"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "단색 꿈",
+        "단색 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "monochrome dream meaning"
+      ]
+    },
+    {
+      "id": "color-dark",
+      "korean": "어두운 색 꿈",
+      "english": "Dream of dark colors",
+      "slug": "dark-colors-dream",
+      "koreanSlug": "eoduun-saek-kkum",
+      "category": "colors",
+      "subcategory": "shade",
+      "subcategoryKorean": "명암",
+      "related": [
+        "color-black",
+        "color-monochrome"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "어두운 색 꿈",
+        "어두운 색 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "dark colors dream meaning"
+      ]
+    },
+    {
+      "id": "color-bright",
+      "korean": "밝은 색 꿈",
+      "english": "Dream of bright colors",
+      "slug": "bright-colors-dream",
+      "koreanSlug": "balgeun-saek-kkum",
+      "category": "colors",
+      "subcategory": "bright",
+      "subcategoryKorean": "밝은색",
+      "related": [
+        "color-vivid",
+        "color-white"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "밝은 색 꿈",
+        "밝은 색 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "bright colors dream meaning"
+      ]
+    }
   ]
 }

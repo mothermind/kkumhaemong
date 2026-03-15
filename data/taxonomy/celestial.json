@@ -3,53 +3,895 @@
   "korean": "천체/우주",
   "english": "Celestial & Space",
   "symbols": [
-    {"id":"celestial-sun","korean":"태양/해 꿈","english":"Dream of the sun","slug":"sun-dream","koreanSlug":"taeyang-kkum","category":"celestial","subcategory":"sun","subcategoryKorean":"태양","related":["celestial-moon","nature-sunrise"],"searchTier":"high","naverKeywords":["태양 꿈","해 꿈 해몽"],"googleKeywords":["sun dream meaning"]},
-    {"id":"celestial-moon","korean":"달 꿈","english":"Dream of the moon","slug":"moon-dream","koreanSlug":"dal-kkum","category":"celestial","subcategory":"moon","subcategoryKorean":"달","related":["celestial-sun","celestial-full-moon"],"searchTier":"high","naverKeywords":["달 꿈","달 꿈 해몽"],"googleKeywords":["moon dream meaning"]},
-    {"id":"celestial-full-moon","korean":"보름달 꿈","english":"Dream of a full moon","slug":"full-moon-dream","koreanSlug":"boreumdal-kkum","category":"celestial","subcategory":"moon","subcategoryKorean":"달","related":["celestial-moon"],"searchTier":"medium","naverKeywords":["보름달 꿈","보름달 꿈 해몽"],"googleKeywords":["full moon dream meaning"]},
-    {"id":"celestial-star","korean":"별 꿈","english":"Dream of stars","slug":"stars-dream","koreanSlug":"byeol-kkum","category":"celestial","subcategory":"star","subcategoryKorean":"별","related":["celestial-shooting-star","celestial-moon"],"searchTier":"high","naverKeywords":["별 꿈","별 꿈 해몽"],"googleKeywords":["stars dream meaning"]},
-    {"id":"celestial-shooting-star","korean":"별똥별 꿈","english":"Dream of a shooting star","slug":"shooting-star-dream","koreanSlug":"byeolttongbyeol-kkum","category":"celestial","subcategory":"star","subcategoryKorean":"별","related":["celestial-star"],"searchTier":"medium","naverKeywords":["별똥별 꿈","별똥별 꿈 해몽","유성 꿈"],"googleKeywords":["shooting star dream meaning"]},
-    {"id":"celestial-many-stars","korean":"별이 많은 꿈","english":"Dream of many stars","slug":"many-stars-dream","koreanSlug":"byeol-maneun-kkum","category":"celestial","subcategory":"star","subcategoryKorean":"별","related":["celestial-star"],"searchTier":"longtail","naverKeywords":["별이 많은 꿈","별 많은 꿈 해몽"],"googleKeywords":["many stars dream meaning"]},
-    {"id":"celestial-eclipse","korean":"일식/월식 꿈","english":"Dream of an eclipse","slug":"eclipse-dream","koreanSlug":"ilsik-kkum","category":"celestial","subcategory":"eclipse","subcategoryKorean":"일식/월식","related":["celestial-sun","celestial-moon"],"searchTier":"medium","naverKeywords":["일식 꿈","월식 꿈 해몽"],"googleKeywords":["eclipse dream meaning"]},
-    {"id":"celestial-planet","korean":"행성 꿈","english":"Dream of planets","slug":"planet-dream","koreanSlug":"haengseong-kkum","category":"celestial","subcategory":"planet","subcategoryKorean":"행성","related":["celestial-star","celestial-space"],"searchTier":"longtail","naverKeywords":["행성 꿈","행성 꿈 해몽"],"googleKeywords":["planet dream meaning"]},
-    {"id":"celestial-space","korean":"우주 꿈","english":"Dream of outer space","slug":"outer-space-dream","koreanSlug":"uju-kkum","category":"celestial","subcategory":"space","subcategoryKorean":"우주","related":["celestial-star","celestial-planet"],"searchTier":"medium","naverKeywords":["우주 꿈","우주 꿈 해몽"],"googleKeywords":["outer space dream meaning"]},
-    {"id":"celestial-ufo","korean":"UFO 꿈","english":"Dream of a UFO","slug":"ufo-dream","koreanSlug":"ufo-kkum","category":"celestial","subcategory":"space","subcategoryKorean":"우주","related":["celestial-space","celestial-alien"],"searchTier":"medium","naverKeywords":["UFO 꿈","UFO 꿈 해몽"],"googleKeywords":["UFO dream meaning"]},
-    {"id":"celestial-alien","korean":"외계인 꿈","english":"Dream of aliens","slug":"alien-dream","koreanSlug":"oegyein-kkum","category":"celestial","subcategory":"space","subcategoryKorean":"우주","related":["celestial-ufo","celestial-space"],"searchTier":"medium","naverKeywords":["외계인 꿈","외계인 꿈 해몽"],"googleKeywords":["alien dream meaning"]},
-    {"id":"celestial-comet","korean":"혜성 꿈","english":"Dream of a comet","slug":"comet-dream","koreanSlug":"hyeseong-kkum","category":"celestial","subcategory":"star","subcategoryKorean":"별","related":["celestial-shooting-star"],"searchTier":"longtail","naverKeywords":["혜성 꿈","혜성 꿈 해몽"],"googleKeywords":["comet dream meaning"]},
-    {"id":"celestial-galaxy","korean":"은하수 꿈","english":"Dream of the Milky Way","slug":"milky-way-dream","koreanSlug":"eunhasu-kkum","category":"celestial","subcategory":"space","subcategoryKorean":"우주","related":["celestial-star","celestial-space"],"searchTier":"longtail","naverKeywords":["은하수 꿈","은하수 꿈 해몽"],"googleKeywords":["Milky Way dream meaning"]},
-    {"id":"celestial-end-of-world","korean":"세상이 멸망하는 꿈","english":"Dream of end of the world","slug":"end-of-world-dream","koreanSlug":"sesang-myeolmang-kkum","category":"celestial","subcategory":"apocalypse","subcategoryKorean":"종말","related":["disaster-general","celestial-space"],"searchTier":"medium","naverKeywords":["세상 멸망 꿈","지구 멸망 꿈 해몽"],"googleKeywords":["end of the world dream meaning"]},
-    {"id":"celestial-rocket","korean":"로켓 꿈","english":"Dream of a rocket","slug":"rocket-dream","koreanSlug":"roket-kkum","category":"celestial","subcategory":"space","subcategoryKorean":"우주","related":["celestial-space","action-flying"],"searchTier":"longtail","naverKeywords":["로켓 꿈","로켓 꿈 해몽"],"googleKeywords":["rocket dream meaning"]},
-    {"id":"celestial-astronaut","korean":"우주인 꿈","english":"Dream of an astronaut","slug":"astronaut-dream","koreanSlug":"ujuin-kkum","category":"celestial","subcategory":"space","subcategoryKorean":"우주","related":["celestial-space"],"searchTier":"longtail","naverKeywords":["우주인 꿈","우주인 꿈 해몽"],"googleKeywords":["astronaut dream meaning"]},
-    {"id":"celestial-crescent","korean":"초승달 꿈","english":"Dream of a crescent moon","slug":"crescent-moon-dream","koreanSlug":"choseungdal-kkum","category":"celestial","subcategory":"moon","subcategoryKorean":"달","related":["celestial-moon","celestial-full-moon"],"searchTier":"longtail","naverKeywords":["초승달 꿈","초승달 꿈 해몽"],"googleKeywords":["crescent moon dream meaning"]},
-    {"id":"celestial-sunrise-red","korean":"붉은 태양 꿈","english":"Dream of a red sun","slug":"red-sun-dream","koreanSlug":"bulgeun-taeyang-kkum","category":"celestial","subcategory":"sun","subcategoryKorean":"태양","related":["celestial-sun"],"searchTier":"longtail","naverKeywords":["붉은 태양 꿈","빨간 해 꿈 해몽"],"googleKeywords":["red sun dream meaning"]},
-    {"id":"celestial-two-suns","korean":"해가 두개인 꿈","english":"Dream of two suns","slug":"two-suns-dream","koreanSlug":"hae-dugaein-kkum","category":"celestial","subcategory":"sun","subcategoryKorean":"태양","related":["celestial-sun"],"searchTier":"longtail","naverKeywords":["해가 두개 꿈","해 두개 꿈 해몽"],"googleKeywords":["two suns dream meaning"]},
-    {"id":"celestial-meteor","korean":"운석 꿈","english":"Dream of a meteor","slug":"meteor-dream","koreanSlug":"unseok-kkum","category":"celestial","subcategory":"star","subcategoryKorean":"별","related":["celestial-shooting-star","disaster-general"],"searchTier":"longtail","naverKeywords":["운석 꿈","운석 꿈 해몽"],"googleKeywords":["meteor dream meaning"]},
-    {"id":"celestial-sunrise","korean":"해가 뜨는 꿈","english":"Dream of sunrise","slug":"sunrise-dream","koreanSlug":"hae-tteuneun-kkum","category":"celestial","subcategory":"sun","subcategoryKorean":"태양","related":["celestial-sun"],"searchTier":"medium","naverKeywords":["해 뜨는 꿈","일출 꿈 해몽"],"googleKeywords":["sunrise dream meaning"]},
-    {"id":"celestial-sunset","korean":"해가 지는 꿈","english":"Dream of sunset","slug":"sunset-dream","koreanSlug":"hae-jineun-kkum","category":"celestial","subcategory":"sun","subcategoryKorean":"태양","related":["celestial-sun"],"searchTier":"medium","naverKeywords":["해 지는 꿈","일몰 꿈 해몽"],"googleKeywords":["sunset dream meaning"]},
-    {"id":"celestial-sun-swallow","korean":"해를 삼키는 꿈","english":"Dream of swallowing the sun","slug":"swallowing-sun-dream","koreanSlug":"hae-samkineun-kkum","category":"celestial","subcategory":"sun","subcategoryKorean":"태양","related":["celestial-sun","pregnancy-taemong-celestial-sun"],"searchTier":"medium","naverKeywords":["해를 삼키는 꿈","해 삼키는 꿈 해몽"],"googleKeywords":["swallowing sun dream meaning"]},
-    {"id":"celestial-moon-bright","korean":"밝은 달 꿈","english":"Dream of bright moon","slug":"bright-moon-dream","koreanSlug":"balgeun-dal-kkum","category":"celestial","subcategory":"moon","subcategoryKorean":"달","related":["celestial-moon","celestial-full-moon"],"searchTier":"longtail","naverKeywords":["밝은 달 꿈","밝은 달 꿈 해몽"],"googleKeywords":["bright moon dream meaning"]},
-    {"id":"celestial-moon-falling","korean":"달이 떨어지는 꿈","english":"Dream of moon falling","slug":"moon-falling-dream","koreanSlug":"dal-tteoreojineun-kkum","category":"celestial","subcategory":"moon","subcategoryKorean":"달","related":["celestial-moon","action-falling"],"searchTier":"longtail","naverKeywords":["달 떨어지는 꿈","달 추락 꿈 해몽"],"googleKeywords":["moon falling dream meaning"]},
-    {"id":"celestial-star-falling","korean":"별이 떨어지는 꿈","english":"Dream of stars falling","slug":"stars-falling-dream","koreanSlug":"byeol-tteoreojineun-kkum","category":"celestial","subcategory":"star","subcategoryKorean":"별","related":["celestial-star","celestial-shooting-star"],"searchTier":"longtail","naverKeywords":["별 떨어지는 꿈","별 떨어지는 꿈 해몽"],"googleKeywords":["stars falling dream meaning"]},
-    {"id":"celestial-north-star","korean":"북극성 꿈","english":"Dream of the North Star","slug":"north-star-dream","koreanSlug":"bukgeukseong-kkum","category":"celestial","subcategory":"star","subcategoryKorean":"별","related":["celestial-star"],"searchTier":"longtail","naverKeywords":["북극성 꿈","북극성 꿈 해몽"],"googleKeywords":["North Star dream meaning"]},
-    {"id":"celestial-black-hole","korean":"블랙홀 꿈","english":"Dream of a black hole","slug":"black-hole-dream","koreanSlug":"beullaekol-kkum","category":"celestial","subcategory":"space","subcategoryKorean":"우주","related":["celestial-space","celestial-end-of-world"],"searchTier":"longtail","naverKeywords":["블랙홀 꿈","블랙홀 꿈 해몽"],"googleKeywords":["black hole dream meaning"]},
-    {"id":"celestial-satellite","korean":"인공위성 꿈","english":"Dream of a satellite","slug":"satellite-dream","koreanSlug":"ingong-wiseong-kkum","category":"celestial","subcategory":"space","subcategoryKorean":"우주","related":["celestial-space","celestial-rocket"],"searchTier":"longtail","naverKeywords":["인공위성 꿈","인공위성 꿈 해몽"],"googleKeywords":["satellite dream meaning"]},
-    {"id":"celestial-crescent-moon","korean":"초승달 꿈","english":"Dream of a crescent moon","slug":"crescent-moon-dream","koreanSlug":"choseungdal-kkum","category":"celestial","subcategory":"moon","subcategoryKorean":"달","related":["celestial-moon"],"searchTier":"longtail","naverKeywords":["초승달 꿈","초승달 꿈 해몽"],"googleKeywords":["crescent moon dream meaning"]},
-    {"id":"celestial-two-moons","korean":"달이 두 개인 꿈","english":"Dream of two moons","slug":"two-moons-dream","koreanSlug":"dal-du-gaein-kkum","category":"celestial","subcategory":"moon","subcategoryKorean":"달","related":["celestial-moon"],"searchTier":"longtail","naverKeywords":["달 두 개 꿈","달 두개 꿈 해몽"],"googleKeywords":["two moons dream meaning"]},
-    {"id":"celestial-two-suns","korean":"태양이 두 개인 꿈","english":"Dream of two suns","slug":"two-suns-dream","koreanSlug":"taeyang-du-gaein-kkum","category":"celestial","subcategory":"sun","subcategoryKorean":"태양","related":["celestial-sun"],"searchTier":"longtail","naverKeywords":["태양 두 개 꿈","해 두개 꿈 해몽"],"googleKeywords":["two suns dream meaning"]},
-    {"id":"celestial-sun-explode","korean":"태양이 폭발하는 꿈","english":"Dream of the sun exploding","slug":"sun-exploding-dream","koreanSlug":"taeyang-pokbal-kkum","category":"celestial","subcategory":"sun","subcategoryKorean":"태양","related":["celestial-sun","celestial-end-of-world"],"searchTier":"longtail","naverKeywords":["태양 폭발 꿈","태양 폭발 꿈 해몽"],"googleKeywords":["sun exploding dream meaning"]},
-    {"id":"celestial-moonlight","korean":"달빛 꿈","english":"Dream of moonlight","slug":"moonlight-dream","koreanSlug":"dalbit-kkum","category":"celestial","subcategory":"moon","subcategoryKorean":"달","related":["celestial-moon","celestial-moon-bright"],"searchTier":"longtail","naverKeywords":["달빛 꿈","달빛 꿈 해몽"],"googleKeywords":["moonlight dream meaning"]},
-    {"id":"celestial-starlight","korean":"별빛 꿈","english":"Dream of starlight","slug":"starlight-dream","koreanSlug":"byeolbit-kkum","category":"celestial","subcategory":"star","subcategoryKorean":"별","related":["celestial-star","celestial-many-stars"],"searchTier":"longtail","naverKeywords":["별빛 꿈","별빛 꿈 해몽"],"googleKeywords":["starlight dream meaning"]},
-    {"id":"celestial-planet-red","korean":"붉은 행성 꿈","english":"Dream of a red planet","slug":"red-planet-dream","koreanSlug":"bulgeun-haengseong-kkum","category":"celestial","subcategory":"planet","subcategoryKorean":"행성","related":["celestial-planet"],"searchTier":"longtail","naverKeywords":["붉은 행성 꿈","화성 꿈 해몽"],"googleKeywords":["red planet dream meaning","Mars dream meaning"]},
-    {"id":"celestial-comet","korean":"혜성 꿈","english":"Dream of a comet","slug":"comet-dream","koreanSlug":"hyeseong-kkum","category":"celestial","subcategory":"star","subcategoryKorean":"별","related":["celestial-shooting-star","celestial-meteor"],"searchTier":"longtail","naverKeywords":["혜성 꿈","혜성 꿈 해몽"],"googleKeywords":["comet dream meaning"]},
-    {"id":"celestial-constellation","korean":"별자리 꿈","english":"Dream of constellations","slug":"constellation-dream","koreanSlug":"byeoljari-kkum","category":"celestial","subcategory":"star","subcategoryKorean":"별","related":["celestial-star","celestial-many-stars"],"searchTier":"longtail","naverKeywords":["별자리 꿈","별자리 꿈 해몽"],"googleKeywords":["constellation dream meaning"]},
-    {"id":"celestial-galaxy","korean":"은하수 꿈","english":"Dream of the Milky Way","slug":"milky-way-dream","koreanSlug":"eunhasu-kkum","category":"celestial","subcategory":"space","subcategoryKorean":"우주","related":["celestial-many-stars","celestial-space"],"searchTier":"longtail","naverKeywords":["은하수 꿈","은하수 꿈 해몽"],"googleKeywords":["Milky Way dream meaning"]},
-    {"id":"celestial-astronaut","korean":"우주비행사 꿈","english":"Dream of being an astronaut","slug":"astronaut-dream","koreanSlug":"ujubihaengsa-kkum","category":"celestial","subcategory":"space","subcategoryKorean":"우주","related":["celestial-space","celestial-rocket"],"searchTier":"longtail","naverKeywords":["우주비행사 꿈","우주인 꿈 해몽"],"googleKeywords":["astronaut dream meaning"]},
-    {"id":"celestial-sun-big","korean":"큰 태양 꿈","english":"Dream of a large sun","slug":"large-sun-dream","koreanSlug":"keun-taeyang-kkum","category":"celestial","subcategory":"sun","subcategoryKorean":"태양","related":["celestial-sun"],"searchTier":"longtail","naverKeywords":["큰 태양 꿈","큰 해 꿈 해몽"],"googleKeywords":["large sun dream meaning"]},
-    {"id":"celestial-moon-swallow","korean":"달을 삼키는 꿈","english":"Dream of swallowing the moon","slug":"swallowing-moon-dream","koreanSlug":"dal-samkineun-kkum","category":"celestial","subcategory":"moon","subcategoryKorean":"달","related":["celestial-moon","pregnancy-moon"],"searchTier":"longtail","naverKeywords":["달을 삼키는 꿈","달 삼키는 꿈 해몽"],"googleKeywords":["swallowing moon dream meaning"]},
-    {"id":"celestial-star-catch","korean":"별을 잡는 꿈","english":"Dream of catching a star","slug":"catching-star-dream","koreanSlug":"byeol-jamneun-kkum","category":"celestial","subcategory":"star","subcategoryKorean":"별","related":["celestial-star"],"searchTier":"longtail","naverKeywords":["별 잡는 꿈","별 잡는 꿈 해몽"],"googleKeywords":["catching star dream meaning"]},
-    {"id":"celestial-eclipse-solar","korean":"일식 꿈","english":"Dream of a solar eclipse","slug":"solar-eclipse-dream","koreanSlug":"ilsik-kkum","category":"celestial","subcategory":"sun","subcategoryKorean":"태양","related":["celestial-sun","celestial-moon"],"searchTier":"medium","naverKeywords":["일식 꿈","일식 꿈 해몽"],"googleKeywords":["solar eclipse dream meaning"]},
-    {"id":"celestial-eclipse-lunar","korean":"월식 꿈","english":"Dream of a lunar eclipse","slug":"lunar-eclipse-dream","koreanSlug":"wolsik-kkum","category":"celestial","subcategory":"moon","subcategoryKorean":"달","related":["celestial-moon","celestial-sun"],"searchTier":"longtail","naverKeywords":["월식 꿈","월식 꿈 해몽"],"googleKeywords":["lunar eclipse dream meaning"]},
-    {"id":"celestial-planet","korean":"행성 꿈","english":"Dream of a planet","slug":"planet-dream","koreanSlug":"haengseong-kkum","category":"celestial","subcategory":"planet","subcategoryKorean":"행성","related":["celestial-star","celestial-space"],"searchTier":"longtail","naverKeywords":["행성 꿈","행성 꿈 해몽"],"googleKeywords":["planet dream meaning"]},
-    {"id":"celestial-moon-full","korean":"보름달 꿈","english":"Dream of a full moon","slug":"full-moon-dream","koreanSlug":"boreumdal-kkum","category":"celestial","subcategory":"moon","subcategoryKorean":"달","related":["celestial-moon","celestial-moonlight"],"searchTier":"high","naverKeywords":["보름달 꿈","보름달 꿈 해몽"],"googleKeywords":["full moon dream meaning"]},
-    {"id":"celestial-meteor-shower","korean":"유성우 꿈","english":"Dream of a meteor shower","slug":"meteor-shower-dream","koreanSlug":"yuseong-u-kkum","category":"celestial","subcategory":"star","subcategoryKorean":"별","related":["celestial-star","celestial-comet"],"searchTier":"longtail","naverKeywords":["유성우 꿈","유성우 꿈 해몽"],"googleKeywords":["meteor shower dream meaning"]}
+    {
+      "id": "celestial-sun",
+      "korean": "태양/해 꿈",
+      "english": "Dream of the sun",
+      "slug": "sun-dream",
+      "koreanSlug": "taeyang-kkum",
+      "category": "celestial",
+      "subcategory": "sun",
+      "subcategoryKorean": "태양",
+      "related": [
+        "celestial-moon",
+        "nature-sunrise"
+      ],
+      "searchTier": "high",
+      "naverKeywords": [
+        "태양 꿈",
+        "해 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "sun dream meaning"
+      ]
+    },
+    {
+      "id": "celestial-moon",
+      "korean": "달 꿈",
+      "english": "Dream of the moon",
+      "slug": "moon-dream",
+      "koreanSlug": "dal-kkum",
+      "category": "celestial",
+      "subcategory": "moon",
+      "subcategoryKorean": "달",
+      "related": [
+        "celestial-sun",
+        "celestial-full-moon"
+      ],
+      "searchTier": "high",
+      "naverKeywords": [
+        "달 꿈",
+        "달 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "moon dream meaning"
+      ]
+    },
+    {
+      "id": "celestial-full-moon",
+      "korean": "보름달 꿈",
+      "english": "Dream of a full moon",
+      "slug": "full-moon-dream",
+      "koreanSlug": "boreumdal-kkum",
+      "category": "celestial",
+      "subcategory": "moon",
+      "subcategoryKorean": "달",
+      "related": [
+        "celestial-moon"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "보름달 꿈",
+        "보름달 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "full moon dream meaning"
+      ]
+    },
+    {
+      "id": "celestial-star",
+      "korean": "별 꿈",
+      "english": "Dream of stars",
+      "slug": "stars-dream",
+      "koreanSlug": "byeol-kkum",
+      "category": "celestial",
+      "subcategory": "star",
+      "subcategoryKorean": "별",
+      "related": [
+        "celestial-shooting-star",
+        "celestial-moon"
+      ],
+      "searchTier": "high",
+      "naverKeywords": [
+        "별 꿈",
+        "별 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "stars dream meaning"
+      ]
+    },
+    {
+      "id": "celestial-shooting-star",
+      "korean": "별똥별 꿈",
+      "english": "Dream of a shooting star",
+      "slug": "shooting-star-dream",
+      "koreanSlug": "byeolttongbyeol-kkum",
+      "category": "celestial",
+      "subcategory": "star",
+      "subcategoryKorean": "별",
+      "related": [
+        "celestial-star"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "별똥별 꿈",
+        "별똥별 꿈 해몽",
+        "유성 꿈"
+      ],
+      "googleKeywords": [
+        "shooting star dream meaning"
+      ]
+    },
+    {
+      "id": "celestial-many-stars",
+      "korean": "별이 많은 꿈",
+      "english": "Dream of many stars",
+      "slug": "many-stars-dream",
+      "koreanSlug": "byeol-maneun-kkum",
+      "category": "celestial",
+      "subcategory": "star",
+      "subcategoryKorean": "별",
+      "related": [
+        "celestial-star"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "별이 많은 꿈",
+        "별 많은 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "many stars dream meaning"
+      ]
+    },
+    {
+      "id": "celestial-eclipse",
+      "korean": "일식/월식 꿈",
+      "english": "Dream of an eclipse",
+      "slug": "eclipse-dream",
+      "koreanSlug": "ilsik-kkum",
+      "category": "celestial",
+      "subcategory": "eclipse",
+      "subcategoryKorean": "일식/월식",
+      "related": [
+        "celestial-sun",
+        "celestial-moon"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "일식 꿈",
+        "월식 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "eclipse dream meaning"
+      ]
+    },
+    {
+      "id": "celestial-planet",
+      "korean": "행성 꿈",
+      "english": "Dream of planets",
+      "slug": "planet-dream",
+      "koreanSlug": "haengseong-kkum",
+      "category": "celestial",
+      "subcategory": "planet",
+      "subcategoryKorean": "행성",
+      "related": [
+        "celestial-star",
+        "celestial-space"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "행성 꿈",
+        "행성 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "planet dream meaning"
+      ]
+    },
+    {
+      "id": "celestial-space",
+      "korean": "우주 꿈",
+      "english": "Dream of outer space",
+      "slug": "outer-space-dream",
+      "koreanSlug": "uju-kkum",
+      "category": "celestial",
+      "subcategory": "space",
+      "subcategoryKorean": "우주",
+      "related": [
+        "celestial-star",
+        "celestial-planet"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "우주 꿈",
+        "우주 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "outer space dream meaning"
+      ]
+    },
+    {
+      "id": "celestial-ufo",
+      "korean": "UFO 꿈",
+      "english": "Dream of a UFO",
+      "slug": "ufo-dream",
+      "koreanSlug": "ufo-kkum",
+      "category": "celestial",
+      "subcategory": "space",
+      "subcategoryKorean": "우주",
+      "related": [
+        "celestial-space",
+        "celestial-alien"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "UFO 꿈",
+        "UFO 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "UFO dream meaning"
+      ]
+    },
+    {
+      "id": "celestial-alien",
+      "korean": "외계인 꿈",
+      "english": "Dream of aliens",
+      "slug": "alien-dream",
+      "koreanSlug": "oegyein-kkum",
+      "category": "celestial",
+      "subcategory": "space",
+      "subcategoryKorean": "우주",
+      "related": [
+        "celestial-ufo",
+        "celestial-space"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "외계인 꿈",
+        "외계인 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "alien dream meaning"
+      ]
+    },
+    {
+      "id": "celestial-comet",
+      "korean": "혜성 꿈",
+      "english": "Dream of a comet",
+      "slug": "comet-dream",
+      "koreanSlug": "hyeseong-kkum",
+      "category": "celestial",
+      "subcategory": "star",
+      "subcategoryKorean": "별",
+      "related": [
+        "celestial-shooting-star"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "혜성 꿈",
+        "혜성 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "comet dream meaning"
+      ]
+    },
+    {
+      "id": "celestial-galaxy",
+      "korean": "은하수 꿈",
+      "english": "Dream of the Milky Way",
+      "slug": "milky-way-dream",
+      "koreanSlug": "eunhasu-kkum",
+      "category": "celestial",
+      "subcategory": "space",
+      "subcategoryKorean": "우주",
+      "related": [
+        "celestial-star",
+        "celestial-space"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "은하수 꿈",
+        "은하수 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "Milky Way dream meaning"
+      ]
+    },
+    {
+      "id": "celestial-end-of-world",
+      "korean": "세상이 멸망하는 꿈",
+      "english": "Dream of end of the world",
+      "slug": "end-of-world-dream",
+      "koreanSlug": "sesang-myeolmang-kkum",
+      "category": "celestial",
+      "subcategory": "apocalypse",
+      "subcategoryKorean": "종말",
+      "related": [
+        "disaster-general",
+        "celestial-space"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "세상 멸망 꿈",
+        "지구 멸망 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "end of the world dream meaning"
+      ]
+    },
+    {
+      "id": "celestial-rocket",
+      "korean": "로켓 꿈",
+      "english": "Dream of a rocket",
+      "slug": "rocket-dream",
+      "koreanSlug": "roket-kkum",
+      "category": "celestial",
+      "subcategory": "space",
+      "subcategoryKorean": "우주",
+      "related": [
+        "celestial-space",
+        "action-flying"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "로켓 꿈",
+        "로켓 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "rocket dream meaning"
+      ]
+    },
+    {
+      "id": "celestial-astronaut",
+      "korean": "우주인 꿈",
+      "english": "Dream of an astronaut",
+      "slug": "astronaut-dream",
+      "koreanSlug": "ujuin-kkum",
+      "category": "celestial",
+      "subcategory": "space",
+      "subcategoryKorean": "우주",
+      "related": [
+        "celestial-space"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "우주인 꿈",
+        "우주인 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "astronaut dream meaning"
+      ]
+    },
+    {
+      "id": "celestial-crescent",
+      "korean": "초승달 꿈",
+      "english": "Dream of a crescent moon",
+      "slug": "crescent-moon-dream",
+      "koreanSlug": "choseungdal-kkum",
+      "category": "celestial",
+      "subcategory": "moon",
+      "subcategoryKorean": "달",
+      "related": [
+        "celestial-moon",
+        "celestial-full-moon"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "초승달 꿈",
+        "초승달 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "crescent moon dream meaning"
+      ]
+    },
+    {
+      "id": "celestial-sunrise-red",
+      "korean": "붉은 태양 꿈",
+      "english": "Dream of a red sun",
+      "slug": "red-sun-dream",
+      "koreanSlug": "bulgeun-taeyang-kkum",
+      "category": "celestial",
+      "subcategory": "sun",
+      "subcategoryKorean": "태양",
+      "related": [
+        "celestial-sun"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "붉은 태양 꿈",
+        "빨간 해 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "red sun dream meaning"
+      ]
+    },
+    {
+      "id": "celestial-two-suns",
+      "korean": "해가 두개인 꿈",
+      "english": "Dream of two suns",
+      "slug": "two-suns-dream",
+      "koreanSlug": "hae-dugaein-kkum",
+      "category": "celestial",
+      "subcategory": "sun",
+      "subcategoryKorean": "태양",
+      "related": [
+        "celestial-sun"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "해가 두개 꿈",
+        "해 두개 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "two suns dream meaning"
+      ]
+    },
+    {
+      "id": "celestial-meteor",
+      "korean": "운석 꿈",
+      "english": "Dream of a meteor",
+      "slug": "meteor-dream",
+      "koreanSlug": "unseok-kkum",
+      "category": "celestial",
+      "subcategory": "star",
+      "subcategoryKorean": "별",
+      "related": [
+        "celestial-shooting-star",
+        "disaster-general"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "운석 꿈",
+        "운석 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "meteor dream meaning"
+      ]
+    },
+    {
+      "id": "celestial-sunrise",
+      "korean": "해가 뜨는 꿈",
+      "english": "Dream of sunrise",
+      "slug": "sunrise-dream",
+      "koreanSlug": "hae-tteuneun-kkum",
+      "category": "celestial",
+      "subcategory": "sun",
+      "subcategoryKorean": "태양",
+      "related": [
+        "celestial-sun"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "해 뜨는 꿈",
+        "일출 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "sunrise dream meaning"
+      ]
+    },
+    {
+      "id": "celestial-sunset",
+      "korean": "해가 지는 꿈",
+      "english": "Dream of sunset",
+      "slug": "sunset-dream",
+      "koreanSlug": "hae-jineun-kkum",
+      "category": "celestial",
+      "subcategory": "sun",
+      "subcategoryKorean": "태양",
+      "related": [
+        "celestial-sun"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "해 지는 꿈",
+        "일몰 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "sunset dream meaning"
+      ]
+    },
+    {
+      "id": "celestial-sun-swallow",
+      "korean": "해를 삼키는 꿈",
+      "english": "Dream of swallowing the sun",
+      "slug": "swallowing-sun-dream",
+      "koreanSlug": "hae-samkineun-kkum",
+      "category": "celestial",
+      "subcategory": "sun",
+      "subcategoryKorean": "태양",
+      "related": [
+        "celestial-sun",
+        "pregnancy-taemong-celestial-sun"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "해를 삼키는 꿈",
+        "해 삼키는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "swallowing sun dream meaning"
+      ]
+    },
+    {
+      "id": "celestial-moon-bright",
+      "korean": "밝은 달 꿈",
+      "english": "Dream of bright moon",
+      "slug": "bright-moon-dream",
+      "koreanSlug": "balgeun-dal-kkum",
+      "category": "celestial",
+      "subcategory": "moon",
+      "subcategoryKorean": "달",
+      "related": [
+        "celestial-moon",
+        "celestial-full-moon"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "밝은 달 꿈",
+        "밝은 달 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "bright moon dream meaning"
+      ]
+    },
+    {
+      "id": "celestial-moon-falling",
+      "korean": "달이 떨어지는 꿈",
+      "english": "Dream of moon falling",
+      "slug": "moon-falling-dream",
+      "koreanSlug": "dal-tteoreojineun-kkum",
+      "category": "celestial",
+      "subcategory": "moon",
+      "subcategoryKorean": "달",
+      "related": [
+        "celestial-moon",
+        "action-falling"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "달 떨어지는 꿈",
+        "달 추락 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "moon falling dream meaning"
+      ]
+    },
+    {
+      "id": "celestial-star-falling",
+      "korean": "별이 떨어지는 꿈",
+      "english": "Dream of stars falling",
+      "slug": "stars-falling-dream",
+      "koreanSlug": "byeol-tteoreojineun-kkum",
+      "category": "celestial",
+      "subcategory": "star",
+      "subcategoryKorean": "별",
+      "related": [
+        "celestial-star",
+        "celestial-shooting-star"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "별 떨어지는 꿈",
+        "별 떨어지는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "stars falling dream meaning"
+      ]
+    },
+    {
+      "id": "celestial-north-star",
+      "korean": "북극성 꿈",
+      "english": "Dream of the North Star",
+      "slug": "north-star-dream",
+      "koreanSlug": "bukgeukseong-kkum",
+      "category": "celestial",
+      "subcategory": "star",
+      "subcategoryKorean": "별",
+      "related": [
+        "celestial-star"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "북극성 꿈",
+        "북극성 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "North Star dream meaning"
+      ]
+    },
+    {
+      "id": "celestial-black-hole",
+      "korean": "블랙홀 꿈",
+      "english": "Dream of a black hole",
+      "slug": "black-hole-dream",
+      "koreanSlug": "beullaekol-kkum",
+      "category": "celestial",
+      "subcategory": "space",
+      "subcategoryKorean": "우주",
+      "related": [
+        "celestial-space",
+        "celestial-end-of-world"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "블랙홀 꿈",
+        "블랙홀 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "black hole dream meaning"
+      ]
+    },
+    {
+      "id": "celestial-satellite",
+      "korean": "인공위성 꿈",
+      "english": "Dream of a satellite",
+      "slug": "satellite-dream",
+      "koreanSlug": "ingong-wiseong-kkum",
+      "category": "celestial",
+      "subcategory": "space",
+      "subcategoryKorean": "우주",
+      "related": [
+        "celestial-space",
+        "celestial-rocket"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "인공위성 꿈",
+        "인공위성 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "satellite dream meaning"
+      ]
+    },
+    {
+      "id": "celestial-two-moons",
+      "korean": "달이 두 개인 꿈",
+      "english": "Dream of two moons",
+      "slug": "two-moons-dream",
+      "koreanSlug": "dal-du-gaein-kkum",
+      "category": "celestial",
+      "subcategory": "moon",
+      "subcategoryKorean": "달",
+      "related": [
+        "celestial-moon"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "달 두 개 꿈",
+        "달 두개 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "two moons dream meaning"
+      ]
+    },
+    {
+      "id": "celestial-sun-explode",
+      "korean": "태양이 폭발하는 꿈",
+      "english": "Dream of the sun exploding",
+      "slug": "sun-exploding-dream",
+      "koreanSlug": "taeyang-pokbal-kkum",
+      "category": "celestial",
+      "subcategory": "sun",
+      "subcategoryKorean": "태양",
+      "related": [
+        "celestial-sun",
+        "celestial-end-of-world"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "태양 폭발 꿈",
+        "태양 폭발 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "sun exploding dream meaning"
+      ]
+    },
+    {
+      "id": "celestial-moonlight",
+      "korean": "달빛 꿈",
+      "english": "Dream of moonlight",
+      "slug": "moonlight-dream",
+      "koreanSlug": "dalbit-kkum",
+      "category": "celestial",
+      "subcategory": "moon",
+      "subcategoryKorean": "달",
+      "related": [
+        "celestial-moon",
+        "celestial-moon-bright"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "달빛 꿈",
+        "달빛 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "moonlight dream meaning"
+      ]
+    },
+    {
+      "id": "celestial-starlight",
+      "korean": "별빛 꿈",
+      "english": "Dream of starlight",
+      "slug": "starlight-dream",
+      "koreanSlug": "byeolbit-kkum",
+      "category": "celestial",
+      "subcategory": "star",
+      "subcategoryKorean": "별",
+      "related": [
+        "celestial-star",
+        "celestial-many-stars"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "별빛 꿈",
+        "별빛 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "starlight dream meaning"
+      ]
+    },
+    {
+      "id": "celestial-planet-red",
+      "korean": "붉은 행성 꿈",
+      "english": "Dream of a red planet",
+      "slug": "red-planet-dream",
+      "koreanSlug": "bulgeun-haengseong-kkum",
+      "category": "celestial",
+      "subcategory": "planet",
+      "subcategoryKorean": "행성",
+      "related": [
+        "celestial-planet"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "붉은 행성 꿈",
+        "화성 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "red planet dream meaning",
+        "Mars dream meaning"
+      ]
+    },
+    {
+      "id": "celestial-constellation",
+      "korean": "별자리 꿈",
+      "english": "Dream of constellations",
+      "slug": "constellation-dream",
+      "koreanSlug": "byeoljari-kkum",
+      "category": "celestial",
+      "subcategory": "star",
+      "subcategoryKorean": "별",
+      "related": [
+        "celestial-star",
+        "celestial-many-stars"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "별자리 꿈",
+        "별자리 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "constellation dream meaning"
+      ]
+    },
+    {
+      "id": "celestial-sun-big",
+      "korean": "큰 태양 꿈",
+      "english": "Dream of a large sun",
+      "slug": "large-sun-dream",
+      "koreanSlug": "keun-taeyang-kkum",
+      "category": "celestial",
+      "subcategory": "sun",
+      "subcategoryKorean": "태양",
+      "related": [
+        "celestial-sun"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "큰 태양 꿈",
+        "큰 해 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "large sun dream meaning"
+      ]
+    },
+    {
+      "id": "celestial-moon-swallow",
+      "korean": "달을 삼키는 꿈",
+      "english": "Dream of swallowing the moon",
+      "slug": "swallowing-moon-dream",
+      "koreanSlug": "dal-samkineun-kkum",
+      "category": "celestial",
+      "subcategory": "moon",
+      "subcategoryKorean": "달",
+      "related": [
+        "celestial-moon",
+        "pregnancy-moon"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "달을 삼키는 꿈",
+        "달 삼키는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "swallowing moon dream meaning"
+      ]
+    },
+    {
+      "id": "celestial-star-catch",
+      "korean": "별을 잡는 꿈",
+      "english": "Dream of catching a star",
+      "slug": "catching-star-dream",
+      "koreanSlug": "byeol-jamneun-kkum",
+      "category": "celestial",
+      "subcategory": "star",
+      "subcategoryKorean": "별",
+      "related": [
+        "celestial-star"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "별 잡는 꿈",
+        "별 잡는 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "catching star dream meaning"
+      ]
+    },
+    {
+      "id": "celestial-eclipse-solar",
+      "korean": "일식 꿈",
+      "english": "Dream of a solar eclipse",
+      "slug": "solar-eclipse-dream",
+      "koreanSlug": "ilsik-kkum",
+      "category": "celestial",
+      "subcategory": "sun",
+      "subcategoryKorean": "태양",
+      "related": [
+        "celestial-sun",
+        "celestial-moon"
+      ],
+      "searchTier": "medium",
+      "naverKeywords": [
+        "일식 꿈",
+        "일식 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "solar eclipse dream meaning"
+      ]
+    },
+    {
+      "id": "celestial-eclipse-lunar",
+      "korean": "월식 꿈",
+      "english": "Dream of a lunar eclipse",
+      "slug": "lunar-eclipse-dream",
+      "koreanSlug": "wolsik-kkum",
+      "category": "celestial",
+      "subcategory": "moon",
+      "subcategoryKorean": "달",
+      "related": [
+        "celestial-moon",
+        "celestial-sun"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "월식 꿈",
+        "월식 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "lunar eclipse dream meaning"
+      ]
+    },
+    {
+      "id": "celestial-meteor-shower",
+      "korean": "유성우 꿈",
+      "english": "Dream of a meteor shower",
+      "slug": "meteor-shower-dream",
+      "koreanSlug": "yuseong-u-kkum",
+      "category": "celestial",
+      "subcategory": "star",
+      "subcategoryKorean": "별",
+      "related": [
+        "celestial-star",
+        "celestial-comet"
+      ],
+      "searchTier": "longtail",
+      "naverKeywords": [
+        "유성우 꿈",
+        "유성우 꿈 해몽"
+      ],
+      "googleKeywords": [
+        "meteor shower dream meaning"
+      ]
+    }
   ]
 }
