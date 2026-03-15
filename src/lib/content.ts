@@ -83,6 +83,36 @@ function detectBadge(sections: { heading?: string }[]): ContentPreview["badgeTyp
   return "neutral";
 }
 
+export async function getTopDreamsByViews(limit = 18): Promise<ContentPreview[]> {
+  try {
+    const db = getFirestore();
+    const snap = await db
+      .collection("dreams")
+      .orderBy("views", "desc")
+      .limit(limit)
+      .get();
+
+    return snap.docs.map((doc) => {
+      // eslint-disable-next-line @typescript-eslint/no-explicit-any
+      const data = doc.data() as any;
+      const sections = data?.ko?.sections ?? [];
+      return {
+        slug: doc.id,
+        koreanSlug: data?.seo?.koreanSlug ?? "",
+        title: { ko: data?.ko?.title ?? "", en: data?.en?.title ?? "" },
+        excerpt: {
+          ko: (data?.ko?.intro ?? "").slice(0, 130).trim() + "…",
+          en: (data?.en?.intro ?? "").slice(0, 130).trim() + "…",
+        },
+        heroImage: data?.images?.hero,
+        badgeType: detectBadge(sections),
+      };
+    });
+  } catch {
+    return [];
+  }
+}
+
 export async function getAvailableContentSlugs(): Promise<string[]> {
   try {
     const db = getFirestore();

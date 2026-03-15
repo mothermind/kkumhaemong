@@ -48,3 +48,13 @@ scripts/firebase-service-account.json
 
 # Temp files
 /temp
+
+# Runtime hook logs
+/logs
+
+# Pipeline artifacts — regenerable, not needed for app
+/data/images/
+/data/validation/
+
+# Local Claude settings override
+.claude/settings.local.json

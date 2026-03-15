@@ -2,7 +2,7 @@ import Image from "next/image";
 import { getTranslations } from "next-intl/server";
 import { Link } from "@/i18n/navigation";
 import type { Locale } from "@/i18n/routing";
-import { getContentPreviews } from "@/lib/content";
+import { getContentPreviews, getTopDreamsByViews } from "@/lib/content";
 import { DreamCard } from "@/components/dream/DreamCard";
 import { SearchBar } from "@/components/home/SearchBar";
 
@@ -43,10 +43,14 @@ export default async function HomePage({ params }: Props) {
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: "home" });
 
-  const previews = await getContentPreviews(POPULAR_SLUGS);
-  const ordered = POPULAR_SLUGS
-    .map((s) => previews.find((p) => p.slug === s))
-    .filter(Boolean) as typeof previews;
+  // Use live view counts if available; fall back to curated list for cold start
+  let ordered = await getTopDreamsByViews(18);
+  if (ordered.length < 6) {
+    const previews = await getContentPreviews(POPULAR_SLUGS);
+    ordered = POPULAR_SLUGS
+      .map((s) => previews.find((p) => p.slug === s))
+      .filter(Boolean) as typeof previews;
+  }
 
   return (
     <>

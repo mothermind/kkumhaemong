@@ -11,6 +11,7 @@ import { RelatedDreams } from "@/components/dream/RelatedDreams";
 import { MarkdownBody } from "@/components/dream/MarkdownBody";
 import { TableOfContents } from "@/components/dream/TableOfContents";
 import { ReadingProgress } from "@/components/dream/ReadingProgress";
+import { ViewTracker } from "@/components/dream/ViewTracker";
 import type { Locale } from "@/i18n/routing";
 
 type Props = {
@@ -93,6 +94,7 @@ export default async function DreamPage({ params }: Props) {
   return (
     <>
       <ReadingProgress />
+      <ViewTracker slug={content.seo.slug} />
 
       {jsonLd.map((schema, i) => (
         <script

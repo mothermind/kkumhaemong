@@ -900,5 +900,261 @@
       "description": "Verify body category research completion"
     },
     "tool_use_id": "toolu_01Ai4511DkE68ekACy5mzywR"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Read",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/lib/content.ts"
+    },
+    "tool_use_id": "toolu_01NEpviTdfsWKdEAiiFHh9Ej"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Read",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/app/[locale]/dream/[slug]/page.tsx"
+    },
+    "tool_use_id": "toolu_0171ZHMgCFT3ufYZBodrq8SF"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Read",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/lib/firestore.ts"
+    },
+    "tool_use_id": "toolu_01Y4FHTLarN9HJ9wwjtnZhMi"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Write",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/app/api/view/route.ts",
+      "content": "import { NextRequest, NextResponse } from \"next/server\";\nimport { FieldValue } from \"firebase-admin/firestore\";\nimport { getFirestore } from \"@/lib/firestore\";\n\nexport async function POST(req: NextRequest) {\n  try {\n    const { slug } = await req.json();\n    if (!slug || typeof slug !== \"string\") {\n      return NextResponse.json({ error: \"invalid slug\" }, { status: 400 });\n    }\n\n    // Sanitize slug \u2014 same rule as getContent()\n    const safe = slug.replace(/[^a-zA-Z0-9_-]/g, \"\");\n    if (!safe) return NextResponse.json({ error: \"invalid slug\" }, { status: 400 });\n\n    const db = getFirestore();\n    await db\n      .collection(\"dreams\")\n      .doc(safe)\n      .update({ views: FieldValue.increment(1) });\n\n    return NextResponse.json({ ok: true });\n  } catch {\n    // Never surface Firestore errors to the client\n    return NextResponse.json({ ok: true });\n  }\n}\n"
+    },
+    "tool_use_id": "toolu_01NN67ENDTRjH4h95ocW5PNG"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Write",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/components/dream/ViewTracker.tsx",
+      "content": "\"use client\";\n\nimport { useEffect } from \"react\";\n\nexport function ViewTracker({ slug }: { slug: string }) {\n  useEffect(() => {\n    fetch(\"/api/view\", {\n      method: \"POST\",\n      headers: { \"Content-Type\": \"application/json\" },\n      body: JSON.stringify({ slug }),\n    }).catch(() => {});\n  }, [slug]);\n\n  return null;\n}\n"
+    },
+    "tool_use_id": "toolu_013eaLXmJQ2nPefEKV6bVFmC"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/lib/content.ts",
+      "old_string": "export async function getAvailableContentSlugs(): Promise<string[]> {",
+      "new_string": "export async function getTopDreamsByViews(limit = 18): Promise<ContentPreview[]> {\n  try {\n    const db = getFirestore();\n    const snap = await db\n      .collection(\"dreams\")\n      .orderBy(\"views\", \"desc\")\n      .limit(limit)\n      .get();\n\n    return snap.docs.map((doc) => {\n      // eslint-disable-next-line @typescript-eslint/no-explicit-any\n      const data = doc.data() as any;\n      const sections = data?.ko?.sections ?? [];\n      return {\n        slug: doc.id,\n        koreanSlug: data?.seo?.koreanSlug ?? \"\",\n        title: { ko: data?.ko?.title ?? \"\", en: data?.en?.title ?? \"\" },\n        excerpt: {\n          ko: (data?.ko?.intro ?? \"\").slice(0, 130).trim() + \"\u2026\",\n          en: (data?.en?.intro ?? \"\").slice(0, 130).trim() + \"\u2026\",\n        },\n        heroImage: data?.images?.hero,\n        badgeType: detectBadge(sections),\n      };\n    });\n  } catch {\n    return [];\n  }\n}\n\nexport async function getAvailableContentSlugs(): Promise<string[]> {",
+      "replace_all": false
+    },
+    "tool_use_id": "toolu_016JLZ3GsRG8FS2E99TWYk4Q"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/app/[locale]/page.tsx",
+      "old_string": "import { getContentPreviews } from \"@/lib/content\";",
+      "new_string": "import { getContentPreviews, getTopDreamsByViews } from \"@/lib/content\";",
+      "replace_all": false
+    },
+    "tool_use_id": "toolu_018UmUfU9w1cKRTAXs2XZKca"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/app/[locale]/page.tsx",
+      "old_string": "  const previews = await getContentPreviews(POPULAR_SLUGS);\n  const ordered = POPULAR_SLUGS\n    .map((s) => previews.find((p) => p.slug === s))\n    .filter(Boolean) as typeof previews;",
+      "new_string": "  // Use live view counts if available; fall back to curated list for cold start\n  let ordered = await getTopDreamsByViews(18);\n  if (ordered.length < 6) {\n    const previews = await getContentPreviews(POPULAR_SLUGS);\n    ordered = POPULAR_SLUGS\n      .map((s) => previews.find((p) => p.slug === s))\n      .filter(Boolean) as typeof previews;\n  }",
+      "replace_all": false
+    },
+    "tool_use_id": "toolu_01WJu4JVHVe7VkvEiKwC5qUV"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/app/[locale]/dream/[slug]/page.tsx",
+      "old_string": "import { ReadingProgress } from \"@/components/dream/ReadingProgress\";",
+      "new_string": "import { ReadingProgress } from \"@/components/dream/ReadingProgress\";\nimport { ViewTracker } from \"@/components/dream/ViewTracker\";",
+      "replace_all": false
+    },
+    "tool_use_id": "toolu_01FNJkSVtokPzSDJajoogfb4"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/src/app/[locale]/dream/[slug]/page.tsx",
+      "old_string": "      <ReadingProgress />",
+      "new_string": "      <ReadingProgress />\n      <ViewTracker slug={content.seo.slug} />",
+      "replace_all": false
+    },
+    "tool_use_id": "toolu_013g14FzmbFeRbi7btfKga65"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Bash",
+    "tool_input": {
+      "command": "npm run build 2>&1 | tail -20",
+      "timeout": 120000,
+      "description": "Build check"
+    },
+    "tool_use_id": "toolu_01YDDnrFcRzbwAbLnKXp42wA"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Read",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/.gitignore"
+    },
+    "tool_use_id": "toolu_01QU3TXJ3D8fjj9nqCmRP1zP"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Bash",
+    "tool_input": {
+      "command": "ls /Users/llnormll/WorkSpace/my-fortune-site/",
+      "description": "List project root"
+    },
+    "tool_use_id": "toolu_01YCLyWmVb3iSWp85bnjwrsf"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Bash",
+    "tool_input": {
+      "command": "ls /Users/llnormll/WorkSpace/my-fortune-site/data/ && echo \"---\" && ls /Users/llnormll/WorkSpace/my-fortune-site/logs/ && echo \"---\" && ls /Users/llnormll/WorkSpace/my-fortune-site/public/ && echo \"---\" && ls /Users/llnormll/WorkSpace/my-fortune-site/scripts/",
+      "description": "Check data, logs, public, scripts directories"
+    },
+    "tool_use_id": "toolu_01HdLhwQtH6w1iP5QQUaaojS"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Bash",
+    "tool_input": {
+      "command": "ls /Users/llnormll/WorkSpace/my-fortune-site/data/images/ | head -5 && echo \"total: $(ls /Users/llnormll/WorkSpace/my-fortune-site/data/images/ | wc -l)\" && echo \"---\" && ls /Users/llnormll/WorkSpace/my-fortune-site/data/validation/ | head -5 && echo \"total: $(ls /Users/llnormll/WorkSpace/my-fortune-site/data/validation/ | wc -l)\" && echo \"---\" && ls /Users/llnormll/WorkSpace/my-fortune-site/.claude/",
+      "description": "Check data/images, data/validation, .claude directories"
+    },
+    "tool_use_id": "toolu_01NR1nuJnz4VGyjMz5Smmdim"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Bash",
+    "tool_input": {
+      "command": "ls /Users/llnormll/WorkSpace/my-fortune-site/data/images/accident-dream/ && echo \"---\" && cat /Users/llnormll/WorkSpace/my-fortune-site/.claude/settings.json | python3 -c \"import json,sys; d=json.load(sys.stdin); print(list(d.keys()))\"",
+      "description": "Check image manifest structure and settings.json keys"
+    },
+    "tool_use_id": "toolu_01PuyDQRVatcrW3mvbvZgH7G"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "/Users/llnormll/WorkSpace/my-fortune-site/.gitignore",
+      "old_string": "# Temp files\n/temp",
+      "new_string": "# Temp files\n/temp\n\n# Runtime hook logs\n/logs\n\n# Pipeline artifacts \u2014 regenerable, not needed for app\n/data/images/\n/data/validation/\n\n# Local Claude settings override\n.claude/settings.local.json",
+      "replace_all": false
+    },
+    "tool_use_id": "toolu_01P437Bk3GyjhxhPE16Wxbjo"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Bash",
+    "tool_input": {
+      "command": "find /Users/llnormll/WorkSpace/my-fortune-site/data/validation -type f -delete && rmdir /Users/llnormll/WorkSpace/my-fortune-site/data/validation",
+      "description": "Delete all validation report files then remove empty directory"
+    },
+    "tool_use_id": "toolu_01SQJWupQxcWj2hGWLCU3hQo"
+  },
+  {
+    "session_id": "06c5889a-d863-45bb-bfdc-6fb71d303cfc",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/06c5889a-d863-45bb-bfdc-6fb71d303cfc.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Bash",
+    "tool_input": {
+      "command": "ls /Users/llnormll/WorkSpace/my-fortune-site/data/",
+      "description": "Verify validation folder is gone"
+    },
+    "tool_use_id": "toolu_01G5d5D3m3wA2h2bioWshyCL"
   }
 ]
