@@ -1,0 +1,219 @@
+{
+  "symbol": {
+    "korean": "한복 꿈",
+    "english": "Hanbok",
+    "slug": "hanbok-dream"
+  },
+  "summary": {
+    "korean": "한복 꿈은 삶의 경사와 변화를 알리는 길조입니다. 아름다운 한복을 입는 꿈은 신분 상승, 귀인과의 만남, 결혼과 연애의 행운을 상징하며, 더럽거나 낡은 한복은 관계나 건강에 주의가 필요함을 경고합니다. 한복의 색깔과 상태에 따라 해몽이 달라집니다.",
+    "english": "Dreaming of hanbok — Korea's traditional clothing — generally signals auspicious life events, transformation, and social elevation. A beautiful, well-fitting hanbok foretells celebrations, meeting a benefactor, or romantic fortune. However, dirty, torn, or ill-fitting hanbok warns of relationship troubles or health concerns. The specific color and condition of the garment significantly shape the interpretation."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "아름답고 깔끔한 한복을 잘 차려입는 꿈은 큰 길몽입니다. 주변 사람들의 관심과 인정을 받게 되며, 직장에서의 승진이나 신분 상승을 암시합니다. 귀인을 만나 도움을 받게 되거나, 미혼자라면 이상형의 배우자를 만날 가능성이 높아집니다.",
+      "english": "Wearing a beautiful, well-fitted hanbok in a dream is highly auspicious. It signals recognition and admiration from those around you, possible promotion at work, or a rise in social standing. You may soon encounter a helpful benefactor, and for unmarried dreamers, this often heralds meeting an ideal romantic partner.",
+      "context": "경사스러운 일 — 승진, 결혼, 귀인 만남 — 을 앞두고 자주 나타나는 꿈"
+    },
+    {
+      "type": "길몽",
+      "korean": "한복을 선물로 받는 꿈은 연애운이 크게 상승할 길몽입니다. 누군가로부터 고백을 받거나 깊은 인연이 시작될 것을 암시합니다. 또한 자신을 진심으로 도와줄 귀한 인연과의 만남을 예고하기도 합니다.",
+      "english": "Receiving hanbok as a gift in a dream strongly favors romantic fortune. It foreshadows a heartfelt confession, the beginning of a meaningful relationship, or meeting someone who will become a genuinely supportive presence in your life.",
+      "context": "선물 꿈 — 인연과 연애의 시작을 암시하는 전형적인 길몽 패턴"
+    },
+    {
+      "type": "길몽",
+      "korean": "한복을 사는 꿈은 집안에 경사가 생기거나 결혼과 관련된 행운을 암시합니다. 새로운 사람과의 만남을 원하는 마음이 반영된 꿈으로, 적극적으로 교류하고 행동하면 좋은 인연을 맺게 됩니다.",
+      "english": "Buying hanbok in a dream suggests an upcoming family celebration — often a wedding — or a favorable shift in romantic fortune. This dream reflects a genuine desire for new connections; actively engaging with others will attract the good relationships you seek.",
+      "context": "구매 행위는 능동적 의지를 상징하며 연애·결혼운과 연결됨"
+    },
+    {
+      "type": "흉몽",
+      "korean": "더럽거나 해진 한복을 입는 꿈은 흉몽입니다. 건강이 악화되거나 귀찮은 일로 인한 마음 고생을 예고합니다. 가까운 관계에서 배신이나 갈등이 생길 수 있으니 주변 사람들과의 관계에 주의를 기울여야 합니다.",
+      "english": "Wearing dirty or tattered hanbok is inauspicious. It warns of declining health, accumulating stress from troublesome matters, or potential betrayal in close relationships. This dream calls for greater attention to your wellbeing and to the integrity of your personal relationships.",
+      "context": "의복의 더러움과 훼손은 건강 문제나 관계 파탄을 상징하는 고전적 흉몽 모티프"
+    },
+    {
+      "type": "흉몽",
+      "korean": "검은 한복을 입는 꿈은 건강이나 사고에 대한 경고입니다. 질병이나 예상치 못한 사고가 생길 수 있음을 암시하므로 건강 관리와 안전에 각별히 신경 써야 합니다. 단, 검은 한복이 위엄 있고 인상적으로 느껴졌다면 뜻밖의 기회가 찾아올 반전의 길몽으로도 해석됩니다.",
+      "english": "Dreaming of a black hanbok typically warns of health issues or accidents. It urges vigilance regarding your physical wellbeing and personal safety. However, if the black hanbok appeared dignified and impressive, some interpretations read this as a sudden reversal of fortune — an unexpected major opportunity on the horizon.",
+      "context": "흑색은 불길함의 전통적 상징이지만, 권위와 반전의 의미도 공존함"
+    },
+    {
+      "type": "흉몽",
+      "korean": "한복의 옷고름이 떨어지거나 잘 맞지 않는 한복을 입는 꿈은 흉몽입니다. 중요한 시험이나 일에서 실패하거나, 계획한 행사가 기대에 못 미치거나, 대인 관계에서 갈등과 어려움이 생길 수 있음을 암시합니다.",
+      "english": "A hanbok with its decorative tie (옷고름) falling off, or wearing an ill-fitting hanbok, is inauspicious. It warns of failure in important exams or projects, disappointing outcomes from planned events, and friction in interpersonal relationships.",
+      "context": "옷의 정돈됨과 맞음새는 사회적 조화와 성공 여부를 반영하는 상징"
+    },
+    {
+      "type": "neutral",
+      "korean": "한복을 입고 석양을 바라보는 꿈은 한복의 상태에 따라 해석이 달라집니다. 깨끗하고 아름다운 한복이라면 매력이 절정에 달해 좋은 만남의 기회가 열리고 있음을 의미하고, 더럽거나 찢어진 한복이라면 관계가 소원해질 수 있음을 경고합니다.",
+      "english": "Wearing hanbok while watching a sunset carries a meaning that depends entirely on the garment's condition. A clean, beautiful hanbok signals peak personal charm and an open window for meaningful romantic encounters. A soiled or torn garment warns that a relationship may be growing distant.",
+      "context": "석양은 마무리와 전환을 상징 — 의복 상태가 결과의 방향을 결정함"
+    },
+    {
+      "type": "neutral",
+      "korean": "한복을 입고 잠드는 꿈은 현재 건강 상태와 수면의 질을 반영합니다. 한복이 깨끗하면 심신이 안정되고 건강한 휴식을 취하고 있음을 나타내며, 한복이 더럽거나 어수선하면 건강에 소홀하지 말고 생활 습관을 점검할 필요가 있음을 암시합니다.",
+      "english": "Sleeping while dressed in hanbok reflects your current health and sleep quality. A clean hanbok indicates stable physical and mental wellbeing and restful sleep. A dirty or disordered hanbok suggests the need to reassess lifestyle habits and pay closer attention to your health.",
+      "context": "잠드는 꿈은 무의식적 자기 점검 — 의복 상태가 몸 상태를 비춤"
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "한복 입는 꿈",
+      "keyword_en": "wearing hanbok dream",
+      "interpretation_ko": "길몽입니다. 주변의 관심을 받고 명예가 높아지며, 윗사람의 도움으로 원하는 일이 순조롭게 풀리게 됩니다. 미혼자에게는 좋은 인연이 다가올 것을 암시합니다.",
+      "interpretation_en": "An auspicious dream signaling increased recognition, rising honor, and the support of a mentor or superior. For unmarried individuals, a favorable romantic encounter is on the way."
+    },
+    {
+      "keyword_ko": "한복 선물 받는 꿈",
+      "keyword_en": "receiving hanbok as a gift dream",
+      "interpretation_ko": "연애운이 크게 상승하는 길몽입니다. 고백을 받거나 새로운 인연이 시작될 것을 암시하며, 진심으로 도와줄 귀인과의 만남도 예고합니다.",
+      "interpretation_en": "A strongly auspicious dream for romantic fortune. Expect a heartfelt confession, the start of a new relationship, or the arrival of a genuinely supportive benefactor in your life."
+    },
+    {
+      "keyword_ko": "흰 한복 꿈",
+      "keyword_en": "white hanbok dream",
+      "interpretation_ko": "흰 한복을 입는 꿈은 대체로 길몽으로, 근심이 해소되고 순수하고 깨끗한 새로운 출발을 암시합니다. 유산이나 재물을 상속받게 될 수도 있습니다. 단, 흰 한복에서 좋지 않은 느낌을 받았다면 외로움이나 슬픔을 주의해야 합니다.",
+      "interpretation_en": "Generally auspicious — white hanbok signals the clearing of worries, a fresh and pure start, or possible inheritance of assets. If the dream carried a negative emotional tone, however, it may warn of loneliness or sorrow ahead."
+    },
+    {
+      "keyword_ko": "검은 한복 꿈",
+      "keyword_en": "black hanbok dream",
+      "interpretation_ko": "건강 문제나 사고를 경고하는 꿈입니다. 신체적 안전과 건강 관리에 주의가 필요합니다. 그러나 위엄 있고 인상적인 검은 한복이었다면 뜻밖의 큰 기회가 찾아오는 반전의 길몽으로도 볼 수 있습니다.",
+      "interpretation_en": "Primarily a warning about health deterioration or unexpected accidents — take extra care of your physical wellbeing. If the black hanbok appeared dignified and commanding rather than ominous, this may instead signal a sudden, major reversal of fortune for the better."
+    },
+    {
+      "keyword_ko": "색동 한복 꿈",
+      "keyword_en": "colorful (saekdong) hanbok dream",
+      "interpretation_ko": "오방색이 담긴 색동 한복 꿈은 기쁨과 풍요를 상징하는 길몽입니다. 악운이 물러가고 집안에 생기와 경사가 깃들 것을 암시합니다. 아이가 있는 꿈이라면 자녀의 성장과 건강을 나타내기도 합니다.",
+      "interpretation_en": "Colorful saekdong hanbok — featuring the five traditional Korean colors — is a joyful, auspicious dream symbolizing abundance, the warding off of misfortune, and celebratory events coming to the household. If children appear in the dream, it may reflect the health and flourishing of a child."
+    },
+    {
+      "keyword_ko": "더러운 한복 꿈",
+      "keyword_en": "dirty hanbok dream",
+      "interpretation_ko": "흉몽입니다. 건강 악화나 주변 사람으로부터의 배신 혹은 갈등을 암시합니다. 당분간 건강 관리와 대인 관계에 신중함이 필요합니다.",
+      "interpretation_en": "An inauspicious dream warning of health decline or betrayal and conflict in close relationships. Exercise caution regarding your wellbeing and be mindful of the integrity of those around you."
+    },
+    {
+      "keyword_ko": "찢어진 한복 꿈",
+      "keyword_en": "torn hanbok dream",
+      "interpretation_ko": "관계의 파탄이나 사회적 어려움을 암시하는 흉몽입니다. 중요한 계획이 틀어지거나 신뢰하던 인연이 끊어질 수 있으니 주의하세요.",
+      "interpretation_en": "An inauspicious dream signaling relationship breakdowns or social difficulties. Important plans may go awry, or a trusted connection may be severed. Proceed with caution in key matters."
+    },
+    {
+      "keyword_ko": "한복 맞추는 꿈",
+      "keyword_en": "getting hanbok custom-made dream",
+      "interpretation_ko": "결혼이나 중요한 행사를 앞두고 준비하는 과정을 암시합니다. 좋은 일이 다가오고 있으나 맞춤 과정에서 어려움이 있었다면 혼담이나 행사 진행이 순탄치 않을 수 있음을 경고합니다.",
+      "interpretation_en": "Suggests preparation for an upcoming wedding or significant ceremony. Positive developments are approaching, but if the fitting process felt difficult or frustrating, it may warn of complications in matchmaking or event planning."
+    },
+    {
+      "keyword_ko": "한복 사는 꿈",
+      "keyword_en": "buying hanbok dream",
+      "interpretation_ko": "집안에 결혼 등 경사스러운 일이 생길 것을 암시하는 길몽입니다. 연애운도 상승하며 새로운 만남의 기회가 열립니다.",
+      "interpretation_en": "An auspicious dream foretelling a family celebration — often a wedding. Romantic fortune also improves, and new opportunities for meaningful connections are opening up."
+    },
+    {
+      "keyword_ko": "이성이 한복 입은 꿈",
+      "keyword_en": "seeing someone of the opposite sex in hanbok dream",
+      "interpretation_ko": "연애운이 상승하는 길몽입니다. 꿈속 이성이 아름답게 보였다면 곧 좋은 만남이나 사랑의 시작을 암시합니다.",
+      "interpretation_en": "An auspicious dream indicating rising romantic fortune. If the person of the opposite sex appeared beautiful and attractive in their hanbok, a wonderful new romantic connection is likely on its way."
+    }
+  ],
+  "culturalContext": {
+    "korean": "한복은 단순한 의복이 아니라 한국인의 정체성과 전통 미의식을 담은 문화유산입니다. 예로부터 한복은 혼례, 제사, 명절 등 삶의 중요한 순간마다 착용되어 경사(慶事)와 의례(儀禮)를 상징해 왔습니다. 한복의 색깔은 음양오행(陰陽五行) 사상에 뿌리를 두고 있으며, 오방색(청·백·적·흑·황)은 각각 방위와 계절, 덕목을 상징합니다. 색동 저고리의 알록달록한 빛깔은 오방색을 통해 악귀를 쫓고 복을 부른다는 벽사(辟邪)의 의미를 담고 있습니다. 흰 한복은 한민족의 청정함과 순수함을 대표하는 상징으로 '백의민족'이라는 별칭의 근원이 되었습니다. 꿈에서 한복은 이러한 문화적 상징성을 고스란히 담아, 격식·품위·변화·축복의 메시지를 전달합니다.",
+    "english": "Hanbok is far more than clothing — it is a living cultural heritage embodying Korean identity and the traditional sense of beauty. Throughout history, hanbok has been worn at life's most significant moments: weddings, ancestral rites (제사), and seasonal festivals (명절), making it an enduring symbol of celebration and ceremonial gravity. The colors of hanbok are rooted in the philosophy of yin-yang and the five elements (음양오행), with the five traditional colors — blue, white, red, black, and yellow — each representing a cardinal direction, season, and virtue. The multicolored saekdong pattern found on children's garments was believed to drive away evil spirits through the power of the five directions. The white hanbok, representing purity and simplicity, gave rise to the beloved epithet for Koreans — 'the white-clad people' (백의민족). In dreams, hanbok carries all of this symbolic weight, delivering messages of dignity, transformation, and blessing."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트 심리학의 관점에서 한복 꿈은 억압된 자아 표현과 사회적 역할에 대한 욕구를 반영할 수 있어요. 한복을 입는 행위는 특정 사회적 페르소나를 채택하거나 문화적 정체성 속에서 인정받고 싶은 무의식적 욕망을 나타낼 수 있습니다. 더럽거나 찢어진 한복은 자아 이상(ego ideal)과 현실 자아 사이의 갈등, 또는 사회적 역할 수행에 대한 불안을 상징할 수 있어요.",
+      "english": "From a Freudian perspective, dreaming of hanbok may reflect suppressed desires for self-expression and social recognition. The act of wearing hanbok can represent the unconscious adoption of a particular social persona or a longing for validation within a cultural identity. A dirty or torn hanbok may symbolize the tension between the ego ideal and the actual self — an underlying anxiety about one's ability to fulfill expected social roles."
+    },
+    "jungian": {
+      "korean": "융 심리학에서 한복 꿈은 집단 무의식 속 '문화적 원형(cultural archetype)'과의 접촉을 의미할 수 있어요. 한복은 수천 년의 역사와 공동체적 가치를 담고 있기에, 꿈에서 한복을 입는 것은 자신의 뿌리와 문화적 유산과 깊이 연결되고자 하는 자기(Self) 실현의 과정으로 해석됩니다. 한복의 색깔은 그림자(Shadow), 아니마/아니무스(Anima/Animus) 등 다양한 원형적 에너지를 상징할 수도 있어요.",
+      "english": "In Jungian analysis, dreaming of hanbok may represent contact with a 'cultural archetype' embedded in the collective unconscious. Because hanbok carries millennia of history and communal values, wearing it in a dream can be understood as part of the individuation process — a deep reconnection with one's roots and cultural heritage in the journey toward Self-realization. The colors of the hanbok may additionally symbolize Jungian archetypes such as the Shadow, Anima, or Animus."
+    },
+    "modern": {
+      "korean": "현대 심리학에서는 한복 꿈을 정체성 탐색과 문화적 귀속감에 대한 무의식적 신호로 봐요. 특히 해외 거주 한국인이나 디아스포라에게 한복 꿈은 고국과의 연결감, 전통과 현대 사이의 정체성 균형에 대한 심리적 욕구를 반영하는 경우가 많습니다. 아름다운 한복을 입는 꿈은 자기 효능감(self-efficacy)과 사회적 자신감의 상승을 나타낼 수 있어요.",
+      "english": "From a modern psychological standpoint, dreaming of hanbok may signal an unconscious exploration of identity and cultural belonging. For Koreans living abroad or in the diaspora, this dream often reflects a longing for connection with one's homeland and an inner desire to balance tradition with modern identity. Wearing a beautiful hanbok in a dream can represent rising self-efficacy and growing social confidence."
+    },
+    "crossCultural": {
+      "korean": "전 세계 다양한 문화에서 전통 의복을 입는 꿈은 유사한 방식으로 해석됩니다. 일본의 기모노, 인도의 사리, 중국의 치파오처럼 민족 고유의 전통복을 꿈에서 착용하는 것은 문화적 자긍심, 가족·공동체와의 유대, 삶의 전환점을 상징하는 보편적 꿈 언어로 기능합니다. 한복 꿈 역시 이러한 맥락에서 한국 문화의 연속성과 품위에 대한 경외심, 그리고 중요한 삶의 의식(儀式)에 참여한다는 의미를 담고 있어요.",
+      "english": "Across many world cultures, dreaming of wearing traditional garments carries remarkably similar meanings. Like the Japanese kimono, Indian sari, or Chinese qipao, donning one's cultural heritage clothing in a dream functions as a universal dream language symbolizing cultural pride, connection to family and community, and life transitions. The hanbok dream fits squarely within this cross-cultural pattern — expressing reverence for Korean cultural continuity, dignity, and participation in life's most meaningful rites of passage."
+    }
+  },
+  "relatedSymbols": [
+    "clothes-dream",
+    "new-clothes-dream",
+    "white-clothes-dream",
+    "wedding-dream",
+    "uniform-dream",
+    "buying-clothes-dream"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "한복 꿈 해몽",
+      "한복 입는 꿈",
+      "한복 꿈 의미",
+      "한복 꿈 길몽",
+      "흰 한복 꿈",
+      "검은 한복 꿈",
+      "색동 한복 꿈",
+      "한복 선물 받는 꿈",
+      "한복 사는 꿈",
+      "한복 맞추는 꿈",
+      "한복 더러운 꿈",
+      "한복 찢어진 꿈",
+      "전통 의복 꿈 해몽",
+      "한복 꿈풀이"
+    ],
+    "english": [
+      "hanbok dream meaning",
+      "dreaming of hanbok interpretation",
+      "traditional Korean clothing dream",
+      "wearing hanbok dream",
+      "white hanbok dream symbolism",
+      "Korean dress dream interpretation",
+      "hanbok dream auspicious",
+      "cultural clothing dream meaning"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "한복을 입는 꿈은 좋은 꿈인가요?",
+      "answer_ko": "네, 대체로 길몽입니다. 아름답고 깔끔한 한복을 잘 차려입는 꿈은 주변의 인정을 받고 신분이나 명예가 상승할 것을 암시해요. 귀인을 만나거나 미혼자라면 좋은 인연과의 만남이 가까워졌다는 신호이기도 합니다.",
+      "answer_en": "Yes, generally an auspicious dream. Wearing a beautiful, clean hanbok signals upcoming recognition, a rise in social standing or honor, and the possible arrival of a helpful benefactor. For unmarried dreamers, it often heralds a favorable romantic encounter.",
+      "question_en": "Is dreaming of wearing hanbok a good sign?"
+    },
+    {
+      "question_ko": "흰 한복 꿈은 어떤 의미인가요?",
+      "answer_ko": "흰 한복 꿈은 주로 길몽으로 해석됩니다. 근심이 해소되고 순수한 새 출발을 암시하며, 재물이나 유산을 얻게 될 수도 있어요. 다만 꿈속에서 불안하거나 좋지 않은 느낌을 받았다면 외로움이나 슬픔에 주의할 필요가 있습니다.",
+      "answer_en": "White hanbok is mostly interpreted as auspicious — it signals the clearing of worries, a fresh and pure beginning, or possible inheritance of wealth. However, if the dream carried a negative or uneasy emotional tone, it may instead warn of approaching loneliness or sorrow.",
+      "question_en": "What does dreaming of a white hanbok mean?"
+    },
+    {
+      "question_ko": "더럽거나 찢어진 한복 꿈은 무엇을 의미하나요?",
+      "answer_ko": "흉몽으로 해석됩니다. 건강이 나빠지거나 가까운 사람과의 관계에서 갈등이나 배신이 생길 수 있다는 경고예요. 당분간 건강 관리와 대인 관계에 각별히 신경 쓰시는 것이 좋습니다.",
+      "answer_en": "This is considered inauspicious. A dirty or torn hanbok warns of health deterioration or potential conflict and betrayal in close relationships. It is wise to pay extra attention to your physical wellbeing and to be mindful in your personal relationships for the time being.",
+      "question_en": "What does it mean to dream of a dirty or torn hanbok?"
+    },
+    {
+      "question_ko": "검은 한복 꿈은 항상 나쁜 꿈인가요?",
+      "answer_ko": "대체로 건강이나 사고에 대한 경고로 해석되지만, 반드시 나쁜 꿈만은 아닙니다. 꿈속에서 검은 한복이 위엄 있고 강렬하게 느껴졌다면 뜻밖의 큰 기회나 운의 반전을 예고하는 길몽으로 볼 수 있어요.",
+      "answer_en": "Not always. A black hanbok typically warns of health issues or accidents, but if the garment felt dignified and powerfully impressive in the dream, it may instead signal a sudden major reversal of fortune — an unexpected opportunity arriving in your favor.",
+      "question_en": "Is dreaming of a black hanbok always a bad sign?"
+    },
+    {
+      "question_ko": "색동 한복 꿈은 무슨 의미인가요?",
+      "answer_ko": "길몽입니다. 색동 한복의 오방색은 전통적으로 사방의 악귀를 쫓고 복을 불러들이는 벽사(辟邪)의 의미를 담고 있어요. 집안에 기쁜 일이 생기거나 풍요와 생기가 넘칠 것을 암시합니다.",
+      "answer_en": "An auspicious dream. The five-colored saekdong pattern of colorful hanbok traditionally symbolizes the warding off of evil spirits from all four directions and the drawing in of good fortune. This dream suggests joyful family events and a period of abundance and vitality ahead.",
+      "question_en": "What does it mean to dream of colorful saekdong hanbok?"
+    },
+    {
+      "question_ko": "한복을 선물로 받는 꿈은 무슨 의미인가요?",
+      "answer_ko": "연애운이 크게 상승하는 길몽입니다. 가까운 시일 내에 누군가의 고백을 받거나 새로운 사랑이 시작될 수 있음을 암시해요. 자신을 진심으로 아끼고 도와줄 귀한 인연을 만나게 될 수도 있습니다.",
+      "answer_en": "A strongly auspicious dream for romantic fortune. It suggests you may soon receive a heartfelt confession or that a new love is about to begin. It can also signal the arrival of someone who will genuinely care for and support you.",
+      "question_en": "What does receiving hanbok as a gift mean in a dream?"
+    }
+  ]
+}

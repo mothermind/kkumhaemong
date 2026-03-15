@@ -1,0 +1,210 @@
+{
+  "symbol": {
+    "korean": "동전",
+    "english": "Coins",
+    "slug": "coins-dream"
+  },
+  "summary": {
+    "korean": "동전 꿈은 동전의 상태와 수량에 따라 재물운 상승의 길몽이 되기도 하고, 근심과 다툼을 예고하는 흉몽이 되기도 합니다.",
+    "english": "Dreaming of coins can be either auspicious or inauspicious depending on their condition and quantity — gleaming, plentiful coins signal rising wealth, while a few rusty or scattered coins warn of worries and conflict."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "빛나고 새로운 동전을 줍거나 받는 꿈은 재물운이 크게 상승할 징조입니다. 특히 금화나 반짝이는 동전을 한 무더기 줍는 꿈은 복권 당첨, 투자 수익, 부동산 이익 등 큰 횡재를 암시하며, 작은 이익들이 쌓여 큰 재산으로 이어질 것을 예고합니다.",
+      "english": "Dreaming of picking up or receiving bright, shiny new coins is a strong omen of rising financial fortune. Gathering a large pile of golden or gleaming coins in a dream foretells a windfall — lottery winnings, investment returns, or real estate gains — as small accumulations grow into substantial wealth.",
+      "context": "When coins are new, shiny, golden, or plentiful — and the dreamer is actively collecting or receiving them"
+    },
+    {
+      "type": "길몽",
+      "korean": "하늘에서 반짝이는 동전이 우박처럼 쏟아지는 꿈은 매우 강력한 길몽입니다. 관운, 승진운, 횡재수를 모두 아우르는 예지몽으로, 재물이 창고에 넘쳐날 만큼 풍요로운 시기가 도래할 것을 의미합니다.",
+      "english": "A dream where shining coins rain down from the sky like hail is an exceptionally powerful auspicious omen. It foretells great luck across all domains — career advancement, promotions, and unexpected windfalls — signaling an era of overwhelming abundance.",
+      "context": "When coins fall abundantly and brilliantly from the sky, filling the ground"
+    },
+    {
+      "type": "길몽",
+      "korean": "길이나 밭에서 새 금화나 빛나는 동전을 줍는 꿈은 좋은 직업을 구하거나, 현실에서 훌륭한 사람을 만나게 되고 직장에서 승진하거나 명예를 얻을 것을 암시합니다. 맑은 물속에서 금화를 줍는 경우에는 생산업, 식품업, 수산업, 무역업 등에서 사업적 성공이 이루어짐을 나타냅니다.",
+      "english": "Picking up new golden coins or gleaming coins on a road or in a field foretells finding a good job, meeting an influential person, earning a promotion, or gaining social prestige. Finding golden coins in clear water specifically suggests business success in production, food, fisheries, or trade industries.",
+      "context": "When new or golden coins are found on roads, fields, or in clear water"
+    },
+    {
+      "type": "흉몽",
+      "korean": "녹이 슨 동전을 줍는 꿈은 대표적인 흉몽입니다. 오랫동안 병상에 있던 가까운 사람이 갑작스럽게 사망하여 깊은 슬픔에 빠지게 될 것을 예고합니다.",
+      "english": "Picking up rusty or corroded coins in a dream is a classic bad omen, foretelling the sudden death of someone who has been long ill, bringing profound grief.",
+      "context": "When the coins are rusty, tarnished, or corroded"
+    },
+    {
+      "type": "흉몽",
+      "korean": "길에서 몇 개의 동전만 줍는 꿈은 그날 하루 운세가 좋지 않음을 알리는 흉몽입니다. 근심과 걱정이 생기거나 가까운 사람과 다툼이 벌어질 수 있음을 암시합니다. 소수의 동전은 일이 막히고 구설수에 오르거나 부끄러운 일이 생기며 건강이 나빠질 수 있는 징조로 해석되기도 합니다.",
+      "english": "Picking up only a few coins off the ground in a dream is an inauspicious sign, indicating a day of poor fortune filled with worry and potential conflict with close friends or colleagues. Small numbers of coins can also symbolize blocked progress, gossip, embarrassment, or declining health.",
+      "context": "When only a small, meager number of coins are found — quantity matters greatly"
+    },
+    {
+      "type": "흉몽",
+      "korean": "하늘에서 동전이 몇 개만 떨어지는 꿈은 가족이나 주변인에게 우환이 발생할 것을 예고하는 흉몽입니다. 동전의 수가 적을수록 닥쳐올 불행의 징조가 강해집니다.",
+      "english": "A dream where only a few coins fall from the sky warns of trouble or misfortune befalling family members or close associates. The fewer the coins, the stronger the omen of impending hardship.",
+      "context": "When coins fall from the sky but only in small, sparse quantities"
+    },
+    {
+      "type": "neutral",
+      "korean": "동전을 받거나 얻는 꿈은 계절에 따라 달리 해석됩니다. 봄과 여름에 동전이나 엽전을 받는 꿈은 좋은 일의 징조이나, 겨울철에는 좋지 못한 궂은 일이 발생할 수 있음을 암시합니다. 또한 동전을 타인에게 주는 꿈은 현재의 재물이나 기회가 타인에게 넘어갈 수 있음을 경고합니다.",
+      "english": "Receiving coins in a dream is interpreted differently by season: in spring and summer it is a positive sign, but in winter it may foretell adverse events. Giving coins away to others in a dream can warn that current wealth or opportunities may be transferred or lost to someone else.",
+      "context": "When receiving coins — season and direction of exchange determine the outcome"
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "동전 줍는 꿈",
+      "keyword_en": "dream of picking up coins",
+      "interpretation_ko": "기본적으로는 흉몽으로 분류되지만 동전의 수량과 상태에 따라 달라집니다. 소량의 동전은 근심·다툼의 징조이고, 대량의 빛나는 동전을 한꺼번에 쓸어 담을 정도로 줍는 꿈은 길몽으로 복권 3등 수준의 행운이 따른다고 전해집니다.",
+      "interpretation_en": "Broadly classified as inauspicious but highly context-dependent. Picking up a few coins signals worry and conflict, while sweeping up large quantities of gleaming coins in one go is an auspicious omen associated with lottery-level good luck (typically third-prize range)."
+    },
+    {
+      "keyword_ko": "금화 꿈 / 황금 동전 꿈",
+      "keyword_en": "golden coins dream / gold coin dream",
+      "interpretation_ko": "금화나 황금빛 동전이 나오는 꿈은 길몽입니다. 훌륭한 인물과의 만남, 승진, 명예 획득, 재물 증식을 상징하며 특히 물속에서 금화를 줍는 꿈은 수산업·무역업 등에서의 사업 성공을 암시합니다.",
+      "interpretation_en": "Dreams featuring golden coins are auspicious, symbolizing encounters with influential people, promotions, social honor, and wealth accumulation. Finding gold coins in clear water specifically suggests business success in fisheries, trade, or production industries."
+    },
+    {
+      "keyword_ko": "은화 꿈 / 은색 동전 꿈",
+      "keyword_en": "silver coins dream",
+      "interpretation_ko": "은화나 은색 동전은 금화보다는 소박하지만 안정적인 재물운을 상징합니다. 빛나는 은화를 얻는 꿈은 소소하지만 꾸준한 수입이나 안정적인 직업 운을 나타냅니다.",
+      "interpretation_en": "Silver coins symbolize modest but steady financial luck — less dramatic than golden coins but suggesting consistent, stable income or a reliable career opportunity."
+    },
+    {
+      "keyword_ko": "엽전 꿈 / 옛날 동전 꿈",
+      "keyword_en": "old coins dream / antique coins dream",
+      "interpretation_ko": "엽전(조선시대 엽전)이나 오래된 동전이 나오는 꿈은 계절에 따라 해석이 다릅니다. 봄·여름철에는 길한 일의 예조이나 겨울철에는 궂은 일이 발생할 수 있습니다. 또한 엽전은 조상의 기운이나 전통적 재물신의 축복으로도 해석됩니다.",
+      "interpretation_en": "Dreams of traditional Korean coins (엽전) or antique coins carry seasonal nuance: auspicious in spring and summer, but potentially troublesome in winter. Old coins can also represent blessings from ancestral spirits or traditional wealth deities in Korean shamanistic belief."
+    },
+    {
+      "keyword_ko": "동전 많이 줍는 꿈",
+      "keyword_en": "dream of finding many coins",
+      "interpretation_ko": "산처럼 쌓인 동전을 자루에 쓸어 담거나 대량의 동전을 한꺼번에 얻는 꿈은 매우 강력한 길몽입니다. 복권 당첨, 주식 수익, 아파트 당첨 등 큰 규모의 횡재를 예고하는 꿈으로, 특히 반짝거리고 새 동전일수록 행운의 크기가 커집니다.",
+      "interpretation_en": "Sweeping up or gathering huge quantities of coins into a bag is a powerful auspicious dream, heralding major windfalls such as lottery wins, stock profits, or real estate gains. The shinier and newer the coins, the greater the fortune foretold."
+    },
+    {
+      "keyword_ko": "녹슨 동전 꿈",
+      "keyword_en": "rusty coins dream",
+      "interpretation_ko": "녹이 슬거나 부식된 동전을 줍는 꿈은 대표적인 흉몽으로, 오랫동안 투병 중인 가까운 사람이 갑자기 사망하게 됨을 예고합니다. 또는 오래된 인연이나 사업이 회복 불가능하게 쇠락하는 징조로 해석되기도 합니다.",
+      "interpretation_en": "Picking up rusty or corroded coins is a well-known bad omen, foretelling the death of someone who has been long ill, or the irreversible decline of an old relationship or business."
+    },
+    {
+      "keyword_ko": "동전 뿌리는 꿈 / 동전 주는 꿈",
+      "keyword_en": "dream of scattering coins / giving coins to others",
+      "interpretation_ko": "동전을 타인에게 주거나 바닥에 뿌리는 꿈은 재물이나 기회가 자신으로부터 빠져나가는 것을 상징합니다. 현재의 재운이 타인에게 이전될 수 있으니 무분별한 지출이나 투자에 주의해야 함을 경고합니다.",
+      "interpretation_en": "Scattering coins on the ground or giving them away to others symbolizes wealth or opportunity flowing away from you. This dream serves as a warning to be cautious with spending or investments, as current financial luck may be transferred to someone else."
+    },
+    {
+      "keyword_ko": "하늘에서 동전 떨어지는 꿈",
+      "keyword_en": "dream of coins falling from the sky",
+      "interpretation_ko": "하늘에서 동전이 내려오는 꿈은 수량에 따라 해석이 극명하게 갈립니다. 반짝거리는 동전이 우박처럼 풍성하게 쏟아지면 관운·승진·횡재를 암시하는 최고의 길몽이지만, 몇 개만 떨어지면 가족에게 우환이 생길 흉몽입니다.",
+      "interpretation_en": "This variation hinges entirely on quantity. Coins raining down abundantly like hail — bright and plentiful — is one of the most auspicious omens possible, foretelling career advancement and windfall wealth. But only a sparse few coins falling from the sky warns of family trouble or misfortune."
+    },
+    {
+      "keyword_ko": "동전을 주머니에 넣는 꿈",
+      "keyword_en": "dream of putting coins in a pocket or bag",
+      "interpretation_ko": "동전을 주머니나 지갑에 넣는 꿈은 재물을 차곡차곡 모으는 과정을 상징하며, 당장 큰 수익보다는 꾸준한 저축과 안정적인 재물 축적을 나타내는 중립적 길몽입니다.",
+      "interpretation_en": "Placing coins into a pocket or wallet symbolizes the steady accumulation of wealth — suggesting not an immediate windfall but consistent saving and gradual financial stability."
+    }
+  ],
+  "culturalContext": {
+    "korean": "한국 전통 꿈해몽에서 동전은 돈(재물)의 가장 기본 단위이자 음양오행 사상에서 '금(金)'의 기운을 담은 상징물로 여겨져 왔습니다. 조선 시대에 유통된 엽전은 단순한 화폐를 넘어 재물신(財物神)의 가호를 받는 신성한 물건으로 인식되었으며, 무속 신앙에서는 재물신에게 엽전을 바치거나 굿판에서 엽전 꿰미를 사용하는 전통이 있었습니다. 동전 꿈의 길흉이 수량과 상태에 크게 좌우되는 것은, 한국 민간 신앙에서 '빛나고 풍요로운 것은 신의 축복'이요 '낡고 녹슨 것은 쇠운(衰運)의 징조'라는 관념이 뿌리깊이 자리 잡고 있기 때문입니다. 또한 동전을 줍는 행위는 복(福)을 줍는 것으로, 동전을 버리는 행위는 복을 흘려보내는 것으로 해석하는 민간 속신이 꿈해몽에도 그대로 반영되어 있습니다.",
+    "english": "In traditional Korean dream interpretation, coins represent the most fundamental unit of wealth and carry the energy of 'gold (金)' within the Korean cosmological framework of the Five Elements (오행). The traditional 엽전 (leaf-coin) used during the Joseon Dynasty was regarded not merely as currency but as an object blessed by the god of wealth (재물신), and Korean shamanic rituals often incorporated strings of 엽전 in ceremonies invoking prosperity. The strong influence of quantity and condition on a coin dream's meaning reflects the deep folk belief that bright, abundant things signal divine blessing, while worn or rusted objects herald decline. The folk axiom that picking something up is 'gathering fortune' while discarding it is 'letting fortune flow away' is directly mirrored in coin dream interpretation across Korean oral tradition."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트 정신분석학적 관점에서 동전은 무의식 속에서 억압된 물질적 욕망이나 안전에 대한 불안을 상징해요. 프로이트는 돈과 대변(feces)의 상징적 연관성을 제시했는데, 동전을 줍거나 모으는 꿈은 '항문기적 집착(anal retentive tendency)'과 결부된 통제 욕구 또는 소유 욕망의 표출로 해석될 수 있어요. 반대로 동전을 잃거나 뿌리는 꿈은 물질적 상실에 대한 두려움이나 자기처벌 욕구를 반영한다고 볼 수 있어요.",
+      "english": "From a Freudian psychoanalytic perspective, coins in dreams symbolize unconscious material desires or anxieties about security. Freud famously linked money symbolism to an anal retentive tendency — collecting or hoarding coins in a dream may express a deep need for control and possession. Conversely, losing or scattering coins can reflect unconscious fear of material loss or a punitive self-destructive impulse."
+    },
+    "jungian": {
+      "korean": "융의 분석심리학에서 동전은 '자기(Self)'의 완전성을 상징하는 원형적 이미지인 만달라(mandala)와 연결되는 원형으로 볼 수 있어요. 원형의 동전은 전체성·완결성을 나타내며, 꿈속에서 빛나는 동전은 자아실현 과정에서 발견하는 내면의 가치 또는 잠재적 자원을 상징해요. 금화는 '황금 그림자(golden shadow)'—즉 아직 의식화되지 않은 긍정적 잠재력—를 나타내고, 녹슨 동전은 오랫동안 방치된 내면의 상처나 그림자(shadow)를 암시할 수 있어요.",
+      "english": "In Jungian analytical psychology, coins connect to the archetype of the mandala — a circular symbol of the Self's wholeness and completeness. Gleaming coins in dreams may represent inner values or untapped resources discovered on the path toward individuation. Golden coins can embody the 'golden shadow' — positive potential not yet integrated into consciousness — while rusty coins may point to long-neglected wounds or shadow material awaiting acknowledgment."
+    },
+    "modern": {
+      "korean": "현대 인지심리학과 신경과학 관점에서 동전 꿈은 재정적 스트레스, 직업 불안, 또는 경제적 변화에 대한 뇌의 정서 처리 과정을 반영해요. 특히 취업·창업·부동산 투자 등 중요한 재정적 결정을 앞두고 동전 꿈을 꾸는 경우가 많은데, 이는 해마(hippocampus)와 편도체(amygdala)가 낮 동안 경험한 재정적 긴장을 수면 중 꿈으로 재처리하는 현상으로 설명돼요. 동전의 가치나 양이 꿈속에서 변동하는 것은 현실에서 느끼는 재정적 불확실성의 직접적 반영일 수 있어요.",
+      "english": "From a modern cognitive psychology and neuroscience perspective, dreaming of coins often reflects the brain's emotional processing of financial stress, job insecurity, or anxiety around economic decisions. People frequently report coin dreams when facing major financial choices — investing, job changes, or property decisions — as the hippocampus and amygdala work during sleep to reprocess the day's financial tensions. Fluctuating coin values or quantities in the dream may directly mirror waking-life feelings of economic uncertainty."
+    },
+    "crossCultural": {
+      "korean": "한국 전통 꿈해몽이 동전의 수량과 광택을 통해 재물운의 길흉을 구체적으로 구분하는 반면, 서양 심리학은 동전을 물질적 욕망이나 자아 통합의 상징으로 내면적으로 해석하는 경향이 있어요. 두 문화권 모두 동전이 '가치와 교환'을 상징한다는 점에서는 일치하지만, 한국 전통 해몽은 실제 재물운의 예언적 성격을 강조하고 서양은 심리적 상태의 반영으로 접근한다는 점이 다르답니다.",
+      "english": "Korean traditional dream interpretation distinguishes auspicious from inauspicious outcomes through specific coin details like quantity and shine, while Western psychology tends to read coins as symbols of inner psychological states — material desire, control, or wholeness. Both traditions agree that coins represent 'value and exchange,' but Korean folk interpretation emphasizes prophetic fortune-telling while Western approaches focus on the dream as a mirror of the dreamer's psychological condition."
+    }
+  },
+  "relatedSymbols": [
+    "money",
+    "gold",
+    "wallet",
+    "lottery",
+    "treasure",
+    "pig",
+    "wealth"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "동전 꿈해몽",
+      "동전 줍는 꿈",
+      "동전 꿈 의미",
+      "동전꿈 길몽 흉몽",
+      "금화 꿈해몽",
+      "동전 꿈 로또",
+      "엽전 꿈해몽",
+      "녹슨 동전 꿈",
+      "하늘에서 동전 떨어지는 꿈",
+      "동전 많이 줍는 꿈",
+      "동전 주는 꿈 해몽",
+      "은화 꿈해몽",
+      "동전 뿌리는 꿈",
+      "동전 줍는 꿈 복권"
+    ],
+    "english": [
+      "coins dream meaning Korean",
+      "dream of picking up coins",
+      "finding coins in a dream interpretation",
+      "golden coins dream meaning",
+      "rusty coins dream omen",
+      "coins falling from sky dream",
+      "dream about coins Korean folklore",
+      "Korean dream interpretation coins",
+      "money coins dream auspicious",
+      "antique coins dream meaning"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "동전을 줍는 꿈은 길몽인가요 흉몽인가요?",
+      "answer_ko": "동전을 줍는 꿈은 동전의 상태와 수량에 따라 완전히 달라져요. 빛나고 새로운 동전을 대량으로 줍는 꿈은 재물운 상승의 길몽이지만, 길에서 소수의 동전만 줍는 꿈은 근심과 다툼을 예고하는 흉몽으로 해석돼요. 특히 녹이 슨 동전을 줍는 꿈은 가까운 사람의 사망을 암시하는 흉몽이에요.",
+      "question_en": "Is dreaming of picking up coins a good or bad omen?",
+      "answer_en": "It depends entirely on the coins' condition and quantity. Picking up large amounts of shiny new coins is an auspicious dream signaling rising wealth, while finding only a few coins on the ground warns of worries and conflict. Picking up rusty coins is a particularly bad omen, foretelling the death of someone who has been ill."
+    },
+    {
+      "question_ko": "동전 꿈을 꾸면 로또를 사도 될까요?",
+      "answer_ko": "빛나는 금화나 반짝이는 동전을 대량으로 줍거나, 하늘에서 동전이 우박처럼 쏟아지는 꿈을 꿨다면 로또 구매를 고려해 볼 만해요. 전통 꿈해몽에서 이런 꿈은 횡재수와 복권 운을 강하게 암시하거든요. 다만 소수의 동전을 줍거나 녹슨 동전이 나오는 꿈은 재물운과 거리가 멀어요.",
+      "question_en": "Should I buy a lottery ticket after dreaming about coins?",
+      "answer_en": "If you dreamed of gathering large amounts of gleaming gold coins or coins raining down abundantly from the sky, traditional Korean dream interpretation would consider it a strong sign worth acting on. However, dreaming of only a few coins or rusty coins carries no lottery-related luck and is actually considered inauspicious."
+    },
+    {
+      "question_ko": "하늘에서 동전이 떨어지는 꿈은 무슨 의미인가요?",
+      "answer_ko": "하늘에서 동전이 쏟아지는 꿈은 수량이 핵심이에요. 반짝이는 동전이 우박처럼 풍성하게 쏟아진다면 관운, 승진, 대박 횡재를 예고하는 최고의 길몽이에요. 반대로 동전이 몇 개만 떨어진다면 가족 중에 우환이 생길 수 있다는 흉몽으로 해석돼요.",
+      "question_en": "What does it mean to dream of coins falling from the sky?",
+      "answer_en": "The interpretation hinges entirely on quantity. Coins raining down abundantly and brightly like hail is one of the most auspicious omens in Korean dream tradition, foretelling career advancement, promotions, and major windfalls. But only a sparse few coins dropping from the sky is a bad omen, warning of impending trouble for family members."
+    },
+    {
+      "question_ko": "엽전(옛날 동전) 꿈을 꾸면 어떤 의미인가요?",
+      "answer_ko": "엽전이 나오는 꿈은 계절에 따라 해석이 달라져요. 봄이나 여름에 꾸면 길한 일이 생길 징조이지만, 겨울에 꾸면 좋지 않은 일이 발생할 수 있어요. 한편으로는 조상의 가호나 전통적 재물신의 축복을 상징하는 꿈으로 보기도 해요.",
+      "question_en": "What does it mean to dream of traditional Korean coins (엽전)?",
+      "answer_en": "Traditional 엽전 coins in dreams are interpreted seasonally — auspicious if dreamed in spring or summer, but potentially forewarning of trouble if dreamed in winter. They are also sometimes interpreted as a blessing from ancestral spirits or the traditional Korean god of wealth."
+    },
+    {
+      "question_ko": "꿈에서 동전을 남에게 주는 것은 무슨 의미인가요?",
+      "answer_ko": "동전을 타인에게 주거나 바닥에 뿌리는 꿈은 자신의 재물이나 기회가 빠져나갈 수 있음을 경고해요. 무분별한 지출이나 돈이 관련된 계약·투자에 신중해야 할 시기임을 알리는 꿈으로 해석돼요.",
+      "question_en": "What does it mean to give coins to someone else in a dream?",
+      "answer_en": "Giving coins to others or scattering them on the ground warns that your wealth or opportunity may be flowing away. This dream is interpreted as a caution to be careful with spending and to avoid hasty financial decisions such as ill-considered contracts or investments."
+    },
+    {
+      "question_ko": "녹슨 동전을 줍는 꿈은 왜 흉몽인가요?",
+      "answer_ko": "한국 전통 꿈해몽에서 낡고 녹슨 것은 생명력이 소진된 것, 즉 죽음이나 쇠락을 상징해요. 녹슨 동전은 이미 가치를 잃어버린 재물을 뜻하기 때문에, 투병 중인 사람의 죽음이나 오래된 관계·사업의 쇠락을 암시하는 꿈으로 해석돼요.",
+      "question_en": "Why is picking up rusty coins considered a bad omen in Korean dream tradition?",
+      "answer_en": "In Korean folk belief, anything worn, rusted, or deteriorated symbolizes depleted life force — decay and death. Rusty coins represent wealth that has already lost its value, making this dream an omen of the death of a long-ailing person or the irreversible decline of an old relationship or business."
+    }
+  ]
+}

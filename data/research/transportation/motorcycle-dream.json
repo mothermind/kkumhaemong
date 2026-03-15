@@ -1,0 +1,221 @@
+{
+  "symbol": {
+    "korean": "오토바이 꿈",
+    "english": "Motorcycle Dream",
+    "slug": "motorcycle-dream"
+  },
+  "summary": {
+    "korean": "오토바이 꿈은 인간관계와 사업에서 적극적으로 나아가는 행동력과 추진력을 상징합니다. 매끄럽게 달리는 꿈은 일이 순조롭게 풀리는 길몽이지만, 사고나 고장은 장애와 갈등을 암시하는 흉몽입니다. 꿈속 오토바이의 상태와 운전 상황이 해석의 핵심입니다.",
+    "english": "Motorcycles in dreams symbolize drive, independence, and active engagement in relationships or business pursuits. Riding smoothly signals favorable outcomes and progress, while accidents or breakdowns warn of obstacles, conflicts, or failed endeavors. The key to interpretation lies in how the motorcycle performs and the rider's sense of control."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "오토바이를 타고 넓은 도로나 고속도로를 신나게 질주하는 꿈은 대길몽입니다. 하던 일이 막힘없이 승승장구하며 좋은 결과를 얻게 되고, 귀인을 만나 새로운 기회가 열릴 것을 암시합니다.",
+      "english": "Dreaming of riding a motorcycle freely along wide roads or a highway is a highly auspicious sign. It indicates that ongoing projects will progress smoothly, obstacles will dissolve, and you may encounter a helpful figure who opens new doors of opportunity.",
+      "context": "Speed and open roads represent unobstructed progress and personal momentum in Korean dream tradition."
+    },
+    {
+      "type": "길몽",
+      "korean": "오토바이 뒷자리에 동승하는 꿈은 현재 하고 있는 일에서 좋은 결과가 나올 것을 의미하는 길몽입니다. 연인이나 배우자와 함께 타는 꿈은 관계가 안정되고 발전함을 나타냅니다.",
+      "english": "Riding as a passenger on the back of a motorcycle signals that current efforts will yield positive results. Riding together with a romantic partner indicates the relationship will become more stable and deepen.",
+      "context": "Shared travel in dreams represents harmonious cooperation and mutual support."
+    },
+    {
+      "type": "길몽",
+      "korean": "오토바이를 선물로 받는 꿈은 뜻밖의 행운이나 여행, 즐거운 경험이 찾아올 것을 예고합니다. 도시 거리를 능숙하게 달리는 꿈 역시 계획했던 일들이 순조롭게 펼쳐짐을 의미합니다.",
+      "english": "Receiving a motorcycle as a gift in a dream foretells unexpected good fortune, travel, or a wonderful experience on the horizon. Riding skillfully through city streets also signals that plans will unfold without major hurdles.",
+      "context": "Gifts in Korean dream tradition often represent incoming blessings or unexpected positive change."
+    },
+    {
+      "type": "흉몽",
+      "korean": "오토바이를 타다가 사고가 나는 꿈은 흉몽입니다. 지금의 무리한 행동이나 잘못된 판단으로 인해 손해를 입거나 대인관계에서 심각한 트러블이 생길 수 있음을 경고합니다.",
+      "english": "Dreaming of a motorcycle accident is an inauspicious sign, warning that reckless actions or poor judgment in waking life may result in financial loss or serious conflict with people around you.",
+      "context": "Accidents in dream symbolism often represent consequences of careless decisions or unresolved tension."
+    },
+    {
+      "type": "흉몽",
+      "korean": "달리던 오토바이의 시동이 꺼지거나 엔진이 고장 나는 꿈은 그동안 쏟아온 노력이 허사로 돌아갈 수 있음을 암시합니다. 진행 중인 사업이나 프로젝트에 예기치 못한 장애가 생길 수 있으니 주의가 필요합니다.",
+      "english": "A motorcycle engine stalling or breaking down mid-ride warns that efforts invested so far may come to nothing. Ongoing projects or business ventures face unexpected obstacles that could cause significant setbacks.",
+      "context": "Engine failure represents the sudden halt of personal drive or life momentum."
+    },
+    {
+      "type": "흉몽",
+      "korean": "오토바이를 타다가 넘어지는 꿈은 하던 일에 차질이 생기고 실패할 수 있음을 나타냅니다. 또한 자동차 등 다른 차량과 충돌하는 꿈은 현재 상황에 대한 불만과 도피 욕구를 반영하거나, 타인과의 갈등을 암시합니다.",
+      "english": "Falling off a motorcycle signals that current endeavors will face difficulties or outright failure. Colliding with other vehicles suggests dissatisfaction with your present circumstances, a desire to escape, or looming interpersonal conflict.",
+      "context": "Falling from a vehicle in Korean dream analysis often symbolizes a loss of momentum or social standing."
+    },
+    {
+      "type": "흉몽",
+      "korean": "남의 오토바이를 훔쳐 타는 꿈은 싫어하는 사람과 어쩔 수 없이 같이 일하게 되거나, 탐탁지 않은 방향으로 사업이 흘러갈 수 있음을 경고합니다. 오토바이를 도둑맞는 꿈은 가까운 사람의 배신이나 파트너에 대한 불신을 반영합니다.",
+      "english": "Stealing someone else's motorcycle warns that you may be forced into a working relationship with someone you dislike, or that a business venture will take an unwelcome direction. Having your motorcycle stolen reflects anxiety about betrayal or distrust of a close partner.",
+      "context": "Theft in dreams often symbolizes loss of agency, forced compliance, or fear of deception."
+    },
+    {
+      "type": "neutral",
+      "korean": "오토바이를 구입하거나 수리하는 꿈은 변화를 원하는 심리나 현재 상황을 개선하려는 의지를 나타냅니다. 오토바이 경주를 지켜보는 꿈은 목표는 있으나 실천이 부족한 상태를 반영합니다.",
+      "english": "Buying or repairing a motorcycle reflects a desire for change or the willingness to improve your current situation. Watching a motorcycle race without participating mirrors having goals but lacking the initiative to act on them.",
+      "context": "Neutral motorcycle dreams often point to the dreamer's relationship with ambition and personal agency."
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "오토바이 타는 꿈",
+      "keyword_en": "dream of riding a motorcycle",
+      "interpretation_ko": "오토바이를 능숙하게 타는 꿈은 적극적인 추진력과 모험심을 상징하며, 하는 일이 순조롭게 풀리는 길몽입니다. 반면 서툴게 운전하거나 불안하게 달리는 꿈은 현재 진행 중인 일에 문제가 생길 수 있다는 경고입니다.",
+      "interpretation_en": "Riding a motorcycle skillfully symbolizes drive and adventurousness, and is generally auspicious — things will go smoothly. Riding clumsily or nervously, however, warns that problems may emerge in ongoing work or projects."
+    },
+    {
+      "keyword_ko": "오토바이 사고 꿈",
+      "keyword_en": "dream of motorcycle accident",
+      "interpretation_ko": "오토바이 사고가 나는 꿈은 무리하거나 잘못된 판단으로 인해 손실을 입거나 대인관계에서 심각한 마찰이 생길 수 있음을 경고하는 흉몽입니다. 투자나 사업에서 위험을 감수한 행동이 역효과를 낼 수 있으니 신중해야 합니다.",
+      "interpretation_en": "A motorcycle accident dream is an inauspicious warning that recklessness or misjudgment may result in loss or serious interpersonal conflict. If you have been taking financial or business risks, this dream cautions that bold moves may backfire."
+    },
+    {
+      "keyword_ko": "오토바이 빠르게 달리는 꿈",
+      "keyword_en": "dream of riding motorcycle fast",
+      "interpretation_ko": "오토바이를 빠른 속도로 달리는 꿈은 추진력과 열정이 넘쳐 일이 빠르게 진전됨을 의미하는 길몽입니다. 단, 지나치게 빠른 속도로 위험하게 달린다면 무모한 행동에 대한 경계 신호일 수 있습니다.",
+      "interpretation_en": "Riding very fast on a motorcycle is generally auspicious, indicating that things are moving forward rapidly with great energy and momentum. However, if the speed feels dangerously reckless, it may be a warning against impulsive decisions."
+    },
+    {
+      "keyword_ko": "오토바이 고장 나는 꿈",
+      "keyword_en": "dream of motorcycle breaking down",
+      "interpretation_ko": "오토바이가 고장 나거나 시동이 꺼지는 꿈은 진행 중인 일에 예상치 못한 장애가 발생하여 그동안의 노력이 헛수고가 될 수 있음을 암시하는 흉몽입니다. 계획을 재점검하고 대비책을 마련해야 할 시점입니다.",
+      "interpretation_en": "A motorcycle breaking down or stalling signals unexpected obstacles that could render your efforts futile. This inauspicious dream calls for reviewing current plans and preparing contingency measures before problems escalate."
+    },
+    {
+      "keyword_ko": "오토바이 사는 꿈",
+      "keyword_en": "dream of buying a motorcycle",
+      "interpretation_ko": "오토바이를 구입하는 꿈은 새로운 시작이나 변화에 대한 강한 욕구를 반영합니다. 실제로 독립적인 삶의 방식이나 새로운 사업 방향을 모색하고 있을 가능성이 높습니다.",
+      "interpretation_en": "Dreaming of buying a motorcycle reflects a strong desire for new beginnings or a change in direction. It may indicate that you are actively seeking more independence or considering a fresh start in your career or personal life."
+    },
+    {
+      "keyword_ko": "오토바이 훔치는 꿈",
+      "keyword_en": "dream of stealing a motorcycle",
+      "interpretation_ko": "남의 오토바이를 훔치는 꿈은 억지로 원치 않는 일을 떠맡게 되거나, 마음에 들지 않는 방식으로 업무를 진행해야 하는 상황에 처할 것을 경고합니다. 때로는 신뢰하는 사람을 배신하고 싶다는 무의식적 욕구를 드러내기도 합니다.",
+      "interpretation_en": "Stealing a motorcycle in a dream warns that you may be forced to take on tasks you dislike or pursue an unwanted direction in business. It can also reveal unconscious feelings of wanting to break free from obligations or even a temptation toward betrayal."
+    },
+    {
+      "keyword_ko": "오토바이에서 떨어지는 꿈",
+      "keyword_en": "dream of falling off a motorcycle",
+      "interpretation_ko": "오토바이에서 떨어지는 꿈은 현재 하는 일이 잘 풀리지 않아 좌절하거나 실패할 수 있음을 암시합니다. 과거의 실패를 여전히 극복하지 못하고 자책하고 있는 심리 상태를 반영하기도 합니다.",
+      "interpretation_en": "Falling off a motorcycle suggests that current projects may fail or hit a significant setback. This dream can also reflect unresolved feelings of failure from the past — the dreamer may still be carrying guilt or regret over previous mistakes."
+    },
+    {
+      "keyword_ko": "오토바이 뒷자리에 타는 꿈",
+      "keyword_en": "dream of riding pillion on a motorcycle",
+      "interpretation_ko": "오토바이 뒷자리에 타는 꿈은 현재 맡은 일이 좋은 결과로 이어질 것을 암시하는 길몽입니다. 스스로 주도하지 않아도 좋은 흐름을 타고 있음을 의미하며, 적절한 협조자를 만나게 될 수도 있습니다.",
+      "interpretation_en": "Riding as a passenger on the back of a motorcycle is auspicious, suggesting that current responsibilities will lead to positive outcomes. Even without being in the driver's seat, you are riding a favorable wave — and a helpful ally may soon appear."
+    },
+    {
+      "keyword_ko": "낡은 오토바이 꿈",
+      "keyword_en": "dream of old or worn-out motorcycle",
+      "interpretation_ko": "낡고 오래된 오토바이를 타는 꿈은 현재 사용하고 있는 방법이나 전략이 시대에 뒤처지거나 더 이상 효과적이지 않음을 암시합니다. 새로운 접근 방식이나 도구가 필요한 시점임을 알려주는 신호입니다.",
+      "interpretation_en": "Riding an old, worn-out motorcycle suggests that your current methods or strategies are outdated and no longer effective. This dream signals the need to update your approach, learn new skills, or adopt fresh tools to move forward."
+    },
+    {
+      "keyword_ko": "오토바이 경주 꿈",
+      "keyword_en": "dream of motorcycle race",
+      "interpretation_ko": "오토바이 경주에 참가하는 꿈은 과거의 잘못에 대한 책임을 회피하려는 심리를 반영할 수 있습니다. 경주를 구경만 하는 꿈은 목표는 있지만 실제로 행동에 옮기지 못하고 있는 소극적인 태도를 나타냅니다.",
+      "interpretation_en": "Participating in a motorcycle race may reflect a tendency to avoid accountability for past mistakes. Merely watching a race without competing signals that you have ambitions but are holding back from actually pursuing them."
+    }
+  ],
+  "culturalContext": {
+    "korean": "오토바이는 한국의 꿈해몽에서 전통적인 교통수단(말, 소)의 현대적 대체물로 해석됩니다. 조선시대 이전부터 이어진 탈것 꿈 해석의 원리—빠르고 원활한 이동은 길조, 넘어짐이나 고장은 흉조—가 오토바이에도 그대로 적용됩니다. 특히 오토바이는 자동차보다 더 개인적이고 자유롭지만 동시에 더 위험하다는 인식이 강해, 꿈에서도 개인적 자유와 무모함 사이의 긴장을 상징하는 경우가 많습니다. 한국 민간 신앙에서 탈것 꿈은 사업과 대인관계의 진행 상황을 반영하는 거울로 여겨지며, 오토바이는 특히 청년층의 독립심, 도전정신, 그리고 그에 따른 위험을 함께 나타냅니다.",
+    "english": "In Korean dream tradition, motorcycles are viewed as the modern counterpart of horses and oxen — the traditional symbols of personal drive and mobility. The same interpretive principles that apply to riding animals carry over: smooth, fast travel is auspicious, while falls and breakdowns are ill omens. Because motorcycles are perceived as more personal and freewheeling than cars yet significantly more dangerous, they occupy a unique symbolic space representing the tension between individual freedom and recklessness. In Korean folk belief, vehicle dreams serve as mirrors of one's progress in business and relationships. Motorcycles specifically are associated with the energy and independence of youth — and the consequences of that boldness."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트적 관점에서 오토바이는 강력한 엔진과 빠른 속도로 인해 성적 에너지와 리비도의 상징으로 해석됩니다. 오토바이를 타는 행위는 억압된 욕망의 표출이나 쾌락 원칙에 따른 충동적 행동 욕구를 나타낼 수 있습니다. 헬멧 없이 달리는 꿈은 초자아(superego)의 통제를 거부하는 원초아(id)의 욕구를 상징할 수 있습니다.",
+      "english": "From a Freudian perspective, the motorcycle's powerful engine and speed make it a symbol of sexual energy and libido. Riding a motorcycle may represent the expression of repressed desires or the drive to act on impulse according to the pleasure principle. Riding without a helmet can symbolize the id's rejection of the superego's controlling influence."
+    },
+    "jungian": {
+      "korean": "융의 분석심리학에서 오토바이는 자아(Self)의 개별화 여정과 그림자(Shadow) 원형을 동시에 상징할 수 있습니다. 오토바이의 자유로운 이동은 진정한 자아를 향한 개별화 과정을 나타내며, 반항적 오토바이족 이미지는 사회적으로 억압된 그림자 자아를 반영합니다. 오토바이를 통해 미지의 영역으로 나아가는 꿈은 집단 무의식 속의 영웅 원형이 활성화됨을 의미할 수 있습니다.",
+      "english": "In Jungian analysis, the motorcycle can simultaneously represent the individuation journey of the Self and the Shadow archetype. The motorcycle's freedom of movement corresponds to the individuation process toward the authentic self, while the rebellious biker image reflects socially suppressed shadow qualities. Dreams of journeying into unknown territory on a motorcycle may indicate activation of the hero archetype within the collective unconscious."
+    },
+    "modern": {
+      "korean": "현대 심리학에서 오토바이 꿈은 주로 통제감, 자율성, 위험 감수 성향을 반영하는 것으로 분석됩니다. 오토바이를 능숙하게 운전하는 꿈은 현재 삶에서 자기효능감이 높은 상태를 나타내고, 사고나 고장 꿈은 스트레스, 번아웃, 또는 현실에서의 불안감을 투영하는 경우가 많습니다. 인지행동적 관점에서 이 꿈은 도전을 앞두고 성공 혹은 실패에 대한 기대를 무의식적으로 처리하는 과정일 수 있습니다.",
+      "english": "Modern psychology interprets motorcycle dreams primarily as reflections of one's sense of control, autonomy, and risk tolerance. Riding skillfully indicates high self-efficacy in waking life, while accidents or breakdowns often project stress, burnout, or anxiety. From a cognitive-behavioral standpoint, these dreams may represent the mind's unconscious processing of expectations — success or failure — when facing upcoming challenges."
+    },
+    "crossCultural": {
+      "korean": "서양권에서 오토바이는 1950년대 이후 반문화적 자유와 도로 위의 반항을 상징하는 아이콘이 되었습니다(말론 브란도, 이지 라이더 등). 서양 꿈 해석에서 오토바이는 종종 사회적 규범으로부터의 탈출 욕구, 위험을 감수하는 모험심, 그리고 자유에 대한 열망을 나타냅니다. 이는 한국 해몽의 사업 및 인간관계 중심 해석과 달리, 개인의 정체성과 사회적 위치에 대한 갈등을 더 강조합니다.",
+      "english": "In Western cultures, the motorcycle became an icon of countercultural freedom and road rebellion from the 1950s onward (Marlon Brando, Easy Rider). Western dream interpretation often frames motorcycle dreams as expressions of the desire to escape social norms, a thirst for adventure and risk, or a longing for total freedom. This contrasts with the Korean focus on business and relationships, placing greater emphasis on the dreamer's conflict with identity and social conformity."
+    }
+  },
+  "relatedSymbols": [
+    "car-dream",
+    "bicycle-dream",
+    "bus-dream",
+    "train-dream",
+    "car-breaking-down-dream",
+    "riding-bicycle-dream",
+    "airplane-dream"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "오토바이 꿈해몽",
+      "오토바이 꿈 해석",
+      "오토바이 타는 꿈",
+      "오토바이 사고 꿈",
+      "오토바이 꿈 의미",
+      "오토바이 운전 꿈해몽",
+      "오토바이 고장 꿈",
+      "오토바이 넘어지는 꿈",
+      "오토바이 빠르게 달리는 꿈",
+      "오토바이 사는 꿈해몽",
+      "오토바이 훔치는 꿈",
+      "오토바이 뒷자리 꿈",
+      "교통수단 꿈해몽"
+    ],
+    "english": [
+      "motorcycle dream meaning",
+      "dream of riding a motorcycle",
+      "motorcycle accident dream interpretation",
+      "motorcycle dream symbolism",
+      "Korean dream motorcycle",
+      "motorcycle falling off dream",
+      "dream about buying a motorcycle",
+      "motorcycle breakdown dream meaning",
+      "fast motorcycle dream",
+      "stealing motorcycle dream meaning"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "오토바이 타는 꿈은 길몽인가요?",
+      "answer_ko": "상황에 따라 다릅니다. 넓은 도로나 고속도로를 능숙하게 달리는 꿈은 일이 순조롭게 풀리고 귀인을 만나게 되는 길몽입니다. 반면 서툴게 운전하거나 불안하게 달리는 꿈은 현재 하는 일에 어려움이 생길 수 있다는 경고 신호입니다.",
+      "question_en": "Is dreaming of riding a motorcycle a good omen?",
+      "answer_en": "It depends on the circumstances. Riding smoothly on wide roads or a highway is a good omen, suggesting things will go well and you may meet someone helpful. But riding clumsily or nervously is a warning that problems may arise in your current endeavors."
+    },
+    {
+      "question_ko": "오토바이 사고 꿈을 꾸면 어떤 의미인가요?",
+      "answer_ko": "오토바이 사고 꿈은 흉몽으로, 무리하거나 잘못된 판단으로 인해 손실이 발생하거나 주변 사람들과 심각한 갈등이 생길 수 있음을 경고합니다. 특히 사업이나 투자에서 위험을 감수하고 있다면 신중하게 재검토가 필요합니다.",
+      "question_en": "What does it mean to dream of a motorcycle accident?",
+      "answer_en": "A motorcycle accident dream is generally a bad omen, warning that reckless behavior or poor judgment may lead to financial loss or serious conflict with people around you. If you are currently taking risks in business or investments, this dream calls for careful reconsideration."
+    },
+    {
+      "question_ko": "오토바이 시동이 꺼지는 꿈은 무슨 의미인가요?",
+      "answer_ko": "달리던 오토바이의 시동이 갑자기 꺼지거나 엔진이 멈추는 꿈은 그동안 기울여온 노력과 투자가 헛수고로 돌아갈 수 있음을 암시합니다. 진행 중인 프로젝트나 사업에 예기치 못한 장애가 발생할 수 있으니 대비가 필요합니다.",
+      "question_en": "What does it mean when a motorcycle engine stalls in a dream?",
+      "answer_en": "A motorcycle engine suddenly stalling or cutting out warns that the efforts and investments you have been making may not pay off. It signals unexpected obstacles in ongoing projects or business ventures, advising you to prepare contingency plans."
+    },
+    {
+      "question_ko": "오토바이 뒷자리에 타는 꿈의 의미는 무엇인가요?",
+      "answer_ko": "오토바이 뒷자리(동승자)로 타는 꿈은 길몽으로, 현재 맡은 일이 좋은 결과로 이어질 것을 암시합니다. 직접 이끌지 않아도 좋은 흐름을 타고 있으며, 든든한 협력자를 만날 수도 있습니다.",
+      "question_en": "What does riding pillion (as a passenger) on a motorcycle in a dream mean?",
+      "answer_en": "Riding as a passenger on a motorcycle is an auspicious dream, indicating that your current work and responsibilities will lead to good results. Even without being in control, you are on a favorable path — and a supportive ally may soon come into your life."
+    },
+    {
+      "question_ko": "남의 오토바이를 훔치는 꿈은 어떻게 해석하나요?",
+      "answer_ko": "남의 오토바이를 훔쳐 타는 꿈은 좋지 않은 신호입니다. 마음에 들지 않는 사람과 어쩔 수 없이 함께 일하게 되거나, 원하지 않는 방향으로 일을 진행해야 하는 상황이 올 수 있음을 경고합니다. 때로는 주변의 신뢰를 저버리고 싶은 무의식적 충동을 반영하기도 합니다.",
+      "question_en": "How should I interpret stealing a motorcycle in a dream?",
+      "answer_en": "Stealing a motorcycle is not a positive dream. It warns that you may be forced to work with someone you dislike or pushed to pursue a direction you do not want. It can also reflect an unconscious urge to break free from current obligations or even a temptation toward disloyalty."
+    },
+    {
+      "question_ko": "오토바이를 구입하는 꿈은 무엇을 의미하나요?",
+      "answer_ko": "오토바이를 새로 구입하는 꿈은 변화와 새로운 시작에 대한 강한 욕구를 반영합니다. 현재의 삶에서 더 많은 자유와 독립을 원하거나, 새로운 사업이나 진로 방향을 모색하고 있는 시기임을 나타낼 수 있습니다.",
+      "question_en": "What does it mean to dream of buying a motorcycle?",
+      "answer_en": "Dreaming of buying a new motorcycle reflects a strong desire for change and a fresh start. You may be longing for greater freedom and independence in your life, or actively considering a new career direction, business venture, or significant life change."
+    }
+  ]
+}

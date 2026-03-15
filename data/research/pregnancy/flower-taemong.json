@@ -1,0 +1,204 @@
+{
+  "symbol": {
+    "korean": "꽃 태몽",
+    "english": "Flower Taemong",
+    "slug": "flower-taemong"
+  },
+  "summary": {
+    "korean": "꽃 태몽은 예쁘고 덕성 있는 딸의 잉태를 상징하는 경우가 많으며, 꽃의 종류와 상태에 따라 아이의 기질, 재능, 미래 운세를 예시하는 대표적인 태몽입니다.",
+    "english": "A flower taemong most often foretells the conception of a virtuous, beautiful daughter, though the specific flower type and its condition reveal nuances about the child's temperament, talents, and future fortune."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "탐스럽게 활짝 핀 꽃을 보거나 꽃밭을 거니는 태몽은 건강하고 재능 있는 아이를 낳을 징조입니다. 아이가 훗날 사회적으로 명예를 얻고 주위의 사랑을 받을 인물로 성장할 것을 암시합니다.",
+      "english": "Dreaming of lush, fully blooming flowers or walking through a flower field as a taemong is a strong auspicious sign, indicating that the child will be healthy, talented, and grow to earn social recognition and the affection of those around them.",
+      "context": "꽃이 싱싱하게 활짝 피어 있거나, 꽃밭이 아름답게 펼쳐진 장면이 인상적인 꿈"
+    },
+    {
+      "type": "길몽",
+      "korean": "꽃을 품 안에 안거나 꺾어서 집으로 가져오는 태몽은 곱고 현숙한 딸을 낳을 것을 예시합니다. 그 딸이 지혜롭고 덕성이 높아 주위에서 칭찬받는 사람으로 자라날 것임을 나타냅니다.",
+      "english": "Holding flowers to one's chest or picking flowers and bringing them home in a taemong foretells the birth of a beautiful, virtuous daughter who will be praised for her wisdom and moral character.",
+      "context": "꽃을 직접 꺾거나 품에 안고 집으로 돌아오는 동작이 포함된 꿈"
+    },
+    {
+      "type": "길몽",
+      "korean": "연꽃이나 매화, 모란 같은 고귀한 꽃이 등장하는 태몽은 특별히 뛰어난 재능이나 학문적 성취를 이룰 아이의 탄생을 암시합니다. 연꽃은 고결한 인품을, 매화는 세상의 존경을 받을 인물을, 모란은 부귀와 번영을 상징합니다.",
+      "english": "A taemong featuring noble flowers such as lotus, plum blossom, or peony foretells the birth of an exceptionally talented child. The lotus symbolizes noble character, the plum blossom a person who will earn widespread respect, and the peony a life of wealth and prosperity.",
+      "context": "연꽃, 매화, 모란 등 전통적으로 고귀함과 부귀를 상징하는 꽃이 등장하는 꿈"
+    },
+    {
+      "type": "흉몽",
+      "korean": "꽃이 시들거나 꽃잎이 떨어지는 태몽은 아이가 건강이나 재복 면에서 어려움을 겪을 수 있음을 경고합니다. 태몽에서 꽃이 지는 장면은 순탄치 않은 출발을 암시하므로 임신 중 건강 관리에 특히 유의해야 합니다.",
+      "english": "A taemong in which flowers wilt or petals fall carries a cautionary message, suggesting the child may face challenges related to health or fortune. Falling petals in a pregnancy dream warn of a difficult start, urging extra care during the pregnancy.",
+      "context": "꽃이 시들거나, 꽃잎이 바람에 날리거나, 꽃이 땅에 뒹구는 장면이 나오는 꿈"
+    },
+    {
+      "type": "neutral",
+      "korean": "꽃의 색깔과 종류에 따라 아이의 성별과 성격이 달라진다고 여겨집니다. 봄에 피는 화사한 꽃(매화, 벚꽃)은 딸을 암시하는 경우가 많고, 가을꽃(국화)은 아들을 암시하기도 합니다. 다만 성별 예측보다는 아이의 기질과 미래 운세를 보여주는 쪽으로 해석하는 것이 더 전통적인 접근입니다.",
+      "english": "The color and type of flower in a taemong are believed to hint at the child's gender and personality. Spring flowers like cherry blossom or plum blossom often suggest a daughter, while autumn flowers like chrysanthemum may hint at a son. Traditional interpretation, however, places greater emphasis on the child's character and future fortune than on gender prediction.",
+      "context": "꽃의 종류나 계절이 특별히 강조되는 꿈으로, 성별보다 아이의 미래 기질을 해석할 때"
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "장미꽃 태몽",
+      "keyword_en": "rose flower taemong",
+      "interpretation_ko": "장미꽃 태몽은 정열적이고 사람들의 사랑을 받을 아이의 탄생을 암시합니다. 특히 붉은 장미는 강한 생명력과 카리스마를 지닌 아이를, 분홍 장미는 사랑스럽고 다정한 성품의 아이를 예시합니다.",
+      "interpretation_en": "A rose taemong foretells the birth of a passionate, beloved child. A red rose signals a child with strong vitality and charisma, while a pink rose indicates a loving, gentle nature."
+    },
+    {
+      "keyword_ko": "연꽃 태몽",
+      "keyword_en": "lotus flower taemong",
+      "interpretation_ko": "연꽃 태몽은 전통적으로 가장 상서로운 태몽 중 하나로, 고결하고 학문적으로 뛰어난 아이가 태어날 것을 암시합니다. 진흙 속에서도 맑게 피는 연꽃처럼 어떤 환경에서도 뜻을 굽히지 않는 인물이 될 것을 예시합니다.",
+      "interpretation_en": "A lotus taemong is considered one of the most auspicious pregnancy dreams in Korean tradition, foretelling the birth of a noble, scholarly child. Like a lotus rising pure from mud, the child will be someone who upholds their ideals in any circumstance."
+    },
+    {
+      "keyword_ko": "모란꽃 태몽",
+      "keyword_en": "peony taemong",
+      "interpretation_ko": "모란꽃은 예로부터 부귀와 영화의 상징으로, 모란 태몽은 풍요롭고 번창하는 삶을 살 아이의 탄생을 예고합니다. 집안에 경사로운 일이 이어지고 재물이 들어올 것임을 암시하기도 합니다.",
+      "interpretation_en": "The peony is a traditional symbol of wealth and glory. A peony taemong foretells the birth of a child who will live a prosperous, flourishing life, and may also signal a period of good fortune for the entire family."
+    },
+    {
+      "keyword_ko": "매화 태몽",
+      "keyword_en": "plum blossom taemong",
+      "interpretation_ko": "매화 태몽은 추위를 이기고 가장 먼저 꽃을 피우는 매화의 특성처럼, 역경을 딛고 세상 사람들의 존경과 명예를 얻을 아이가 태어날 것을 예시합니다. 예술적 재능이나 문학적 감수성이 뛰어난 아이를 암시하기도 합니다.",
+      "interpretation_en": "The plum blossom, which blooms first in the cold, symbolizes resilience. A plum blossom taemong foretells a child who will overcome hardship to earn respect and honor, often suggesting exceptional artistic or literary gifts."
+    },
+    {
+      "keyword_ko": "벚꽃 태몽",
+      "keyword_en": "cherry blossom taemong",
+      "interpretation_ko": "벚꽃 태몽은 밝고 사교적이며 귀인의 도움을 받을 아이의 탄생을 암시합니다. 활짝 핀 벚꽃처럼 주변에 화사한 기운을 전파하고 인복이 풍성한 사람으로 자랄 것을 예시합니다.",
+      "interpretation_en": "A cherry blossom taemong foretells the birth of a bright, sociable child who will attract helpful benefactors throughout life. Like cherry blossoms in full bloom, the child will radiate warmth and enjoy abundant human connections."
+    },
+    {
+      "keyword_ko": "국화 태몽",
+      "keyword_en": "chrysanthemum taemong",
+      "interpretation_ko": "국화꽃 태몽은 성별에 관계없이 정직하고 명예로운 아이의 탄생을 암시합니다. 가을 국화의 절개처럼 흔들리지 않는 원칙과 가정의 화목을 상징하며, 가업이 번창할 것을 예시하기도 합니다.",
+      "interpretation_en": "A chrysanthemum taemong foretells the birth of an honorable, upright child regardless of gender. Like the autumn chrysanthemum's unwavering character, it symbolizes principled integrity and family harmony, and may also signal flourishing family fortunes."
+    },
+    {
+      "keyword_ko": "흰 꽃 태몽",
+      "keyword_en": "white flower taemong",
+      "interpretation_ko": "흰 꽃 태몽은 순수하고 맑은 심성을 지닌 아이의 탄생을 예고합니다. 영적으로 고결하고 총명하며 자신의 능력을 충분히 발휘하는 사람으로 성장할 것을 암시합니다.",
+      "interpretation_en": "A white flower taemong foretells the birth of a pure-hearted, spiritually elevated child who will grow up to be bright and will fully realize their innate potential."
+    },
+    {
+      "keyword_ko": "꽃밭 태몽",
+      "keyword_en": "flower field taemong",
+      "interpretation_ko": "넓은 꽃밭을 걷거나 꽃밭 가득 꽃이 핀 장면을 보는 태몽은 매우 복이 많고 사람들에게 사랑받는 아이의 탄생을 암시하는 대길몽입니다. 아이가 풍요롭고 행복한 삶을 누릴 것을 예시합니다.",
+      "interpretation_en": "Walking through or seeing a vast field of blooming flowers as a taemong is considered highly auspicious, foretelling the birth of a greatly blessed, widely loved child who will enjoy a life of abundance and happiness."
+    },
+    {
+      "keyword_ko": "꽃을 받는 태몽",
+      "keyword_en": "receiving flowers taemong",
+      "interpretation_ko": "꽃다발이나 꽃 한 송이를 선물받는 태몽은 주위의 인정과 사랑을 받을 아이의 탄생을 암시합니다. 사교적이고 대인 관계가 좋은 아이가 태어날 것을 예시합니다.",
+      "interpretation_en": "Receiving a bouquet or a single flower as a gift in a taemong foretells the birth of a child who will be recognized and loved by those around them, growing into someone with warm, strong interpersonal connections."
+    },
+    {
+      "keyword_ko": "꽃이 시드는 태몽",
+      "keyword_en": "wilting flower taemong",
+      "interpretation_ko": "꽃이 시들거나 꽃잎이 떨어지는 태몽은 다소 불길한 징조로, 아이가 성장 과정에서 건강이나 재운 면에서 어려움을 겪을 수 있음을 경고합니다. 임신 중 건강 관리와 주변 환경 정비에 주의를 기울이라는 신호로 해석됩니다.",
+      "interpretation_en": "A taemong of wilting or falling flowers is a cautionary sign, warning that the child may encounter challenges in health or fortune during their upbringing. It is interpreted as a signal to take extra care of one's health and environment during pregnancy."
+    }
+  ],
+  "culturalContext": {
+    "korean": "한국 전통 문화에서 꽃은 아름다움, 여성성, 생명력, 고귀함을 두루 상징해왔습니다. 무속 신앙에서는 꽃이 신령의 매개체로 여겨지며 굿판에서도 꽃 장식이 빠지지 않습니다. 유교적 전통에서는 매화·국화·연꽃·난초 등 '사군자(四君子)' 식물이 군자의 덕성을 상징하는데, 이러한 꽃들이 태몽에 등장하면 덕망 높은 인물의 탄생을 예고한다고 믿어왔습니다. 꽃 태몽은 특히 딸을 암시하는 태몽으로 널리 알려져 있는데, 이는 꽃의 여성적 이미지와 연관된 민간 인식에서 비롯된 것입니다. 그러나 꽃의 종류에 따라 아들을 예시하는 경우도 있어 단순한 성별 예측을 넘어 아이의 성품과 미래 운세를 예시하는 복합적인 태몽으로 해석됩니다. 조선시대 문헌에도 꽃 태몽 관련 기록이 등장하며, 특히 모란과 연꽃은 역사적으로 왕실과 귀족 가문에서 길조로 여겼습니다.",
+    "english": "In Korean traditional culture, flowers have long symbolized beauty, femininity, vitality, and nobility. In shamanistic (무속) belief, flowers serve as intermediaries between the human and spirit worlds, and floral decorations are essential elements of ritual ceremonies (굿). Within the Confucian tradition, the 'four gentlemen' plants — plum blossom, orchid, chrysanthemum, and bamboo — represent the virtues of the noble person (군자), so when these flowers appear in taemong they are believed to foretell the birth of a morally distinguished individual. Flower taemong are widely associated with daughters in folk belief, rooted in the culturally feminine image of flowers. However, different flower types can also point to sons, making flower taemong a nuanced tradition that speaks more to a child's character and destiny than to simple gender prediction. Historical Joseon-dynasty records include references to flower pregnancy dreams, with peony and lotus in particular regarded as auspicious omens by the royal court and noble families."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트는 꽃을 여성의 성기와 관련된 상징으로 해석했어요. 꽃봉오리와 활짝 피는 꽃의 이미지는 여성의 성적 발달과 생식 능력을 무의식적으로 표현한 것으로 보았으며, 임신 중 꽃 꿈은 생명 창조에 대한 무의식적 기대와 욕구가 꿈으로 표출된 것으로 설명할 수 있어요. 꽃을 받거나 꺾는 행위는 리비도적 에너지의 흐름을 반영한다고 보았습니다.",
+      "english": "Freud interpreted flowers as symbols associated with female sexuality and the genitalia. The imagery of buds opening into full bloom represents an unconscious expression of feminine sexual development and reproductive capacity. A pregnant woman's flower dream, in Freudian terms, reflects unconscious desire and anticipation around the creation of new life, while acts such as receiving or picking flowers symbolize the flow of libidinal energy."
+    },
+    "jungian": {
+      "korean": "융의 분석심리학에서 꽃은 '자기(Self)'의 원형적 상징, 즉 정신의 전체성과 내면의 완성을 나타내는 만다라 이미지와 연결됩니다. 태몽에서 꽃이 등장하는 것은 새로운 생명이라는 심리적 원형이 집단 무의식에서 올라오는 표현으로 볼 수 있어요. 아름답게 피어나는 꽃은 아니마(Anima) 원형, 즉 남성 정신 속의 여성적 원리가 의식화되는 과정을 상징하기도 합니다.",
+      "english": "In Jungian analytical psychology, flowers are linked to the archetypal symbol of the Self — the mandala image representing psychic wholeness and inner completion. The appearance of flowers in a taemong can be understood as the archetype of new life emerging from the collective unconscious. A flower in full bloom also symbolizes the Anima archetype, representing the process by which the feminine principle within the psyche becomes consciously realized."
+    },
+    "modern": {
+      "korean": "현대 심리학과 신경과학의 관점에서 임신 중 꽃 꿈은 호르몬 변화와 새로운 생명에 대한 기대감, 불안감이 복합적으로 작용한 결과로 해석해요. 아름다운 꽃은 임산부가 아이에 대해 품는 이상적인 바람을 시각화한 것이며, 시드는 꽃은 유산이나 건강에 대한 잠재적 불안을 반영할 수 있습니다. 임신 기간에는 렘수면이 증가하고 꿈이 더욱 생생해지는 경향이 있어 꽃 같은 강렬한 시각적 이미지가 자주 등장하게 됩니다.",
+      "english": "From a modern psychology and neuroscience perspective, flower dreams during pregnancy reflect a complex interplay of hormonal changes, hopes, and anxieties about new life. Beautiful blooming flowers visualize the ideals and wishes a pregnant person holds for their unborn child, while wilting flowers may mirror underlying anxieties about miscarriage or health. Pregnancy tends to increase REM sleep and dream vividness, which is why emotionally charged visual images like flowers appear so frequently."
+    },
+    "crossCultural": {
+      "korean": "서양에서 꽃 꿈은 주로 개인의 감정 상태, 사랑, 성적 에너지를 상징하는 반면, 한국 전통에서는 꽃 태몽이 태아의 성품과 미래 운명을 예시하는 구체적인 문화적 신앙 체계로 발전한 점이 두드러지는 차이입니다.",
+      "english": "While Western dream traditions primarily interpret flower dreams as symbols of personal emotion, love, or sexual energy, Korean tradition has developed a specific cultural belief system in which flower taemong reveal the unborn child's character and future destiny — a meaningful distinction in how the same symbol is culturally encoded."
+    }
+  },
+  "relatedSymbols": [
+    "lotus-taemong",
+    "fruit-taemong",
+    "butterfly",
+    "peony",
+    "garden",
+    "cherry-blossom",
+    "pregnancy-dream"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "꽃 태몽",
+      "꽃 태몽 아들 딸",
+      "꽃 태몽 의미",
+      "꽃 태몽 해몽",
+      "장미 태몽",
+      "연꽃 태몽",
+      "모란 태몽",
+      "매화 태몽",
+      "벚꽃 태몽",
+      "국화 태몽",
+      "꽃밭 태몽",
+      "흰꽃 태몽",
+      "꽃꿈 태몽 길몽",
+      "꽃 태몽 성별 예측",
+      "꽃을 받는 태몽"
+    ],
+    "english": [
+      "flower taemong meaning",
+      "flower pregnancy dream Korean",
+      "flower dream baby gender Korea",
+      "lotus taemong interpretation",
+      "rose taemong baby dream",
+      "Korean pregnancy dream flowers",
+      "꽃 태몽 meaning in English",
+      "flower dream daughter son Korean folk belief",
+      "peony taemong auspicious dream"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "꽃 태몽은 아들인가요, 딸인가요?",
+      "answer_ko": "일반적으로 꽃 태몽은 딸을 암시하는 경우가 많습니다. 특히 예쁜 꽃봉오리를 꺾거나 꽃을 품에 안는 꿈은 곱고 현숙한 딸의 탄생을 예시한다고 알려져 있어요. 그러나 국화처럼 가을에 피는 꽃이나 연꽃을 꺾는 꿈은 아들을 암시하기도 합니다. 성별보다는 아이의 성품과 미래 운세를 나타낸다는 해석이 더 전통적입니다.",
+      "answer_en": "Flower taemong are generally associated with daughters, particularly dreams of picking beautiful flower buds or holding flowers to the chest. However, certain flowers such as the chrysanthemum or lotus can point to a son. Traditional interpretation actually places more emphasis on the child's character and future destiny than on gender prediction.",
+      "question_en": "Does a flower taemong mean a son or a daughter?"
+    },
+    {
+      "question_ko": "어떤 꽃 태몽이 가장 길몽인가요?",
+      "answer_ko": "연꽃, 모란, 매화 태몽이 가장 상서로운 꽃 태몽으로 꼽힙니다. 연꽃은 고결하고 학문적으로 뛰어난 아이를, 모란은 부귀와 번영을 누릴 아이를, 매화는 세상의 존경을 받을 아이를 예시합니다. 꽃밭 가득 꽃이 피어 있는 꿈도 대길몽으로 풀이됩니다.",
+      "answer_en": "Lotus, peony, and plum blossom taemong are considered among the most auspicious flower pregnancy dreams. The lotus foretells a noble, scholarly child; the peony signals wealth and prosperity; and the plum blossom suggests a child who will earn widespread respect. Dreaming of a vast field in full bloom is also regarded as exceptionally auspicious.",
+      "question_en": "Which flower taemong is considered the most auspicious?"
+    },
+    {
+      "question_ko": "꽃이 시드는 태몽은 나쁜 징조인가요?",
+      "answer_ko": "꽃이 시들거나 꽃잎이 떨어지는 태몽은 다소 불길한 징조로 여겨지며, 임신 중 건강이나 출산 과정에 주의가 필요하다는 신호로 해석됩니다. 그러나 태몽 하나만으로 결론을 내리기보다는 임산부의 컨디션과 전문 의료 관리를 병행하는 것이 중요합니다.",
+      "answer_en": "A dream of wilting or falling flowers is considered a cautionary taemong, interpreted as a signal to pay extra attention to health during the pregnancy. However, it is important not to draw firm conclusions from a single dream — good prenatal medical care remains the top priority.",
+      "question_en": "Is a taemong of wilting flowers a bad omen?"
+    },
+    {
+      "question_ko": "태몽은 임신부만 꾸나요?",
+      "answer_ko": "아니요. 한국 전통에서 태몽은 임신부 본인뿐 아니라 배우자, 친정 어머니, 시어머니 등 가까운 가족이 대신 꾸는 경우도 흔합니다. 가족 중 누군가 꽃 태몽을 꾸었다면 임신부와 관련된 길몽으로 함께 해석할 수 있습니다.",
+      "answer_en": "No. In Korean tradition, taemong can be dreamed not only by the pregnant person but also by a spouse, the mother-in-law, or other close family members on behalf of the expectant mother. If a family member dreams of flowers, it can be interpreted as an auspicious sign related to the pregnancy.",
+      "question_en": "Can only the pregnant woman have a taemong?"
+    },
+    {
+      "question_ko": "장미 태몽은 어떤 의미인가요?",
+      "answer_ko": "장미 태몽은 정열적이고 사람들의 사랑을 받는 아이의 탄생을 암시합니다. 붉은 장미는 강한 생명력과 카리스마를, 분홍 장미는 사랑스럽고 부드러운 성품을 예시합니다. 다만 장미는 가시가 있어 아이가 재능만큼 강한 자아도 지닐 수 있다는 복합적인 해석도 있습니다.",
+      "answer_en": "A rose taemong foretells the birth of a passionate, beloved child. A red rose signals strong vitality and charisma, while a pink rose indicates a gentle, lovable nature. However, since roses have thorns, some interpretations also suggest that the child will possess a strong sense of self to match their talents.",
+      "question_en": "What does a rose taemong mean?"
+    },
+    {
+      "question_ko": "꽃 태몽이 태몽인지 어떻게 알 수 있나요?",
+      "answer_ko": "태몽은 일반 꿈보다 훨씬 생생하고 인상적이며 깨어난 후에도 오래 기억에 남는 특징이 있습니다. 꽃 태몽의 경우 꽃의 색채가 유독 선명하게 느껴지거나, 꽃 향기가 느껴지거나, 꽃과의 교감이 특별하게 인상에 남으면 태몽으로 여기는 경우가 많습니다. 임신 사실을 알기 전후로 꾼 꿈이라면 더욱 의미 있게 해석됩니다.",
+      "answer_en": "Taemong are typically far more vivid and memorable than ordinary dreams, leaving a strong impression that lingers after waking. In a flower taemong, the colors are often unusually vibrant, a scent may be perceived, or the emotional connection with the flower feels distinctly significant. Dreams experienced around the time of conception — even before pregnancy is confirmed — are particularly meaningful in this tradition.",
+      "question_en": "How can I tell if a flower dream is a taemong?"
+    }
+  ]
+}

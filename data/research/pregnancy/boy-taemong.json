@@ -1,0 +1,215 @@
+{
+  "symbol": {
+    "korean": "아들 태몽",
+    "english": "Boy Taemong Signs",
+    "slug": "boy-taemong"
+  },
+  "summary": {
+    "korean": "아들 태몽은 용, 호랑이, 고추, 황금 등 크고 강한 기운을 지닌 상징이 꿈에 나타나 사내아이의 잉태와 그 아이의 장래 운명을 예고하는 한국의 전통 태몽 신앙입니다.",
+    "english": "Boy taemong are Korean conception dreams featuring bold, powerful symbols such as dragons, tigers, red peppers, and gold, traditionally believed to herald the birth of a son and foretell his future destiny."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "용이 하늘로 승천하거나 여의주를 물고 나타나는 꿈은 아들 태몽 중 최고의 길몽으로 여겨집니다. 장차 권세와 명예를 얻는 큰 인물이 될 것을 예고하며, 역사적으로도 왕이나 영웅의 탄생과 연결된 상징입니다.",
+      "english": "A dragon ascending to the sky or carrying a flaming pearl is considered the most auspicious of all boy taemong. It foretells a son who will attain great power and renown, historically linked to the birth of kings and heroes.",
+      "context": "꿈에서 용의 형상이 선명하고 힘차게 등장할 때, 특히 여의주를 지니거나 하늘로 오를 때"
+    },
+    {
+      "type": "길몽",
+      "korean": "호랑이가 달려오거나 품 안으로 안겨 드는 꿈은 강한 리더십과 당당한 성품을 지닌 아들을 예고하는 길몽입니다. 장차 많은 사람을 이끄는 지도자로 성장할 것이라는 의미를 담고 있습니다.",
+      "english": "A tiger rushing toward you or leaping into your arms is an auspicious boy taemong predicting a son with strong leadership and bold character, destined to lead and inspire others.",
+      "context": "꿈에서 호랑이가 위협적이지 않고 자신에게 다가오거나 안기는 형태일 때"
+    },
+    {
+      "type": "길몽",
+      "korean": "황금빛으로 빛나는 돼지, 특히 큰 황금 돼지를 안거나 집 안으로 들이는 꿈은 재물운이 풍성한 아들의 탄생을 예고하는 길몽입니다. 아이가 자라 경제적으로 크게 번성할 것을 의미합니다.",
+      "english": "Embracing a large golden pig or bringing one into the home is a lucky boy taemong that predicts a son blessed with great wealth and financial success throughout his life.",
+      "context": "황금빛 돼지가 풍채 좋고 건강한 모습으로 나타날 때"
+    },
+    {
+      "type": "길몽",
+      "korean": "크고 붉은 고추를 따거나 받는 꿈은 전통적으로 건강하고 활기찬 아들의 탄생을 알리는 가장 직접적인 태몽입니다. 고추의 크기와 붉은 빛깔이 선명할수록 더욱 건강하고 씩씩한 아들이 태어날 것으로 해석됩니다.",
+      "english": "Picking or receiving a large, vividly red pepper is the most direct and widely recognized boy taemong, predicting the birth of a healthy and spirited son. The larger and more vivid the pepper, the more vigorous the boy is said to be.",
+      "context": "꿈에서 고추가 크고 선명하게 붉으며 손에 쥐거나 품에 안는 장면"
+    },
+    {
+      "type": "길몽",
+      "korean": "큰 잉어나 황금 물고기를 맨손으로 잡는 꿈은 장차 뛰어난 지도력과 사회적 성공을 거둘 아들의 탄생을 예고합니다. 잉어가 용문을 통과한다는 전설과 연결되어 출세와 입신양명을 상징합니다.",
+      "english": "Catching a large carp or golden fish with bare hands is a boy taemong foretelling a son destined for social success and leadership. The symbolism connects to the legend of a carp leaping the dragon gate to become a dragon.",
+      "context": "물이 맑고 물고기가 크고 생기 있게 잡힐 때"
+    },
+    {
+      "type": "neutral",
+      "korean": "큰 뱀이나 구렁이가 나타나는 꿈은 아들과 딸 양쪽의 태몽으로 해석될 수 있으며, 문맥에 따라 의미가 달라집니다. 굵고 커다란 황금빛 구렁이는 귀한 아들의 태몽으로 보는 경우가 많으나, 검거나 작은 뱀은 딸로 해석되기도 합니다.",
+      "english": "A dream featuring a large snake or python can be interpreted as either a boy or girl taemong depending on the context. A large, golden or patterned python is often read as a boy, while darker or smaller snakes may suggest a girl.",
+      "context": "뱀의 크기, 색깔, 행동에 따라 성별 해석이 달라지므로 전체적인 꿈의 분위기를 함께 고려"
+    },
+    {
+      "type": "neutral",
+      "korean": "해가 품 안으로 들어오거나 품에 안는 꿈은 예로부터 아들 태몽으로 알려져 있으나, 달이 품에 드는 꿈은 딸 태몽으로 구분하는 전통이 있습니다. 해를 받는 꿈은 장차 세상에 이름을 떨칠 아이가 태어날 것을 예고합니다.",
+      "english": "A dream of the sun entering your embrace is traditionally considered a boy taemong, contrasted with the moon which signals a girl. The sun represents a child who will make a great name in the world.",
+      "context": "꿈에서 태양이 밝고 따뜻하게 품으로 들어올 때; 달이 함께 나타나는 경우 딸 태몽일 수 있음"
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "용 아들 태몽",
+      "keyword_en": "dragon boy taemong",
+      "interpretation_ko": "용이 하늘로 올라가거나 여의주를 물고 나타나는 꿈은 아들 태몽 중 으뜸으로, 권세와 명예를 얻을 큰 인물이 될 것을 예고합니다. 역사적으로 왕과 영웅의 탄생에 얽힌 태몽으로 기록되어 있습니다.",
+      "interpretation_en": "A dragon ascending or holding a pearl is the most prestigious boy taemong, foretelling a son who will achieve great power and honor. Historically recorded as the birth dream of kings and national heroes."
+    },
+    {
+      "keyword_ko": "호랑이 아들 태몽",
+      "keyword_en": "tiger boy taemong",
+      "interpretation_ko": "호랑이가 품 안에 뛰어들거나 달려드는 꿈은 강한 카리스마와 리더십을 갖춘 아들을 예고합니다. 장차 사회를 이끌 지도자로 성장할 것이라는 의미를 지닙니다.",
+      "interpretation_en": "A tiger leaping into your arms or charging toward you predicts a son with powerful charisma and leadership, destined to become a leader in society."
+    },
+    {
+      "keyword_ko": "고추 아들 태몽",
+      "keyword_en": "red pepper boy taemong",
+      "interpretation_ko": "크고 붉은 고추를 따거나 받는 꿈은 아들 태몽의 대표 상징으로, 건강하고 활발한 사내아이의 탄생을 예고합니다. 민간에서 가장 널리 알려진 아들 태몽입니다.",
+      "interpretation_en": "Picking or receiving a large red pepper is the most widely recognized boy taemong, predicting the birth of a healthy and lively son. It is the most common folk symbol for a male child."
+    },
+    {
+      "keyword_ko": "황금 돼지 아들 태몽",
+      "keyword_en": "golden pig boy taemong",
+      "interpretation_ko": "황금빛 돼지를 안거나 집에 들이는 꿈은 재물운이 좋은 아들을 예고하며, 아이가 자라 경제적으로 크게 성공할 것이라 해석됩니다.",
+      "interpretation_en": "Embracing or bringing home a golden pig predicts a son blessed with exceptional financial fortune, who will enjoy great economic success in life."
+    },
+    {
+      "keyword_ko": "잉어 아들 태몽",
+      "keyword_en": "carp boy taemong",
+      "interpretation_ko": "큰 잉어를 잡거나 잉어가 뛰어오르는 꿈은 출세와 입신양명을 상징하며, 사회적으로 성공하고 지도력 있는 아들이 태어날 것을 예고합니다.",
+      "interpretation_en": "Catching a large carp or watching one leap from water predicts a son who will rise through society to great acclaim, symbolizing ambition and achievement."
+    },
+    {
+      "keyword_ko": "독수리 아들 태몽",
+      "keyword_en": "eagle boy taemong",
+      "interpretation_ko": "독수리가 높이 나는 꿈은 기상이 높고 포부가 큰 아들을 예고하며, 자유롭고 강한 성품을 가진 아이가 태어날 것이라 해석됩니다.",
+      "interpretation_en": "An eagle soaring high in the sky predicts a son with lofty ambitions and a free, powerful spirit, destined for greatness."
+    },
+    {
+      "keyword_ko": "황소 아들 태몽",
+      "keyword_en": "bull boy taemong",
+      "interpretation_ko": "크고 건강한 황소가 나타나는 꿈은 강인하고 우직한 성품의 아들을 예고합니다. 끈기 있게 큰일을 해낼 묵직한 인물이 될 것이라는 의미를 지닙니다.",
+      "interpretation_en": "A large, vigorous bull appearing in a dream predicts a son with tenacious, steadfast character who will accomplish great things through persistence and strength."
+    },
+    {
+      "keyword_ko": "해 아들 태몽",
+      "keyword_en": "sun boy taemong",
+      "interpretation_ko": "태양이 품 안으로 들어오거나 품에 안는 꿈은 세상에 이름을 날릴 아들을 예고하는 전통적인 태몽으로, 밝고 넓은 기상을 가진 아이가 태어날 것이라 해석됩니다.",
+      "interpretation_en": "The sun entering your embrace is a traditional boy taemong foretelling a son who will become famous and widely respected, blessed with a bright and magnanimous spirit."
+    },
+    {
+      "keyword_ko": "구렁이 아들 태몽",
+      "keyword_en": "python boy taemong",
+      "interpretation_ko": "굵고 커다란 황금빛 구렁이가 나타나는 꿈은 귀하고 능력 있는 아들을 예고하는 태몽으로 해석됩니다. 구렁이의 크기가 클수록 아이의 그릇이 크다고 봅니다.",
+      "interpretation_en": "A large, golden python appearing in a dream is interpreted as a boy taemong foretelling a talented and distinguished son. The larger the python, the greater the child's potential is said to be."
+    },
+    {
+      "keyword_ko": "수탉 아들 태몽",
+      "keyword_en": "rooster boy taemong",
+      "interpretation_ko": "수탉이 힘차게 울거나 나타나는 꿈은 용기 있고 선도적인 아들을 예고하는 태몽으로, 사람들 앞에 당당히 나서는 리더십 있는 아이가 될 것이라 해석됩니다.",
+      "interpretation_en": "A rooster crowing boldly in a dream predicts a courageous and pioneering son who will naturally step forward and lead others."
+    }
+  ],
+  "culturalContext": {
+    "korean": "태몽(胎夢)은 한국 고유의 민간 신앙으로, 임신과 출산에 앞서 특정한 꿈이 나타나 태아의 성별과 장래 운명을 예고한다는 믿음입니다. 아들 태몽은 특히 크고 힘차며 양(陽)의 기운을 상징하는 존재들 — 용, 호랑이, 해, 황금, 고추 등 — 이 등장하는 것이 특징입니다. 이는 한국 전통 음양오행 사상에서 아들을 양(陽)의 기운, 딸을 음(陰)의 기운과 연결하는 세계관을 반영합니다. 『삼국유사』와 『삼국사기』에는 신라의 명장 김유신의 아버지가 별을 받는 태몽을 꾸었다는 기록이 있으며, 조선시대 문헌인 『해동명신록』에도 유명 인사들의 태몽이 상세히 기술되어 있습니다. 학자 이능화는 '태몽 없이 탄생한 아이가 하나도 없더라'고 기록할 만큼 태몽은 한국인의 출산 문화에 깊이 뿌리내린 전통입니다. 무속 신앙과 결합되어, 선명하고 강렬한 태몽은 삼신(三神) 할머니가 아이의 영혼을 부모에게 예고하는 방식으로 해석되기도 했습니다.",
+    "english": "Taemong is a uniquely Korean folk tradition in which specific dreams before or during pregnancy are believed to reveal the child's sex and future destiny. Boy taemong are characterized by symbols that embody strong, yang (陽) energy: dragons, tigers, the sun, gold, and red peppers. This reflects the traditional Korean cosmological framework of yin-yang duality, where male children are associated with active, solar, powerful forces. Historical records in the Samguk Yusa (三國遺事) and Samguk Sagi (三國史記) document vivid taemong linked to the births of legendary figures including the Silla general Kim Yu-shin. The Joseon-era text Haedong Myeongsin-nok catalogs the taemong of prominent scholars and officials, suggesting the tradition permeated all levels of society. In the shamanic tradition, vivid taemong were sometimes understood as Samshin Halmoni — the divine grandmother spirit overseeing birth — announcing the arrival of a soul. Although the belief has no scientific basis, it remains a living cultural ritual: Korean families still excitedly share and interpret taemong dreams today."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트의 정신분석학 관점에서 아들 태몽에 등장하는 상징들 — 고추, 뱀, 칼, 기둥 등 — 은 남근 상징(phallic symbol)으로 해석될 수 있어요. 임신한 여성이 이러한 꿈을 꾸는 것은 태아의 성별에 대한 무의식적 소망이나 기대가 수면 중 꿈으로 표출되는 것으로 볼 수 있습니다. 프로이트는 꿈을 억압된 욕망의 위장된 충족으로 보았으므로, 아들을 기원하는 사회적 압력이 이러한 상징적 꿈을 만들어낼 수 있다고 해석할 수 있어요.",
+      "english": "From a Freudian perspective, the dominant symbols in boy taemong — peppers, snakes, swords, and towers — readily qualify as phallic symbols representing masculine energy. Freud would likely interpret these dreams as the unconscious expression of a pregnant woman's wishes or anxieties about her child's sex, shaped by the social pressures of a patriarchal society that valued male heirs. The vividness and emotional intensity of taemong dreams align with Freud's view of dreams as disguised fulfillments of repressed desires."
+    },
+    "jungian": {
+      "korean": "융의 분석심리학에서 아들 태몽의 용이나 호랑이 같은 원형적 동물 상징은 집단 무의식 속 영웅(Hero) 원형과 연결됩니다. 임신 중 꾸는 강렬한 꿈은 자아(ego)와 자기(Self)의 개성화 과정 중 새로운 생명의 출현을 내면이 상징적으로 처리하는 과정으로 해석될 수 있어요. 용과 태양 같은 빛나는 상징은 융이 말한 '긍정적 아버지 원형'이나 '정신의 왕(Rex)' 이미지와 유사하며, 새 생명이 지닌 잠재성을 상징화한다고 볼 수 있습니다.",
+      "english": "Jung would find the archetypal animal imagery of boy taemong — dragons, tigers, eagles — deeply significant as manifestations of the Hero archetype from the collective unconscious. The vivid intensity of these pregnancy dreams mirrors what Jung described as the psyche's symbolic processing of a profound life transition: the emergence of a new Self. The radiant, solar symbols (dragons, gold, sun) parallel Jung's concept of the Rex or the positive father archetype, representing the luminous potential inherent in new life."
+    },
+    "modern": {
+      "korean": "현대 수면과학과 심리학에 따르면, 임신 중에는 호르몬 변화(특히 프로게스테론과 에스트로겐 상승)로 인해 REM 수면이 길어지고 꿈이 평소보다 더 선명하고 강렬해지는 것으로 알려져 있어요. 아들 태몽이 '실제로 맞는 것처럼 느껴지는' 경험은 확증 편향(confirmation bias) — 맞은 사례만 기억하고 틀린 사례는 잊는 경향 — 으로 설명됩니다. 임신이라는 생애 전환기에 나타나는 강렬한 꿈은 불안과 기대를 상징적으로 처리하는 심리적 기능을 수행한다는 것이 현대 심리학의 주류 시각이에요.",
+      "english": "Modern sleep science explains that hormonal changes during pregnancy — particularly elevated progesterone and estrogen — prolong REM sleep cycles, producing more vivid and emotionally charged dreams. The perception that taemong 'come true' is well explained by confirmation bias: people remember the hits and forget the misses. Contemporary psychology views intense pregnancy dreams as a healthy psychological mechanism for processing the anxieties and expectations surrounding a major life transition, rather than as literal predictive signals."
+    },
+    "crossCultural": {
+      "korean": "한국 전통에서 아들 태몽은 양(陽)의 기운을 지닌 강한 동물과 사물로 예고되는 반면, 서양 심리학은 이러한 꿈을 성별 선호에 대한 무의식적 소망 충족이나 임신 호르몬의 생리학적 부산물로 해석하는 경향이 있어요.",
+      "english": "Where Korean tradition reads boy taemong as cosmic announcements encoded in powerful, yang-energy symbols, Western psychology tends to interpret the same vivid pregnancy dreams as unconscious wish-fulfillment or a physiological side effect of pregnancy hormones — a convergence of cultural meaning-making and neuroscience."
+    }
+  },
+  "relatedSymbols": [
+    "dragon",
+    "tiger",
+    "snake",
+    "pig",
+    "carp",
+    "sun",
+    "pregnancy-dream",
+    "girl-taemong"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "아들 태몽",
+      "아들 태몽 종류",
+      "아들 태몽 꿈해몽",
+      "아들 낳는 태몽",
+      "아들 태몽 용꿈",
+      "아들 태몽 호랑이꿈",
+      "아들 태몽 고추꿈",
+      "아들 태몽 돼지꿈",
+      "아들 태몽 뱀꿈",
+      "아들 태몽 잉어꿈",
+      "남자아이 태몽",
+      "아들 태몽 보는 법",
+      "태몽 아들 딸 구별"
+    ],
+    "english": [
+      "boy taemong dream meaning",
+      "Korean pregnancy dream boy",
+      "taemong boy signs",
+      "how to tell boy taemong",
+      "dragon taemong boy",
+      "tiger taemong son",
+      "red pepper taemong meaning",
+      "Korean conception dream son",
+      "taemong dream interpretation boy or girl"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "아들 태몽은 어떤 꿈인가요?",
+      "answer_ko": "아들 태몽은 용, 호랑이, 황금 돼지, 붉은 고추, 큰 잉어, 독수리, 황소, 해 등 크고 강한 기운을 상징하는 존재가 꿈에 등장하는 것이 특징입니다. 전통적으로 이런 꿈은 사내아이의 잉태를 예고한다고 믿어왔습니다.",
+      "question_en": "What kinds of dreams are considered boy taemong?",
+      "answer_en": "Boy taemong typically feature bold, powerful symbols such as dragons, tigers, golden pigs, large red peppers, carp, eagles, bulls, and the sun. These symbols embody strong, yang energy that traditional Korean folk belief associates with a male child."
+    },
+    {
+      "question_ko": "아들 태몽 중 가장 좋은 태몽은 무엇인가요?",
+      "answer_ko": "용 태몽이 아들 태몽 중 최고로 여겨집니다. 특히 용이 하늘로 승천하거나 여의주를 물고 나타나는 꿈은 장차 권세와 명예를 누릴 큰 인물이 탄생할 것을 예고하는 길몽으로 해석됩니다.",
+      "question_en": "Which boy taemong is considered the best omen?",
+      "answer_en": "The dragon taemong is regarded as the most auspicious of all boy taemong. A dream in which a dragon ascends to the sky or carries a flaming pearl is interpreted as foretelling the birth of a son destined for great power and lasting honor."
+    },
+    {
+      "question_ko": "태몽은 꼭 임산부 본인이 꿔야 하나요?",
+      "answer_ko": "아닙니다. 태몽은 임산부 본인뿐 아니라 남편, 부모, 시부모, 형제자매 등 태아와 가까운 관계의 사람이 대신 꾸기도 합니다. 전통적으로 누가 꾸든 그 꿈의 내용으로 아이의 성별과 운명을 풀이할 수 있다고 믿었습니다.",
+      "question_en": "Does the pregnant mother have to dream the taemong herself?",
+      "answer_en": "No. A taemong can be dreamed by the mother, the father, grandparents, siblings, or any close relative of the child. Korean tradition holds that whoever receives the dream, its content reveals the child's sex and destiny."
+    },
+    {
+      "question_ko": "고추꿈을 꾸면 무조건 아들인가요?",
+      "answer_ko": "고추꿈은 아들 태몽의 대표 상징이지만, 무조건 아들이라고 단정할 수는 없습니다. 태몽은 과학적으로 성별을 예측하는 방법이 아니며, 50% 확률을 넘지 않습니다. 다만 한국 전통 민간 신앙에서 고추는 남성을 상징하는 가장 직접적인 아들 태몽 상징으로 여겨져 왔습니다.",
+      "question_en": "Does dreaming of a red pepper guarantee a boy?",
+      "answer_en": "A red pepper dream is the most iconic boy taemong symbol, but it does not guarantee a male child. Taemong has no scientific basis for predicting gender — the probability is no better than 50/50. Within Korean folk tradition, however, the red pepper is the clearest and most widely recognized symbol for a son."
+    },
+    {
+      "question_ko": "아들 태몽과 딸 태몽은 어떻게 구별하나요?",
+      "answer_ko": "전통적으로 아들 태몽은 크고 강한 양(陽)의 기운 — 용, 호랑이, 해, 황금, 고추, 황소 등 — 이 등장하는 반면, 딸 태몽은 꽃, 달, 예쁜 보석, 나비, 작은 동물 등 섬세하고 부드러운 음(陰)의 기운을 상징하는 것들이 나타난다고 구분합니다.",
+      "question_en": "How do you tell boy taemong from girl taemong?",
+      "answer_en": "Boy taemong traditionally feature large, powerful yang-energy symbols — dragons, tigers, the sun, gold, peppers, and bulls — while girl taemong tend to feature softer, yin-energy symbols such as flowers, the moon, beautiful jewels, butterflies, and small delicate creatures."
+    },
+    {
+      "question_ko": "뱀꿈은 아들 태몽인가요, 딸 태몽인가요?",
+      "answer_ko": "뱀꿈은 아들과 딸 양쪽 모두의 태몽으로 해석될 수 있습니다. 굵고 커다란 황금빛 구렁이는 귀한 아들을 예고하는 태몽으로 보는 경우가 많고, 검거나 작은 뱀은 딸 태몽으로 해석하기도 합니다. 꿈의 전체적인 분위기와 뱀의 생김새를 함께 고려해야 합니다.",
+      "question_en": "Is a snake dream a boy taemong or a girl taemong?",
+      "answer_en": "Snake dreams can be interpreted as either boy or girl taemong. A large, golden or patterned python is often read as predicting a boy, while a dark or small snake may suggest a girl. The overall mood and appearance of the snake in the dream should be considered together."
+    }
+  ]
+}

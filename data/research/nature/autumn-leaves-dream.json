@@ -1,0 +1,234 @@
+{
+  "symbol": {
+    "korean": "단풍",
+    "english": "Autumn Leaves",
+    "slug": "autumn-leaves"
+  },
+  "summary": {
+    "korean": "단풍과 낙엽 꿈은 한국 꿈해몽에서 변화와 이별, 그리고 새로운 시작을 예고하는 복합적인 상징입니다. 화려하게 물든 단풍잎은 풍요로운 결실과 전성기를 암시하는 길몽이 되기도 하고, 바람에 떨어져 흩날리는 낙엽은 관계의 끝이나 이별, 삶의 무상함을 경고하는 흉몽으로 해석되기도 합니다.",
+    "english": "Dreams of autumn leaves (단풍/낙엽) carry complex symbolism in Korean dream interpretation, embodying themes of change, farewell, and new beginnings. Vivid, beautifully colored autumn leaves often signal a peak of abundance and life fulfillment — an auspicious omen — while leaves falling and scattering in the wind can warn of separation, the end of relationships, or life's impermanence."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "화려하게 붉고 황금빛으로 물든 단풍이 산과 들을 가득 뒤덮는 꿈은 삶의 전성기와 풍요로운 결실을 상징하는 대표적인 길몽입니다. 오랜 노력이 드디어 빛을 발하는 시기임을 예고하며, 사업이나 직장에서 인정받고 재물운이 절정에 이를 징조로 봅니다. 특히 붉은 단풍은 명예와 성공을, 황금빛 단풍은 재물 축적을 나타냅니다.",
+      "english": "Dreaming of brilliant red and golden autumn leaves blanketing mountains and fields in full color is a classic auspicious omen symbolizing a peak of life abundance and the fulfillment of long efforts. It predicts a period when hard work finally earns recognition, with career advancement, business success, and a financial windfall reaching their heights. Specifically, red leaves signal honor and achievement, while golden leaves suggest the accumulation of wealth.",
+      "context": "산이나 들, 나무가 선명하고 풍성한 단풍으로 가득 차 있는 장관을 보는 꿈"
+    },
+    {
+      "type": "길몽",
+      "korean": "단풍잎을 손으로 직접 잡거나 모아 품에 안는 꿈은 뜻밖의 횡재나 귀인의 도움을 예고하는 길몽입니다. 손에 잡은 잎이 선명하고 아름다울수록 얻게 될 행운의 크기가 크며, 재물, 명예, 소중한 인연이 함께 찾아올 수 있다는 신호로 해석됩니다.",
+      "english": "Catching or gathering autumn leaves in your hands and holding them close is an auspicious omen predicting an unexpected windfall or the timely appearance of a helpful benefactor. The brighter and more beautiful the leaves in your hands, the greater the fortune headed your way — this dream signals incoming luck across wealth, reputation, and meaningful new relationships.",
+      "context": "단풍잎을 손으로 잡거나 모아 품에 안는 꿈"
+    },
+    {
+      "type": "길몽",
+      "korean": "가을 단풍 숲길을 여유롭고 평온하게 걷는 꿈은 현재의 복잡했던 상황들이 정리되고 안정과 평화가 찾아올 것을 암시하는 길몽입니다. 삶의 전환점에서 좋은 방향으로 변화가 이루어지고, 걱정했던 일들이 하나씩 해결되어 마음의 여유를 찾게 될 것을 뜻합니다.",
+      "english": "Walking at ease through an autumn foliage forest path is an auspicious dream indicating that current complications will resolve themselves and a period of calm stability will follow. It predicts positive change at a crossroads, with worries gradually lifting to bring renewed peace of mind.",
+      "context": "화려한 단풍 숲길을 편안하고 즐거운 마음으로 걷는 꿈"
+    },
+    {
+      "type": "흉몽",
+      "korean": "바람에 낙엽이 우수수 떨어져 흩날리는 꿈은 소중한 관계의 이별이나 현재 진행 중인 일의 종료를 예고하는 흉몽입니다. 직장, 연애, 사업 파트너십 등 여러 방면에서 이별과 단절이 일어날 수 있으며, 오래된 인연이 끝나는 시기가 가까워졌음을 알리는 신호입니다.",
+      "english": "Dreaming of leaves falling and scattering in the wind is an inauspicious omen warning of an imminent parting from someone significant or the conclusion of an ongoing endeavor. Separation and disconnection may arise in relationships, career, or business partnerships, signaling that a long-standing chapter of life is drawing to a close.",
+      "context": "강한 바람에 낙엽이 세차게 떨어지거나 사방으로 흩어지는 꿈"
+    },
+    {
+      "type": "흉몽",
+      "korean": "모두 시들고 색이 바랜 낙엽이 땅을 뒤덮는 꿈은 활기를 잃은 생활이나 건강 악화, 재물 손실을 경고하는 흉몽입니다. 힘써 쌓아 온 것들이 서서히 약해지거나 기대했던 계획이 어긋나는 시기를 예고하므로, 건강 관리와 재정 점검이 필요합니다.",
+      "english": "Withered, faded leaves covering the ground is an inauspicious dream warning of diminishing vitality, deteriorating health, or financial loss. It signals that something carefully built may be weakening, or that plans that once looked promising may unravel. Careful attention to health and finances is advised.",
+      "context": "시들고 색 바랜 낙엽이 땅 위에 쌓여 있거나 밟히는 꿈"
+    },
+    {
+      "type": "흉몽",
+      "korean": "앙상하게 잎이 다 떨어진 나무들만 남은 황량한 가을 풍경을 보는 꿈은 주변 환경의 급격한 변화나 외로움, 고립감을 예고하는 흉몽입니다. 의지했던 사람이나 상황이 사라지고 혼자 남겨지는 상황이 올 수 있으니, 인간관계를 돌아보고 내면의 힘을 다질 필요가 있습니다.",
+      "english": "A desolate autumn landscape of bare, leafless trees is an inauspicious omen foretelling abrupt environmental change, loneliness, or social isolation. Those you have relied upon may no longer be available, leaving you to navigate alone. The dream advises reflecting on your relationships and building your inner resilience.",
+      "context": "잎이 모두 떨어져 앙상한 나무만 남은 황량한 풍경을 보는 꿈"
+    },
+    {
+      "type": "neutral",
+      "korean": "낙엽을 쓸거나 갈퀴로 긁어모으는 꿈은 한 시절의 마무리와 정리를 상징하는 중립적인 꿈입니다. 지나간 일들을 정리하고 새로운 출발을 준비하는 과정에 있음을 나타내며, 아직 해결하지 못한 감정이나 미완의 일들을 깔끔하게 마무리 지을 시기임을 암시합니다.",
+      "english": "Sweeping or raking fallen leaves is a neutral dream symbolizing the wrap-up of a season or chapter in life. It represents being in the process of tidying up the past and preparing for a new beginning. The dream suggests it is time to cleanly resolve lingering emotions or unfinished matters before moving forward.",
+      "context": "빗자루나 갈퀴로 낙엽을 모아 정리하는 꿈"
+    },
+    {
+      "type": "neutral",
+      "korean": "낙엽 속을 홀로 걷거나 낙엽을 발로 밟으며 걷는 꿈은 삶의 덧없음과 무상함을 느끼는 내면의 감수성을 반영하는 꿈입니다. 현재의 상황에 대한 회고와 성찰의 시기임을 나타내며, 지나간 것에 대한 그리움과 함께 앞으로 나아갈 힘을 찾고 있는 심리 상태를 보여줍니다.",
+      "english": "Walking alone through fallen leaves or stepping on them as you walk reflects an inner emotional sensitivity to life's transience. This dream signals a period of introspection and looking back, accompanied by nostalgic feelings for what has passed alongside a quiet search for the strength to move ahead.",
+      "context": "낙엽 쌓인 길을 혼자 걸으며 감상에 잠기는 꿈"
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "단풍 꿈",
+      "keyword_en": "autumn foliage dream",
+      "interpretation_ko": "산과 들이 선명한 붉고 노란 단풍으로 물든 꿈은 삶의 절정과 풍요를 알리는 길몽입니다. 오래 준비해 온 일이 드디어 빛을 발하고, 재물운과 명예운이 동시에 상승할 징조입니다.",
+      "interpretation_en": "Dreaming of mountains and fields ablaze with vivid red and yellow autumn foliage is an auspicious omen signaling a peak of abundance. Long-prepared endeavors are about to come to fruition, with both financial fortune and personal recognition on the rise simultaneously."
+    },
+    {
+      "keyword_ko": "낙엽 떨어지는 꿈",
+      "keyword_en": "falling leaves dream",
+      "interpretation_ko": "낙엽이 조용히 또는 세차게 떨어지는 꿈은 이별과 마무리를 암시하는 흉몽입니다. 소중한 관계나 현재의 상황이 끝을 향해 가고 있음을 경고하며, 감정적으로 준비할 필요가 있음을 알립니다.",
+      "interpretation_en": "Falling leaves — whether drifting gently or tumbling in wind — warn of an impending parting or conclusion. A cherished relationship or current chapter is heading toward its end, and the dream calls for emotional preparation."
+    },
+    {
+      "keyword_ko": "낙엽 밟는 꿈",
+      "keyword_en": "stepping on fallen leaves dream",
+      "interpretation_ko": "발 아래 낙엽을 밟으며 걷는 꿈은 지나간 기억이나 과거 관계에 대한 그리움을 상징하는 중립적인 꿈입니다. 삶의 전환점에서 자신을 되돌아보고 있음을 나타내며, 후회보다는 수용과 성장의 방향으로 나아가야 함을 시사합니다.",
+      "interpretation_en": "Walking and stepping on fallen leaves is a neutral dream symbolizing nostalgia for past memories or relationships. It reflects a moment of self-review at a life crossroads and suggests moving forward through acceptance and growth rather than dwelling in regret."
+    },
+    {
+      "keyword_ko": "낙엽 쌓인 꿈",
+      "keyword_en": "pile of fallen leaves dream",
+      "interpretation_ko": "낙엽이 수북이 쌓여 있는 꿈은 한국 꿈해몽에서 축적된 피로나 처리되지 못한 감정적 짐을 상징합니다. 지금 정리하지 않으면 더 큰 부담이 될 수 있으니, 마음속에 묵혀둔 것들을 털어내는 것이 필요합니다.",
+      "interpretation_en": "A pile of accumulated fallen leaves symbolizes built-up fatigue or emotional burdens left unaddressed. In Korean dream interpretation, this warns that unless cleared now, the weight will compound. It is time to release what has been suppressed or left unresolved."
+    },
+    {
+      "keyword_ko": "낙엽 쓰는 꿈 / 낙엽 갈퀴질 꿈",
+      "keyword_en": "raking leaves dream",
+      "interpretation_ko": "낙엽을 빗자루나 갈퀴로 열심히 쓸어 모으는 꿈은 지나간 시절을 정리하고 새 출발을 준비하는 상징입니다. 과거의 상처나 묵은 감정을 깔끔하게 마무리하고 앞으로 나아가게 될 것을 암시하는 긍정적인 꿈입니다.",
+      "interpretation_en": "Industriously sweeping or raking fallen leaves is a positive dream symbolizing the act of clearing away the past to prepare for a new start. It implies that old wounds or lingering emotions will be cleanly resolved, freeing the dreamer to move forward."
+    },
+    {
+      "keyword_ko": "단풍 숲길 걷는 꿈",
+      "keyword_en": "walking through autumn forest path dream",
+      "interpretation_ko": "화려한 단풍잎이 드리운 숲길을 걷는 꿈은 삶의 아름다운 전환기를 나타내는 길몽입니다. 걷는 과정이 즐겁고 편안하다면 순조로운 변화를 예고하며, 다가올 결과에 대한 자신감을 가져도 좋다는 신호입니다.",
+      "interpretation_en": "Walking through a forest path canopied in brilliant autumn color is an auspicious dream representing a beautiful transition in life. If the walk feels enjoyable and peaceful, it predicts smooth change ahead — a sign to approach upcoming outcomes with confidence."
+    },
+    {
+      "keyword_ko": "단풍잎 잡는 꿈",
+      "keyword_en": "catching a falling leaf dream",
+      "interpretation_ko": "공중에서 떨어지는 단풍잎을 손으로 잡는 꿈은 매우 드물게 이루어지는 행운의 기회를 잡게 될 것을 암시하는 강력한 길몽입니다. 갑작스러운 기회나 귀인과의 만남이 현실에서 실현될 수 있다는 신호입니다.",
+      "interpretation_en": "Catching a falling autumn leaf in mid-air is a powerful auspicious omen indicating that a rare, exceptional opportunity will be within reach. It signals the imminent appearance of a fortunate chance or a chance encounter with an influential benefactor."
+    },
+    {
+      "keyword_ko": "낙엽 태우는 꿈",
+      "keyword_en": "burning fallen leaves dream",
+      "interpretation_ko": "낙엽을 불태우는 꿈은 과거와의 단절과 변화를 상징하는 복합적인 꿈입니다. 오래된 관계나 상황을 정리하고 완전히 새로운 출발을 하게 될 것임을 암시하며, 과거의 속박에서 벗어나는 해방감이 느껴지는 꿈입니다.",
+      "interpretation_en": "Burning fallen leaves is a complex dream symbolizing a definitive break from the past and transformative change. It implies the complete resolution of old relationships or circumstances and signals a fully fresh start — a dream accompanied by a sense of liberation from past constraints."
+    },
+    {
+      "keyword_ko": "낙엽 비처럼 쏟아지는 꿈",
+      "keyword_en": "leaves raining down dream",
+      "interpretation_ko": "나무에서 낙엽이 비처럼 쏟아지는 꿈은 여러 방면에서 동시에 변화가 닥쳐오는 상황을 예고합니다. 개인의 상황과 꿈속의 감정에 따라 다수의 기회가 한꺼번에 쏟아지는 행운의 길몽이 될 수도 있고, 감당하기 어려운 변화에 대한 불안을 나타내는 꿈이 될 수도 있습니다.",
+      "interpretation_en": "Leaves raining down from trees foretells multiple changes arriving at once. Depending on the dreamer's circumstances and the emotional tone of the dream, it can be an auspicious sign of abundant opportunities arriving simultaneously, or a reflection of anxiety about overwhelming change."
+    },
+    {
+      "keyword_ko": "빨간 단풍 꿈",
+      "keyword_en": "red autumn leaves dream",
+      "interpretation_ko": "선명하게 붉은 단풍잎이 가득한 꿈은 강렬한 열정과 명예, 성공을 상징하는 길몽입니다. 붉은 빛깔은 한국 전통에서 나쁜 기운을 물리치는 색으로 여겨지기 때문에, 적극적으로 나아가면 크게 이루게 될 것임을 예고합니다.",
+      "interpretation_en": "Vivid red autumn leaves filling the dreamscape are an auspicious omen symbolizing intense passion, honor, and success. Red is a protective color in Korean tradition, believed to ward off negative energy — this dream predicts that bold, decisive action will lead to significant achievement."
+    },
+    {
+      "keyword_ko": "노란 단풍 / 황금빛 단풍 꿈",
+      "keyword_en": "yellow or golden autumn leaves dream",
+      "interpretation_ko": "황금빛으로 물든 은행잎이나 단풍잎이 빛나는 꿈은 재물이 모이고 경제적 안정이 실현될 것을 예고하는 길몽입니다. 황금색은 재물과 풍요의 상징으로, 사업이나 투자에서 좋은 결과를 얻을 가능성이 높습니다.",
+      "interpretation_en": "Gleaming yellow or golden autumn leaves — such as the ginkgo's brilliant gold — are an auspicious omen predicting incoming wealth and financial stability. Gold tones symbolize prosperity in Korean tradition, indicating favorable outcomes in business ventures or investments."
+    },
+    {
+      "keyword_ko": "단풍 태몽",
+      "keyword_en": "autumn leaves as pregnancy omen dream",
+      "interpretation_ko": "단풍이 화려하게 물든 꿈이 태몽으로 해석되는 경우, 총명하고 예술적 감각이 뛰어난 아이가 태어날 것을 암시한다고 봅니다. 특히 붉고 선명한 단풍 태몽은 기운차고 빛나는 아이를 예고하는 길조로 여겨집니다.",
+      "interpretation_en": "When a dream of brilliantly colored autumn leaves is interpreted as a pregnancy omen (태몽), it is said to predict the birth of an intelligent child with exceptional artistic sensibility. Vivid, red autumn leaves as a 태몽 are considered an auspicious sign of a vibrant, radiant child."
+    }
+  ],
+  "culturalContext": {
+    "korean": "한국에서 단풍과 낙엽은 단순한 계절 현상을 넘어 삶의 순환과 무상함을 상징하는 깊은 정서적 이미지로 자리 잡고 있습니다. 예로부터 가을 단풍놀이(丹楓遊)는 봄의 꽃놀이와 함께 계절을 즐기는 풍류의 절정으로 여겨졌으며, 내장산, 설악산, 속리산 등의 단풍은 예부터 시인과 화가들의 영감이 되었습니다. 한국 시조와 한시에서 낙엽은 이별, 노년, 고독, 삶의 덧없음을 표현하는 핵심 소재였습니다. 조선 시대 문인들은 단풍을 보며 인생의 번성과 쇠락을 함께 노래했고, 특히 '떨어지는 낙엽(落葉)'은 무상(無常)의 정서를 담아 이별하는 연인, 나라를 떠나는 망명객, 세월을 탄식하는 노인의 심정을 대변했습니다. 반면 활짝 물든 단풍은 삶의 절정과 아름다운 마무리를 상징하여, 아무런 미련 없이 아름답게 지는 낙엽을 인생의 완성으로 보는 시각도 있었습니다. 이러한 문화적 배경 속에서 단풍과 낙엽 꿈은 변화의 신호이자 삶의 한 단락을 마무리하는 상징으로 받아들여지며, 꿈 속 단풍의 아름다움과 낙엽의 상태가 그 길흉을 결정하는 핵심 요소가 됩니다.",
+    "english": "In Korean culture, autumn leaves represent far more than a seasonal spectacle — they carry deep emotional resonance as symbols of life's cycles and impermanence. Autumn leaf-viewing (단풍놀이) has long been celebrated as one of the great Korean pastimes, rivaling the spring cherry blossom tradition in cultural importance. Mountains like Naejangsan, Seoraksan, and Songnisan became legendary autumn destinations, inspiring poets and painters across the centuries. In classical Korean poetry (시조 and hansi), fallen leaves were a central image for expressing farewell, old age, solitude, and the fleeting nature of all things. Joseon-dynasty literati contemplated autumn foliage as a meditation on the rise and fall of life — the 'falling leaf' (落葉) voiced the feelings of parting lovers, exiles, and those lamenting the passage of time. At the same time, vivid autumn color symbolized life at its most splendid peak, and there existed a parallel aesthetic that saw the beautifully falling leaf as the ideal image of a life well-completed and gracefully surrendered. Against this cultural backdrop, dreams of autumn leaves are interpreted as harbingers of transition and markers of life's chapters drawing to a close, with the vibrancy of the autumn color and the condition of the fallen leaves serving as the key to determining good or ill fortune."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트 정신분석학의 관점에서 낙엽 꿈은 죽음 충동(타나토스)과 삶 본능(에로스) 사이의 긴장을 반영할 수 있어요. 떨어져 시드는 잎은 노화, 상실, 또는 어린 시절 분리 불안의 무의식적 표현일 수 있으며, 특히 아름다운 단풍이 지는 꿈은 억압된 슬픔이나 아직 충분히 애도하지 못한 상실에 대한 감정이 꿈의 형태로 위장되어 나타나는 것으로 해석될 수 있어요. 낙엽을 모으거나 쥐는 행위는 잃어가는 것에 대한 집착이나 통제 욕구를 드러낼 수 있습니다.",
+      "english": "From a Freudian psychoanalytic perspective, dreams of falling leaves may reflect the tension between the death drive (Thanatos) and the life instinct (Eros). Withering, falling leaves can be an unconscious expression of aging, loss, or childhood separation anxiety. Dreams of beautiful leaves falling may represent repressed grief or insufficiently mourned losses surfacing in disguised form. The act of collecting or clutching fallen leaves may reveal an underlying fixation on what is being lost, or a need for control in the face of inevitable change."
+    },
+    "jungian": {
+      "korean": "칼 융의 분석심리학에서 단풍과 낙엽은 삶의 순환 주기와 자아의 변환 과정을 나타내는 원형적 이미지입니다. 가을은 융의 심리 모델에서 중년의 전환기, 즉 페르소나를 벗고 내면의 그림자와 마주하는 시기를 상징해요. 아름답게 물드는 단풍은 자신의 심층을 탐험하기 시작하면서 비로소 빛나는 개성화(individuation)의 순간을, 쓸쓸히 지는 낙엽은 오래된 자아(ego)의 해체와 더 깊은 자기(Self)로의 통합 과정을 상징합니다. 낙엽 꿈은 의식적 자아가 놓아주어야 할 것들을 잘 보여주는 심층 심리의 메시지입니다.",
+      "english": "In Jungian analytical psychology, autumn leaves are archetypal images representing the cyclical nature of life and the transformative process of the self. Autumn in Jung's psychological model symbolizes the mid-life transition — the moment of removing the persona and confronting the inner shadow. Brilliantly colored autumn leaves represent the individuation process reaching a luminous peak as one begins exploring the depths of the psyche, while fallen and withering leaves symbolize the dissolution of the old ego and integration into the deeper Self. A dream of autumn leaves is a message from the deeper psyche about what the conscious self must learn to release."
+    },
+    "modern": {
+      "korean": "현대 심리학과 인지과학의 관점에서 낙엽 꿈은 주로 삶의 전환기(이직, 이별, 이사 등)를 앞두고 있거나 중요한 마무리를 앞둔 시기에 나타나는 경향이 있어요. 뇌가 REM 수면 중 감정 기억을 처리하는 과정에서, 변화와 상실에 대한 불안 또는 수용의 감정을 '떨어지는 잎'이라는 시각적 은유로 표현하는 것으로 봅니다. 연구에 따르면 계절 변화와 관련된 꿈은 변화를 받아들이는 심리적 준비 과정인 '전환 처리(transition processing)'와 관련이 있으며, 가을 꿈을 꾸는 것이 변화에 대한 심리적 적응 능력을 키우는 데 도움이 될 수 있다고 봅니다.",
+      "english": "From the perspective of modern psychology and cognitive science, autumn leaf dreams tend to appear during major life transitions — job changes, romantic breakups, relocations — or at the threshold of significant endings. During REM sleep, the brain processes emotional memories, and the visual metaphor of 'falling leaves' often represents the brain encoding feelings of anxiety or acceptance around change and loss. Research suggests that seasonally themed dreams are associated with a psychological process called 'transition processing,' in which the mind rehearses adaptation to change — suggesting that autumn dreams may actively support psychological flexibility in the face of life's inevitable shifts."
+    },
+    "crossCultural": {
+      "korean": "한국 전통 꿈해몽에서 낙엽은 이별과 무상함을 경고하는 구체적인 삶의 징표로 읽히는 반면, 서양 심리학은 이를 내면의 변환 과정과 자아 성장의 메타포로 접근합니다. 그러나 두 전통 모두 '아름답게 물든 단풍 = 절정의 성취', '시드는 낙엽 = 상실과 쇠락'이라는 핵심 해석 방향에서 놀라울 정도로 일치합니다. 일본의 '모노노 아와레(物の哀れ)' 전통도 한국의 낙엽 감성과 깊이 공명하며, 동아시아 전체에서 가을 낙엽은 무상함과 아름다운 마무리의 보편적 상징으로 공유됩니다.",
+      "english": "Korean traditional dream interpretation reads fallen leaves as concrete life omens warning of separation and impermanence, while Western psychology approaches them as metaphors for inner transformation and self-development. Yet both traditions converge remarkably on the core interpretive axis: brilliantly colored autumn leaves equal a peak of achievement, while withering fallen leaves signal loss and decline. The Japanese aesthetic concept of 'mono no aware' (物の哀れ) — the bittersweet pathos of things — resonates deeply with the Korean emotional tradition around autumn leaves. Across East Asian cultures broadly, the autumn leaf is a shared universal symbol of impermanence and graceful completion."
+    }
+  },
+  "relatedSymbols": [
+    "forest-dream",
+    "tree-dream",
+    "wind-dream",
+    "rain-dream",
+    "flower-dream",
+    "mountain-dream",
+    "sunset-dream",
+    "garden-dream"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "낙엽 꿈해몽",
+      "단풍 꿈해몽",
+      "낙엽 꿈 의미",
+      "낙엽 지는 꿈해몽",
+      "단풍 꿈 길몽 흉몽",
+      "낙엽 떨어지는 꿈",
+      "낙엽 밟는 꿈 해석",
+      "단풍잎 꿈 의미",
+      "낙엽 쌓인 꿈 해몽",
+      "낙엽 쓰는 꿈 해석",
+      "가을 꿈해몽",
+      "낙엽 이별 꿈",
+      "빨간 단풍 꿈 의미",
+      "황금 단풍 꿈해몽"
+    ],
+    "english": [
+      "autumn leaves dream meaning Korean",
+      "falling leaves dream interpretation",
+      "autumn leaves dream auspicious inauspicious",
+      "dream of autumn foliage Korean",
+      "fallen leaves dream symbolism",
+      "raking leaves dream meaning",
+      "catching falling leaf dream",
+      "Korean dream interpretation autumn",
+      "red autumn leaves dream meaning"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "낙엽 꿈은 길몽인가요, 흉몽인가요?",
+      "answer_ko": "낙엽 꿈은 꿈속의 낙엽 상태와 상황에 따라 길몽이 되기도 하고 흉몽이 되기도 합니다. 화려하게 물든 단풍이 산을 가득 채우는 꿈은 풍요와 성공의 절정을 예고하는 길몽이지만, 강한 바람에 낙엽이 우수수 떨어지거나 시들어 쌓이는 꿈은 이별이나 상실을 경고하는 흉몽으로 해석됩니다.",
+      "question_en": "Is dreaming of autumn leaves an auspicious or inauspicious dream?",
+      "answer_en": "Whether an autumn leaves dream is auspicious or inauspicious depends entirely on the condition and context of the leaves. Vivid autumn foliage filling a mountain landscape is an auspicious omen predicting the peak of abundance and success. However, leaves falling heavily in the wind or withered leaves accumulating on the ground are inauspicious warnings of an impending parting or loss."
+    },
+    {
+      "question_ko": "낙엽이 떨어지는 꿈을 꿨어요. 이별을 뜻하나요?",
+      "answer_ko": "낙엽이 바람에 떨어지는 꿈은 한국 꿈해몽에서 이별, 단절, 또는 현재 진행 중인 일의 마무리를 예고하는 흉몽으로 자주 해석됩니다. 연애, 직장, 오랜 인연 등 소중한 것이 끝나갈 수 있음을 암시하므로 주변 관계를 더 소중히 여기고 감사하는 시간을 갖는 것이 좋습니다.",
+      "question_en": "I dreamed of leaves falling. Does it mean a breakup or separation?",
+      "answer_en": "Falling leaves in a dream are frequently interpreted in Korean dream tradition as an omen of separation, disconnection, or the conclusion of an ongoing matter. This can apply to romantic relationships, career situations, or long-standing friendships drawing to a natural end. It is advisable to cherish and show gratitude for what and who you hold dear right now."
+    },
+    {
+      "question_ko": "단풍잎을 손으로 잡는 꿈은 어떤 꿈인가요?",
+      "answer_ko": "공중에서 떨어지는 단풍잎을 손으로 직접 잡는 꿈은 매우 운이 좋은 길몽입니다. 드문 기회나 귀인과의 뜻밖의 만남이 현실에서 이루어질 가능성이 높으며, 잡은 잎이 아름답고 선명할수록 찾아올 행운의 규모가 크다고 해석합니다.",
+      "question_en": "What does it mean to catch a falling autumn leaf in a dream?",
+      "answer_en": "Catching a falling autumn leaf in your hand is a highly fortunate auspicious dream. It predicts the arrival of a rare opportunity or an unexpected encounter with a helpful benefactor. The more vivid and beautiful the leaf you catch, the greater the good fortune that awaits you in waking life."
+    },
+    {
+      "question_ko": "낙엽을 쓸거나 갈퀴질하는 꿈은 무슨 뜻인가요?",
+      "answer_ko": "낙엽을 빗자루나 갈퀴로 모아 정리하는 꿈은 지나간 것들을 정리하고 새 출발을 준비하는 시기임을 알리는 꿈입니다. 과거의 감정적 짐이나 마무리하지 못한 일들을 깔끔하게 해결하고 앞으로 나아가게 될 것을 상징하므로, 부담을 내려놓고 새로운 시작에 집중하라는 메시지로 받아들이면 됩니다.",
+      "question_en": "What does it mean to dream of sweeping or raking fallen leaves?",
+      "answer_en": "Sweeping or raking fallen leaves in a dream signals that it is time to clear away the past and prepare for a new chapter. It symbolizes the resolution of unfinished emotional business or lingering matters, freeing you to move forward unburdened. Take the dream as encouragement to let go and focus on what lies ahead."
+    },
+    {
+      "question_ko": "단풍 꿈이 태몽이 될 수 있나요?",
+      "answer_ko": "화려하게 물든 단풍 꿈은 태몽으로 해석되기도 합니다. 특히 붉고 선명한 단풍이 인상적인 꿈은 총명하고 예술적 재능이 뛰어난 아이, 또는 기운이 넘치고 밝은 아이가 태어날 것을 예고하는 길조로 여겨집니다. 단, 낙엽이 우수수 떨어지는 꿈은 태몽보다 이별이나 변화의 징조로 해석하는 경우가 더 많습니다.",
+      "question_en": "Can an autumn leaves dream be a pregnancy omen (태몽)?",
+      "answer_en": "A dream of brilliantly colored autumn leaves can be interpreted as a 태몽 (prophetic pregnancy dream). A dream featuring vivid red autumn foliage is considered an auspicious sign predicting the birth of an intelligent child with strong artistic gifts, or a lively and radiant baby. However, a dream of leaves falling in large quantities is more commonly interpreted as an omen of change or separation rather than a 태몽."
+    },
+    {
+      "question_ko": "빨간 단풍과 노란 단풍 꿈은 의미가 다른가요?",
+      "answer_ko": "네, 색깔에 따라 의미가 조금씩 다릅니다. 붉은 단풍은 명예, 열정, 성공을 상징하며 적극적으로 나아가면 이루게 될 것을 예고합니다. 황금빛·노란 단풍(특히 은행잎)은 재물 운과 경제적 풍요를 상징합니다. 두 색이 함께 어우러진 단풍은 성공과 재물이 동시에 따라올 것을 예고하는 가장 강력한 길몽으로 해석됩니다.",
+      "question_en": "Do red and yellow autumn leaves carry different meanings in a dream?",
+      "answer_en": "Yes, the colors carry distinct meanings. Red autumn leaves symbolize honor, passion, and success — a sign that bold forward action will be rewarded. Golden or yellow leaves (especially ginkgo) symbolize financial fortune and material abundance. Dreams combining both colors in vibrant harmony are interpreted as the most powerfully auspicious omen of all, predicting both achievement and prosperity arriving together."
+    }
+  ]
+}

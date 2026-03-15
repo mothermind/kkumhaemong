@@ -1,0 +1,240 @@
+{
+  "symbol": {
+    "korean": "바람 꿈",
+    "english": "Wind Dream",
+    "slug": "wind-dream"
+  },
+  "summary": {
+    "korean": "바람 꿈은 변화와 움직임, 새로운 기운의 도래를 상징하는 꿈으로, 바람의 세기와 상황에 따라 길흉이 크게 달라집니다. 부드러운 미풍은 집안의 화목과 좋은 소식을 뜻하는 길몽이지만, 거센 강풍이나 회오리바람은 갑작스러운 혼란과 시련을 예고하는 흉몽으로 해석됩니다.",
+    "english": "Wind dreams symbolize change, movement, and the arrival of new energy in Korean dream interpretation. The outcome hinges entirely on the wind's intensity and context — a gentle breeze is a strongly auspicious sign of household harmony and good news, while violent gusts or whirlwinds warn of sudden upheaval and unexpected trials."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "부드럽고 따스한 바람이 집 안이나 마당에 불어오는 꿈은 가족의 화목과 경사를 예고하는 대표적인 길몽입니다. 새로운 기운이 집 안으로 들어온다는 것은 재물운과 사업운이 함께 상승하고 있음을 뜻하며, 가족 중 누군가에게 기쁜 소식이 찾아올 것을 암시합니다. 이런 꿈을 꾼 뒤 직장인이라면 승진이나 이직의 기회가, 사업가라면 새로운 거래나 계약이 성사될 가능성이 높습니다.",
+      "english": "A soft, warm breeze blowing into your home or yard is one of the most auspicious wind dream signs, heralding family harmony and joyful occasions. New energy flowing into the home signals that your fortune in wealth and career is rising together. For employees, a promotion or new opportunity may be near; for business owners, a new deal or favorable contract is likely on the way.",
+      "context": "부드럽고 따뜻한 바람이 집 안이나 정원으로 불어오는 상황. 바람이 꿈꾼 이를 향해 기분 좋게 불어오는 경우."
+    },
+    {
+      "type": "길몽",
+      "korean": "강풍이 몰아쳐 근심이 바람에 날려가는 것처럼 상쾌한 느낌을 받는 꿈은 현실의 크고 작은 걱정거리가 깨끗하게 해소될 것을 뜻하는 길몽입니다. 오랫동안 해결되지 않던 문제나 인간관계의 갈등이 자연스럽게 풀릴 것임을 예고하며, 마음이 가벼워지고 새 출발을 맞이하게 됩니다.",
+      "english": "Feeling a strong, refreshing gust sweep away your worries is an auspicious dream — it signals that real-life concerns, both large and small, will be cleanly resolved. Long-standing problems or interpersonal conflicts will dissolve naturally, leaving you with a lighter heart and a fresh new start.",
+      "context": "강풍이 불지만 위협적이지 않고, 오히려 시원하고 상쾌한 느낌이 드는 상황. 바람이 어떤 것을 쓸어내거나 걱정이 날아가는 느낌."
+    },
+    {
+      "type": "길몽",
+      "korean": "바람에 꽃잎이나 꽃향기가 실려 오는 꿈은 좋은 소식의 도래와 인간관계의 풍요로움을 뜻하는 길몽입니다. 새로운 귀인과의 만남이나 연인과의 인연이 가까워지고 있음을 암시하며, 예술·창작 분야에서 영감이 샘솟는 시기가 찾아올 것을 예고하기도 합니다.",
+      "english": "A breeze carrying flower petals or fragrance is an auspicious dream foretelling the arrival of good news and richness in relationships. A chance encounter with a helpful person or a new romantic connection may be approaching, and those in creative fields may find a period of inspiration blooming.",
+      "context": "바람에 꽃잎·꽃향기·씨앗 등 아름다운 것이 실려 오는 상황."
+    },
+    {
+      "type": "흉몽",
+      "korean": "거세고 차가운 강풍이 몰아쳐 두렵고 불안한 꿈은 예상치 못한 장애나 시련이 닥칠 것을 경고하는 흉몽입니다. 사업이나 직장에서 뜻하지 않은 방해가 생기거나, 가족 중 누군가가 건강 문제를 겪을 수 있음을 시사합니다. 강풍에 물건이 흩어지거나 집이 흔들리는 꿈이라면 재산 손실이나 가정의 불화를 조심해야 합니다.",
+      "english": "A violent, cold gust that makes you feel frightened or anxious is a warning dream — unexpected obstacles or trials are approaching. Business or career interference may arise suddenly, or a family member may face health problems. If the wind scatters your belongings or shakes the house, be cautious of financial loss or family discord.",
+      "context": "차갑고 거세며 두려운 강풍이 부는 상황. 바람에 물건이 날아가거나 집이 흔들리는 경우."
+    },
+    {
+      "type": "흉몽",
+      "korean": "회오리바람이 요란스럽게 몰아치는 것을 목격하거나 그 안에 휩쓸리는 꿈은 예기치 못한 사건에 말려들어 결과가 치명적일 수 있음을 경고하는 흉몽입니다. 쓸데없는 일에 끌려 다니거나, 본인과 관계없는 갈등이나 사건에 연루될 가능성이 높습니다. 중요한 결정이나 투자를 앞두고 있다면 신중을 기해야 합니다.",
+      "english": "Witnessing or being swept up in a whirlwind is a strongly inauspicious warning: you may become entangled in unexpected events with serious consequences. There is a high risk of being pulled into unnecessary disputes or conflicts that are not your own. Exercise extreme caution with important decisions or investments at this time.",
+      "context": "회오리바람이 요란하게 일어나는 것을 보거나, 회오리바람에 자신이 휩쓸리는 상황."
+    },
+    {
+      "type": "흉몽",
+      "korean": "모래바람이나 흙먼지를 일으키는 강한 바람 속에서 앞이 보이지 않아 헤매는 꿈은 현실에서 방향을 잃고 상황 파악이 어려운 혼돈 상태를 반영하는 흉몽입니다. 인간관계나 사업에서 거짓 정보나 오해가 난무할 수 있으니 중요한 판단은 충분한 정보 확인 뒤에 내리는 것이 좋습니다.",
+      "english": "Being lost and unable to see in a dust storm or sand-filled wind is an inauspicious dream reflecting real-life disorientation and inability to read a situation clearly. Misinformation or misunderstandings may be clouding your judgment in relationships or business — gather full information before making important decisions.",
+      "context": "모래바람·흙먼지 바람으로 시야가 막히거나 방향을 잃고 헤매는 상황."
+    },
+    {
+      "type": "neutral",
+      "korean": "바람이 어떤 것을 멀리 날려 보내는 꿈은 변화와 이별을 상징하는 중립적인 꿈입니다. 오래된 것이 떠나가고 새로운 것이 자리를 대신하게 됨을 뜻하며, 잃는 것에 대한 아쉬움도 있지만 그만큼 새로운 시작의 여지가 생기는 것입니다. 꿈 속 바람에 날아간 것이 무엇인지에 따라 해석이 달라집니다.",
+      "english": "A wind carrying something away in the distance is a neutral dream of change and departure. Something old or familiar will leave your life, making room for something new — there is loss, but also the opening of a new beginning. The interpretation shifts depending on what the wind takes away.",
+      "context": "바람이 특정 물건·사람·종이 등을 멀리 날려 보내는 상황. 꿈꾼 이는 그 장면을 지켜보는 편."
+    },
+    {
+      "type": "neutral",
+      "korean": "바람 소리만 들리고 바람이 보이지 않는 꿈은 중요한 정보나 소식이 곧 귀에 들어오게 될 것을 암시하는 중립적인 꿈입니다. 보이지 않지만 분명히 무언가가 움직이고 있다는 의미로, 주변 상황의 변화를 예의 주시할 필요가 있습니다.",
+      "english": "Hearing wind without seeing it is a neutral dream hinting that important information or news is about to reach your ears. Something is clearly moving even if invisible — pay close attention to changes happening around you.",
+      "context": "바람 소리·촉감은 있지만 시각적으로는 보이지 않는 경우."
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "봄바람 꿈",
+      "keyword_en": "spring breeze dream",
+      "interpretation_ko": "따스하고 부드러운 봄바람이 부는 꿈은 희망과 새로운 시작, 인간관계의 풍요로움을 예고하는 길몽입니다. 새 일을 시작하기 좋은 시기가 다가오고 있으며, 오래된 갈등이 자연스럽게 풀릴 것을 암시합니다.",
+      "interpretation_en": "A warm, gentle spring breeze is an auspicious dream of hope, new beginnings, and enriched relationships. A good time is approaching to start something new, and longstanding conflicts will resolve naturally."
+    },
+    {
+      "keyword_ko": "강풍에 물건이 날아가는 꿈",
+      "keyword_en": "strong wind blowing things away dream",
+      "interpretation_ko": "강풍에 소지품이나 중요한 물건이 날아가는 꿈은 재산이나 중요한 기회를 잃을 수 있다는 경고성 흉몽입니다. 계약 관계나 투자에서 손실이 생길 수 있으니 각별한 주의가 필요합니다.",
+      "interpretation_en": "Strong wind blowing away your belongings or important objects is a warning of potential financial loss or lost opportunity. Be especially careful with contracts and investments, as losses are possible."
+    },
+    {
+      "keyword_ko": "바람에 날아가는 꿈",
+      "keyword_en": "being blown away by wind dream",
+      "interpretation_ko": "바람에 자신의 몸이 날아가거나 공중으로 떠오르는 꿈은 현실의 속박에서 벗어나고 싶은 무의식적 욕구를 반영합니다. 상황에 따라 인생의 급격한 변화나 의도치 않은 이동·이별을 암시하는 흉몽으로 보기도 합니다.",
+      "interpretation_en": "Being carried aloft or blown away by wind reflects an unconscious desire to break free from real-life constraints. Depending on context, it can also warn of sudden life upheaval or an unintended departure — from a place, a relationship, or a situation."
+    },
+    {
+      "keyword_ko": "회오리바람을 피하는 꿈",
+      "keyword_en": "evading a whirlwind dream",
+      "interpretation_ko": "회오리바람이 몰아치지만 낯선 사람 뒤에 숨거나 다른 방법으로 피하는 데 성공하는 꿈은 앞으로의 사업이나 일이 순조롭게 풀릴 것을 뜻하는 길몽입니다. 위험을 미리 감지하고 현명하게 대처하는 능력이 있음을 나타냅니다.",
+      "interpretation_en": "Successfully evading a whirlwind — hiding behind a stranger or finding shelter — is an auspicious dream indicating your plans and work will progress smoothly. It signals the ability to anticipate danger and navigate it wisely."
+    },
+    {
+      "keyword_ko": "바람과 비가 함께 오는 꿈",
+      "keyword_en": "wind and rain together dream",
+      "interpretation_ko": "바람과 비가 함께 몰아치는 꿈은 감정의 격랑과 불안정한 상황을 상징합니다. 예상치 못한 소식이나 사건이 연달아 찾아올 수 있지만, 비와 마찬가지로 지나가고 나면 새로운 기운이 찾아온다는 희망의 여운도 담고 있습니다.",
+      "interpretation_en": "Wind and rain together symbolize emotional turbulence and instability. Unexpected news or events may arrive in succession — yet as with rain, once this passes a fresh energy follows, carrying an undertone of hope."
+    },
+    {
+      "keyword_ko": "차갑고 서늘한 바람 꿈",
+      "keyword_en": "cold chilly wind dream",
+      "interpretation_ko": "차갑고 서늘한 바람을 맞는 꿈은 가까운 사람과의 냉랭한 관계나 감정적 거리감, 또는 건강에 이상이 생길 수 있다는 경고입니다. 따뜻한 관계를 유지하고 면역력 관리에 신경 쓸 필요가 있습니다.",
+      "interpretation_en": "Feeling a cold, chilly wind signals growing emotional distance in a close relationship, or a warning to watch your health. Take care to nurture warmth in relationships and pay attention to your immune system."
+    },
+    {
+      "keyword_ko": "바람이 갑자기 멈추는 꿈",
+      "keyword_en": "wind suddenly stopping dream",
+      "interpretation_ko": "세차게 불던 바람이 갑자기 잦아들거나 멈추는 꿈은 오랫동안 지속되던 갈등이나 긴장이 해소될 것을 뜻하는 길몽입니다. 막혔던 일이 풀리거나 불안정했던 상황이 안정될 징조입니다.",
+      "interpretation_en": "Wind that suddenly calms or stops after blowing strongly is an auspicious sign that a long-running conflict or tension is about to resolve. Stalled matters will come unstuck and unstable situations will settle."
+    },
+    {
+      "keyword_ko": "바람에 종이나 편지가 날아오는 꿈",
+      "keyword_en": "paper or letter blown to you by wind dream",
+      "interpretation_ko": "바람에 실려 종이나 편지가 자신에게 날아오는 꿈은 뜻밖의 소식이나 연락이 도착할 것을 예고하는 꿈입니다. 그 내용이 길몽인지 흉몽인지는 꿈 속 종이에 적힌 분위기나 편지를 받았을 때의 감정에 따라 달라집니다.",
+      "interpretation_en": "A piece of paper or letter blown to you by the wind foretells unexpected news or a message arriving soon. Whether the omen is auspicious or inauspicious depends on the feeling the paper or letter evoked in the dream."
+    },
+    {
+      "keyword_ko": "산들바람이 얼굴을 스치는 꿈",
+      "keyword_en": "gentle breeze touching your face dream",
+      "interpretation_ko": "산들바람이 얼굴을 부드럽게 스치는 꿈은 마음의 평화와 안정을 나타내는 길몽입니다. 현재 하고 있는 일이 부드럽게 진행될 것이며, 인간관계에서도 따스한 기운이 감돌 것을 뜻합니다.",
+      "interpretation_en": "A gentle breeze softly brushing your face is an auspicious dream of inner peace and stability. Your current work will progress smoothly and a warm, harmonious energy will surround your relationships."
+    },
+    {
+      "keyword_ko": "밤바람이 부는 꿈",
+      "keyword_en": "night wind blowing dream",
+      "interpretation_ko": "밤에 바람이 부는 꿈은 무의식 깊숙한 곳에서 무언가가 변화하고 있음을 상징합니다. 아직 드러나지 않은 소식이나 계획이 어둠 속에서 서서히 무르익고 있다는 뜻으로, 조만간 중요한 소식이 들려올 것을 암시합니다.",
+      "interpretation_en": "Wind blowing in the night symbolizes something changing deep within the unconscious. Hidden news or plans are quietly ripening in the dark — an important revelation or announcement is approaching."
+    },
+    {
+      "keyword_ko": "바람에 나뭇잎이 흩날리는 꿈",
+      "keyword_en": "leaves blown by wind dream",
+      "interpretation_ko": "바람에 나뭇잎이 흩날리는 꿈은 흩어짐과 이별의 상징이지만, 동시에 자연스러운 순환과 새로운 시작을 의미하는 중립적인 꿈입니다. 오래된 인연이나 상황이 자연스럽게 정리되고 새로운 계절이 시작될 것임을 뜻합니다.",
+      "interpretation_en": "Leaves scattering in the wind is a neutral dream of separation and natural cycles. Old connections or situations will naturally conclude — and with that clearing, a new season of life begins."
+    },
+    {
+      "keyword_ko": "모래바람·황사 꿈",
+      "keyword_en": "sandstorm or yellow dust dream",
+      "interpretation_ko": "누런 모래바람이나 황사가 시야를 가리는 꿈은 주변 상황이 불분명하고 혼란스러운 시기임을 나타내는 흉몽입니다. 거짓 정보나 오해가 가득한 환경 속에서 올바른 판단을 내리기 어려운 상황에 처해 있음을 경고합니다. 중요한 결정은 상황이 정리될 때까지 미루는 것이 좋습니다.",
+      "interpretation_en": "A sandstorm or yellow dust obscuring your vision is an inauspicious dream warning of confusion and a lack of clarity in your surroundings. Misinformation and misunderstandings abound — avoid making important decisions until the air clears."
+    }
+  ],
+  "culturalContext": {
+    "korean": "한국 전통에서 바람은 단순한 자연현상이 아닌 신성한 힘의 표현으로 인식되어 왔습니다. 단군신화에서 환웅이 하늘에서 내려올 때 거느린 세 신 가운데 가장 먼저 언급되는 것이 바로 바람의 신 풍백(風伯)으로, 이는 바람이 한국인의 우주관에서 문명과 생명을 여는 근원적인 힘이었음을 보여줍니다. 풍수지리(風水地理) 사상에서도 바람은 기운을 흩뜨리는 존재로 다루어져, 좋은 기(氣)가 바람에 날려가지 않도록 산과 지형으로 막혀 있는 땅을 명당으로 여겼습니다. 오행(五行) 사상에서 바람은 목(木)의 기운과 연결되어 봄·성장·변화·움직임을 상징하며, 새로운 시작의 기운으로 받아들여졌습니다. 농경 사회였던 한국에서 바람은 농사의 성패를 좌우하는 결정적인 자연 요소였기 때문에, 바람 꿈은 일상의 길흉을 점치는 중요한 몽조로 여겨졌습니다. 부드러운 봄바람은 풍년과 화목의 징조로, 거센 강풍이나 회오리바람은 피해와 재앙의 전조로 해석되었습니다. 무속 신앙(샤머니즘)에서 바람은 신령이나 조상신의 기운이 움직이는 것을 나타내기도 해서, 갑자기 몰아치는 바람은 신의 경고나 메시지로 받아들여졌습니다.",
+    "english": "In Korean tradition, wind has always been understood as far more than a meteorological event — it is the expression of a sacred force. In the Dangun creation myth, Pungbaek (풍백, the Wind God) is the first of the three divine attendants named when Hwanung descends from heaven, establishing wind as one of the primordial forces that opens civilization and sustains life. In the geomantic tradition of feng shui (풍수지리), wind is treated as a force that disperses beneficial energy (기/氣), which is why ideal sites — 명당 — are sheltered by mountains that block the wind and protect the land's vital energy. In the Five Elements (오행) cosmology, wind aligns with Wood (목), symbolizing spring, growth, change, and movement — the energy of fresh beginnings. As an agrarian society, Koreans understood that wind determined whether harvests thrived or failed, making wind dreams particularly potent omens for daily fortune. Gentle spring breezes were auspicious signs of abundance and family harmony; violent winds and whirlwinds were dreaded as harbingers of damage and disaster. In Korean shamanic belief (무속 신앙), sudden gusts could also signal the movement of ancestral spirits or divine forces, turning an unexpected wind into a message or warning from the unseen world."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트 정신분석학의 관점에서 바람 꿈은 억눌린 욕동(驅動)과 감정의 흐름을 상징해요. 부드러운 바람은 리비도 에너지가 자연스럽게 흐르는 건강한 상태를 나타내고, 강풍이나 회오리바람은 억압된 분노·불안·충동이 무의식에서 폭발적으로 분출되는 것을 의미해요. 바람에 물건이 날아가는 꿈은 상실에 대한 두려움이나 통제력 상실에 대한 불안이 꿈으로 표현된 것이라 볼 수 있습니다.",
+      "english": "From a Freudian perspective, wind dreams symbolize the flow of suppressed drives and emotions. A gentle breeze represents the healthy, uninhibited flow of libidinal energy, while strong winds or whirlwinds signal repressed anger, anxiety, or impulses erupting from the unconscious. Objects blown away by the wind can reflect fear of loss or deep anxiety about losing control."
+    },
+    "jungian": {
+      "korean": "융의 분석심리학에서 바람은 정신(Pneuma) — 즉 영적 에너지와 무의식의 흐름 — 을 상징하는 보편적 원형입니다. 부드러운 바람은 자아(에고)와 자기(Self)가 조화롭게 연결된 상태를 뜻하며, 강풍은 집단 무의식에서 밀려오는 변화의 에너지가 기존의 자아 구조를 흔들고 있음을 나타냅니다. 융은 바람을 개성화(individuation) 과정에서 낡은 페르소나를 허물고 더 깊은 자기를 향해 나아가도록 촉구하는 심리적 원형으로 보았을 거예요.",
+      "english": "In Jungian psychology, wind is a universal archetype representing Pneuma — spiritual energy and the currents of the unconscious. A gentle breeze suggests the ego and Self are harmoniously connected, while strong winds signal that transformative energy from the collective unconscious is shaking the dreamer's existing self-structure. Jung would likely interpret a powerful wind dream as the psyche urging the dissolution of an outgrown persona, pressing the dreamer forward toward deeper individuation."
+    },
+    "modern": {
+      "korean": "현대 인지심리학과 신경과학에서 바람 꿈은 일상의 스트레스, 불확실성, 또는 인생의 변화에 대한 감정적 반응을 처리하는 과정으로 해석해요. 뇌는 수면 중에 낮에 처리하지 못한 감정 정보를 재처리하는데, 방향을 잡기 어렵고 상황이 유동적인 시기에 바람처럼 예측 불가능하고 무형(無形)인 꿈 이미지가 자주 나타납니다. 인지행동치료(CBT) 관점에서 강풍 꿈의 강도는 현실에서 느끼는 무력감이나 과도한 위협 평가와 상관관계가 있을 수 있습니다.",
+      "english": "Modern cognitive psychology and neuroscience interpret wind dreams as the brain's way of processing stress, uncertainty, and emotional responses to change. During sleep, the brain reprocesses emotional information not handled during the day — in periods of flux and unpredictability, formless, invisible forces like wind naturally emerge as dream imagery. From a CBT perspective, the intensity of a strong wind dream may correlate with real-world feelings of helplessness or an exaggerated appraisal of external threats."
+    },
+    "crossCultural": {
+      "korean": "한국 전통 꿈해몽이 바람을 '변화의 전령'이자 신령의 기운으로 해석하는 반면, 서양 심리학은 바람 꿈을 꿈꾼 이의 내면 에너지 상태와 감정의 흐름으로 바라봐요. 흥미롭게도 그리스 신화의 아이올로스(바람의 신), 북유럽 신화의 오딘, 성경의 성령(바람과 동의어)처럼 동서양 모두에서 바람은 신성한 힘과 변화를 상징하는 보편적 원형입니다. '시작을 여는 바람'이라는 공통된 주제는 문화를 초월해 공유되고 있습니다.",
+      "english": "Korean traditional interpretation treats wind as a 'herald of change' and the movement of divine or ancestral energy, while Western psychology frames the same dream as a reflection of the dreamer's inner emotional currents. Interestingly, wind as a universal archetype of sacred power and transformation appears across cultures — from Aeolus in Greek mythology to Odin in Norse tradition to the Holy Spirit (literally 'breath/wind') in Christian scripture. The shared theme of wind as the force that opens new beginnings transcends cultural boundaries."
+    }
+  },
+  "relatedSymbols": [
+    "storm-dream",
+    "tornado-dream",
+    "typhoon-dream",
+    "rain-weather-dream",
+    "thunder-dream",
+    "lightning-weather-dream",
+    "fog-dream",
+    "snow-dream",
+    "flying-dream",
+    "sky-dream"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "바람 꿈해몽",
+      "바람 꿈 의미",
+      "바람 꿈 길몽 흉몽",
+      "강풍 꿈해몽",
+      "미풍 꿈 의미",
+      "회오리바람 꿈해몽",
+      "바람에 날아가는 꿈",
+      "봄바람 꿈해몽",
+      "바람이 부는 꿈 해석",
+      "차가운 바람 꿈 의미",
+      "바람 꿈 재물운",
+      "바람에 날려가는 꿈",
+      "모래바람 꿈해몽",
+      "날씨 꿈해몽",
+      "바람 꿈 총정리"
+    ],
+    "english": [
+      "wind dream meaning Korean",
+      "dreaming of wind interpretation",
+      "strong wind dream auspicious inauspicious",
+      "gentle breeze dream meaning",
+      "whirlwind dream Korean interpretation",
+      "being blown away by wind dream",
+      "Korean dream interpretation wind",
+      "wind blowing things away dream meaning",
+      "wind dream good luck",
+      "cold wind dream meaning psychology",
+      "spring breeze dream omen",
+      "sandstorm dream meaning"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "바람 꿈은 길몽인가요, 흉몽인가요?",
+      "answer_ko": "바람의 세기와 상황에 따라 크게 달라집니다. 부드럽고 따뜻한 바람이 집 안으로 불어오거나 상쾌하게 근심을 날려버리는 꿈은 길몽으로 해석됩니다. 반면 거칠고 차가운 강풍이 두렵게 몰아치거나 회오리바람에 휩쓸리는 꿈, 모래바람으로 앞이 보이지 않는 꿈은 흉몽으로 봅니다. 꿈에서 느낀 감정이 시원하고 상쾌했다면 길몽, 두렵고 불안했다면 흉몽에 가깝다고 보면 됩니다.",
+      "answer_en": "It depends entirely on the wind's intensity and the feeling it evoked. A soft, warm breeze entering your home or a refreshing gust sweeping worries away is auspicious. A violent, frightening cold wind, being swept up in a whirlwind, or losing your way in a sandstorm all lean inauspicious. A simple rule: if the wind felt refreshing and freeing, it is a good sign; if it felt fearful and threatening, treat it as a warning.",
+      "question_en": "Is a wind dream a good omen or a bad one?"
+    },
+    {
+      "question_ko": "강풍에 물건이 날아가는 꿈을 꿨어요. 무슨 의미인가요?",
+      "answer_ko": "강풍에 소지품이나 귀중품이 날아가는 꿈은 재물이나 중요한 기회를 잃을 수 있다는 경고성 흉몽이에요. 계약이나 투자에서 예상치 못한 손실이 발생할 수 있으니 중요한 결정에 신중을 기하는 것이 좋습니다. 날아간 물건이 다시 돌아오는 꿈이었다면 일시적인 어려움 후 회복을 뜻합니다.",
+      "answer_en": "Belongings blown away by strong wind in a dream is a warning of potential financial loss or missed opportunity. Be cautious about contracts and investments, as unexpected losses are possible. If the blown-away object returned to you in the dream, it signals temporary difficulty followed by recovery.",
+      "question_en": "I dreamed strong wind blew my belongings away. What does that mean?"
+    },
+    {
+      "question_ko": "바람에 꽃향기가 실려 오는 꿈을 꿨는데 좋은 꿈인가요?",
+      "answer_ko": "네, 매우 좋은 꿈입니다. 바람에 꽃향기나 꽃잎이 실려 오는 꿈은 좋은 소식의 도래, 새로운 귀인과의 만남, 또는 연애운이 상승하고 있음을 뜻하는 길몽이에요. 창작이나 예술 분야에서 영감이 샘솟을 시기가 찾아올 것을 암시하기도 합니다.",
+      "answer_en": "Yes, this is a very auspicious dream. A breeze carrying floral fragrance or flower petals signals the arrival of good news, a chance meeting with a helpful person, or rising romantic fortune. It may also hint at a period of creative inspiration blooming for those in artistic or creative work.",
+      "question_en": "I dreamed the wind carried the scent of flowers to me — is that a good sign?"
+    },
+    {
+      "question_ko": "회오리바람 꿈은 어떻게 해석하나요?",
+      "answer_ko": "회오리바람이 요란하게 몰아치는 것을 보는 꿈은 예기치 못한 사건에 말려들거나 쓸데없는 분쟁에 휘말리는 흉몽입니다. 그러나 회오리바람을 성공적으로 피하거나 낯선 사람 뒤에 숨어 피하는 꿈은 앞으로의 일이 순조롭게 풀릴 길몽으로 해석됩니다. 같은 회오리바람도 피하면 길몽, 휩쓸리면 흉몽이라는 점이 핵심입니다.",
+      "answer_en": "Witnessing a whirlwind raging uncontrollably is an inauspicious dream warning of entanglement in unexpected trouble or unnecessary disputes. However, successfully evading a whirlwind — hiding behind a stranger or finding shelter — is auspicious and signals smooth progress ahead. The key distinction: evading it is lucky; being swept away is not.",
+      "question_en": "How do I interpret a whirlwind dream?"
+    },
+    {
+      "question_ko": "바람 꿈이 태몽이 될 수 있나요?",
+      "answer_ko": "바람 꿈 단독으로는 일반적으로 태몽으로 해석되지 않아요. 태몽은 주로 용, 뱀, 호랑이, 과일, 강렬한 빛 등 구체적인 상징물이 등장하는 꿈이 해당됩니다. 다만 바람 속에서 빛나는 존재가 나타나거나, 바람과 함께 물이나 바다가 함께 등장하는 꿈이라면 태몽으로 해석될 가능성이 있습니다.",
+      "answer_en": "A wind dream on its own is not typically classified as a pregnancy omen (태몽) in Korean tradition. Pregnancy dreams usually feature specific symbols like dragons, snakes, tigers, fruit, or radiant light. However, if a luminous being appears within the wind, or if wind and water or the sea appear together, some interpreters would consider a pregnancy connection possible.",
+      "question_en": "Can a wind dream be a pregnancy omen (태몽)?"
+    },
+    {
+      "question_ko": "바람 꿈을 꿔서 불안한데, 어떻게 받아들이면 좋을까요?",
+      "answer_ko": "강풍이나 차가운 바람 꿈이 불안을 남겼다면, 현실에서 변화나 불확실성에 대한 마음속 걱정이 꿈으로 나타난 것일 수 있어요. 꿈을 흉몽으로만 받아들이기보다, '지금 무엇이 나를 불안하게 하는가'를 스스로 물어보는 계기로 삼아 보세요. 바람은 지나가는 것이고, 어떤 바람이든 결국은 잦아듭니다.",
+      "answer_en": "If a strong or cold wind dream has left you anxious, it may be reflecting a real worry about change or uncertainty in your life rather than a literal prophecy of disaster. Rather than treating it purely as a bad omen, use it as an invitation to ask yourself: what am I unsettled about right now? Wind passes — and every wind, however fierce, eventually calms.",
+      "question_en": "I had a wind dream that left me feeling anxious — how should I approach it?"
+    }
+  ]
+}

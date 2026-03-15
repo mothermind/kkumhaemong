@@ -1,0 +1,246 @@
+{
+  "symbol": {
+    "korean": "도박",
+    "english": "Gambling",
+    "slug": "gambling"
+  },
+  "summary": {
+    "korean": "도박 꿈은 현실과 반대로 해석되는 경우가 많아, 꿈에서 이기면 재물 손실을 경고하고 잃으면 뜻밖의 횡재나 사업 성공을 예고하는 역설적 상징입니다.",
+    "english": "Gambling dreams in Korean folk interpretation operate in reverse: winning in the dream warns of real financial loss, while losing signals unexpected windfall or business success."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "꿈에서 도박으로 전 재산을 잃고 낙심하는 꿈은 역설적으로 길몽에 해당합니다. 현실에서는 사업이나 투자에서 뜻밖의 큰 이익을 얻고 생활이 풍요로워질 것을 예고합니다. 손실의 꿈이 곧 현실의 풍요를 불러오는 꿈해몽의 반대 원리가 여기서 강하게 작용합니다.",
+      "english": "Dreaming of losing everything through gambling is, paradoxically, a highly auspicious sign. In reality, it foretells unexpected major gains through business or investment, and an improvement in one's financial circumstances. This reflects the well-known Korean folk principle that dream content often reverses into its opposite in waking life.",
+      "context": "꿈에서 도박으로 전 재산을 잃거나 파산하는 꿈을 꿨을 때 적용됩니다."
+    },
+    {
+      "type": "길몽",
+      "korean": "도박에 완전히 몰두하여 빠져드는 꿈은 길몽으로, 현재 혼란스러운 상황이 갑자기 해소되고 다른 사람과의 갈등이 원만하게 해결될 것을 암시합니다. 집중과 몰입의 이미지가 문제 해결의 돌파구를 상징합니다.",
+      "english": "Dreaming of being completely absorbed in gambling is auspicious — it suggests that ongoing confusion will suddenly clear up and conflicts with others will resolve themselves smoothly. The image of deep focus symbolizes a breakthrough in resolving current difficulties.",
+      "context": "도박에 완전히 몰두하여 빠져드는 꿈을 꿨을 때 적용됩니다."
+    },
+    {
+      "type": "길몽",
+      "korean": "도박에서 좋은 패를 받는 꿈은 길몽으로, 예상치 못한 행운이 찾아오고 재정적 스트레스에서 벗어나는 시기가 도래함을 알립니다. 뜻밖의 횡재나 재물이 들어올 징조입니다.",
+      "english": "Receiving good cards or a winning hand in a dream is an auspicious sign indicating that unexpected good fortune is on its way and a financially stress-free period lies ahead. It is seen as a herald of windfall money or unexpected income.",
+      "context": "패 돌리기, 화투, 포커 등에서 좋은 패를 받거나 유리한 패가 들어오는 꿈에 적용됩니다."
+    },
+    {
+      "type": "길몽",
+      "korean": "도박장 입구에서 막혀 들어가지 못하는 꿈은 매우 길한 꿈입니다. 위험한 거래나 사기적인 계약으로부터 운 좋게 벗어나게 됨을 뜻하며, 재앙을 피해 가는 보호의 징조입니다.",
+      "english": "Being blocked from entering a gambling establishment in a dream is considered very auspicious — it means you will fortunately escape a dangerous deal, a fraudulent contract, or a risky situation. It is seen as a sign of divine protection steering you away from disaster.",
+      "context": "도박장 입구에서 막혀 들어가지 못하거나, 도박장에서 탈출하는 꿈에 적용됩니다."
+    },
+    {
+      "type": "흉몽",
+      "korean": "꿈에서 도박으로 큰돈을 따는 꿈은 오히려 흉몽입니다. 현실에서는 곧 커다란 재물 손실이 있을 것을 경고하며, 사업상 장애와 재정적 어려움이 뒤따를 수 있습니다. 꿈에서의 큰 횡재가 현실의 손실을 예고하는 역설적 해몽입니다.",
+      "english": "Dreaming of winning a large sum through gambling is actually an inauspicious sign. It warns of significant financial loss in reality, and may foreshadow business obstacles and monetary hardship to come. This is the classic reversal principle of Korean dream interpretation at work.",
+      "context": "꿈에서 도박으로 큰돈을 따거나 잭팟을 터뜨리는 꿈을 꿨을 때 적용됩니다."
+    },
+    {
+      "type": "흉몽",
+      "korean": "카지노에 들어가는 꿈은 흉몽으로, 인생의 중요한 갈림길에서 중대한 위험에 직면하게 됨을 예고합니다. 충동적인 결정이나 투기적 사업으로 인해 큰 손실을 입을 수 있다는 경고입니다.",
+      "english": "Dreaming of entering a casino is an inauspicious sign, warning that you are approaching a major crossroads in life with significant danger ahead. It cautions against impulsive decisions and speculative ventures that may lead to serious losses.",
+      "context": "카지노에 입장하는 꿈이나 카지노에서 도박을 하는 꿈에 적용됩니다."
+    },
+    {
+      "type": "흉몽",
+      "korean": "도박꾼들이 싸우는 꿈은 흉몽으로, 사업 파트너나 거래처와의 금전 분쟁이 심각해질 수 있으며 최악의 경우 법적 소송으로 번질 가능성을 경고합니다.",
+      "english": "Dreaming of gamblers fighting is inauspicious, warning of serious financial disputes with business partners or associates that may escalate into legal action in the worst case.",
+      "context": "꿈속에서 도박을 하다가 싸움이 벌어지거나 도박꾼들이 격렬하게 다투는 장면을 목격하는 꿈에 적용됩니다."
+    },
+    {
+      "type": "흉몽",
+      "korean": "불법 도박장을 발견하는 꿈은 흉몽으로, 주변에 사기꾼이나 나쁜 의도를 가진 사람이 있다는 경고입니다. 현재 진행 중인 거래나 계약을 꼼꼼히 재검토할 필요가 있습니다.",
+      "english": "Discovering an illegal gambling den in a dream is inauspicious, warning that there are deceivers or people with bad intentions in your close circle. It is a signal to carefully review all ongoing transactions and contracts.",
+      "context": "꿈에서 숨겨진 도박장이나 불법 도박 업소를 발견하는 꿈에 적용됩니다."
+    },
+    {
+      "type": "neutral",
+      "korean": "가족과 함께 화투나 도박을 하는 꿈은 비교적 중립적이거나 길한 꿈으로, 가족 간의 화합과 단결이 이루어질 것을 암시합니다. 화투는 원래 가족이나 지인끼리 명절에 즐기는 놀이 문화에서 비롯된 상징이기 때문에 가족과 함께하는 장면은 긍정적으로 해석됩니다.",
+      "english": "Dreaming of playing hwatu or gambling with family members is a relatively neutral to auspicious sign, suggesting that family harmony and unity will be achieved. Since hwatu originated as a festive game played among family and close friends, the family context lends the dream a positive meaning.",
+      "context": "가족 구성원과 함께 화투나 도박을 즐기는 꿈에 적용됩니다."
+    },
+    {
+      "type": "neutral",
+      "korean": "도박하는 사람들을 옆에서 지켜보는 꿈은 중립적이거나 부정적인 의미를 가집니다. 사소한 일이 의외로 주목을 받거나, 자신이 의사결정 과정에서 소외되고 있다는 느낌을 반영할 수 있습니다.",
+      "english": "Dreaming of watching others gamble without participating is a neutral to mildly negative sign. It may reflect feelings of being sidelined in decision-making or indicate that minor matters are unexpectedly drawing attention your way.",
+      "context": "도박 현장을 구경만 하고 직접 참여하지 않는 꿈에 적용됩니다."
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "도박에서 이기는 꿈",
+      "keyword_en": "winning at gambling dream",
+      "interpretation_ko": "꿈에서 도박에 이기는 것은 대표적인 역몽(逆夢)으로, 현실에서 재물 손실이나 사업 차질이 발생할 것을 경고하는 흉몽입니다.",
+      "interpretation_en": "Winning at gambling in a dream is a classic reversal omen — it warns of financial losses or business setbacks in waking life. This is considered inauspicious."
+    },
+    {
+      "keyword_ko": "도박에서 지는 꿈",
+      "keyword_en": "losing at gambling dream",
+      "interpretation_ko": "도박에서 크게 지거나 전 재산을 잃는 꿈은 역설적으로 길몽으로, 현실에서 투자나 사업에서 뜻밖의 큰 이익을 얻게 될 것을 예고합니다.",
+      "interpretation_en": "Losing big or losing everything in a gambling dream is paradoxically auspicious, foretelling unexpected major profits from investments or business ventures in real life."
+    },
+    {
+      "keyword_ko": "카지노 꿈",
+      "keyword_en": "casino dream",
+      "interpretation_ko": "카지노에 들어가는 꿈은 인생의 중대한 전환점에서 큰 위험이 도사리고 있음을 경고하는 흉몽입니다. 충동적인 투자나 도박성 거래를 피해야 한다는 신호입니다.",
+      "interpretation_en": "Dreaming of entering a casino warns of significant danger at a major life crossroads. It is a caution against impulsive investments or high-risk financial dealings."
+    },
+    {
+      "keyword_ko": "화투 치는 꿈",
+      "keyword_en": "playing hwatu dream",
+      "interpretation_ko": "화투를 치는 꿈은 상황에 따라 달라집니다. 즐겁게 화투를 치면 의외의 장애나 가족 문제를 암시하는 흉몽이 될 수 있고, 이기거나 좋은 패를 잡으면 행운과 재물운이 따르는 길몽으로 해석됩니다.",
+      "interpretation_en": "Playing hwatu in a dream varies by context. Playing pleasurably may signal unexpected obstacles or family issues, while winning or getting a good hand signals good fortune and incoming wealth."
+    },
+    {
+      "keyword_ko": "고스톱 치는 꿈",
+      "keyword_en": "playing go-stop dream",
+      "interpretation_ko": "고스톱을 치는 꿈은 뜻하지 않은 문제가 발생해 순조롭게 진행되던 일이 갑자기 중단되거나 차질을 빚게 되는 흉몽으로 해석됩니다. 예상치 못한 방해 요소를 경고하는 꿈입니다.",
+      "interpretation_en": "Dreaming of playing go-stop warns that unexpected problems will interrupt smoothly progressing plans and cause significant setbacks. It is generally considered inauspicious."
+    },
+    {
+      "keyword_ko": "남이 도박하는 것을 보는 꿈",
+      "keyword_en": "watching others gamble dream",
+      "interpretation_ko": "다른 사람이 도박하는 것을 지켜보는 꿈은 타인으로부터 사기나 배신을 당할 수 있다는 경고의 흉몽입니다. 주변 사람들의 의도를 주의 깊게 살펴볼 필요가 있습니다.",
+      "interpretation_en": "Watching other people gamble in a dream warns that you may be deceived or betrayed by someone around you. It is a signal to scrutinize the intentions of those close to you."
+    },
+    {
+      "keyword_ko": "가족과 도박하는 꿈",
+      "keyword_en": "gambling with family dream",
+      "interpretation_ko": "가족과 함께 화투나 도박을 하는 꿈은 가족 간의 화합과 단결이 이루어질 것을 암시하는 길몽입니다.",
+      "interpretation_en": "Gambling or playing cards with family members in a dream is auspicious, indicating that family harmony and unity will be strengthened."
+    },
+    {
+      "keyword_ko": "도박빚 갚는 꿈",
+      "keyword_en": "paying off gambling debt dream",
+      "interpretation_ko": "꿈에서 도박 빚을 갚는 장면은 오래된 갈등이나 과거의 업보를 해소하게 되는 길몽으로 해석됩니다. 오래 끌던 문제가 마무리되는 시기가 옴을 예고합니다.",
+      "interpretation_en": "Dreaming of paying off a gambling debt is auspicious, signaling the resolution of long-standing conflicts or old karmic debts. It suggests the time has come to close out lingering problems."
+    },
+    {
+      "keyword_ko": "도박판에서 우는 꿈",
+      "keyword_en": "crying in a gambling den dream",
+      "interpretation_ko": "도박장에서 울고 있는 꿈은 역몽의 원리가 적용되어, 사업이나 투자에서 예상치 못한 큰 성공을 거두게 될 것을 예고하는 길몽입니다.",
+      "interpretation_en": "Crying inside a gambling den applies the reversal principle — it is auspicious, foretelling unexpected major success in business or investment."
+    },
+    {
+      "keyword_ko": "포커 블러핑 꿈",
+      "keyword_en": "bluffing at poker dream",
+      "interpretation_ko": "포커에서 블러핑(허세)을 부리는 꿈은 흉몽으로, 현실에서 거짓말이나 속임수가 들통나 크게 망신을 당할 수 있음을 경고합니다.",
+      "interpretation_en": "Bluffing at poker in a dream is inauspicious, warning that deceptions or lies in real life may be exposed, leading to public embarrassment."
+    },
+    {
+      "keyword_ko": "슬롯머신 꿈",
+      "keyword_en": "slot machine dream",
+      "interpretation_ko": "슬롯머신이 멈추지 않고 계속 돌아가는 꿈은 충동적인 소비와 도박성 투자가 파산으로 이어질 수 있다는 강한 경고의 흉몽입니다.",
+      "interpretation_en": "Dreaming of a slot machine spinning without stopping is a strong warning against impulsive spending and speculative investments that could lead to financial ruin."
+    },
+    {
+      "keyword_ko": "도박장 불 나는 꿈",
+      "keyword_en": "gambling house fire dream",
+      "interpretation_ko": "도박장이나 카지노에 불이 나는 꿈은 투기적 사업이나 주식 거래에서 큰 손실을 입게 될 것을 경고하는 흉몽입니다.",
+      "interpretation_en": "Dreaming of a fire in a gambling house or casino warns of major losses in speculative business or stock market ventures."
+    }
+  ],
+  "culturalContext": {
+    "korean": "한국에서 도박과 관련된 꿈은 화투(花鬪)라는 독특한 민속 문화와 깊이 연결되어 있습니다. 화투는 19세기 후반 일본에서 유래한 하나후다(花札)가 한국에 전래되어 한국화된 것으로, 명절이나 가족 모임에서 오락으로 즐겨 왔습니다. 고스톱은 화투를 이용한 한국 특유의 게임으로, 일상적인 사교 활동의 일부로 자리 잡아 왔습니다. 꿈해몽에서 도박 꿈은 대체로 '역몽(逆夢)' 원리가 강하게 적용되는 상징으로 알려져 있습니다. 즉, 꿈에서 이기면 현실에서 잃고, 꿈에서 지면 현실에서 얻는다는 반대 해석의 법칙입니다. 이는 꿈이 현실을 보완하거나 균형을 맞추는 역할을 한다는 전통적 세계관을 반영합니다. 또한 무속 신앙에서 도박이나 노름은 운명과 시운(時運)의 흐름을 상징하며, 사주명리학에서도 도박성 운세는 충동적 결정과 재물의 역동성을 나타내는 지표로 활용됩니다.",
+    "english": "In Korean culture, gambling dreams are deeply intertwined with the folk tradition of hwatu (화투, flower cards), which arrived from Japan's hanafuda in the late 19th century and became thoroughly Koreanized over time. Hwatu is played at family gatherings and holidays, and the card game go-stop (고스톱) is a beloved social pastime. In Korean dream interpretation, gambling dreams are strongly governed by the 'reversal principle' (역몽), where winning in a dream signals real-life loss, and losing in a dream signals real-life gain. This reflects a traditional cosmological view in which dreams compensate for or balance waking reality. In shamanic tradition (무속 신앙), gambling symbolizes the fluctuating tides of fate and luck, while in Korean saju (사주명리학) astrology, gambling-type fortune patterns indicate impulsive decision-making and the volatility of wealth cycles."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트의 관점에서 도박 꿈은 억압된 위험 감수 욕구와 쾌락 원칙(pleasure principle)의 표현으로 해석됩니다. 도박의 스릴은 성적 흥분 또는 금지된 것에 대한 리비도적 충동과 연결되며, 카드나 돈은 권력과 소유 욕망의 상징으로 작용합니다. 꿈에서 반복적으로 도박에 빠지는 것은 통제받지 못한 충동이나 현실 원칙(reality principle)에 억눌린 자아의 해방 욕구를 반영할 수 있어요.",
+      "english": "From a Freudian perspective, gambling dreams express repressed risk-taking impulses and the pleasure principle overriding rational judgment. The thrill of gambling is linked to libidinal excitement — forbidden desires and the drive to transgress limits. Cards and money function as symbols of power and the desire for possession. Recurring gambling dreams may reflect an id seeking release from the constraints imposed by the ego and reality principle."
+    },
+    "jungian": {
+      "korean": "융의 분석심리학에서 도박 꿈은 운명과 우연성(synchronicity)이라는 원형적 주제와 맞닿아 있어요. 도박은 인간이 통제할 수 없는 운명의 힘, 즉 '운(運)'이라는 원형과 직접 대면하는 행위를 상징합니다. 카드나 주사위는 집단무의식 속의 운명의 여신(Fortuna) 원형을 떠올리게 하며, 도박에서 이기고 지는 꿈은 개인이 자기실현(individuation) 과정에서 결과에 집착하는 자아(ego)와 결과를 수용하는 자기(Self) 사이의 내적 갈등을 나타낼 수 있습니다.",
+      "english": "In Jungian analytical psychology, gambling dreams connect to the archetypal themes of fate and synchronicity — the meaningful coincidences that lie beyond rational causality. Gambling as an act symbolizes a direct encounter with the archetype of Fortune, the uncontrollable force of destiny. Cards and dice evoke the collective unconscious image of Fortuna. Dreams of winning and losing may reflect the inner tension during individuation between the ego's attachment to outcomes and the Self's acceptance of what is."
+    },
+    "modern": {
+      "korean": "현대 인지심리학과 신경과학의 관점에서 도박 꿈은 일상 속 불확실성, 의사결정 불안, 또는 재정적 스트레스가 수면 중에 시뮬레이션되는 것으로 설명됩니다. 뇌는 수면 중 감정적으로 강렬한 경험을 처리하고 시뮬레이션하는데, 도박은 보상 회로(reward circuit)와 전두엽의 위험 평가 기능을 동시에 자극하는 대표적인 시나리오입니다. 반복적인 도박 꿈은 현실에서의 통제력 상실감, 중요한 결정에 대한 불안, 또는 충동 조절 문제의 심리적 신호일 수 있어요.",
+      "english": "From modern cognitive psychology and neuroscience, gambling dreams are understood as the brain simulating scenarios of uncertainty, financial stress, and high-stakes decision-making during sleep. The brain's reward circuits (dopaminergic pathways) and the prefrontal cortex's risk-assessment functions are both strongly engaged by gambling scenarios, making them vivid material for dream processing. Recurring gambling dreams may signal real-life feelings of loss of control, anxiety about important decisions, or underlying impulse-regulation challenges."
+    },
+    "crossCultural": {
+      "korean": "서양에서 도박 꿈은 주로 위험 감수 성향과 무의식적 충동의 반영으로 심리학적으로 해석되는 반면, 한국 전통 꿈해몽에서는 운명의 역전과 재물의 변동을 예고하는 신호로 봅니다. 특히 '꿈에서 이기면 현실에서 진다'는 역몽 원리는 서양 심리학에는 없는 한국 특유의 민속적 세계관입니다.",
+      "english": "Western interpretations treat gambling dreams primarily as psychological reflections of risk-taking tendencies and unconscious impulses, while Korean folk tradition reads them as omens of fate reversal and wealth fluctuation. The Korean reversal principle — winning in the dream means losing in reality — has no direct parallel in Western dream psychology and represents a distinctly Korean cosmological outlook."
+    }
+  },
+  "relatedSymbols": [
+    "money",
+    "lottery",
+    "playing-cards",
+    "gold",
+    "theft",
+    "debt",
+    "luck",
+    "dice"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "도박꿈",
+      "도박 꿈해몽",
+      "도박 꿈 의미",
+      "꿈에서 도박 이기는 꿈",
+      "꿈에서 도박 지는 꿈",
+      "카지노 꿈해몽",
+      "화투 꿈해몽",
+      "고스톱 꿈해몽",
+      "도박 꿈 길몽 흉몽",
+      "노름 꿈 해석",
+      "도박 꿈 재물운",
+      "포커 꿈해몽",
+      "슬롯머신 꿈",
+      "도박판 꿈 의미"
+    ],
+    "english": [
+      "gambling dream meaning",
+      "dream about gambling korean interpretation",
+      "winning at gambling dream meaning",
+      "losing at gambling dream",
+      "casino dream meaning korean",
+      "hwatu dream meaning",
+      "go-stop dream interpretation",
+      "korean dream gambling fortune",
+      "dream of playing cards meaning"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "도박에서 이기는 꿈은 길몽인가요 흉몽인가요?",
+      "answer_ko": "꿈에서 도박에 이기는 것은 일반적으로 흉몽으로 해석됩니다. 전통 꿈해몽에서 도박 꿈은 역몽(逆夢)의 대표적인 사례로, 꿈에서의 승리가 현실에서의 재물 손실이나 사업 차질을 예고한다고 봅니다. 반대로 꿈에서 크게 지는 꿈이 현실의 횡재를 예고하는 길몽입니다.",
+      "question_en": "Is dreaming of winning at gambling a good or bad omen?",
+      "answer_en": "In Korean dream interpretation, winning at gambling in a dream is generally considered inauspicious. It is one of the clearest examples of the 'reversal dream' (역몽) principle: the win in the dream actually foretells financial loss or business setbacks in real life. Conversely, losing everything in a gambling dream is the auspicious sign, predicting unexpected windfall."
+    },
+    {
+      "question_ko": "화투 꿈을 꾸면 어떤 의미인가요?",
+      "answer_ko": "화투 꿈은 상황에 따라 다르게 해석됩니다. 화투에서 좋은 패를 받거나 이기는 꿈은 뜻밖의 행운과 재물운을 암시하는 길몽이지만, 화투를 즐기다가 갈등이 생기거나 지는 꿈은 대인관계의 불화나 예상치 못한 방해 요소를 경고하는 흉몽으로 볼 수 있습니다.",
+      "question_en": "What does it mean to dream about playing hwatu (flower cards)?",
+      "answer_en": "Hwatu dreams depend on context. Receiving a good hand or winning is auspicious, hinting at unexpected good fortune and financial luck. However, dreaming of conflicts during gameplay or losing reflects interpersonal discord or unexpected obstacles ahead. The social and festive nature of hwatu also means that playing with family members generally signals family harmony."
+    },
+    {
+      "question_ko": "카지노 꿈은 좋은 꿈인가요?",
+      "answer_ko": "카지노에 들어가는 꿈은 대체로 흉몽으로 해석됩니다. 인생의 중요한 기로에서 큰 위험에 직면하거나 투기적 결정으로 손실을 입을 수 있다는 경고입니다. 단, 카지노 입구에서 막혀 들어가지 못하는 꿈은 오히려 위험한 상황을 피하게 된다는 매우 길한 꿈으로 해석됩니다.",
+      "question_en": "Is dreaming about a casino a good dream?",
+      "answer_en": "Dreaming of entering a casino is generally inauspicious in Korean interpretation, warning of significant danger at a major life crossroads or losses from speculative decisions. However, being blocked from entering the casino is considered very auspicious — it means you will fortunately avoid a dangerous situation or bad deal."
+    },
+    {
+      "question_ko": "도박 꿈이 반복되면 어떤 의미인가요?",
+      "answer_ko": "도박 꿈이 반복적으로 나타난다면, 전통 꿈해몽의 관점에서는 재물운의 중요한 변동이 임박했다는 신호로 볼 수 있습니다. 현대 심리학적으로는 현실에서 중요한 결정을 앞두고 있거나, 통제력 상실에 대한 불안, 또는 재정적 스트레스가 수면 중에 반영된 것으로 해석할 수 있습니다.",
+      "question_en": "What does it mean if I keep dreaming about gambling repeatedly?",
+      "answer_en": "In Korean folk tradition, recurring gambling dreams may signal that a significant shift in financial fortune is approaching. From a modern psychological perspective, they often reflect real-life anxiety about high-stakes decisions, fear of losing control, or underlying financial stress being processed through sleep."
+    },
+    {
+      "question_ko": "고스톱 치는 꿈은 좋은 꿈인가요?",
+      "answer_ko": "고스톱을 치는 꿈은 일반적으로 흉몽으로 해석됩니다. 순조롭게 진행되던 일이 뜻하지 않은 방해나 사건으로 갑자기 중단되거나 차질을 빚게 될 것을 경고하는 꿈입니다. 다만 가족이나 가까운 사람들과 화기애애하게 고스톱을 즐기는 꿈은 대인관계의 원만함을 상징하기도 합니다.",
+      "question_en": "Is dreaming of playing go-stop a good sign?",
+      "answer_en": "Dreaming of playing go-stop is generally considered inauspicious, warning that smoothly progressing plans will be interrupted by unexpected problems or events. However, playing go-stop warmly with family or close friends may reflect harmonious relationships and good social bonds."
+    },
+    {
+      "question_ko": "도박으로 전 재산을 잃는 꿈을 꿨는데 무서운 꿈인가요?",
+      "answer_ko": "걱정하지 않으셔도 됩니다. 도박으로 전 재산을 잃거나 파산하는 꿈은 역몽의 원리에 따라 현실에서는 오히려 큰 횡재나 뜻밖의 수익이 생길 것을 예고하는 길몽으로 해석됩니다. 꿈에서의 손실이 클수록 현실의 이득이 크다고 봅니다.",
+      "question_en": "I dreamed of losing everything to gambling — is that a terrible omen?",
+      "answer_en": "Not at all. In Korean dream interpretation, dreaming of losing all your money through gambling is actually an auspicious sign, following the reversal principle. It predicts unexpected windfall or significant profits in real life. The bigger the loss in the dream, the greater the fortune it is believed to foretell."
+    }
+  ]
+}

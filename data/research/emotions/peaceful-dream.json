@@ -1,0 +1,172 @@
+{
+  "symbol": {
+    "korean": "평화로운 꿈",
+    "english": "Dream of Peace",
+    "slug": "peaceful-dream"
+  },
+  "summary": {
+    "korean": "평화로운 꿈은 내면의 안정과 조화를 상징하며, 현재의 삶이 균형을 찾고 있거나 곧 평온한 시기가 찾아올 것을 예고하는 길몽으로 해석됩니다.",
+    "english": "Dreaming of peace symbolizes inner harmony and emotional balance, traditionally interpreted as an auspicious sign that one's life is settling into stability or that a tranquil, fortunate period is approaching."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "꿈속에서 평화롭고 고요한 분위기를 느끼며 마음이 편안했다면, 이는 현실에서도 오래 지속되는 안정과 행운이 찾아올 것을 암시하는 길몽입니다. 특히 가족이나 사랑하는 사람들과 함께 평화로운 시간을 보내는 꿈은 가정의 화목과 번영을 예고합니다.",
+      "english": "If you felt a calm, peaceful atmosphere in your dream and woke feeling at ease, this is an auspicious sign foretelling lasting stability and good fortune in waking life. Dreams of spending peaceful time with family or loved ones in particular herald domestic harmony and prosperity.",
+      "context": "꿈속 분위기가 전반적으로 고요하고 평화로우며 꿈꾼 사람이 행복감을 느낄 때"
+    },
+    {
+      "type": "길몽",
+      "korean": "자연 속에서 평화로움을 느끼는 꿈, 예를 들어 잔잔한 호수, 맑은 하늘, 고요한 숲 속에서 평화를 만끽하는 꿈은 큰 행운과 재물이 들어오는 것을 상징합니다. 한국 전통 해몽에서 자연의 조화로운 모습은 하늘의 기운이 꿈꾼 이에게 내리는 축복으로 여겨집니다.",
+      "english": "Dreams of experiencing peace in nature — a still lake, a clear sky, a quiet forest — symbolize great fortune and incoming prosperity. In Korean folk interpretation, harmonious natural imagery represents heavenly blessings being bestowed upon the dreamer.",
+      "context": "자연 속에서 평화로움을 경험하는 꿈 — 호수, 맑은 하늘, 숲 등의 배경"
+    },
+    {
+      "type": "길몽",
+      "korean": "오랜 갈등이나 다툼이 해소되며 평화가 찾아오는 꿈은 현실에서도 인간관계의 화해와 문제 해결이 이루어질 것을 예고합니다. 직장이나 사업 관계에서 분쟁이 원만히 해결되거나 협력이 강화되는 좋은 신호로 해석됩니다.",
+      "english": "A dream in which long-standing conflict or strife dissolves into peace foretells reconciliation and resolution of problems in real relationships. It is a positive signal that disputes at work or in business dealings will resolve smoothly and cooperation will deepen.",
+      "context": "갈등이 해소되고 화해가 이루어지는 형태의 평화로운 꿈"
+    },
+    {
+      "type": "neutral",
+      "korean": "꿈속에서 평화롭지만 어딘가 공허하거나 지나치게 조용한 느낌을 받았다면, 이는 현실에서 삶의 활력이나 자극이 부족하다는 내면의 신호일 수 있습니다. 지나친 안주나 정체를 경계하라는 의미로 해석되기도 합니다.",
+      "english": "If the peace in your dream felt strangely empty or unnervingly still, this may be an inner signal that waking life lacks vitality or stimulation. Some interpretations read this as a gentle warning against complacency or stagnation.",
+      "context": "평화로우나 공허하거나 지나치게 고요한 느낌을 동반하는 꿈"
+    },
+    {
+      "type": "흉몽",
+      "korean": "갑작스럽게 평화가 깨지는 꿈, 즉 평온한 상황에서 갑자기 소음이나 혼돈이 나타나거나 평화로운 분위기가 강제로 끝나는 꿈은 현실에서 예상치 못한 방해나 혼란이 생길 수 있음을 경고합니다.",
+      "english": "A dream in which peace is suddenly shattered — a calm scene abruptly disrupted by noise or chaos — serves as a warning that unexpected disturbances or disruptions may arise in waking life.",
+      "context": "꿈속에서 평화로운 상태가 갑자기 깨지거나 방해받는 경우"
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "가족과 함께 평화로운 꿈",
+      "keyword_en": "peaceful dream with family",
+      "interpretation_ko": "가족과 함께 평화롭고 따뜻한 시간을 보내는 꿈은 가정의 화목과 건강, 그리고 집안에 복이 들어오는 길몽입니다. 특히 온 가족이 함께 식사하거나 편안히 쉬는 모습이 나오면 가족 중 경사가 생길 징조로 봅니다.",
+      "interpretation_en": "Dreaming of peaceful, warm time with family is an auspicious dream signifying domestic harmony, health, and good fortune entering the household. If the whole family is sharing a meal or resting comfortably, it is seen as a sign of an upcoming joyful family event."
+    },
+    {
+      "keyword_ko": "자연 속 평화로운 꿈",
+      "keyword_en": "peaceful dream in nature",
+      "interpretation_ko": "잔잔한 강가, 고요한 산, 맑은 하늘 아래 평화를 누리는 꿈은 한국 전통 해몽에서 천지의 기운이 꿈꾼 이에게 순조롭게 흐르는 상태를 의미합니다. 재물운과 건강운이 모두 상승하는 길조입니다.",
+      "interpretation_en": "Experiencing peace by a gentle river, on a quiet mountain, or under a clear sky is interpreted in Korean tradition as a sign that the energy of heaven and earth flows favorably toward the dreamer, bringing improved fortune and health."
+    },
+    {
+      "keyword_ko": "평화롭게 잠드는 꿈",
+      "keyword_en": "dreaming of falling asleep peacefully",
+      "interpretation_ko": "꿈속에서 평화롭게 잠이 드는 꿈은 현재의 근심과 걱정이 해소되고 몸과 마음이 쉬어갈 시간이 올 것임을 예고합니다. 건강이 회복되거나 스트레스가 줄어드는 시기가 가까워졌다는 신호이기도 합니다.",
+      "interpretation_en": "Dreaming of falling asleep peacefully within a dream signals that current worries will dissolve and a period of rest for body and mind is approaching. It may also indicate an upcoming recovery of health or a reduction in stress."
+    },
+    {
+      "keyword_ko": "전쟁 후 평화로운 꿈",
+      "keyword_en": "dream of peace after war or conflict",
+      "interpretation_ko": "전쟁이나 큰 갈등이 끝나고 평화가 찾아오는 꿈은 오랫동안 이어져 온 어려움이 끝나고 새로운 국면을 맞이할 것을 암시합니다. 사업상의 분쟁이나 인간관계의 갈등이 해소되고 새로운 협력 관계가 시작될 수 있습니다.",
+      "interpretation_en": "Dreaming of peace arriving after war or major conflict suggests that long-standing hardships are coming to an end and a new chapter is beginning. Business disputes or interpersonal conflicts may resolve, opening the door to new cooperative relationships."
+    },
+    {
+      "keyword_ko": "평화로운 마을이 나오는 꿈",
+      "keyword_en": "dream of a peaceful village",
+      "interpretation_ko": "고요하고 평화로운 마을이 나오는 꿈은 안정적인 공동체 관계와 사회적 지지를 상징합니다. 주변 사람들과의 관계가 원만해지고 협력이 이루어질 것을 의미하며, 새로운 인연이 생길 수도 있습니다.",
+      "interpretation_en": "A dream featuring a quiet, peaceful village symbolizes stable community relationships and social support. It suggests that relationships with those around you will improve and cooperation will flourish, and new meaningful connections may form."
+    },
+    {
+      "keyword_ko": "마음이 평화로운 꿈",
+      "keyword_en": "dream of inner peace",
+      "interpretation_ko": "꿈속에서 별다른 사건 없이 마음이 고요하고 평화롭다는 느낌이 드는 꿈은 꿈꾼 이의 내면이 건강하고 균형 잡혀 있음을 나타냅니다. 현재 하고 있는 일이나 관계가 올바른 방향으로 흐르고 있다는 긍정적 신호입니다.",
+      "interpretation_en": "A dream where one simply feels a quiet, undisturbed inner peace — without any dramatic events — reflects that the dreamer's inner world is healthy and balanced. It is a positive signal that current endeavors and relationships are moving in the right direction."
+    }
+  ],
+  "culturalContext": {
+    "korean": "한국의 전통 꿈해몽에서 꿈에 느끼는 감정과 분위기는 해몽의 핵심 단서로 여겨져 왔습니다. 특히 '평화로운 꿈'은 단순한 개인의 심리 상태를 넘어, 하늘과 땅의 기운이 조화롭게 흐른다는 우주적 의미로 해석되었습니다. 한국 무속 신앙(무속 신앙)에서 평화와 조화는 신령의 가호(加護)가 깃든 상태를 뜻하며, 평화로운 꿈은 신령이 꿈꾼 이를 돌보고 있다는 신호로 받아들여졌습니다. 불교의 영향으로는 마음의 평화(심평 心平)가 수행의 결실이자 복덕(福德)의 증거로 여겨졌기 때문에, 평화로운 꿈은 공덕이 쌓여 좋은 인연이 이어진다는 의미를 담기도 했습니다. 조선 시대에는 왕이나 고관들이 길몽을 꾸는 것이 치세(治世)의 평화로움과 연결된다는 믿음도 있었으며, 집안의 어른이 평화로운 꿈을 꾸면 가문 전체에 좋은 일이 생긴다고 여겼습니다.",
+    "english": "In Korean traditional dream interpretation, the emotions and atmosphere felt within a dream have always been considered key clues to its meaning. A 'peaceful dream' was understood not merely as a reflection of the dreamer's personal psychological state, but as a cosmic sign that the energies of heaven and earth were flowing in harmony. In Korean shamanism (musok sinang), peace and harmony signify a state blessed by divine spirits, and a peaceful dream was received as a sign that the spirits were watching over the dreamer. Under Buddhist influence, inner peace (심평, shim-pyeong) was regarded as the fruit of spiritual practice and evidence of accumulated virtue, so a peaceful dream carried connotations of good karma and auspicious connections to come. In the Joseon dynasty, it was believed that when a king or high official dreamed peacefully, it reflected the tranquility of their reign; and if an elder in a household experienced peaceful dreams, the entire family was expected to prosper."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트의 정신분석학 관점에서 평화로운 꿈은 자아(ego)가 이드(id)의 충동을 성공적으로 조율하고 있는 상태를 반영해요. 억압된 욕구나 갈등이 꿈에서 완화된 형태로 표현되거나, 불안이 상징적으로 해소되면서 평온한 꿈 내용이 만들어진다고 봐요. 프로이트는 이러한 꿈을 소망 충족(wish fulfillment)의 긍정적인 형태, 즉 평온을 바라는 무의식적 욕구가 실현된 것으로 해석했어요.",
+      "english": "From Freud's psychoanalytic perspective, a peaceful dream reflects the ego successfully mediating the id's impulses. Repressed desires or conflicts are expressed in a softened symbolic form, and the dream's calm content emerges as anxiety finds symbolic resolution. Freud would interpret such a dream as a positive form of wish fulfillment — the unconscious desire for calm and safety being realized in sleep."
+    },
+    "jungian": {
+      "korean": "융(Carl Jung)의 관점에서 평화로운 꿈은 자기(Self)를 향한 개성화(individuation) 과정이 순조롭게 진행되고 있음을 나타내요. 꿈속의 평화로운 풍경이나 고요한 분위기는 종종 '만다라'적 완전성의 상징으로 해석되며, 심리적 대극들이 통합되고 균형을 이루고 있다는 신호예요. 융은 집단 무의식 속에서 평화의 이미지가 '낙원(paradise)' 원형과 연결된다고 보았으며, 이는 인류 공통의 근원적 안정감에 대한 열망을 반영한다고 했어요.",
+      "english": "From Jung's perspective, a peaceful dream signals that the individuation process — the journey toward the integrated Self — is unfolding smoothly. Peaceful landscapes or serene atmospheres in dreams are often read as symbols of mandala-like wholeness, indicating that psychological opposites are becoming integrated and balanced. Jung connected the image of peace in the collective unconscious to the archetype of 'paradise,' reflecting humanity's universal longing for a primal sense of security and completeness."
+    },
+    "modern": {
+      "korean": "현대 인지과학과 신경과학에서는 평화로운 꿈이 주로 낮 동안 경험한 긍정적 감정과 낮은 스트레스 수준과 연관된다고 봐요. REM 수면 중 편도체(amygdala)의 활성화가 낮을 때 평화로운 꿈이 나타날 가능성이 높으며, 이는 수면의 질이 좋고 정서 조절이 잘 이루어지고 있다는 증거예요. 현대 심리치료에서는 평화로운 꿈이 반복적으로 나타날 경우, 이를 심리적 회복과 외상 후 성장(post-traumatic growth)의 지표로 해석하기도 해요.",
+      "english": "In modern cognitive science and neuroscience, peaceful dreams are primarily linked to positive emotional experiences during the day and low stress levels. When the amygdala shows reduced activation during REM sleep, peaceful dreams are more likely to occur, which is evidence of good sleep quality and effective emotional regulation. In contemporary psychotherapy, the recurring appearance of peaceful dreams is sometimes interpreted as an indicator of psychological recovery and post-traumatic growth."
+    },
+    "crossCultural": {
+      "korean": "한국 전통 해몽이 평화로운 꿈을 하늘의 기운과 신령의 가호로 해석하는 외향적·초월적 관점을 취한다면, 서양 심리학은 동일한 꿈을 내면의 심리 상태와 정서 건강의 반영으로 읽는 내향적 관점을 취해요. 그러나 두 전통 모두 평화로운 꿈을 긍정적인 신호로 본다는 점에서 일치해요.",
+      "english": "Korean traditional interpretation takes an outward, transcendental view — reading peaceful dreams as signs of heavenly energy and divine blessing — while Western psychology takes an inward view, reading the same dream as a reflection of psychological health and emotional well-being. Despite this difference in framework, both traditions agree in treating peaceful dreams as a fundamentally positive sign."
+    }
+  },
+  "relatedSymbols": [
+    "happiness",
+    "nature",
+    "family",
+    "lake",
+    "mountain",
+    "clear-sky",
+    "garden",
+    "white-light"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "평화로운 꿈",
+      "평화 꿈해몽",
+      "평화로운 꿈 의미",
+      "평온한 꿈 해몽",
+      "마음이 편안한 꿈",
+      "행복한 꿈 해몽",
+      "고요한 꿈 의미",
+      "평화 꿈 길몽",
+      "평화로운 꿈 길흉",
+      "안정적인 꿈 해몽",
+      "평화로운 자연 꿈",
+      "가족과 평화로운 꿈"
+    ],
+    "english": [
+      "peaceful dream meaning",
+      "dream of peace korean interpretation",
+      "calm dream meaning",
+      "serene dream interpretation",
+      "peaceful dream korean culture",
+      "inner peace dream symbolism",
+      "auspicious peaceful dream",
+      "tranquil dream meaning",
+      "dreaming of peace and harmony"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "평화로운 꿈은 길몽인가요, 흉몽인가요?",
+      "answer_ko": "대부분의 경우 평화로운 꿈은 길몽으로 해석됩니다. 꿈속에서 마음이 편안하고 분위기가 고요했다면 현실에서도 안정과 행운이 찾아올 것을 암시합니다. 다만 지나치게 공허하거나 갑자기 평화가 깨지는 꿈이라면 상황을 되돌아볼 필요가 있습니다.",
+      "question_en": "Is a peaceful dream a good omen or a bad omen?",
+      "answer_en": "In most cases, a peaceful dream is considered an auspicious omen. If you felt calm and the atmosphere was serene, it suggests that stability and good fortune are on the way in waking life. However, if the peace felt strangely empty or was suddenly disrupted, it may be worth reflecting on your current circumstances."
+    },
+    {
+      "question_ko": "평화로운 꿈을 꾸면 로또를 사도 될까요?",
+      "answer_ko": "평화로운 꿈은 재물운보다는 정신적 안정과 관계의 화합을 주로 상징합니다. 직접적인 횡재의 징조로 보기보다는 현재 생활이 안정적으로 흘러가고 있다는 긍정적 신호로 받아들이는 것이 더 적합합니다.",
+      "question_en": "Should I buy a lottery ticket after a peaceful dream?",
+      "answer_en": "Peaceful dreams are more closely associated with mental well-being and harmonious relationships than with direct financial windfalls. Rather than interpreting it as a sign of sudden wealth, it is better understood as a positive signal that your current life is flowing in a stable and favorable direction."
+    },
+    {
+      "question_ko": "가족과 함께하는 평화로운 꿈은 무슨 의미인가요?",
+      "answer_ko": "가족과 함께 평화롭고 따뜻한 시간을 보내는 꿈은 가정의 화목과 건강, 집안에 복이 들어오는 것을 상징하는 길몽입니다. 특히 온 가족이 식사를 함께하거나 편안히 쉬는 꿈이라면 경사가 생길 징조로 해석됩니다.",
+      "question_en": "What does a peaceful dream with family mean?",
+      "answer_en": "Dreaming of peaceful, warm time with family is an auspicious dream symbolizing domestic harmony, good health, and blessings entering the household. If the whole family is sharing a meal or resting comfortably together, it is traditionally read as a sign of an upcoming joyful family event."
+    },
+    {
+      "question_ko": "자연 속에서 평화를 느끼는 꿈의 의미는 무엇인가요?",
+      "answer_ko": "잔잔한 호수, 맑은 하늘, 고요한 숲 같은 자연 배경 속에서 평화를 느끼는 꿈은 재물운과 건강운이 상승하는 길조입니다. 한국 전통 해몽에서 자연의 조화로운 모습은 하늘의 기운이 꿈꾼 이에게 내리는 축복을 의미합니다.",
+      "question_en": "What does it mean to feel peaceful in nature in a dream?",
+      "answer_en": "Feeling peace in a natural setting — beside a calm lake, under a clear sky, in a quiet forest — is a auspicious sign of rising fortune and improved health. In Korean folk tradition, harmonious natural imagery represents heavenly blessings being bestowed upon the dreamer."
+    },
+    {
+      "question_ko": "평화로운 꿈이 반복된다면 어떤 의미인가요?",
+      "answer_ko": "평화로운 꿈이 반복적으로 나타난다면 현재 삶의 방향이 올바르다는 긍정적 신호로 해석됩니다. 심리학적으로는 정서적 안정과 회복이 이루어지고 있다는 증거이기도 합니다. 다만 현실에서 변화나 도전을 회피하고 있다는 경고일 수도 있으니 삶의 활력도 함께 살펴보는 것이 좋습니다.",
+      "question_en": "What does it mean if I keep having peaceful dreams?",
+      "answer_en": "Recurring peaceful dreams are generally a positive signal that your current life path is sound and well-directed. Psychologically, they can also be evidence of emotional stabilization and recovery. That said, if the peace feels overly static, it may be worth reflecting on whether you are avoiding necessary change or challenge in waking life."
+    }
+  ]
+}

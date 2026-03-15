@@ -1,0 +1,218 @@
+{
+  "symbol": {
+    "korean": "돌",
+    "english": "Stones",
+    "slug": "stones-dream"
+  },
+  "summary": {
+    "korean": "돌 꿈은 한국 전통 해몽에서 인내와 불변의 상징으로, 돌을 줍거나 쌓는 꿈은 재물운과 태몽을 의미하고 돌에 맞거나 깔리는 꿈은 장애와 시련을 암시합니다.",
+    "english": "Dreaming of stones in Korean tradition symbolizes permanence and endurance — picking up or stacking stones foretells wealth and new life, while being struck or buried by stones signals obstacles and hardship."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "아름답거나 특별한 돌을 줍는 꿈은 예상치 못한 재물운과 횡재를 의미합니다. 특히 그 장소가 꿈꾸는 이에게 의미 있는 곳이라면 재물의 크기도 커진다고 봅니다. 많은 예쁜 돌을 모으는 꿈은 태몽으로 해석되어 귀한 아이가 태어날 것을 예고하기도 합니다.",
+      "english": "Picking up beautiful or special stones signals unexpected financial gain and windfall fortune. The more personally significant the location in the dream, the greater the anticipated wealth. Collecting many beautiful stones is also interpreted as a pregnancy dream (태몽), foretelling the birth of a precious child.",
+      "context": "When the dreamer picks up, collects, or receives stones — especially if the stones are attractive, luminous, or precious-looking"
+    },
+    {
+      "type": "길몽",
+      "korean": "집 안에 돌을 쌓는 꿈은 차근차근 재산을 모아 가는 것을 상징하며 안정적인 미래를 다지는 길몽입니다. 돌이 점점 커지는 꿈은 고민이나 문제가 빠르게 해결되고 승진 또는 사업 성공으로 이어짐을 나타냅니다. 커다란 바위산을 오르는 꿈은 고난을 극복하고 큰 기회와 행운을 얻는다는 뜻으로 풀이됩니다.",
+      "english": "Stacking stones inside the home represents steady wealth accumulation and building a secure future. Stones growing larger in a dream indicate that problems resolve quickly and lead to promotion or business success. Climbing a great rocky mountain signals that hardship will be overcome and major opportunity will follow.",
+      "context": "When the dreamer is actively building, climbing, or growing stones in a constructive manner"
+    },
+    {
+      "type": "길몽",
+      "korean": "땅을 파다가 돌을 발견하는 꿈은 현재 자신에게 이익이 될 변화나 새로운 기회가 생긴다는 것을 의미하며, 전반적인 운이 상승하는 길몽으로 봅니다. 큰 돌이 공중에 떠오르는 꿈은 명성이 높아지고 사회적으로 인정받게 됨을 암시합니다.",
+      "english": "Finding stones while digging the earth signals beneficial change and new opportunities on the horizon, with overall fortune rising. A large stone floating upward in the air foretells growing fame and social recognition.",
+      "context": "When stones are discovered unexpectedly underground, or when stones rise or float upward"
+    },
+    {
+      "type": "흉몽",
+      "korean": "자신의 몸이 돌로 변하는 꿈은 극도의 피로와 건강 악화를 경고합니다. 충분한 휴식 없이는 신체가 버티지 못할 수 있다는 신호로 해석됩니다. 돌 아래에 깔리거나 갇히는 꿈은 극심한 스트레스와 해결이 어려운 지속적인 고난을 겪고 있음을 나타냅니다.",
+      "english": "Dreaming that your body turns to stone warns of severe exhaustion and deteriorating health — a signal that the body cannot sustain itself without rest. Being trapped or buried under stones indicates crushing stress and prolonged hardship that feels inescapable.",
+      "context": "When the dreamer's body becomes stone, or when the dreamer is pinned or buried beneath rocks"
+    },
+    {
+      "type": "흉몽",
+      "korean": "돌에 맞는 꿈은 좋은 성과가 눈앞에 있지만 명예가 손상되거나 주변의 비판으로 심리적 압박을 받을 수 있음을 경고합니다. 보석이나 귀한 돌을 잃어버리는 꿈은 시험 실패, 사업 손실 등의 불운을 예고합니다. 돌로 물건을 깨뜨리는 꿈은 고집스러운 태도로 인한 집안의 불화나 수치스러운 상황을 암시합니다.",
+      "english": "Being struck by stones warns that success is near but reputation may be damaged or psychological pressure from criticism will mount. Losing precious or gemstone-quality stones foreshadows exam failure, business loss, or misfortune. Breaking objects with stones suggests household conflict or humiliation arising from stubbornness.",
+      "context": "When the dreamer is hit by stones, loses valuable stones, or uses stones destructively"
+    },
+    {
+      "type": "흉몽",
+      "korean": "타인에게 돌을 던지는 꿈은 가족 간의 갈등을 의미하며, 이성에게 돌을 던지는 경우 이루어지지 않는 욕망이나 관계의 파국을 나타냅니다. 돌밭이나 자갈길을 걷는 꿈은 앞으로의 길이 순탄하지 않고 걱정과 불안이 많은 시기가 이어짐을 암시합니다.",
+      "english": "Throwing stones at others indicates family conflict; throwing stones at a person of the opposite sex represents unfulfilled desire or a doomed relationship. Walking on a rocky or gravelly path signals that the road ahead will be rough, with a period of worry and anxiety to come.",
+      "context": "When the dreamer throws stones at others, or walks on rough stony ground with difficulty"
+    },
+    {
+      "type": "neutral",
+      "korean": "조약돌이나 작고 예쁜 돌을 만지거나 집으로 가져오는 꿈은 맥락에 따라 태몽(지혜로운 딸의 출생) 또는 소소한 행운으로 해석됩니다. 돌담이나 돌벽을 보는 꿈은 견고한 경계 또는 삶의 장벽을 상징하며, 그 벽이 온전한지 무너지는지에 따라 길흉이 달라집니다.",
+      "english": "Touching or bringing home small, pretty pebbles is interpreted — depending on context — as a pregnancy dream foretelling a wise daughter, or as a sign of modest good luck. Seeing a stone wall or stone fence symbolizes firm boundaries or life barriers; whether the wall stands firm or crumbles determines whether the omen is auspicious or inauspicious.",
+      "context": "When dreaming of small pretty pebbles (context-dependent on the dreamer's life situation), or viewing stone walls"
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "돌 줍는 꿈",
+      "keyword_en": "dream of picking up stones",
+      "interpretation_ko": "예상치 못한 재물이나 횡재를 암시하는 길몽입니다. 아름다운 돌일수록, 의미 있는 장소일수록 재물의 규모가 크다고 봅니다.",
+      "interpretation_en": "An auspicious dream signaling unexpected wealth or windfall. The more beautiful the stone and the more meaningful the location, the greater the anticipated gain."
+    },
+    {
+      "keyword_ko": "보석 줍는 꿈 / 아름다운 돌 꿈",
+      "keyword_en": "dream of precious stones / beautiful stones",
+      "interpretation_ko": "보석처럼 빛나는 돌을 줍거나 받는 꿈은 귀인을 만나거나 훌륭한 배우자를 얻는 길몽이며, 태몽으로는 재능 있고 귀한 자녀가 태어날 것을 예고합니다.",
+      "interpretation_en": "Picking up or receiving gem-like stones is an auspicious omen for meeting a benefactor or finding an excellent partner. As a pregnancy dream (태몽), it foretells the birth of a gifted and precious child."
+    },
+    {
+      "keyword_ko": "돌 쌓는 꿈 / 돌탑 쌓는 꿈",
+      "keyword_en": "dream of stacking stones / building a stone tower",
+      "interpretation_ko": "돌을 차곡차곡 쌓는 꿈은 꾸준한 저축과 안정적인 토대 구축을 상징하는 길몽입니다. 돌탑을 쌓는 꿈은 소원 성취와 정성스러운 노력이 결실을 맺음을 의미합니다.",
+      "interpretation_en": "Stacking stones steadily is an auspicious dream symbolizing diligent saving and building a stable foundation. Building a stone tower (돌탑) represents wishes coming true and earnest effort bearing fruit."
+    },
+    {
+      "keyword_ko": "큰 돌 / 바위 꿈",
+      "keyword_en": "dream of a big rock",
+      "interpretation_ko": "커다란 바위는 강인한 의지나 극복해야 할 장애물을 상징합니다. 바위 위에 앉거나 오르는 꿈은 권위와 성공을 뜻하며 길몽이고, 바위에 짓눌리는 꿈은 무거운 압박과 고난을 의미하는 흉몽입니다.",
+      "interpretation_en": "A large boulder symbolizes strong willpower or an obstacle to be overcome. Sitting atop or climbing a boulder is auspicious, indicating authority and success; being crushed by a boulder is inauspicious, representing heavy burdens and hardship."
+    },
+    {
+      "keyword_ko": "돌 던지는 꿈",
+      "keyword_en": "dream of throwing stones",
+      "interpretation_ko": "타인에게 돌을 던지는 꿈은 가족 갈등이나 인간관계의 마찰을 암시하는 흉몽입니다. 이성에게 던지는 경우 이루어지지 않는 욕망 또는 관계 파탄을 나타냅니다.",
+      "interpretation_en": "Throwing stones at someone is an inauspicious dream suggesting family conflict or interpersonal friction. Throwing stones at a person of the opposite sex indicates unrequited desire or a relationship breakdown."
+    },
+    {
+      "keyword_ko": "돌에 맞는 꿈",
+      "keyword_en": "dream of being hit by stones",
+      "interpretation_ko": "성과가 가까이 있지만 주변의 비난이나 평판 손상으로 심리적 타격을 받을 수 있음을 경고하는 흉몽입니다.",
+      "interpretation_en": "An inauspicious dream warning that though success is close, criticism from others or damage to reputation will cause psychological strain."
+    },
+    {
+      "keyword_ko": "돌길 / 자갈길 걷는 꿈",
+      "keyword_en": "dream of walking on a rocky path",
+      "interpretation_ko": "앞으로의 여정이 순탄하지 않고 걱정과 불안이 많은 시기가 다가올 것을 암시하는 흉몽입니다.",
+      "interpretation_en": "An inauspicious dream indicating a difficult period ahead filled with worry, anxiety, and an uneven path forward."
+    },
+    {
+      "keyword_ko": "돌담 / 돌벽 꿈",
+      "keyword_en": "dream of a stone wall",
+      "interpretation_ko": "돌담이 온전히 서 있는 꿈은 삶의 견고한 울타리와 보호를 의미하며, 돌벽이 무너지는 꿈은 기존의 질서나 관계가 붕괴될 수 있음을 경고합니다.",
+      "interpretation_en": "A standing stone wall represents solid protection and stable boundaries in life. A crumbling stone wall warns of the collapse of existing order, relationships, or security."
+    },
+    {
+      "keyword_ko": "돌이 물에 던져지는 꿈",
+      "keyword_en": "dream of throwing stones into water",
+      "interpretation_ko": "사소한 다툼이 크게 번지거나 명예에 손상을 입을 수 있음을 암시하는 흉몽입니다.",
+      "interpretation_en": "An inauspicious dream suggesting a minor dispute escalating significantly, or reputational damage resulting from careless words or actions."
+    },
+    {
+      "keyword_ko": "몸이 돌로 변하는 꿈",
+      "keyword_en": "dream of body turning to stone",
+      "interpretation_ko": "극심한 피로와 건강 악화를 경고하는 흉몽입니다. 충분한 휴식이 필요하다는 신체의 신호로 해석됩니다.",
+      "interpretation_en": "An inauspicious dream warning of severe exhaustion and declining health. Interpreted as a physical signal that rest is urgently needed."
+    },
+    {
+      "keyword_ko": "옥 / 아름다운 돌 꿈 (태몽)",
+      "keyword_en": "jade / precious stone dream (pregnancy dream)",
+      "interpretation_ko": "옥이나 보석처럼 아름다운 돌이 나오는 꿈은 태몽으로 해석될 경우 총명하고 귀한 자녀의 탄생을 예고하며, 딸일 가능성이 높다고 전해집니다.",
+      "interpretation_en": "When jade or gemstone-like beautiful stones appear in a dream interpreted as a pregnancy omen (태몽), it foretells the birth of an intelligent and precious child — traditionally said to indicate a daughter."
+    }
+  ],
+  "culturalContext": {
+    "korean": "한국 문화에서 돌은 예로부터 영속성, 불변성, 신성의 상징으로 깊이 뿌리내려 왔습니다. 무속 신앙에서 바위는 신령이 깃드는 신체(神體)로 여겨졌으며, 자식을 원하는 이, 병을 고치고자 하는 이, 가뭄에 비를 바라는 농민들이 바위에 금줄을 치고 제물을 바쳐 치성을 드렸습니다. 길가나 산속에 돌을 쌓아 올린 돌탑(돌무덤)은 소원을 빌고 여행의 안녕을 기원하는 민간 신앙의 산물로, 지금도 사찰 주변이나 등산로에서 흔히 볼 수 있습니다. 마을 입구를 지키는 돌하르방(제주)이나 장승·벅수 같은 돌 수호신은 외부의 악령과 질병을 막는 수문장 역할을 했습니다. 아이의 첫 돌잔치에서 돌은 아이가 건강하게 한 해를 넘겼음을 축하하는 상징이기도 합니다. 이처럼 돌은 한국인의 정신세계에서 '항존(恒存)·불변·구원'의 표상으로 관념화되어 왔으며, 꿈속의 돌도 이 오랜 상징 체계 안에서 재물·수명·소원 성취·강인함과 연결되어 해석됩니다.",
+    "english": "In Korean culture, stones have long been revered as symbols of permanence, immutability, and the sacred. In shamanic tradition (무속 신앙), boulders and large rocks were treated as the physical bodies (신체) of residing spirits — people seeking children, cures for illness, or rain for crops would tie sacred rope (금줄) around rocks and offer ritual food at them. The practice of stacking stone cairns (돌탑) along roadsides and mountain paths to pray for wishes and safe journeys persists to this day near temples and hiking trails. Stone guardians like Jeju's 돌하르방 (grandfather stones) and the village totems known as 장승 or 벅수 served as protective sentinels against evil spirits and disease. Even the celebratory first-birthday ritual (돌잔치) centers on the word 'dol' (돌, meaning first year), though its written character differs from the stone symbol, the cultural resonance of endurance runs through both. Within this rich symbolic tradition, stones in dreams are interpreted through a framework of wealth, longevity, wish fulfillment, and unbreakable strength."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트 정신분석학적 관점에서 돌은 단단하고 불변하는 물질로서 억압된 감정이나 심리적 경직성을 상징할 수 있어요. 몸이 돌로 변하는 꿈은 정서적 마비 또는 무의식 속에서 억눌린 욕동(리비도)이 표출되지 못하고 굳어 버린 상태를 나타낼 수 있어요. 돌을 던지는 행위는 공격 충동의 상징적 발산으로 해석되며, 주로 억압된 분노나 갈등이 꿈속에서 물리적 행동으로 치환된 것으로 봐요.",
+      "english": "From a Freudian psychoanalytic perspective, stones — hard and unyielding — can represent repressed emotions or psychological rigidity. Dreaming that one's body turns to stone may reflect emotional numbness or libidinal energy that has been suppressed to the point of paralysis. The act of throwing stones is interpreted as a symbolic discharge of aggressive impulses, often representing repressed anger or unresolved conflict that finds expression through physical action in the dream."
+    },
+    "jungian": {
+      "korean": "융의 분석심리학에서 돌은 자기(Self)의 원형적 상징 중 하나로, 정신의 중심성과 전일성(wholeness)을 나타내요. 연금술의 '현자의 돌(lapis philosophorum)'처럼 돌은 개성화(individuation) 과정에서 추구하는 내적 완성의 상징이에요. 단단한 바위나 산은 집단무의식 속 원형적 '위대한 어머니(Great Mother)' 혹은 불변하는 자연의 힘을 나타내기도 하며, 꿈속에서 돌을 발견하거나 쌓는 것은 자아가 내면의 중심을 찾아가는 여정을 상징한다고 볼 수 있어요.",
+      "english": "In Jungian analytical psychology, the stone is among the archetypal symbols of the Self, representing the psyche's centerness and wholeness. Like the alchemical 'lapis philosophorum' (philosopher's stone), stones in dreams symbolize the inner completeness sought during the individuation process. Solid rocks and mountains may also embody the archetypal Great Mother or the unchanging forces of nature within the collective unconscious. Discovering or building with stones in a dream can represent the ego's journey toward finding its inner center."
+    },
+    "modern": {
+      "korean": "현대 인지심리학과 신경과학 관점에서 돌 꿈은 꿈꾸는 이가 현실에서 느끼는 정체감, 압박감, 또는 변화에 대한 저항을 처리하는 과정으로 해석해요. 극심한 업무 스트레스나 감정적 과부하 상태에 있을 때 몸이 굳거나 무거운 돌에 짓눌리는 꿈을 꾸기 쉬우며, 이는 뇌가 과부하 신호를 은유적으로 표현하는 방식이에요. 반대로 돌을 쌓거나 오르는 꿈은 목표 지향적 사고와 문제 해결 동기가 활성화되어 있음을 반영하는 것으로 볼 수 있어요.",
+      "english": "From a modern cognitive and neuroscientific perspective, stone dreams are understood as the brain processing feelings of stagnation, pressure, or resistance to change in waking life. During periods of extreme work stress or emotional overload, dreams of a body turning to stone or being crushed under rocks are common — the brain's metaphorical way of signaling that it is overwhelmed. Conversely, dreams of stacking or climbing stones may reflect active goal-directed thinking and heightened motivation to solve problems."
+    },
+    "crossCultural": {
+      "korean": "한국 전통 해몽이 돌을 재물·소원·태몽과 같은 실생활의 길흉으로 연결하는 반면, 서양 심리학은 돌을 개인 내면의 심리 상태와 무의식적 과정의 은유로 접근한다는 점에서 차이가 있어요. 그러나 돌이 '변하지 않는 힘'을 상징한다는 근본적인 인식은 동서양 모두에서 공통적으로 나타나요.",
+      "english": "Korean traditional dream interpretation connects stones directly to real-life outcomes — wealth, wishes, or pregnancy — while Western psychology treats them primarily as metaphors for inner psychological states and unconscious processes. Yet both traditions share the fundamental recognition that stones symbolize an enduring, unchanging force."
+    }
+  },
+  "relatedSymbols": [
+    "mountain",
+    "jade",
+    "gold",
+    "earth",
+    "water",
+    "cave",
+    "wall",
+    "temple"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "돌 꿈해몽",
+      "돌꿈 의미",
+      "돌 줍는 꿈",
+      "돌 쌓는 꿈",
+      "돌탑 꿈해몽",
+      "바위 꿈해몽",
+      "돌에 맞는 꿈",
+      "돌 던지는 꿈 해몽",
+      "몸이 돌로 변하는 꿈",
+      "보석 돌 꿈 태몽",
+      "자갈 꿈해몽",
+      "돌담 꿈 의미",
+      "큰 돌 꿈해몽",
+      "돌 길몽 흉몽"
+    ],
+    "english": [
+      "stone dream meaning Korean",
+      "dream of picking up rocks",
+      "stacking stones dream interpretation",
+      "rock dream meaning",
+      "being hit by stones dream",
+      "throwing rocks in dream meaning",
+      "stone wall dream symbolism",
+      "body turning to stone dream",
+      "precious stone dream Korea",
+      "Korean stone dream pregnancy"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "돌을 줍는 꿈은 길몽인가요?",
+      "answer_ko": "네, 돌을 줍는 꿈은 대표적인 길몽입니다. 예상치 못한 재물이나 횡재를 의미하며, 특히 아름답거나 빛나는 돌을 주울수록, 의미 있는 장소일수록 더 큰 행운을 암시합니다.",
+      "question_en": "Is dreaming of picking up stones a good omen?",
+      "answer_en": "Yes, picking up stones in a dream is considered an auspicious omen in Korean dream interpretation. It signals unexpected wealth or windfall fortune — the more beautiful the stone and the more meaningful the location, the greater the anticipated luck."
+    },
+    {
+      "question_ko": "돌탑 쌓는 꿈은 무슨 의미인가요?",
+      "answer_ko": "돌탑을 쌓는 꿈은 소원 성취와 꾸준한 노력이 결실을 맺는다는 길몽입니다. 한국 민간 신앙에서 돌탑은 소원을 담아 쌓는 전통이 있어, 꿈속에서도 간절한 염원이 이루어질 것을 예고한다고 봅니다.",
+      "answer_en": "Dreaming of building a stone tower (돌탑) is an auspicious sign that wishes will come true and persistent effort will bear fruit. In Korean folk tradition, stone cairns are built as prayer offerings, so this dream is seen as foretelling the fulfillment of a heartfelt wish."
+    },
+    {
+      "question_ko": "돌에 맞는 꿈은 흉몽인가요?",
+      "answer_ko": "돌에 맞는 꿈은 주로 흉몽으로 해석됩니다. 성과나 목표가 가까이 왔지만 주변의 비난이나 평판 훼손으로 심리적 타격을 받을 수 있다는 경고로 풀이됩니다.",
+      "answer_en": "Being struck by stones in a dream is generally considered inauspicious. It warns that while success or a goal may be near, criticism from others or damage to your reputation could cause significant psychological stress."
+    },
+    {
+      "question_ko": "돌 꿈이 태몽이 될 수 있나요?",
+      "answer_ko": "네, 가능합니다. 작고 예쁜 조약돌을 집으로 가져오거나 아름다운 돌을 많이 모으는 꿈은 태몽으로 해석될 수 있으며, 전통적으로 지혜롭고 귀한 아이(특히 딸)의 탄생을 예고한다고 봅니다.",
+      "answer_en": "Yes, stone dreams can be interpreted as pregnancy omens (태몽). Bringing home small, pretty pebbles or collecting many beautiful stones is traditionally seen as foretelling the birth of a wise and precious child — often said to indicate a daughter."
+    },
+    {
+      "question_ko": "몸이 돌로 굳는 꿈은 무슨 의미인가요?",
+      "answer_ko": "몸이 돌처럼 굳어 버리는 꿈은 극심한 피로와 건강 악화를 경고하는 흉몽입니다. 무리한 일정과 스트레스로 신체가 한계에 다다랐다는 신호이므로 충분한 휴식이 필요합니다.",
+      "answer_en": "Dreaming that your body turns rigid like stone is an inauspicious warning dream about severe exhaustion and declining health. It signals that the body has reached its limit under an overloaded schedule and stress — rest is urgently needed."
+    },
+    {
+      "question_ko": "큰 바위 위에 오르는 꿈은 길몽인가요?",
+      "answer_ko": "네, 커다란 바위를 오르거나 그 위에 앉는 꿈은 권위·성공·고난 극복을 의미하는 길몽입니다. 힘든 과정을 거쳐 높은 자리에 오르게 될 것임을 암시합니다.",
+      "answer_en": "Yes, climbing or sitting atop a large boulder is an auspicious dream symbolizing authority, success, and the overcoming of hardship. It suggests that after a difficult journey, you will rise to a position of prominence."
+    }
+  ]
+}

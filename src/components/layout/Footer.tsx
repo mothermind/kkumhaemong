@@ -27,6 +27,20 @@ export function Footer({ locale }: { locale: Locale }) {
             </p>
           </div>
 
+          {/* Legal */}
+          <div>
+            <h4 className="text-xs font-bold uppercase tracking-widest text-gold mb-6">
+              {locale === "ko" ? "안내" : "Legal"}
+            </h4>
+            <ul className="text-sm text-text-muted space-y-4">
+              <li>
+                <Link href="/privacy-policy" className="hover:text-text-primary transition-colors">
+                  {locale === "ko" ? "개인정보처리방침" : "Privacy Policy"}
+                </Link>
+              </li>
+            </ul>
+          </div>
+
           {/* Service */}
           <div>
             <h4 className="text-xs font-bold uppercase tracking-widest text-gold mb-6">
@@ -46,24 +60,6 @@ export function Footer({ locale }: { locale: Locale }) {
             </ul>
           </div>
 
-          {/* Info */}
-          <div>
-            <h4 className="text-xs font-bold uppercase tracking-widest text-gold mb-6">
-              {locale === "ko" ? "안내" : "Info"}
-            </h4>
-            <ul className="text-sm text-text-muted space-y-4">
-              <li>
-                <span className="text-text-subtle">
-                  {locale === "ko" ? "개인정보처리방침" : "Privacy Policy"}
-                </span>
-              </li>
-              <li>
-                <span className="text-text-subtle">
-                  {locale === "ko" ? "이용약관" : "Terms of Service"}
-                </span>
-              </li>
-            </ul>
-          </div>
         </div>
 
         {/* Bottom bar */}

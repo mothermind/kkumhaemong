@@ -1,0 +1,221 @@
+{
+  "symbol": {
+    "korean": "반지 꿈",
+    "english": "Dream of a Ring",
+    "slug": "ring-dream"
+  },
+  "summary": {
+    "korean": "반지 꿈은 전통적으로 재물운, 약속, 인연의 성취를 상징하며, 반지의 상태와 행동에 따라 길몽과 흉몽이 뚜렷하게 갈립니다.",
+    "english": "Dreaming of a ring traditionally symbolizes wealth, binding commitments, and the fruition of relationships in Korean dream interpretation, with the ring's condition and the dreamer's actions determining whether it is auspicious or inauspicious."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "빛나는 반지를 끼거나 받는 꿈은 새로운 기회와 재물이 찾아오는 대표적인 길몽입니다. 반지가 밝게 빛날수록 운이 크게 트이고, 경제적으로 풍요로워질 것을 암시합니다. 특히 금반지를 받는 꿈은 뜻밖의 횡재나 사회적 지위 상승을 예고합니다.",
+      "english": "Dreaming of wearing or receiving a shining ring is a classic auspicious dream signaling new opportunities and incoming wealth. The brighter the ring gleams, the greater the fortune ahead. Receiving a gold ring in particular foretells unexpected windfall gains or a significant rise in social status.",
+      "context": "반지가 빛나고 아름다우며, 기분 좋게 받거나 끼는 상황일 때"
+    },
+    {
+      "type": "길몽",
+      "korean": "많은 반지를 한꺼번에 얻거나 줍는 꿈은 여러 방면에서 행운이 동시에 찾아올 것을 예고합니다. 가정에 평화가 깃들고, 사업이나 직장에서 좋은 소식이 연달아 들어올 길몽입니다.",
+      "english": "Dreaming of acquiring or finding many rings at once signals good fortune arriving from multiple directions simultaneously. This dream foretells peace in the home and a string of positive developments at work or in business.",
+      "context": "여러 개의 반지를 동시에 얻거나 줍는 꿈"
+    },
+    {
+      "type": "길몽",
+      "korean": "임신 중이거나 임신을 기대하는 사람이 금반지를 받는 꿈을 꾸면 태몽으로 풀이됩니다. 총명하고 사회적으로 존경받는 자녀를 얻을 것을 암시하며, 자수성가하여 재물을 이룰 아이의 태몽으로 여겨집니다.",
+      "english": "When a pregnant woman or someone hoping to conceive dreams of receiving a gold ring, it is interpreted as a pregnancy omen (태몽). It suggests the child will be intelligent, respected in society, and destined to build their own fortune through hard work.",
+      "context": "임신 중이거나 임신을 원하는 사람이 금반지를 받는 꿈"
+    },
+    {
+      "type": "흉몽",
+      "korean": "반지를 잃어버리거나 손가락에서 반지가 빠지는 꿈은 관계나 재물에서 손실이 생길 것을 경고하는 흉몽입니다. 연인이나 배우자와의 사이에 균열이 생기거나, 진행 중인 사업에서 기회를 놓칠 수 있음을 암시합니다.",
+      "english": "Dreaming of losing a ring or having it slip off your finger is an inauspicious omen warning of loss in relationships or finances. It suggests potential rifts with a partner or spouse, or missing an important opportunity in an ongoing venture.",
+      "context": "반지를 잃어버리거나, 손가락에서 반지가 저절로 빠지는 꿈"
+    },
+    {
+      "type": "흉몽",
+      "korean": "반지가 부러지거나 금이 가는 꿈은 현재의 약속이나 관계가 깨질 위험을 경고합니다. 중요한 계약이 파기되거나, 신뢰 관계에 균열이 생길 수 있으니 주변을 살피는 것이 좋습니다.",
+      "english": "Dreaming of a ring breaking or cracking warns of danger to an existing promise or relationship. An important contract may fall through, or a bond of trust could be damaged. It is wise to pay closer attention to your commitments and partnerships.",
+      "context": "꿈속에서 반지가 부러지거나 금이 가는 경우"
+    },
+    {
+      "type": "흉몽",
+      "korean": "금반지가 녹슬거나 색이 변한 꿈, 또는 가짜 반지를 받는 꿈은 재물운의 약화나 주변 사람의 속임수를 경고합니다. 재정적 손실이나 건강 악화에도 주의가 필요합니다.",
+      "english": "Dreaming of a gold ring that is rusted or discolored, or receiving a fake ring, warns of weakening financial luck or deception by someone around you. Caution is advised regarding financial loss or declining health.",
+      "context": "반지가 녹슬었거나 변색되었을 때, 또는 가짜임이 밝혀지는 꿈"
+    },
+    {
+      "type": "neutral",
+      "korean": "반지를 빼는 꿈은 맥락에 따라 다르게 해석됩니다. 스스로 의도적으로 빼는 꿈은 현재의 관계나 상황에서 벗어나고자 하는 내면의 욕구를 반영할 수 있으며, 새로운 변화를 준비하는 신호일 수 있습니다.",
+      "english": "Dreaming of removing a ring carries context-dependent meaning. Deliberately taking it off may reflect an inner desire to step away from a current relationship or situation, and can signal readiness for a new phase of life.",
+      "context": "스스로 반지를 빼는 꿈 — 이별의 전조일 수도 있고, 의도적 변화의 신호일 수도 있음"
+    },
+    {
+      "type": "neutral",
+      "korean": "반지를 고르거나 살펴보는 꿈은 현재 중요한 결정을 앞두고 있음을 반영합니다. 관계, 직업, 재물 등 인생의 중요한 선택 앞에서 신중하게 판단하라는 무의식의 신호로 해석됩니다.",
+      "english": "Dreaming of browsing or examining rings reflects an upcoming important decision in waking life. It is interpreted as the subconscious urging careful deliberation — whether the choice involves a relationship, career, or financial matter.",
+      "context": "반지를 고르거나 비교하는 꿈 — 중요한 선택을 앞두고 있을 때"
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "금반지 꿈",
+      "keyword_en": "gold ring dream",
+      "interpretation_ko": "금반지를 받거나 끼는 꿈은 재물과 명예를 상징하는 최고의 길몽입니다. 큰 재물을 얻거나 사회적 지위가 크게 상승할 것을 예고하며, 임신부에게는 훌륭한 자녀를 얻을 태몽으로도 풀이됩니다.",
+      "interpretation_en": "Dreaming of a gold ring — receiving or wearing one — is considered the most auspicious of all ring dreams, symbolizing great wealth and social honor. For pregnant women, it doubles as a pregnancy omen predicting an accomplished child."
+    },
+    {
+      "keyword_ko": "다이아몬드 반지 꿈",
+      "keyword_en": "diamond ring dream",
+      "interpretation_ko": "다이아몬드 반지 꿈은 영원함과 강인함을 상징하며, 중대한 성취나 재물 축적이 순조롭게 이루어질 것을 암시하는 길몽입니다. 중요한 목표가 성공적으로 이루어질 것을 나타냅니다.",
+      "interpretation_en": "A diamond ring dream symbolizes permanence and strength. It is an auspicious dream indicating that a significant achievement or accumulation of wealth will unfold smoothly, and that an important goal is on track for success."
+    },
+    {
+      "keyword_ko": "반지 받는 꿈",
+      "keyword_en": "receiving a ring dream",
+      "interpretation_ko": "누군가에게 반지를 선물받는 꿈은 귀인의 도움이나 새로운 인연의 시작, 또는 중요한 사업 제안을 받게 될 것을 암시하는 길몽입니다. 재물과 좋은 기회가 찾아온다는 신호이기도 합니다.",
+      "interpretation_en": "Receiving a ring as a gift in a dream is an auspicious omen signaling help from a benefactor, the start of an important new relationship, or an incoming business opportunity. It is widely regarded as a sign of wealth and good fortune arriving."
+    },
+    {
+      "keyword_ko": "반지 잃어버리는 꿈",
+      "keyword_en": "losing a ring dream",
+      "interpretation_ko": "반지를 잃어버리는 꿈은 자신이 쌓아온 것에 대한 실망이나 인간관계에서의 손실을 예고하는 흉몽입니다. 재물을 잃거나 소중한 인연이 멀어질 수 있으니 주의가 필요합니다.",
+      "interpretation_en": "Losing a ring in a dream is an inauspicious omen foretelling disappointment in one's achievements or loss in a key relationship. It warns of potential financial setback or the drifting away of a valued person."
+    },
+    {
+      "keyword_ko": "반지 부러지는 꿈",
+      "keyword_en": "ring breaking dream",
+      "interpretation_ko": "반지가 부러지거나 금이 가는 꿈은 소중한 약속이나 관계가 파탄날 위험을 경고합니다. 계약 파기나 신뢰 관계의 균열을 의미할 수 있어 흉몽으로 분류됩니다.",
+      "interpretation_en": "A ring breaking or cracking in a dream is inauspicious, warning that a cherished promise or relationship is at risk of collapse. It can signify a broken contract or a serious fracture in a bond of trust."
+    },
+    {
+      "keyword_ko": "결혼반지 꿈",
+      "keyword_en": "wedding ring dream",
+      "interpretation_ko": "결혼반지가 나오는 꿈은 헌신과 약속, 강한 정서적 유대를 상징합니다. 아름답고 빛나는 결혼반지라면 부부 관계의 행복과 견고함을 나타내는 길몽입니다.",
+      "interpretation_en": "A wedding ring appearing in a dream symbolizes commitment, promise, and a strong emotional bond. If the wedding ring is beautiful and gleaming, it is an auspicious dream reflecting happiness and stability in a marriage or partnership."
+    },
+    {
+      "keyword_ko": "반지 여러 개 끼는 꿈",
+      "keyword_en": "wearing multiple rings dream",
+      "interpretation_ko": "여러 개의 반지를 한꺼번에 끼는 꿈은 다양한 분야에서 기회가 열리고 가정에 기쁜 일이 연달아 생길 것을 암시하는 길몽입니다. 재물운과 인복이 함께 따름을 나타냅니다.",
+      "interpretation_en": "Wearing multiple rings at once in a dream is an auspicious sign that opportunities are opening in several areas of life simultaneously, and that joyful events will arrive in succession at home. It indicates both financial fortune and strong personal connections."
+    },
+    {
+      "keyword_ko": "은반지 꿈",
+      "keyword_en": "silver ring dream",
+      "interpretation_ko": "은반지를 약지에 끼는 꿈은 사랑의 결실을 상징합니다. 진행 중인 연애 관계가 더욱 깊어지거나, 소박하지만 진실한 행복을 얻게 될 것을 암시합니다.",
+      "interpretation_en": "Dreaming of a silver ring on the ring finger symbolizes the culmination of a love relationship. It suggests that an ongoing romance will deepen, or that modest but genuine happiness is on its way."
+    },
+    {
+      "keyword_ko": "반지 주는 꿈",
+      "keyword_en": "giving a ring dream",
+      "interpretation_ko": "상대방에게 반지를 주는 꿈은 관계에서의 헌신과 나눔을 상징합니다. 중요한 사람과의 유대가 더욱 돈독해질 것을 나타내며, 맥락에 따라 새로운 약속이나 계약의 시작을 의미하기도 합니다.",
+      "interpretation_en": "Giving a ring to someone in a dream symbolizes dedication and generosity within a relationship. It suggests that a meaningful bond will grow stronger, and depending on context, may signal the beginning of a new promise or agreement."
+    },
+    {
+      "keyword_ko": "녹슨 반지 꿈",
+      "keyword_en": "rusted ring dream",
+      "interpretation_ko": "금반지가 녹슬거나 색이 변한 꿈은 재물운이 약해지거나 현재의 관계가 퇴색할 것을 경고하는 흉몽입니다. 건강 악화에도 주의를 기울여야 함을 암시하기도 합니다.",
+      "interpretation_en": "Dreaming of a rusted or discolored gold ring is an inauspicious warning that financial luck is weakening or that an important relationship is losing its luster. It may also serve as a caution regarding declining health."
+    }
+  ],
+  "culturalContext": {
+    "korean": "한국 문화에서 반지는 단순한 장신구를 넘어 약속과 인연, 지위와 재물의 상징으로 깊이 뿌리내려 있습니다. 전통 혼례에서는 신랑이 신부에게 금반지를 선물하는 풍습이 있었으며, 금은 예로부터 복(福)과 재물의 상징으로 여겨졌습니다. 특히 금반지는 돌잔치에서 아기의 미래 복을 기원하며 선물하는 전통과도 연결됩니다. 약지에 끼는 반지는 결혼이나 약혼의 증표로, 꿈속에서도 이 손가락의 반지는 사랑의 결실이나 인연의 성취를 의미합니다. 한국 무속 신앙에서는 반지가 동그란 형태 덕분에 순환과 완전함을 상징하며, 좋은 기운이 끊임없이 흐르도록 돕는 부적과 유사한 의미를 지닌다고 여겨졌습니다.",
+    "english": "In Korean culture, a ring carries significance far beyond mere decoration — it is a deeply embedded symbol of promise, fate, social standing, and material wealth. Traditional Korean weddings included the custom of the groom gifting a gold ring to the bride, and gold has long been revered as a sign of fortune and prosperity. Gold rings also appear at the first birthday celebration (돌잔치), gifted to wish a child a prosperous future. The ring finger specifically signifies marriage or engagement, so in dream interpretation, a ring on that finger consistently points to the fulfillment of love or the sealing of an important bond. In Korean shamanistic tradition (무속 신앙), the ring's circular form symbolizes continuous cycle and wholeness, functioning almost like a talisman that keeps favorable energy flowing without interruption."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트 정신분석학의 관점에서 반지 꿈은 억압된 욕망, 특히 결합과 소유에 대한 욕구를 표현합니다. 반지를 받는 꿈은 사랑받고 인정받고자 하는 무의식적 욕구를 반영할 수 있으며, 반지를 잃는 꿈은 불안감이나 관계에서 느끼는 상실 공포와 연결됩니다. 프로이트는 둥근 형태의 물체를 여성성 혹은 모성의 상징으로 보기도 했는데, 이는 반지 꿈이 친밀감과 안전에 대한 갈망을 담고 있음을 시사합니다.",
+      "english": "From a Freudian psychoanalytic perspective, ring dreams express repressed desires, particularly the drives toward union and possession. Receiving a ring may reflect an unconscious need to feel loved and validated, while losing a ring connects to anxiety and fear of abandonment in a relationship. Freud also interpreted circular objects as symbols of femininity or the maternal, suggesting that ring dreams can carry a longing for intimacy and security."
+    },
+    "jungian": {
+      "korean": "융의 분석심리학에서 반지는 원(圓, mandala)의 원형적 상징과 연결됩니다. 원은 자기(Self)의 완전성과 전체성을 나타내는 핵심 원형으로, 반지를 끼는 꿈은 자아 통합(개성화, individuation)의 과정이 진행 중임을 의미할 수 있습니다. 반지를 주고받는 행위는 집단무의식 속에서 두 힘의 결합, 즉 아니마(anima)와 아니무스(animus)의 합일을 상징하기도 합니다.",
+      "english": "In Jungian analytical psychology, the ring connects to the archetypal symbol of the circle (mandala) — a central archetype representing the wholeness and completeness of the Self. Dreaming of wearing a ring may signal that the process of individuation (self-integration) is actively underway. The exchange of rings in a dream can symbolize the union of complementary forces within the collective unconscious — the joining of anima and animus."
+    },
+    "modern": {
+      "korean": "현대 인지심리학 및 신경과학의 관점에서 반지 꿈은 현실에서 경험 중인 관계적 스트레스나 중요한 결정에 대한 불안을 처리하는 과정으로 해석됩니다. 결혼이나 이별, 직업 변화 등 삶의 전환기를 앞두고 있을 때 반지 꿈이 자주 나타나는 것은 뇌가 감정적으로 중요한 정보를 수면 중에 통합하고 있음을 보여줍니다. 반지를 잃어버리는 반복적 악몽은 애착 불안이나 정체성 혼란과 관련이 있을 수 있습니다.",
+      "english": "From a modern cognitive psychology and neuroscience standpoint, ring dreams are understood as the brain's way of processing relational stress or anxiety about major decisions in waking life. Ring dreams tend to appear frequently during life transitions — such as approaching marriage, a breakup, or a career change — reflecting the brain's consolidation of emotionally significant information during sleep. Recurring nightmares of losing a ring may be linked to attachment anxiety or a sense of identity confusion."
+    },
+    "crossCultural": {
+      "korean": "한국 전통 꿈해몽에서 반지는 재물과 인연의 상징으로서 실질적인 현실 예언에 초점을 맞추는 반면, 서양 심리학은 반지를 자아 통합과 내면 관계의 상징으로 해석합니다. 두 관점 모두 반지가 '완전함'과 '연결'을 나타낸다는 점에서는 공통점을 지닙니다.",
+      "english": "Korean traditional dream interpretation focuses on the ring as a practical omen of wealth and fate, while Western psychology reads it as a symbol of inner wholeness and self-integration. Both traditions nevertheless converge on the ring as a universal image of completeness and connection."
+    }
+  },
+  "relatedSymbols": [
+    "gold",
+    "diamond",
+    "wedding",
+    "money",
+    "necklace",
+    "bracelet",
+    "treasure"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "반지 꿈해몽",
+      "반지꿈",
+      "금반지 꿈해몽",
+      "반지 받는 꿈",
+      "반지 잃어버리는 꿈",
+      "반지 끼는 꿈",
+      "반지 부러지는 꿈",
+      "결혼반지 꿈",
+      "다이아몬드 반지 꿈",
+      "반지 꿈 의미",
+      "반지 꿈 길몽",
+      "반지 꿈 흉몽",
+      "금반지 태몽",
+      "반지 꿈 재물"
+    ],
+    "english": [
+      "ring dream meaning",
+      "dreaming of a ring",
+      "gold ring dream interpretation",
+      "losing a ring in a dream",
+      "receiving a ring dream meaning",
+      "wedding ring dream",
+      "diamond ring dream meaning",
+      "Korean dream interpretation ring",
+      "ring dream auspicious"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "반지를 받는 꿈은 길몽인가요?",
+      "answer_ko": "네, 반지를 받는 꿈은 대표적인 길몽입니다. 귀인의 도움이나 새로운 인연, 사업적 기회가 찾아올 것을 암시하며, 특히 빛나는 금반지를 받는 꿈은 큰 재물이나 사회적 지위 상승을 예고합니다.",
+      "question_en": "Is dreaming of receiving a ring a good omen?",
+      "answer_en": "Yes, receiving a ring in a dream is considered a strongly auspicious sign. It suggests help from a benefactor, the beginning of a meaningful relationship, or an incoming business opportunity. Receiving a gleaming gold ring in particular foretells major wealth or a rise in social status."
+    },
+    {
+      "question_ko": "금반지 꿈은 태몽이 될 수 있나요?",
+      "answer_ko": "네, 임신 중이거나 임신을 기대하는 사람이 금반지를 얻거나 받는 꿈을 꾸면 태몽으로 풀이됩니다. 총명하고 자수성가하여 사회적으로 존경받는 자녀를 얻을 것을 암시하는 매우 좋은 태몽으로 여겨집니다.",
+      "question_en": "Can dreaming of a gold ring be a pregnancy omen (태몽)?",
+      "answer_en": "Yes. When a pregnant woman or someone hoping to conceive dreams of obtaining or receiving a gold ring, it is interpreted as a pregnancy omen (태몽) — specifically foretelling a child who will be intelligent, self-made, and respected in society."
+    },
+    {
+      "question_ko": "반지를 잃어버리는 꿈은 이별을 의미하나요?",
+      "answer_ko": "반지를 잃어버리는 꿈은 관계에서의 균열이나 손실을 경고하는 흉몽으로 볼 수 있습니다. 반드시 이별을 의미하지는 않지만, 중요한 인연이나 재물에 주의를 기울이라는 신호로 해석하는 것이 좋습니다.",
+      "question_en": "Does dreaming of losing a ring mean a breakup?",
+      "answer_en": "Losing a ring in a dream is an inauspicious warning sign, but it does not automatically predict a breakup. Rather, it signals that you should pay closer attention to an important relationship or financial matter, as something of value may be at risk."
+    },
+    {
+      "question_ko": "반지가 부러지는 꿈은 어떤 의미인가요?",
+      "answer_ko": "반지가 부러지거나 금이 가는 꿈은 소중한 약속이나 계약, 관계가 파탄날 위험을 경고하는 흉몽입니다. 주변의 중요한 약속이나 파트너십을 다시 한번 점검해볼 필요가 있음을 의미합니다.",
+      "question_en": "What does it mean to dream of a ring breaking?",
+      "answer_en": "A ring breaking or cracking in a dream is an inauspicious warning that a cherished promise, contract, or relationship is at risk of collapse. It is a signal to re-examine and reinforce the important commitments and partnerships in your life."
+    },
+    {
+      "question_ko": "반지를 여러 개 끼는 꿈은 무슨 뜻인가요?",
+      "answer_ko": "여러 개의 반지를 한꺼번에 끼는 꿈은 여러 방면에서 행운이 동시에 찾아오고, 가정과 사업 모두에서 기쁜 소식이 연달아 들어올 것을 암시하는 길몽입니다.",
+      "question_en": "What does it mean to dream of wearing multiple rings at once?",
+      "answer_en": "Wearing multiple rings simultaneously is an auspicious dream indicating good fortune arriving from several directions at once. It foreshadows a succession of positive news in both personal life and work."
+    },
+    {
+      "question_ko": "반지 꿈을 꾸면 로또를 사야 하나요?",
+      "answer_ko": "빛나는 금반지를 받거나 얻는 꿈, 또는 땅에서 금반지를 줍는 꿈은 전통적으로 횡재수를 상징하므로, 복권을 구입해볼 만한 길몽으로 여겨집니다. 다만 반지를 잃거나 부러지는 꿈이라면 해당하지 않습니다.",
+      "question_en": "Should I buy a lottery ticket after dreaming about a ring?",
+      "answer_en": "If you dreamed of receiving or finding a gleaming gold ring, Korean tradition does regard it as a windfall omen — so buying a lottery ticket is considered worth trying. However, this only applies to auspicious ring dreams; dreams of losing or breaking a ring are the opposite."
+    }
+  ]
+}

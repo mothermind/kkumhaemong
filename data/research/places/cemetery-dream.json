@@ -1,0 +1,251 @@
+{
+  "symbol": {
+    "korean": "묘지 꿈",
+    "english": "Dream of a Cemetery",
+    "slug": "cemetery-dream"
+  },
+  "summary": {
+    "korean": "묘지 꿈은 단순한 죽음의 상징을 넘어 선조와의 연결, 삶의 근원적 성찰, 그리고 커다란 변화의 전조를 담고 있으며, 한국 해몽에서는 맥락에 따라 풍요로운 길몽에서 근심의 흉몽까지 다양하게 해석됩니다.",
+    "english": "Cemetery dreams carry meaning far beyond mere death — they evoke ancestral connection, deep reflection on the roots of existence, and portents of significant change. In Korean dream interpretation, they range from auspicious omens of abundance to warnings of trouble, depending closely on context."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "잘 정비된 묘지를 평온하게 거니는 꿈은 조상의 음덕을 받아 운이 상승하는 길몽입니다. 가업이 번창하고 재물이 모이며, 오래된 걱정거리들이 자연스럽게 해결될 좋은 시기가 다가옴을 암시합니다.",
+      "english": "Calmly walking through a well-tended cemetery is an auspicious omen, signaling that ancestral blessings are at work in your favor. It portends a period of growing prosperity, accumulating wealth, and the natural resolution of long-standing worries.",
+      "context": "묘지가 깨끗하고 정돈되어 있으며, 꿈속에서 두려움 없이 편안하게 걸어다니는 상황."
+    },
+    {
+      "type": "길몽",
+      "korean": "조상의 묘를 직접 찾아가 참배하거나 성묘를 하는 꿈은 가문의 기운이 살아나고 집안에 경사가 찾아올 것을 예고하는 길몽입니다. 사업이나 시험에서 좋은 결과를 얻고, 가족 간 화합이 이루어지는 시기가 옵니다.",
+      "english": "Dreaming of visiting and paying respects at an ancestral grave (성묘) is an auspicious omen foretelling that the family's vital energy is reviving and that good fortune is coming to the household. Success in business or examinations and renewed family harmony are indicated.",
+      "context": "직접 조상의 묘소를 찾아가 절하거나 제물을 올리고 묘를 돌보는 꿈."
+    },
+    {
+      "type": "길몽",
+      "korean": "묘지에서 밝은 빛이 솟아오르거나 묘에서 꽃이 만발하게 피어나는 꿈은 매우 강한 길몽으로, 재물운과 명예운이 크게 상승합니다. 예상치 못한 행운이 찾아오거나 오랫동안 추진해 온 일이 성공적으로 마무리될 것을 암시합니다.",
+      "english": "Dreaming of bright light rising from a grave, or of flowers blooming abundantly on a tomb, is a powerful auspicious omen signaling a major rise in wealth and reputation. Unexpected good fortune or the successful conclusion of a long-pursued endeavor is on the horizon.",
+      "context": "묘지에서 빛이 발산하거나 무덤 위에 꽃이 활짝 피어 있는 장면."
+    },
+    {
+      "type": "길몽",
+      "korean": "묘지에서 땅이 열리며 무언가를 꺼내거나 얻는 꿈은 한국 해몽에서 큰 재물이나 뜻밖의 유산, 또는 숨겨진 기회가 펼쳐지는 것을 상징하는 길몽입니다. 비즈니스 협상이나 투자에서 좋은 성과를 거둘 수 있음을 예고합니다.",
+      "english": "Dreaming of the earth opening at a cemetery and receiving or retrieving something from it is a classic auspicious omen in Korean interpretation, symbolizing the emergence of great wealth, an unexpected inheritance, or hidden opportunities coming to light. Good results in business negotiations or investments are foretold.",
+      "context": "묘지나 무덤 속에서 물건이나 재물을 꺼내거나 선물을 받는 꿈."
+    },
+    {
+      "type": "길몽",
+      "korean": "죽은 조상이나 친척이 묘지에서 나타나 기쁘게 반겨주거나 조언을 건네는 꿈은 큰 위기에서 보호받거나 귀인의 도움을 받게 될 것을 암시하는 길몽입니다. 특히 중요한 결정을 앞두고 있다면 조상의 지혜가 올바른 방향을 알려주는 신호로 해석됩니다.",
+      "english": "Dreaming of a deceased ancestor or relative appearing at a cemetery and joyfully greeting or giving advice is an auspicious sign that you will be protected from serious danger or receive assistance from an influential benefactor. If you face an important decision, it is traditionally interpreted as ancestral wisdom guiding you in the right direction.",
+      "context": "고인이 된 조상이나 친척이 묘지에 나타나 웃으며 반기거나 말을 건네는 꿈."
+    },
+    {
+      "type": "흉몽",
+      "korean": "묘지에서 무서운 형상이 나타나거나 쫓기는 꿈은 현실에서 피하고 싶은 문제나 해결되지 않은 갈등이 심리적 압박으로 작용하고 있음을 나타내는 흉몽입니다. 주변과의 관계에서 예상치 못한 분쟁이 생기거나 소중한 것을 잃을 위험이 있으니 주의가 필요합니다.",
+      "english": "Dreaming of a frightening apparition appearing at a cemetery, or being chased there, is an inauspicious omen reflecting unresolved conflicts or problems you are trying to avoid in waking life. It warns of unexpected disputes in relationships or the risk of losing something valuable.",
+      "context": "묘지에서 귀신이나 무서운 존재가 나타나거나 그 존재에게 쫓기는 꿈."
+    },
+    {
+      "type": "흉몽",
+      "korean": "자신의 묘가 파여 있거나 자신의 무덤을 바라보는 꿈은 건강의 악화, 또는 현재의 길이 잘못되어 있음을 경고하는 흉몽입니다. 중요한 일을 서두르지 말고, 건강 상태를 꼼꼼히 점검하며 안전을 최우선으로 삼아야 할 시기임을 알립니다.",
+      "english": "Dreaming of seeing your own grave dug out or staring at your own tombstone is an inauspicious warning of health deterioration, or that your current path may be seriously misguided. It advises against rushing important matters and urges a careful health check-up, putting safety first.",
+      "context": "꿈에서 자신의 묘비나 무덤을 발견하거나 본인의 무덤이 만들어지는 장면을 목격하는 꿈."
+    },
+    {
+      "type": "흉몽",
+      "korean": "묘지가 훼손되거나 무덤이 허물어지는 꿈은 집안에 우환이 생기거나 오랫동안 쌓아온 것들이 무너질 위험을 경고하는 흉몽입니다. 사업이나 대인관계에서 심각한 차질이 생길 수 있으며, 가족 건강에 각별히 신경 써야 할 시기입니다.",
+      "english": "Dreaming of a cemetery being desecrated or a grave crumbling and collapsing is an inauspicious warning of household troubles or the risk of something long-built being destroyed. It cautions of serious setbacks in business or relationships, and signals a time to pay special attention to family health.",
+      "context": "묘지의 비석이 쓰러지거나 무덤이 무너지고 훼손되는 장면이 등장하는 꿈."
+    },
+    {
+      "type": "흉몽",
+      "korean": "낯선 묘지에서 길을 잃거나 헤매는 꿈은 삶의 방향을 잃고 혼란스러운 내면 상태를 반영하는 흉몽으로, 중요한 결정을 앞두고 심한 불안감과 갈등이 있음을 나타냅니다. 충분한 시간을 갖고 신중하게 방향을 재설정하는 것이 필요합니다.",
+      "english": "Dreaming of being lost and wandering through an unfamiliar cemetery is an inauspicious sign reflecting confusion and loss of direction in life. It indicates severe inner anxiety and conflict ahead of important decisions, and advises taking time to carefully reset your course.",
+      "context": "모르는 묘지를 헤매며 출구를 찾지 못하는 꿈."
+    },
+    {
+      "type": "neutral",
+      "korean": "묘지 근처에 서 있거나 바라보기만 하는 꿈은 과거를 돌아보고 삶의 의미를 되새기는 내면의 성찰을 상징하는 중립적인 꿈입니다. 삶의 전환점에서 자주 나타나며, 중요한 변화를 앞두고 내면이 정리의 시간을 요청하고 있다는 신호로 해석됩니다.",
+      "english": "Simply standing near or gazing at a cemetery without entering is a neutral dream symbolizing inner reflection — looking back at the past and reconsidering life's meaning. It often appears at life's turning points, signaling that the psyche is requesting time to process and reorganize ahead of significant change.",
+      "context": "묘지를 멀리서 바라보거나 입구 앞에 서 있지만 들어가지 않는 꿈."
+    },
+    {
+      "type": "neutral",
+      "korean": "묘지에 꽃이나 제물을 올리는 꿈은 고인에 대한 그리움과 지나간 것들에 대한 마음의 정리를 상징하는 꿈입니다. 현실에서 해결되지 않은 감정적 매듭이 있음을 나타내며, 용서나 화해가 필요한 관계를 점검해 보라는 신호이기도 합니다.",
+      "english": "Dreaming of placing flowers or offerings at a grave symbolizes longing for the deceased and an inner need to make peace with things that have passed. It suggests unresolved emotional knots in waking life, and signals that certain relationships may benefit from forgiveness or reconciliation.",
+      "context": "꿈속에서 묘지에 꽃, 제물, 음식 등을 올리는 행위를 하는 꿈."
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "묘지 걷는 꿈",
+      "keyword_en": "dream of walking through a cemetery",
+      "interpretation_ko": "묘지를 편안하게 걷는 꿈은 조상의 보호를 받으며 운이 상승하는 길몽으로 해석됩니다. 두려움 없이 걷는다면 재물운과 건강운이 모두 좋아지는 시기가 가까워졌음을 의미해요. 반면 두려움을 느끼며 걷는다면 현실에서 피하고 싶은 상황이 있거나 심리적 부담이 크다는 뜻으로 풀이됩니다.",
+      "interpretation_en": "Walking comfortably through a cemetery is read as an auspicious omen of ancestral protection and rising fortune. Walking without fear signals an approaching period of improved wealth and health luck. If the walk is accompanied by fear or dread, it reflects a waking desire to avoid a situation or a heavy psychological burden."
+    },
+    {
+      "keyword_ko": "성묘하는 꿈",
+      "keyword_en": "dream of tending an ancestral grave",
+      "interpretation_ko": "성묘하거나 조상의 묘를 돌보는 꿈은 가문의 기운이 되살아나고 가족 전체에 좋은 기운이 깃드는 길몽입니다. 집안의 오랜 문제가 해결되거나 가족 중 경사스러운 일이 생길 것을 예고하며, 사업을 하고 있다면 중요한 계약이나 성과가 기대됩니다.",
+      "interpretation_en": "Dreaming of tending or paying respects at an ancestral grave is an auspicious omen signaling the revival of the family's vital energy and the arrival of good fortune for the entire household. It foretells the resolution of longstanding family problems or a celebratory event within the family; those in business may anticipate an important contract or achievement."
+    },
+    {
+      "keyword_ko": "자신의 묘 보는 꿈",
+      "keyword_en": "dream of seeing your own grave",
+      "interpretation_ko": "자신의 묘비나 무덤을 꿈에서 발견하는 것은 현재의 생활 방식이나 진행 중인 일을 전면 재검토하라는 경고의 꿈입니다. 건강 이상 신호를 무시하고 있다면 지금 당장 점검이 필요하며, 지나친 과로나 무리한 계획을 조정하라는 의미로 해석됩니다.",
+      "interpretation_en": "Discovering your own tombstone or grave in a dream is a cautionary signal to fundamentally re-examine your current lifestyle or ongoing plans. If you have been ignoring health warning signs, this dream urges immediate attention. It is also interpreted as a call to scale back excessive overwork or overambitious plans."
+    },
+    {
+      "keyword_ko": "새 무덤 파는 꿈",
+      "keyword_en": "dream of a new grave being dug",
+      "interpretation_ko": "새 무덤이 파여지는 것을 목격하는 꿈은 주변 가까운 사람에게 변화가 생기거나 관계에서 이별이나 단절이 올 수 있음을 암시합니다. 또는 중요한 일이 마무리되고 새로운 국면이 시작되는 전환의 신호로도 해석됩니다.",
+      "interpretation_en": "Witnessing a new grave being dug in a dream suggests that change is coming to someone close to you, or that a separation or break in a relationship may be approaching. It can also be interpreted as a signal of transition — an important chapter drawing to a close as a new phase begins."
+    },
+    {
+      "keyword_ko": "묘지에서 귀신 만나는 꿈",
+      "keyword_en": "dream of meeting a ghost at a cemetery",
+      "interpretation_ko": "묘지에서 귀신이나 낯선 형상을 만나는 꿈은 억압된 두려움이나 해결되지 않은 과거의 문제가 의식 위로 떠오르는 것을 나타냅니다. 주변의 갈등이나 배신을 경계해야 하는 시기일 수 있으며, 정신적 불안감이 높아져 있는 상태를 반영합니다.",
+      "interpretation_en": "Meeting a ghost or strange figure at a cemetery reflects repressed fears or unresolved past issues surfacing in the psyche. It may signal a period requiring vigilance against conflict or betrayal from those around you, and reflects a heightened state of inner anxiety."
+    },
+    {
+      "keyword_ko": "묘지에 꽃 피는 꿈",
+      "keyword_en": "dream of flowers blooming on graves",
+      "interpretation_ko": "무덤 위에 꽃이 아름답게 피어 있는 꿈은 재물운과 인복이 활짝 열리는 매우 좋은 길몽입니다. 오랫동안 만나지 못했던 귀중한 인연이 되살아나거나, 예상치 못했던 곳에서 기쁜 소식이 날아올 것을 암시합니다.",
+      "interpretation_en": "Seeing flowers blooming beautifully on graves is an excellent auspicious omen heralding a blossoming of wealth luck and fortunate human connections. A precious relationship long lost may revive, or joyful news may arrive from an unexpected source."
+    },
+    {
+      "keyword_ko": "공동묘지 꿈",
+      "keyword_en": "dream of a public cemetery",
+      "interpretation_ko": "넓은 공동묘지가 등장하는 꿈은 집단적 변화나 사회적 전환기를 상징합니다. 직장이나 사회적 소속 집단 내에서 큰 변화나 구조 개편이 있을 것을 예고하기도 하며, 개인적으로는 삶의 목표나 가치관을 재정립하라는 신호로 해석됩니다.",
+      "interpretation_en": "Dreaming of a large public cemetery symbolizes collective change or a period of social transition. It may foretell significant change or restructuring within a workplace or social group, and on a personal level signals the need to redefine life goals or core values."
+    },
+    {
+      "keyword_ko": "무덤에서 빛 나오는 꿈",
+      "keyword_en": "dream of light emanating from a grave",
+      "interpretation_ko": "무덤에서 빛이 솟아오르거나 밝게 빛나는 꿈은 한국 해몽에서 매우 강한 길몽 중 하나입니다. 조상의 음덕이 절정에 이르렀음을 상징하며, 사업, 재물, 시험 등 어떤 분야든 큰 성공을 거두게 될 것을 암시합니다. 특히 로또나 횡재수와 연결 짓는 해석도 있습니다.",
+      "interpretation_en": "Dreaming of light rising from or shining brightly from a grave is one of the strongest auspicious omens in Korean dream tradition. It symbolizes ancestral blessings at their peak, portending great success in business, finances, or examinations — in any domain. Some interpreters connect it specifically to unexpected windfalls or lottery luck."
+    },
+    {
+      "keyword_ko": "묘지에서 죽은 가족 만나는 꿈",
+      "keyword_en": "dream of meeting a deceased family member at a cemetery",
+      "interpretation_ko": "고인이 된 가족이 묘지에 나타나 말을 건네거나 함께 걷는 꿈은 돌아가신 분의 메시지나 보호를 받는 것으로 해석됩니다. 표정이 밝고 인자하면 조상의 음덕으로 좋은 일이 생길 징조이며, 슬프거나 걱정스러운 표정이라면 가족 중 누군가가 어려운 상황에 처할 수 있음을 경고합니다.",
+      "interpretation_en": "Dreaming of a deceased family member appearing at a cemetery and speaking or walking with you is interpreted as receiving a message or protection from the departed. If their expression is bright and kind, it foretells good fortune through ancestral blessings; a sad or worried expression warns that a family member may soon face hardship."
+    },
+    {
+      "keyword_ko": "묘지 이장하는 꿈",
+      "keyword_en": "dream of relocating a grave",
+      "interpretation_ko": "무덤을 이장하거나 옮기는 꿈은 현재의 상황에서 벗어나 새로운 환경으로 이동하는 큰 변화를 상징합니다. 이사, 이직, 거주지 변경 등 주요한 생활 환경의 전환이 곧 이루어질 것을 예고하며, 그 변화가 전반적으로 좋은 방향임을 암시하는 경우가 많습니다.",
+      "interpretation_en": "Dreaming of relocating or exhuming a grave symbolizes a significant transition away from current circumstances into a new environment. It foretells major life changes such as moving homes, changing jobs, or relocating to a new place — and in most interpretations, the change is directionally positive."
+    },
+    {
+      "keyword_ko": "묘지가 밝고 아름다운 꿈",
+      "keyword_en": "dream of a bright and beautiful cemetery",
+      "interpretation_ko": "묘지가 햇살 속에 아름답게 빛나거나 꽃밭처럼 보이는 꿈은 삶과 죽음에 대한 평화로운 수용과 내면의 안정을 나타냅니다. 현재의 상태에서 만족감을 느끼거나 오랫동안 마음에 걸려 있던 일이 편안하게 해결될 것을 예고하는 좋은 꿈입니다.",
+      "interpretation_en": "A cemetery appearing bright, sunlit, or beautiful as a flower garden in a dream represents peaceful acceptance of life and death, and deep inner stability. It signals a sense of contentment with the present, or the approaching, comfortable resolution of something that has long weighed on the mind."
+    }
+  ],
+  "culturalContext": {
+    "korean": "한국 문화에서 묘지(墓地)는 단순히 고인이 묻힌 공간이 아니라 산 자와 죽은 자가 여전히 연결되어 있는 신성한 장소로 여겨집니다. 유교적 세계관과 조상 숭배 전통이 깊이 뿌리내린 한국에서는 선조의 묘를 잘 돌보는 것이 자손 된 도리의 핵심이었으며, 이는 추석(秋夕)과 설날 전후에 행해지는 성묘(省墓) 풍습으로 이어졌습니다. 성묘는 단순한 방문을 넘어 벌초(풀 베기), 음식 제물 올리기, 절하기 등 정성스러운 의례를 포함하며, 조상의 묘가 잘 관리될수록 자손에게 복이 깃든다는 믿음이 민간에 뿌리깊이 자리합니다. 특히 풍수지리(風水地理) 사상은 묘지 선정에 결정적인 영향을 미쳤는데, 산과 물의 기운이 모이는 명당(明堂)에 조상을 모심으로써 그 생기(生氣)가 자손에게까지 흘러들어 가문 전체가 번영한다고 믿었습니다. 이른바 '음택 풍수(陰宅 風水)'로 불리는 이 전통은 오늘날에도 적지 않은 영향력을 가지고 있습니다. 꿈해몽에서 묘지는 이러한 문화적 맥락 위에서 해석됩니다. 조상의 묘를 꿈에서 만나는 것은 단순한 그리움이 아니라 조상의 기운과 음덕(蔭德)이 현실에 영향을 미치고 있다는 신호로 읽히며, 잘 단장된 묘지는 가문의 번영을, 훼손된 묘지는 집안의 불운을 예고합니다.",
+    "english": "In Korean culture, a cemetery (묘지) is far more than a place where the dead are buried — it is regarded as a sacred space where the living and the deceased remain spiritually connected. Rooted in Confucian worldview and deep traditions of ancestral veneration, caring for one's ancestors' graves has long been a fundamental filial duty. This duty is expressed through the custom of 성묘 (seongmyo), grave visits that take place around Chuseok (the autumn harvest festival) and Seollal (Lunar New Year). 성묘 involves far more than a simple visit: it includes clearing weeds from the grave, presenting food offerings, and bowing in formal reverence, all based on the folk belief that well-tended ancestral graves channel blessings down to living descendants. Equally significant is 풍수지리 (feng shui / geomancy), which profoundly shaped how Koreans selected burial sites. Placing ancestors in 명당 — propitious sites where mountain and water energies converge — was believed to channel the earth's vital energy (생기) through the grave and into the fortunes of the entire family line. This practice of 음택 풍수 (geomancy for the dead) continues to influence modern Korean families. In the context of dream interpretation, cemeteries are read through this rich cultural lens: encountering an ancestral grave in a dream signals that the ancestors' energy and blessings (음덕) are actively influencing the dreamer's present circumstances, while a well-tended grave portends family prosperity and a desecrated one warns of misfortune."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트적 관점에서 묘지 꿈은 억압된 죽음 불안(Thanatos)과 삶의 충동(Eros) 사이의 긴장이 무의식에서 표출된 것으로 해석돼요. 무덤은 자아가 인식하기를 거부하는 소멸의 공포를 상징하며, 죽은 조상이나 가족이 등장하는 것은 애도 과정이 완결되지 않았거나 억압된 죄책감과 연결되어 있다고 봅니다. 자신의 묘를 보는 꿈은 자기 처벌 욕구나 깊은 자아 분열의 표현으로 해석될 수 있어요.",
+      "english": "From a Freudian perspective, cemetery dreams express the unconscious tension between the death drive (Thanatos) and the life drive (Eros). The grave symbolizes the fear of annihilation that the ego refuses to consciously acknowledge. The appearance of deceased ancestors or family members points to incomplete mourning or repressed guilt. Seeing one's own grave may be interpreted as an expression of self-punishing impulses or deep ego fragmentation."
+    },
+    "jungian": {
+      "korean": "융의 분석심리학에서 묘지는 '자아의 죽음과 재탄생'이라는 개성화 과정의 핵심 상징입니다. 무덤은 집단 무의식 속 변환의 공간으로, 낡은 자아가 해체되고 더 통합된 새로운 자기(Self)가 출현하는 과정을 상징해요. 묘지에서 조상을 만나는 것은 개인 무의식의 그림자 원형과 조우하거나, 가족 집단 무의식에서 흘러온 원형적 지혜와 연결되는 경험으로 볼 수 있습니다. 특히 한국의 조상 숭배 문화는 융이 말한 '집단 무의식의 원형적 기억'과 매우 깊이 맞닿아 있습니다.",
+      "english": "In Jungian psychology, the cemetery is a central symbol in the individuation process — the death and rebirth of the self. The grave represents the transformative space of the collective unconscious where the old ego dissolves and a more integrated Self emerges. Encountering ancestors at a cemetery can signify confrontation with the shadow archetype or a connection with archetypal wisdom passed down through the family's collective unconscious. Korean ancestral veneration culture resonates deeply with what Jung termed 'archetypal memory within the collective unconscious.'"
+    },
+    "modern": {
+      "korean": "현대 심리학과 신경과학 연구에서 묘지 꿈은 주로 죽음에 대한 인식(mortality salience)이 높아진 시기, 즉 중요한 인물의 상실, 나이 듦, 심각한 질병 진단 등 이후에 빈번하게 나타나는 것으로 알려져 있어요. 이러한 꿈은 뇌가 슬픔과 상실을 처리하는 방식으로 생성되며, 반드시 부정적인 신호가 아니라 치유 과정의 일부로 이해됩니다. 또한 중요한 삶의 전환기 — 졸업, 이직, 이사, 관계 변화 — 에도 자주 등장하며, 이는 '상징적 죽음'으로서 하나의 국면이 끝나고 새로운 시작이 앞에 있음을 암시합니다.",
+      "english": "Modern psychology and neuroscience research show that cemetery dreams become more frequent during periods of heightened mortality salience — after losing an important person, facing aging, or receiving a serious diagnosis. Such dreams are understood as part of the brain's grieving and loss-processing mechanisms, not necessarily negative signals but part of the healing process. They also commonly appear during significant life transitions — graduation, career change, relocation, relationship shifts — symbolizing a 'symbolic death': one chapter ending and a new beginning ahead."
+    },
+    "crossCultural": {
+      "korean": "서양 심리학이 묘지 꿈을 개인의 내면 심리와 죽음 불안의 표현으로 접근하는 반면, 한국 전통 해몽은 묘지를 조상과 자손이 기(氣)를 나누는 살아있는 연결 고리로 봅니다. 서구에서 공동묘지는 흔히 두려움과 기피의 대상이지만, 한국에서는 추석 성묘처럼 온 가족이 함께하는 긍정적 의례의 장소이기도 해요. 멕시코의 '죽은 자들의 날(Día de los Muertos)', 일본의 오봉(お盆) 처럼 동아시아와 라틴아메리카 문화권에서는 공통적으로 죽은 자와의 유대가 살아있는 자의 번영에 직결된다는 세계관을 공유하며, 한국 묘지 꿈의 해석도 이 문화적 흐름 안에 있습니다.",
+      "english": "While Western psychology approaches cemetery dreams primarily through the lens of individual inner psychology and death anxiety, Korean traditional interpretation views the cemetery as a living link through which ancestral and descendant energies (기, ki) are continuously exchanged. Western cultures often associate cemeteries with fear and avoidance, but in Korea they are sites of positive communal ritual — as seen in the festive, family-oriented 성묘 tradition during Chuseok. This worldview, in which bonds with the dead directly shape the fortune of the living, is shared across East Asian and Latin American traditions — Mexico's Día de los Muertos and Japan's Obon (お盆) being parallel expressions. Korean cemetery dream interpretation sits squarely within this cross-cultural current of honoring ancestral connection as a living force."
+    }
+  },
+  "relatedSymbols": [
+    "death-dream",
+    "ancestor-dream",
+    "ghost-dream",
+    "funeral-dream",
+    "grave-dream",
+    "spirit-dream",
+    "old-house-dream",
+    "mountain-dream",
+    "bone-dream",
+    "coffin-dream"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "묘지 꿈해몽",
+      "묘지 꿈 의미",
+      "공동묘지 꿈해몽",
+      "무덤 꿈해몽",
+      "묘지 걷는 꿈",
+      "성묘 꿈해몽",
+      "묘지 꿈 길몽 흉몽",
+      "자신의 묘 보는 꿈",
+      "묘지에서 귀신 만나는 꿈",
+      "무덤에서 빛 나오는 꿈",
+      "묘지 꿈 로또",
+      "조상 묘 꿈해몽",
+      "무덤 꿈 의미",
+      "공동묘지 꿈 길몽"
+    ],
+    "english": [
+      "cemetery dream meaning",
+      "graveyard dream Korean interpretation",
+      "dream about cemetery auspicious",
+      "dreaming of ancestral grave Korean",
+      "cemetery dream good or bad omen",
+      "walking through graveyard dream meaning",
+      "dream of seeing your own grave",
+      "Korean dream interpretation cemetery",
+      "grave dream symbolism Korea",
+      "cemetery dream wealth luck",
+      "ancestral grave dream interpretation",
+      "ghost in cemetery dream meaning"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "묘지 꿈은 무조건 나쁜 꿈인가요?",
+      "answer_ko": "아니에요. 묘지 꿈이 무서운 느낌을 주는 건 사실이지만, 한국 해몽에서 묘지 꿈이 반드시 흉몽은 아닙니다. 묘지가 깨끗하고 꽃이 피어 있거나, 성묘를 하거나, 조상이 밝은 표정으로 나타나는 꿈은 모두 재물운과 가문의 번성을 예고하는 길몽으로 해석돼요. 꿈의 전체적인 분위기와 세부 장면이 중요합니다.",
+      "answer_en": "Not at all. While cemetery dreams can feel unsettling, they are by no means always inauspicious in Korean interpretation. A clean cemetery with blooming flowers, tending an ancestral grave (성묘), or an ancestor appearing with a bright and kind expression — all of these are read as auspicious omens foretelling wealth and family prosperity. The overall atmosphere and specific details of the dream matter greatly.",
+      "question_en": "Is dreaming of a cemetery always a bad sign?"
+    },
+    {
+      "question_ko": "꿈에서 자신의 무덤을 보면 어떻게 해석하나요?",
+      "answer_ko": "자신의 묘를 보는 꿈은 현재의 건강 상태나 생활 방식을 점검하라는 경고성 꿈으로 해석하는 것이 일반적이에요. 과도한 스트레스나 건강을 등한시하고 있다면 실제로 검진을 받아보는 것이 좋습니다. 다만 꿈해몽의 역몽 원리에 따라 새롭게 시작하거나 큰 변화를 앞두고 있다는 신호로 긍정적으로 해석하는 시각도 있으므로, 당시 삶의 상황과 꿈의 분위기를 함께 고려하는 것이 중요합니다.",
+      "answer_en": "Seeing your own grave in a dream is generally interpreted as a cautionary signal to examine your current health and lifestyle. If you have been under excessive stress or neglecting your health, it is advisable to get a check-up. However, applying the Korean reversal principle (역몽), some interpreters read this dream positively as a sign that a major transformation or fresh start is imminent — so it is important to consider the dream's overall tone alongside your current life circumstances.",
+      "question_en": "What does it mean to see my own grave in a dream?"
+    },
+    {
+      "question_ko": "묘지에서 빛이 나오는 꿈은 길몽인가요?",
+      "answer_ko": "네, 매우 강한 길몽 중 하나입니다. 무덤에서 빛이 솟아오르는 꿈은 조상의 음덕이 절정에 이르렀음을 상징하며, 사업 성공, 재물운 상승, 시험 합격 등 전반적으로 큰 행운이 따를 것을 예고합니다. 일부 해몽 전문가들은 이 꿈을 복권 행운이나 뜻밖의 횡재와도 연결 짓기도 해요.",
+      "answer_en": "Yes — it is considered one of the strongest auspicious omens. Light rising from a grave symbolizes ancestral blessings at their peak, foretelling great fortune across all areas: business success, rising wealth, passing examinations. Some dream interpretation specialists also connect this particular dream to lottery luck or unexpected windfalls.",
+      "question_en": "Is dreaming of light coming from a grave an auspicious sign?"
+    },
+    {
+      "question_ko": "추석이나 설 전에 성묘하는 꿈을 꾸면 어떤 의미인가요?",
+      "answer_ko": "명절 전후에 성묘하는 꿈을 꾸는 것은 조상과의 연결을 의식이 강조하는 것으로, 가족 간의 화합과 집안의 안녕을 기원하는 내면의 의지가 반영된 꿈이에요. 꿈해몽에서는 성묘 꿈을 가문의 운이 올라가고 뜻밖의 경사나 재물이 들어올 좋은 징조로 해석합니다.",
+      "answer_en": "Dreaming of visiting graves around Chuseok or Seollal reflects your consciousness emphasizing the connection with ancestors, and mirrors an inner wish for family harmony and household wellbeing. In Korean dream interpretation, such a dream is a good omen foretelling the family's rising fortune and an unexpected celebratory event or increase in wealth.",
+      "question_en": "What does it mean to dream of visiting an ancestral grave around Chuseok or Seollal?"
+    },
+    {
+      "question_ko": "묘지에서 귀신을 만나는 꿈은 어떻게 해석하나요?",
+      "answer_ko": "묘지에서 귀신을 만나거나 쫓기는 꿈은 현실에서 억누르고 있던 두려움이나 해결되지 않은 과거의 상처가 표면으로 올라온 것을 나타냅니다. 주변 관계에서 갈등이 심화되거나 예상치 못한 방해가 생길 수 있음을 경고하는 흉몽으로 해석되는 경우가 많아요. 꿈속 귀신이 아는 사람의 모습이라면 해당 인물과의 관계를 점검해 볼 필요가 있습니다.",
+      "answer_en": "Dreaming of encountering a ghost or being chased at a cemetery indicates that suppressed fears or unresolved past wounds are surfacing. It is frequently interpreted as an inauspicious warning that conflicts in relationships may intensify or that unexpected interference may arise. If the ghost takes the form of a recognizable person, it is worth examining your relationship with that individual.",
+      "question_en": "What does it mean to encounter a ghost at a cemetery in a dream?"
+    },
+    {
+      "question_ko": "묘지 꿈이 태몽이 될 수 있나요?",
+      "answer_ko": "일반적으로 묘지 꿈 자체가 태몽으로 직접 해석되지는 않지만, 꿈속에서 묘지에 꽃이 만발하거나 밝은 빛이 뿜어져 나오는 등 강한 생명력이 느껴지는 장면과 결합될 경우 강한 기운을 가진 아이의 태몽으로 해석하는 사례가 있습니다. 임신 중이거나 임신을 준비 중이라면 전문 해몽가와 상담하는 것이 더 정확한 해석에 도움이 됩니다.",
+      "answer_en": "Cemetery dreams are not typically interpreted as pregnancy omens (태몽) on their own. However, if the dream combines the cemetery setting with powerful images of vitality — such as abundant blooming flowers or radiant light pouring forth — some interpreters read it as a conception dream foretelling a child of exceptional spiritual energy. Those who are pregnant or trying to conceive are best served by consulting a dream specialist for a more nuanced reading.",
+      "question_en": "Can a cemetery dream be a pregnancy omen (태몽)?"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "symbol": {
+    "korean": "모닥불",
+    "english": "Campfire",
+    "slug": "campfire-dream"
+  },
+  "summary": {
+    "korean": "모닥불 꿈은 전통적으로 사람들과의 협력과 운기 상승을 상징하며, 불꽃의 상태에 따라 길몽과 흉몽이 나뉩니다.",
+    "english": "Dreaming of a campfire traditionally symbolizes rising fortune and cooperation with others, with the fire's condition determining whether the omen is auspicious or cautionary."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "모닥불이 활활 잘 타오르는 꿈은 강한 길몽입니다. 주변 사람들과 협력하여 목표를 이루고 사업이나 하는 일이 번창할 징조입니다. 여럿이 모닥불에 둘러앉아 따뜻하게 지내는 꿈은 자신의 일이 세상에 알려지고 명성을 얻게 되는 것을 의미하며, 재물운과 대인관계 모두 좋아진다고 봅니다.",
+      "english": "A campfire burning brightly and strongly is a powerful good omen. It signals that cooperation with those around you will lead to goal achievement and flourishing in business or career. Dreaming of sitting warmly around a campfire with others signifies that your work will become recognized in the world and you will gain a good reputation, with both wealth and relationships improving.",
+      "context": "When the campfire burns steadily and brightly, and especially when others are present around it sharing in its warmth."
+    },
+    {
+      "type": "흉몽",
+      "korean": "모닥불이 꺼져 있거나 도중에 저절로 꺼지는 꿈은 흉몽입니다. 진행 중인 사업이나 일에 난관이 닥치거나, 인간관계에 갈등과 문제가 생길 수 있음을 경고합니다. 열정과 에너지가 소진되어 우울감이나 실망감을 경험할 수 있으니 언행에 각별히 주의해야 합니다.",
+      "english": "Dreaming of a campfire that is already extinguished or that goes out on its own is an inauspicious sign. It warns of obstacles coming in ongoing projects or business, and potential conflicts in personal relationships. It may also indicate a period of depleted passion and energy, possibly leading to feelings of depression or disappointment, making it important to be careful in words and actions.",
+      "context": "When the campfire is out, dying, or extinguished during the dream — particularly if the dreamer tried to keep it burning but failed."
+    },
+    {
+      "type": "neutral",
+      "korean": "모닥불을 혼자 피우는 꿈은 자기 자신의 내면 에너지와 독립심을 나타냅니다. 하고 싶은 일을 스스로 시작하는 용기를 상징하지만, 주변 사람들의 협조 없이 혼자 분투하는 상황일 수도 있음을 시사합니다. 꿈속에서의 감정과 주변 환경에 따라 해석이 달라집니다.",
+      "english": "Dreaming of lighting a campfire alone reflects one's inner energy and independence. It symbolizes the courage to start what one wants to do, but may also suggest a period of struggling without the support of others. The interpretation depends heavily on the emotions felt and the surrounding environment in the dream.",
+      "context": "When the dreamer is alone at the campfire, neither clearly thriving nor in danger — the emotional tone of the dream is the determining factor."
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "여럿이 모닥불에 둘러앉는 꿈",
+      "keyword_en": "sitting around campfire with others dream",
+      "interpretation_ko": "여럿이 함께 모닥불을 둘러싸고 앉아 있는 꿈은 자신의 사업이나 일이 번성하여 세상에 알려지는 것을 의미합니다. 협력과 공동체의 힘으로 큰 성취를 이루게 될 길몽입니다. 새로운 인연이 생기거나 중요한 협력자를 만날 수도 있습니다.",
+      "interpretation_en": "Dreaming of sitting around a campfire with others is a strong auspicious omen indicating that your work or business will flourish and gain recognition. It represents achievement through cooperation and community strength. New meaningful relationships or an important collaborator may also come into your life."
+    },
+    {
+      "keyword_ko": "모닥불이 꺼지는 꿈",
+      "keyword_en": "campfire going out dream",
+      "interpretation_ko": "타오르던 모닥불이 꺼지는 꿈은 진행 중인 일이 난관에 봉착하거나 협력 관계에 균열이 생길 수 있음을 경고합니다. 사업 부진, 인간관계 갈등, 또는 기대했던 일이 무산될 가능성이 있으므로 주의가 필요합니다.",
+      "interpretation_en": "A campfire going out in a dream warns of obstacles arising in ongoing projects or cracks forming in cooperative relationships. It suggests the possibility of business difficulties, interpersonal conflicts, or the collapse of plans that were hoped for — a sign to proceed with caution."
+    },
+    {
+      "keyword_ko": "숲속에서 모닥불 피우는 꿈",
+      "keyword_en": "campfire in forest dream",
+      "interpretation_ko": "숲이나 야산에서 모닥불을 피우는 꿈은 새로운 환경이나 낯선 상황에 적응하면서 자신만의 방식으로 발판을 마련하는 것을 상징합니다. 험난한 여정 속에서도 스스로를 지키는 힘을 갖게 되는 길몽으로 해석되기도 합니다.",
+      "interpretation_en": "Dreaming of building a campfire in a forest or wilderness symbolizes finding your own footing while adapting to new or unfamiliar circumstances. It can be interpreted as an auspicious sign of gaining the inner strength to protect yourself even through difficult journeys."
+    },
+    {
+      "keyword_ko": "모닥불에 손을 쬐는 꿈",
+      "keyword_en": "warming hands at campfire dream",
+      "interpretation_ko": "모닥불 가까이에서 손을 따뜻하게 쬐는 꿈은 불안하거나 추웠던 상황이 곧 안정되고 위안을 얻게 됨을 나타냅니다. 정서적 위안과 안도감을 상징하며, 오랜 고생 끝에 좋은 결과가 찾아올 것임을 암시하는 길몽입니다.",
+      "interpretation_en": "Dreaming of warming your hands at a campfire suggests that an anxious or difficult period is about to settle into stability and comfort. It symbolizes emotional consolation and relief, serving as an auspicious sign that good results will follow a long period of hardship."
+    },
+    {
+      "keyword_ko": "밤에 모닥불 피우는 꿈",
+      "keyword_en": "campfire at night dream",
+      "interpretation_ko": "어두운 밤에 모닥불을 피우는 꿈은 불확실하고 어두운 상황 속에서도 희망과 방향성을 잃지 않음을 의미합니다. 주변을 밝히는 불빛처럼 자신이 주변 사람들에게 긍정적인 영향을 주는 리더 역할을 하게 될 것을 암시합니다.",
+      "interpretation_en": "Dreaming of a campfire burning in the dark of night means retaining hope and direction even amid uncertain, difficult circumstances. Like a fire illuminating the surroundings, it suggests you will take on a leadership role that positively influences those around you."
+    }
+  ],
+  "culturalContext": {
+    "korean": "한국 전통 민속에서 불은 단순한 열원이 아니라 신성한 정화(淨化)의 힘을 지닌 존재로 여겨졌습니다. 특히 정월 대보름의 '달집태우기' 세시풍속은 마을 사람들이 함께 모여 달집에 불을 피워 액운을 쫓고 한 해의 풍년과 건강을 기원하는 공동체 의식이었습니다. 잘 타오르는 불은 풍년의 징조, 불이 도중에 꺼지면 흉년의 조짐으로 점치기도 했습니다. 무속 신앙에서도 불은 굿판에서 잡귀를 쫓고 신령을 불러들이는 의식에 사용되었으며, 마을 수호신에게 바치는 제의의 핵심 요소였습니다. 이러한 전통에서 모닥불은 공동체의 단합, 희망, 정화, 그리고 신과의 소통을 상징하는 깊은 문화적 의미를 지닙니다. 꿈속의 모닥불 역시 이러한 전통적 상징체계를 이어받아 협력과 운기 상승을 나타내는 이미지로 해석됩니다.",
+    "english": "In Korean traditional folk culture, fire was regarded not merely as a heat source but as a sacred force of purification. The 'daljibtaeugi' (burning the moon house) ritual held during Jeongwol Daeboreum — the first full moon of the lunar year — was a communal ceremony in which villagers gathered to set fire to a structure made of straw and wood, driving away misfortune and praying for a prosperous harvest and good health for the year. A fire that burned well was seen as an omen of abundance; one that went out prematurely signaled hardship. In shamanistic (musok) tradition, fire was central to gut (ritual ceremonies) as a means of repelling evil spirits and inviting divine presences. The campfire thus carries deep cultural weight in Korea as a symbol of community solidarity, hope, purification, and communication with the spiritual world — meanings that carry directly into dream interpretation."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트 정신분석학에서 불은 억압된 욕망과 리비도적 에너지의 상징으로 해석돼요. 모닥불처럼 통제된 불은 사회적 규범 안에서 관리되는 욕구를 나타내며, 여럿이 함께하는 모닥불 꿈은 타인과의 친밀감을 향한 무의식적 갈망을 반영할 수 있어요. 불을 피우거나 유지하는 행위는 성적 에너지나 창조적 충동을 표현하고자 하는 욕구의 상징으로도 볼 수 있어요.",
+      "english": "In Freudian psychoanalysis, fire represents repressed desire and libidinal energy. A controlled fire like a campfire symbolizes desires managed within social norms, and dreaming of a campfire shared with others may reflect an unconscious longing for intimacy. The act of building or maintaining a fire can also symbolize the drive to express sexual energy or creative impulses."
+    },
+    "jungian": {
+      "korean": "융의 분석심리학에서 불은 변환(transformation)과 개성화(individuation)의 원형적 상징이에요. 모닥불은 집단 무의식 속의 '자기(Self)' 원형과 연결되며, 어둠 속에서 빛을 발하는 불꽃은 의식의 확장과 내면의 지혜를 나타내요. 여럿이 둘러앉는 모닥불 꿈은 공동체적 원형(collective archetype), 즉 인류 보편의 유대감과 소속감의 원초적 이미지를 불러일으킨다고 볼 수 있어요.",
+      "english": "In Jungian analytical psychology, fire is an archetypal symbol of transformation and individuation. The campfire connects to the 'Self' archetype in the collective unconscious, and fire shining in darkness represents the expansion of consciousness and inner wisdom. Dreaming of a campfire surrounded by people evokes the communal archetype — a primal image of universal human belonging and solidarity."
+    },
+    "modern": {
+      "korean": "현대 심리학 및 신경과학 관점에서 모닥불 꿈은 사회적 연결에 대한 욕구나 안전감을 향한 심리적 갈망을 반영할 수 있어요. 스트레스나 고립감을 느끼는 시기에 따뜻한 불 주변에 모인 사람들의 이미지가 꿈으로 나타나는 것은 자연스러운 심리적 보상 기제예요. 인류의 진화적 역사에서 불은 집단의 생존과 직결되었기 때문에, 뇌는 불과 안전·공동체를 강하게 연관 짓도록 형성되어 있어요.",
+      "english": "From the perspective of modern psychology and neuroscience, campfire dreams may reflect a psychological need for social connection or a longing for safety. During periods of stress or isolation, the image of people gathered around a warm fire is a natural compensatory mechanism. Because fire was central to collective survival throughout human evolutionary history, the brain has a deep-seated association between fire, safety, and community."
+    },
+    "crossCultural": {
+      "korean": "한국 전통 해몽이 모닥불을 공동체의 협력과 운기 상승의 상징으로 보는 반면, 서양 심리학은 같은 이미지에서 개인의 내면 변환과 원시적 안전 욕구를 읽어내요. 두 전통 모두 불이 긍정적 에너지와 공동체적 유대를 나타낸다는 점에서는 일치합니다.",
+      "english": "While Korean traditional dream interpretation sees the campfire as a symbol of communal cooperation and rising fortune, Western psychology reads the same image as an expression of personal inner transformation and primal safety needs. Both traditions converge on fire as a representation of positive energy and communal bonds."
+    }
+  },
+  "relatedSymbols": [
+    "fire",
+    "bonfire",
+    "candle",
+    "hearth",
+    "forest",
+    "night-sky",
+    "warmth"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "모닥불 꿈해몽",
+      "모닥불 꿈",
+      "모닥불 꿈 의미",
+      "모닥불 꿈 길몽",
+      "불 꿈해몽",
+      "불 꿈 의미",
+      "불 꺼지는 꿈",
+      "모닥불에 손 쬐는 꿈",
+      "여럿이 불 둘러앉는 꿈",
+      "숲속 모닥불 꿈",
+      "밤에 불 피우는 꿈",
+      "모닥불 꿈해몽 길흉"
+    ],
+    "english": [
+      "campfire dream meaning",
+      "dream about campfire",
+      "campfire dream korean interpretation",
+      "campfire going out dream meaning",
+      "sitting around campfire dream",
+      "fire dream meaning korean",
+      "warming by fire dream interpretation",
+      "campfire in forest dream meaning",
+      "campfire at night dream",
+      "fire dream 길몽"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "모닥불 꿈은 길몽인가요 흉몽인가요?",
+      "answer_ko": "모닥불이 활활 잘 타오르는 꿈은 대체로 길몽으로, 협력과 운기 상승을 나타냅니다. 반면 불이 꺼져 있거나 도중에 꺼지는 꿈은 흉몽으로 해석되며 인간관계 갈등이나 사업 난관을 암시합니다. 불꽃의 상태가 해석의 핵심입니다.",
+      "question_en": "Is dreaming of a campfire a good or bad omen?",
+      "answer_en": "A campfire burning brightly is generally a good omen symbolizing cooperation and rising fortune. However, if the campfire is extinguished or goes out during the dream, it is considered an inauspicious sign warning of relationship conflicts or business difficulties. The state of the flames is the key to interpretation."
+    },
+    {
+      "question_ko": "여럿이 모닥불에 둘러앉는 꿈은 무슨 의미인가요?",
+      "answer_ko": "여럿이 함께 모닥불을 둘러싸고 앉는 꿈은 자신의 사업이나 일이 번성하여 세상에 널리 알려지게 되는 길몽입니다. 협력 관계가 강화되고 새로운 인연을 만나게 될 수 있으며, 명성이나 사회적 인정을 얻게 될 것을 암시합니다.",
+      "question_en": "What does it mean to dream of sitting around a campfire with others?",
+      "answer_en": "Dreaming of sitting around a campfire with a group of people is an auspicious omen indicating your work or business will flourish and gain wide recognition. It suggests cooperative relationships will strengthen, new meaningful people may enter your life, and you may receive social recognition or prestige."
+    },
+    {
+      "question_ko": "모닥불이 꺼지는 꿈을 꿨는데 어떻게 해야 하나요?",
+      "answer_ko": "모닥불이 꺼지는 꿈은 진행 중인 일에 어려움이 올 수 있음을 경고하는 꿈입니다. 사업이나 대인관계에서 신중하게 행동하고, 갈등의 소지가 있는 상황을 미리 점검해보는 것이 좋습니다. 언행에 주의하고 주변 협력자들과의 관계를 점검해보세요.",
+      "question_en": "I dreamed that a campfire went out — what should I do?",
+      "answer_en": "A dream of a campfire going out is a warning that difficulties may arise in ongoing projects or relationships. It is advisable to act carefully in business and personal matters, proactively check for potential sources of conflict, and review your relationships with collaborators. Be mindful of your words and actions."
+    },
+    {
+      "question_ko": "밤에 모닥불 피우는 꿈은 어떤 의미인가요?",
+      "answer_ko": "밤처럼 어두운 상황에서 모닥불을 피우는 꿈은 희망을 잃지 않고 주변을 이끄는 리더십의 상징입니다. 불확실하고 힘든 시기에도 방향을 찾아 나아가며, 주변 사람들에게 긍정적인 영향을 미치게 될 것을 암시합니다.",
+      "question_en": "What is the meaning of dreaming about a campfire at night?",
+      "answer_en": "Lighting a campfire in the dark of night in a dream symbolizes leadership and hope that refuses to be extinguished by difficult circumstances. It suggests you will find your direction even in uncertain times and that you will have a positive, illuminating influence on those around you."
+    },
+    {
+      "question_ko": "모닥불 꿈이 태몽이 될 수 있나요?",
+      "answer_ko": "불에 관한 꿈은 태몽으로 해석되기도 합니다. 활활 타오르는 불이나 밝게 빛나는 모닥불 꿈은 밝고 강한 기운을 가진 아이가 태어날 것을 암시하는 태몽으로 볼 수 있습니다. 다만 태몽 여부는 꿈의 선명함과 강렬한 인상이 함께 동반되는지가 중요합니다.",
+      "question_en": "Can a campfire dream be a pregnancy dream (태몽)?",
+      "answer_en": "Fire-related dreams can indeed be interpreted as pregnancy dreams (taeong). A vivid dream of a brightly burning campfire may be seen as foretelling the birth of a child with a strong and luminous spirit. However, the key indicator of a true taeong is the unusual vividness and emotional intensity of the dream itself."
+    },
+    {
+      "question_ko": "모닥불에 손을 쬐는 꿈은 길몽인가요?",
+      "answer_ko": "네, 모닥불 가까이에서 손이나 몸을 따뜻하게 쬐는 꿈은 길몽으로 해석됩니다. 불안하거나 힘들었던 시기가 지나고 안정과 위안이 찾아올 것을 의미하며, 오랜 노력 끝에 따뜻한 결실을 맺게 될 것을 암시합니다.",
+      "question_en": "Is dreaming of warming your hands at a campfire a good omen?",
+      "answer_en": "Yes, dreaming of warming your hands or body at a campfire is considered a good omen. It means that a period of anxiety or hardship is coming to an end and stability and comfort are on their way, suggesting that long efforts will soon yield warm and rewarding results."
+    }
+  ]
+}

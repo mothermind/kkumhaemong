@@ -1,0 +1,227 @@
+{
+  "symbol": {
+    "korean": "자살하는 꿈",
+    "english": "Dream of Suicide",
+    "slug": "suicide-dream"
+  },
+  "summary": {
+    "korean": "자살하는 꿈은 한국 전통 꿈해몽에서 현재의 자신에서 벗어나 새롭게 거듭나고 싶은 강렬한 변화의 욕구를 상징하며, 상황에 따라 길몽 또는 흉몽으로 해석됩니다.",
+    "english": "Dreaming of suicide in Korean traditional interpretation symbolizes a powerful desire for transformation and rebirth, shedding one's current identity, and can be auspicious or inauspicious depending on context."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "자살하는 꿈은 전통적으로 죽음 자체가 아닌 '재탄생'의 상징으로 봅니다. 꿈속에서 자신이 자살하는 것은 지금의 나 자신에게 깊은 불만을 품고 있으며, 완전히 새로운 사람으로 다시 태어나고 싶다는 강한 의지를 나타냅니다. 실제로 총이나 물 속에서 자살하는 꿈, 혹은 자살을 마무리 짓는 꿈은 운세가 상승하고 새로운 출발을 알리는 길조로 해석됩니다.",
+      "english": "In traditional Korean dream interpretation, suicide in a dream is read not as death but as symbolic rebirth. Dreaming of one's own suicide — particularly by gun, in water, or completed without interruption — signals a turning point: old circumstances dissolve and fortune rises. The act represents a decisive shedding of the old self to make way for transformation and new beginnings.",
+      "context": "When the dreamer successfully completes the act, when it involves firearms, water, or results in rising fortune imagery — interpreted as a powerful omen of renewal, career change, or improved luck."
+    },
+    {
+      "type": "흉몽",
+      "korean": "자살 시도가 실패로 끝나거나, 가족이나 연인이 자살하는 광경을 목격하는 꿈은 흉몽으로 풀이됩니다. 가족이 자살하는 꿈은 가족 관계의 악화나 소통 단절을 경고하고, 연인이 자살하는 꿈은 관계에 부담을 느끼거나 이별의 가능성을 암시합니다. 자살을 강요당하는 꿈은 현실에서 심리적 압박이 매우 심하다는 신호이며, 주변의 도움이 필요함을 나타냅니다.",
+      "english": "An interrupted or failed suicide attempt in a dream is an inauspicious sign — it suggests a desire for change that lacks the resolve or opportunity to materialize. Witnessing family members' suicide warns of deteriorating family bonds and blocked communication. Being coerced into suicide signals excessive psychological pressure in waking life requiring outside support.",
+      "context": "When the suicide attempt fails, when family or a romantic partner is the subject, when the dreamer is forced against their will — signals relational strain, emotional burden, or stalled transformation."
+    },
+    {
+      "type": "neutral",
+      "korean": "자살하는 꿈은 반드시 현실의 심리 상태를 그대로 반영하는 것은 아니지만, 극심한 스트레스나 현 상황에서 탈출하고 싶다는 심리적 욕구의 표현일 수 있습니다. 꿈의 세부 정황—누가 자살하는지, 어떤 방법인지, 결말이 어떻게 되는지—에 따라 길흉이 달라지므로, 꿈 내용 전체를 살피는 것이 중요합니다.",
+      "english": "Not all suicide dreams carry a definitive auspicious or inauspicious verdict — the specific details matter greatly. The identity of the person, the method, and the outcome all shift the meaning. This dream type primarily reflects a psychological need to break free from constraints or current circumstances, and interpretation depends heavily on the full context of the dream narrative.",
+      "context": "When the dream involves ambiguous outcomes, unfamiliar people, or situations where neither clear fortune nor misfortune is signaled — the dream primarily reflects the dreamer's inner emotional state and desire for change."
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "내가 자살하는 꿈",
+      "keyword_en": "dreaming of committing suicide yourself",
+      "interpretation_ko": "자기 자신에 대한 불만과 새로운 자아로 거듭나고 싶다는 강한 의지를 나타냅니다. 운세 상승과 새로운 출발을 알리는 길몽으로 풀이됩니다.",
+      "interpretation_en": "Reflects deep dissatisfaction with one's current self and a strong will to become someone new. Interpreted as an auspicious omen of rising fortune and a fresh start."
+    },
+    {
+      "keyword_ko": "총으로 자살하는 꿈",
+      "keyword_en": "dreaming of shooting yourself",
+      "interpretation_ko": "부귀영화를 누리게 될 길몽입니다. 권력 있는 인물의 도움을 받아 목표를 성취하게 될 것임을 암시합니다.",
+      "interpretation_en": "A strongly auspicious dream signaling prosperity and success. Suggests achieving goals with the help of a powerful person or authority figure."
+    },
+    {
+      "keyword_ko": "목매서 자살하는 꿈",
+      "keyword_en": "dreaming of hanging yourself",
+      "interpretation_ko": "정서적 불안정과 감정 통제의 어려움을 반영합니다. 꿈속에서 죽음으로 마무리되면 오히려 운세가 호전되는 길조로 봅니다.",
+      "interpretation_en": "Reflects emotional instability and difficulty managing feelings. If the act is completed in the dream, it is considered a sign that fortune will improve over time."
+    },
+    {
+      "keyword_ko": "칼로 자살하는 꿈",
+      "keyword_en": "dreaming of cutting yourself to death",
+      "interpretation_ko": "사랑에 대한 회한과 감정적 갈등을 상징합니다. 솔직한 대화를 통해 갈등을 해소하면 관계가 더 나아질 것임을 암시하는 길몽입니다.",
+      "interpretation_en": "Symbolizes regret in love and emotional conflict. Considered auspicious — honest communication will resolve the conflict and improve relationships."
+    },
+    {
+      "keyword_ko": "손목을 그어 자살하는 꿈",
+      "keyword_en": "dreaming of cutting wrists to suicide",
+      "interpretation_ko": "현재의 관계나 상황과의 결별을 원하는 심리를 반영합니다. 완수되는 꿈이라면 성공적인 변화와 새로운 시작을 의미합니다.",
+      "interpretation_en": "Reflects a desire to sever ties with a current situation or relationship. If completed, it signals a successful transformation and a positive new beginning."
+    },
+    {
+      "keyword_ko": "투신자살하는 꿈",
+      "keyword_en": "dreaming of jumping to your death",
+      "interpretation_ko": "기존의 사업이나 일을 완전히 포기하고 새로운 방향으로 나아가게 됨을 의미하는 길몽입니다. 오래된 짐을 내려놓고 새출발함을 상징합니다.",
+      "interpretation_en": "An auspicious sign of leaving behind old ventures or burdens to pursue a completely new direction. Symbolizes releasing the weight of the past to start fresh."
+    },
+    {
+      "keyword_ko": "약 먹고 자살하는 꿈",
+      "keyword_en": "dreaming of poisoning yourself",
+      "interpretation_ko": "가치관과 세계관의 큰 변화를 예고합니다. 숨겨진 재능을 발견하거나 유용한 방법으로 성공에 이르게 될 것을 암시하는 길몽입니다.",
+      "interpretation_en": "Portends a major shift in values and worldview. An auspicious omen suggesting discovery of hidden talents or achieving success through a newly found method."
+    },
+    {
+      "keyword_ko": "불질러서 자살하는 꿈",
+      "keyword_en": "dreaming of self-immolation",
+      "interpretation_ko": "인생의 중요한 전환점을 맞이하게 됨을 의미합니다. 힘든 상황이 끝나고 새로운 시작이 찾아올 것을 예고하는 길몽입니다.",
+      "interpretation_en": "Signals a major turning point in life. Auspicious — difficult circumstances are ending and new beginnings are approaching."
+    },
+    {
+      "keyword_ko": "동반자살하는 꿈",
+      "keyword_en": "dreaming of double suicide with someone",
+      "interpretation_ko": "상대방에 대한 지나친 의존심을 경계하라는 경고입니다. 타인의 판단에 과도하게 의지하지 말 것을 암시하는 흉몽입니다.",
+      "interpretation_en": "A warning against excessive dependency on another person. Inauspicious — suggests you are over-relying on someone else's judgment rather than trusting your own."
+    },
+    {
+      "keyword_ko": "가족이 자살하는 꿈",
+      "keyword_en": "dreaming of a family member committing suicide",
+      "interpretation_ko": "가족 관계의 악화나 소통 단절을 경고하는 꿈입니다. 가족 간에 솔직한 대화가 필요하다는 신호로 해석됩니다.",
+      "interpretation_en": "Warns of deteriorating family relationships and communication breakdowns. A sign that honest and open dialogue with family members is urgently needed."
+    },
+    {
+      "keyword_ko": "어머니가 자살하는 꿈",
+      "keyword_en": "dreaming of your mother committing suicide",
+      "interpretation_ko": "주변 환경에 큰 긍정적 변화가 다가오고 있음을 예고하는 길몽입니다.",
+      "interpretation_en": "An auspicious omen signaling that significant positive changes in your surroundings are on the way."
+    },
+    {
+      "keyword_ko": "형제자매가 자살하는 꿈",
+      "keyword_en": "dreaming of a sibling committing suicide",
+      "interpretation_ko": "취업, 승진, 재물 획득, 경사스러운 가정 소식 등 좋은 일이 생길 것을 예고하는 길몽입니다.",
+      "interpretation_en": "An auspicious dream predicting good news — employment, promotion, financial gain, or a joyful family event."
+    },
+    {
+      "keyword_ko": "연인이 자살하는 꿈",
+      "keyword_en": "dreaming of a romantic partner committing suicide",
+      "interpretation_ko": "꿈속에서 슬픔을 느꼈다면 상대에 대한 깊은 애정을 의미하고, 무감각했다면 감정이 식어가고 있다는 경고입니다.",
+      "interpretation_en": "If sadness was felt in the dream, it reflects deep affection for the partner. If the dreamer felt unmoved, it is a warning that feelings may be fading."
+    },
+    {
+      "keyword_ko": "자살 시도가 실패하는 꿈",
+      "keyword_en": "dreaming of a failed suicide attempt",
+      "interpretation_ko": "변화를 원하지만 실행에 옮길 결단력이나 기회가 부족한 상태를 반영합니다. 지금은 시기를 기다리는 것이 현명하다는 신호입니다.",
+      "interpretation_en": "Reflects a desire for change without the resolve or opportunity to act on it. Suggests that waiting for the right moment is wiser than forcing action now."
+    },
+    {
+      "keyword_ko": "자살을 막는 꿈",
+      "keyword_en": "dreaming of preventing someone's suicide",
+      "interpretation_ko": "주변과의 좋은 관계를 나타내며, 어려울 때 제3자의 도움을 받게 될 것임을 암시하는 길몽입니다.",
+      "interpretation_en": "Reflects good relationships with those around you and is an auspicious sign that help will arrive from others when you need it most."
+    },
+    {
+      "keyword_ko": "모르는 사람이 자살하는 꿈",
+      "keyword_en": "dreaming of a stranger committing suicide",
+      "interpretation_ko": "꿈꾼 사람 자신에게 큰 변화가 다가오고 있음을 뜻하며, 운세 상승과 연애운 향상을 암시하는 길몽입니다.",
+      "interpretation_en": "Signifies that major changes are coming for the dreamer. An auspicious omen of rising fortune and improving romantic luck."
+    }
+  ],
+  "culturalContext": {
+    "korean": "한국의 전통 꿈해몽에서 '죽음'이 등장하는 꿈은 실제 사망을 예고하는 것이 아니라, 오래된 것의 끝과 새로운 것의 시작을 상징하는 강렬한 변화의 징조로 해석되는 경우가 많습니다. 자살하는 꿈 역시 이 맥락에서 이해됩니다. 한국 무속 신앙과 민간 신앙에서는 꿈속의 죽음이 '탈바꿈(환생)'의 은유로 여겨지며, 현실의 고통에서 벗어나 새로운 생을 맞이하는 긍정적 전환으로 해석될 수 있습니다. 특히 자신이 직접 죽는 꿈은 지금의 자아가 소멸하고 더 나은 자아로 재탄생하는 상징적 의례로 봅니다. 다만 가족이나 연인의 죽음이 등장할 경우에는 해당 관계의 위기나 변화를 경고하는 메시지로 해석하기도 합니다. 유교적 맥락에서 죽음은 매우 중요하고 엄숙한 사안으로, 꿈속에서도 가족의 죽음은 가정의 변화나 소통 문제를 상징하는 무거운 신호로 받아들여집니다.",
+    "english": "In Korean traditional dream interpretation, death-related dreams are rarely read as literal omens of actual death. Instead, they are most commonly understood as metaphors for profound transformation — the end of an old chapter and the beginning of a new one. This framework draws on Korean shamanic traditions (무속 신앙), in which the imagery of dying in a dream is treated as a symbolic rebirth ritual: the old self is shed so that a new, better self can emerge. Suicide dreams specifically often carry an element of agency and will — the dreamer consciously chooses change — making them particularly powerful symbols of personal transformation rather than passivity. When others appear in suicide dreams, especially family members, Confucian values around family harmony add weight to the interpretation: such dreams are read as warnings about relational strain and the urgent need for communication and reconciliation."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트는 꿈속의 죽음이나 자살 이미지를 억압된 욕망과 무의식적 갈등의 표현으로 해석했어요. 자살하는 꿈은 자기 처벌의 욕구, 즉 죄책감이나 수치심에서 비롯된 자아를 향한 공격성을 나타낼 수 있어요. 프로이트의 관점에서 이런 꿈은 꿈꾸는 사람이 의식적으로 인정하기 어려운 내면의 분노나 좌절을 자기 자신에게 돌리는 방어 기제로 볼 수 있어요.",
+      "english": "Freud interpreted death and suicide imagery in dreams as expressions of repressed desires and unconscious conflict. A suicide dream may represent self-punishing impulses — aggression turned inward due to guilt, shame, or repressed rage. From a Freudian perspective, such dreams are a defense mechanism through which feelings the dreamer cannot consciously acknowledge are redirected toward the self."
+    },
+    "jungian": {
+      "korean": "융은 꿈속의 자살을 개인의 심리적 죽음과 재탄생, 즉 개성화(individuation) 과정의 일환으로 해석했어요. 자살하는 꿈은 더 이상 기능하지 않는 자아의 낡은 페르소나(persona)가 무너지고, 더 진실된 자기 자신(Self)으로 나아가려는 무의식의 신호일 수 있어요. 이 맥락에서 꿈속의 죽음은 파괴가 아닌, 심층 자아와의 통합을 향한 변환의 상징이에요.",
+      "english": "Jung interpreted suicide in dreams as part of the individuation process — the psychological death and rebirth of the self. Such a dream may signal the collapse of an old persona that no longer serves the individual, as the unconscious pushes toward a more authentic expression of the true Self. In this framework, death in dreams is not destruction but transformation: a movement toward deeper integration of the psyche."
+    },
+    "modern": {
+      "korean": "현대 심리학과 뇌과학에서는 자살하는 꿈을 현실에서의 극심한 스트레스, 압박감, 또는 삶의 중요한 전환기에 뇌가 감정을 처리하는 방식으로 설명해요. 이 꿈은 실제 자살 충동과 무관하며, 오히려 현재 상황에서 벗어나고 싶거나 근본적인 변화를 원하는 무의식적 욕구가 수면 중 시각화된 것으로 봅니다. 이런 꿈을 반복적으로 꾼다면 심리적 소진(burnout)이나 해결되지 않은 내면의 갈등을 점검해볼 필요가 있어요.",
+      "english": "Modern psychology and neuroscience view suicide dreams as the brain's way of processing intense stress, pressure, or significant life transitions during sleep — not as indicators of actual suicidal ideation. The dream typically reflects an unconscious desire to escape the current situation or achieve radical change, visualized in extreme symbolic form. Recurring suicide dreams may signal emotional exhaustion or unresolved internal conflict worth exploring with a professional."
+    },
+    "crossCultural": {
+      "korean": "서양 심리학이 자살 꿈을 주로 억압된 감정과 스트레스의 신호로 보는 반면, 한국 전통 꿈해몽은 이를 훨씬 적극적으로 '변화와 재탄생'의 길징으로 해석하는 경향이 강해요. 두 전통 모두 이 꿈이 실제 자해 의도를 반영하지 않는다는 점에서는 일치합니다.",
+      "english": "While Western psychology primarily reads suicide dreams as signals of repressed emotion and psychological stress, Korean traditional interpretation tends to frame them more positively as omens of transformation and rebirth. Both traditions agree, however, that such dreams do not reflect actual suicidal intent."
+    }
+  },
+  "relatedSymbols": [
+    "dying-dream",
+    "death-dream",
+    "falling-dream",
+    "drowning-dream",
+    "fire-dream",
+    "rebirth-dream"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "자살하는 꿈",
+      "자살 꿈해몽",
+      "내가 자살하는 꿈",
+      "자살하는 꿈 길몽",
+      "자살하는 꿈 흉몽",
+      "자살 꿈 의미",
+      "자살하는 꿈 해석",
+      "가족이 자살하는 꿈",
+      "연인이 자살하는 꿈",
+      "총으로 자살하는 꿈",
+      "투신자살 꿈",
+      "자살 시도 꿈해몽",
+      "자살 꿈 뜻",
+      "동반자살 꿈"
+    ],
+    "english": [
+      "suicide dream meaning",
+      "dreaming of committing suicide",
+      "dream about suicide Korean interpretation",
+      "suicide dream auspicious",
+      "what does it mean to dream of suicide",
+      "dream of someone committing suicide",
+      "suicide dream psychology",
+      "dream of failed suicide attempt",
+      "Korean dream suicide meaning",
+      "dreaming of death and suicide"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "자살하는 꿈은 나쁜 꿈인가요?",
+      "answer_ko": "반드시 그런 것은 아닙니다. 한국 전통 꿈해몽에서 자살하는 꿈은 '재탄생'과 '변화'의 상징으로 해석되는 경우가 많아요. 특히 꿈속에서 자살이 완수된 경우, 총이나 물 등을 이용한 경우는 운세 상승과 새로운 출발을 알리는 길몽으로 봅니다. 그러나 가족이나 연인이 자살하는 꿈, 자살 시도가 실패하는 꿈은 관계의 위기나 변화에 대한 경고로 해석됩니다.",
+      "answer_en": "Not necessarily. In Korean traditional dream interpretation, a suicide dream is often read as a symbol of rebirth and transformation rather than misfortune. When the act is completed in the dream — especially involving firearms or water — it is considered an auspicious omen of rising fortune and new beginnings. However, suicide dreams involving family, a romantic partner, or a failed attempt can signal relational strain or a warning about blocked change.",
+      "question_en": "Is dreaming of suicide a bad omen?"
+    },
+    {
+      "question_ko": "자살하는 꿈을 꿨다면 걱정해야 하나요?",
+      "answer_ko": "꿈해몽의 관점에서는 대부분 현실의 자살 충동과 무관하며, 변화를 원하는 심리의 반영으로 봅니다. 그러나 이런 꿈이 반복되거나, 꿈에서 깨어난 후 불안감이 크다면 현재 스트레스 수준을 점검하고 필요시 전문 상담을 받는 것이 좋습니다.",
+      "answer_en": "From a dream interpretation standpoint, this dream is generally not connected to actual suicidal ideation and instead reflects a psychological desire for change. However, if the dream recurs frequently or leaves you feeling distressed upon waking, it is worth examining your current stress levels and seeking professional support if needed.",
+      "question_en": "Should I be worried if I dream of suicide?"
+    },
+    {
+      "question_ko": "가족이 자살하는 꿈은 무슨 의미인가요?",
+      "answer_ko": "가족이 자살하는 꿈은 전통적으로 가족 관계의 긴장이나 소통 단절을 경고하는 신호로 봅니다. 반드시 나쁜 일이 생긴다는 뜻은 아니지만, 가족 간 솔직한 대화와 관계 회복에 신경 써야 한다는 메시지로 받아들이세요. 부모나 형제자매가 자살하는 꿈은 오히려 환경의 변화나 좋은 소식을 예고하는 길몽으로 해석하기도 합니다.",
+      "answer_en": "A family member's suicide in a dream traditionally signals tension or breakdown in family communication. It is not necessarily a prediction of bad events, but a prompt to prioritize honest conversation and reconnect with family. Dreams specifically involving a parent or sibling are sometimes read as auspicious, predicting positive environmental changes or good family news.",
+      "question_en": "What does it mean to dream of a family member committing suicide?"
+    },
+    {
+      "question_ko": "자살 시도가 실패하는 꿈은 무슨 뜻인가요?",
+      "answer_ko": "자살 시도가 실패하는 꿈은 변화를 간절히 원하지만 아직 실행할 결단력이나 적절한 시기가 오지 않았음을 의미합니다. 지금은 무리하게 밀어붙이기보다 준비를 갖추고 때를 기다리는 것이 현명하다는 신호로 해석됩니다.",
+      "answer_en": "A failed suicide attempt in a dream means you deeply want change but lack the decisive resolve or the right timing has not yet arrived. It is a sign to be patient — preparing thoroughly and waiting for the right moment will serve you better than forcing action prematurely.",
+      "question_en": "What does a failed suicide attempt in a dream mean?"
+    },
+    {
+      "question_ko": "동반자살하는 꿈은 어떤 의미인가요?",
+      "answer_ko": "동반자살하는 꿈은 특정인에 대한 지나친 의존심을 경고하는 꿈입니다. 상대방의 판단이나 결정에 지나치게 기대고 있지는 않은지 돌아보고, 독립적인 자기 판단력을 기를 필요가 있음을 암시합니다.",
+      "answer_en": "Dreaming of a double or joint suicide warns against excessive dependence on a specific person. It is a prompt to reflect on whether you are relying too heavily on another's judgment or decisions, and to cultivate greater confidence in your own independent thinking.",
+      "question_en": "What does it mean to dream of committing suicide together with someone?"
+    },
+    {
+      "question_ko": "연인이 자살하는 꿈을 꾸면 이별하게 되나요?",
+      "answer_ko": "꿈속에서 어떤 감정을 느꼈느냐가 중요합니다. 슬픔을 느꼈다면 상대에 대한 깊은 애정과 걱정의 표현으로, 관계가 더 깊어질 수도 있습니다. 반면 꿈속에서 별다른 감정을 느끼지 못했다면, 현재 관계에 대한 감정이 식어가고 있다는 신호일 수 있습니다.",
+      "answer_en": "The emotion you felt in the dream is the key factor. If you felt sadness and grief, it reflects deep love and concern for your partner, and the relationship may actually deepen. If you felt little or no emotion, it may signal that your feelings for that person are fading and the relationship may be cooling.",
+      "question_en": "Does dreaming of a romantic partner's suicide mean you will break up?"
+    }
+  ]
+}

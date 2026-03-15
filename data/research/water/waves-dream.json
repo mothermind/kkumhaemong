@@ -1,0 +1,246 @@
+{
+  "symbol": {
+    "korean": "파도 꿈",
+    "english": "Waves Dream",
+    "slug": "waves-dream"
+  },
+  "summary": {
+    "korean": "파도 꿈은 삶의 변화, 감정의 흐름, 예기치 못한 도전을 상징하는 꿈입니다. 거센 파도는 현실의 어려움이나 갈등을 암시하는 흉몽으로 해석되는 경우가 많지만, 파도를 무사히 헤쳐나가거나 육지로 밀려오는 파도는 재물운과 명예를 가져오는 길몽이 될 수도 있습니다. 파도의 크기, 색깔, 꿈속 감정에 따라 의미가 크게 달라집니다.",
+    "english": "Wave dreams symbolize life changes, emotional currents, and unexpected challenges. Fierce waves are often interpreted as omens of real-world difficulties or conflict, while successfully navigating waves or tidal floods reaching land can be auspicious signs of wealth and recognition. The dream's meaning shifts significantly based on the wave's size, color, and the dreamer's emotional response."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "파도를 무사히 헤쳐나가거나 높은 파도를 피하는 꿈은 현실에서 닥친 위기를 지혜롭게 극복하고 어려운 상황을 무난히 해결해나갈 것을 의미합니다. 주변의 도움을 받아 난관을 돌파하게 됩니다.",
+      "english": "Safely navigating or avoiding high waves in a dream indicates that you will overcome a current crisis with wisdom and resolve difficult situations smoothly, potentially with help from those around you.",
+      "context": "파도에 휩쓸렸다가 무사히 나오거나, 높은 파도를 피해 달아나는 꿈"
+    },
+    {
+      "type": "길몽",
+      "korean": "거센 파도가 육지까지 밀려와 넘치는 꿈은 예상치 못했던 곳에서 재물이나 금전을 얻게 될 길몽입니다. 합격, 승진, 사업 번창 등 기쁜 소식이 찾아올 수 있습니다.",
+      "english": "Tidal waves flooding the land in a dream is an auspicious omen indicating unexpected financial gain. It may foretell good news such as passing an exam, a promotion, or business prosperity.",
+      "context": "파도가 밀려와 들판이나 집안을 덮치는 꿈"
+    },
+    {
+      "type": "길몽",
+      "korean": "잔잔하고 평온한 파도 꿈은 현재 생활이 안정적으로 흘러가며 걱정 없는 나날이 이어질 것을 암시합니다. 감정이 평온하고 문제들이 순조롭게 해결됩니다.",
+      "english": "Calm, gentle wave dreams suggest that life is progressing stably and worry-free days lie ahead. Emotional balance and smooth problem resolution are indicated.",
+      "context": "잔잔한 파도 소리를 듣거나 평온한 파도를 바라보는 꿈"
+    },
+    {
+      "type": "길몽",
+      "korean": "파도를 즐겁게 바라보거나 파도 속에서 기쁨을 느끼는 꿈은 사업 성공과 재물 증가를 상징합니다. 파도의 강도와 상관없이 꿈속에서 즐거움을 느꼈다면 좋은 징조입니다.",
+      "english": "Enjoying the sight of waves or feeling joy amid waves symbolizes business success and growing wealth. A pleasant emotional response in the dream is a positive sign regardless of wave intensity.",
+      "context": "파도를 즐겁게 구경하거나 파도 속에서 긍정적인 감정을 느끼는 꿈"
+    },
+    {
+      "type": "흉몽",
+      "korean": "거대한 파도가 나를 향해 덮쳐오는 꿈은 자신이 감당하기 힘든 큰 어려움이나 예기치 못한 위기가 닥칠 것을 경고합니다. 업무상 위기나 인간관계에서 심각한 갈등이 생길 수 있습니다.",
+      "english": "Massive waves crashing toward you in a dream warns of overwhelming difficulties or unexpected crises beyond your capacity to handle. Serious conflicts in work or relationships may arise.",
+      "context": "거대한 파도가 자신을 향해 몰려오는 꿈"
+    },
+    {
+      "type": "흉몽",
+      "korean": "검은 파도가 집을 덮치거나 파괴하는 꿈은 가정의 불행이나 사업 실패, 가족 간의 불화를 암시하는 강한 흉몽입니다. 건강 문제나 재정적 손실이 발생할 수 있으니 주의가 필요합니다.",
+      "english": "Black waves destroying or engulfing a house strongly signals family misfortune, business failure, or severe household discord. Health issues or financial losses may follow.",
+      "context": "검은 파도가 집을 덮치거나 무너뜨리는 꿈"
+    },
+    {
+      "type": "흉몽",
+      "korean": "파도가 점점 거칠어지거나 폭풍해일처럼 몰아치는 꿈은 가족 간 불화, 이별, 정신적 고통이 이어질 수 있음을 의미합니다. 감정적 불안정과 스트레스가 높아지는 시기를 예고합니다.",
+      "english": "Waves growing increasingly fierce or stormy warn of family discord, separation, and mental suffering ahead. A period of emotional instability and heightened stress is foretold.",
+      "context": "파도가 갈수록 거세지며 폭풍해일처럼 몰아치는 꿈"
+    },
+    {
+      "type": "neutral",
+      "korean": "파도를 타거나 서핑하는 꿈은 인생의 변화와 모험을 상징하는 중립적인 꿈입니다. 즐겁게 파도를 탔다면 기쁜 일이 생길 징조이지만, 파도에 휩쓸려 힘들었다면 예상치 못한 사건이 발생할 수 있습니다.",
+      "english": "Surfing or riding waves represents life changes and adventure. Enjoying the surf is a positive sign of happy events ahead, while being overwhelmed by the waves suggests unexpected disruptions.",
+      "context": "파도를 타거나 서핑하는 꿈"
+    },
+    {
+      "type": "neutral",
+      "korean": "파도치는 꿈이 태몽으로 나타날 경우, 집안에 임산부가 있다면 기상이 넓고 씩씩하며 용감한 아들을 출산할 것을 예고하는 태몽으로 해석됩니다.",
+      "english": "When a wave dream appears as a conception dream (태몽) for a pregnant woman in the household, it is traditionally interpreted as foretelling the birth of a bold, brave, and ambitious son.",
+      "context": "임산부나 임신을 앞둔 여성이 파도치는 꿈을 꾸는 경우"
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "큰 파도 꿈",
+      "keyword_en": "big waves dream",
+      "interpretation_ko": "큰 파도가 몰려오는 꿈은 자신이 감당하기 벅찬 도전이나 위기가 닥칠 것을 경고합니다. 그러나 큰 파도를 무사히 헤쳐나갔다면 오히려 명성을 얻거나 권위 있는 자리에 오르게 될 길몽입니다.",
+      "interpretation_en": "Dreams of large waves approaching warn of overwhelming challenges or crises. However, if you successfully navigate the big waves, it becomes an auspicious sign of gaining recognition or rising to a position of authority."
+    },
+    {
+      "keyword_ko": "파도가 집을 덮치는 꿈",
+      "keyword_en": "waves hitting or flooding a house dream",
+      "interpretation_ko": "파도가 집을 덮치는 꿈은 두 가지로 해석됩니다. 거대한 파도가 집을 파괴하면 가정의 불행이나 사업 실패를 암시하는 흉몽이지만, 파도가 집안까지 밀려와 넘치기만 한다면 뜻밖의 재물 획득을 의미하는 길몽입니다.",
+      "interpretation_en": "Waves hitting a house carry dual meanings. If the waves destroy the house, it is an omen of family misfortune or business failure. But if the waves merely flood and overflow the house, it portends unexpected windfall or financial gain."
+    },
+    {
+      "keyword_ko": "높은 파도 꿈",
+      "keyword_en": "high waves dream",
+      "interpretation_ko": "높은 파도를 마주하는 꿈은 앞으로 큰 난관이 기다리고 있음을 암시합니다. 높은 파도를 피해 달아나는 데 성공했다면 집안의 어려움이 사라지고 위기가 해소될 것을 의미합니다.",
+      "interpretation_en": "Facing high waves in a dream suggests significant obstacles lie ahead. Successfully escaping or avoiding the high waves indicates that household troubles will disappear and the crisis will be resolved."
+    },
+    {
+      "keyword_ko": "거센 파도 꿈",
+      "keyword_en": "rough or violent waves dream",
+      "interpretation_ko": "거세게 몰아치는 파도 꿈은 신상에 큰 변화가 생길 것을 의미합니다. 불안, 고민, 스트레스가 높아지는 시기임을 나타내며 현실의 갈등과 어려움에 주의를 기울여야 합니다.",
+      "interpretation_en": "Violently crashing waves signal major life changes coming. They indicate a period of rising anxiety, worry, and stress, urging caution toward real-world conflicts and difficulties."
+    },
+    {
+      "keyword_ko": "잔잔한 파도 꿈",
+      "keyword_en": "calm waves dream",
+      "interpretation_ko": "잔잔한 파도 꿈은 현재 삶에 대한 만족과 안정을 상징하는 길몽입니다. 감정적 평온이 이어지며 어려움 없이 하루하루를 보낼 수 있음을 의미합니다.",
+      "interpretation_en": "Calm waves are an auspicious dream symbolizing contentment and stability in current life. They indicate emotional peace and smooth, worry-free days ahead."
+    },
+    {
+      "keyword_ko": "파도에 휩쓸리는 꿈",
+      "keyword_en": "swept away by waves dream",
+      "interpretation_ko": "파도에 휩쓸리는 꿈은 상황에 따라 길흉이 갈립니다. 단순히 파도에 휩쓸렸다가 부유하는 꿈은 권세 있는 사람을 만나거나 명예를 얻을 길몽이 될 수 있지만, 파도에 쓸려 쓰러지는 꿈은 예기치 않은 문제와 위기를 경고합니다.",
+      "interpretation_en": "Being swept away by waves carries mixed omens. Simply being carried along by waves can be auspicious, suggesting you will meet a powerful person or gain honor. But being knocked down and overwhelmed warns of unexpected problems and crisis."
+    },
+    {
+      "keyword_ko": "검은 파도 꿈",
+      "keyword_en": "black waves dream",
+      "interpretation_ko": "검은 파도 꿈은 강한 흉몽입니다. 검은 파도가 집을 덮치면 가정 재난과 모든 일의 불행을 예고합니다. 다만 검은 파도가 가라앉아 잔잔해지는 꿈은 집안 근심이 해소되고 평화가 찾아올 길몽으로 해석됩니다.",
+      "interpretation_en": "Black waves are strongly inauspicious. Black waves destroying a house foretell family disaster and misfortune in all endeavors. However, black waves that subside and grow calm are auspicious, indicating household troubles will end and peace will be restored."
+    },
+    {
+      "keyword_ko": "파도 타는 꿈 (서핑)",
+      "keyword_en": "surfing waves dream",
+      "interpretation_ko": "파도를 타거나 서핑하는 꿈은 인생의 변화와 새로운 도전을 상징합니다. 즐겁게 파도를 탔다면 기쁜 일이 생길 징조이지만, 힘들게 파도를 탔거나 쓸려갔다면 예상치 못한 사건이 일어날 수 있습니다.",
+      "interpretation_en": "Surfing or riding waves symbolizes life changes and new challenges. Enjoying the ride is a positive omen of happy events, while struggling or being overwhelmed suggests unexpected events may occur."
+    },
+    {
+      "keyword_ko": "파도에서 수영하는 꿈",
+      "keyword_en": "swimming through waves dream",
+      "interpretation_ko": "파도 속에서 수영하는 꿈은 현재 목표를 향해 열심히 나아가고 있음을 반영합니다. 수영을 잘하고 있었다면 목표 달성이 순조로울 것이며, 파도에 힘겹게 맞서며 수영했다면 어려움이 있지만 결국 극복해낼 것을 의미합니다.",
+      "interpretation_en": "Swimming through waves reflects your pursuit of current goals. Swimming well indicates smooth progress toward your goal, while struggling through the waves suggests difficulties but ultimate perseverance and success."
+    },
+    {
+      "keyword_ko": "파도 태몽",
+      "keyword_en": "waves conception dream (taeong)",
+      "interpretation_ko": "파도가 거세게 치는 꿈이 태몽으로 나타나면 기상이 크고 씩씩한 아들을 낳을 것을 예고하는 태몽으로 전통적으로 해석됩니다. 파도의 기세가 클수록 아이의 기상과 장래가 클 것으로 봅니다.",
+      "interpretation_en": "Fierce wave dreams appearing as conception dreams (태몽) are traditionally interpreted as foretelling the birth of a bold, spirited son with a great future. The more powerful the waves, the greater the child's character and destiny are believed to be."
+    },
+    {
+      "keyword_ko": "폭풍해일 꿈 (쓰나미)",
+      "keyword_en": "tidal wave or tsunami dream",
+      "interpretation_ko": "폭풍해일이나 쓰나미처럼 극도로 거대한 파도 꿈은 자신의 힘으로 통제할 수 없는 압도적인 외부 충격이 올 것을 경고합니다. 심각한 위기나 예상 밖의 대형 사건에 대한 경고로 해석됩니다.",
+      "interpretation_en": "Extreme tidal wave or tsunami dreams warn of overwhelming external forces beyond one's control. They are interpreted as warnings of serious crises or unexpected large-scale events heading your way."
+    },
+    {
+      "keyword_ko": "연꽃이 피는 파도 꿈",
+      "keyword_en": "waves with lotus blooms dream",
+      "interpretation_ko": "거센 파도 위에 연꽃이 피어나는 꿈은 현재의 위기와 어려움을 극복하고 상황이 아름답게 마무리될 것을 상징하는 길몽입니다. 고난 속에서도 품위와 성공을 잃지 않음을 의미합니다.",
+      "interpretation_en": "Lotus flowers blooming on rough waves is an auspicious omen symbolizing that current hardships will be overcome and the situation will resolve beautifully. It suggests maintaining dignity and achieving success despite adversity."
+    }
+  ],
+  "culturalContext": {
+    "korean": "한국 전통 해몽에서 물(水)은 재물, 생명력, 감정의 흐름을 상징하며, 파도는 그 물의 역동적 표현으로 변화와 도전을 나타냅니다. 바다와 파도는 예로부터 민중의 삶과 깊이 연결되어 있었습니다. 삼면이 바다로 둘러싸인 한반도 특성상 바다는 풍요와 위험을 동시에 상징하는 양면적 존재였습니다. 어부 문화에서 파도는 생업과 목숨을 좌우하는 힘으로 인식되었고, 태몽 문화에서 거센 파도는 큰 그릇의 인물을 낳을 것이라는 신호로 여겨졌습니다. 또한 한국 민간신앙에서 용왕(龍王)이 바다를 다스린다고 믿어졌으며, 파도 위에 용이 등장하는 꿈은 특히 명성과 권위의 상승을 상징하는 최상의 길몽으로 여겨졌습니다. 전통적으로 파도 꿈의 해석은 꿈속 감정 상태와 파도의 결과(무사 통과 여부)를 가장 중요한 기준으로 삼았습니다.",
+    "english": "In Korean traditional dream interpretation, water (水) symbolizes wealth, life force, and emotional flow, and waves represent the dynamic expression of water — change and challenge. The sea has been deeply woven into Korean life on a peninsula surrounded by water on three sides. For fishing communities, waves were a dual force of livelihood and mortal danger. In the culture of conception dreams (태몽), fierce waves foretold the birth of a child of great character. Korean folk belief held that the Dragon King (용왕) ruled the seas, making dreams of dragons riding waves especially auspicious — the highest omen of rising fame and authority. Traditional interpretation placed the dreamer's emotional state and the outcome of the waves (whether safely navigated) as the most important interpretive criteria."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트 심리학에서 물과 파도는 무의식과 억압된 감정의 상징입니다. 거센 파도 꿈은 억누른 욕망이나 감정적 압력이 의식 표면으로 터져나오려는 심리적 긴장을 반영합니다. 파도에 휩쓸리는 꿈은 자아가 무의식적 충동에 압도당하고 있다는 신호일 수 있습니다.",
+      "english": "In Freudian psychology, water and waves symbolize the unconscious and repressed emotions. Turbulent wave dreams reflect psychological tension where suppressed desires or emotional pressure are surging toward conscious awareness. Being swept away by waves may signal that the ego is being overwhelmed by unconscious impulses."
+    },
+    "jungian": {
+      "korean": "융 심리학에서 바다와 파도는 집단 무의식(collective unconscious)의 광대함을 나타내며, 파도는 무의식에서 올라오는 원형적 에너지의 표현입니다. 거대한 파도는 자아를 압도하는 원형적 힘을 상징하고, 파도를 성공적으로 헤쳐나가는 꿈은 개성화(individuation) 과정에서 자아가 성숙해가는 여정을 나타냅니다.",
+      "english": "In Jungian psychology, the sea and waves represent the vastness of the collective unconscious, with waves expressing archetypal energy rising from the depths. Massive waves symbolize overwhelming archetypal forces, while successfully navigating waves represents the ego's maturation journey through the individuation process."
+    },
+    "modern": {
+      "korean": "현대 심리학에서 파도 꿈은 주로 현실 스트레스와 감정 조절 능력의 반영으로 해석됩니다. 압도적인 파도 꿈은 번아웃, 만성 스트레스, 감당하기 힘든 책임감을 경험할 때 자주 나타납니다. 반면 파도를 타는 꿈은 변화에 대한 적응력과 유연성을 상징하는 긍정적인 심리 신호로 해석됩니다.",
+      "english": "Modern psychology interprets wave dreams primarily as reflections of real-life stress and emotional regulation. Overwhelming wave dreams frequently appear during burnout, chronic stress, or when carrying excessive responsibility. Conversely, surfing dreams are interpreted as positive psychological signals of adaptability and flexibility in the face of change."
+    },
+    "crossCultural": {
+      "korean": "문화권을 초월하여 파도 꿈은 보편적으로 변화, 감정의 기복, 삶의 도전을 상징합니다. 서양 문화에서도 쓰나미나 거대한 파도 꿈은 통제 불가능한 힘에 대한 두려움과 압도감을 나타냅니다. 동아시아 전통에서는 물의 길흉이 재물운과 직결되는 경향이 강한 반면, 서구에서는 주로 감정적 상태와 심리적 처리 과정을 반영한다고 봅니다.",
+      "english": "Across cultures, wave dreams universally symbolize change, emotional fluctuation, and life's challenges. In Western cultures, tsunami or giant wave dreams also represent fear and being overwhelmed by uncontrollable forces. East Asian traditions strongly link water's auspiciousness to material fortune, while Western interpretations primarily view waves as reflections of emotional states and psychological processing."
+    }
+  },
+  "relatedSymbols": [
+    "ocean-dream",
+    "river-dream",
+    "flood-dream",
+    "rain-dream",
+    "swimming-dream",
+    "drowning-dream",
+    "tsunami-dream",
+    "sea-turtle-dream",
+    "whale-dream",
+    "dragon-from-water-dream"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "파도 꿈해몽",
+      "파도 꿈 해석",
+      "파도 꿈 의미",
+      "큰 파도 꿈해몽",
+      "높은 파도 꿈",
+      "파도치는 꿈",
+      "파도에 휩쓸리는 꿈",
+      "거센 파도 꿈 길몽",
+      "파도가 집을 덮치는 꿈",
+      "파도 태몽",
+      "검은 파도 꿈",
+      "잔잔한 파도 꿈 길몽",
+      "파도 서핑 꿈해몽",
+      "쓰나미 꿈해몽",
+      "파도 꿈 흉몽"
+    ],
+    "english": [
+      "wave dream meaning",
+      "waves dream interpretation",
+      "big waves dream symbolism",
+      "tidal wave dream Korean",
+      "crashing waves dream meaning",
+      "dream of waves hitting house",
+      "calm waves dream interpretation",
+      "surfing waves dream",
+      "tsunami dream Korean meaning",
+      "wave dream auspicious omen",
+      "ocean waves dream symbolism",
+      "dream swept away by waves"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "파도 꿈은 길몽인가요, 흉몽인가요?",
+      "answer_ko": "파도 꿈은 꿈속 상황에 따라 길몽과 흉몽 두 가지로 모두 해석될 수 있습니다. 잔잔한 파도나 파도를 무사히 헤쳐나가는 꿈은 안정과 재물운을 의미하는 길몽이지만, 거대한 파도에 압도되거나 검은 파도가 집을 덮치는 꿈은 위기와 어려움을 경고하는 흉몽으로 봅니다. 꿈속에서의 감정과 파도의 결말이 해석의 핵심 기준입니다.",
+      "answer_en": "Wave dreams can be interpreted as either auspicious or inauspicious depending on the context. Calm waves or successfully navigating waves are auspicious signs of stability and good fortune, while being overwhelmed by massive waves or black waves destroying a house are warnings of crisis. The dreamer's emotions and the wave's outcome are the key interpretive criteria.",
+      "question_en": "Are wave dreams good or bad omens?"
+    },
+    {
+      "question_ko": "큰 파도 꿈은 무슨 의미인가요?",
+      "answer_ko": "큰 파도 꿈은 주로 자신이 감당하기 어려운 도전이나 위기가 다가올 것을 경고합니다. 하지만 큰 파도를 무사히 헤쳐나가거나 큰 파도가 육지까지 밀려와 넘쳤다면, 오히려 명성을 얻거나 예상치 못한 재물이 들어올 길몽이 됩니다.",
+      "answer_en": "Big wave dreams mainly warn of overwhelming challenges or crises approaching. However, if you successfully navigate the big waves or they flood the land, it becomes an auspicious omen of gaining recognition or receiving unexpected wealth.",
+      "question_en": "What does dreaming of big waves mean?"
+    },
+    {
+      "question_ko": "파도가 집을 덮치는 꿈은 흉몽인가요?",
+      "answer_ko": "파도가 집을 덮치는 꿈은 상황에 따라 다릅니다. 파도가 집을 파괴하거나 무너뜨린다면 가정의 불행이나 사업 실패를 암시하는 흉몽입니다. 하지만 파도가 집안까지 밀려와 가득 넘치기만 한다면, 예상치 못한 재물 획득을 의미하는 길몽으로 해석됩니다.",
+      "answer_en": "Waves hitting a house depends on the outcome. If the waves destroy or damage the house, it is an inauspicious omen of family misfortune or business failure. But if the waves merely flood and overflow the house without destroying it, it is an auspicious sign of unexpected financial gain.",
+      "question_en": "Is dreaming of waves hitting a house a bad omen?"
+    },
+    {
+      "question_ko": "파도 태몽은 어떤 의미인가요?",
+      "answer_ko": "파도가 거세게 치는 꿈이 태몽으로 나타나면 기상이 크고 씩씩하며 용감한 아들을 출산할 것을 예고하는 길몽으로 전통적으로 해석됩니다. 파도의 기세가 강할수록 아이의 장래와 기상이 클 것이라고 봅니다.",
+      "answer_en": "When fierce wave dreams appear as conception dreams (태몽), they are traditionally interpreted as an auspicious sign foretelling the birth of a bold, brave, and ambitious son. The more powerful the waves, the greater the child's future is believed to be.",
+      "question_en": "What does a wave dream mean as a conception dream (taeong)?"
+    },
+    {
+      "question_ko": "파도에 휩쓸리는 꿈은 나쁜 꿈인가요?",
+      "answer_ko": "파도에 휩쓸리는 꿈이 반드시 나쁜 것은 아닙니다. 단순히 파도에 휩쓸려 부유하는 꿈은 권세 있는 사람을 만나거나 명예를 얻을 길몽이 될 수 있습니다. 하지만 파도에 쓸려 쓰러지거나 빠져나오지 못하는 꿈은 예기치 않은 문제와 위기를 경고합니다.",
+      "answer_en": "Being swept away by waves is not necessarily a bad omen. Simply being carried along by waves can be auspicious, suggesting you will meet someone powerful or gain honor. However, being knocked down and unable to escape warns of unexpected problems and crisis.",
+      "question_en": "Is being swept away by waves in a dream a bad sign?"
+    },
+    {
+      "question_ko": "검은 파도 꿈은 무슨 의미인가요?",
+      "answer_ko": "검은 파도 꿈은 대체로 강한 흉몽으로 해석됩니다. 검은 파도가 집을 덮치는 꿈은 가족의 재난이나 모든 일의 불행을 예고합니다. 단, 검은 파도가 점차 가라앉아 잔잔해지는 꿈은 집안 근심이 해소되고 평화가 찾아올 것을 의미하는 길몽이 됩니다.",
+      "answer_en": "Black wave dreams are generally strongly inauspicious. Black waves destroying a house foretell family disaster and misfortune in all endeavors. However, black waves that gradually subside and grow calm are auspicious, indicating household troubles will end and peace will be restored.",
+      "question_en": "What does dreaming of black waves mean?"
+    }
+  ]
+}

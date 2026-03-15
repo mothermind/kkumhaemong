@@ -1,0 +1,186 @@
+{
+  "symbol": {
+    "korean": "도깨비",
+    "english": "Dokkaebi (Korean Goblin)",
+    "slug": "dokkaebi-dream"
+  },
+  "summary": {
+    "korean": "도깨비 꿈은 전통적으로 뜻밖의 재물과 횡재를 상징하기도 하지만, 꿈속 상황에 따라 방해와 갈등의 경고로 해석되기도 합니다.",
+    "english": "Dreaming of a dokkaebi traditionally symbolizes unexpected fortune or wealth, but can also serve as a warning of obstacles and conflict depending on the context of the dream."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "도깨비가 집 안으로 들어오거나 재물을 가져다주는 꿈은 대표적인 길몽으로, 예상치 못한 횡재나 금전적 행운이 찾아올 징조입니다. 도깨비는 한국 민간신앙에서 재물신의 역할을 하기 때문에, 도깨비의 방문은 풍요와 번영을 뜻합니다.",
+      "english": "Dreaming of a dokkaebi entering your home or bringing gifts of wealth is considered a prime auspicious dream, signaling unexpected financial luck or a windfall. In Korean folk belief, the dokkaebi functions as a deity of wealth, so its visitation represents abundance and prosperity.",
+      "context": "도깨비가 쌀가마나 금은보화를 들고 집에 들어오거나, 도깨비가 재물을 선물하는 장면이 등장할 때"
+    },
+    {
+      "type": "길몽",
+      "korean": "도깨비가 위협하거나 무섭게 굴어도 꿈에서 두려움 없이 맞서거나 도깨비를 물리치는 꿈은 길몽입니다. 현실에서 어려움을 극복하고 경쟁자를 이기거나, 오랫동안 막혀 있던 일이 풀리는 좋은 신호로 해석됩니다.",
+      "english": "Dreaming of facing a dokkaebi fearlessly or defeating it in a confrontation is considered auspicious. It signals overcoming difficulties in real life, defeating rivals, or breaking through long-standing obstacles.",
+      "context": "꿈속에서 도깨비와 맞서 싸워 이기거나, 도깨비의 위협에도 불구하고 당당히 맞설 때"
+    },
+    {
+      "type": "흉몽",
+      "korean": "도깨비에게 쫓기거나 두들겨 맞는 꿈은 흉몽입니다. 진행 중인 일에 장애가 생기거나, 건강 문제, 뜻밖의 사고, 혹은 경쟁자나 방해 세력으로 인한 고통이 예상됩니다.",
+      "english": "Being chased or physically beaten by a dokkaebi in a dream is considered inauspicious. It foreshadows obstacles in ongoing projects, health problems, unexpected accidents, or suffering caused by rivals or adversaries.",
+      "context": "도깨비가 꿈 속에서 쫓아오거나, 때리거나, 시비를 걸거나, 위협적으로 다가올 때"
+    },
+    {
+      "type": "흉몽",
+      "korean": "어두운 곳에서 도깨비 소리를 듣거나 도깨비불을 목격하는 꿈은 현재 추진하는 일에 갑작스러운 장애가 생길 수 있음을 알리는 경고입니다. 정신적 고통이나 질병, 혹은 주변 구설수에 시달릴 수 있습니다.",
+      "english": "Hearing dokkaebi sounds in dark places or witnessing dokkaebi fire (도깨비불) in a dream warns of sudden obstacles in current endeavors, mental anguish, illness, or becoming entangled in gossip and social conflict.",
+      "context": "어두운 공간에서 도깨비 소리를 듣거나 귀화(도깨비불)를 목격하는 장면이 등장할 때"
+    },
+    {
+      "type": "neutral",
+      "korean": "도깨비를 단순히 목격하거나 마주치는 꿈은 뜻밖의 소식이나 예상치 못한 사건이 생길 것을 암시하는 중립적 해몽입니다. 그 결과가 길한지 흉한지는 꿈 속의 분위기와 도깨비의 행동에 따라 달라집니다.",
+      "english": "Simply seeing or encountering a dokkaebi in a dream is a neutral omen, suggesting that unexpected news or unforeseen events are on the horizon. Whether the outcome is positive or negative depends on the overall mood and the dokkaebi's behavior in the dream.",
+      "context": "도깨비가 특별한 행동 없이 등장하거나, 단순히 도깨비를 보는 꿈일 때"
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "도깨비가 집에 들어오는 꿈",
+      "keyword_en": "dream of dokkaebi entering your home",
+      "interpretation_ko": "재물과 풍요가 집 안으로 들어올 길몽입니다. 사업 번창이나 금전적 횡재의 징조로 해석됩니다.",
+      "interpretation_en": "An auspicious dream signaling wealth and abundance entering the household. Interpreted as a sign of business growth or an unexpected financial windfall."
+    },
+    {
+      "keyword_ko": "도깨비에게 쫓기는 꿈",
+      "keyword_en": "dream of being chased by a dokkaebi",
+      "interpretation_ko": "현재 추진 중인 일이 순조롭지 않고 장애가 생길 흉몽입니다. 스트레스와 갈등이 고조될 수 있으니 주의가 필요합니다.",
+      "interpretation_en": "An inauspicious dream indicating that ongoing projects will face setbacks and difficulties. Heightened stress and conflict are expected."
+    },
+    {
+      "keyword_ko": "도깨비를 잡거나 이기는 꿈",
+      "keyword_en": "dream of catching or defeating a dokkaebi",
+      "interpretation_ko": "오랫동안 막혀 있던 문제가 해결되고 경쟁자를 물리치는 길몽입니다. 사업이나 직장에서 두각을 나타낼 기회가 옵니다.",
+      "interpretation_en": "An auspicious dream in which longstanding problems resolve and rivals are overcome. An opportunity to stand out at work or in business is approaching."
+    },
+    {
+      "keyword_ko": "도깨비에게 맞는 꿈",
+      "keyword_en": "dream of being hit or beaten by a dokkaebi",
+      "interpretation_ko": "뜻밖의 사고나 건강 문제가 생길 수 있는 흉몽입니다. 건강과 안전에 각별히 주의해야 합니다.",
+      "interpretation_en": "An inauspicious dream warning of unexpected accidents or health issues. Extra caution regarding health and personal safety is advised."
+    },
+    {
+      "keyword_ko": "도깨비가 위협하는 꿈",
+      "keyword_en": "dream of a dokkaebi threatening you",
+      "interpretation_ko": "꿈의 내용과 반대로 해석되어 기분 좋은 일이 생길 길몽으로 보기도 합니다. 무서운 꿈임에도 불구하고 현실에서 좋은 소식이 찾아올 수 있습니다.",
+      "interpretation_en": "Interpreted by reversal — despite the frightening threat in the dream, positive and pleasant events may occur in waking life. Good news may arrive unexpectedly."
+    },
+    {
+      "keyword_ko": "도깨비불을 보는 꿈",
+      "keyword_en": "dream of seeing dokkaebi fire (will-o-the-wisp)",
+      "interpretation_ko": "진행 중인 일에 갑작스러운 장애나 방해가 생길 것을 암시하는 흉몽입니다. 계획이 틀어지거나 예상치 못한 난관에 부딪힐 수 있습니다.",
+      "interpretation_en": "An inauspicious dream warning of sudden obstacles or interference in current plans. Projects may be derailed or unexpected difficulties may arise."
+    },
+    {
+      "keyword_ko": "도깨비와 대화하는 꿈",
+      "keyword_en": "dream of talking with a dokkaebi",
+      "interpretation_ko": "뜻밖의 정보나 조언, 혹은 예상치 못한 소식을 접하게 될 징조입니다. 대화 내용이 긍정적이었다면 길몽에 가깝고, 부정적이었다면 주의가 필요합니다.",
+      "interpretation_en": "An omen of receiving unexpected information, advice, or news. If the conversation was positive, it leans toward an auspicious sign; if negative, caution is warranted."
+    },
+    {
+      "keyword_ko": "도깨비가 재물을 주는 꿈",
+      "keyword_en": "dream of a dokkaebi giving you wealth or treasure",
+      "interpretation_ko": "금전적 행운이나 사업상의 이득이 찾아올 대표적인 길몽입니다. 횡재수나 뜻밖의 선물, 귀인의 도움을 받을 수 있습니다.",
+      "interpretation_en": "A classic auspicious dream signaling financial luck, business gains, or an unexpected gift. Help from a benefactor or a stroke of good fortune is on the way."
+    },
+    {
+      "keyword_ko": "도깨비와 싸우는 꿈",
+      "keyword_en": "dream of fighting a dokkaebi",
+      "interpretation_ko": "현실에서 강한 경쟁자나 방해 세력과 맞서게 될 것을 암시합니다. 싸워서 이기면 길몽, 지거나 도망치면 흉몽으로 해석됩니다.",
+      "interpretation_en": "Suggests confronting strong rivals or opposing forces in real life. Winning the fight is auspicious; losing or fleeing indicates difficulties ahead."
+    }
+  ],
+  "culturalContext": {
+    "korean": "도깨비는 한국 민간신앙에서 수천 년의 역사를 가진 독특한 초자연적 존재입니다. '도깨비'라는 단어 자체는 '불' 또는 '씨앗'을 뜻하는 '돗'과 '성인 남성'을 뜻하는 '아비'가 결합된 합성어로, 생산력과 풍요를 의미합니다. 삼국시대부터 이미 도깨비 신앙이 존재했을 것으로 추정되며, 도깨비는 주로 남성신(男性神)으로 모셔지며 재물을 가져다주는 재물신의 기능을 수행했습니다. 중국의 귀신(鬼神)이나 일본의 오니(鬼)와는 달리, 한국의 도깨비는 악독하게 인간을 해치기보다는 인간의 꾀에 속아 넘어가는 해학적인 성격을 지닙니다. 민담에서 도깨비는 착한 사람을 돕거나 게으르고 욕심 많은 사람을 골탕 먹이는 도덕적 조력자로도 등장합니다. 도깨비불(도깨비 불빛)은 묘지나 습지에서 목격되는 인광 현상과 연결되어 두려움의 대상이기도 했습니다. 이처럼 도깨비는 풍요와 재난, 장난과 도움이라는 양면성을 동시에 지닌 존재로, 꿈에서 도깨비의 행동이 어떠했는지에 따라 길흉이 정반대로 달라집니다.",
+    "english": "The dokkaebi is a uniquely Korean supernatural being with thousands of years of folk history. The word itself is a compound of 'dot' (meaning fire or seed, symbolizing fertility and abundance) and 'abi' (meaning adult male), reflecting its core association with productivity and prosperity. Dokkaebi belief likely dates back to the Three Kingdoms period, and the dokkaebi was traditionally venerated as a male deity who could bring wealth and fortune. Unlike Chinese gui or Japanese oni, the Korean dokkaebi is not purely malevolent — it is characteristically mischievous, easily outwitted by clever humans, and often portrayed with a sense of humor. In folk tales, the dokkaebi helps the virtuous and tricks the greedy, serving as a moral arbiter. Dokkaebi fire (도깨비불), a ghostly light associated with graveyards and marshes, also contributed to the creature's fearsome reputation. This duality — harbinger of both wealth and misfortune, helper and trickster — explains why dream interpretations involving the dokkaebi depend so heavily on the specific actions and emotions experienced within the dream."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트의 정신분석학적 관점에서 도깨비 꿈은 억압된 충동이나 무의식 속의 두려움이 괴물의 형상으로 투영된 것으로 해석할 수 있어요. 도깨비에게 쫓기는 꿈은 현실에서 직면하기 두려운 문제나 책임으로부터 도망치려는 심리를 반영할 수 있어요. 반면 도깨비를 물리치는 꿈은 억압되었던 욕망이나 공격성이 해소되는 형태로 나타날 수 있어요.",
+      "english": "From a Freudian psychoanalytic perspective, dreams of a dokkaebi may represent repressed impulses or unconscious fears projected onto a monstrous figure. Being chased by a dokkaebi may reflect the dreamer's desire to flee from feared responsibilities or unresolved conflicts in waking life. Conversely, defeating a dokkaebi could represent the release of suppressed aggression or the fulfillment of a wish to overcome a real-life adversary."
+    },
+    "jungian": {
+      "korean": "융의 분석심리학에서 도깨비와 같은 기이한 존재는 집단무의식 속의 '트릭스터(Trickster)' 원형을 나타내요. 트릭스터는 규칙을 어기고 경계를 허물며 변화를 촉발하는 존재로, 도깨비의 해학적이고 예측 불가능한 성격과 정확히 일치해요. 도깨비 꿈은 자아와 그림자(Shadow) 사이의 갈등, 즉 통제되지 않은 자아의 일부와의 마주침을 상징할 수 있으며, 이를 통합하는 과정이 개성화(individuation)의 단계가 될 수 있어요.",
+      "english": "In Jungian analytical psychology, a bizarre and unpredictable figure like the dokkaebi represents the 'Trickster' archetype of the collective unconscious. The Trickster breaks rules, dissolves boundaries, and catalyzes change — closely matching the dokkaebi's mischievous and unpredictable nature. Dreaming of a dokkaebi may symbolize a confrontation between the ego and the Shadow, an encounter with an uncontrolled or unacknowledged aspect of the self, and integrating this energy can be a step in the individuation process."
+    },
+    "modern": {
+      "korean": "현대 심리학과 뇌과학 관점에서 도깨비 꿈은 일상에서 쌓인 스트레스, 통제할 수 없는 외부 환경에 대한 불안, 또는 인생의 전환점에서 오는 불확실성이 꿈으로 표출된 것으로 볼 수 있어요. 우리 뇌는 수면 중 감정 기억을 처리하며, 낯설고 두려운 존재는 해결되지 않은 갈등이나 예측 불가능한 미래에 대한 걱정을 상징적으로 형상화하는 경향이 있어요.",
+      "english": "From a modern psychological and neuroscientific perspective, dreams of a dokkaebi likely reflect accumulated stress, anxiety about uncontrollable external circumstances, or uncertainty surrounding life transitions. The sleeping brain processes emotional memories and often personifies unresolved conflicts or fears about an unpredictable future as strange, threatening figures — which the dokkaebi embodies well."
+    },
+    "crossCultural": {
+      "korean": "한국 전통 해몽은 도깨비를 재물과 풍요의 신으로 보아 꿈에서의 방문을 길조로 해석하는 반면, 서양 심리학은 괴물적 존재를 주로 두려움이나 내면 갈등의 투영으로 봐요. 두 관점 모두 예상치 못한 변화와 삶의 전환을 암시한다는 점에서는 공통점을 찾을 수 있어요.",
+      "english": "Korean folk tradition views the dokkaebi as a potential bringer of wealth, often interpreting its appearance as an auspicious sign, while Western psychology primarily reads monstrous dream figures as projections of fear or internal conflict. Both perspectives agree, however, that such dreams signal unexpected change and significant life transitions."
+    }
+  },
+  "relatedSymbols": ["ghost", "dragon", "fox", "nine-tailed-fox", "fire", "spirit"],
+  "seoKeywords": {
+    "korean": [
+      "도깨비 꿈해몽",
+      "도깨비 꿈",
+      "도깨비 꿈 의미",
+      "도깨비 꿈 길몽",
+      "도깨비 꿈 흉몽",
+      "도깨비에 쫓기는 꿈",
+      "도깨비가 집에 들어오는 꿈",
+      "도깨비 꿈 재물",
+      "도깨비에게 맞는 꿈",
+      "도깨비불 꿈해몽",
+      "도깨비 꿈 해석",
+      "도깨비 나오는 꿈"
+    ],
+    "english": [
+      "dokkaebi dream meaning",
+      "korean goblin dream interpretation",
+      "dreaming of dokkaebi",
+      "korean goblin dream auspicious",
+      "being chased by dokkaebi dream",
+      "dokkaebi dream wealth",
+      "korean spirit dream meaning",
+      "goblin dream korean folklore"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "도깨비 꿈은 길몽인가요, 흉몽인가요?",
+      "answer_ko": "도깨비 꿈은 꿈속 상황에 따라 길몽이 되기도 하고 흉몽이 되기도 합니다. 도깨비가 재물을 가져오거나 집에 들어오는 꿈은 횡재와 풍요를 뜻하는 길몽이고, 반대로 도깨비에게 쫓기거나 맞는 꿈은 장애와 건강 문제를 경고하는 흉몽입니다.",
+      "question_en": "Is dreaming of a dokkaebi auspicious or inauspicious?",
+      "answer_en": "It depends entirely on the context of the dream. A dokkaebi bringing wealth or entering your home is auspicious, signaling unexpected fortune. Being chased or beaten by a dokkaebi is inauspicious, warning of obstacles or health issues."
+    },
+    {
+      "question_ko": "도깨비가 집에 들어오는 꿈을 꾸면 어떤 의미인가요?",
+      "answer_ko": "도깨비가 집 안으로 들어오는 꿈은 재물과 풍요가 찾아온다는 대표적인 길몽입니다. 한국 민간신앙에서 도깨비는 재물신으로 여겨지기 때문에, 도깨비의 방문은 횡재나 사업 번창의 징조로 해석됩니다.",
+      "question_en": "What does it mean to dream of a dokkaebi entering your home?",
+      "answer_en": "This is considered a highly auspicious dream signaling incoming wealth and prosperity. In Korean folk belief, the dokkaebi functions as a deity of wealth, so its entry into your home is interpreted as a sign of a windfall or business growth."
+    },
+    {
+      "question_ko": "도깨비에게 쫓기는 꿈은 무슨 의미인가요?",
+      "answer_ko": "도깨비에게 쫓기는 꿈은 흉몽으로, 현재 진행 중인 일에 장애가 생기거나 갈등과 스트레스가 커질 것을 암시합니다. 경쟁자나 방해 세력에 시달릴 수 있으니 주의가 필요합니다.",
+      "question_en": "What does it mean to dream of being chased by a dokkaebi?",
+      "answer_en": "Being chased by a dokkaebi is an inauspicious dream, suggesting that current projects will face difficulties and that stress or conflict may escalate. It may also indicate interference from rivals or adversaries."
+    },
+    {
+      "question_ko": "도깨비를 물리치는 꿈은 좋은 꿈인가요?",
+      "answer_ko": "네, 도깨비를 이기거나 물리치는 꿈은 길몽입니다. 오랫동안 막혀 있던 일이 해결되고, 경쟁자를 극복하거나 어려운 상황에서 벗어날 수 있음을 의미합니다.",
+      "question_en": "Is it a good sign to dream of defeating a dokkaebi?",
+      "answer_en": "Yes, defeating a dokkaebi in a dream is auspicious. It means longstanding obstacles will be resolved, rivals will be overcome, and you will successfully navigate difficult circumstances."
+    },
+    {
+      "question_ko": "도깨비불을 보는 꿈은 어떤 의미인가요?",
+      "answer_ko": "도깨비불(귀화)을 보는 꿈은 진행 중인 일에 갑작스러운 방해나 장애가 생길 것을 경고하는 흉몽입니다. 계획이 예상치 못하게 틀어지거나 주변의 구설수에 휘말릴 수 있으니 각별히 주의해야 합니다.",
+      "question_en": "What does it mean to see dokkaebi fire in a dream?",
+      "answer_en": "Seeing dokkaebi fire (will-o-the-wisp) in a dream is an inauspicious omen warning of sudden obstacles or unexpected disruptions in ongoing plans. Be cautious of situations where plans may go awry or social conflict may arise."
+    },
+    {
+      "question_ko": "도깨비 꿈이 태몽이 될 수 있나요?",
+      "answer_ko": "전통적으로 태몽에서 도깨비가 등장하는 경우, 도깨비의 활기차고 강인한 성격을 닮아 힘 있고 개성 강한 아이가 태어날 것으로 해석하기도 합니다. 다만 태몽 여부는 꿈의 전체적인 분위기와 임신 여부를 함께 고려해야 합니다.",
+      "question_en": "Can a dokkaebi dream be a pregnancy dream (태몽)?",
+      "answer_en": "In traditional Korean interpretation, a dokkaebi appearing in a pregnancy dream (태몽) suggests the birth of a child with a strong, spirited, and highly individual personality, reflecting the dokkaebi's energetic and forceful nature. Whether a dream qualifies as a 태몽 depends on the overall mood and the dreamer's circumstances."
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "symbol": {
+    "korean": "무덤",
+    "english": "Grave",
+    "slug": "grave-dream"
+  },
+  "summary": {
+    "korean": "무덤 꿈은 한국 전통 꿈해몽에서 흔히 재물운, 가문의 번영, 또는 새로운 시작을 예고하는 길몽으로 해석되지만, 무덤이 황폐하거나 훼손된 경우에는 가족의 불화나 건강 악화를 경고하는 흉몽이 될 수 있습니다.",
+    "english": "In Korean dream interpretation, dreaming of a grave is often considered an auspicious sign foretelling wealth, family prosperity, or a new beginning, though a desolate or damaged grave warns of family strife or declining health."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "거대하고 웅장한 무덤을 보는 꿈은 사회적 지위와 명예가 높아질 것을 예고합니다. 자신의 무덤을 보는 꿈은 현재의 어려움이 해소되고 새로운 기회와 변화가 찾아올 징조입니다. 무덤에서 금은보화가 쏟아지거나 빛이 새어 나오는 꿈은 뜻밖의 횡재와 재물운을 상징합니다.",
+      "english": "Dreaming of a grand and imposing grave foretells a rise in social status and honor. Seeing your own grave signals that current hardships will dissolve and new opportunities will arrive. A grave from which treasure or light emerges symbolizes unexpected windfall and financial fortune.",
+      "context": "When the grave appears well-maintained, luminous, or is associated with treasure, fire, or lush greenery — pointing to positive transformation and material gain."
+    },
+    {
+      "type": "흉몽",
+      "korean": "무덤이 황폐하거나 잡초로 뒤덮인 꿈은 가족 간의 갈등, 재산 분쟁, 또는 집안의 불운을 경고합니다. 무덤에 구멍이 뚫려 있거나 썩은 시체나 해골이 나오는 꿈은 질병이나 건강 악화를 암시합니다. 관이 저절로 솟아오르는 꿈은 사고나 재물 손실의 위험을 나타냅니다.",
+      "english": "Dreaming of a desolate or weed-covered grave warns of family conflict, inheritance disputes, or household misfortune. A grave with holes or from which a rotting corpse or skull emerges signals illness or deteriorating health. A coffin rising on its own from a grave indicates risk of accident or financial loss.",
+      "context": "When the grave is damaged, overgrown, empty, or associated with decay — pointing to family troubles, health risk, or material loss."
+    },
+    {
+      "type": "neutral",
+      "korean": "무덤 꿈은 전반적으로 '죽음'보다는 '변화'와 '전환'을 상징합니다. 조상의 무덤이 등장하는 꿈은 조상의 음덕(陰德)으로 뒷받침을 받는다는 의미이며, 꿈 속 상황에 따라 가문의 번영이나 개인적 시련을 예고합니다. 공동묘지가 배경인 꿈은 인생의 중요한 전환점에 서 있음을 암시하는 경우가 많습니다.",
+      "english": "Grave dreams broadly symbolize transformation and transition rather than literal death. Ancestral graves represent support from one's lineage, and the outcome varies by context — family prosperity or personal hardship. A cemetery setting often signals that the dreamer stands at an important crossroads in life.",
+      "context": "When the overall atmosphere of the grave dream is ambiguous — neither clearly luminous nor decayed — the interpretation depends heavily on emotion felt during the dream."
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "자신의 무덤을 보는 꿈",
+      "keyword_en": "dream of seeing your own grave",
+      "interpretation_ko": "현재 겪고 있는 어려움이 해결되고, 새로운 변화와 기회가 찾아올 것을 예고하는 길몽입니다.",
+      "interpretation_en": "An auspicious dream foretelling that current difficulties will be resolved and new opportunities will arrive."
+    },
+    {
+      "keyword_ko": "무덤을 파는 꿈",
+      "keyword_en": "dream of digging a grave",
+      "interpretation_ko": "새로운 직장이나 사업 기회를 얻거나 열심히 노력한 일이 성과를 맺는 길몽입니다. 지금까지 하지 않았던 새로운 일을 시작하게 됨을 예고하기도 합니다.",
+      "interpretation_en": "An auspicious dream indicating a new job, business opportunity, or the fruition of hard work. May also foreshadow starting a new venture."
+    },
+    {
+      "keyword_ko": "조상 무덤 꿈",
+      "keyword_en": "dream of ancestral grave",
+      "interpretation_ko": "조상의 음덕으로 도움과 협조가 따를 것을 뜻합니다. 조상 무덤이 깔끔하고 정돈되어 있으면 집안이 번성하고 자손이 잘 풀릴 길조입니다.",
+      "interpretation_en": "Symbolizes support from ancestral virtue. A well-kept ancestral grave foretells that the family line will prosper and descendants will thrive."
+    },
+    {
+      "keyword_ko": "공동묘지 꿈",
+      "keyword_en": "dream of a cemetery",
+      "interpretation_ko": "인생의 중요한 전환점을 암시하는 중립적 꿈입니다. 자신의 무덤이 가장 크게 보이는 꿈은 주변에서 뛰어난 배경과 인맥을 갖게 됨을 의미합니다.",
+      "interpretation_en": "Often a neutral dream signaling a major life crossroads. If your grave is the largest in the cemetery, it suggests you will have the strongest connections and backing among your peers."
+    },
+    {
+      "keyword_ko": "무덤에서 불이 타오르는 꿈",
+      "keyword_en": "dream of fire burning on a grave",
+      "interpretation_ko": "재능을 인정받고 사업이 번창할 길몽입니다. 단, 조상 무덤에 불이 나는 꿈은 가족의 질병이나 사고를 경고하는 흉몽으로 구분됩니다.",
+      "interpretation_en": "Seeing fire on a grave is generally auspicious — talent recognized and business thriving. However, ancestral graves catching fire warns of family illness or accident."
+    },
+    {
+      "keyword_ko": "무덤이 갈라져 금은보화가 나오는 꿈",
+      "keyword_en": "dream of grave splitting open with treasure inside",
+      "interpretation_ko": "뜻밖의 횡재나 재물운을 상징하는 강력한 길몽입니다.",
+      "interpretation_en": "A powerful auspicious dream symbolizing unexpected windfall or major financial fortune."
+    },
+    {
+      "keyword_ko": "무덤에 잡초가 무성한 꿈",
+      "keyword_en": "dream of a grave overgrown with weeds",
+      "interpretation_ko": "가족 간 갈등이나 집안 문제가 생길 수 있음을 경고하는 흉몽입니다.",
+      "interpretation_en": "An inauspicious dream warning of family conflict or domestic troubles ahead."
+    },
+    {
+      "keyword_ko": "무덤 속 시체나 해골이 나오는 꿈",
+      "keyword_en": "dream of a corpse or skull emerging from a grave",
+      "interpretation_ko": "썩은 해골이나 시체가 보이면 질병이 발생할 수 있음을 경고하는 흉몽입니다. 반면 오래된 해골은 재물운 상승이나 시험 합격을 암시하기도 합니다.",
+      "interpretation_en": "A rotting corpse or skull emerging from a grave is inauspicious, warning of illness. However, an old skeleton in a grave can paradoxically signal rising wealth or exam success."
+    },
+    {
+      "keyword_ko": "무덤에 햇살이 비치는 꿈",
+      "keyword_en": "dream of sunlight shining on a grave",
+      "interpretation_ko": "사업 번창, 승진, 또는 결혼의 길운을 예고하는 밝은 길몽입니다.",
+      "interpretation_en": "A bright auspicious dream foretelling thriving business, promotion, or fortunate marriage."
+    },
+    {
+      "keyword_ko": "무덤을 파고 관을 내리는 꿈",
+      "keyword_en": "dream of digging a grave and lowering a coffin",
+      "interpretation_ko": "새 집 구입이나 부동산 취득을 암시하는 길몽입니다.",
+      "interpretation_en": "An auspicious dream hinting at purchasing a new home or acquiring real estate."
+    },
+    {
+      "keyword_ko": "산소를 이장하는 꿈",
+      "keyword_en": "dream of moving or relocating a grave",
+      "interpretation_ko": "재물 수입이 생기거나 이사를 하게 될 것을 암시합니다.",
+      "interpretation_en": "Suggests incoming income or an imminent move to a new home."
+    },
+    {
+      "keyword_ko": "무덤에 들어가는 꿈",
+      "keyword_en": "dream of entering a grave",
+      "interpretation_ko": "소송이나 법적 분쟁에 휘말릴 가능성을 경고하는 흉몽입니다.",
+      "interpretation_en": "An inauspicious dream warning of potential involvement in legal disputes or lawsuits."
+    },
+    {
+      "keyword_ko": "무덤 옆에 푸른 나무가 무성한 꿈",
+      "keyword_en": "dream of lush green trees by a grave",
+      "interpretation_ko": "가족의 행운과 자손의 번영을 예고하는 길몽입니다.",
+      "interpretation_en": "An auspicious dream foretelling good fortune for the family and prosperity for descendants."
+    },
+    {
+      "keyword_ko": "무덤에 꽃이 피는 꿈",
+      "keyword_en": "dream of flowers blooming on a grave",
+      "interpretation_ko": "태몽일 가능성이 높으며, 귀한 자식을 얻을 것을 예고하는 길몽입니다.",
+      "interpretation_en": "Likely a pregnancy dream (태몽) foretelling the birth of a precious child."
+    }
+  ],
+  "culturalContext": {
+    "korean": "한국 전통에서 무덤은 단순히 죽음의 장소가 아니라 조상과 후손을 잇는 신성한 공간으로 여겨집니다. 풍수지리 사상에 따르면 조상의 묘가 명당(明堂)에 위치할수록 후손에게 복이 내린다고 믿어, 묏자리 선정은 예로부터 집안의 중대사였습니다. 무속 신앙(샤머니즘)에서도 조상령은 살아 있는 가족을 보살피거나 경고를 전달하는 존재로, 꿈을 통해 소통한다고 믿습니다. 이 때문에 무덤이 등장하는 꿈은 조상의 음덕(陰德)—즉 눈에 보이지 않는 조상의 보호와 도움—을 받거나 집안에 중대한 변화가 닥칠 것을 알리는 메시지로 해석됩니다. 무덤의 상태(깨끗함, 황폐함, 빛, 불꽃 등)가 꿈 해석의 핵심 열쇠가 되며, 이는 풍수의 지기(地氣) 개념과도 긴밀히 연결됩니다.",
+    "english": "In Korean tradition, a grave is not merely a place of death but a sacred space connecting ancestors to their descendants. According to the principles of feng shui (pungsu-jiri), a well-positioned ancestral grave in an auspicious site (myeongdang) is believed to bring blessings to living family members, making grave-site selection a matter of great familial importance. In Korean shamanism (musok sinang), ancestral spirits are thought to watch over and communicate with living family through dreams. A grave appearing in a dream is therefore interpreted as a message of ancestral protection or a warning of significant family change. The condition of the grave — whether pristine, luminous, desolate, or fire-lit — is the key variable in interpretation, directly mirroring the concept of vital earth energy (jigi) in geomantic thought."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트의 정신분석학적 관점에서 무덤 꿈은 죽음 본능(타나토스, Thanatos)과 관련이 깊어요. 무덤은 억압된 두려움이나 끝내고 싶은 관계, 또는 자아가 직면하기를 거부하는 상실감이 표면화된 것으로 볼 수 있어요. 자신의 무덤을 보는 꿈은 자기 파괴적 충동이나 삶의 전환점에 대한 무의식적 불안을 반영하기도 해요.",
+      "english": "From a Freudian psychoanalytic perspective, grave dreams are closely linked to the death drive (Thanatos). The grave may represent repressed fears, a relationship the dreamer wishes to end, or a sense of loss the ego refuses to consciously confront. Dreaming of one's own grave can also reflect self-destructive impulses or unconscious anxiety about a major life transition."
+    },
+    "jungian": {
+      "korean": "융의 분석심리학에서 무덤은 집단 무의식 속의 원형적 이미지로, '죽음과 재탄생'이라는 보편적 변환 과정을 상징해요. 무덤 속으로 들어가거나 시체가 나오는 꿈은 개성화(individuation) 과정에서 낡은 자아가 해체되고 더 성숙한 자아가 탄생하는 것을 의미할 수 있어요. 조상의 무덤은 집단적 뿌리와 무의식적 유산을 나타내는 '그림자' 원형과 연결되어 있어요.",
+      "english": "In Jungian analytical psychology, a grave is an archetypal image within the collective unconscious symbolizing the universal process of death and rebirth. Entering a grave or seeing a body emerge represents the dissolution of an old self during the individuation process, giving way to a more mature identity. Ancestral graves connect to the 'Shadow' archetype — the collective roots and unconscious inheritance carried through a family lineage."
+    },
+    "modern": {
+      "korean": "현대 인지심리학과 뇌과학 관점에서 무덤 꿈은 주로 삶의 변화, 상실, 또는 마무리되지 않은 슬픔에 대한 뇌의 감정 처리 과정을 반영해요. 최근 연구에 따르면 사별이나 이별, 실직 등 상실을 경험한 사람이 무덤 꿈을 더 자주 꾸는 것으로 나타나요. 이 꿈은 문제 해결 중심 수면(problem-solving sleep) 이론에 따라 뇌가 변화에 적응하는 방식으로도 해석돼요.",
+      "english": "From a modern cognitive psychology and neuroscience perspective, grave dreams primarily reflect the brain's emotional processing of life changes, loss, or unresolved grief. Research suggests that people who have recently experienced bereavement, separation, or job loss tend to dream of graves more frequently. Under the problem-solving sleep theory, such dreams represent the brain actively working to adapt to change."
+    },
+    "crossCultural": {
+      "korean": "서양에서 무덤 꿈은 주로 두려움, 상실, 또는 종결을 상징하는 부정적 이미지로 해석되는 반면, 한국 전통 꿈해몽에서는 오히려 재물운과 가문의 번영을 예고하는 길몽으로 보는 경우가 더 많아요.",
+      "english": "While Western dream traditions tend to interpret graves as symbols of fear, loss, or finality, Korean folk interpretation more frequently reads grave dreams as auspicious omens of wealth and family prosperity — a significant cultural divergence."
+    }
+  },
+  "relatedSymbols": [
+    "death",
+    "ancestor",
+    "coffin",
+    "cemetery",
+    "ghost",
+    "mountain",
+    "funeral"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "무덤꿈",
+      "무덤 꿈해몽",
+      "무덤 꿈 의미",
+      "무덤 꿈 길몽",
+      "무덤 꿈 흉몽",
+      "조상 무덤 꿈",
+      "공동묘지 꿈해몽",
+      "무덤 파는 꿈",
+      "산소 꿈해몽",
+      "무덤에서 불나는 꿈",
+      "무덤에서 시체 나오는 꿈",
+      "무덤 꿈 재물",
+      "묘지 꿈해몽",
+      "산소 이장하는 꿈"
+    ],
+    "english": [
+      "grave dream meaning",
+      "dream about graves korean interpretation",
+      "digging a grave dream meaning",
+      "ancestral grave dream",
+      "cemetery dream meaning korean",
+      "dream of grave auspicious",
+      "grave dream fortune",
+      "dreaming of a tombstone meaning",
+      "korean grave dream good or bad"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "무덤 꿈은 길몽인가요, 흉몽인가요?",
+      "answer_ko": "무덤 꿈은 상황에 따라 길몽과 흉몽으로 나뉩니다. 무덤이 크고 웅장하거나, 빛이 나거나, 꽃이 피어 있거나, 금은보화가 나오면 재물운·승진·가족 번영을 예고하는 길몽입니다. 반면 무덤이 황폐하거나 잡초가 무성하거나 구멍이 뚫려 있으면 가족 갈등·건강 악화를 경고하는 흉몽입니다.",
+      "question_en": "Is dreaming of a grave an auspicious or inauspicious dream?",
+      "answer_en": "It depends entirely on the condition of the grave. A grand, glowing, flower-filled, or treasure-yielding grave is auspicious — foretelling wealth, promotion, or family prosperity. A desolate, weed-covered, or damaged grave is inauspicious, warning of family conflict or health decline."
+    },
+    {
+      "question_ko": "무덤을 파는 꿈은 어떤 의미인가요?",
+      "answer_ko": "무덤을 파는 꿈은 한국 꿈해몽에서 길몽으로 해석됩니다. 새로운 직장이나 사업 기회를 얻거나, 그동안 노력해 온 일이 성과를 보게 됨을 암시합니다.",
+      "question_en": "What does it mean to dream of digging a grave?",
+      "answer_en": "Digging a grave is considered auspicious in Korean dream interpretation. It suggests a new job opportunity, a successful business venture, or the rewarding payoff of long-term effort."
+    },
+    {
+      "question_ko": "조상 무덤이 나오는 꿈은 무슨 의미인가요?",
+      "answer_ko": "조상 무덤이 나오는 꿈은 조상의 음덕을 받아 일이 잘 풀리거나 주변에서 도움을 받게 될 것을 의미합니다. 무덤이 깔끔하게 정돈된 상태라면 집안 전체의 번영을 뜻하고, 황폐하다면 가족 관계에 주의가 필요합니다.",
+      "question_en": "What does an ancestral grave in a dream mean?",
+      "answer_en": "An ancestral grave in a dream symbolizes support from your lineage. A well-kept ancestral grave foretells family prosperity and assistance from others; a neglected one calls for attention to family relationships."
+    },
+    {
+      "question_ko": "무덤 꿈이 태몽이 될 수도 있나요?",
+      "answer_ko": "네, 무덤에 꽃이 피거나 나무가 무성하게 자라는 꿈은 태몽으로 해석되기도 합니다. 특히 묘지에 꽃이 활짝 피는 꿈은 귀하고 복 많은 아이를 임신하게 될 것을 예고하는 태몽으로 알려져 있습니다.",
+      "question_en": "Can a grave dream be a pregnancy dream (태몽)?",
+      "answer_en": "Yes. A grave with flowers blooming or lush trees growing around it can be interpreted as a pregnancy dream (taemong). In particular, a cemetery blooming with flowers is said to foretell conceiving a blessed and precious child."
+    },
+    {
+      "question_ko": "공동묘지가 나오는 꿈은 나쁜 꿈인가요?",
+      "answer_ko": "반드시 나쁜 것은 아닙니다. 공동묘지에서 자신의 무덤이 가장 크고 웅장하게 보이는 꿈은 주변에서 가장 뛰어난 배경과 인맥을 갖게 됨을 의미하는 길몽입니다. 다만 조상 무덤을 찾지 못하거나 황폐한 묘지가 배경이면 어려움이 닥칠 수 있음을 경고합니다.",
+      "question_en": "Is dreaming of a cemetery a bad dream?",
+      "answer_en": "Not necessarily. If your grave appears as the largest in the cemetery, it is auspicious, symbolizing superior connections and support. However, failing to find an ancestral grave or seeing a desolate cemetery warns of coming hardship."
+    },
+    {
+      "question_ko": "무덤에서 불이 나는 꿈은 어떻게 해석하나요?",
+      "answer_ko": "일반 무덤에서 불이 타오르거나 번지는 꿈은 재능 인정, 사업 번창, 좋은 소문 확산을 뜻하는 길몽입니다. 단, 조상의 무덤에 불이 나는 꿈은 가족 중 질병이나 사고가 발생할 수 있음을 경고하는 흉몽으로 구분하여 해석합니다.",
+      "question_en": "How is a grave on fire interpreted in Korean dreams?",
+      "answer_en": "Fire burning on a general grave is auspicious — it signals recognition of talent, business success, and spreading good reputation. However, if the fire is specifically on an ancestral grave, it is inauspicious, warning of illness or accident within the family."
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "symbol": {
+    "korean": "술 꿈",
+    "english": "Dream of Alcohol",
+    "slug": "alcohol-dream"
+  },
+  "summary": {
+    "korean": "술 꿈은 인간관계, 재물운, 그리고 내면의 감정 상태를 반영하며, 술의 온도와 함께 마시는 상대에 따라 길몽과 흉몽이 결정됩니다.",
+    "english": "Dreaming of alcohol in Korean tradition reflects relationships, financial fortune, and emotional state — with the temperature of the drink and the company you keep determining whether the dream is auspicious or ominous."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "차가운 술을 마시는 꿈은 재물운이 상승하고 승진이나 경제적 이득을 얻게 되는 대표적인 길몽입니다. 시원한 맥주나 얼음을 넣은 칵테일을 마시는 꿈은 소원 성취와 가까운 미래의 성공을 암시합니다.",
+      "english": "Dreaming of drinking cold alcohol — chilled beer or an iced cocktail — is a classic auspicious sign indicating rising financial fortune, a promotion, or the fulfillment of a long-held wish in the near future.",
+      "context": "차가운 술을 마시는 꿈. The cold temperature symbolizes clarity and vitality, contrasted with the heat that signals danger."
+    },
+    {
+      "type": "길몽",
+      "korean": "윗사람이나 고위직에 있는 사람으로부터 술을 받아 마시는 꿈은 명예를 얻고 중요한 일을 성공적으로 완수한다는 의미의 길몽입니다. 대통령이나 유명인에게 술을 대접받는 꿈은 권력자나 귀인의 도움을 받을 것을 뜻합니다.",
+      "english": "Receiving alcohol from someone of high status — a superior, elder, or prominent figure — is an auspicious sign foretelling honor, successful completion of important tasks, and assistance from influential people.",
+      "context": "지위 높은 사람에게 술을 받는 꿈. In Korean culture, being served by one's senior carries deep meaning as an act of recognition and blessing."
+    },
+    {
+      "type": "길몽",
+      "korean": "가고 싶은 만큼 실컷 술을 마시는 꿈은 혼사나 경사스러운 일이 다가올 것을 암시합니다. 연인 또는 부부가 함께 술을 마시는 꿈은 관계가 더욱 발전하고 화목해질 것을 나타냅니다.",
+      "english": "Drinking freely to your heart's content in a dream foretells a wedding or joyous occasion approaching for you or a loved one. Drinking together with a romantic partner or spouse signals deepening harmony and positive relationship development.",
+      "context": "실컷 술을 마시거나 연인과 함께 마시는 꿈. Abundance in the dream world maps to abundance in waking life."
+    },
+    {
+      "type": "길몽",
+      "korean": "집이나 양조장에서 술을 직접 담그는 꿈은 곧 좋은 일이 생겨 재물을 얻게 되리라는 길몽입니다. 가득 찬 술통이나 술병이 등장하는 꿈도 부와 성취를 상징합니다.",
+      "english": "Brewing or making alcohol at home or in a brewery is an auspicious dream predicting financial gain from an upcoming positive event. Seeing full barrels or vessels of alcohol similarly symbolizes wealth and achievement waiting to be claimed.",
+      "context": "술을 담그거나 가득 찬 술통이 나오는 꿈. The act of creation and full vessels both signify abundance."
+    },
+    {
+      "type": "흉몽",
+      "korean": "혼자서 술을 마시는 꿈은 현실에서 외로움과 고독감, 심적 고통을 겪고 있거나 어려운 상황에 놓여 있음을 반영합니다. 고립된 음주는 고립된 현실을 상징합니다.",
+      "english": "Drinking alone in a dream reflects isolation, emotional hardship, and difficult circumstances in waking life. The solitary act of drinking mirrors a lonely or struggling reality.",
+      "context": "혼자 술을 마시는 꿈. Korean social culture regards drinking as a communal activity — drinking alone in a dream signals an absence of community and support."
+    },
+    {
+      "type": "흉몽",
+      "korean": "뜨겁거나 따뜻한 술을 마시거나 대접하는 꿈은 가족 중 누군가 부상을 당하거나 재정적 손실이 생길 수 있음을 경고합니다. 뜨거운 술은 위험과 불행의 상징입니다.",
+      "english": "Drinking or serving hot or warm alcohol in a dream is a warning sign that a family member may suffer injury or that financial losses are coming. Heat in the drink symbolizes danger and misfortune.",
+      "context": "뜨거운 술이 나오는 꿈. Cold is auspicious, hot is ominous — a consistent polarity in Korean folk dream interpretation."
+    },
+    {
+      "type": "흉몽",
+      "korean": "술을 마시다 싸우거나 다투는 꿈은 현실에서 재산 피해나 사업 손실이 생길 수 있음을 경고합니다. 술자리에서 다툼이 벌어지는 꿈은 대인 관계 갈등의 전조이기도 합니다.",
+      "english": "Arguing or fighting while drinking in a dream warns of property damage, business losses, or real-world interpersonal conflict. A quarrel at the drinking table foreshadows disputes that may spill into waking life.",
+      "context": "술 마시고 싸우는 꿈. The festive setting turning sour amplifies the negative symbolism."
+    },
+    {
+      "type": "흉몽",
+      "korean": "술에 취해 넘어지거나 쓰러지는 꿈은 신뢰하던 사람에게 배신당하거나 법적 문제에 휘말릴 수 있음을 암시합니다. 술잔이 깨지거나 쏟아지는 꿈은 재정적 손실과 가정 불화를 예고합니다.",
+      "english": "Getting drunk and falling down in a dream suggests betrayal by a trusted person or entanglement in legal trouble. Broken or spilled drinking vessels predict financial loss and family discord.",
+      "context": "취해서 쓰러지거나 술잔이 깨지는 꿈. Loss of control while drinking = loss of control in life."
+    },
+    {
+      "type": "neutral",
+      "korean": "술자리에서 단순히 술을 바라보기만 하고 마시지 못하는 꿈은 경제적 어려움이나 원하는 것을 손에 넣지 못하는 상황을 상징합니다. 현재의 처지에 대한 심리적 반영으로 해석됩니다.",
+      "english": "Simply seeing alcohol without being able to drink it in a dream symbolizes economic hardship or an inability to attain desired goals. This is often a psychological reflection of the dreamer's current circumstances rather than a direct omen.",
+      "context": "술을 보기만 하고 마시지 못하는 꿈. Context-dependent: can signal thirst (unfulfilled desire) rather than a concrete auspicious or inauspicious outcome."
+    },
+    {
+      "type": "neutral",
+      "korean": "술을 파는 꿈은 상황에 따라 해석이 달라지지만, 일반적으로 가까운 사람들과 갈등이 생길 수 있음을 암시합니다. 술집이나 주점에 있는 꿈은 정신적 혼란이나 무질서한 생활 패턴을 나타낼 수 있습니다.",
+      "english": "Selling alcohol in a dream generally warns of upcoming conflict with close associates. Being inside a bar or tavern can reflect mental confusion or a disorderly pattern of living, though the precise meaning shifts depending on the emotional tone of the dream.",
+      "context": "술을 팔거나 술집에 있는 꿈. Neither purely auspicious nor inauspicious — depends on the feeling in the dream."
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "차가운 술 마시는 꿈",
+      "keyword_en": "drinking cold alcohol dream",
+      "interpretation_ko": "차가운 술이나 시원한 맥주를 마시는 꿈은 재물운 상승과 승진을 암시하는 길몽입니다. 가까운 미래에 원하는 소원이 이루어질 것을 뜻합니다.",
+      "interpretation_en": "Drinking cold or chilled alcohol is an auspicious sign of rising wealth, a promotion, and the fulfillment of personal wishes in the near future."
+    },
+    {
+      "keyword_ko": "뜨거운 술 마시는 꿈",
+      "keyword_en": "drinking hot alcohol dream",
+      "interpretation_ko": "따뜻하거나 뜨거운 술을 마시는 꿈은 가족의 부상이나 재정적 손실을 경고하는 흉몽입니다.",
+      "interpretation_en": "Drinking warm or hot alcohol warns of injury to a family member or financial losses ahead."
+    },
+    {
+      "keyword_ko": "혼자 술 마시는 꿈",
+      "keyword_en": "drinking alone dream",
+      "interpretation_ko": "혼자 술을 마시는 꿈은 현실에서 외로움, 고독감, 고립된 처지를 반영하는 흉몽입니다. 정서적 어려움이 지속되고 있음을 나타냅니다.",
+      "interpretation_en": "Drinking alone reflects loneliness, emotional hardship, and isolation in waking life — an ominous sign of ongoing personal difficulty."
+    },
+    {
+      "keyword_ko": "술 따라 주는 꿈",
+      "keyword_en": "pouring alcohol for others dream",
+      "interpretation_ko": "지인에게 술을 따라 주는 꿈은 걱정과 근심이 사라지고 마음이 편안해질 것을 암시하는 길몽입니다.",
+      "interpretation_en": "Pouring alcohol for acquaintances is auspicious, signaling the disappearance of anxieties and approaching peace of mind."
+    },
+    {
+      "keyword_ko": "술 받는 꿈",
+      "keyword_en": "receiving alcohol dream",
+      "interpretation_ko": "누군가에게 술을 받는 꿈은 상대방이 자신의 부탁이나 요청을 들어줄 것을 암시합니다. 윗사람에게 받으면 명예와 성공을 뜻하는 길몽입니다.",
+      "interpretation_en": "Being offered or receiving alcohol suggests someone will grant your request or offer assistance. Receiving from a senior figure foretells honor and success."
+    },
+    {
+      "keyword_ko": "술 쏟는 꿈",
+      "keyword_en": "spilling alcohol dream",
+      "interpretation_ko": "술을 쏟거나 술잔이 넘치는 꿈은 예상치 못한 방해, 걱정거리, 재정적 손실을 암시하는 흉몽입니다.",
+      "interpretation_en": "Spilling alcohol or overflowing glasses in a dream warns of unexpected obstacles, worries, and financial loss."
+    },
+    {
+      "keyword_ko": "소주 꿈",
+      "keyword_en": "soju dream",
+      "interpretation_ko": "소주가 나오는 꿈은 사업, 재산, 인간관계 등에서 문제가 생겨 심적 고통을 겪을 수 있음을 암시하는 흉몽입니다. 소주의 서민적 이미지가 어려운 현실을 반영합니다.",
+      "interpretation_en": "A dream featuring soju suggests problems in business, finances, or relationships causing emotional distress. Soju's cultural image as the common person's liquor reflects a struggling reality."
+    },
+    {
+      "keyword_ko": "막걸리 꿈",
+      "keyword_en": "makgeolli dream",
+      "interpretation_ko": "막걸리를 마시는 꿈은 일이 잘 풀리지 않고 결정에 신중함이 필요한 시기임을 나타냅니다. 서민 술이라는 이미지가 어려운 상황을 상징합니다.",
+      "interpretation_en": "Dreaming of makgeolli (Korean rice wine) suggests matters are not progressing well and that cautious decision-making is needed in the period ahead."
+    },
+    {
+      "keyword_ko": "술 담그는 꿈",
+      "keyword_en": "brewing alcohol dream",
+      "interpretation_ko": "직접 술을 담그거나 만드는 꿈은 곧 좋은 일이 생기고 재물을 얻게 되리라는 길몽입니다.",
+      "interpretation_en": "Brewing or making alcohol yourself in a dream predicts good news and financial gain coming soon."
+    },
+    {
+      "keyword_ko": "술 마시고 취하는 꿈",
+      "keyword_en": "getting drunk dream",
+      "interpretation_ko": "술에 잔뜩 취하는 꿈은 혼사나 경사스러운 일을 암시할 수 있는 길몽이지만, 몸이 아픈 사람이 이 꿈을 꾸면 병세가 악화될 수 있다는 경고이기도 합니다.",
+      "interpretation_en": "Getting thoroughly drunk in a dream can be auspicious — hinting at an upcoming marriage or joyous occasion — but for those already ill, it may warn of worsening health."
+    },
+    {
+      "keyword_ko": "윗사람과 함께 술 마시는 꿈",
+      "keyword_en": "drinking with a superior dream",
+      "interpretation_ko": "상사나 지위 높은 사람과 함께 술을 마시는 꿈은 승진, 출세, 성공을 암시하는 길몽입니다.",
+      "interpretation_en": "Drinking with a boss or high-status person is a strongly auspicious dream foretelling promotion, advancement, and professional success."
+    },
+    {
+      "keyword_ko": "축하 자리에서 술 마시는 꿈",
+      "keyword_en": "drinking at a celebration dream",
+      "interpretation_ko": "경사나 잔치 자리에서 여럿이 함께 즐겁게 술을 마시는 꿈은 표면적으로 즐거워 보이지만 불쾌한 사건이나 재정 손실을 예고하는 흉몽으로 해석되기도 합니다.",
+      "interpretation_en": "Drinking happily with a group at a celebration may appear positive but is often interpreted as an ominous sign of unpleasant incidents or financial losses despite the festive atmosphere."
+    }
+  ],
+  "culturalContext": {
+    "korean": "한국 문화에서 술은 단순한 기호품을 넘어 신성한 소통의 매개체였습니다. 제사(祭祀)와 차례(茶禮) 등 조상을 모시는 모든 의례에서 술은 핵심 제물로, 향을 피워 하늘에서 혼(魂)을 불러내리고 술을 따라 땅 밑에서 백(魄)을 불러올리는 강신(降神)의 도구로 여겨졌습니다. 부여의 '영고', 고구려의 '동맹', 예의 '무천' 등 삼국시대 이전 고대 집단 제천의식에서도 음주는 공동체가 신과 소통하는 행위였습니다. 제사 후 제물을 나눠 먹는 음복(飮福)은 복을 나눠 갖는다는 의미로, 술을 중심으로 이루어졌습니다. 이처럼 술은 현세와 저승, 인간과 신을 잇는 매개로서 꿈에서도 중요한 상징성을 갖습니다. 꿈속의 술은 신령으로부터의 축복 혹은 경고가 전달되는 통로로, 술의 온도·함께 마시는 상대·술의 종류가 모두 해몽에 결정적 영향을 미칩니다.",
+    "english": "In Korean culture, alcohol has always been far more than a social beverage — it was a sacred medium connecting the living with the dead and the divine. In jesa (ancestral memorial rites) and charye (holiday rites), liquor is an indispensable offering: incense draws the spirit (hon) down from heaven while pouring alcohol calls the earthly soul (baek) up from the ground — a ritual act called gangshin. This sacred function dates back to pre-Three Kingdoms festivals such as Buyeo's Yeonggo, Goguryeo's Dongmaeng, and Ye's Mucheon, communal ceremonies where drinking was an act of communing with heaven. The post-ritual sharing of food and drink (eumbok, literally 'drinking good fortune') ensured that divine blessings flowed through the whole community. When alcohol appears in dreams, it therefore carries this deep ritual charge — it may signal a blessing from ancestors, a warning from the spirit world, or a reflection of the dreamer's social and communal bonds. The temperature, company, and type of alcohol all carry specific meaning within this cultural framework."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트의 정신분석학적 관점에서 술은 초자아(superego)의 억압을 완화하고 무의식적 욕구를 해방시키는 상징으로 해석해요. 술을 마시는 꿈은 현실에서 억누르고 있는 쾌락 추구 욕망이나 금지된 충동이 꿈을 통해 표출되는 소망 충족(wish-fulfillment)으로 볼 수 있어요. 술에 취하는 꿈은 통제력 상실에 대한 두려움과 동시에 사회적 규범으로부터 벗어나고 싶다는 욕망을 함께 반영한다고 프로이트는 해석할 거예요.",
+      "english": "From a Freudian perspective, alcohol in dreams symbolizes the loosening of the superego's restraints, allowing repressed desires and unconscious impulses to surface. Dreaming of drinking can be understood as wish-fulfillment — the dreamer's suppressed pleasure-seeking or forbidden drives finding expression. Getting drunk in a dream, Freud would argue, simultaneously reflects a fear of losing control and a deep wish to escape social constraints and obligations."
+    },
+    "jungian": {
+      "korean": "융의 원형 이론에서 술은 변환(transformation)과 디오니소스적 에너지, 즉 질서와 통제를 해체하여 더 깊은 자아와 만나게 하는 힘을 상징해요. 술을 마시는 꿈은 자아(ego)가 집단무의식의 더 넓은 흐름에 통합되려는 개성화(individuation) 과정의 한 국면일 수 있어요. 함께 술을 마시는 사람의 모습은 그림자(shadow) 혹은 아니마/아니무스(anima/animus) 원형이 투영된 것으로, 통합되지 못한 자아의 측면을 나타낼 수 있어요.",
+      "english": "In Jungian terms, alcohol embodies the Dionysian archetype — the force that dissolves rigid ego structures and opens pathways to the deeper self. Dreaming of drinking may represent a stage in the individuation process, where the ego surrenders control to allow integration with the collective unconscious. The drinking companion in the dream often projects the shadow or anima/animus archetype, representing unintegrated aspects of the self that seek acknowledgment."
+    },
+    "modern": {
+      "korean": "현대 인지심리학과 신경과학에서는 술 꿈을 스트레스, 사회적 압박, 또는 억제된 감정과 관련된 뇌의 정서 처리 과정으로 이해해요. 실생활에서 음주 문화에 노출이 많거나 음주 관련 걱정(과음, 대인 관계 갈등)을 안고 있는 사람일수록 술이 꿈에 자주 등장하는 경향이 있어요. 금주 중인 사람에게 술 꿈은 갈망(craving)이 기억 연합 네트워크를 통해 수면 중에 재활성화되는 현상으로 해석되기도 해요.",
+      "english": "Modern cognitive psychology and neuroscience understand alcohol dreams as the brain processing stress, social pressure, or suppressed emotion during sleep. People who frequently navigate drinking culture or carry anxieties about alcohol use — overdrinking, social obligations, interpersonal conflict — tend to dream of alcohol more often. For those in recovery or abstaining from alcohol, alcohol dreams are well-documented as cravings reactivating through memory association networks during REM sleep."
+    },
+    "crossCultural": {
+      "korean": "한국 전통 꿈해몽이 술의 온도와 사회적 맥락(함께 마시는 상대, 자리의 분위기)을 통해 길흉을 판단하는 데 비해, 서양 심리학은 꿈속 술을 주로 자아 통제와 억압된 욕망의 렌즈로 바라봐요.",
+      "english": "Where Korean folk interpretation judges alcohol dreams primarily through social context — the temperature of the drink, who you drink with, the mood of the occasion — Western psychology tends to read the same dream through the lens of ego control, repressed desire, and emotional processing."
+    }
+  },
+  "relatedSymbols": [
+    "food-feast-dream",
+    "rice-dream",
+    "water-dream",
+    "celebration-dream",
+    "ancestor-ritual-dream"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "술꿈",
+      "술 꿈해몽",
+      "술 마시는 꿈",
+      "술 마시는 꿈 해몽",
+      "소주 꿈해몽",
+      "막걸리 꿈해몽",
+      "맥주 꿈해몽",
+      "술 따라 주는 꿈",
+      "혼자 술 마시는 꿈",
+      "술 받는 꿈",
+      "술 쏟는 꿈",
+      "술 취하는 꿈",
+      "음주 꿈해몽",
+      "술꿈 길몽 흉몽",
+      "차가운 술 꿈",
+      "뜨거운 술 꿈",
+      "술 담그는 꿈 해몽"
+    ],
+    "english": [
+      "alcohol dream meaning",
+      "dreaming about drinking alcohol korean interpretation",
+      "soju dream meaning",
+      "makgeolli dream interpretation",
+      "dream of being drunk korean",
+      "pouring drinks dream meaning",
+      "drinking alone dream symbolism",
+      "spilling alcohol dream",
+      "receiving alcohol in dream",
+      "korean dream alcohol auspicious",
+      "drinking with boss dream meaning"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "술 마시는 꿈은 길몽인가요, 흉몽인가요?",
+      "answer_ko": "술 마시는 꿈은 상황에 따라 길몽과 흉몽 모두 될 수 있습니다. 차가운 술을 마시거나 윗사람과 함께 마시는 꿈은 재물운·승진을 암시하는 길몽이지만, 혼자 마시거나 뜨거운 술을 마시는 꿈은 어려운 상황을 예고하는 흉몽입니다. 꿈속의 분위기와 술의 온도를 기억하는 것이 중요합니다.",
+      "question_en": "Is dreaming of drinking alcohol auspicious or ominous?",
+      "answer_en": "It depends on the context. Drinking cold alcohol or sharing a drink with a superior is auspicious, foretelling wealth and promotion. Drinking alone or drinking hot alcohol is ominous, warning of hardship or loss. The temperature of the drink and who you drink with are the most important factors in Korean dream interpretation."
+    },
+    {
+      "question_ko": "소주 꿈을 꾸면 어떤 의미인가요?",
+      "answer_ko": "소주가 등장하는 꿈은 일반적으로 흉몽으로 해석됩니다. 사업, 재산, 인간관계에서 문제가 생겨 심적 고통을 겪을 수 있다는 경고로, 현실에서 조심하고 신중하게 행동하는 것이 좋습니다.",
+      "question_en": "What does it mean to dream about soju?",
+      "answer_en": "Dreaming of soju is generally considered an ominous sign in Korean interpretation, warning of problems in business, finances, or relationships that may cause emotional distress. It is a signal to act carefully and cautiously in the period ahead."
+    },
+    {
+      "question_ko": "막걸리 꿈은 무슨 의미인가요?",
+      "answer_ko": "막걸리를 마시는 꿈은 일이 뜻대로 잘 풀리지 않는 시기임을 나타냅니다. 막걸리의 서민적 이미지와 맞닿아 있어, 꿈속에서 막걸리가 보이면 결정을 서두르지 말고 신중하게 상황을 살피는 것이 좋습니다.",
+      "question_en": "What does a makgeolli dream mean?",
+      "answer_en": "A makgeolli (Korean rice wine) dream suggests matters are not progressing as hoped. The folk image of makgeolli as an inexpensive, everyday liquor carries over into dream symbolism — this dream advises patience and careful decision-making rather than rushing forward."
+    },
+    {
+      "question_ko": "윗사람에게 술을 받는 꿈은 무슨 의미인가요?",
+      "answer_ko": "상사나 지위 높은 사람에게 술을 받는 꿈은 명예를 얻고 중요한 일을 성공적으로 마치게 된다는 의미의 길몽입니다. 귀인의 도움을 받아 목표를 달성하게 될 가능성이 높습니다.",
+      "question_en": "What does it mean to receive alcohol from a superior in a dream?",
+      "answer_en": "Receiving alcohol from a boss, elder, or high-status person is an auspicious dream sign in Korean tradition, predicting honor, the successful completion of important endeavors, and assistance from influential people in helping you reach your goals."
+    },
+    {
+      "question_ko": "술 꿈과 제사는 어떤 관련이 있나요?",
+      "answer_ko": "한국 전통에서 술은 제사와 조상 의례의 핵심 제물로, 신령과 조상의 혼백을 불러오는 강신의 도구였습니다. 따라서 꿈속의 술은 단순한 음료가 아니라 조상이나 신령으로부터 전달되는 메시지의 상징으로 해석되기도 합니다.",
+      "question_en": "How is the alcohol dream connected to Korean ancestral rites?",
+      "answer_en": "In Korean tradition, alcohol is the central offering in jesa (ancestral rites), used to summon the spirits of the deceased in a ritual called gangshin. Because of this sacred role, alcohol appearing in a dream can symbolize a message or blessing transmitted from ancestors or the spirit world — not merely a drink, but a channel of communication."
+    },
+    {
+      "question_ko": "술 담그는 꿈은 어떤 의미인가요?",
+      "answer_ko": "직접 술을 담그거나 양조하는 꿈은 곧 경사스러운 일이 일어나 재물을 얻게 된다는 길몽입니다. 무언가를 만들어 내는 행위가 현실에서의 풍요와 결실을 상징합니다.",
+      "question_en": "What does it mean to dream of brewing alcohol?",
+      "answer_en": "Dreaming of brewing or making alcohol yourself is an auspicious sign that a joyous event is approaching and financial gain is on its way. The creative act of making something from scratch symbolizes abundance and tangible results coming to fruition in waking life."
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "symbol": {
+    "korean": "인형",
+    "english": "Doll",
+    "slug": "doll"
+  },
+  "summary": {
+    "korean": "인형 꿈은 자기 자신 또는 특정 인물의 분신을 상징하며, 꿈의 맥락에 따라 새 생명의 탄생(태몽), 치유와 위안, 혹은 관계의 갈등과 건강 문제를 예고하는 신호로 해석됩니다. 아름답고 온전한 인형은 대체로 길몽이지만, 부서지거나 무서운 인형은 흉몽의 징조로 봅니다.",
+    "english": "Dreaming of a doll symbolizes a projection of the self or a stand-in for another person. Depending on context, it can signal the birth of a cherished child (태몽), emotional healing and comfort, or warn of relationship conflicts and health concerns. A beautiful, intact doll is generally auspicious; a broken or frightening one signals misfortune."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "귀엽고 예쁜 인형을 받거나 들고 있는 꿈은 큰 길몽으로, 사업과 재물운이 크게 번창하거나 간절히 바라던 소원이 이루어질 것을 암시합니다. 특히 임신을 앞둔 사람이 이 꿈을 꾸면 고귀하고 사랑스러운 아이를 출산하게 될 태몽으로 해석되기도 합니다.",
+      "english": "Dreaming of receiving or holding a beautiful, cute doll is a strongly auspicious sign. It forecasts flourishing fortune in business and finances, or the fulfillment of a deeply held wish. For those trying to conceive, this dream is interpreted as a 태몽 (prenatal dream) foretelling the birth of a beloved, noble child.",
+      "context": "태몽, 소원 성취, 재물운 상승"
+    },
+    {
+      "type": "길몽",
+      "korean": "인형을 뽑기 기계에서 뽑거나 상점에서 사는 꿈은 현실에서 진행 중인 일이 크게 성공하거나 뜻밖의 재물이 들어올 것을 의미합니다. 오랫동안 노력해 온 목표가 마침내 결실을 맺는 시기임을 알려주는 꿈입니다.",
+      "english": "Winning a doll from a crane machine or buying one at a store in a dream predicts major success in an ongoing endeavor or an unexpected windfall. It signals that long-sustained efforts are finally about to bear fruit.",
+      "context": "사업 성공, 재물 획득, 목표 달성"
+    },
+    {
+      "type": "길몽",
+      "korean": "인형을 껴안거나 함께 노는 꿈은 내면의 치유가 이루어지고 있음을 나타내며, 마음의 상처가 회복되고 심리적 안정을 찾게 될 것을 암시합니다. 기혼 여성이 인형을 안고 노는 꿈을 꾸면 임신의 징조로 보기도 합니다.",
+      "english": "Hugging or playing with a doll in a dream indicates that inner healing is taking place and emotional wounds are mending. For married women, playing contentedly with a doll can be interpreted as a sign of impending pregnancy.",
+      "context": "정서적 치유, 심리 안정, 임신 태몽"
+    },
+    {
+      "type": "길몽",
+      "korean": "인형이 말을 하거나 긍정적인 내용을 전달하는 꿈은 자신의 내면에 있는 나쁜 마음을 버리고 도덕적으로 성장하게 될 것을 의미합니다. 자신을 돌아보고 반성하는 계기가 마련되어 삶의 질이 향상될 길몽입니다.",
+      "english": "A doll that speaks or delivers a positive message in a dream signifies personal growth and moral improvement. It reflects the dreamer's readiness to shed negative impulses and embark on a period of meaningful self-reflection.",
+      "context": "내면 성장, 자기 성찰, 도덕적 발전"
+    },
+    {
+      "type": "흉몽",
+      "korean": "인형이 부서지거나 찢어지는 꿈은 진행하던 일이나 목표한 바가 좋지 않은 결과를 맞이하거나 소중한 관계에 균열이 생길 수 있음을 경고합니다. 특히 팔다리가 없는 인형은 건강 이상이나 능력의 상실에 대한 두려움을 상징합니다.",
+      "english": "A broken or torn doll is a warning that an ongoing project or cherished goal may yield disappointing results, or that a valued relationship is under strain. A doll missing limbs specifically symbolizes fears about health decline or loss of capability.",
+      "context": "목표 실패, 관계 균열, 건강 경고"
+    },
+    {
+      "type": "흉몽",
+      "korean": "무섭게 생긴 인형이 나타나는 꿈은 심각한 질병이나 예상치 못한 사고가 발생할 수 있음을 알리는 흉몽입니다. 공포감이 강할수록 현실에서의 위험 신호로 보며, 건강과 안전에 각별히 주의해야 할 시기임을 의미합니다.",
+      "english": "Encountering a frightening or eerily realistic doll in a dream is a strongly inauspicious sign warning of possible serious illness or an unexpected accident. The more intense the fear felt in the dream, the more urgently the dreamer should attend to their health and personal safety.",
+      "context": "질병, 사고, 건강 이상 경고"
+    },
+    {
+      "type": "흉몽",
+      "korean": "나무로 된 인형을 사거나 종이 인형을 보는 꿈은 집안에 좋지 않은 일이 생기거나 경제적 어려움이 닥칠 수 있음을 암시합니다. 목재나 종이처럼 생명력이 없는 재질의 인형은 활기와 재물의 쇠퇴를 상징합니다.",
+      "english": "Buying a wooden doll or seeing a paper doll in a dream warns of household troubles or financial hardship ahead. Dolls made from lifeless materials like wood or paper symbolize a drain on vitality and resources.",
+      "context": "가정 문제, 경제적 어려움"
+    },
+    {
+      "type": "neutral",
+      "korean": "인형이 혼자 움직이거나 생명을 얻어 독립적으로 행동하는 꿈은 타인에게 통제받고 있다는 느낌이나 자율성의 상실을 반영합니다. 삶의 어떤 영역에서 주도권을 되찾아야 할 필요성을 무의식이 알려주는 신호일 수 있습니다.",
+      "english": "A doll that moves on its own or comes to life and acts independently reflects a sense of being controlled by others or a loss of autonomy. This dream is often the unconscious signaling a need to reclaim agency in some area of the dreamer's life.",
+      "context": "자율성 상실, 타인의 통제, 주도권 회복 필요"
+    },
+    {
+      "type": "neutral",
+      "korean": "자신과 닮거나 특정 인물을 닮은 인형이 등장하는 꿈은 그 대상에 대한 복잡한 감정—애정, 분노, 또는 통제 욕구—을 나타냅니다. 꿈속 감정의 색깔에 따라 해석이 달라지며, 현실 관계를 점검해 볼 필요가 있음을 시사합니다.",
+      "english": "Dreaming of a doll that resembles yourself or a specific person reflects complex feelings toward that individual — affection, resentment, or a desire for control. The emotional tone of the dream guides the interpretation, and it generally suggests the need to honestly examine that relationship.",
+      "context": "인간 관계 점검, 감정 투사"
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "인형 선물 받는 꿈",
+      "keyword_en": "receiving a doll as a gift dream",
+      "interpretation_ko": "타인으로부터 인형을 선물로 받는 꿈은 두 가지로 해석됩니다. 인형이 아름답고 기분이 좋았다면 태몽으로 귀한 자녀를 얻게 될 것을 의미하는 길몽입니다. 반면 상대의 의도가 불분명하거나 불편함을 느꼈다면 그 사람의 진짜 목적을 파악하고 경계해야 한다는 경고입니다.",
+      "interpretation_en": "Receiving a doll as a gift has two readings. If the doll was beautiful and you felt happy, it is an auspicious sign — often a 태몽 foretelling the birth of a cherished child. If the giver's motive felt unclear or the dream caused discomfort, it is a warning to scrutinize that person's true intentions."
+    },
+    {
+      "keyword_ko": "인형이 살아 움직이는 꿈",
+      "keyword_en": "doll coming alive or moving on its own dream",
+      "interpretation_ko": "꿈속에서 인형이 스스로 움직이거나 생생하게 살아 있는 것처럼 행동하는 장면은 삶의 어떤 측면에서 자신이 타인에게 조종당하고 있다는 느낌을 상징합니다. 또한 억압되었던 무의식적 충동이나 감정이 표면 위로 떠오르려는 신호이기도 합니다.",
+      "interpretation_en": "A doll that moves on its own or behaves as if alive symbolizes a feeling of being manipulated or controlled in waking life. It can also signal that suppressed unconscious impulses or emotions are pushing toward the surface and demanding attention."
+    },
+    {
+      "keyword_ko": "무서운 인형 꿈",
+      "keyword_en": "scary or creepy doll dream",
+      "interpretation_ko": "처키처럼 무섭게 생겼거나 이질적인 분위기를 풍기는 인형이 꿈에 나타나면 현실에서 건강 이상이나 예상치 못한 사고가 발생할 수 있음을 경고하는 흉몽입니다. 공포감이 클수록 경고의 강도도 높으며, 즉시 건강 검진을 받아볼 것을 권고합니다.",
+      "interpretation_en": "A frightening or uncanny doll — like a horror-film character — appearing in a dream is a strongly inauspicious omen warning of potential illness or an unexpected accident in waking life. The greater the fear felt, the more urgently the dreamer should attend to health checks and personal safety."
+    },
+    {
+      "keyword_ko": "인형이 말하는 꿈",
+      "keyword_en": "talking doll dream",
+      "interpretation_ko": "인형이 말을 하는 꿈, 특히 긍정적인 말을 전하는 꿈은 자신의 내면에 있는 부정적 감정이나 충동을 정화하고 도덕적으로 성장하는 계기가 됨을 의미합니다. 자신의 행동을 돌아보고 더 나은 방향으로 변화할 준비가 되어 있다는 신호입니다.",
+      "interpretation_en": "A doll that speaks — especially one delivering an encouraging message — signals the dreamer's readiness to purge negative emotions and grow morally. It is interpreted as a nudge from the unconscious to reflect honestly on past behavior and commit to positive change."
+    },
+    {
+      "keyword_ko": "인형 부서지는 꿈",
+      "keyword_en": "broken or damaged doll dream",
+      "interpretation_ko": "인형이 파손되거나 찢어지는 꿈은 현재 진행 중인 계획이나 소중한 관계에 균열이 생길 수 있음을 경고합니다. 반면 억압적인 관계나 관습에서 벗어나고자 하는 해방의 욕구를 상징하기도 하며, 꿈속 감정에 따라 해석이 달라집니다.",
+      "interpretation_en": "A doll breaking or being torn apart warns that a current plan or valued relationship may be heading toward disappointment. Alternatively, it can symbolize liberation — a deep desire to break free from oppressive relationships or social constraints. The emotional response in the dream determines which reading applies."
+    },
+    {
+      "keyword_ko": "인형 뽑는 꿈 (뽑기 기계)",
+      "keyword_en": "winning a doll from a crane machine dream",
+      "interpretation_ko": "뽑기 기계에서 큰 인형을 성공적으로 뽑아내는 꿈은 간절히 원하던 소원이 이루어지거나 예상보다 훨씬 좋은 결과를 얻게 될 것을 의미하는 대길몽입니다. 오랜 노력이 마침내 보상받는 시기임을 알려줍니다.",
+      "interpretation_en": "Successfully winning a large doll from a crane machine in a dream is a highly auspicious sign that a long-held wish will be granted or that outcomes will far exceed expectations. It signals that persistent effort is about to be richly rewarded."
+    },
+    {
+      "keyword_ko": "인형 태몽",
+      "keyword_en": "doll as 태몽 (prenatal dream)",
+      "interpretation_ko": "예쁘고 온전한 인형을 받거나 안고 있는 꿈은 태몽으로 해석될 수 있으며, 고귀하고 사랑받는 아이를 출산하게 될 것을 예고합니다. 특히 인형의 생김새가 아름다울수록 태어날 아이의 건강하고 밝은 미래를 암시합니다.",
+      "interpretation_en": "Receiving or cradling a beautiful, intact doll in a dream can be interpreted as a 태몽 (prenatal dream), foretelling the birth of a cherished, healthy child. The more beautiful and whole the doll appears, the brighter the future predicted for the child to be born."
+    },
+    {
+      "keyword_ko": "인형 가지고 노는 꿈",
+      "keyword_en": "playing with a doll dream",
+      "interpretation_ko": "어린아이처럼 인형을 가지고 노는 꿈은 일상의 책임에서 벗어나 동심의 세계로 돌아가고 싶은 마음을 반영합니다. 정신적 피로나 스트레스가 쌓였다는 신호이기도 하며, 충분한 휴식과 정서적 재충전이 필요한 시점임을 알려줍니다.",
+      "interpretation_en": "Playing with a doll like a child in a dream reflects a longing to escape adult responsibilities and return to the carefree world of childhood. It is often a signal that mental fatigue or stress has accumulated, and the dreamer needs meaningful rest and emotional recharging."
+    },
+    {
+      "keyword_ko": "인형 주는 꿈",
+      "keyword_en": "giving a doll to someone dream",
+      "interpretation_ko": "누군가에게 인형을 직접 주는 꿈은 상대방에게 자신의 존재감을 각인시키고 싶다는 욕구를 반영하며, 긍정적인 인간관계를 구축하거나 화해를 원하는 심리를 나타냅니다.",
+      "interpretation_en": "Giving a doll to someone in a dream reflects a desire to leave a strong, positive impression on that person. It expresses a wish to build or repair a meaningful connection and signals a conciliatory, relationship-nurturing impulse."
+    },
+    {
+      "keyword_ko": "인형 던지는 꿈",
+      "keyword_en": "throwing a doll dream",
+      "interpretation_ko": "인형을 힘껏 던지는 꿈은 억압이나 구속에서 벗어나 자유를 되찾으려는 심리를 나타냅니다. 오랫동안 쌓인 스트레스나 부당한 대우에 대한 감정이 해소되고, 새로운 자유를 얻게 될 것을 암시하는 길몽으로 해석됩니다.",
+      "interpretation_en": "Throwing a doll with force in a dream symbolizes breaking free from suppression or constraint. It suggests that pent-up stress and resentment will be released, and that the dreamer is on the verge of gaining a new, liberating sense of freedom."
+    }
+  ],
+  "culturalContext": {
+    "korean": "한국에서 인형은 오랜 무속 신앙과 깊이 연결된 상징물입니다. 가장 대표적인 예가 '제웅'으로, 짚을 엮어 사람 형상으로 만든 이 인형은 음력 정월 대보름 전날 밤에 액막이 풍습으로 사용되었습니다. 제웅에 액막이를 원하는 사람의 이름과 생년월일을 적고 푼돈을 넣어 길에 버리면 한 해의 액운을 쫓을 수 있다고 믿었습니다. 반면 저주 목적으로 쓰이는 짚인형도 존재했는데, 대상자의 머리카락이나 손톱 등 신체 일부를 넣고 유자나무 가시를 꽂아 저주를 거는 주술 도구로도 활용되었습니다. 이처럼 사람 모양의 인형은 인간의 분신(分身)이자 영혼의 매개체로 인식되어, 인형에 가해지는 행위가 실제 인물에게 영향을 미친다는 감응 주술적 사고가 바탕에 깔려 있습니다. 현대 한국에서는 이러한 전통적 의미가 많이 희석되었지만, 꿈해몽에서 인형은 여전히 사람의 분신 또는 새 생명의 상징으로 해석되며, 아름다운 인형을 꿈에서 받는 것은 태몽의 가장 사랑스러운 형태 중 하나로 전해집니다.",
+    "english": "In Korean tradition, dolls carry deep associations with shamanistic folk beliefs. The most notable example is the '제웅' (jeyung) — a straw figure fashioned in human form. On the eve of the first full moon of the lunar year, families would write a family member's name and birth date on a 제웅, place a few coins inside, and leave it at a crossroads to banish misfortune for the coming year. On the darker side, straw figures were also used as cursing tools in folk magic, with the target's hair or nail clippings placed inside and thorns driven in to inflict harm — a practice rooted in the principle of sympathetic magic, where actions performed on a doll affect the real person it represents. While these practices have faded in modern Korea, their symbolic legacy persists in dream interpretation: a doll in a dream is still understood as a stand-in for a real person or a harbinger of new life. Receiving a beautiful doll remains one of the most cherished forms of 태몽 (prenatal dream), believed to foretell the birth of a beloved child."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트 심리학의 관점에서 인형 꿈은 억압된 유아기 욕구와 초기 발달 과정에서 해결되지 못한 갈등의 표현으로 해석됩니다. 인형은 어린 시절의 상징이자 어머니 또는 보호자와의 초기 애착 관계를 재현하는 대상입니다. 무섭거나 생명을 얻은 인형은 억압된 리비도 에너지나 죽음 충동(타나토스)이 왜곡된 형태로 의식에 침투하는 것을 의미하며, 아이를 통제하거나 돌보는 인형 꿈은 마더 콤플렉스 혹은 아버지와의 해결되지 못한 관계를 반영할 수 있습니다.",
+      "english": "From a Freudian perspective, doll dreams express repressed infantile desires and unresolved conflicts from early developmental stages. The doll represents childhood itself and recreates the primary attachment bond with a mother figure or caregiver. A frightening or animate doll can signify repressed libidinal energy or a death drive (Thanatos) breaking through into consciousness in distorted form. Dreams of nurturing or controlling a doll may reflect a mother complex or an unresolved relationship with parental authority."
+    },
+    "jungian": {
+      "korean": "융 심리학에서 인형은 자기(Self)의 원형적 상징 혹은 아니마/아니무스의 투영으로 해석됩니다. 인형이 살아 움직이거나 말을 하는 꿈은 집단 무의식 속에 잠들어 있던 내용물이 의식의 표면으로 떠오르려는 신호이며, 개성화(individuation) 과정의 일환으로 봅니다. 무서운 인형은 그림자(Shadow) 원형을 구현한 것으로, 자신이 인정하거나 통합하기를 거부하는 억압된 측면을 나타냅니다. 인형을 가지고 노는 꿈은 내면의 아이(inner child) 원형과의 재연결을 의미하며, 건강한 자아 통합을 향한 무의식의 초대입니다.",
+      "english": "In Jungian psychology, the doll is an archetypal symbol of the Self or a projection of the anima/animus. A doll that moves or speaks signals contents of the collective unconscious pushing upward toward conscious awareness — part of the individuation process. A frightening doll embodies the Shadow archetype, representing suppressed aspects of the personality the dreamer refuses to acknowledge. Playing with a doll reflects reconnection with the inner child archetype, which the unconscious invites as a step toward wholeness and healthy ego integration."
+    },
+    "modern": {
+      "korean": "현대 인지 심리학과 꿈 연구의 관점에서 인형 꿈은 일상의 스트레스, 외로움, 통제에 대한 욕구 혹은 두려움을 처리하는 뇌의 야간 작업으로 해석됩니다. 인형을 껴안는 꿈은 정서적 연결에 대한 충족되지 않은 욕구를 드러내고, 인형을 파괴하는 꿈은 억압된 분노나 스트레스를 안전하게 배출하는 심리적 기제입니다. 살아 움직이는 인형 이미지는 '불쾌한 골짜기(uncanny valley)' 효과를 이용한 뇌의 경고 반응으로, 현실에서 느끼는 어떤 불안이나 불신이 상징화된 것으로 봅니다.",
+      "english": "From modern cognitive psychology and dream research, doll dreams are understood as the brain's nocturnal processing of daily stressors, loneliness, and feelings of control or its loss. Hugging a doll reveals unmet needs for emotional connection, while destroying one serves as a safe psychological outlet for suppressed anger or frustration. The image of an animate doll exploits the brain's 'uncanny valley' response — a hard-wired alarm signal — and typically represents some form of anxiety or distrust the dreamer is experiencing but not consciously acknowledging."
+    },
+    "crossCultural": {
+      "korean": "서양의 꿈 해석 전통에서 인형은 전 세계적으로 새 생명, 모성, 놀이의 상징으로 나타납니다. 유럽의 민속에서는 인형이 영혼의 그릇이자 보호 부적으로 쓰였으며, 동아시아의 종이 인형(오히나사마 등)은 부정을 전이하거나 복을 비는 의례 도구였습니다. 이와 유사하게 한국의 제웅 전통도 같은 감응 주술 원리를 공유합니다. 살아 움직이는 인형에 대한 공포는 현대 문화권에서 공통적으로 나타나며(처키, 애나벨 등), 이는 인공물에 생명이 깃드는 것에 대한 보편적인 원시적 두려움과 연결됩니다.",
+      "english": "Across world dream traditions, dolls universally symbolize new life, maternal care, and the spirit of play. In European folklore, dolls served as vessels for souls and protective talismans. In East Asian ritual practice — Japanese Hinamatsuri, for instance — paper or clay dolls were used to transfer impurity or petition for blessings, echoing the same sympathetic magic principle as Korea's 제웅 tradition. The fear of living dolls is a cross-cultural phenomenon — Chucky, Annabelle — rooted in a primal universal unease with the animate and inanimate blurring. In all traditions, dreaming of a doll ultimately circles back to a confrontation with one's own image as reflected in an artificial mirror."
+    }
+  },
+  "relatedSymbols": [
+    "baby-dream",
+    "toy-dream",
+    "pregnancy-dream",
+    "child-dream",
+    "puppet-dream",
+    "stuffed-animal-dream",
+    "gift-dream"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "인형 꿈해몽",
+      "인형 꿈 의미",
+      "인형 받는 꿈",
+      "인형 선물 꿈해몽",
+      "인형이 살아 움직이는 꿈",
+      "무서운 인형 꿈",
+      "인형 부서지는 꿈해몽",
+      "인형 태몽",
+      "인형 뽑기 꿈해몽",
+      "인형 안는 꿈",
+      "인형꿈 길몽 흉몽",
+      "인형이 말하는 꿈"
+    ],
+    "english": [
+      "doll dream meaning",
+      "dreaming of a doll interpretation",
+      "receiving a doll in a dream",
+      "scary doll dream meaning",
+      "doll coming alive dream",
+      "broken doll dream symbolism",
+      "doll dream Korean fortune",
+      "doll taemong pregnancy dream",
+      "playing with dolls dream meaning",
+      "talking doll dream"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "인형 꿈은 태몽인가요?",
+      "answer_ko": "예쁘고 온전한 인형을 꿈에서 받거나 포근히 안고 있었다면 태몽으로 해석하는 경우가 많습니다. 고귀하고 건강한 아이를 출산하게 될 것을 예고하는 길몽으로, 특히 기혼 여성이나 임신을 준비 중인 분이 꾸면 더욱 의미 있게 봅니다.",
+      "answer_en": "If you dreamed of receiving or tenderly cradling a beautiful, intact doll, it is often interpreted as a 태몽 (prenatal dream) — an auspicious sign foretelling the birth of a healthy, cherished child. This reading is especially significant for married women or those trying to conceive.",
+      "question_en": "Can dreaming of a doll be a 태몽 (prenatal dream)?"
+    },
+    {
+      "question_ko": "꿈에서 인형이 살아 움직이면 무슨 의미인가요?",
+      "answer_ko": "인형이 스스로 살아 움직이는 꿈은 일반적으로 삶의 어떤 영역에서 타인에게 통제받거나 조종당하고 있다는 감각을 상징합니다. 억압된 감정이나 무의식적 불안이 표면으로 올라오는 신호이기도 하니, 현재 인간관계와 자신의 자율성을 점검해 볼 것을 권합니다.",
+      "answer_en": "A doll that moves or acts on its own in a dream typically symbolizes a feeling of being controlled or manipulated by someone in waking life. It can also signal suppressed emotions or unconscious anxieties surfacing. It is worth examining your current relationships and any areas where you feel your autonomy is constrained.",
+      "question_en": "What does it mean if a doll comes alive and moves in my dream?"
+    },
+    {
+      "question_ko": "무서운 인형이 꿈에 나오면 흉몽인가요?",
+      "answer_ko": "네, 무서운 인형이 나타나는 꿈은 대체로 흉몽으로 해석됩니다. 건강 이상이나 예상치 못한 사고를 경고하는 신호일 수 있으니 건강 관리에 주의를 기울이고, 꿈이 반복된다면 건강 검진을 고려해 보는 것이 좋습니다.",
+      "answer_en": "Yes, a frightening doll appearing in a dream is generally interpreted as an inauspicious (흉몽) sign. It can be a warning of a potential health problem or an unexpected accident. If the dream recurs, it is advisable to pay close attention to your health and consider scheduling a medical checkup.",
+      "question_en": "Is dreaming of a scary or creepy doll a bad omen?"
+    },
+    {
+      "question_ko": "인형을 뽑기 기계에서 뽑는 꿈은 좋은 꿈인가요?",
+      "answer_ko": "뽑기 기계에서 인형을 성공적으로 뽑아내는 꿈은 대길몽입니다. 오랫동안 바라온 소원이 이루어지거나 진행 중인 일에서 큰 성과를 거두게 될 것을 암시합니다. 특히 뽑힌 인형이 크고 아름다울수록 그 기쁨도 크다고 봅니다.",
+      "answer_en": "Successfully winning a doll from a crane machine is considered a very auspicious dream. It foretells the fulfillment of a long-held wish or a major breakthrough in an ongoing project. The larger and more beautiful the doll won, the greater the anticipated joy and success.",
+      "question_en": "Is dreaming of winning a doll from a crane machine a lucky dream?"
+    },
+    {
+      "question_ko": "인형이 꿈에서 말을 하는 것은 무슨 의미인가요?",
+      "answer_ko": "인형이 말을 하는 꿈은 자신의 내면에 있는 부정적인 마음이나 감정을 정화하는 과정을 의미합니다. 말하는 인형이 긍정적인 내용을 전달했다면, 자신을 돌아보고 도덕적으로 성장할 기회가 찾아왔다는 좋은 신호입니다.",
+      "answer_en": "A doll that speaks in a dream signifies an inner process of purification — the shedding of negative emotions or harmful impulses. If the doll delivered a positive message, it is a good sign that an opportunity for genuine self-reflection and moral growth is presenting itself.",
+      "question_en": "What does it mean when a doll talks in a dream?"
+    },
+    {
+      "question_ko": "인형이 부서지는 꿈을 꾸었는데 무조건 나쁜 꿈인가요?",
+      "answer_ko": "반드시 그렇지는 않습니다. 인형이 부서지는 꿈은 맥락에 따라 두 가지로 해석됩니다. 소중한 관계나 진행 중인 일이 어긋날 것을 경고하는 흉몽일 수 있지만, 반대로 억압적인 관계나 부당한 관습에서 해방되는 것을 의미하는 길몽이 되기도 합니다. 꿈속에서 어떤 감정을 느꼈는지가 해석의 핵심입니다.",
+      "answer_en": "Not necessarily. A doll breaking in a dream has two possible readings depending on context. It can be an inauspicious warning that a valued relationship or ongoing plan is heading toward failure. Alternatively, it can be an auspicious sign of liberation — breaking free from an oppressive relationship or unjust constraints. The emotional tone you experienced during the dream is the key to which interpretation applies.",
+      "question_en": "Is dreaming of a doll breaking always a bad sign?"
+    }
+  ]
+}

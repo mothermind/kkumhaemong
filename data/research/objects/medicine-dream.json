@@ -1,0 +1,249 @@
+{
+  "symbol": {
+    "korean": "약",
+    "english": "Medicine",
+    "slug": "medicine"
+  },
+  "summary": {
+    "korean": "약 꿈은 치유와 변화의 과도기를 상징하며, 약을 받거나 먹는 꿈은 곧 고난이 끝나고 회복이 찾아올 길몽이지만 쓴 약을 억지로 삼키거나 약효가 없는 꿈은 아직 시련이 남아 있음을 경고하는 흉몽입니다.",
+    "english": "Dreaming of medicine symbolizes healing and a period of transition — receiving or taking medicine is an auspicious omen that hardship will end and recovery will follow, while being forced to swallow bitter medicine or finding that medicine has no effect warns of trials yet to come."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "꿈속에서 약을 받거나 누군가가 건네주는 꿈은 도움의 손길이 나타날 것을 암시하는 대표적인 길몽입니다. 병으로 오래 고생하던 사람에게는 회복의 전조가 되고, 사업이나 직장에서 난관에 봉착한 사람에게는 뜻밖의 귀인 도움으로 위기를 극복하게 될 것을 알려줍니다. 약을 받아 드는 손이 밝고 환하게 느껴질수록 행운이 강해집니다.",
+      "english": "Receiving medicine from someone in a dream is a classic auspicious omen signaling that assistance is on the way. For someone struggling with illness, it foretells recovery; for someone facing obstacles in work or business, it predicts that a timely benefactor will help overcome the crisis. The brighter and more confident the hand delivering the medicine, the stronger the coming fortune.",
+      "context": "누군가가 약을 직접 건네주거나 약을 선물 받는 꿈. 상대가 의사·어르신·밝게 빛나는 존재일수록 길조가 강합니다."
+    },
+    {
+      "type": "길몽",
+      "korean": "스스로 약을 먹고 나서 몸이 좋아지거나 기분이 상쾌해지는 꿈은 오랫동안 끌어온 문제나 갈등이 마침내 해결될 것을 예고합니다. 몸과 마음이 회복되는 감각은 실제 삶에서도 재물운·건강운·인간관계 모두에 긍정적인 전환이 이루어질 것을 나타내는 길몽입니다.",
+      "english": "Dreaming of taking medicine and feeling noticeably better or refreshed is an auspicious sign that a long-running problem or conflict will finally be resolved. The sensation of physical and mental recovery in the dream corresponds to a positive turn across finances, health, and relationships in waking life.",
+      "context": "약을 복용하고 효과가 뚜렷하게 나타나는 꿈. 회복의 감각이 생생할수록 좋은 징조입니다."
+    },
+    {
+      "type": "길몽",
+      "korean": "한약(韓藥)을 달이거나 직접 조제하는 꿈은 정성스러운 준비와 노력이 결실을 맺을 것을 상징합니다. 한약 달이는 구수한 냄새가 집안에 퍼지는 꿈은 가정에 복이 들어오고 가족 건강운이 크게 오를 것을 예고하는 좋은 꿈으로 전통적으로 여겨집니다.",
+      "english": "Dreaming of brewing or preparing traditional herbal medicine (한약) symbolizes that careful preparation and diligent effort will bear fruit. The rich aroma of simmering herbal medicine filling a home in a dream is traditionally regarded as a welcome omen of blessings entering the household and greatly improved family health.",
+      "context": "한약을 달이거나 약재를 정성껏 고르고 조제하는 꿈. 냄새와 색이 풍성할수록 좋은 징조입니다."
+    },
+    {
+      "type": "길몽",
+      "korean": "병원이나 약국에서 자신이 원하는 약을 정확히 받아오는 꿈은 추진하는 일에서 필요한 자원이나 도움을 적시에 얻게 됨을 뜻합니다. 원하는 것을 원활하게 구하는 과정이 막힘없이 진행되는 꿈으로, 목표 달성에 청신호가 켜진 상태를 반영합니다.",
+      "english": "Dreaming of going to a hospital or pharmacy and receiving exactly the medicine you need is a sign that the resources and assistance required for your current endeavors will arrive at the right moment. The smooth and unobstructed process of obtaining what you need reflects a green light for achieving your goals.",
+      "context": "약국·병원에서 원하는 약을 정확히 처방받거나 받아오는 꿈."
+    },
+    {
+      "type": "흉몽",
+      "korean": "약을 억지로 먹어야 하는 상황이거나 지극히 쓴 약을 삼키며 괴로워하는 꿈은 현재의 고난이나 시련이 아직 끝나지 않았음을 경고합니다. 감내하기 어려운 상황이 계속될 것을 시사하며, 건강·재정·인간관계에서 불쾌하지만 피하기 어려운 현실과 맞닥뜨리게 될 것을 암시합니다.",
+      "english": "Dreaming of being forced to take medicine or suffering greatly as you swallow intensely bitter medicine warns that current hardship or adversity is not yet over. It suggests a difficult situation will continue, and that you will face unpleasant but unavoidable realities in health, finances, or relationships.",
+      "context": "억지로 먹어야 하거나 몹시 쓴 약을 삼키는 꿈. 구토가 동반되거나 끝까지 삼키지 못하면 더 강한 흉조입니다."
+    },
+    {
+      "type": "흉몽",
+      "korean": "약을 먹었음에도 효과가 없거나 병이 더 악화되는 꿈은 현재 취하고 있는 해결책이 근본적으로 잘못되었거나 큰 효과를 거두지 못할 것을 경고합니다. 사업·건강·공부 어느 분야든 현재의 접근 방식을 전면적으로 재검토해야 함을 강하게 시사합니다.",
+      "english": "Dreaming that medicine has no effect or that your condition worsens after taking medicine warns that your current approach to a problem is fundamentally flawed or failing. Whether in business, health, or study, this dream strongly urges a complete reassessment of the path you are currently on.",
+      "context": "약을 복용했지만 효과가 없거나 상태가 더 나빠지는 꿈."
+    },
+    {
+      "type": "흉몽",
+      "korean": "약이 사라지거나 약병이 비어 있는 꿈은 믿었던 지원이나 의지했던 수단이 사라질 것을 경고하는 흉몽입니다. 또한 건강에 대한 잠재적 위협을 상징하기도 하며, 특히 지병이 있는 경우 건강 관리를 소홀히 하지 말라는 신호로 해석됩니다.",
+      "english": "Dreaming that medicine has disappeared or that a medicine bottle is empty is an inauspicious warning that expected support or a relied-upon resource will vanish. It can also symbolize a latent health threat — for those with existing conditions, it is a signal not to neglect ongoing health management.",
+      "context": "약병이 비어 있거나 약이 사라지거나 도난당하는 꿈."
+    },
+    {
+      "type": "흉몽",
+      "korean": "독이 든 약이나 잘못된 약을 속아서 먹는 꿈은 주변에 자신을 해치려는 사람이 있거나 신뢰했던 관계에서 기만이 일어날 수 있음을 강하게 경고합니다. 중요한 계약이나 금전 거래에서 속임수를 조심하고 문서를 꼼꼼히 확인해야 합니다.",
+      "english": "Dreaming that you are deceived into taking poisoned or wrong medicine is a strong warning that someone in your circle wishes you harm, or that deception may occur in a trusted relationship. Exercise extreme caution with important contracts, financial transactions, and trust any documents you sign carefully.",
+      "context": "누군가에게 속아 독이 든 약이나 이상한 약을 먹는 꿈."
+    },
+    {
+      "type": "neutral",
+      "korean": "약을 손에 들고 있지만 먹을지 말지 망설이는 꿈은 현실에서 중요한 결정을 앞두고 심리적으로 갈등 중임을 반영합니다. 치료 여부를 선택해야 하는 상황처럼, 두 갈래 길 앞에서 아직 결단을 내리지 못한 상태를 상징하는 중립적 꿈입니다.",
+      "english": "Dreaming of holding medicine but hesitating about whether to take it reflects an ongoing inner conflict about an important decision in waking life. Like standing at a crossroads and unable to choose a path, this is a neutral dream symbolizing unresolved indecision.",
+      "context": "약을 손에 쥐고 먹지 않거나 망설이는 꿈."
+    },
+    {
+      "type": "neutral",
+      "korean": "다른 사람에게 약을 먹이거나 건네주는 꿈은 주변의 가까운 사람을 돌보고 싶은 마음을 반영하는 동시에, 그 사람의 건강이나 상황에 신경이 쓰이고 있음을 나타냅니다. 실제 그 사람에게 어떤 도움이 필요한지 돌아보게 만드는 중립적 신호입니다.",
+      "english": "Dreaming of giving medicine to someone else reflects a strong caring instinct toward that person and signals that you are genuinely concerned about their wellbeing or circumstances. It is a neutral prompt to check in on whether that person needs real support in waking life.",
+      "context": "가족·지인 등 타인에게 약을 건네주거나 직접 먹이는 꿈."
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "약 받는 꿈",
+      "keyword_en": "dream of receiving medicine",
+      "interpretation_ko": "귀인의 등장과 구체적인 도움을 예고하는 길몽입니다. 현재의 어려움을 해결해줄 지원이나 기회가 뜻밖의 방향에서 찾아옴을 암시합니다. 약을 건네는 사람이 의사나 어른, 밝은 존재일수록 길조가 강합니다.",
+      "interpretation_en": "An auspicious dream foretelling the arrival of a benefactor and concrete assistance. Support or opportunity to resolve current difficulties will appear from an unexpected direction. The more authoritative or luminous the giver (doctor, elder, glowing figure), the stronger the omen."
+    },
+    {
+      "keyword_ko": "약 먹는 꿈",
+      "keyword_en": "dream of taking medicine",
+      "interpretation_ko": "효과가 느껴지면 길몽, 효과가 없거나 상태가 악화되면 흉몽입니다. 일반적으로 스스로 약을 복용하는 꿈은 문제를 적극적으로 해결하려는 의지의 표현으로, 노력이 결실을 맺을 것을 예고하는 긍정적 꿈입니다.",
+      "interpretation_en": "If the medicine works and you feel better, it is auspicious; if it fails or your condition worsens, it is inauspicious. Generally, voluntarily taking medicine is a positive dream reflecting proactive problem-solving and predicts that efforts will bear fruit."
+    },
+    {
+      "keyword_ko": "한약 달이는 꿈",
+      "keyword_en": "dream of brewing herbal medicine (한약)",
+      "interpretation_ko": "가정의 복과 건강운이 상승하는 길몽입니다. 정성스럽게 한약을 달이는 꿈은 꾸준한 노력과 인내가 빛을 발하는 시기가 도래할 것을 상징하며, 집안에 기운이 충만해질 것을 예고합니다.",
+      "interpretation_en": "An auspicious dream of rising blessings and health fortune in the household. Carefully brewing herbal medicine symbolizes that a period of patient effort and perseverance will finally shine, and that vitality will fill the home."
+    },
+    {
+      "keyword_ko": "쓴 약 먹는 꿈",
+      "keyword_en": "dream of taking bitter medicine",
+      "interpretation_ko": "불쾌하지만 필요한 변화나 고통스러운 과정을 받아들여야 하는 상황을 상징합니다. '쓴 약이 몸에 좋다'는 속담처럼, 단기적으로는 힘들더라도 결국 도움이 되는 결정을 내려야 할 시기임을 알려주는 꿈입니다.",
+      "interpretation_en": "Symbolizes having to accept an unpleasant but necessary change or painful process. Like the Korean proverb '쓴 약이 몸에 좋다' (bitter medicine is good for the body), this dream signals that it is time to make a difficult decision that will ultimately prove beneficial."
+    },
+    {
+      "keyword_ko": "약 효과 없는 꿈",
+      "keyword_en": "dream of medicine not working",
+      "interpretation_ko": "현재 접근 방식의 근본적인 문제를 경고하는 흉몽입니다. 사업·건강·인간관계에서 현재의 방법이나 해결책이 실질적인 변화를 만들어내지 못하고 있음을 반영하므로 전략적 재검토가 필요합니다.",
+      "interpretation_en": "An inauspicious warning of a fundamental flaw in your current approach. Whether in business, health, or relationships, your current method or solution is failing to produce real change — a strategic reassessment is urgently needed."
+    },
+    {
+      "keyword_ko": "약을 남에게 주는 꿈",
+      "keyword_en": "dream of giving medicine to someone",
+      "interpretation_ko": "가까운 사람에 대한 걱정과 보살핌을 반영하는 중립~길몽입니다. 실제로 그 사람이 어떤 도움을 필요로 하는지 살펴보라는 신호이며, 자신이 중요한 역할을 하게 될 상황이 올 것을 암시하기도 합니다.",
+      "interpretation_en": "A neutral-to-auspicious dream reflecting care and concern for someone close. It is a signal to check whether that person genuinely needs help, and may indicate that you will soon play a crucial supportive role in their life."
+    },
+    {
+      "keyword_ko": "약을 떨어뜨리는 꿈",
+      "keyword_en": "dream of dropping medicine",
+      "interpretation_ko": "기회를 놓치거나 준비했던 계획이 뜻밖의 이유로 어그러질 것을 경고하는 흉몽입니다. 중요한 일을 앞두고 있다면 사소한 실수나 부주의가 큰 결과를 초래할 수 있으니 세심한 주의가 필요합니다.",
+      "interpretation_en": "An inauspicious warning of a missed opportunity or an unexpectedly derailed plan. If you have something important ahead, this dream cautions that a small mistake or carelessness could lead to significant consequences."
+    },
+    {
+      "keyword_ko": "독약 먹는 꿈",
+      "keyword_en": "dream of drinking poison or wrong medicine",
+      "interpretation_ko": "믿었던 사람에게 배신당하거나 사기를 당할 위험을 강하게 경고하는 흉몽입니다. 금전 거래나 중요한 계약을 앞두고 있다면 상대의 의도를 꼼꼼히 확인하고, 검증되지 않은 투자나 제안에 각별히 주의해야 합니다.",
+      "interpretation_en": "A serious inauspicious warning of the risk of betrayal or fraud by someone trusted. If facing a financial transaction or important contract, scrutinize the other party's intentions carefully and be extremely wary of unverified investments or proposals."
+    },
+    {
+      "keyword_ko": "약국 꿈",
+      "keyword_en": "dream of a pharmacy",
+      "interpretation_ko": "문제 해결에 필요한 자원이나 수단이 가까이 있음을 상징하는 꿈입니다. 약국에서 원하는 약을 구하면 길몽, 문이 닫혀 있거나 약이 없으면 원하는 것을 쉽게 얻지 못하게 될 것을 암시합니다.",
+      "interpretation_en": "Symbolizes that the resources or means to solve a problem are nearby. Getting the medicine you want from a pharmacy is auspicious; a closed pharmacy or one without your medicine suggests the solution you seek will not be easily obtained."
+    },
+    {
+      "keyword_ko": "알약 꿈",
+      "keyword_en": "dream of pills or tablets",
+      "interpretation_ko": "직접적이고 단기적인 해결책을 찾고 있음을 상징합니다. 알약을 삼키는 꿈은 어떤 사실이나 상황을 그대로 받아들이고 앞으로 나아가야 할 시점임을 나타내며, 쓴맛이 느껴지면 받아들이기 어려운 진실을 인정해야 함을 뜻합니다.",
+      "interpretation_en": "Symbolizes a search for a quick and direct solution. Swallowing pills in a dream suggests it is time to accept a situation or truth as it is and move forward; if they taste bitter, a difficult truth needs to be acknowledged."
+    },
+    {
+      "keyword_ko": "의사에게 약 처방받는 꿈",
+      "keyword_en": "dream of receiving a prescription from a doctor",
+      "interpretation_ko": "권위 있는 조언이나 전문적인 도움이 문제 해결의 열쇠가 될 것을 예고하는 길몽입니다. 중요한 결정에 앞서 전문가나 경험 많은 멘토에게 도움을 구하는 것이 현명한 선택임을 시사합니다.",
+      "interpretation_en": "An auspicious omen predicting that authoritative advice or professional help will be the key to solving your problem. It suggests that seeking guidance from an expert or experienced mentor before an important decision is the wisest course of action."
+    },
+    {
+      "keyword_ko": "약이 맛있는 꿈",
+      "keyword_en": "dream of medicine tasting good or sweet",
+      "interpretation_ko": "힘든 과정이 예상보다 순조롭게 진행될 것을 암시하는 길몽입니다. 어렵다고 생각했던 일이 뜻밖에 수월하게 풀리거나, 불쾌할 것으로 예상했던 변화가 오히려 좋은 결과를 가져올 것을 예고합니다.",
+      "interpretation_en": "An auspicious sign that a difficult process will go more smoothly than expected. Something you anticipated as a struggle may resolve itself surprisingly easily, or a change you dreaded may turn out to bring unexpectedly positive results."
+    }
+  ],
+  "culturalContext": {
+    "korean": "한국에서 약(藥)은 단순한 치료제를 넘어, 오랫동안 생명을 지키고 복을 불러오는 신성한 매개로 인식되어 왔습니다. 이 인식의 중심에는 수천 년의 역사를 지닌 한의학(韓醫學)이 있습니다. 한의학은 중국 의학에서 출발했지만 한국 고유의 자연환경과 사상을 반영하며 독자적으로 발전하였고, 조선시대에는 허준의 『동의보감(東醫寶鑑, 1613)』을 통해 체계화되었습니다. 동의보감은 조선 땅에서 자라는 약재로 조선 사람의 병을 고친다는 실용적 철학을 담고 있어, 외국 약재에 의존하지 않고 자국의 산야(山野)에서 구할 수 있는 식물·광물·동물 재료를 기록한 총서입니다. 이 책은 지금도 유네스코 세계기록유산(2009년 등재)으로서 한국 전통 의학 지식의 집대성으로 평가받습니다. 민간에서 한약은 단순한 치료를 넘어 정성(精誠)의 상징이었습니다. 가족이 아플 때 직접 약재를 구해 달이는 행위는 사랑과 헌신의 표현이었고, 산삼(山蔘)·녹용(鹿茸) 같은 귀한 약재를 구해주는 것은 깊은 효심(孝心)이나 의리의 상징으로 여겨졌습니다. 이러한 문화적 맥락에서, 꿈속의 약은 단순한 치료 이상의 의미를 가집니다. 약을 받는 꿈은 귀인의 도움과 보살핌을 의미하고, 한약을 달이는 꿈은 정성과 노력이 결실을 맺는 길몽으로 해석됩니다. 반면 약이 효과가 없거나 독이 든 약을 먹는 꿈은 현재의 노력이 헛되거나 배신의 위험이 있음을 경고하는 흉몽으로 전해집니다. '쓴 약이 몸에 좋다(苦藥利於病)'는 한국 속담은 꿈 해몽에도 영향을 미쳐, 쓴 약을 먹는 꿈이 단기적으로는 고통스럽더라도 결국 성장과 치유를 가져올 것을 뜻하는 긍정적 전조로 해석되기도 합니다.",
+    "english": "In Korea, medicine (약) has long been regarded as more than a remedy — it is a sacred medium associated with preserving life and inviting blessings. At the heart of this cultural resonance is Korean traditional medicine (한의학), a healing tradition spanning thousands of years. While rooted in Chinese medical philosophy, Korean medicine developed its own distinct character shaped by the peninsula's unique natural environment and intellectual heritage, and was codified during the Joseon Dynasty in Heo Jun's monumental Dongui Bogam (東醫寶鑑, 1613). The Dongui Bogam embodied a practical philosophy: heal Korean people with medicines grown on Korean soil. It catalogued plants, minerals, and animal-derived remedies found in Korea's own mountains and fields, reducing dependence on expensive foreign imports. The text was inscribed on UNESCO's Memory of the World Register in 2009 and remains the foundational reference of Korean traditional medicine. In everyday folk culture, herbal medicine was more than a treatment — it was a symbol of devotion. Gathering medicinal herbs and brewing herbal preparations for a sick family member expressed love and commitment; procuring precious ingredients like wild mountain ginseng (산삼) or deer antler velvet (녹용) was the ultimate gesture of filial piety (효심) and loyalty. In this cultural context, medicine in dreams carries layered significance. Receiving medicine in a dream signals the arrival of a benevolent helper; brewing herbal medicine is an auspicious omen that diligent care will yield results. Conversely, medicine that fails to work or poison mistaken for medicine warns of futile effort or deception. The proverb '쓴 약이 몸에 좋다' (bitter medicine is good for the body) also colors dream interpretation — swallowing bitter medicine in a dream is often read as a sign that short-term suffering will ultimately lead to healing and growth."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트 관점에서 약 꿈은 의존과 통제에 대한 무의식적 욕구를 반영합니다. 약을 받아먹는 행위는 권위 있는 타인에게 의존하고 돌봄을 받고자 하는 퇴행적 욕구를 상징할 수 있으며, 이는 어린 시절 부모나 보호자로부터 보살핌을 받던 경험과 연결될 수 있어요. 독이 든 약이나 억지로 먹여지는 약은 강요·억압·부모의 권위에 대한 무의식적 저항을 나타낼 수 있다고 봐요.",
+      "english": "From a Freudian perspective, dreaming of medicine reflects unconscious drives around dependency and control. The act of receiving and consuming medicine can symbolize a regressive desire to be cared for and to depend on an authoritative other — a dynamic connected to early experiences of being tended to by parents or caregivers. Poisoned medicine or medicine forced upon you may represent suppressed resistance to coercion, repression, or parental authority."
+    },
+    "jungian": {
+      "korean": "융의 분석심리학에서 약은 '치유자(Healer)' 원형과 깊이 연결됩니다. 꿈속에서 약을 받는 장면은 치유의 원형적 에너지가 무의식에서 의식으로 흘러들어 오는 과정일 수 있으며, 집단무의식에 내재된 자기 회복 능력이 깨어나고 있음을 나타낼 수 있어요. 한약처럼 자연에서 온 약재는 자아(Self)와 자연·우주 간의 연결을 상징하며, 개성화 과정에서 그림자를 통합하고 내면의 균형을 찾아가는 여정을 반영합니다.",
+      "english": "In Jungian analytical psychology, medicine is deeply connected to the Healer archetype. Receiving medicine in a dream may represent the archetypal energy of healing flowing from the unconscious into consciousness — the inner capacity for self-restoration beginning to awaken. Herbal medicines derived from nature symbolize the connection between the ego-Self and the natural world, and may reflect the individuation journey of integrating the Shadow and finding inner equilibrium."
+    },
+    "modern": {
+      "korean": "현대 심리학적 관점에서 약 꿈은 건강 불안, 자기 효능감, 도움을 구하는 것에 대한 태도를 반영하는 경우가 많습니다. 만성 질환이 있거나 의료 결정을 앞두고 있는 사람에게서 약 관련 꿈이 더 자주 보고됩니다. 약을 거부하거나 효과가 없는 꿈은 현실에서 해결되지 않는 문제에 대한 무력감이나 현재의 대처 전략에 대한 신뢰 부족을 반영할 수 있습니다. 인지행동치료 관점에서는 이러한 꿈이 지지 체계를 구축하거나 전문 도움을 적극적으로 구하라는 내면의 신호로 읽히기도 합니다.",
+      "english": "From a modern psychological perspective, medicine dreams frequently reflect health anxiety, self-efficacy, and one's attitude toward seeking help. People managing chronic illness or facing medical decisions report medicine-related dreams more often. Refusing medicine or finding it ineffective in a dream may reflect real-world feelings of helplessness about unresolved problems or a lack of confidence in current coping strategies. From a cognitive-behavioral therapy perspective, such dreams can be read as an inner signal to build a better support system or to actively seek professional help."
+    },
+    "crossCultural": {
+      "korean": "서양 심리학이 약 꿈을 주로 의존성·통제·자기 치유 능력의 언어로 해석하는 반면, 한국 전통 꿈해몽은 약을 받는 꿈을 귀인 도래와 문제 해결의 예고로, 한약을 달이는 꿈을 가정의 복과 건강운 상승으로 해석하는 독특한 공동체적·가족적 시각을 보여줍니다. 특히 서양에서는 쓴 약을 먹는 꿈을 단순히 불쾌한 경험으로 해석하는 경향이 있는 반면, 한국에서는 '쓴 약이 몸에 좋다'는 속담에 바탕을 두어 성장의 전조로 긍정적으로 해석하는 독특한 역설을 가지고 있습니다.",
+      "english": "While Western psychology interprets medicine dreams primarily through the lens of dependency, control, and self-healing capacity, Korean folk dream interpretation reveals a distinctively communal and family-centered perspective: receiving medicine presages the arrival of a benefactor and problem resolution, while brewing herbal medicine signals rising blessings and health fortune for the household. Most distinctively, where Western frameworks tend to read bitter medicine in a dream as simply unpleasant, Korean tradition — grounded in the proverb '쓴 약이 몸에 좋다' — paradoxically frames it as a positive omen of growth through necessary suffering."
+    }
+  },
+  "relatedSymbols": [
+    "hospital-dream",
+    "doctor-dream",
+    "illness-dream",
+    "healing-dream",
+    "herbal-tea-dream",
+    "needle-dream",
+    "poison-dream",
+    "health-dream",
+    "pharmacy-dream",
+    "water-dream"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "약 꿈해몽",
+      "약 먹는 꿈 해몽",
+      "약 받는 꿈",
+      "한약 꿈해몽",
+      "한약 달이는 꿈",
+      "쓴 약 먹는 꿈",
+      "약 꿈 길몽",
+      "약 꿈 흉몽",
+      "약 먹는 꿈 의미",
+      "알약 꿈해몽",
+      "약국 꿈해몽",
+      "독약 먹는 꿈",
+      "약 효과 없는 꿈",
+      "약 꿈 재물운"
+    ],
+    "english": [
+      "medicine dream meaning Korean",
+      "dream of taking medicine interpretation",
+      "Korean herbal medicine dream",
+      "receiving medicine in dream meaning",
+      "dream of bitter medicine",
+      "traditional medicine dream symbolism",
+      "dream about pills meaning",
+      "medicine dream auspicious omen",
+      "pharmacy dream interpretation",
+      "Korean dream medicine good luck"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "약 먹는 꿈은 길몽인가요, 흉몽인가요?",
+      "answer_ko": "약을 먹고 효과가 나타나거나 몸이 좋아지는 꿈은 길몽입니다. 현재의 어려움이 해결되고 건강·재물·인간관계에 긍정적인 변화가 찾아올 것을 예고합니다. 반면 약을 먹어도 효과가 없거나 상태가 악화되는 꿈, 억지로 약을 삼키거나 독약을 먹는 꿈은 흉몽으로 현재의 접근 방식을 재검토해야 할 신호입니다.",
+      "question_en": "Is taking medicine in a dream a good or bad omen?",
+      "answer_en": "Taking medicine and feeling it work or recovering is an auspicious omen, predicting that current difficulties will resolve and positive changes in health, finances, or relationships are approaching. However, medicine that fails to work, medicine that worsens your condition, medicine you are forced to take, or poison mistaken for medicine are all inauspicious — signals to fundamentally reassess your current approach."
+    },
+    {
+      "question_ko": "한약 달이는 꿈은 무슨 의미인가요?",
+      "answer_ko": "가정에 복이 들어오고 건강운이 상승하는 길몽입니다. 한약을 정성껏 달이는 꿈은 꾸준한 노력과 인내가 결실을 맺을 시기가 다가왔음을 상징하며, 가족 구성원의 건강이 좋아지거나 집안에 좋은 일이 생길 것을 예고합니다.",
+      "question_en": "What does it mean to dream of brewing herbal medicine (한약)?",
+      "answer_en": "This is an auspicious dream of blessings entering the home and rising health fortune for the family. Carefully brewing herbal medicine symbolizes that a period of patient effort and perseverance is about to pay off, and portends an improvement in family members' health or positive developments within the household."
+    },
+    {
+      "question_ko": "쓴 약을 먹는 꿈은 왜 길몽이 될 수 있나요?",
+      "answer_ko": "한국 속담에 '쓴 약이 몸에 좋다'는 말이 있습니다. 이 철학이 꿈 해몽에도 반영되어, 쓴 약을 참고 삼키는 꿈은 단기적으로는 힘든 과정을 거치더라도 결국 치유와 성장이 찾아올 것을 암시하는 긍정적 전조로 해석되기도 합니다. 단, 끝까지 삼키지 못하거나 구토하면 시련이 아직 해결되지 않음을 나타냅니다.",
+      "question_en": "Why can dreaming of bitter medicine be auspicious?",
+      "answer_en": "The Korean proverb '쓴 약이 몸에 좋다' (bitter medicine is good for the body) is reflected in dream interpretation: enduring and swallowing bitter medicine in a dream can be read as a positive omen that short-term suffering will ultimately lead to healing and meaningful growth. However, if you cannot finish swallowing or vomit the medicine, it indicates that the trial is not yet resolved."
+    },
+    {
+      "question_ko": "독약을 속아서 먹는 꿈은 무슨 경고인가요?",
+      "answer_ko": "가장 강한 경고성 흉몽 중 하나입니다. 믿었던 사람에게 배신당하거나 금전적 사기를 당할 위험이 있음을 경고합니다. 꿈을 꾼 후에는 중요한 계약이나 투자를 앞두고 있다면 반드시 상대방의 의도를 재확인하고, 검증되지 않은 제안은 신중하게 검토해야 합니다.",
+      "question_en": "What is the warning in a dream where you are tricked into drinking poison?",
+      "answer_en": "This is among the most serious inauspicious warnings. It signals the risk of betrayal by a trusted person or being defrauded financially. After such a dream, if you have an important contract or investment ahead, reconfirm the other party's intentions and approach any unverified proposals with heightened caution."
+    },
+    {
+      "question_ko": "누군가에게 약을 건네주는 꿈은 어떤 의미인가요?",
+      "answer_ko": "가까운 사람에 대한 걱정과 보살핌의 마음을 반영하는 꿈입니다. 꿈속에서 약을 받는 사람이 실제로 도움이 필요한 상황일 수 있으니 그 사람의 건강이나 상황을 확인해보는 것이 좋습니다. 또한 자신이 주변에서 중요한 지원 역할을 하게 될 것을 예고하기도 합니다.",
+      "question_en": "What does it mean to give medicine to someone in a dream?",
+      "answer_en": "This dream reflects genuine concern and care for someone close to you. The person receiving the medicine in the dream may need real assistance — it is worth checking on their health or circumstances in waking life. The dream may also foreshadow that you will soon play an important supportive role for those around you."
+    },
+    {
+      "question_ko": "약국에서 약을 못 사거나 문이 닫혀 있는 꿈은 무슨 의미인가요?",
+      "answer_ko": "원하는 것을 쉽게 얻지 못하거나 필요한 도움을 받기 어려운 시기가 올 것을 암시하는 흉몽입니다. 현재 추진 중인 일에서 예상치 못한 장애물을 만나거나 자원이 부족해질 수 있으니, 여유 계획과 대안을 미리 마련해두는 것이 현명합니다.",
+      "question_en": "What does it mean to dream of a pharmacy that is closed or where you cannot get medicine?",
+      "answer_en": "An inauspicious sign suggesting that what you desire or the help you need will not be easily obtained in the period ahead. Unexpected obstacles or resource shortages may arise in ongoing endeavors — it is wise to prepare contingency plans and explore alternatives in advance."
+    }
+  ]
+}

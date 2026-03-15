@@ -1,0 +1,201 @@
+{
+  "symbol": {
+    "korean": "고추 태몽",
+    "english": "Pepper taemong (boy indicator)",
+    "slug": "pepper-taemong"
+  },
+  "summary": {
+    "korean": "고추 태몽은 한국 전통에서 아들 잉태를 알리는 가장 대표적인 태몽으로, 고추의 모양과 붉은색이 남아를 상징한다고 믿어져 왔습니다.",
+    "english": "The pepper taemong is the most iconic boy-indicator pregnancy dream in Korean folk tradition, where the chili pepper's shape and vivid red color are believed to symbolize the birth of a son."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "빨간 고추를 따거나 받는 꿈은 건강하고 씩씩한 아들을 낳게 될 태몽으로 풀이됩니다. 특히 바구니 가득 붉은 고추를 따오는 꿈은 훗날 사업이나 창작 분야에서 성공을 거둘 아이를 잉태한다는 뜻으로 여겨집니다.",
+      "english": "Dreaming of picking or receiving red peppers is interpreted as a taemong foretelling the birth of a healthy, vigorous son. A dream of filling a basket with ripe red peppers is considered especially auspicious, signifying a child destined for success in business or creative endeavors.",
+      "context": "When vivid red or fully ripe peppers appear in the dream, especially when the dreamer picks, receives, or gathers them"
+    },
+    {
+      "type": "길몽",
+      "korean": "풋고추 한두 개를 받거나 따는 꿈도 아들 태몽으로 해석됩니다. 파란 고추가 가득 열린 밭에서 붉은 고추를 따는 꿈은 건강하고 훌륭하게 자랄 사내아이를 낳게 될 것을 의미합니다.",
+      "english": "Dreaming of one or two green peppers is also interpreted as a boy taemong. Picking a red pepper from a field full of green peppers is said to foretell the birth of a healthy, outstanding son.",
+      "context": "When green or unripe peppers appear in small numbers, or when a single ripe pepper stands out among green ones"
+    },
+    {
+      "type": "길몽",
+      "korean": "붉은 고추가 갈라지며 노란 씨가 쏟아지는 꿈은 명석하고 재능 있는 아이를 낳게 될 태몽이자, 꿈을 꾼 사람에게도 사업이나 투자에서 큰 성공이 따를 것을 예고하는 길몽입니다.",
+      "english": "Dreaming of a red pepper splitting open and spilling yellow seeds is considered both a taemong of a brilliant, talented child and a general good-luck dream predicting great success in business or investment for the dreamer.",
+      "context": "When a ripe pepper bursts open, revealing its seeds — associated with abundance and spreading of potential"
+    },
+    {
+      "type": "흉몽",
+      "korean": "임신 중인 여성이 빨간 고추가 땅에 떨어지거나 썩어 있는 꿈을 꾸면 유산의 위험이나 아이의 건강 이상을 암시하는 흉몽으로 봅니다. 시들거나 썩은 고추는 계획이나 사업의 실패를 뜻하기도 합니다.",
+      "english": "A pregnant woman dreaming of red peppers falling to the ground or rotting is considered an inauspicious dream warning of miscarriage risk or the child's health complications. Wilted or decaying peppers also symbolize failure in plans or projects.",
+      "context": "When peppers appear fallen, withered, rotten, or spoiled in the dream"
+    },
+    {
+      "type": "neutral",
+      "korean": "풋고추가 여러 개 열려 있는 꿈은 딸 태몽으로 해석되는 경우가 있습니다. 고추의 개수가 많을수록 여아를 낳을 가능성이 높다고 보는 해석도 있으나, 전통마다 조금씩 달리 전해집니다.",
+      "english": "Dreaming of many green peppers on a plant is sometimes interpreted as a girl taemong. Some traditions suggest that the greater the number of peppers, the more likely the child is a daughter, though this varies by regional folk belief.",
+      "context": "When many green or unripe peppers appear together — context and quantity shift the interpretation toward a female child"
+    },
+    {
+      "type": "neutral",
+      "korean": "고추를 먹거나 음식으로 요리하는 꿈은 태몽보다는 일반 꿈해몽으로, 어려운 상황을 타인의 도움으로 극복하게 됨을 뜻하거나 적극적인 활동을 통해 성과를 내게 될 것을 암시합니다.",
+      "english": "Dreaming of eating or cooking with peppers is generally not considered a taemong but rather an everyday dream, suggesting that the dreamer will overcome difficulties with others' help or achieve results through active effort.",
+      "context": "When peppers appear as food being consumed or prepared, rather than as objects observed in the field or received as gifts"
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "빨간 고추 태몽",
+      "keyword_en": "red pepper taemong",
+      "interpretation_ko": "완전히 익은 빨간 고추를 따거나 받는 꿈은 가장 전형적인 아들 태몽입니다. 붉은색은 생명력과 양기를 상징하며, 건강하고 활기찬 아들의 탄생을 예고합니다.",
+      "interpretation_en": "Picking or receiving fully ripe red peppers is the most classic boy taemong. The red color symbolizes vital energy and yang energy (양기), foretelling the birth of a healthy, vigorous son."
+    },
+    {
+      "keyword_ko": "풋고추 태몽",
+      "keyword_en": "green pepper taemong",
+      "interpretation_ko": "풋고추 한두 개는 아들 태몽으로 보는 경우가 많지만, 풋고추가 많이 달린 꿈은 딸을 낳을 태몽으로 해석하기도 합니다. 적은 수의 풋고추는 남아를, 많은 풋고추는 여아를 상징하는 경향이 있습니다.",
+      "interpretation_en": "One or two green peppers are often read as a boy taemong, while a dream with many green peppers may indicate a girl. Small quantities lean male, large quantities lean female in folk interpretation."
+    },
+    {
+      "keyword_ko": "고추 따는 꿈 태몽",
+      "keyword_en": "dream of picking peppers taemong",
+      "interpretation_ko": "고추밭에서 고추를 직접 따는 꿈은 적극적으로 좋은 것을 얻는다는 의미로, 건강한 아이를 잉태하게 됨을 나타내는 태몽입니다. 앞치마를 두르고 고추를 따는 꿈은 총명한 아들을 낳을 것이라고 봅니다.",
+      "interpretation_en": "Actively picking peppers in a field symbolizes gaining something precious, and is read as a taemong for a healthy child. Picking peppers while wearing an apron is specifically interpreted as a sign of giving birth to a bright, intelligent son."
+    },
+    {
+      "keyword_ko": "고추를 받는 꿈 태몽",
+      "keyword_en": "dream of receiving peppers taemong",
+      "interpretation_ko": "누군가로부터 고추를 선물받거나 건네받는 꿈은 귀한 아이를 잉태하게 될 태몽으로, 특히 농부나 어른에게서 신선한 고추를 받는 꿈은 매우 상서로운 태몽으로 여겨집니다.",
+      "interpretation_en": "Receiving peppers as a gift from someone is a taemong of conceiving a precious child. Being given fresh peppers by a farmer or an elder figure is considered a particularly auspicious pregnancy dream."
+    },
+    {
+      "keyword_ko": "개가 고추를 물고 들어오는 꿈",
+      "keyword_en": "dog carrying peppers into the house dream",
+      "interpretation_ko": "개가 풋고추를 물고 방 안으로 들어오는 꿈은 뛰어난 능력을 갖춘 아들을 낳게 될 태몽이라고 전해집니다. 개는 충직함과 가정을 상징하므로 특히 길한 조합으로 봅니다.",
+      "interpretation_en": "A dog carrying green peppers into a room is interpreted as a taemong of an exceptionally capable son. Since dogs symbolize loyalty and home, this combination is considered especially auspicious."
+    },
+    {
+      "keyword_ko": "고추 씨가 쏟아지는 꿈",
+      "keyword_en": "dream of pepper seeds spilling out",
+      "interpretation_ko": "고추가 갈라지며 씨가 쏟아지는 꿈은 명석하고 뛰어난 아이를 낳게 될 태몽이자, 사업이나 재물 운에서도 대박을 예고하는 길몽입니다.",
+      "interpretation_en": "A pepper splitting open and spilling seeds is a taemong for a brilliant child, as well as a general lucky dream predicting major success in business or financial fortune."
+    },
+    {
+      "keyword_ko": "고추밭 꿈 태몽",
+      "keyword_en": "pepper field dream taemong",
+      "interpretation_ko": "고추가 무성하게 자라는 밭이 나오는 꿈은 건강하고 활발한 아이의 잉태를 의미하며, 밭이 풍성할수록 아이의 미래가 밝을 것이라 해석합니다.",
+      "interpretation_en": "Dreaming of a lush, flourishing pepper field is a taemong signifying the conception of a healthy, energetic child. The more abundant the field, the brighter the child's future is believed to be."
+    },
+    {
+      "keyword_ko": "썩은 고추 꿈",
+      "keyword_en": "rotten pepper dream",
+      "interpretation_ko": "시들거나 썩은 고추가 나오는 꿈은 임신 중 건강 이상이나 유산의 위험을 경고하는 흉몽으로 여겨지며, 일반적으로는 계획했던 일이 실패할 것을 암시하기도 합니다.",
+      "interpretation_en": "Wilted or rotten peppers appearing in a dream are considered an inauspicious sign warning of health complications during pregnancy or risk of miscarriage. In a general context, they also suggest failure of planned endeavors."
+    },
+    {
+      "keyword_ko": "고추 먹는 꿈",
+      "keyword_en": "dream of eating peppers",
+      "interpretation_ko": "고추를 직접 먹는 꿈은 태몽으로 보기보다는 일반 꿈으로, 어려운 상황을 타인의 도움으로 극복하게 됨을 뜻합니다. 매운맛을 즐기며 먹는 꿈은 활발한 활동과 좋은 성과를 예고합니다.",
+      "interpretation_en": "Eating peppers in a dream is generally not a taemong but an everyday dream, suggesting overcoming hardship with others' help. Enjoying the spiciness indicates energetic activity and positive outcomes."
+    }
+  ],
+  "culturalContext": {
+    "korean": "고추는 한국 민속 문화에서 남성성과 벽사(辟邪)를 동시에 상징하는 독특한 식물입니다. 아들이 태어나면 대문에 거는 금줄에 빨간 고추와 숯을 꿰어 넣는 풍습이 있는데, 이는 고추의 형태가 남아의 신체를 상징하는 동시에 고추의 붉은색이 귀신과 잡인을 물리치는 벽사의 힘을 지닌다고 믿었기 때문입니다. 태몽에서 고추가 아들을 상징하게 된 것도 이러한 민속 신앙과 깊이 연결되어 있습니다. 한국민족문화대백과사전에 따르면 고추는 붉은 고추·호두·밤·대추·인삼·옥수수 등과 함께 남아 태몽을 나타내는 대표적인 식물 상징으로 분류됩니다. 실제 통계에서도 아들을 낳은 산모들이 가장 많이 꾼 태몽 중 하나로 고추가 꼽혔으며, 이 믿음은 조선시대 이전부터 이어져 오늘날까지 한국 임산부들 사이에서 널리 통용되고 있습니다.",
+    "english": "The chili pepper (고추, gochu) holds a uniquely layered symbolic role in Korean folk culture, simultaneously representing masculinity and the power to ward off evil spirits (벽사, byeoksa). The most vivid expression of this is the 금줄 (geumjul) tradition: when a son is born, a ritual rope strung with red peppers and charcoal is hung across the front gate to announce the birth and keep malicious spirits away. The pepper's shape was understood as a symbolic parallel to the male body, while its brilliant red color was believed to carry apotropaic power against demons and strangers. This folk association carried directly into dream interpretation — peppers appearing in a pregnancy dream became the quintessential indicator of a male child. The encyclopedic record of Korean folk culture (한국민족문화대백과사전) classifies red peppers alongside walnuts, chestnuts, dates, ginseng, and corn as signature plant symbols of boy-indicating taemong. The belief has roots dating to at least the Joseon period and remains widely recognized among Korean expectant mothers today."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트의 정신분석학 관점에서 고추 꿈은 남근 상징(phallic symbol)의 전형적인 예로 해석될 수 있어요. 길고 뾰족한 형태를 가진 모든 물체는 무의식 속 성적 에너지나 남성성에 대한 표현으로 볼 수 있으며, 이러한 꿈은 임신에 대한 기대와 성별에 대한 잠재적 소망이 반영된 것으로 해석됩니다. 임산부나 임신을 희망하는 사람의 무의식이 아들을 바라는 소망 충족(wish fulfillment)의 형태로 고추 이미지를 만들어낼 수 있다고 봐요.",
+      "english": "From a Freudian psychoanalytic perspective, the pepper dream is a textbook example of phallic symbolism — any elongated, pointed object is read as an expression of unconscious sexual energy or masculinity. For a pregnant dreamer, such a dream may represent wish fulfillment, with the unconscious manifesting the latent desire for a male child. Freud would likely interpret the vivid red color and sharp form as intensified libidinal energy projected onto the dream image."
+    },
+    "jungian": {
+      "korean": "융의 분석심리학에서 고추는 집단 무의식 속에 자리한 남성 원형(masculine archetype)의 표현으로 볼 수 있어요. 태몽이라는 개념 자체가 융이 말하는 '예지적 꿈(prospective dream)'과 일맥상통하는데, 이는 꿈이 단순히 과거를 반추하는 것이 아니라 미래의 발전 방향을 암시한다는 생각과 닿아 있습니다. 고추의 붉은색과 씨를 품은 내부는 새로운 생명의 탄생과 잠재력이 실현되는 개성화(individuation) 과정을 상징하는 이미지로 해석될 수 있어요.",
+      "english": "In Jungian analytical psychology, the pepper can be read as a manifestation of the masculine archetype residing within the collective unconscious. The concept of taemong itself aligns remarkably with Jung's notion of the prospective dream — a dream that does not merely replay the past but anticipates a future direction of growth. The red color and seed-filled interior of the pepper symbolize the birth of new life and the unfolding of potential, images closely connected to Jung's concept of individuation."
+    },
+    "modern": {
+      "korean": "현대 서양 심리학과 수면과학의 관점에서 태몽은 임신 중 급격히 변하는 호르몬과 감정 상태가 꿈의 내용에 직접적인 영향을 미치는 현상으로 이해돼요. 임산부는 평소보다 더 생생하고 감정적으로 강렬한 꿈을 꾸는 경향이 있는데, 이는 렘(REM) 수면 패턴의 변화와 연관이 있습니다. 고추처럼 문화적으로 친숙한 상징이 꿈에 등장하는 것은 임신과 출산에 대한 기대, 불안, 희망이 무의식 속에서 처리되는 과정을 반영한다고 볼 수 있어요.",
+      "english": "From the perspective of modern Western psychology and sleep science, taemong experiences are understood as a product of the dramatic hormonal and emotional shifts of pregnancy directly influencing dream content. Pregnant individuals tend to experience more vivid and emotionally intense dreams, a phenomenon linked to changes in REM sleep architecture. The appearance of culturally familiar symbols like the pepper likely reflects the unconscious processing of expectations, anxieties, and hopes surrounding pregnancy and childbirth."
+    },
+    "crossCultural": {
+      "korean": "한국 전통 해몽이 고추를 아들의 탄생을 예고하는 구체적 신호로 보는 반면, 서양 심리학은 이를 성별 예언보다는 임산부 내면의 심리 상태와 소망이 투영된 것으로 해석해요. 두 관점 모두 꿈이 임신이라는 중요한 생애 전환기에 깊이 연결되어 있다는 점에서는 일치합니다.",
+      "english": "Where Korean folk tradition reads the pepper as a specific omen predicting a son's birth, Western psychology interprets the same image as a projection of the dreamer's inner psychological state and wishes rather than a literal prophecy. Both perspectives agree, however, that pregnancy is a profound life transition during which the dreaming mind becomes especially active and symbolically rich."
+    }
+  },
+  "relatedSymbols": [
+    "dragon-ascending-dream",
+    "tiger-cub-dream",
+    "golden-toad",
+    "carp-dream",
+    "pig-dream",
+    "snake-dream",
+    "pregnancy-dream",
+    "fruit-dream"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "고추 태몽",
+      "고추 태몽 아들",
+      "고추꿈 태몽",
+      "빨간 고추 태몽",
+      "풋고추 태몽",
+      "고추 꿈해몽",
+      "태몽 고추 성별",
+      "고추 따는 꿈 태몽",
+      "고추 태몽 딸",
+      "태몽 아들 고추",
+      "고추꿈 의미",
+      "고추 태몽 해몽"
+    ],
+    "english": [
+      "pepper taemong meaning",
+      "chili pepper pregnancy dream korean",
+      "Korean boy dream pepper",
+      "taemong boy indicators",
+      "gochu dream pregnancy",
+      "red pepper dream boy korean",
+      "Korean pregnancy dream symbols",
+      "pepper dream meaning baby gender"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "고추 태몽을 꾸면 무조건 아들인가요?",
+      "answer_ko": "고추 태몽은 한국 전통에서 아들을 상징하는 대표적인 꿈이지만, 무조건 아들을 보장하지는 않아요. 고추의 색깔(빨간색=남아, 풋고추 여러 개=여아 가능성)과 상황에 따라 해석이 달라질 수 있으며, 태몽은 어디까지나 민간 전통으로 의학적 성별 판별과는 별개로 즐기는 문화입니다.",
+      "answer_en": "The pepper taemong is the most iconic boy-indicator dream in Korean tradition, but it is not a guarantee. Interpretation depends on context — a single vivid red pepper strongly suggests a son, while many green peppers may indicate a daughter. Taemong is a cultural folk tradition to be enjoyed alongside, not instead of, medical gender determination.",
+      "question_en": "Does dreaming of a pepper always mean a boy?"
+    },
+    {
+      "question_ko": "빨간 고추와 풋고추 태몽의 차이는 무엇인가요?",
+      "answer_ko": "빨간 고추는 남아를 강하게 암시하는 태몽으로 해석되고, 풋고추 한두 개도 아들 태몽으로 보는 경우가 많습니다. 반면 풋고추가 여러 개 달려 있거나 많이 나오는 꿈은 딸 태몽으로 해석하기도 해요. 색이 선명하고 크기가 크며 탐스럽게 익은 고추일수록 더 강한 아들 태몽으로 봅니다.",
+      "answer_en": "A red pepper strongly suggests a son, and one or two green peppers are also typically read as a boy taemong. However, dreams featuring many green peppers may be interpreted as indicating a daughter. The more vivid, large, and ripe the pepper, the stronger the boy-indicator interpretation.",
+      "question_en": "What is the difference between a red pepper and a green pepper taemong?"
+    },
+    {
+      "question_ko": "고추 태몽은 임산부가 직접 꿔야 하나요?",
+      "answer_ko": "태몽은 반드시 임산부 본인이 꿀 필요는 없어요. 임산부의 남편, 시어머니, 친정어머니 등 가까운 가족이 대신 꾸는 경우도 많으며, 이를 '대리 태몽'이라고 합니다. 가족 중 누군가가 꿈에서 고추를 보았다면 태몽으로 해석하는 것이 전통적 방식입니다.",
+      "answer_en": "The taemong does not have to be dreamed by the expectant mother herself. It is common for the husband, mother-in-law, or other close family members to dream it on her behalf — this is called a 'proxy taemong' (대리 태몽). If any family member dreams of peppers around the time of a pregnancy, it is traditionally interpreted as the child's taemong.",
+      "question_en": "Does the pregnant mother have to dream the taemong herself?"
+    },
+    {
+      "question_ko": "고추 태몽이 아들과 연관된 이유는 무엇인가요?",
+      "answer_ko": "고추가 아들 태몽으로 여겨지는 이유는 크게 두 가지입니다. 첫째, 고추의 형태가 남아의 신체를 상징적으로 닮았다는 민간 인식 때문이에요. 둘째, 아들이 태어나면 대문에 거는 금줄에 빨간 고추를 꽂는 전통 풍습이 있어서, 고추 자체가 오랫동안 남아의 상징으로 문화적으로 인식되어 왔기 때문입니다.",
+      "answer_en": "There are two main reasons pepper became associated with the birth of a son. First, its elongated shape was seen as symbolically resembling the male body. Second, there is a deep-rooted tradition of stringing red peppers on the 금줄 (ritual rope) hung on the gate when a son is born, cementing the pepper as a culturally recognized male symbol for centuries.",
+      "question_en": "Why is the pepper taemong associated with a boy?"
+    },
+    {
+      "question_ko": "고추 태몽을 꿨는데 딸이 태어날 수도 있나요?",
+      "answer_ko": "네, 가능합니다. 태몽 해석은 절대적이지 않으며, 고추 태몽을 꾸고도 딸을 낳은 사례는 많습니다. 태몽은 아이의 성격이나 미래 기질을 상징적으로 나타내는 경우도 있어서, 고추 태몽 후 딸을 낳으면 그 아이가 활기차고 강인한 성격을 가질 것이라는 긍정적 해석을 하기도 합니다.",
+      "answer_en": "Yes, absolutely. Taemong interpretation is not a scientific certainty, and many mothers who dreamed of peppers gave birth to daughters. In such cases, folk tradition often re-reads the pepper taemong as a sign that the daughter will be spirited, strong-willed, and energetic — a positive reinterpretation rather than a failed prediction.",
+      "question_en": "Can you still have a daughter after a pepper taemong?"
+    },
+    {
+      "question_ko": "고추 태몽이 일반 꿈과 다른 점은 무엇인가요?",
+      "answer_ko": "태몽은 일반 꿈보다 훨씬 생생하고 선명하며, 꿈에서 깨어난 후에도 오랫동안 기억에 남는다는 특징이 있어요. 꿈 속에서 강렬한 감정(기쁨, 경이로움)을 느끼거나, 고추를 직접 품에 안거나 받는 행동이 동반되는 경우가 많습니다. 단순히 고추가 등장하는 꿈이라도 이러한 생생함과 감정적 강도가 있다면 태몽으로 볼 수 있습니다.",
+      "answer_en": "A taemong is distinguished from ordinary dreams by its exceptional vividness and clarity, often staying vividly in memory long after waking. The dreamer typically experiences intense positive emotion — joy, wonder, awe — and the dream often involves physically holding, receiving, or embracing the symbolic object. Even a simple dream featuring peppers can be classified as a taemong if it carries this heightened emotional intensity and unusual clarity.",
+      "question_en": "How is a pepper taemong different from an ordinary dream about peppers?"
+    }
+  ]
+}

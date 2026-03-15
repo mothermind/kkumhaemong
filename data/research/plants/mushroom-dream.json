@@ -1,0 +1,239 @@
+{
+  "symbol": {
+    "korean": "버섯",
+    "english": "Mushroom",
+    "slug": "mushroom"
+  },
+  "summary": {
+    "korean": "버섯 꿈은 한국 전통 해몽에서 대체로 풍요, 재물운, 건강, 그리고 은밀한 기회의 상징으로 해석됩니다. 영지버섯처럼 귀한 버섯을 보거나 따는 꿈은 장수와 부귀를 암시하는 길몽이지만, 독버섯을 먹거나 만지는 꿈은 숨겨진 위험과 기만을 경고하는 흉몽으로 봅니다.",
+    "english": "Mushroom dreams in Korean folk interpretation generally symbolize abundance, financial fortune, health, and hidden opportunity. Dreams of picking or seeing prized mushrooms like the lingzhi (영지버섯) or pine mushroom (송이버섯) are auspicious omens of longevity and wealth, while eating or touching poisonous mushrooms warns of hidden danger and deception."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "산이나 숲에서 버섯을 따는 꿈은 뜻밖의 재물이나 기회가 찾아올 것을 암시하는 대표적인 길몽이에요. 오랫동안 숨어 있던 행운이 마침내 모습을 드러내는 시기가 왔다는 신호로, 투자나 사업에서 예상치 못한 수익을 거두게 될 수 있습니다.",
+      "english": "Picking mushrooms in a mountain or forest is a classic auspicious dream signaling that unexpected wealth or opportunity is on its way. It indicates that long-hidden luck is finally revealing itself — a time when unanticipated returns may come from investments or business ventures.",
+      "context": "산이나 숲에서 버섯을 따는 꿈 — 재물운 상승, 뜻밖의 기회, 행운"
+    },
+    {
+      "type": "길몽",
+      "korean": "영지버섯이나 송이버섯처럼 귀하고 크고 탐스러운 버섯을 발견하거나 받는 꿈은 건강 장수와 가문의 번영을 예고하는 매우 상서로운 꿈이에요. 특히 영지버섯은 한국 민간에서 불로장생의 영약으로 여겨졌기 때문에, 이를 꿈에서 얻는 것은 큰 복이 찾아올 길몽으로 해석합니다.",
+      "english": "Discovering or receiving a prized, large mushroom — such as the lingzhi (영지버섯) or pine mushroom (송이버섯) — is a highly auspicious dream foretelling long life, good health, and family prosperity. Since the lingzhi was revered in Korean folk tradition as an elixir of immortality, obtaining one in a dream is interpreted as a powerful sign of great blessings to come.",
+      "context": "영지버섯, 송이버섯 같은 귀한 버섯을 얻는 꿈 — 건강, 장수, 가문 번영"
+    },
+    {
+      "type": "길몽",
+      "korean": "땅에서 버섯이 쑥쑥 자라나거나 버섯이 풍성하게 무리 지어 피어 있는 꿈은 재물이 늘어나고 사업이 번창할 징조예요. 아무것도 없던 곳에서 갑자기 자라나는 버섯의 특성처럼, 예상하지 못했던 곳에서 이익이 생기거나 빠른 성장이 이루어질 것을 상징합니다.",
+      "english": "Dreaming of mushrooms sprouting vigorously from the ground, or of abundant clusters of mushrooms growing together, is a sign of growing wealth and flourishing business. Just as mushrooms appear suddenly where nothing was before, it symbolizes profits materializing from unexpected sources or rapid growth in your endeavors.",
+      "context": "버섯이 풍성하게 자라나는 꿈 — 재물 증가, 사업 번창, 빠른 성장"
+    },
+    {
+      "type": "길몽",
+      "korean": "버섯을 먹는 꿈이 기분 좋고 맛있게 느껴진다면 건강이 좋아지고 몸의 기운이 회복될 것을 의미해요. 특히 병을 앓고 있는 사람이 꿈에서 버섯을 맛있게 먹는다면, 빠른 쾌유와 건강 회복의 신호로 해석됩니다.",
+      "english": "If eating mushrooms in a dream feels pleasant and delicious, it signifies improving health and the recovery of bodily vitality. For someone currently ill, dreaming of eating mushrooms with relish is interpreted as a positive signal of swift recovery and restored health.",
+      "context": "버섯을 맛있게 먹는 꿈 — 건강 회복, 기력 충전, 쾌유"
+    },
+    {
+      "type": "흉몽",
+      "korean": "독버섯을 먹거나 독버섯인 줄 모르고 먹는 꿈은 주변 사람의 달콤한 말이나 겉보기에 좋아 보이는 제안에 속아 큰 피해를 입을 수 있음을 경고하는 흉몽이에요. 겉은 그럴싸해 보이지만 실제로는 해로운 사람이나 기회를 상징합니다.",
+      "english": "Dreaming of eating a poisonous mushroom — especially unknowingly — is an inauspicious warning that you may be deceived by sweet words or apparently attractive proposals from those around you. It symbolizes someone or something that appears appealing on the surface but is actually harmful.",
+      "context": "독버섯을 먹는 꿈 — 기만, 은밀한 위험, 속임수 주의"
+    },
+    {
+      "type": "흉몽",
+      "korean": "버섯을 먹고 몸이 이상해지거나 아픈 꿈은 건강 악화나 음식, 사람, 환경으로 인한 해로운 영향을 경고해요. 현재 건강 상태에 주의를 기울이고 불필요한 위험을 감수하지 말 것을 암시합니다.",
+      "english": "Dreaming of feeling ill or unwell after eating mushrooms warns of deteriorating health or harmful influences from food, people, or one's environment. It suggests paying close attention to your current health and avoiding unnecessary risks.",
+      "context": "버섯을 먹고 아픈 꿈 — 건강 악화, 해로운 영향, 주의 요망"
+    },
+    {
+      "type": "흉몽",
+      "korean": "버섯이 썩어 있거나 곰팡이가 핀 버섯을 보는 꿈은 오래된 문제가 곪아서 심각해지고 있거나, 불건전한 환경이나 관계에서 비롯된 해로운 기운이 자신을 잠식하고 있음을 경고해요.",
+      "english": "Seeing rotting or moldy mushrooms in a dream warns that an old problem is festering and becoming serious, or that unhealthy environments or relationships are encroaching on your well-being.",
+      "context": "썩은 버섯 꿈 — 곪는 문제, 불건전한 환경 경고"
+    },
+    {
+      "type": "neutral",
+      "korean": "버섯이 어두운 동굴이나 그늘진 곳에서 자라나는 꿈은 아직 드러나지 않은 잠재력이나 남이 모르는 자신만의 재능, 혹은 감추어진 비밀을 상징해요. 빛이 없는 곳에서 자라는 버섯처럼, 주목받지 못하는 곳에서 조용히 성장하고 있는 자신의 모습을 반영합니다.",
+      "english": "Dreaming of mushrooms growing in a dark cave or shaded place symbolizes latent potential not yet revealed, a personal talent unknown to others, or a hidden secret. Like a mushroom thriving without sunlight, it reflects quiet, unnoticed growth happening beneath the surface.",
+      "context": "어두운 곳에서 자라는 버섯 꿈 — 잠재력, 은밀한 성장, 숨겨진 재능"
+    },
+    {
+      "type": "neutral",
+      "korean": "버섯이 갑자기 크게 자라는 꿈은 상황이 빠르게 변화하거나 통제하기 어려운 속도로 일이 진행될 수 있다는 암시예요. 긍정적으로는 기회의 급격한 팽창을 의미하지만, 부정적으로는 감당하기 힘든 상황이 펼쳐질 수 있음을 경고하기도 합니다.",
+      "english": "A dream of mushrooms growing suddenly very large hints that situations may change rapidly or events may accelerate beyond easy control. Positively, it can mean a sudden explosive expansion of opportunity; negatively, it warns that an unmanageable situation may unfold.",
+      "context": "버섯이 갑자기 커지는 꿈 — 빠른 변화, 급격한 팽창, 양면적 해석"
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "버섯 따는 꿈",
+      "keyword_en": "picking mushrooms dream",
+      "interpretation_ko": "산이나 숲에서 버섯을 따는 꿈은 뜻밖의 재물이 들어오거나 숨겨진 기회를 발견하게 될 길몽이에요. 많은 양의 버섯을 따는 꿈일수록 재물운이 강하게 상승하는 것으로 해석합니다.",
+      "interpretation_en": "Picking mushrooms in a mountain or forest is an auspicious dream of unexpected wealth or the discovery of hidden opportunity. The greater the quantity picked, the stronger the incoming financial fortune is interpreted to be."
+    },
+    {
+      "keyword_ko": "버섯 먹는 꿈",
+      "keyword_en": "eating mushrooms dream",
+      "interpretation_ko": "버섯을 맛있게 먹는 꿈은 건강 회복과 기력 충전의 신호예요. 다만 독버섯인지 확인하지 않고 먹는 꿈이라면, 상황 판단 없이 위험을 감수하는 것에 대한 경고로 읽어야 해요.",
+      "interpretation_en": "Eating mushrooms with pleasure in a dream signals health recovery and restored energy. However, if you eat without confirming whether the mushroom is safe, it should be read as a warning against taking risks without properly assessing the situation."
+    },
+    {
+      "keyword_ko": "독버섯 꿈",
+      "keyword_en": "poisonous mushroom dream",
+      "interpretation_ko": "독버섯이 나타나는 꿈은 주변의 달콤한 말이나 유혹적인 제안 뒤에 함정이 숨어 있을 수 있다는 경고예요. 겉으로는 매력적으로 보이지만 실제로는 해가 될 수 있는 사람이나 상황을 상징합니다.",
+      "interpretation_en": "A dream featuring poisonous mushrooms is a warning that traps may be hidden behind sweet words or tempting proposals in your surroundings. It symbolizes a person or situation that appears attractive on the surface but may actually cause harm."
+    },
+    {
+      "keyword_ko": "큰 버섯 꿈",
+      "keyword_en": "large mushroom dream",
+      "interpretation_ko": "크고 탐스러운 버섯을 보는 꿈은 재물이나 성과가 크게 불어날 것을 암시하는 길몽이에요. 버섯의 크기가 클수록 얻게 될 이득이나 성취의 규모도 크다고 해석합니다.",
+      "interpretation_en": "Seeing a large, impressive mushroom in a dream is an auspicious sign that wealth or achievements will grow substantially. The bigger the mushroom, the greater the scale of gains or accomplishments to come."
+    },
+    {
+      "keyword_ko": "버섯이 많이 나는 꿈",
+      "keyword_en": "mushrooms growing everywhere dream",
+      "interpretation_ko": "버섯이 여기저기 풍성하게 자라나는 꿈은 사업 번창이나 재물 증대를 예고하는 매우 좋은 꿈이에요. 여러 곳에서 동시에 기회가 열리는 시기가 올 것임을 암시하기도 합니다.",
+      "interpretation_en": "Dreaming of mushrooms growing abundantly in many places is a very auspicious sign foretelling flourishing business and increasing wealth. It also hints that multiple opportunities may open simultaneously across different areas of your life."
+    },
+    {
+      "keyword_ko": "영지버섯 꿈",
+      "keyword_en": "lingzhi mushroom dream",
+      "interpretation_ko": "영지버섯은 한국 민간 신앙에서 불로불사의 영약으로 여겨진 신비한 버섯이에요. 꿈에서 영지버섯을 보거나 얻는 것은 건강 장수, 가족의 평안, 큰 복덕이 찾아올 것을 예고하는 최고의 길몽 중 하나입니다.",
+      "interpretation_en": "The lingzhi mushroom (영지버섯, ganoderma) was revered in Korean folk tradition as a mystical elixir of immortality. Seeing or obtaining a lingzhi mushroom in a dream is considered one of the most auspicious omens possible, foretelling long life, good health, family peace, and great blessings."
+    },
+    {
+      "keyword_ko": "송이버섯 꿈",
+      "keyword_en": "pine mushroom dream",
+      "interpretation_ko": "송이버섯은 한국에서 가장 귀한 식재료 중 하나로, 꿈에서 송이버섯을 발견하거나 수확하는 것은 특별한 기회나 귀한 인연, 혹은 금전적 횡재를 상징하는 길몽이에요.",
+      "interpretation_en": "The matsutake pine mushroom (송이버섯) is one of Korea's most prized culinary treasures. Discovering or harvesting pine mushrooms in a dream is an auspicious omen symbolizing a special opportunity, a precious connection, or an unexpected financial windfall."
+    },
+    {
+      "keyword_ko": "숲속에서 버섯 꿈",
+      "keyword_en": "mushroom in forest dream",
+      "interpretation_ko": "숲속에서 버섯을 발견하는 꿈은 자연 속에서 찾는 지혜와 자기 성찰을 상징해요. 삶의 방향에 대한 통찰을 얻거나, 오랫동안 모르고 지나쳤던 숨겨진 가치를 발견하게 될 것을 암시합니다.",
+      "interpretation_en": "Discovering mushrooms in a forest in a dream symbolizes wisdom found in nature and self-reflection. It suggests that you will gain insight into life's direction, or discover hidden value that you have long overlooked."
+    },
+    {
+      "keyword_ko": "마법 버섯 꿈",
+      "keyword_en": "magic mushroom dream",
+      "interpretation_ko": "꿈속에서 신비롭고 마법 같은 버섯이 나타난다면, 현실을 초월한 통찰력이나 창의적 영감이 찾아오는 시기임을 상징해요. 단, 현실과 환상의 경계를 잘 구분하며 이상과 현실 사이에서 균형을 잡을 필요가 있다는 메시지이기도 합니다.",
+      "interpretation_en": "If a mysterious, magical mushroom appears in a dream, it symbolizes a period when transcendent insight or creative inspiration is arriving. At the same time, it carries a message about the need to distinguish reality from fantasy and maintain balance between idealism and practical reality."
+    },
+    {
+      "keyword_ko": "버섯을 요리하는 꿈",
+      "keyword_en": "cooking mushrooms dream",
+      "interpretation_ko": "버섯을 요리하는 꿈은 자신이 가진 잠재력이나 기회를 적극적으로 활용할 준비가 되어 있음을 상징해요. 재료를 손질하고 요리하는 과정처럼, 주어진 조건들을 잘 다듬어 원하는 결과물로 만들어낼 능력이 있음을 암시합니다.",
+      "interpretation_en": "Dreaming of cooking mushrooms symbolizes being ready to actively leverage your latent potential or available opportunities. Like the process of preparing and transforming raw ingredients, it suggests you have the ability to refine your given conditions into the outcome you desire."
+    },
+    {
+      "keyword_ko": "버섯이 몸에서 자라는 꿈",
+      "keyword_en": "mushrooms growing on body dream",
+      "interpretation_ko": "몸에서 버섯이 자라는 특이한 꿈은 내면에서 억누르거나 방치했던 문제가 표면으로 드러나기 시작했음을 상징해요. 건강, 감정, 관계 면에서 오래 방치해둔 것에 주의를 기울여야 한다는 경고이기도 합니다.",
+      "interpretation_en": "The unusual dream of mushrooms growing from one's body symbolizes suppressed or neglected issues beginning to surface from within. It is a warning to pay attention to something long neglected — whether in health, emotions, or relationships."
+    },
+    {
+      "keyword_ko": "버섯 따는 꿈 태몽",
+      "keyword_en": "picking mushrooms pregnancy dream",
+      "interpretation_ko": "임신 중 버섯을 따는 태몽은 풍요롭고 재능 있는 자녀를 얻을 것을 암시하는 길몽이에요. 특히 영지버섯이나 귀한 버섯을 따는 태몽이라면 장차 건강하고 지혜로운 자녀가 태어날 것을 예고합니다.",
+      "interpretation_en": "A pregnancy dream of picking mushrooms is an auspicious sign foretelling the birth of a prosperous and talented child. If the dream involves picking a prized mushroom like the lingzhi, it specifically foretells the birth of a healthy, wise child."
+    }
+  ],
+  "culturalContext": {
+    "korean": "한국 전통 문화에서 버섯은 산과 숲이라는 자연의 선물이자, 신비로운 생명력의 상징이었습니다. 그중에서도 영지버섯(靈芝, 불로초)은 수천 년 전부터 동아시아 전통 의학에서 불로장생의 영약으로 숭상받았어요. 신선들이 먹는 약초로 알려진 영지버섯은 궁중 요리와 민간 처방 모두에서 귀하게 여겨졌으며, 십장생(十長生) 도안에도 자주 등장하는 불사와 장수의 상징입니다. 송이버섯(松茸)은 현재도 한국에서 가장 고급스러운 식재료 중 하나로, 가을 산에서 소나무 아래 자라는 향기로운 버섯은 조선시대 왕실에 진상되던 귀한 물품이었습니다. 이처럼 값지고 귀한 버섯을 구하는 행위는 문화적으로 풍요와 복을 쌓는 일과 동일시되었어요. 반면 독버섯은 오랫동안 배신과 기만의 상징으로, '겉으로는 아름답지만 속은 치명적'이라는 민간의 교훈 속에 살아 숨쉬었습니다. 가을 산 채취(산나물·버섯 채집) 문화는 조선시대부터 지금까지 한국 생활문화의 일부로 이어지며, 버섯을 따는 꿈은 자연의 선물을 받는 행위 — 즉 노력하지 않아도 저절로 들어오는 복 — 을 상징하게 되었습니다.",
+    "english": "In Korean traditional culture, mushrooms were understood as gifts from the mountain and forest, and symbols of mysterious vital energy. The lingzhi mushroom (영지버섯, ganoderma) was revered for millennia in East Asian traditional medicine as an elixir of immortality, believed to be food for immortals (신선). Featured in royal cuisine and folk remedies alike, it appears frequently in the Ten Symbols of Longevity (십장생) iconography as a sign of agelessness and long life. The pine mushroom (송이버섯, matsutake) remains one of Korea's most prized culinary ingredients today; in the Joseon dynasty it was offered as tribute to the royal court. Foraging prized mushrooms was culturally equated with accumulating prosperity and blessings. By contrast, the poisonous mushroom became an enduring folk symbol of deception — beautiful on the outside but deadly within. The autumn mountain foraging tradition (산나물과 버섯 채집) has been part of Korean daily life from Joseon times to the present, so dreaming of picking mushrooms evokes the cultural image of receiving nature's gifts unbidden — fortune that arrives without needing to be forced."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트 정신분석학에서 버섯은 남근적(phallic) 형태로 인해 성적 상징으로 빈번히 해석됩니다. 땅에서 갑자기 솟아오르는 버섯의 모양은 남성 성기를 상징하며, 버섯을 따거나 받는 행위는 성적 욕망이나 억압된 리비도의 표출로 봐요. 독버섯을 먹는 꿈은 위험한 욕망에 이끌리는 자신에 대한 무의식적 두려움이나 죄책감의 표현으로 해석될 수 있습니다.",
+      "english": "In Freudian psychoanalysis, the mushroom's phallic form makes it a frequent symbol of sexuality. Its shape — suddenly emerging from the earth — represents the male sex organ, and actions such as picking or receiving mushrooms are understood as expressions of sexual desire or repressed libidinal energy. Eating a poisonous mushroom in a dream can be interpreted as an unconscious fear or guilt related to being drawn toward dangerous desires."
+    },
+    "jungian": {
+      "korean": "융의 분석심리학에서 버섯은 '아래에서 솟아오르는 것'으로서 무의식의 심층에서 올라오는 집단 무의식의 내용물을 상징해요. 빛 없이 어둠 속에서 자라는 버섯의 특성은 그림자(Shadow) 원형 — 의식에 의해 억압된 자아의 어두운 면 — 과 연결되며, 숲속에서 버섯을 발견하는 꿈은 개성화(individuation) 과정에서 자신의 무의식을 탐험하고 통합해가는 여정을 나타낼 수 있습니다. 영지버섯처럼 빛나는 신비로운 버섯은 자기(Self) 원형의 표현으로 해석할 수 있어요.",
+      "english": "In Jungian analytical psychology, mushrooms — rising from below — symbolize contents emerging from the deep layers of the collective unconscious. Their ability to grow in darkness without light connects them to the Shadow archetype: the dark, suppressed side of the psyche not acknowledged by conscious ego. Dreaming of discovering mushrooms in a forest may represent a journey into the unconscious and its integration during the individuation process. A luminous, mysterious mushroom resembling the lingzhi can be interpreted as a manifestation of the Self archetype."
+    },
+    "modern": {
+      "korean": "현대 심리학의 관점에서 버섯 꿈은 빠른 성장과 변화, 혹은 위험에 대한 잠재의식적 인식과 연결됩니다. 밤새 갑자기 자라나는 버섯의 생물학적 특성은 예상치 못한 변화나 성장을 암시할 수 있고, 독버섯 꿈은 현실에서 어떤 상황이나 관계에 대해 무의식적으로 위험 신호를 감지하고 있음을 반영할 수 있어요. 또한 먹을 것과 관련된 버섯 꿈은 영양 부족, 자기 돌봄 욕구, 또는 자신을 충족시킬 필요에 대한 심리적 신호일 수 있습니다.",
+      "english": "From a modern psychological perspective, mushroom dreams connect to subliminal awareness of rapid growth and change, or of hidden danger. Mushrooms' biological nature of growing suddenly overnight can symbolize unexpected change or growth, while a poisonous mushroom dream may reflect the unconscious detection of warning signals about a real-life situation or relationship. Additionally, mushroom dreams involving food can be psychological signals of nutritional or emotional unmet needs — a need for greater self-care and nourishment."
+    },
+    "crossCultural": {
+      "korean": "동서양 모두에서 버섯은 이중적 상징을 가져요. 한국을 포함한 동아시아 전통에서는 영지버섯과 같은 귀한 버섯이 불로장생과 신성함의 상징이었던 반면, 유럽 민간 전통에서 버섯 고리(fairy ring)는 요정과 초자연적 존재와 연결된 마법의 공간으로 여겨졌습니다. 독버섯에 대한 경계는 동서양 공통으로 나타나며, 이는 '겉모습만으로 판단하지 말라'는 보편적 교훈을 담고 있어요. 한국 해몽이 버섯을 주로 재물, 건강, 기회의 상징으로 해석하는 반면, 현대 서양 심리학은 버섯을 변화, 성장의 속도, 무의식 탐험과 연결 짓는 경향이 있습니다.",
+      "english": "In both Eastern and Western traditions, mushrooms carry dual symbolism. In East Asian traditions including Korea, prized mushrooms like the lingzhi were symbols of immortality and the sacred, while in European folk tradition, mushroom fairy rings were magical spaces associated with fairies and the supernatural. Caution toward poisonous mushrooms appears universally across cultures, carrying the shared lesson of not judging by appearances alone. Where Korean dream interpretation frames mushrooms primarily as symbols of wealth, health, and opportunity, modern Western psychology tends to connect mushrooms to themes of transformation, the pace of growth, and exploration of the unconscious."
+    }
+  },
+  "relatedSymbols": [
+    "tree-dream",
+    "forest-dream",
+    "plant-dream",
+    "nature-dream",
+    "mountain-dream",
+    "lotus-dream",
+    "fruit-tree-dream",
+    "flowers-dream"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "버섯 꿈해몽",
+      "버섯꿈 의미",
+      "버섯 꿈 길몽 흉몽",
+      "버섯 따는 꿈해몽",
+      "버섯 먹는 꿈해몽",
+      "독버섯 꿈해몽",
+      "영지버섯 꿈해몽",
+      "송이버섯 꿈해몽",
+      "버섯 꿈 재물운",
+      "버섯 꿈 건강",
+      "버섯 꿈 태몽",
+      "숲 버섯 꿈해몽",
+      "큰 버섯 꿈 의미"
+    ],
+    "english": [
+      "mushroom dream meaning",
+      "dream about mushrooms Korean interpretation",
+      "picking mushrooms dream meaning",
+      "poisonous mushroom dream",
+      "lingzhi mushroom dream",
+      "eating mushroom dream spiritual meaning",
+      "mushrooms growing dream symbolism",
+      "Korean mushroom dream fortune",
+      "auspicious mushroom dream"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "버섯을 따는 꿈은 재물운이 좋은 건가요?",
+      "answer_ko": "네, 버섯을 따는 꿈은 대표적인 재물운 길몽으로 해석돼요. 산이나 숲에서 버섯을 수확하는 꿈은 그동안 숨어 있던 기회나 뜻밖의 재물이 찾아올 것을 암시합니다. 특히 많은 양을 따는 꿈이거나 영지버섯, 송이버섯처럼 귀한 버섯을 따는 꿈이라면 재물운과 행운의 규모가 더욱 크게 해석됩니다.",
+      "question_en": "Is a dream of picking mushrooms a good sign for wealth?",
+      "answer_en": "Yes, dreaming of picking mushrooms is a classic auspicious sign for financial fortune. Harvesting mushrooms from a mountain or forest suggests that hidden opportunities or unexpected wealth are on their way. If you pick a large quantity, or prized varieties like lingzhi or pine mushrooms, the scale of incoming fortune and luck is interpreted as even greater."
+    },
+    {
+      "question_ko": "독버섯 꿈을 꾸면 나쁜 일이 생기나요?",
+      "answer_ko": "독버섯 꿈은 주변의 달콤한 말이나 유혹 뒤에 함정이 있을 수 있다는 경고입니다. 겉으로는 매력적으로 보이는 사람이나 상황에 속지 않도록 주의가 필요하다는 의미예요. 독버섯을 먹고 아픈 꿈이라면 건강 면에서도 조심할 필요가 있습니다. 하지만 꿈은 미래를 확정 짓는 것이 아니라 조심하라는 신호이므로, 주변을 좀 더 꼼꼼하게 살피는 계기로 삼으면 좋아요.",
+      "question_en": "Does dreaming of poisonous mushrooms mean something bad will happen?",
+      "answer_en": "A dream of poisonous mushrooms is a warning that there may be traps behind sweet words or tempting offers in your surroundings. It means you should be careful not to be deceived by people or situations that appear attractive on the surface. If you felt ill after eating the mushroom in the dream, it may also be worth paying closer attention to your physical health. Dreams are best understood as cautionary signals, not fixed predictions — use it as a prompt to look more carefully at what's around you."
+    },
+    {
+      "question_ko": "영지버섯이 꿈에 나왔는데 무슨 의미인가요?",
+      "answer_ko": "영지버섯은 한국 전통에서 불로장생의 영약으로 숭배받던 신성한 버섯이에요. 꿈에서 영지버섯을 보거나 얻는 것은 건강 장수, 가족의 평안, 큰 복덕이 찾아올 것을 예고하는 최고급 길몽 중 하나로 해석됩니다. 특히 병을 앓고 있는 사람이라면 쾌유의 신호, 노인이 꾼다면 장수의 징조로 봐요.",
+      "question_en": "What does it mean if lingzhi (영지버섯) appears in my dream?",
+      "answer_en": "The lingzhi mushroom is a sacred symbol revered in Korean tradition as an elixir of immortality. Seeing or obtaining a lingzhi in a dream is interpreted as one of the highest-tier auspicious omens, foretelling long life, good health, family peace, and great blessings. For someone currently ill, it specifically signals recovery; for an elderly person, it is a sign of longevity."
+    },
+    {
+      "question_ko": "버섯이 갑자기 많이 자라는 꿈은 어떤 의미인가요?",
+      "answer_ko": "버섯이 여기저기서 풍성하게 자라나는 꿈은 재물이 빠르게 불어나거나 사업이 번창할 것을 암시하는 길몽이에요. 여러 곳에서 기회가 동시에 열리는 시기가 올 수 있다는 의미이기도 합니다. 단, 지나치게 급격한 성장은 통제가 어려울 수 있다는 양면적 메시지도 담고 있으니, 빠른 변화에 잘 대처하는 준비도 함께 챙기는 게 좋아요.",
+      "question_en": "What does it mean if mushrooms are growing rapidly everywhere in my dream?",
+      "answer_en": "Dreaming of mushrooms sprouting abundantly in all directions is an auspicious sign that wealth may grow rapidly or business will flourish. It can also mean that multiple opportunities are about to open simultaneously across different areas of your life. That said, it carries a dual message — excessively rapid growth can be hard to control, so alongside welcoming the good fortune, it's wise to also prepare for managing fast-moving changes."
+    },
+    {
+      "question_ko": "버섯 꿈은 태몽이 될 수 있나요?",
+      "answer_ko": "네, 버섯 꿈은 태몽으로 해석되기도 해요. 귀한 버섯(영지버섯, 송이버섯)을 따거나 얻는 태몽은 건강하고 재능 있는 자녀가 태어날 것을 암시하는 길몽으로 봅니다. 버섯이 풍성하게 자라나는 태몽은 풍요롭고 복이 많은 자녀의 탄생을 예고하는 것으로 해석되는 경우도 있어요.",
+      "question_en": "Can a mushroom dream be a pregnancy dream (태몽)?",
+      "answer_en": "Yes, mushroom dreams can be interpreted as pregnancy dreams (태몽). Picking or receiving prized mushrooms — lingzhi or pine mushrooms — in a pregnancy dream is seen as an auspicious sign of a healthy, talented child to come. Dreams of mushrooms growing abundantly are sometimes interpreted as foretelling a child who will lead a prosperous, fortunate life."
+    },
+    {
+      "question_ko": "버섯을 먹고 기분이 나빠지는 꿈은 무슨 의미인가요?",
+      "answer_ko": "버섯을 먹고 몸이 이상해지거나 불쾌감을 느끼는 꿈은 건강 상태에 주의가 필요하거나, 현재 접하고 있는 사람이나 상황에서 유해한 영향을 받고 있을 가능성을 경고해요. 현실에서 자신의 건강과 주변 환경을 점검해보는 계기로 삼는 것이 좋습니다.",
+      "question_en": "What does it mean to feel sick after eating mushrooms in a dream?",
+      "answer_en": "Feeling unwell or nauseated after eating mushrooms in a dream warns that your health may need attention, or that you may be experiencing harmful influences from a person or situation currently in your life. Use it as a prompt to check in on your physical health and examine whether any part of your current environment may be negatively affecting you."
+    }
+  ]
+}

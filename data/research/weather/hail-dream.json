@@ -1,0 +1,196 @@
+{
+  "symbol": {
+    "korean": "우박 꿈",
+    "english": "Hail Dream",
+    "slug": "hail-dream"
+  },
+  "summary": {
+    "korean": "우박 꿈은 갑작스러운 충격과 변화를 상징하며, 상황에 따라 길몽과 흉몽으로 나뉩니다. 우박이 내려 땅이나 지붕 위에 수북이 쌓이는 꿈은 재물 획득과 경사를 암시하는 길몽인 반면, 우박을 직접 맞거나 농작물이 피해를 입는 꿈은 분쟁·손실·근심을 예고하는 흉몽으로 해석됩니다. 한국 민간 전통에서 우박은 하늘의 뜻을 전하는 돌발적인 자연 현상으로, 그 규모와 결과에 따라 길흉이 결정됩니다.",
+    "english": "A hail dream symbolizes sudden shock and change, interpreted as either auspicious or inauspicious depending on context. Hail piling up on the ground or roof signals incoming wealth and good fortune, while being struck by hail or witnessing crop destruction foretells disputes, losses, and hardship. In Korean folk tradition, hail represents an abrupt messenger from the heavens — its scale and aftermath determine whether the omen is fortunate or dire."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "우박이 내려 집 앞이나 지붕 위에 수북이 쌓이는 꿈은 많은 재물을 여러 번에 걸쳐 얻게 되는 길몽입니다. 눈처럼 쌓인 우박의 이미지는 작은 알갱이들이 하나하나 쌓여 큰 덩어리가 되듯, 꾸준한 노력이 큰 물질적 결실로 이어짐을 상징합니다.",
+      "english": "Dreaming of hail accumulating thickly in front of your home or on the rooftop is a highly auspicious sign, indicating wealth earned steadily over multiple occasions. Just as countless small pellets pile up into a substantial mass, the dream reflects persistent effort yielding significant material rewards.",
+      "context": "재물·사업 성취, 반복적인 소득 발생"
+    },
+    {
+      "type": "길몽",
+      "korean": "우박이 갑자기 지붕을 두드리며 집 안을 가득 채우는 꿈은 집안에 경사스러운 일이 생기거나 아들을 얻게 되는 태몽으로 해석됩니다. 하늘에서 내리는 우박이 가정 안으로 들어오는 상징이 새 생명의 도래를 암시합니다.",
+      "english": "Hail suddenly drumming on the roof and filling the house is interpreted as an auspicious pregnancy omen, often signifying the birth of a son or a joyful household event. The symbolism of sky-borne hail entering the home suggests the arrival of new life.",
+      "context": "태몽, 경사, 새 생명의 탄생"
+    },
+    {
+      "type": "흉몽",
+      "korean": "우박이 어지럽게 쏟아져 몸에 맞거나 상처가 나는 꿈은 재난이나 예상치 못한 사건이 닥칠 것을 경고합니다. 특히 임산부가 이 꿈을 꾸면 아이가 고난을 겪을 수 있고, 미혼 여성이 꾸면 인연이 평범한 상대와 맺어질 수 있다는 해석이 전해집니다.",
+      "english": "Being struck by hail or sustaining wounds from hailstones signals incoming disaster or an unexpected upheaval. Traditionally, a pregnant woman dreaming this may foretell hardship for her child, and an unmarried woman may expect a mediocre marriage partner.",
+      "context": "재난 예고, 태몽(부정적), 인연 운세"
+    },
+    {
+      "type": "흉몽",
+      "korean": "우박이나 싸라기눈이 내리는 것을 바라보는 꿈은 말썽이나 분쟁이 생겨 손실과 피해가 발생하며, 사소한 문제가 심각한 장애로 확대되어 낭패를 치르게 됨을 암시합니다.",
+      "english": "Watching hail or sleet fall warns of disputes and quarrels arising, leading to losses and damage. Minor problems are likely to snowball into serious obstacles, resulting in significant setbacks.",
+      "context": "인간관계 갈등, 업무·사업 손실"
+    },
+    {
+      "type": "흉몽",
+      "korean": "우박으로 인해 농작물이 쑥대밭이 되거나 집이 파손되는 꿈은 재산상의 손해나 건강 문제를 예고합니다. 애써 일군 결실이 한순간에 파괴되는 이미지는 현실에서의 노력이 헛수고가 될 수 있음을 경고합니다.",
+      "english": "Dreaming of hail devastating crops or damaging your home warns of financial loss or health problems. The image of hard-earned results being destroyed in an instant cautions that current efforts may come to nothing.",
+      "context": "재산 손실, 건강 위협, 노력의 허무"
+    },
+    {
+      "type": "neutral",
+      "korean": "우박이 내린 뒤 하늘이 맑게 개이고 햇살이 비추는 꿈은 현재의 어려움이나 갈등이 일시적임을 나타냅니다. 시련을 지나고 나면 새로운 기회와 밝은 전망이 열릴 것을 암시하는 중립적 꿈입니다.",
+      "english": "A dream in which hail clears away to reveal bright sunshine suggests that current hardships or conflicts are temporary. After enduring the trial, new opportunities and a brighter outlook will emerge.",
+      "context": "역경 후 회복, 전환점, 희망적 변화"
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "우박 맞는 꿈",
+      "keyword_en": "Being hit by hail dream",
+      "interpretation_ko": "몸에 우박을 직접 맞는 꿈은 예기치 못한 충격적 사건이나 외부 공격을 상징합니다. 가까운 시일 내에 비난이나 비판을 받거나, 계획이 갑작스럽게 어긋날 수 있으니 중요한 결정을 신중히 미루는 것이 좋습니다.",
+      "interpretation_en": "Being directly struck by hail in a dream symbolizes an unexpected shock or external attack. You may face criticism or blame in the near future, or plans may suddenly go awry. It is wise to delay important decisions and proceed with caution."
+    },
+    {
+      "keyword_ko": "우박이 쌓이는 꿈",
+      "keyword_en": "Hail accumulating dream",
+      "interpretation_ko": "우박이 눈처럼 두텁게 쌓이는 꿈은 재물이 점차 축적됨을 의미합니다. 사업가라면 수익이 조금씩 늘어나고, 직장인이라면 급여 인상이나 보너스를 기대해볼 수 있는 길몽입니다.",
+      "interpretation_en": "Hail piling up thickly like snow signifies gradual accumulation of wealth. For business owners, this points to steadily growing profits; for employees, it suggests a salary raise or bonus may be coming — a clearly auspicious sign."
+    },
+    {
+      "keyword_ko": "우박으로 농작물이 망가지는 꿈",
+      "keyword_en": "Hail destroying crops dream",
+      "interpretation_ko": "우박이 논밭의 농작물을 쑥대밭으로 만드는 꿈은 투자나 사업에서 예상치 못한 손실이 발생할 수 있음을 경고합니다. 특히 장기 프로젝트나 공들인 계획이 외부 요인으로 인해 좌초될 위험이 있습니다.",
+      "interpretation_en": "Hail flattening crops in a field warns of unexpected losses in investment or business. Long-term projects or carefully laid plans are at risk of being derailed by external factors beyond your control."
+    },
+    {
+      "keyword_ko": "지붕에 우박 내리는 꿈",
+      "keyword_en": "Hail on the roof dream",
+      "interpretation_ko": "지붕을 요란하게 두드리는 우박 소리가 들리는 꿈은 집안에 반가운 손님이 찾아오거나 기쁜 소식이 도착함을 예고합니다. 소리의 크기가 클수록 소식의 중요도가 크다고 해석됩니다.",
+      "interpretation_en": "Hearing hail loudly drumming on the roof foretells the arrival of a welcome visitor or joyful news at your home. The louder the sound, the more significant the news is believed to be."
+    },
+    {
+      "keyword_ko": "우박 후 맑은 하늘 꿈",
+      "keyword_en": "Hail followed by clear sky dream",
+      "interpretation_ko": "우박이 그치고 파란 하늘이 펼쳐지거나 무지개가 뜨는 꿈은 현재 겪고 있는 어려움이 곧 해소될 것을 알려줍니다. 직장·사업·인간관계 모든 면에서 긍정적인 전환점을 맞이하게 됩니다.",
+      "interpretation_en": "Hail stopping to reveal a blue sky or rainbow signals that current difficulties will soon resolve. A positive turning point is approaching in work, business, and personal relationships alike."
+    },
+    {
+      "keyword_ko": "큰 우박 꿈",
+      "keyword_en": "Large hailstones dream",
+      "interpretation_ko": "골프공만큼 크거나 유난히 커다란 우박이 내리는 꿈은 삶에 큰 충격을 주는 사건을 예고합니다. 규모가 큰 만큼 영향도 광범위하여, 재정·건강·관계 중 하나 이상에서 상당한 변동이 예상됩니다.",
+      "interpretation_en": "Dreaming of unusually large hailstones — as big as golf balls — portends a major shocking event in your life. The greater the scale, the wider the impact, with significant changes expected across finances, health, or relationships."
+    },
+    {
+      "keyword_ko": "우박 속에서 피하는 꿈",
+      "keyword_en": "Taking shelter from hail dream",
+      "interpretation_ko": "우박이 내리는 가운데 처마 밑이나 건물 안으로 피하는 꿈은 위기 상황에서 현명하게 대처하여 피해를 최소화할 수 있음을 암시합니다. 임박한 위험을 직관적으로 감지하고 있다는 신호이기도 합니다.",
+      "interpretation_en": "Taking shelter under eaves or inside a building during a hailstorm suggests you will wisely handle an upcoming crisis and minimize damage. It also signals that you are intuitively sensing an impending danger."
+    },
+    {
+      "keyword_ko": "우박과 천둥번개 함께 치는 꿈",
+      "keyword_en": "Hail with thunder and lightning dream",
+      "interpretation_ko": "우박과 함께 천둥번개가 치는 꿈은 복합적인 위기가 한꺼번에 닥칠 수 있음을 경고합니다. 갑작스러운 충격(우박)과 강력한 에너지(번개)가 결합된 상징은 삶의 여러 측면에서 동시에 도전이 발생함을 나타냅니다.",
+      "interpretation_en": "Hail combined with thunder and lightning warns of multiple crises striking simultaneously. The combination of sudden impact (hail) and powerful energy (lightning) symbolizes challenges erupting across multiple areas of life at once."
+    }
+  ],
+  "culturalContext": {
+    "korean": "한국의 전통 민간 신앙에서 우박은 하늘의 노여움이나 자연의 혼돈을 상징하는 현상으로 여겨졌습니다. 농경 사회였던 조선시대에 우박은 수확을 순식간에 망칠 수 있는 두려운 재해였기 때문에, 꿈 속의 우박 역시 기본적으로 부정적인 전조로 인식되는 경향이 있었습니다. 그러나 한편으로는 하늘에서 '알갱이'가 내려온다는 점에서, 우박이 두텁게 쌓이는 상황은 하늘이 내려주는 물질적 풍요로 해석되기도 하였습니다. 이는 비슷한 맥락에서 눈이 쌓이는 꿈이 재물을 상징하는 것과 일맥상통합니다. 또한 우박처럼 갑작스럽고 강렬한 자연 현상은 태몽(胎夢) 문화와도 연결되어, 지붕이나 집 안으로 우박이 쏟아지는 꿈은 강인하고 뚜렷한 개성을 지닌 자녀의 출생을 예고하는 것으로 해석되기도 했습니다.",
+    "english": "In Korean folk tradition, hail was seen as a manifestation of heaven's wrath or nature's chaos. As Joseon-era Korea was an agrarian society, hail was a terrifying disaster capable of ruining a harvest in minutes, which is why hail dreams were generally viewed as negative omens. Yet paradoxically, the image of solid pellets falling from the sky and piling up was also read as heaven bestowing material abundance — a meaning parallel to how piling snow in dreams symbolizes incoming wealth. In the context of Korean taemong (prenatal dream) culture, hail crashing dramatically onto a rooftop or pouring into a home was sometimes interpreted as a sign that a child of strong will and sharp character would be born."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트 심리학의 관점에서 우박은 억압된 공격성이나 처벌 욕구의 투사로 해석될 수 있습니다. 딱딱하고 날카로운 얼음 알갱이가 몸을 때리는 이미지는 죄책감에서 비롯된 무의식적 자기 처벌 욕구, 또는 외부에서 가해지는 비판과 억압에 대한 공포를 반영합니다. 우박을 피하는 꿈은 이러한 억압된 감정을 회피하려는 자아의 방어 기제를 나타낼 수 있습니다.",
+      "english": "From a Freudian perspective, hail can be interpreted as a projection of repressed aggression or a punitive impulse. The image of hard, sharp ice pellets striking the body reflects an unconscious desire for self-punishment rooted in guilt, or a fear of external criticism and oppression. Dreaming of taking shelter from hail may represent the ego's defense mechanism — an attempt to avoid confronting these suppressed emotions."
+    },
+    "jungian": {
+      "korean": "융 심리학에서 우박은 개성화 과정에서 마주치는 그림자(Shadow) 원형의 갑작스러운 표출로 볼 수 있습니다. 통제할 수 없는 하늘에서 쏟아지는 우박은 집단 무의식에서 솟아오르는 변형의 에너지를 상징하며, 기존 자아 구조를 깨뜨리고 더 깊은 내면 성장을 촉발하는 역할을 합니다. 우박 후 맑아지는 하늘은 이 붕괴와 재통합 과정, 즉 전체성(Wholeness)으로의 진전을 상징합니다.",
+      "english": "In Jungian psychology, hail can represent a sudden eruption of the Shadow archetype encountered on the path of individuation. Hail pouring uncontrollably from the sky symbolizes transformative energy surging from the collective unconscious — shattering the existing ego structure to trigger deeper inner growth. The sky clearing after the hailstorm symbolizes this process of breakdown and reintegration, a movement toward Wholeness."
+    },
+    "modern": {
+      "korean": "현대 인지심리학 및 신경과학적 접근에서 우박 꿈은 일상 속의 스트레스, 불확실성, 통제 불능에 대한 불안을 뇌가 처리하는 방식으로 이해됩니다. 갑작스럽고 외부에서 오는 위협의 이미지(우박)는 예측 불가한 환경 변화나 직장·관계에서 받는 압박을 은유하며, 이를 꿈에서 시뮬레이션함으로써 뇌가 현실의 위협에 대한 대처 전략을 준비하는 것으로 해석됩니다.",
+      "english": "Modern cognitive psychology and neuroscience view hail dreams as the brain's way of processing everyday stress, uncertainty, and anxiety about loss of control. The image of a sudden, externally imposed threat (hail) metaphorically represents unpredictable environmental changes or pressures from work and relationships. By simulating the threat in a dream, the brain may be preparing coping strategies for real-world challenges."
+    },
+    "crossCultural": {
+      "korean": "우박 꿈은 동서양 모두에서 갑작스러운 역경과 변화의 상징으로 공통적으로 등장합니다. 서양의 성경 전통에서 우박은 이집트에 내린 재앙(출애굽기)과 연결되어 신의 심판과 정의의 집행을 뜻합니다. 북유럽 신화에서는 폭풍신 토르의 활동과 연관되어 강인한 힘과 혼돈의 상징이었습니다. 중국 전통 해몽에서도 우박은 관재(官災)나 분쟁의 전조로 여겨지며, 이는 한국의 흉몽 해석과 유사합니다. 이처럼 우박은 문화권을 초월하여 예측 불가한 외부 세계의 위협이라는 보편적 의미를 지닙니다.",
+      "english": "Hail dreams appear cross-culturally as symbols of sudden adversity and change. In Western biblical tradition, hail is linked to the plagues of Egypt (Exodus), representing divine judgment and the execution of justice. In Norse mythology, hailstorms were associated with the storm god Thor — symbols of raw power and chaos. In Chinese traditional dream interpretation, hail similarly portends legal troubles or disputes, aligning closely with Korean inauspicious readings. Across cultures, hail carries the universal meaning of an unpredictable, externally imposed threat."
+    }
+  },
+  "relatedSymbols": [
+    "rain-dream",
+    "snow-dream",
+    "thunder-dream",
+    "storm-dream",
+    "lightning-dream",
+    "flood-dream",
+    "wind-dream"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "우박 꿈해몽",
+      "우박 꿈 의미",
+      "우박 꿈 길몽",
+      "우박 꿈 흉몽",
+      "우박 맞는 꿈",
+      "우박 내리는 꿈",
+      "우박 쌓이는 꿈",
+      "지붕 우박 꿈",
+      "우박 농작물 꿈",
+      "우박 꿈 해석",
+      "우박 꿈 태몽",
+      "큰 우박 꿈해몽"
+    ],
+    "english": [
+      "hail dream meaning",
+      "dreaming of hail",
+      "hail dream interpretation",
+      "hail storm dream",
+      "being hit by hail dream",
+      "hail on roof dream meaning",
+      "Korean hail dream",
+      "hail dream omen",
+      "hailstone dream symbolism",
+      "hail dream good or bad"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "우박 꿈은 길몽인가요, 흉몽인가요?",
+      "answer_ko": "우박 꿈은 상황에 따라 길몽과 흉몽 양쪽으로 해석됩니다. 우박이 집 앞이나 지붕에 수북이 쌓이는 꿈은 재물 획득을 암시하는 길몽이지만, 우박을 직접 맞거나 농작물이 망가지는 꿈은 분쟁·손실·재난을 예고하는 흉몽입니다. 꿈 속 상황 전체를 종합적으로 살피는 것이 중요합니다.",
+      "answer_en": "A hail dream can be either auspicious or inauspicious depending on the context. Hail piling up thickly on your home or roof is a good omen for wealth, while being struck by hail or witnessing hail destroy crops warns of conflict, losses, or misfortune. It is important to consider the full context of the dream.",
+      "question_en": "Is dreaming of hail a good or bad omen?"
+    },
+    {
+      "question_ko": "우박이 쌓이는 꿈은 어떤 의미인가요?",
+      "answer_ko": "우박이 눈처럼 두텁게 쌓이는 꿈은 재물이 조금씩, 여러 번에 걸쳐 축적됨을 의미하는 길몽입니다. 사업가에게는 수익 증가, 직장인에게는 급여 인상이나 보너스를 암시합니다. 알갱이들이 하나씩 모여 큰 덩어리가 되는 이미지가 꾸준한 성취를 상징합니다.",
+      "answer_en": "Hail accumulating thickly like snow is an auspicious dream signifying wealth building up gradually over multiple occasions. It suggests growing profits for business owners and a salary raise or bonus for employees. The image of small pellets forming a large mass symbolizes steady, cumulative achievement.",
+      "question_en": "What does it mean to dream of hail piling up?"
+    },
+    {
+      "question_ko": "우박 맞는 꿈은 무슨 뜻인가요?",
+      "answer_ko": "우박을 직접 맞는 꿈은 예기치 못한 충격적 사건이나 외부로부터의 비난·공격을 예고하는 흉몽입니다. 중요한 결정이나 계약은 잠시 미루고, 주변 상황을 신중히 점검하는 것이 좋습니다. 전통적으로는 재난 또는 건강 문제의 전조로 해석되기도 합니다.",
+      "answer_en": "Being struck by hail is an inauspicious dream that warns of an unexpected shocking event or external criticism and attack. It is advisable to postpone important decisions or contracts and carefully assess your surroundings. Traditionally, it is also interpreted as a forewarning of disaster or health problems.",
+      "question_en": "What does it mean to be hit by hail in a dream?"
+    },
+    {
+      "question_ko": "우박 꿈이 태몽이 될 수 있나요?",
+      "answer_ko": "네, 한국 전통 해몽에서 우박 꿈은 태몽으로 해석될 수 있습니다. 특히 우박이 갑자기 지붕을 두드리거나 집 안으로 쏟아지는 꿈은 강인하고 개성이 뚜렷한 아이의 탄생을 예고한다고 전해집니다. 다만 우박에 맞거나 다치는 꿈은 아이가 어려움을 겪을 수 있다는 부정적 태몽으로 해석됩니다.",
+      "answer_en": "Yes, in Korean traditional dream interpretation, a hail dream can serve as a prenatal omen (taemong). Specifically, hail suddenly striking the roof or pouring into the home is said to foretell the birth of a strong-willed, distinctive child. However, a dream of being struck or injured by hail is interpreted as a negative prenatal omen, suggesting the child may face hardships.",
+      "question_en": "Can a hail dream be a pregnancy omen (taemong)?"
+    },
+    {
+      "question_ko": "우박 후 하늘이 맑아지는 꿈은 무슨 의미인가요?",
+      "answer_ko": "우박이 그친 후 하늘이 맑게 개이거나 무지개가 뜨는 꿈은 현재의 시련과 갈등이 곧 끝날 것임을 알려주는 희망적인 꿈입니다. 직장, 사업, 가정 등 삶의 여러 영역에서 긍정적인 전환점이 가까워졌음을 암시하며, 어려운 시기를 잘 버텨낸 뒤 보상이 따를 것을 상징합니다.",
+      "answer_en": "A dream where hail stops and the sky clears — or a rainbow appears — is an encouraging sign that current trials and conflicts will soon come to an end. It suggests a positive turning point is near across multiple areas of life, including work, business, and family, and symbolizes that rewards await after persevering through difficult times.",
+      "question_en": "What does it mean to dream of clear skies after a hailstorm?"
+    },
+    {
+      "question_ko": "우박 꿈과 비 꿈은 어떻게 다른가요?",
+      "answer_ko": "비 꿈은 보통 감정의 정화, 새로운 시작, 또는 재물의 유입을 의미하는 경우가 많습니다. 반면 우박 꿈은 비보다 훨씬 갑작스럽고 충격적인 변화나 사건을 상징합니다. 비가 서서히 내리는 점진적 변화라면, 우박은 예고 없이 쏟아지는 급격한 충격입니다. 두 꿈 모두 하늘에서 내리는 기상 현상이지만, 강도와 충격의 차이가 해몽의 핵심 구분 기준이 됩니다.",
+      "answer_en": "Rain dreams typically signify emotional cleansing, a fresh start, or incoming wealth. Hail dreams, by contrast, symbolize far more sudden and shocking changes or events. If rain represents gradual, measured change, hail represents an abrupt, unannounced shock. Both involve precipitation from the sky, but the intensity and impact are the key differentiators in interpretation.",
+      "question_en": "How is a hail dream different from a rain dream?"
+    }
+  ]
+}

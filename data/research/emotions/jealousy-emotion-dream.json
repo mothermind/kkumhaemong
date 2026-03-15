@@ -1,0 +1,175 @@
+{
+  "symbol": {
+    "korean": "질투하는 꿈",
+    "english": "Dream of Jealousy",
+    "slug": "jealousy-emotion-dream"
+  },
+  "summary": {
+    "korean": "질투하는 꿈은 현실에서 억누른 비교 의식이나 불안감을 반영하며, 때로는 자신이 원하는 것을 명확히 인식하라는 내면의 신호로 해석됩니다.",
+    "english": "Dreaming of jealousy reflects suppressed feelings of comparison or insecurity in waking life, and is often interpreted as an inner signal to clarify what you truly desire."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "꿈속에서 내가 누군가를 질투했으나 결국 화해하거나 그 감정을 극복하는 장면으로 끝난다면, 현실에서 경쟁 상황을 이겨내고 목표를 달성할 수 있음을 암시합니다. 질투심이 동기로 전환되어 오히려 자신을 발전시키는 에너지가 된다는 신호로 봅니다.",
+      "english": "If the dream ends with overcoming jealousy — reconciling with the person you envied or letting go of the feeling — it is a sign that you will prevail in a competitive situation in real life. The jealousy transforms into motivational energy that drives self-improvement.",
+      "context": "꿈에서 질투 감정이 해소되거나 극복되는 결말일 때 길몽으로 분류됩니다."
+    },
+    {
+      "type": "흉몽",
+      "korean": "꿈속에서 질투심에 사로잡혀 상대방을 해치거나 비방하는 행동을 한다면, 현실에서 인간관계에 균열이 생기거나 신뢰를 잃을 수 있다는 경고입니다. 또한 과도한 비교 의식으로 인해 스스로 소진되고 있다는 심리적 신호이기도 합니다.",
+      "english": "If in the dream jealousy leads you to harm or slander someone, it is a warning that a real-life relationship may fracture or that trust may be lost. It also signals psychological exhaustion from excessive comparison with others.",
+      "context": "질투로 인해 파괴적인 행동이 꿈속에서 나타날 때 흉몽으로 분류됩니다."
+    },
+    {
+      "type": "흉몽",
+      "korean": "연인이나 배우자가 다른 사람을 질투하는 꿈, 혹은 내가 연인에게 질투를 느끼는 꿈은 현실에서 관계에 대한 불안과 불신이 쌓여 있음을 나타냅니다. 이는 파트너와의 소통 부족에서 비롯된 내면의 불안이 꿈에 투영된 것입니다.",
+      "english": "Dreaming that a romantic partner is jealous of someone else, or that you feel jealous of your partner, indicates accumulated insecurity and distrust in the relationship. This reflects an inner anxiety rooted in a lack of communication with your partner.",
+      "context": "연인 관계에서 질투 감정이 꿈에 나타날 때 흉몽으로 분류됩니다."
+    },
+    {
+      "type": "neutral",
+      "korean": "누군가가 나를 질투하는 꿈은 현실에서 내가 타인에게 주목받거나 선망의 대상이 되고 있다는 뜻으로 해석됩니다. 긍정적으로 보면 자신의 성취나 매력이 인정받고 있다는 신호이지만, 동시에 주변의 시기로 인해 어려움이 생길 수 있다는 경고이기도 합니다.",
+      "english": "Dreaming that someone else is jealous of you suggests that in waking life you are attracting attention or becoming an object of admiration. Positively, it signals that your achievements or qualities are being recognized; cautiously, it warns that envy from others may create difficulties.",
+      "context": "타인이 나를 질투하는 꿈으로, 상황에 따라 길몽과 흉몽 모두로 해석 가능합니다."
+    },
+    {
+      "type": "neutral",
+      "korean": "꿈속에서 원인 모를 질투나 시기심이 일어날 때는, 현재 진행 중인 일에서 장애물이 생겨 스트레스를 해소하지 못하고 있다는 내면의 신호입니다. 이는 억압된 욕구나 아직 인식하지 못한 자신의 소망을 명확히 돌아볼 기회로 해석됩니다.",
+      "english": "When jealousy arises without clear cause in a dream, it is an inner signal that obstacles in current endeavors are causing unresolved stress. It is interpreted as an opportunity to reflect clearly on suppressed desires or goals you have not yet consciously acknowledged.",
+      "context": "원인 불명의 질투 감정이 꿈에 나타날 때, 맥락에 따라 해석이 달라집니다."
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "연인을 질투하는 꿈",
+      "keyword_en": "dreaming of being jealous of a lover",
+      "interpretation_ko": "연인이나 배우자에 대해 질투심을 느끼는 꿈은 현실에서 관계에 대한 불안, 상실에 대한 두려움을 반영합니다. 파트너와의 솔직한 대화가 필요하다는 신호입니다.",
+      "interpretation_en": "Dreaming of jealousy toward a romantic partner reflects real-life anxiety about the relationship and fear of loss. It signals a need for honest communication with your partner."
+    },
+    {
+      "keyword_ko": "친구를 질투하는 꿈",
+      "keyword_en": "dreaming of being jealous of a friend",
+      "interpretation_ko": "친구에게 질투를 느끼는 꿈은 현실에서 비교 의식이 강해져 있음을 나타냅니다. 상대의 성공이 나에게도 가능하다는 내면의 인식이 표출된 것으로, 자신의 잠재력을 발휘할 때임을 암시합니다.",
+      "interpretation_en": "Dreaming of jealousy toward a friend indicates heightened comparison consciousness in waking life. It reflects an inner recognition that the success your friend enjoys is also attainable for you — a sign to act on your own potential."
+    },
+    {
+      "keyword_ko": "직장 동료를 질투하는 꿈",
+      "keyword_en": "dreaming of being jealous of a colleague",
+      "interpretation_ko": "직장 동료를 질투하는 꿈은 현실에서 경쟁 압박이나 승진·평가에 대한 불안을 반영합니다. 이 꿈은 자신의 능력과 노력을 재점검하라는 신호이기도 합니다.",
+      "interpretation_en": "Jealousy toward a colleague in a dream reflects competitive pressure or anxiety about promotion and performance evaluation in real life. The dream also signals a need to reassess your own skills and work effort."
+    },
+    {
+      "keyword_ko": "내가 질투를 받는 꿈",
+      "keyword_en": "dreaming that others are jealous of you",
+      "interpretation_ko": "타인이 나를 질투하는 꿈은 사회적으로 주목받거나 성과를 인정받고 있다는 신호입니다. 다만 시기와 견제가 따를 수 있으므로 겸손함을 유지하는 것이 중요합니다.",
+      "interpretation_en": "Dreaming that others envy you is a sign that you are gaining social recognition or that your accomplishments are being acknowledged. However, it also cautions that rivalry and opposition may follow, so maintaining humility is important."
+    },
+    {
+      "keyword_ko": "질투로 싸우는 꿈",
+      "keyword_en": "dreaming of a fight caused by jealousy",
+      "interpretation_ko": "질투심으로 인해 꿈속에서 다투거나 싸운다면, 현실에서 억눌렸던 감정이 폭발 직전에 있다는 경고입니다. 인간관계에서 감정을 솔직히 표현하지 못하고 있는 상황을 돌아봐야 합니다.",
+      "interpretation_en": "Fighting in a dream due to jealousy is a warning that suppressed emotions in real life are nearing a breaking point. It is a prompt to reflect on situations where you are unable to honestly express your feelings in your relationships."
+    },
+    {
+      "keyword_ko": "질투를 느끼고 우는 꿈",
+      "keyword_en": "dreaming of crying from jealousy",
+      "interpretation_ko": "질투로 인해 눈물을 흘리는 꿈은 현실에서 감정적 해소가 필요하다는 뜻입니다. 한국 전통 해몽에서 꿈속의 눈물은 오히려 감정의 정화, 즉 나쁜 기운이 씻겨나가는 길몽으로 보는 경우가 많습니다.",
+      "interpretation_en": "Crying from jealousy in a dream indicates a need for emotional release in waking life. In Korean folk dream tradition, tears in a dream often signify emotional purification — the washing away of negative energy — making this a potentially auspicious sign."
+    },
+    {
+      "keyword_ko": "질투심이 사라지는 꿈",
+      "keyword_en": "dreaming that jealousy fades away",
+      "interpretation_ko": "꿈속에서 질투심이 사라지거나 극복되는 장면은 현실의 갈등이나 경쟁 상황이 머지않아 해소될 것임을 나타내는 길몽입니다. 마음의 안정을 되찾고 새로운 단계로 나아갈 수 있다는 신호입니다.",
+      "interpretation_en": "A dream in which jealousy dissolves or is overcome is an auspicious sign that a conflict or competitive situation in waking life will soon be resolved. It signals regaining inner stability and moving forward to a new phase."
+    }
+  ],
+  "culturalContext": {
+    "korean": "한국의 전통 꿈해몽에서 감정 꿈(감정을 직접 경험하는 꿈)은 주로 '심몽(心夢)', 즉 마음이 보내는 꿈으로 분류됩니다. 질투(嫉妬)는 한자어로 '남의 좋음을 시기하고 미워하는 마음'을 뜻하며, 예로부터 한국 민간 신앙에서 시기·질투는 '살(煞)'이나 '액(厄)'을 부르는 부정적 감정으로 여겨졌습니다. 특히 남의 복을 시기하면 자신의 복이 달아난다는 믿음이 강하게 자리 잡고 있어, 질투하는 꿈은 현실에서 쌓인 억압된 감정이 표출된 것인 동시에 내면을 정화할 필요가 있다는 경고로 해석되어 왔습니다. 무속 전통에서도 질투나 원한(怨恨)은 잡귀나 부정(不淨)을 부를 수 있다고 보아, 이런 꿈을 꾸면 정화 의례나 고사를 통해 마음을 다스렸습니다. 반면, 타인이 나를 질투하는 꿈은 사회적으로 두각을 나타내고 있다는 증거로 긍정적으로 해석되기도 했습니다.",
+    "english": "In Korean traditional dream interpretation, dreams centered on emotions are classified as 'sim-mong' (心夢, dreams of the heart) — messages from the inner self. Jealousy (질투) has long been considered a negative force in Korean folk belief, associated with attracting misfortune or 'sal' (煞, malevolent energy). A widespread belief holds that envying another person's fortune causes your own fortune to flee. Dreaming of jealousy is therefore interpreted both as an outpouring of suppressed real-life emotions and as a warning to cleanse one's inner state. In Korean shamanic tradition (무속), jealousy and resentment (원한) were considered forces that could invite impure spirits, and such dreams prompted purification rituals. Conversely, dreaming that others envy you was typically read as a positive omen — evidence that you are standing out and attracting social recognition."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트는 질투심을 무의식 속에 억압된 욕망과 경쟁 본능의 표출로 보았어요. 꿈속에서 나타나는 질투는 현실에서 인정받고 싶은 욕구, 혹은 원하는 것을 빼앗길 것 같은 불안이 위장된 형태로 표현된 것으로 해석했습니다. 특히 연인에 대한 질투 꿈은 오이디푸스 콤플렉스의 잔재, 즉 독점적 애착 욕구의 반영으로 분석되기도 했어요.",
+      "english": "Freud viewed jealousy as an expression of repressed desires and competitive drives held in the unconscious. In his framework, jealousy appearing in dreams represents a disguised form of the need for recognition or the fear of losing something desired. Dreams of jealousy toward a romantic partner were sometimes linked to residues of the Oedipus complex — the unconscious drive for exclusive possession."
+    },
+    "jungian": {
+      "korean": "융의 관점에서 질투 꿈은 '그림자(Shadow)' 원형과 밀접하게 연결되어 있어요. 내가 의식적으로 부정하거나 억누르고 있는 부정적 자아의 측면이 꿈속 질투의 형태로 나타난다고 보았습니다. 또한 꿈속에서 질투의 대상이 되는 인물은 자신이 의식적으로 인식하지 못했지만 열망하는 자질이나 가능성을 나타내는 것으로 해석해요. 이 꿈은 개성화(individuation) 과정에서 그림자를 통합하라는 내면의 초대로 볼 수 있습니다.",
+      "english": "In Jungian analysis, dreams of jealousy are closely tied to the 'Shadow' archetype — the aspects of the self that the conscious ego denies or suppresses. The jealousy itself is the Shadow asserting its presence. The person you envy in the dream often represents qualities or potential you unconsciously desire but have not consciously acknowledged. This dream can be understood as an invitation from the psyche to integrate the Shadow as part of the individuation process."
+    },
+    "modern": {
+      "korean": "현대 심리학과 신경과학에서는 질투 꿈을 감정 기억 처리 과정의 산물로 이해해요. 낮 동안 경험한 비교 의식, 경쟁 스트레스, 또는 관계 불안이 수면 중 변연계에서 재처리되면서 꿈으로 나타나는 것입니다. 인지행동 관점에서는 이 꿈이 자신의 핵심 가치와 진정으로 원하는 것이 무엇인지 파악하는 유용한 신호로 활용될 수 있다고 봐요.",
+      "english": "Modern psychology and neuroscience understand jealousy dreams as byproducts of emotional memory processing. Feelings of comparison, competitive stress, or relational anxiety experienced during the day are reprocessed by the limbic system during sleep, surfacing as vivid dream content. From a cognitive-behavioral perspective, these dreams serve as useful signals for identifying one's core values and clarifying what one truly desires."
+    },
+    "crossCultural": {
+      "korean": "한국 전통 해몽이 질투 꿈을 내면 정화의 필요성과 사회적 경쟁 상황의 반영으로 읽는 데 비해, 서양 심리학은 이를 무의식적 욕망과 그림자 자아의 표출로 분석한다는 점에서 접근이 다르지만, '내면의 억눌린 감정이 꿈에 드러난다'는 핵심 통찰은 동서양이 공유합니다.",
+      "english": "While Korean folk tradition reads jealousy dreams as signals for inner purification and reflections of social competition, Western psychology analyzes them as expressions of unconscious desires and the Shadow self — a different framework, yet both share the core insight that suppressed emotions surface through dreams."
+    }
+  },
+  "relatedSymbols": [
+    "anger-emotion-dream",
+    "crying-emotion-dream",
+    "arguing-dream",
+    "love-emotion-dream",
+    "anxiety-emotion-dream",
+    "competition-dream"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "질투하는 꿈",
+      "질투 꿈해몽",
+      "질투 꿈 의미",
+      "꿈속 질투 해석",
+      "연인 질투 꿈",
+      "친구 질투 꿈",
+      "직장 동료 질투 꿈",
+      "내가 질투 받는 꿈",
+      "질투 꿈 길몽 흉몽",
+      "질투 감정 꿈해몽",
+      "시기 질투 꿈",
+      "꿈에서 질투심"
+    ],
+    "english": [
+      "jealousy dream meaning",
+      "dream about jealousy korean interpretation",
+      "dreaming of being jealous",
+      "jealousy dream symbolism",
+      "dream someone is jealous of me",
+      "envy dream meaning",
+      "romantic jealousy dream",
+      "jealousy dream good or bad omen"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "질투하는 꿈은 길몽인가요, 흉몽인가요?",
+      "answer_ko": "질투하는 꿈은 대체로 흉몽에 가깝지만, 결말에 따라 달라집니다. 꿈속에서 질투심을 극복하거나 화해하는 장면으로 끝나면 길몽으로 볼 수 있어요. 반면 질투로 인해 다투거나 상대를 해치는 행동이 나온다면 현실 관계에서 갈등이 생길 수 있다는 흉몽의 신호입니다.",
+      "question_en": "Is dreaming of jealousy a good or bad omen?",
+      "answer_en": "Jealousy dreams are generally closer to inauspicious omens, but the outcome matters. If the dream ends with overcoming jealousy or reconciliation, it can be read as auspicious. If the jealousy leads to conflict or harm in the dream, it signals potential relationship trouble in waking life."
+    },
+    {
+      "question_ko": "연인이 다른 사람에게 질투하는 꿈을 꿨어요. 무슨 의미인가요?",
+      "answer_ko": "연인의 질투가 꿈에 나타나는 것은 현재 관계에서 불안감이나 신뢰 부족이 쌓여 있다는 신호예요. 상대방과 솔직한 대화를 나눠 불안의 원인을 짚어보는 것이 도움이 됩니다. 반드시 현실의 사건을 예언하는 것은 아니며, 내 마음이 보내는 감정적 메시지로 이해하는 것이 좋아요.",
+      "question_en": "I dreamed my partner was jealous of someone. What does it mean?",
+      "answer_en": "A dream featuring a jealous partner reflects accumulated insecurity or a lack of trust in the relationship. It is worth having an open conversation with your partner to identify the source of the anxiety. This is not necessarily a prediction of real events, but rather an emotional message from your own subconscious."
+    },
+    {
+      "question_ko": "남이 나를 질투하는 꿈은 무슨 의미인가요?",
+      "answer_ko": "타인이 나를 질투하는 꿈은 현실에서 사회적으로 두각을 나타내거나 인정받고 있다는 긍정적 신호로 자주 해석돼요. 다만 주변의 시기나 견제가 따를 수 있으니, 성과를 자랑하기보다는 겸손함을 유지하는 것이 현명합니다.",
+      "question_en": "What does it mean when someone is jealous of me in a dream?",
+      "answer_en": "Dreaming that others are jealous of you is often a positive sign that you are gaining recognition or standing out socially. However, it also cautions that envy and opposition from others may follow, so it is wise to remain humble rather than flaunting your achievements."
+    },
+    {
+      "question_ko": "질투 꿈을 자주 꾸면 무엇을 의미하나요?",
+      "answer_ko": "질투 꿈을 반복적으로 꾼다면, 현실에서 비교 의식이나 경쟁 불안이 해소되지 않고 지속되고 있다는 신호입니다. 자신이 진정으로 원하는 것이 무엇인지, 그리고 그 욕구가 충족되지 못하고 있는 이유가 무엇인지 돌아보는 기회로 삼는 것이 좋아요.",
+      "question_en": "What does it mean if I keep dreaming about jealousy?",
+      "answer_en": "Recurring jealousy dreams signal that feelings of comparison or competitive anxiety in waking life remain unresolved. Use them as an opportunity to reflect on what you truly desire and why those needs are going unmet."
+    },
+    {
+      "question_ko": "질투 꿈을 꾼 뒤 어떻게 하면 좋을까요?",
+      "answer_ko": "한국 전통에서는 부정적인 감정 꿈을 꾼 뒤 맑은 물로 세수를 하거나, 창문을 열어 공기를 환기시키는 것이 나쁜 기운을 쫓는 방법으로 전해져 왔어요. 심리적으로는 꿈의 내용을 일기에 기록하고, 현실에서 어떤 관계나 상황이 질투심을 유발하고 있는지 차분히 성찰해보는 것을 권장합니다.",
+      "question_en": "What should I do after dreaming about jealousy?",
+      "answer_en": "In Korean folk tradition, washing your face with clean water or airing out the room after a negative emotional dream was said to dispel bad energy. Psychologically, writing the dream in a journal and calmly reflecting on which real-life relationships or situations may be triggering jealousy is a healthy and constructive response."
+    }
+  ]
+}

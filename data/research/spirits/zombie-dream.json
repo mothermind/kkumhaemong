@@ -1,0 +1,224 @@
+{
+  "symbol": {
+    "korean": "좀비 꿈",
+    "english": "Dream of Zombies",
+    "slug": "zombie-dream"
+  },
+  "summary": {
+    "korean": "좀비 꿈은 현실의 불안·억압된 감정·통제 불가능한 상황을 상징하며, 상황에 따라 과거의 짐으로부터 해방되는 길몽이 되기도 하고 대인관계의 위기와 건강 이상을 경고하는 흉몽이 되기도 해요.",
+    "english": "Dreaming of zombies symbolizes anxiety, repressed emotions, and uncontrollable circumstances in Korean dream interpretation — it can signal liberation from past burdens or serve as a warning of interpersonal conflict and health troubles depending on context."
+  },
+  "interpretations": [
+    {
+      "type": "길몽",
+      "korean": "좀비와 싸워 이기거나 좀비를 처치하는 꿈은 현실에서 오랫동안 나를 괴롭혀 온 스트레스나 장애물을 완전히 극복한다는 승리의 신호예요. 시험 합격, 취업 성공, 뜻밖의 재물운이 따라올 수 있어요.",
+      "english": "Dreaming of fighting and defeating zombies or killing them outright is a strong sign of overcoming long-standing stress and obstacles in waking life. Exam success, job opportunities, or unexpected financial gain may follow.",
+      "context": "좀비를 죽이거나 물리치는 장면이 뚜렷하게 펼쳐지는 꿈일 때 해당"
+    },
+    {
+      "type": "길몽",
+      "korean": "내가 좀비가 되는 꿈은 역설적으로 과거부터 나를 짓눌러 온 고민·질병·인간관계의 갈등에서 완전히 벗어나게 됨을 뜻해요. 묵은 인연이 정리되고 새 출발이 가능해지는 전환점이에요.",
+      "english": "Turning into a zombie in a dream paradoxically signals complete liberation from long-standing worries, illness, or interpersonal conflicts. It marks a turning point where old entanglements are resolved and a fresh start becomes possible.",
+      "context": "꿈속에서 자신이 좀비로 변하는 장면이 나올 때 해당"
+    },
+    {
+      "type": "길몽",
+      "korean": "좀비 무리를 목격하거나 좀비 아포칼립스 상황에서 살아남는 꿈은 오랫동안 기다려 온 소망이 실현되거나, 주변에서 귀인을 만나 어려운 문제들이 해결될 조짐이에요.",
+      "english": "Witnessing a horde of zombies or surviving a zombie apocalypse scenario signifies that long-awaited wishes are about to come true, or that a helpful person will appear to resolve difficult problems.",
+      "context": "좀비 떼가 나오는 대규모 상황에서 꿈속의 나가 침착하게 살아남을 때 해당"
+    },
+    {
+      "type": "흉몽",
+      "korean": "좀비에게 쫓기는 꿈은 현실에서 대인관계가 점차 나빠지거나, 무탈하게 진행하던 일에서 갑작스러운 문제가 발생할 수 있음을 경고해요. 극도의 공포를 느꼈다면 가까운 시일 내에 무거운 시련이 닥칠 수 있어요.",
+      "english": "Being chased by zombies warns of deteriorating relationships and sudden problems arising in previously smooth endeavors. If the fear in the dream was intense, a serious trial may be approaching in the near future.",
+      "context": "좀비에게 추격당하며 달아나는 장면이 주를 이루는 꿈일 때 해당"
+    },
+    {
+      "type": "흉몽",
+      "korean": "좀비에게 물리는 꿈은 건강 악화 신호이자 구설수에 오를 위험을 암시해요. 지출이 늘거나 투자 손실이 발생할 수 있으니 재정 관리에 각별한 주의가 필요해요.",
+      "english": "Being bitten by a zombie warns of deteriorating health, the risk of becoming the subject of gossip, and potential financial loss through increased spending or bad investments.",
+      "context": "꿈속에서 좀비에게 직접 물리거나 상처를 입는 장면이 나올 때 해당"
+    },
+    {
+      "type": "흉몽",
+      "korean": "좀비가 집 안으로 들어오는 꿈은 가족 구성원 사이의 불화나 집안에 질병이 들이닥칠 수 있다는 경고예요. 가족의 건강과 집안 분위기를 세심하게 살펴볼 필요가 있어요.",
+      "english": "A zombie entering the home warns of family discord or illness among household members. It is advisable to pay close attention to the health and emotional atmosphere within the family.",
+      "context": "좀비가 자신의 집 문을 열거나 실내로 침입하는 꿈일 때 해당"
+    },
+    {
+      "type": "neutral",
+      "korean": "좀비 꿈은 전반적으로 현재 자신이 느끼는 억압된 감정, 처리되지 않은 과거의 상처, 또는 현실의 극심한 스트레스를 무의식이 시각화한 것이에요. 꿈속 행동의 결과(이겼는가, 도망쳤는가, 감염됐는가)에 따라 길흉이 달라지므로 꿈의 전체적인 맥락이 중요해요.",
+      "english": "Zombie dreams broadly represent the unconscious visualization of repressed emotions, unprocessed past wounds, or overwhelming stress. The ultimate outcome — whether you fought, fled, or were infected — determines whether the dream is auspicious or cautionary, making full context essential.",
+      "context": "좀비가 등장하지만 특별히 공격받거나 이기지도 않고, 단순히 목격하거나 상황을 관찰하는 꿈일 때 해당"
+    }
+  ],
+  "variations": [
+    {
+      "keyword_ko": "좀비에게 쫓기는 꿈",
+      "keyword_en": "being chased by zombies dream",
+      "interpretation_ko": "대인관계가 나빠지거나 뜬금없이 일에서 문제가 터질 수 있어요. 극심한 공포를 느꼈다면 가까운 시일 내에 심각한 시련이 닥칠 수 있으니 주변 상황을 주의 깊게 살피세요.",
+      "interpretation_en": "Relationships may deteriorate and unexpected problems can arise at work. If the fear was extreme, a serious challenge may be imminent — stay alert to your surroundings."
+    },
+    {
+      "keyword_ko": "좀비한테 물리는 꿈",
+      "keyword_en": "bitten by a zombie dream",
+      "interpretation_ko": "건강이 나빠지거나 구설수에 오를 수 있어요. 금전적으로도 지출 증가나 투자 손실이 예상되므로 재정 관리에 신중해야 해요.",
+      "interpretation_en": "Health may decline and you risk becoming the subject of rumors. Financial losses through overspending or poor investments are also possible — exercise caution."
+    },
+    {
+      "keyword_ko": "좀비가 되는 꿈",
+      "keyword_en": "becoming a zombie dream",
+      "interpretation_ko": "역설적으로 길몽이에요. 오랫동안 나를 괴롭혀 온 고민이나 질환, 복잡한 인간관계에서 완전히 벗어날 수 있음을 의미해요. 새로운 시작의 신호로 받아들이세요.",
+      "interpretation_en": "Paradoxically, this is an auspicious dream. It signifies complete escape from long-standing worries, illness, or entangled relationships. Treat it as a signal for a fresh start."
+    },
+    {
+      "keyword_ko": "좀비를 죽이는 꿈",
+      "keyword_en": "killing zombies dream",
+      "interpretation_ko": "길몽으로, 오랫동안 나를 억눌러 온 불안과 장애물을 극복한다는 의미예요. 시험 합격, 취업 성공, 뜻밖의 재물 횡재 등 기쁜 소식이 예상돼요.",
+      "interpretation_en": "An auspicious dream meaning you will overcome anxiety and obstacles that have long held you back. Good news such as exam success, employment, or unexpected financial fortune is expected."
+    },
+    {
+      "keyword_ko": "좀비 아포칼립스 꿈",
+      "keyword_en": "zombie apocalypse dream",
+      "interpretation_ko": "대규모 좀비 사태에서 살아남는 꿈은 오랫동안 바라던 소망이 실현되거나 귀인의 도움으로 어려운 문제가 해결되는 길몽이에요.",
+      "interpretation_en": "Surviving a zombie apocalypse in a dream is auspicious, indicating that long-awaited goals will be realized or that a helpful person will assist in resolving difficult challenges."
+    },
+    {
+      "keyword_ko": "좀비와 싸우는 꿈",
+      "keyword_en": "fighting zombies dream",
+      "interpretation_ko": "현실에서 곧 다가올 승리와 극복을 상징해요. 스트레스와 불안이 해소되고 원하는 성과를 거둘 수 있어요.",
+      "interpretation_en": "Symbolizes an imminent victory and overcoming of challenges in real life. Stress and anxiety will be resolved, and desired results can be achieved."
+    },
+    {
+      "keyword_ko": "좀비가 집에 들어오는 꿈",
+      "keyword_en": "zombie entering home dream",
+      "interpretation_ko": "가족 간 불화나 가족 구성원의 건강 이상을 경고하는 흉몽이에요. 가족의 건강 상태와 집안 분위기를 세심하게 점검하세요.",
+      "interpretation_en": "A warning dream signaling family discord or illness among household members. Pay careful attention to family health and the emotional climate at home."
+    },
+    {
+      "keyword_ko": "아는 사람이 좀비가 되는 꿈",
+      "keyword_en": "acquaintance turning into zombie dream",
+      "interpretation_ko": "해당 인물에 대해 부정적인 감정이 쌓여 있거나, 그 사람과의 관계가 앞으로 악화될 수 있음을 암시해요. 관계 회복을 위해 먼저 소통의 자리를 마련하는 것이 좋아요.",
+      "interpretation_en": "Suggests accumulated negative feelings toward that person or a coming deterioration in the relationship. Consider taking initiative to open a dialogue before the situation worsens."
+    },
+    {
+      "keyword_ko": "좀비 무리를 보는 꿈",
+      "keyword_en": "seeing a horde of zombies dream",
+      "interpretation_ko": "어려운 상황이 해결되고 주변에서 도움을 주는 사람을 만날 것을 암시하는 길몽이에요. 큰 집단적 위기가 오히려 기회가 될 수 있어요.",
+      "interpretation_en": "An auspicious sign that difficult circumstances will resolve themselves and helpful allies will appear. A large-scale crisis may in fact reveal itself as an opportunity."
+    },
+    {
+      "keyword_ko": "좀비에게서 도망치는 꿈",
+      "keyword_en": "escaping from zombies dream",
+      "interpretation_ko": "성공적으로 도망쳤다면 건강 회복과 개인적 성장을 의미하지만, 간신히 달아나는 장면이었다면 금전 문제에서 위기를 가까스로 모면하거나 의외의 수익이 생길 수 있는 복합적인 꿈이에요.",
+      "interpretation_en": "Successfully escaping indicates health recovery and personal growth. Barely escaping suggests narrowly avoiding a financial crisis, with the possibility of unexpected income as a silver lining."
+    },
+    {
+      "keyword_ko": "좀비 꿈 반복",
+      "keyword_en": "recurring zombie dreams",
+      "interpretation_ko": "반복되는 좀비 꿈은 현실에서 해결하지 못한 인간관계의 갈등이나 만성적인 스트레스가 무의식 속에서 경고를 보내는 것이에요. 근본 원인을 찾아 해결하려는 노력이 필요해요.",
+      "interpretation_en": "Recurring zombie dreams signal that unresolved interpersonal conflicts or chronic stress are sending persistent warnings from the unconscious. Efforts to identify and address the root cause are necessary."
+    }
+  ],
+  "culturalContext": {
+    "korean": "좀비(zombie)는 카리브해 부두교에서 기원한 서양 개념으로, 한국 전통 민속 신앙에는 직접적으로 대응하는 존재가 없어요. 그러나 한국의 귀신 신앙과 여러 공통점을 공유해요. 한국의 귀신은 '억울하게 죽거나 한(恨)을 품고 이승을 떠나지 못한 존재'로, 좀비처럼 삶과 죽음의 경계를 넘나들며 산 자에게 영향을 미쳐요. 무속 신앙에서는 이런 영혼이 가족이나 마을 사람들에게 재난을 일으킨다고 보았으며, 굿이나 제사를 통해 달래야 한다고 믿었어요. 2010년대 이후 〈부산행〉(2016), 〈킹덤〉(2019), 〈지금 우리 학교는〉(2022) 등 한국 좀비 콘텐츠가 세계적 인기를 얻으면서 '좀비'라는 존재가 한국인의 집단 무의식 속에 깊이 자리 잡았어요. 현대 한국의 꿈해몽에서 좀비 꿈은 이 미디어 경험과 전통적인 귀신·시체 상징이 혼합되어 해석되며, 주로 내가 통제할 수 없는 집단적 위협, 억압된 감정의 폭발, 또는 죽음과 재생의 역설적 순환을 상징하는 것으로 풀이되고 있어요.",
+    "english": "The zombie is a concept rooted in Caribbean Vodou tradition with no direct equivalent in classical Korean folk belief. However, it shares meaningful parallels with Korea's indigenous ghost tradition. Korean ghosts (귀신) are spirits of those who died unjustly or with deep-seated han (恨 — unresolved grief and resentment), unable to pass into the afterlife and therefore lingering to affect the living — much like the undead of Western lore. In shamanic (무속) tradition, such spirits were believed to bring misfortune to families and communities unless appeased through ritual ceremonies (굿). Since the 2010s, Korean zombie media — most notably the film Busan Haeng (Train to Busan, 2016), the series Kingdom (2019), and All of Us Are Dead (2022) — has embedded zombie imagery deeply into the Korean collective imagination. Contemporary Korean dream interpretation for zombie dreams thus blends media-shaped imagery with traditional undead symbolism, reading zombies as representations of uncontrollable collective threats, explosive emotional repression, or the paradoxical cycle of death and renewal."
+  },
+  "westernContext": {
+    "freudian": {
+      "korean": "프로이트의 관점에서 좀비 꿈은 억압된 충동이 의식의 검열을 뚫고 올라오는 현상을 상징해요. 좀비가 집단으로 덮쳐 오는 이미지는 무의식 속에 가득 찬 억눌린 욕구나 공격성이 자아(ego)의 통제를 위협하는 상태를 나타내요. 특히 좀비에게 물리는 꿈은 타인의 욕망이나 집단 압력에 의해 자신의 정체성이 잠식될 것에 대한 불안을 반영해요.",
+      "english": "From a Freudian perspective, zombie dreams symbolize repressed drives breaking through the censor of consciousness. The image of zombies swarming en masse represents the ego being overwhelmed by suppressed urges or aggression pent up in the unconscious. Being bitten in particular reflects anxiety about having one's individual identity consumed by the desires or pressures of others."
+    },
+    "jungian": {
+      "korean": "융의 관점에서 좀비는 그림자(Shadow) 원형의 집단적 표현이에요. 좀비 무리는 개인이 외면하거나 사회가 억압해 온 어두운 본능과 집단 무의식의 내용물이 의식 세계로 쏟아져 나오는 것을 의미해요. 좀비에게 쫓기는 꿈은 개성화(individuation) 과정에서 아직 통합되지 않은 그림자와 마주해야 할 때가 왔다는 신호로 볼 수 있어요. 좀비를 물리치거나 함께 공존하는 꿈은 그림자를 의식 안으로 통합하는 심리적 성장을 상징해요.",
+      "english": "In Jungian terms, zombies are a collective expression of the Shadow archetype. A horde of zombies represents the dark instincts and contents of the collective unconscious — suppressed by the individual and by society — erupting into the conscious world. Being chased signals that the time has come to confront unintegrated Shadow material in the individuation process. Defeating or coexisting with zombies symbolizes the psychological growth of integrating that Shadow into conscious awareness."
+    },
+    "modern": {
+      "korean": "현대 인지 심리학 및 수면 과학에서 좀비 꿈은 주로 현실의 극심한 스트레스, 번아웃, 또는 사회적 소외감과 연결돼요. 뇌가 렘(REM) 수면 중 감정 조절을 처리할 때 직장·학업·인간관계에서 압도적인 위협으로 경험하는 상황이 좀비라는 형태로 시각화되는 것으로 설명돼요. 특히 팬데믹 이후 연구들은 집단적 위협과 감염 공포가 좀비 관련 악몽의 빈도를 높인다는 점을 보고하고 있어요.",
+      "english": "Modern cognitive psychology and sleep science link zombie dreams primarily to extreme stress, burnout, and social alienation. During REM sleep, the brain processes emotional regulation; overwhelming threats experienced in work, academic, or social contexts become visualized as zombies. Post-pandemic research has also noted that collective threat perception and fear of infection increase the frequency of zombie-related nightmares."
+    },
+    "crossCultural": {
+      "korean": "서양에서 좀비 꿈은 주로 자율성 상실과 집단 압력에 대한 공포를 상징하는 반면, 한국 꿈해몽은 상황 결과(좀비를 이겼는지, 감염됐는지)에 따라 길흉을 구체적으로 구분하며 재물운·건강·인간관계와 연결 짓는 실용적 관점을 취해요.",
+      "english": "While Western interpretation largely frames zombie dreams as fear of losing autonomy and succumbing to herd pressure, Korean dream interpretation takes a more pragmatic approach — classifying the dream as auspicious or inauspicious based on the specific outcome (did you defeat, flee, or get infected?) and linking it concretely to financial fortune, health, and relationships."
+    }
+  },
+  "relatedSymbols": [
+    "ghost",
+    "corpse",
+    "being-chased",
+    "death",
+    "skeleton",
+    "monster",
+    "epidemic",
+    "escape"
+  ],
+  "seoKeywords": {
+    "korean": [
+      "좀비꿈",
+      "좀비 꿈해몽",
+      "좀비 꿈 의미",
+      "좀비에게 쫓기는 꿈",
+      "좀비한테 물리는 꿈",
+      "좀비가 되는 꿈",
+      "좀비 죽이는 꿈",
+      "좀비 꿈 길몽",
+      "좀비 꿈 흉몽",
+      "좀비 아포칼립스 꿈",
+      "좀비 꿈 반복",
+      "좀비가 집에 들어오는 꿈",
+      "좀비 나오는 꿈 해석",
+      "좀비꿈 무서운 꿈",
+      "좀비 꿈 심리"
+    ],
+    "english": [
+      "zombie dream meaning",
+      "dream about zombies korean interpretation",
+      "being chased by zombies dream",
+      "zombie apocalypse dream meaning",
+      "bitten by zombie dream",
+      "turning into zombie dream",
+      "killing zombies dream meaning",
+      "zombie dream auspicious or bad",
+      "zombie dream psychology",
+      "recurring zombie dreams meaning"
+    ]
+  },
+  "faqs": [
+    {
+      "question_ko": "좀비에게 쫓기는 꿈은 흉몽인가요?",
+      "answer_ko": "대체로 흉몽으로 봐요. 좀비에게 쫓기는 꿈은 대인관계가 악화되거나 진행하던 일에서 뜻밖의 문제가 생길 수 있음을 경고해요. 다만 끝까지 도망쳐 살아남았다면 금전 위기를 모면하거나 의외의 수익이 생길 수 있는 복합적 의미도 가져요.",
+      "answer_en": "This is generally considered an inauspicious dream. Being chased by zombies warns of deteriorating relationships and unexpected problems at work or in ongoing projects. However, if you successfully escaped, the dream carries a mixed meaning — you may narrowly avoid a financial crisis and even gain unexpected income.",
+      "question_en": "Is being chased by zombies in a dream a bad omen?"
+    },
+    {
+      "question_ko": "좀비가 되는 꿈은 왜 길몽인가요?",
+      "answer_ko": "한국 꿈해몽에서 죽음이나 변형은 종종 탈바꿈과 해방을 의미해요. 내가 좀비가 되는 꿈은 오랫동안 나를 억눌러 온 과거의 고민, 질환, 복잡한 인연에서 완전히 벗어나는 것을 상징해요. 낡은 것들이 모두 정리되고 새 출발이 가능해지는 신호로 해석해요.",
+      "answer_en": "In Korean dream interpretation, death and transformation frequently symbolize liberation rather than literal endings. Becoming a zombie represents completely shedding long-standing worries, illnesses, or complicated relationships. It is read as a signal that the old burdens are clearing away and a genuine fresh start is now possible.",
+      "question_en": "Why is dreaming of becoming a zombie considered a good omen?"
+    },
+    {
+      "question_ko": "좀비 꿈이 자꾸 반복된다면 어떤 의미인가요?",
+      "answer_ko": "반복되는 좀비 꿈은 현실에서 아직 해결하지 못한 만성적인 스트레스나 억눌린 감정이 무의식이 계속 경고 신호를 보내고 있다는 뜻이에요. 직장, 학업, 인간관계에서 압박을 주는 근본 원인을 파악하고 해소하려는 노력이 필요해요.",
+      "answer_en": "Recurring zombie dreams indicate that unresolved chronic stress or suppressed emotions are causing your unconscious mind to send repeated warning signals. It is important to identify and address the underlying sources of pressure in your work, studies, or relationships.",
+      "question_en": "What does it mean if zombie dreams keep recurring?"
+    },
+    {
+      "question_ko": "좀비 꿈은 건강과 관련이 있나요?",
+      "answer_ko": "네, 관련이 있어요. 특히 좀비에게 물리는 꿈이나 좀비가 집에 들어오는 꿈은 본인 또는 가족의 건강 이상을 경고하는 흉몽으로 봐요. 이런 꿈을 꿨다면 최근 컨디션이나 가족의 건강 상태를 점검해 보는 것이 좋아요.",
+      "answer_en": "Yes, there is a connection. Dreams of being bitten by zombies or zombies entering the home are specifically read as warnings about health issues for yourself or a family member. If you have had such a dream, it is worth checking your own condition and your family's health in the near term.",
+      "question_en": "Are zombie dreams connected to health?"
+    },
+    {
+      "question_ko": "좀비 꿈은 한국 전통 민속 신앙과 어떤 관계가 있나요?",
+      "answer_ko": "좀비는 서양에서 온 개념이지만, 한국 귀신 신앙과 유사한 면이 많아요. 한국의 귀신은 억울하게 죽거나 한을 품고 이승을 떠나지 못한 존재인데, 좀비처럼 삶과 죽음의 경계를 넘나들며 산 자에게 영향을 준다는 점에서 통해요. 현대 꿈해몽에서는 전통 귀신 상징과 〈부산행〉 등 한국 좀비 미디어의 영향이 함께 반영되어 해석돼요.",
+      "answer_en": "Zombies are a Western concept, but they share meaningful parallels with Korean ghost tradition. Korean ghosts (귀신) are spirits unable to leave this world due to unjust death or unresolved resentment — much like zombies, they cross the boundary between life and death and affect the living. Contemporary Korean dream interpretation blends these traditional ghost symbols with the influence of Korean zombie media such as Train to Busan.",
+      "question_en": "How does the zombie dream relate to traditional Korean folk beliefs?"
+    },
+    {
+      "question_ko": "좀비 꿈을 꾸면 재물운이 있나요?",
+      "answer_ko": "상황에 따라 달라요. 좀비를 처치하거나 이기는 꿈, 좀비에게서 성공적으로 도망치는 꿈은 뜻밖의 횡재나 금전 문제의 해결을 암시하는 길몽이에요. 반면 좀비에게 물리거나 잡히는 꿈은 지출 증가나 투자 손실을 경고하는 흉몽으로 보세요.",
+      "answer_en": "It depends on the scenario. Killing zombies or successfully escaping them is considered auspicious and may hint at unexpected windfall or resolution of financial problems. Conversely, being bitten or caught by zombies warns of increased spending or investment losses.",
+      "question_en": "Do zombie dreams carry any financial luck significance?"
+    }
+  ]
+}
