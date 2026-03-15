@@ -8,6 +8,9 @@ import { getContentPreviews, getAvailableContentSlugs } from "@/lib/content";
 import { CategoryDreamList } from "@/components/explore/CategoryDreamList";
 import type { EnrichedPreview } from "@/components/explore/CategoryDreamList";
 
+export const revalidate = 86400;
+export const dynamicParams = true;
+
 type Props = { params: Promise<{ locale: string; category: string }> };
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {

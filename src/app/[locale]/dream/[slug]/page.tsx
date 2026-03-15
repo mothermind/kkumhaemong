@@ -2,7 +2,6 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { getTranslations } from "next-intl/server";
 import { getContent } from "@/lib/content";
-import { getAllSlugs } from "@/lib/taxonomy";
 import { DreamHero } from "@/components/dream/DreamHero";
 import { DreamSection } from "@/components/dream/DreamSection";
 import { DreamVariations } from "@/components/dream/DreamVariations";
@@ -14,17 +13,12 @@ import { ReadingProgress } from "@/components/dream/ReadingProgress";
 import { ViewTracker } from "@/components/dream/ViewTracker";
 import type { Locale } from "@/i18n/routing";
 
+export const revalidate = 86400; // revalidate cached pages every 24h
+export const dynamicParams = true; // render unknown slugs on demand
+
 type Props = {
   params: Promise<{ locale: string; slug: string }>;
 };
-
-export async function generateStaticParams() {
-  const slugs = await getAllSlugs();
-  return slugs.flatMap(({ slug, koreanSlug }) => [
-    { locale: "en", slug },
-    { locale: "ko", slug: koreanSlug },
-  ]);
-}
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale, slug } = await params;

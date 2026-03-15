@@ -1,22 +1,16 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { getTranslations } from "next-intl/server";
-import { getTaxonomyCategory, getTaxonomyMeta } from "@/lib/taxonomy";
+import { getTaxonomyCategory } from "@/lib/taxonomy";
 import { Link } from "@/i18n/navigation";
 import type { Locale } from "@/i18n/routing";
+
+export const revalidate = 86400;
+export const dynamicParams = true;
 
 type Props = {
   params: Promise<{ locale: string; category: string }>;
 };
-
-export async function generateStaticParams() {
-  const meta = await getTaxonomyMeta();
-  if (!meta) return [];
-  return meta.categories.flatMap((cat) => [
-    { locale: "ko", category: cat.slug },
-    { locale: "en", category: cat.slug },
-  ]);
-}
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale, category } = await params;
