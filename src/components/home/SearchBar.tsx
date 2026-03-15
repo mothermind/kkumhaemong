@@ -163,7 +163,7 @@ export function SearchBar({ locale, placeholder, placeholderShort, buttonLabel }
   }
 
   const inputClass =
-    "w-full bg-white/10 light:bg-black/8 backdrop-blur-xl border border-white/20 light:border-border rounded-full py-5 pl-8 pr-16 text-text-primary placeholder-white/50 light:placeholder-slate-600 focus:outline-none focus:ring-2 focus:ring-gold/50 focus:border-gold transition-all";
+    "w-full bg-white/10 light:bg-black/8 backdrop-blur-xl border border-white/20 light:border-border rounded-full py-5 pl-8 pr-16 text-text-primary placeholder-white/50 light:placeholder-slate-700 focus:outline-none focus:ring-2 focus:ring-gold/50 focus:border-gold transition-all";
 
   return (
     <div ref={containerRef} className="relative w-full max-w-2xl mx-auto">

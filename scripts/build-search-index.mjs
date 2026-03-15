@@ -18,6 +18,12 @@ function detectBadge(sections = []) {
 }
 
 const files = await glob("data/content/**/*.json");
+
+if (files.length === 0) {
+  console.log("⚠️  No content files found — skipping search index rebuild (existing index preserved)");
+  process.exit(0);
+}
+
 const index = [];
 
 for (const file of files) {
