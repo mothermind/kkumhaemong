@@ -1,5 +1,6 @@
 import type { MetadataRoute } from "next";
 import { getAllSlugs, getTaxonomyMeta } from "@/lib/taxonomy";
+import { getAvailableContentSlugs } from "@/lib/content";
 
 const BASE_URL = "https://www.kkumhaemong.com";
 
@@ -37,9 +38,15 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     }
   }
 
-  // Dream article pages
-  const slugs = await getAllSlugs();
-  for (const { slug, koreanSlug } of slugs) {
+  // Dream article pages — only include slugs with published content
+  const [allSlugs, availableSlugs] = await Promise.all([
+    getAllSlugs(),
+    getAvailableContentSlugs(),
+  ]);
+  const availableSet = new Set(availableSlugs);
+
+  for (const { slug, koreanSlug } of allSlugs) {
+    if (!availableSet.has(slug)) continue;
     entries.push(
       {
         url: `${BASE_URL}/ko/꿈해몽/${encodeURIComponent(koreanSlug)}`,

@@ -77,7 +77,7 @@ src/
 │   ├── layout/   Header.tsx (logo=home + 탐색 link left, ThemeToggle+LanguageToggle right), Footer.tsx
 │   ├── common/   AdSlot.tsx (placeholder, ready for AdSense)
 │   ├── home/     SearchBar.tsx (client component)
-│   ├── explore/  CategoryDreamList.tsx (client component, subcategory filter pills)
+│   ├── explore/  CategoryCard.tsx (click loading feedback), CategoryDreamList.tsx (subcategory filter pills + load-more pagination)
 │   └── dream/    DreamHero, DreamSection, DreamVariations, DreamFAQ, RelatedDreams, DreamCard (blog-style)
 ├── lib/
 │   ├── taxonomy.ts  ← server-only, fs/promises, reads data/taxonomy/*.json
@@ -387,11 +387,11 @@ All hooks are minimal — logging + security only, no TTS, no external API calls
 
 ---
 
-## Current State (last updated: 2026-03-17)
+## Current State (last updated: 2026-03-18)
 
 ### Infrastructure — COMPLETE ✅
-- **Firebase Storage**: All 404 slug image folders uploaded as WebP (was PNG, ~90% size reduction). Bucket: `my-fortune-site.firebasestorage.app` (asia-northeast3). Public URL: `https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/{slug}/{name}.webp`
-- **Firestore**: 413 content docs in collection `dreams` (doc ID = english slug). `src/lib/content.ts` reads from Firestore via Admin SDK.
+- **Firebase Storage**: 921 slug image folders uploaded as WebP (~90% size reduction). Bucket: `my-fortune-site.firebasestorage.app` (asia-northeast3). Public URL: `https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/{slug}/{name}.webp`
+- **Firestore**: 921 content docs in collection `dreams` (doc ID = english slug). `src/lib/content.ts` reads from Firestore via Admin SDK.
 - **`public/images/dreams/`**: Added to `.gitignore`, removed from git tracking (795 MB freed)
 - **Env vars required**: `FIREBASE_PROJECT_ID`, `FIREBASE_CLIENT_EMAIL`, `FIREBASE_PRIVATE_KEY` (set in `.env` locally, Vercel env vars for production)
 - **`FIREBASE_PRIVATE_KEY` format**: paste raw key WITHOUT surrounding quotes in Vercel dashboard — quotes are treated as literal characters and break auth
@@ -404,7 +404,7 @@ All hooks are minimal — logging + security only, no TTS, no external API calls
 - **metadataBase**: `https://www.kkumhaemong.com` — all canonical/hreflang/OG URLs use www (apex 307-redirects; scrapers don't follow redirects for OG images)
 - **Rendering**: ISR (`revalidate = 86400`, `dynamicParams = true`) on all dream/category/explore pages
 - **Build time**: ~42 seconds (was 55+ minutes with full SSG)
-- **Search index**: `public/search-index.json` committed to git (413 entries). `scripts/build-search-index.mjs` bails early if `data/content/` not present — prevents Vercel from overwriting with empty array. Run locally after adding content, then commit.
+- **Search index**: `public/search-index.json` committed to git (921 entries). `scripts/build-search-index.mjs` bails early if `data/content/` not present — prevents Vercel from overwriting with empty array. Run locally after adding content, then commit.
 - **`@opentelemetry/api`**: installed as peer dep for firebase-admin on Vercel
 - **Vercel Analytics**: `@vercel/analytics` installed, `<Analytics />` in locale layout
 
@@ -413,45 +413,29 @@ All hooks are minimal — logging + security only, no TTS, no external API calls
 - **Format**: JPEG preferred over WebP for OG — KakaoTalk and older scrapers don't support WebP
 - **KakaoTalk cache clear**: https://developers.kakao.com/tool/clear/og — use after any OG changes
 
-### Content Pipeline Progress — PHASE 1 COMPLETE ✅
-- **Total articles: 413** across all 24 categories (actions: 161, others: 9–10 each)
+### Content Pipeline Progress — PHASE 2 CONTENT NEARLY COMPLETE ✅ (2026-03-18)
+- **Total articles: 921** across all 24 categories, all in Firestore + Firebase Storage
+- **993 research files**, **921 content files**, **57 content pending** (mostly people, plants, pregnancy, spirits, objects)
+- 6 duplicate slugs across categories removed (drowning/dying/egg/sunrise/typhoon/volcanic-eruption)
 - Content files live in `data/content/{category}/{slug}.json` (also mirrored in Firestore)
-- `crossing-river-dream` images fixed and uploaded ✅
+- All images uploaded to Firebase Storage as WebP (1,443 new + 1,308 existing)
 
-### Content Validation — COMPLETE ✅ (2026-03-14)
-All 413 content files validated and fixed across all 24 categories:
-- **metaDescription lengths**: KO 80–110 chars, EN 120–160 chars (corrected from original wrong 120–160 KO target)
-- **`content`→`body` key migration**: 315 files fixed — sections/variations now render correctly in `DreamSection`
-- **`relatedDreams`→`seo.relatedSlugs` migration**: 315 files fixed — related dreams now display correctly
-- **Firestore re-synced**: all 413 docs re-uploaded via `migrate-content-to-firestore.mjs`
+### Content Validation — Phase 1 COMPLETE ✅ (2026-03-14), Phase 2 PENDING
+- Phase 1 (413 files): fully validated — metaDescription, body key, relatedSlugs all fixed
+- Phase 2 (508 new files): structural validation passed ✅, prose validation pending (rate-limited until 2026-03-20)
+- **metaDescription warnings**: 334 files have KO/EN lengths outside target range — needs LLM rewrite, not script truncation
 - **Bulk fix script**: `scripts/fix-schema-issues.mjs` — reusable, safe to re-run (no-op on already-fixed files)
+- **Structural validator**: `scripts/validate-structure.mjs` — checks JSON validity, required fields, body vs content key, metaDescription lengths
 
 ### Prose Quality Fixes — COMPLETE ✅ (2026-03-14)
-Three rounds of prose cleanup applied to all content files:
-- **`**bold**` markers stripped**: 19 files had `**bold**` markdown in section bodies — removed. `MarkdownBody` renders `<strong>` as gold-highlighted text (`bg-gold/10`), but bold openers were dropped as a style decision.
-- **Em-dash cleanup**: 242 files had AI-style ` — ` (spaced em-dash) in Korean prose fields (intro, body, conclusion, faq answers). Replaced with `. `. English fields untouched. Script: `scripts/strip-em-dashes.mjs`
-- **Cliffhanger rewrite**: 392 of 413 intros used the identical `그런데 한 가지—` transition. Rewrote all 392 using GPT-4o-mini with varied natural Korean alternatives. Script: `scripts/rewrite-cliffhanger.mjs` (dry-run + full mode, batch size 6). Content agent updated to ban this phrase with 6 varied alternatives.
-- All changes synced to Firestore after each round.
-
-### Body Category Research — COMPLETE ✅ (2026-03-15)
-All 204 body taxonomy symbols researched: 181 research files in `data/research/body/` (some taxonomy entries share slugs). Batches 12–27 completed this session covering physical sensations, transformations, injuries, medical procedures, and body-part variations.
-
-### All 24 Categories — Phase 1 Research + Content Complete ✅
-- actions: 161/161 ✅
-- animals, body, celestial, clothing, colors, death: 10/10 ✅
-- disasters: 9/10 ✅ (car-accident-dream canonical to actions)
-- emotions, fire, food, insects, marriage, money, nature: 10/10 ✅
-- numbers: 9/10 ✅ (winning-lottery-dream canonical to money)
-- objects, people, places, plants, pregnancy, spirits, transportation, water, weather: 10/10 ✅
+Three rounds of prose cleanup applied to Phase 1 content files:
+- **`**bold**` markers stripped**: 19 files had `**bold**` markdown in section bodies — removed
+- **Em-dash cleanup**: 242 files had AI-style ` — ` in Korean prose. Script: `scripts/strip-em-dashes.mjs`
+- **Cliffhanger rewrite**: 392 of 413 intros rewrote `그런데 한 가지—` transition. Script: `scripts/rewrite-cliffhanger.mjs`
 
 ### Phase 2 Research — COMPLETE ✅ (2026-03-15)
-All 22 non-animals/body categories expanded to 20 research files each (10 Phase 1 + 10 new Phase 2 symbols):
-- **animals**: 212/212 research ✅
-- **body**: 181 research files ✅
-- **All other 22 categories**: 10/10 planned Phase 2 symbols researched ✅ (celestial, clothing, colors, death, disasters, emotions, fire, food, insects, marriage, money, nature, numbers, objects, people, places, plants, pregnancy, spirits, transportation, water, weather)
 - **Total research files**: 993 across all 24 categories
-- **Content pending**: 558 articles (animals ~183, body ~171, all others 4–11 each)
-- Next step: run `dream-content-agent` in batches of 6 to generate content for pending research files
+- All categories fully researched
 
 ### View Count Tracking — COMPLETE ✅ (2026-03-15)
 - `src/app/api/view/route.ts` — POST endpoint increments `views` field in Firestore
@@ -465,10 +449,40 @@ All 22 non-animals/body categories expanded to 20 research files each (10 Phase 
 - `.gitignore` updated: `logs/`, `data/images/`, `data/validation/`, `data/content/`, `.claude/settings.local.json` all excluded
 - `data/content/` removed from git tracking (mirrored in Firestore — Firestore is source of truth)
 
-### Pipeline to run next articles
-1. Content agent calls Imagen 4 (`imagen-4.0-generate-001`) via Google Generative Language API
-2. `source ~/.zshrc` required in bash for GOOGLE_API_KEY
-3. Batch size: **6 agents max** in parallel
+### Pipeline to Publish New Content (full checklist)
+
+When adding new articles, follow this exact order:
+
+```
+1. Research:    dream-research-agent (6 max parallel)
+2. Images:      dream-image-agent OR scripts/gen-missing-images.py
+                → saves PNGs to public/images/dreams/{slug}/
+                → saves manifest to data/images/{slug}/manifest.json
+3. Content:     dream-content-agent (6 max parallel)
+                → saves to data/content/{category}/{slug}.json
+4. Validate:    scripts/validate-structure.mjs [category]
+                → structural check (JSON, required fields, metaDescription lengths)
+                content-validator-agent (10 max parallel, 20 files/run)
+                → prose quality + SEO check
+5. Dedup:       Check for duplicate slugs across categories
+                find data/content -name "*.json" -exec basename {} .json \; | sort | uniq -d
+6. Images→FB:   node scripts/migrate-images-to-firebase.mjs
+                → PNG→WebP conversion + upload to Firebase Storage
+                → updates content JSON image paths to Firebase URLs
+7. Content→FS:  node scripts/migrate-content-to-firestore.mjs
+                → pushes all content docs to Firestore
+8. Search idx:  node scripts/build-search-index.mjs
+                → rebuilds public/search-index.json (must commit to git)
+9. Commit+Push: git add + commit + push to GitHub → Vercel auto-deploys
+```
+
+**Key requirements:**
+- `source ~/.zshrc` required in bash for `GOOGLE_API_KEY` (Imagen 4)
+- Imagen 4 model: `imagen-4.0-generate-001` via Google Generative Language API
+- Firebase service account: `scripts/firebase-service-account.json`
+- SSL fix: use `certifi` for Python scripts calling Google APIs
+- Content agent batch size: **6 max** in parallel (rate limit)
+- Validator agent batch size: **10 max** in parallel (CPU-bound only)
 
 ---
 
