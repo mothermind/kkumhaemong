@@ -1,7 +1,6 @@
 "use client";
 
 import { useState, useRef, useEffect, useCallback } from "react";
-import Image from "next/image";
 import { useRouter } from "@/i18n/navigation";
 import type { Locale } from "@/i18n/routing";
 
@@ -109,7 +108,7 @@ export function SearchBar({ locale, placeholder, placeholderShort, buttonLabel }
       .map((e) => ({ entry: e, s: score(e, q, locale) }))
       .filter((x) => x.s > 0)
       .sort((a, b) => b.s - a.s)
-      .slice(0, 6)
+      .slice(0, 8)
       .map((x) => x.entry);
     setResults(scored);
     setActiveIdx(-1);
@@ -215,23 +214,11 @@ export function SearchBar({ locale, placeholder, placeholderShort, buttonLabel }
                     i === activeIdx ? "bg-black/10" : "hover:bg-black/5"
                   }`}
                 >
-                  {/* Thumbnail */}
-                  <div className="relative w-10 h-10 rounded-lg overflow-hidden shrink-0 bg-white/5">
-                    {entry.hero && (
-                      <Image
-                        src={entry.hero}
-                        alt=""
-                        fill
-                        className="object-cover"
-                        sizes="40px"
-                      />
-                    )}
-                  </div>
                   {/* Title + badge */}
-                  <div className="flex-1 min-w-0">
+                  <div className="flex-1 min-w-0 flex items-center gap-2">
                     <p className="text-sm text-text-primary truncate leading-snug">{title}</p>
                     {badge && (
-                      <span className={`inline-block text-[10px] font-bold uppercase tracking-wider px-1.5 py-0.5 rounded mt-0.5 ${BADGE_STYLES[entry.badgeType]}`}>
+                      <span className={`shrink-0 text-[10px] font-bold uppercase tracking-wider px-1.5 py-0.5 rounded ${BADGE_STYLES[entry.badgeType]}`}>
                         {badge}
                       </span>
                     )}
