@@ -1,9 +1,9 @@
 import type { Metadata } from "next";
 import { getTranslations } from "next-intl/server";
-import { Link } from "@/i18n/navigation";
 import type { Locale } from "@/i18n/routing";
 import { getTaxonomyMeta, getTaxonomyCategory } from "@/lib/taxonomy";
 import { getAvailableContentSlugs } from "@/lib/content";
+import { CategoryCard } from "@/components/explore/CategoryCard";
 
 type Props = { params: Promise<{ locale: string }> };
 
@@ -104,27 +104,18 @@ export default async function ExplorePage({ params }: Props) {
       <div className="grid grid-cols-2 gap-3 sm:grid-cols-3">
         {meta?.categories.map((cat) => {
           const contentCount = contentCountMap.get(cat.id) ?? 0;
+          const countLabel = `${contentCount}${locale === "ko" ? "개" : " articles"}`;
 
           return (
-            <Link
+            <CategoryCard
               key={cat.id}
-              href={{ pathname: "/explore/[category]", params: { category: cat.id } }}
+              categoryId={cat.id}
+              icon={CATEGORY_ICONS[cat.id] ?? "✦"}
+              name={locale === "ko" ? cat.korean : cat.english}
+              count={contentCount}
+              countLabel={countLabel}
               locale={locale as Locale}
-              className="group flex flex-col gap-3 rounded-xl border border-border bg-surface/20 light:bg-black/[0.03] px-4 py-5 transition-all hover:border-gold/30 hover:bg-surface/40 light:hover:bg-black/[0.06]"
-            >
-              <span className="text-2xl">{CATEGORY_ICONS[cat.id] ?? "✦"}</span>
-              <div>
-                <p
-                  className="font-bold text-text-primary"
-                  style={{ fontFamily: "var(--font-serif)" }}
-                >
-                  {locale === "ko" ? cat.korean : cat.english}
-                </p>
-                <p className="mt-0.5 text-xs text-text-muted">
-                  {contentCount}{locale === "ko" ? "개" : " articles"}
-                </p>
-              </div>
-            </Link>
+            />
           );
         })}
       </div>

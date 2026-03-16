@@ -11,6 +11,9 @@
     "feeding-animal-dream": "actions",
     "vomiting-dream": "actions",
     "war-dream": "disasters",
-    "winning-lottery-dream": "money"
+    "winning-lottery-dream": "money",
+    "cooking-dream": "actions",
+    "typhoon-dream": "weather",
+    "gambling-dream": "actions"
   }
 }

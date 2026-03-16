@@ -1,27 +1,27 @@
 {
   "slug": "typhoon-dream",
+  "generatedAt": "2026-03-18T00:00:00.000Z",
+  "provider": "imagen-4-fast",
   "hero": {
     "path": "/images/dreams/typhoon-dream/hero.png",
-    "alt_ko": "태풍 꿈해몽 — 거대한 태풍이 바다 위를 휩쓸고 있는 수묵화 스타일 일러스트",
-    "alt_en": "Typhoon dream interpretation — ink-wash illustration of a massive typhoon swirling over dark ocean waters",
-    "prompt": "A massive typhoon swirling over dark ocean waters viewed from above, soft ink-wash illustration style, Korean traditional painting aesthetic, dramatic spiral storm clouds in deep indigo and grey, distant lightning illuminating the edges, dreamlike atmosphere, misty watercolor textures, no text, no people"
+    "alt_ko": "거대한 태풍이 한국 해안 마을로 다가오는 수묵화 스타일 일러스트",
+    "alt_en": "A massive typhoon approaching a traditional Korean coastal village, ink-wash watercolor illustration",
+    "prompt": "A massive typhoon approaching over a misty coastal Korean landscape, dark swirling storm clouds over the sea with a small traditional Korean village visible in the distance, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dreamlike atmospheric mist, muted slate blues and deep indigos with hints of silver, no text, no people"
   },
   "sections": [
     {
       "type": "auspicious",
       "path": "/images/dreams/typhoon-dream/auspicious.png",
-      "alt_ko": "태풍 후 무지개와 맑은 하늘 — 고난 끝의 희망을 상징하는 수채화 일러스트",
-      "alt_en": "Rainbow and clear sky after typhoon — watercolor illustration symbolizing hope after hardship",
-      "prompt": "Clear blue sky with a rainbow emerging after a typhoon has passed, soft watercolor illustration style, Korean traditional painting aesthetic, vibrant arc of colors over a calm misty landscape with fresh green hills, golden light breaking through departing clouds, dreamlike hopeful atmosphere, no text, no people"
+      "alt_ko": "태풍이 지나간 뒤 초가집과 맑은 하늘, 무지개가 보이는 수묵화 일러스트",
+      "alt_en": "Clear blue sky and rainbow after a typhoon passes over a traditional Korean thatched-roof house, ink-wash watercolor illustration",
+      "prompt": "Clear blue sky breaking through after a typhoon passes, a Korean traditional thatched-roof house (초가집) standing peacefully on green hillside after the storm, golden morning light illuminating wet leaves and blossoms, rainbow arc in the distance, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), warm golden and emerald tones, dreamlike serene atmosphere, no text, no people"
     },
     {
       "type": "inauspicious",
       "path": "/images/dreams/typhoon-dream/inauspicious.png",
-      "alt_ko": "태풍에 무너지는 한옥 — 기반과 안정을 위협하는 흉몽의 수묵화 일러스트",
-      "alt_en": "Traditional Korean house battered by typhoon winds — ink-wash illustration of an inauspicious omen",
-      "prompt": "A traditional Korean house being struck by violent typhoon winds and rain, ink-wash illustration style, dark brooding atmosphere, flying roof tiles and bending trees under ferocious wind, dramatic diagonal rain streaks, deep charcoal and slate grey tones, no text, no people"
+      "alt_ko": "태풍이 한국 전통 가옥을 덮치는 어두운 수묵화 일러스트",
+      "alt_en": "Dark typhoon obliterating a Korean traditional house with violent swirling winds, ink-wash watercolor illustration",
+      "prompt": "A dark typhoon obliterating a Korean traditional house, violent swirling winds tearing off roof tiles and bending ancient pine trees to breaking point, ink-black storm clouds churning over a destroyed courtyard, deep navy and charcoal palette with flashes of cold silver rain, soft ink-wash watercolor illustration, Korean traditional painting aesthetic (한국화), dramatic dark dreamlike atmosphere, no text, no people"
     }
-  ],
-  "generatedAt": "2026-03-13T00:00:00.000Z",
-  "provider": "imagen4"
+  ]
 }

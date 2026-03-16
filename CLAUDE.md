@@ -444,10 +444,14 @@ All 204 body taxonomy symbols researched: 181 research files in `data/research/b
 - numbers: 9/10 ✅ (winning-lottery-dream canonical to money)
 - objects, people, places, plants, pregnancy, spirits, transportation, water, weather: 10/10 ✅
 
-### Phase 2 Research — IN PROGRESS
-- **animals**: 212/212 research ✅, content pending (~183 articles)
-- **body**: 181/204 research ✅, content pending
-- Other categories: research expansion planned per `data/research/_plan.json`
+### Phase 2 Research — COMPLETE ✅ (2026-03-15)
+All 22 non-animals/body categories expanded to 20 research files each (10 Phase 1 + 10 new Phase 2 symbols):
+- **animals**: 212/212 research ✅
+- **body**: 181 research files ✅
+- **All other 22 categories**: 10/10 planned Phase 2 symbols researched ✅ (celestial, clothing, colors, death, disasters, emotions, fire, food, insects, marriage, money, nature, numbers, objects, people, places, plants, pregnancy, spirits, transportation, water, weather)
+- **Total research files**: 993 across all 24 categories
+- **Content pending**: 558 articles (animals ~183, body ~171, all others 4–11 each)
+- Next step: run `dream-content-agent` in batches of 6 to generate content for pending research files
 
 ### View Count Tracking — COMPLETE ✅ (2026-03-15)
 - `src/app/api/view/route.ts` — POST endpoint increments `views` field in Firestore
