@@ -128,15 +128,22 @@ export async function getContentPreviews(slugs?: string[]): Promise<ContentPrevi
     const db = getFirestore();
     const targetSlugs = slugs ?? (await getAvailableContentSlugs());
 
-    // Fetch in batches of 10 (Firestore `in` query limit)
-    const previews: ContentPreview[] = [];
-    for (let i = 0; i < targetSlugs.length; i += 10) {
-      const batch = targetSlugs.slice(i, i + 10);
-      const snap = await db
-        .collection("dreams")
-        .where(FieldPath.documentId(), "in", batch)
-        .get();
+    // Fetch in parallel batches of 30 (Firestore `in` query limit)
+    const batches: string[][] = [];
+    for (let i = 0; i < targetSlugs.length; i += 30) {
+      batches.push(targetSlugs.slice(i, i + 30));
+    }
 
+    const results = await Promise.all(
+      batches.map((batch) =>
+        db.collection("dreams")
+          .where(FieldPath.documentId(), "in", batch)
+          .get()
+      )
+    );
+
+    const previews: ContentPreview[] = [];
+    for (const snap of results) {
       for (const doc of snap.docs) {
         // eslint-disable-next-line @typescript-eslint/no-explicit-any
         const data = doc.data() as any;
