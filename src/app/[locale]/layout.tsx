@@ -18,6 +18,9 @@ const nanumMyeongjo = Nanum_Myeongjo({
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://www.kkumhaemong.com"),
+  verification: {
+    google: "vxU6dMGxnW8pqx7Hritg3Q_1KZcH3i8jhECV6HIQb-k",
+  },
 };
 
 export default async function LocaleLayout({
