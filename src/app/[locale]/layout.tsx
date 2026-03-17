@@ -20,6 +20,9 @@ export const metadata: Metadata = {
   metadataBase: new URL("https://www.kkumhaemong.com"),
   verification: {
     google: "vxU6dMGxnW8pqx7Hritg3Q_1KZcH3i8jhECV6HIQb-k",
+    other: {
+      "naver-site-verification": "158e9024401e3cfcffd950b395220a9e54047e61",
+    },
   },
 };
 
