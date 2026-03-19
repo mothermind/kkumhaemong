@@ -11,6 +11,7 @@ import { MarkdownBody } from "@/components/dream/MarkdownBody";
 import { TableOfContents } from "@/components/dream/TableOfContents";
 import { ReadingProgress } from "@/components/dream/ReadingProgress";
 import { ViewTracker } from "@/components/dream/ViewTracker";
+import { LuckyNumbers } from "@/components/dream/LuckyNumbers";
 import type { Locale } from "@/i18n/routing";
 
 export const revalidate = 86400; // revalidate cached pages every 24h
@@ -131,6 +132,8 @@ export default async function DreamPage({ params }: Props) {
             );
           });
         })()}
+
+        <LuckyNumbers slug={content.seo.slug} locale={locale} />
 
         <DreamVariations
           id={variationsId}

@@ -63,7 +63,7 @@ src/
 ├── app/
 │   ├── layout.tsx                       ← root passthrough (locale layout owns html/body)
 │   ├── globals.css                      ← Tailwind + :lang(ko) word-break rules
-│   ├── sitemap.ts                       ← /sitemap.xml with all ko + en URLs
+│   ├── sitemap.ts                       ← /sitemap.xml — filtered to published content only
 │   ├── robots.ts                        ← /robots.txt (includes Naver Yeti bot)
 │   └── [locale]/
 │       ├── layout.tsx                   ← Noto Sans KR + Geist, NextIntlProvider, Header/Footer
@@ -76,13 +76,13 @@ src/
 ├── components/
 │   ├── layout/   Header.tsx (logo=home + 탐색 link left, ThemeToggle+LanguageToggle right), Footer.tsx
 │   ├── common/   AdSlot.tsx (placeholder, ready for AdSense)
-│   ├── home/     SearchBar.tsx (client component)
+│   ├── home/     SearchBar.tsx (client component, no thumbnails, 8 results max)
 │   ├── explore/  CategoryCard.tsx (click loading feedback), CategoryDreamList.tsx (subcategory filter pills + load-more pagination)
-│   └── dream/    DreamHero, DreamSection, DreamVariations, DreamFAQ, RelatedDreams, DreamCard (blog-style)
+│   └── dream/    DreamHero, DreamSection, LuckyNumbers, DreamVariations, DreamFAQ, RelatedDreams, DreamCard (blog-style)
 ├── lib/
 │   ├── taxonomy.ts  ← server-only, fs/promises, reads data/taxonomy/*.json
 │   ├── firestore.ts ← Firebase Admin SDK singleton (credentials from env vars)
-│   └── content.ts   ← server-only, Firestore reads; exports getContent(), getContentPreviews(), getAvailableContentSlugs()
+│   └── content.ts   ← server-only, Firestore reads; getContentPreviews() uses parallel batches of 30
 └── messages/
     ├── ko.json      ← Korean UI strings (nav, labels, footer — NOT article content)
     └── en.json      ← English UI strings
@@ -148,12 +148,13 @@ Each dream page is a proper editorial article:
    ├── 길몽 (Auspicious) — with supporting image
    ├── 흉몽 (Inauspicious) — with supporting image
    └── Contextual/Neutral
-5. Cultural & Historical Context section
-6. Variations (by color, action, quantity, situation)
+5. Lucky Numbers (오늘의 꿈 숫자) — click-to-reveal 3 orbs (행운/주의/기회, 1-45)
+6. Cultural & Historical Context section
+7. Variations (by color, action, quantity, situation)
    └── Each variation = own H3 + paragraph (long-tail SEO)
-7. FAQ section (5–8 questions, structured data)
-8. Related Dreams (internal links with thumbnails)
-9. Conclusion
+8. FAQ section (5–8 questions, structured data)
+9. Related Dreams (internal links with thumbnails)
+10. Conclusion
 ```
 
 ---
