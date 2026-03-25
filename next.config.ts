@@ -7,6 +7,7 @@ const nextConfig: NextConfig = {
   reactCompiler: true,
   serverExternalPackages: ["firebase-admin"],
   images: {
+    unoptimized: true,
     remotePatterns: [
       {
         protocol: "https",
