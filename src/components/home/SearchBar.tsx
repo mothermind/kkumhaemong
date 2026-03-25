@@ -22,9 +22,9 @@ type Props = {
 };
 
 const BADGE_STYLES = {
-  auspicious: "bg-green-500/20 text-green-300",
-  inauspicious: "bg-red-500/20 text-red-300",
-  neutral: "bg-black/10 text-text-muted",
+  auspicious: "bg-green-500/20 text-green-300 light:text-green-700 light:bg-green-500/15",
+  inauspicious: "bg-red-500/20 text-red-300 light:text-red-700 light:bg-red-500/15",
+  neutral: "bg-white/10 text-text-muted light:bg-black/8",
 };
 
 const BADGE_LABELS = {
@@ -53,11 +53,9 @@ function scoreKo(entry: IndexEntry, tokens: string[]): number {
   const title = entry.titleKo;
   const searchable = title + " " + entry.tagsKo.join(" ");
 
-  // All tokens must match (AND logic) — handles multi-word queries like "개 물리는"
   const allMatch = tokens.every((t) => searchable.includes(t));
   if (!allMatch) return 0;
 
-  // Score by how well the title matches (more tokens matched in title = better rank)
   const titleMatches = tokens.filter((t) => title.includes(t)).length;
   return 50 + titleMatches * 20;
 }
@@ -80,20 +78,59 @@ function score(entry: IndexEntry, q: string, locale: Locale): number {
   return scoreEn(entry, q);
 }
 
+/** Highlight matching substrings in the title */
+function highlightMatch(title: string, query: string, locale: Locale) {
+  if (!query.trim()) return title;
+
+  const tokens =
+    locale === "ko"
+      ? tokenizeKo(query)
+      : [query.trim().toLowerCase()];
+
+  if (tokens.length === 0) return title;
+
+  // Build a regex that matches any token
+  const escaped = tokens.map((t) => t.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"));
+  const pattern = new RegExp(`(${escaped.join("|")})`, locale === "ko" ? "g" : "gi");
+  const parts = title.split(pattern);
+
+  return parts.map((part, i) => {
+    const isMatch = tokens.some((t) =>
+      locale === "ko" ? part.includes(t) : part.toLowerCase() === t.toLowerCase()
+    );
+    return isMatch ? (
+      <span key={i} className="text-gold font-semibold">
+        {part}
+      </span>
+    ) : (
+      <span key={i}>{part}</span>
+    );
+  });
+}
+
 export function SearchBar({ locale, placeholder, placeholderShort, buttonLabel }: Props) {
   const [query, setQuery] = useState("");
   const [results, setResults] = useState<IndexEntry[]>([]);
   const [activeIdx, setActiveIdx] = useState(-1);
   const [open, setOpen] = useState(false);
+  const [loading, setLoading] = useState(false);
+  const [navigatingSlug, setNavigatingSlug] = useState<string | null>(null);
   const router = useRouter();
   const indexRef = useRef<IndexEntry[] | null>(null);
   const containerRef = useRef<HTMLDivElement>(null);
+  const inputRef = useRef<HTMLInputElement>(null);
+  const listRef = useRef<HTMLUListElement>(null);
 
   // Lazy-load index on first keystroke
   const loadIndex = useCallback(async () => {
     if (indexRef.current) return;
-    const res = await fetch("/search-index.json");
-    indexRef.current = await res.json();
+    setLoading(true);
+    try {
+      const res = await fetch("/search-index.json");
+      indexRef.current = await res.json();
+    } finally {
+      setLoading(false);
+    }
   }, []);
 
   // Search whenever query changes
@@ -101,7 +138,7 @@ export function SearchBar({ locale, placeholder, placeholderShort, buttonLabel }
     const q = query.trim();
     if (!q || !indexRef.current) {
       setResults([]);
-      setOpen(false);
+      setOpen(q.length > 0 && loading); // keep open if loading
       return;
     }
     const scored = indexRef.current
@@ -112,8 +149,8 @@ export function SearchBar({ locale, placeholder, placeholderShort, buttonLabel }
       .map((x) => x.entry);
     setResults(scored);
     setActiveIdx(-1);
-    setOpen(scored.length > 0);
-  }, [query, locale]);
+    setOpen(true);
+  }, [query, locale, loading]);
 
   // Click outside to close
   useEffect(() => {
@@ -126,11 +163,24 @@ export function SearchBar({ locale, placeholder, placeholderShort, buttonLabel }
     return () => document.removeEventListener("mousedown", onClickOutside);
   }, []);
 
+  // Scroll active item into view
+  useEffect(() => {
+    if (activeIdx < 0 || !listRef.current) return;
+    const item = listRef.current.children[activeIdx] as HTMLElement | undefined;
+    item?.scrollIntoView({ block: "nearest" });
+  }, [activeIdx]);
+
   function navigate(entry: IndexEntry) {
-    const slug = locale === "ko" ? entry.koreanSlug : entry.slug;
-    router.push({ pathname: "/dream/[slug]", params: { slug } }, { locale });
+    const title = locale === "ko" ? entry.titleKo : entry.titleEn;
+    setNavigatingSlug(entry.slug);
+    setQuery(title);
     setOpen(false);
-    setQuery("");
+
+    const slug = locale === "ko" ? entry.koreanSlug : entry.slug;
+    // Brief pause so the user sees the selected title in the input
+    setTimeout(() => {
+      router.push({ pathname: "/dream/[slug]", params: { slug } }, { locale });
+    }, 250);
   }
 
   function handleChange(e: React.ChangeEvent<HTMLInputElement>) {
@@ -153,6 +203,7 @@ export function SearchBar({ locale, placeholder, placeholderShort, buttonLabel }
       if (target) navigate(target);
     } else if (e.key === "Escape") {
       setOpen(false);
+      inputRef.current?.blur();
     }
   }
 
@@ -161,77 +212,165 @@ export function SearchBar({ locale, placeholder, placeholderShort, buttonLabel }
     if (results[0]) navigate(results[activeIdx >= 0 ? activeIdx : 0]);
   }
 
-  const inputClass =
-    "w-full bg-white/10 light:bg-black/8 backdrop-blur-xl border border-white/20 light:border-border rounded-full py-5 pl-8 pr-16 text-text-primary placeholder-white/50 light:placeholder-slate-900 focus:outline-none focus:ring-2 focus:ring-gold/50 focus:border-gold transition-all";
+  const hasQuery = query.trim().length > 0;
+  const noResults = hasQuery && !loading && indexRef.current && results.length === 0;
 
   return (
     <div ref={containerRef} className="relative w-full max-w-2xl mx-auto">
       <form onSubmit={handleSubmit}>
-        <input
-          type="text"
-          value={query}
-          onChange={handleChange}
-          onKeyDown={handleKeyDown}
-          onFocus={() => results.length > 0 && setOpen(true)}
-          placeholder={placeholderShort}
-          className={`md:hidden text-sm ${inputClass}`}
-          autoComplete="off"
-        />
-        <input
-          type="text"
-          value={query}
-          onChange={handleChange}
-          onKeyDown={handleKeyDown}
-          onFocus={() => results.length > 0 && setOpen(true)}
-          placeholder={placeholder}
-          className={`hidden md:block text-base ${inputClass}`}
-          autoComplete="off"
-        />
-        <button
-          type="submit"
-          aria-label={buttonLabel}
-          className="absolute right-4 top-1/2 -translate-y-1/2 p-3 text-gold hover:text-white transition-colors"
-        >
-          <svg className="h-6 w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <div className="relative">
+          {/* Search icon (left) */}
+          <svg
+            className="absolute left-5 top-1/2 -translate-y-1/2 h-5 w-5 text-white/40 light:text-slate-400 pointer-events-none"
+            fill="none"
+            stroke="currentColor"
+            viewBox="0 0 24 24"
+          >
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
           </svg>
-        </button>
+
+          <input
+            ref={inputRef}
+            type="text"
+            value={query}
+            onChange={handleChange}
+            onKeyDown={handleKeyDown}
+            onFocus={() => {
+              if (results.length > 0 || noResults) setOpen(true);
+            }}
+            placeholder={placeholder}
+            className="w-full bg-white/10 light:bg-black/8 backdrop-blur-xl border border-white/20 light:border-border rounded-full py-5 pl-14 pr-14 text-text-primary placeholder-white/40 light:placeholder-slate-400 focus:outline-none focus:ring-2 focus:ring-gold/50 focus:border-gold transition-all text-base hidden md:block"
+            autoComplete="off"
+          />
+          <input
+            type="text"
+            value={query}
+            onChange={handleChange}
+            onKeyDown={handleKeyDown}
+            onFocus={() => {
+              if (results.length > 0 || noResults) setOpen(true);
+            }}
+            placeholder={placeholderShort}
+            className="w-full bg-white/10 light:bg-black/8 backdrop-blur-xl border border-white/20 light:border-border rounded-full py-5 pl-14 pr-14 text-text-primary placeholder-white/40 light:placeholder-slate-400 focus:outline-none focus:ring-2 focus:ring-gold/50 focus:border-gold transition-all text-sm md:hidden"
+            autoComplete="off"
+          />
+
+          {/* Clear button (right) — shows when typing */}
+          {hasQuery && (
+            <button
+              type="button"
+              onClick={() => {
+                setQuery("");
+                setResults([]);
+                setOpen(false);
+                inputRef.current?.focus();
+              }}
+              className="absolute right-5 top-1/2 -translate-y-1/2 p-1.5 rounded-full text-white/40 light:text-slate-400 hover:text-white light:hover:text-slate-700 hover:bg-white/10 light:hover:bg-black/10 transition-colors"
+              aria-label="Clear search"
+            >
+              <svg className="h-5 w-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+              </svg>
+            </button>
+          )}
+        </div>
       </form>
 
       {/* Dropdown */}
-      {open && results.length > 0 && (
-        <ul className="absolute top-full mt-2 w-full bg-[#0d1520] light:bg-[#fffdf9] border border-border rounded-2xl overflow-hidden shadow-2xl z-50">
-          {results.map((entry, i) => {
-            const title = locale === "ko" ? entry.titleKo : entry.titleEn;
-            const badge = BADGE_LABELS[entry.badgeType][locale];
-            return (
-              <li key={entry.slug}>
-                <button
-                  type="button"
-                  onMouseDown={() => navigate(entry)}
-                  onMouseEnter={() => setActiveIdx(i)}
-                  className={`w-full flex items-center gap-3 px-4 py-3 text-left transition-colors ${
-                    i === activeIdx ? "bg-black/10" : "hover:bg-black/5"
-                  }`}
-                >
-                  {/* Title + badge */}
-                  <div className="flex-1 min-w-0 flex items-center gap-2">
-                    <p className="text-sm text-text-primary truncate leading-snug">{title}</p>
-                    {badge && (
-                      <span className={`shrink-0 text-[10px] font-bold uppercase tracking-wider px-1.5 py-0.5 rounded ${BADGE_STYLES[entry.badgeType]}`}>
-                        {badge}
-                      </span>
-                    )}
-                  </div>
-                  {/* Arrow */}
-                  <svg className="w-4 h-4 text-text-subtle shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
-                  </svg>
-                </button>
-              </li>
-            );
-          })}
-        </ul>
+      {open && (
+        <div
+          className="absolute top-full mt-2 w-full rounded-2xl overflow-hidden shadow-2xl z-50 border border-border bg-[#0d1520]/95 light:bg-[#fffdf9]/95 backdrop-blur-xl animate-[slideDown_150ms_ease-out]"
+        >
+          {/* Loading state */}
+          {loading && (
+            <div className="px-5 py-4 flex items-center gap-3 text-text-muted text-sm">
+              <svg className="h-4 w-4 animate-spin" viewBox="0 0 24 24" fill="none">
+                <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4" />
+                <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4z" />
+              </svg>
+              {locale === "ko" ? "검색 준비 중..." : "Loading search..."}
+            </div>
+          )}
+
+          {/* No results */}
+          {noResults && (
+            <div className="px-5 py-4 text-text-muted text-sm">
+              {locale === "ko"
+                ? `"${query.trim()}"에 대한 결과가 없습니다`
+                : `No results for "${query.trim()}"`}
+            </div>
+          )}
+
+          {/* Results list */}
+          {results.length > 0 && (
+            <ul ref={listRef} className="py-1 max-h-[400px] overflow-y-auto overscroll-contain">
+              {results.map((entry, i) => {
+                const title = locale === "ko" ? entry.titleKo : entry.titleEn;
+                const badge = BADGE_LABELS[entry.badgeType][locale];
+                const isActive = i === activeIdx;
+                const isNavigating = navigatingSlug === entry.slug;
+
+                return (
+                  <li key={entry.slug}>
+                    <button
+                      type="button"
+                      onMouseDown={() => navigate(entry)}
+                      onMouseEnter={() => setActiveIdx(i)}
+                      className={`w-full flex items-center gap-3 px-5 py-3.5 text-left transition-colors duration-100 ${
+                        isNavigating
+                          ? "bg-gold/20"
+                          : isActive
+                            ? "bg-white/8 light:bg-black/6"
+                            : ""
+                      }`}
+                    >
+                      {/* Title + badge */}
+                      <div className="flex-1 min-w-0 flex items-center gap-2.5">
+                        <p className="text-sm text-text-primary truncate leading-snug">
+                          {highlightMatch(title, query, locale)}
+                        </p>
+                        <span
+                          className={`shrink-0 text-[10px] font-bold uppercase tracking-wider px-1.5 py-0.5 rounded ${BADGE_STYLES[entry.badgeType]}`}
+                        >
+                          {badge}
+                        </span>
+                      </div>
+                      {/* Arrow */}
+                      <svg
+                        className={`w-4 h-4 shrink-0 transition-all duration-100 ${
+                          isActive ? "text-gold translate-x-0.5" : "text-text-subtle"
+                        }`}
+                        fill="none"
+                        stroke="currentColor"
+                        viewBox="0 0 24 24"
+                      >
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                      </svg>
+                    </button>
+                  </li>
+                );
+              })}
+            </ul>
+          )}
+
+          {/* Keyboard hint */}
+          {results.length > 0 && (
+            <div className="px-5 py-2 border-t border-border text-[11px] text-text-subtle flex items-center gap-3">
+              <span className="flex items-center gap-1">
+                <kbd className="px-1.5 py-0.5 rounded bg-white/8 light:bg-black/8 font-mono text-[10px]">↑↓</kbd>
+                {locale === "ko" ? "이동" : "navigate"}
+              </span>
+              <span className="flex items-center gap-1">
+                <kbd className="px-1.5 py-0.5 rounded bg-white/8 light:bg-black/8 font-mono text-[10px]">↵</kbd>
+                {locale === "ko" ? "선택" : "select"}
+              </span>
+              <span className="flex items-center gap-1">
+                <kbd className="px-1.5 py-0.5 rounded bg-white/8 light:bg-black/8 font-mono text-[10px]">esc</kbd>
+                {locale === "ko" ? "닫기" : "close"}
+              </span>
+            </div>
+          )}
+        </div>
       )}
     </div>
   );

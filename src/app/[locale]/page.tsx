@@ -113,7 +113,7 @@ export default async function HomePage({ params }: Props) {
           >
             {t("tagline")}
           </h1>
-          <p className="text-lg md:text-xl font-light text-slate-300 light:text-slate-800 mb-12 tracking-wide">
+          <p className="text-lg md:text-xl font-light text-slate-300 light:text-slate-900 mb-12 tracking-wide">
             {t("heroSubtitle")}
           </p>
 
@@ -134,7 +134,7 @@ export default async function HomePage({ params }: Props) {
                 key={chip.slug}
                 href={{ pathname: "/explore/[category]", params: { category: chip.slug } }}
                 locale={locale as Locale}
-                className="px-6 py-2 rounded-full border border-border bg-surface/30 light:bg-black/5 hover:bg-gold hover:text-midnight transition-all"
+                className="px-6 py-2 rounded-full border border-border bg-surface/30 light:bg-white/20 light:text-white light:border-white/30 hover:bg-gold hover:text-midnight transition-all"
               >
                 {locale === "ko" ? chip.ko : chip.en}
               </Link>
