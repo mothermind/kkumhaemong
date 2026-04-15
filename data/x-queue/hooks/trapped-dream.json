@@ -1,0 +1,21 @@
+{
+  "slug": "trapped-dream",
+  "category": "disasters",
+  "categories": [
+    "재물",
+    "새출발",
+    "극복"
+  ],
+  "scores": {
+    "재물": 25,
+    "출세": 6,
+    "연애": 0,
+    "태몽": 0,
+    "새출발": 13,
+    "극복": 13,
+    "귀인": 2,
+    "건강": 3
+  },
+  "classifiedAt": "2026-04-15T02:39:49.561Z",
+  "method": "rule-based-v1"
+}

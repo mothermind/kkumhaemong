@@ -1,0 +1,21 @@
+{
+  "slug": "hanbok-dream",
+  "category": "clothing",
+  "categories": [
+    "연애",
+    "출세",
+    "새출발"
+  ],
+  "scores": {
+    "재물": 0,
+    "출세": 17,
+    "연애": 28,
+    "태몽": 0,
+    "새출발": 17,
+    "극복": 0,
+    "귀인": 6,
+    "건강": 5
+  },
+  "classifiedAt": "2026-04-15T02:39:49.506Z",
+  "method": "rule-based-v1"
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "house-dream",
+  "category": "places",
+  "categories": [
+    "출세",
+    "새출발",
+    "재물"
+  ],
+  "scores": {
+    "재물": 28,
+    "출세": 36,
+    "연애": 4,
+    "태몽": 4,
+    "새출발": 29,
+    "극복": 6,
+    "귀인": 0,
+    "건강": 0
+  },
+  "classifiedAt": "2026-04-15T02:39:49.750Z",
+  "method": "rule-based-v1"
+}

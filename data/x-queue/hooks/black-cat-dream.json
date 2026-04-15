@@ -1,0 +1,21 @@
+{
+  "slug": "black-cat-dream",
+  "category": "animals",
+  "categories": [
+    "새출발",
+    "재물",
+    "귀인"
+  ],
+  "scores": {
+    "재물": 10,
+    "출세": 2,
+    "연애": 7,
+    "태몽": 0,
+    "새출발": 18,
+    "극복": 2,
+    "귀인": 10,
+    "건강": 9
+  },
+  "classifiedAt": "2026-04-15T02:39:49.145Z",
+  "method": "rule-based-v1"
+}

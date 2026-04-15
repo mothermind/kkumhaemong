@@ -1,0 +1,21 @@
+{
+  "slug": "unlocking-dream",
+  "category": "actions",
+  "categories": [
+    "재물",
+    "새출발",
+    "출세"
+  ],
+  "scores": {
+    "재물": 30,
+    "출세": 14,
+    "연애": 12,
+    "태몽": 0,
+    "새출발": 19,
+    "극복": 2,
+    "귀인": 5,
+    "건강": 0
+  },
+  "classifiedAt": "2026-04-15T02:39:49.121Z",
+  "method": "rule-based-v1"
+}

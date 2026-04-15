@@ -1,0 +1,21 @@
+{
+  "slug": "camping-dream",
+  "category": "actions",
+  "categories": [
+    "새출발",
+    "연애",
+    "재물"
+  ],
+  "scores": {
+    "재물": 10,
+    "출세": 2,
+    "연애": 12,
+    "태몽": 0,
+    "새출발": 20,
+    "극복": 9,
+    "귀인": 0,
+    "건강": 4
+  },
+  "classifiedAt": "2026-04-15T02:39:49.039Z",
+  "method": "rule-based-v1"
+}

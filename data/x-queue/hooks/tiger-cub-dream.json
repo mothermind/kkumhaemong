@@ -1,0 +1,21 @@
+{
+  "slug": "tiger-cub-dream",
+  "category": "animals",
+  "categories": [
+    "재물",
+    "새출발",
+    "태몽"
+  ],
+  "scores": {
+    "재물": 29,
+    "출세": 7,
+    "연애": 4,
+    "태몽": 9,
+    "새출발": 15,
+    "극복": 0,
+    "귀인": 3,
+    "건강": 5
+  },
+  "classifiedAt": "2026-04-15T02:39:49.315Z",
+  "method": "rule-based-v1"
+}

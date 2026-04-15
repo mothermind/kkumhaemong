@@ -1,0 +1,21 @@
+{
+  "slug": "pigeon-dream",
+  "category": "animals",
+  "categories": [
+    "재물",
+    "연애",
+    "귀인"
+  ],
+  "scores": {
+    "재물": 19,
+    "출세": 2,
+    "연애": 10,
+    "태몽": 0,
+    "새출발": 0,
+    "극복": 0,
+    "귀인": 6,
+    "건강": 3
+  },
+  "classifiedAt": "2026-04-15T02:39:49.277Z",
+  "method": "rule-based-v1"
+}

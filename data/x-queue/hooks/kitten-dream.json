@@ -1,0 +1,21 @@
+{
+  "slug": "kitten-dream",
+  "category": "animals",
+  "categories": [
+    "재물",
+    "연애",
+    "새출발"
+  ],
+  "scores": {
+    "재물": 37,
+    "출세": 2,
+    "연애": 28,
+    "태몽": 5,
+    "새출발": 23,
+    "극복": 3,
+    "귀인": 5,
+    "건강": 15
+  },
+  "classifiedAt": "2026-04-15T02:39:49.244Z",
+  "method": "rule-based-v1"
+}

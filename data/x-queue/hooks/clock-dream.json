@@ -1,0 +1,21 @@
+{
+  "slug": "clock-dream",
+  "category": "objects",
+  "categories": [
+    "재물",
+    "출세",
+    "새출발"
+  ],
+  "scores": {
+    "재물": 29,
+    "출세": 13,
+    "연애": 3,
+    "태몽": 0,
+    "새출발": 11,
+    "극복": 3,
+    "귀인": 10,
+    "건강": 10
+  },
+  "classifiedAt": "2026-04-15T02:39:49.726Z",
+  "method": "rule-based-v1"
+}

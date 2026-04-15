@@ -1,0 +1,21 @@
+{
+  "slug": "airplane-dream",
+  "category": "transportation",
+  "categories": [
+    "출세",
+    "건강",
+    "새출발"
+  ],
+  "scores": {
+    "재물": 0,
+    "출세": 21,
+    "연애": 0,
+    "태몽": 0,
+    "새출발": 7,
+    "극복": 3,
+    "귀인": 0,
+    "건강": 9
+  },
+  "classifiedAt": "2026-04-15T02:39:49.870Z",
+  "method": "rule-based-v1"
+}

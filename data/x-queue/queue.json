@@ -1,0 +1,116 @@
+{
+  "entries": [
+    {
+      "slug": "airplane-crash-dream",
+      "category": "transportation",
+      "locale": "ko",
+      "kicker": "비행기 추락 꿈",
+      "setup": "이 꿈을 꾼 분들 사연이 한둘이 아닙니다.",
+      "oneLiner": "위기가 기회로 뒤집힙니다.",
+      "text": "이 꿈을 꾼 분들 사연이 한둘이 아닙니다.\n위기가 기회로 뒤집힙니다.\n\nhttps://www.kkumhaemong.com/ko/%EA%BF%88%ED%95%B4%EB%AA%BD/bihaenggi-churak-kkum\n#꿈해몽 #비행기추락꿈 #전화위복",
+      "hashtags": [
+        "#꿈해몽",
+        "#비행기추락꿈",
+        "#전화위복"
+      ],
+      "cardPath": "public/x-cards/posted/airplane-crash-dream.jpg",
+      "url": "https://www.kkumhaemong.com/ko/%EA%BF%88%ED%95%B4%EB%AA%BD/bihaenggi-churak-kkum",
+      "categoryKey": "극복",
+      "hook": {
+        "patternIndex": 3,
+        "category": "극복",
+        "outcomeIndex": 1
+      },
+      "status": "posted",
+      "variantSeed": 0,
+      "createdAt": "2026-04-15T03:51:31.525Z",
+      "postedAt": "2026-04-15T05:06:57.060Z",
+      "tweetId": null,
+      "groupId": "manual-1776229617061"
+    },
+    {
+      "slug": "becoming-rich-dream",
+      "category": "money",
+      "locale": "ko",
+      "kicker": "부자가 되는 꿈",
+      "setup": "이 꿈은 절대 우연이 아닙니다.",
+      "oneLiner": "뜻밖의 재물이 쏟아집니다.",
+      "text": "이 꿈은 절대 우연이 아닙니다.\n뜻밖의 재물이 쏟아집니다.\n\nhttps://www.kkumhaemong.com/ko/%EA%BF%88%ED%95%B4%EB%AA%BD/buja-doeneun-kkum\n#꿈해몽 #부자가되는꿈 #재물운",
+      "hashtags": [
+        "#꿈해몽",
+        "#부자가되는꿈",
+        "#재물운"
+      ],
+      "cardPath": "public/x-cards/posted/becoming-rich-dream.jpg",
+      "url": "https://www.kkumhaemong.com/ko/%EA%BF%88%ED%95%B4%EB%AA%BD/buja-doeneun-kkum",
+      "categoryKey": "재물",
+      "hook": {
+        "patternIndex": 9,
+        "category": "재물",
+        "outcomeIndex": 2
+      },
+      "status": "posted",
+      "variantSeed": 0,
+      "createdAt": "2026-04-15T03:51:31.562Z",
+      "postedAt": "2026-04-15T05:06:57.060Z",
+      "tweetId": null,
+      "groupId": "manual-1776229617061"
+    },
+    {
+      "slug": "acne-dream",
+      "category": "body",
+      "locale": "en",
+      "kicker": "Acne Dream",
+      "setup": "A dream like this is pure blessing.",
+      "oneLiner": "your name is about to be known.",
+      "text": "A dream like this is pure blessing.\nyour name is about to be known.\n\nhttps://www.kkumhaemong.com/en/dream/acne-dream\n#DreamMeaning #AcneDream #KoreanDreams",
+      "hashtags": [
+        "#DreamMeaning",
+        "#AcneDream",
+        "#KoreanDreams"
+      ],
+      "cardPath": "public/x-cards/posted/acne-dream_en.jpg",
+      "url": "https://www.kkumhaemong.com/en/dream/acne-dream",
+      "categoryKey": "출세",
+      "hook": {
+        "patternIndex": 8,
+        "category": "출세",
+        "outcomeIndex": 3
+      },
+      "status": "posted",
+      "variantSeed": 0,
+      "createdAt": "2026-04-15T05:01:41.296Z",
+      "postedAt": "2026-04-15T05:08:39.192Z",
+      "tweetId": null,
+      "groupId": "manual-1776229719192"
+    },
+    {
+      "slug": "afterlife-dream",
+      "category": "death",
+      "locale": "en",
+      "kicker": "Afterlife Dream",
+      "setup": "Don't miss this one.",
+      "oneLiner": "peace is on its way.",
+      "text": "Don't miss this one.\npeace is on its way.\n\nhttps://www.kkumhaemong.com/en/dream/afterlife-dream\n#DreamMeaning #AfterlifeDream #KoreanDreams",
+      "hashtags": [
+        "#DreamMeaning",
+        "#AfterlifeDream",
+        "#KoreanDreams"
+      ],
+      "cardPath": "public/x-cards/posted/afterlife-dream_en.jpg",
+      "url": "https://www.kkumhaemong.com/en/dream/afterlife-dream",
+      "categoryKey": "건강",
+      "hook": {
+        "patternIndex": 4,
+        "category": "건강",
+        "outcomeIndex": 3
+      },
+      "status": "posted",
+      "variantSeed": 0,
+      "createdAt": "2026-04-15T05:01:41.341Z",
+      "postedAt": "2026-04-15T05:08:39.192Z",
+      "tweetId": null,
+      "groupId": "manual-1776229719192"
+    }
+  ]
+}

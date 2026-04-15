@@ -1,0 +1,21 @@
+{
+  "slug": "rooster-dream",
+  "category": "animals",
+  "categories": [
+    "출세",
+    "재물",
+    "새출발"
+  ],
+  "scores": {
+    "재물": 24,
+    "출세": 38,
+    "연애": 2,
+    "태몽": 6,
+    "새출발": 19,
+    "극복": 0,
+    "귀인": 9,
+    "건강": 0
+  },
+  "classifiedAt": "2026-04-15T02:39:49.288Z",
+  "method": "rule-based-v1"
+}

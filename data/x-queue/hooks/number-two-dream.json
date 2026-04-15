@@ -1,0 +1,21 @@
+{
+  "slug": "number-two-dream",
+  "category": "numbers",
+  "categories": [
+    "출세",
+    "연애",
+    "태몽"
+  ],
+  "scores": {
+    "재물": 3,
+    "출세": 17,
+    "연애": 13,
+    "태몽": 11,
+    "새출발": 3,
+    "극복": 0,
+    "귀인": 11,
+    "건강": 0
+  },
+  "classifiedAt": "2026-04-15T02:39:49.708Z",
+  "method": "rule-based-v1"
+}

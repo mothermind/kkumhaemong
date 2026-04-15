@@ -1,0 +1,21 @@
+{
+  "slug": "white-fox-dream",
+  "category": "animals",
+  "categories": [
+    "재물",
+    "출세",
+    "새출발"
+  ],
+  "scores": {
+    "재물": 20,
+    "출세": 6,
+    "연애": 0,
+    "태몽": 0,
+    "새출발": 6,
+    "극복": 0,
+    "귀인": 3,
+    "건강": 0
+  },
+  "classifiedAt": "2026-04-15T02:39:49.327Z",
+  "method": "rule-based-v1"
+}

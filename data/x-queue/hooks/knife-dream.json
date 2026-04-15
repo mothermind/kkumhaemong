@@ -1,0 +1,21 @@
+{
+  "slug": "knife-dream",
+  "category": "objects",
+  "categories": [
+    "재물",
+    "출세",
+    "귀인"
+  ],
+  "scores": {
+    "재물": 61,
+    "출세": 30,
+    "연애": 5,
+    "태몽": 9,
+    "새출발": 3,
+    "극복": 6,
+    "귀인": 20,
+    "건강": 5
+  },
+  "classifiedAt": "2026-04-15T02:39:49.729Z",
+  "method": "rule-based-v1"
+}

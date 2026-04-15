@@ -1,0 +1,21 @@
+{
+  "slug": "alien-dream",
+  "category": "celestial",
+  "categories": [
+    "새출발",
+    "귀인",
+    "연애"
+  ],
+  "scores": {
+    "재물": 10,
+    "출세": 3,
+    "연애": 12,
+    "태몽": 0,
+    "새출발": 28,
+    "극복": 3,
+    "귀인": 18,
+    "건강": 5
+  },
+  "classifiedAt": "2026-04-15T02:39:49.490Z",
+  "method": "rule-based-v1"
+}

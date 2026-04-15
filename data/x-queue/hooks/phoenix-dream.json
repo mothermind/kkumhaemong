@@ -1,0 +1,21 @@
+{
+  "slug": "phoenix-dream",
+  "category": "animals",
+  "categories": [
+    "태몽",
+    "출세",
+    "재물"
+  ],
+  "scores": {
+    "재물": 17,
+    "출세": 21,
+    "연애": 12,
+    "태몽": 24,
+    "새출발": 16,
+    "극복": 0,
+    "귀인": 0,
+    "건강": 0
+  },
+  "classifiedAt": "2026-04-15T02:39:49.275Z",
+  "method": "rule-based-v1"
+}

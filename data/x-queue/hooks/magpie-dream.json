@@ -1,0 +1,21 @@
+{
+  "slug": "magpie-dream",
+  "category": "animals",
+  "categories": [
+    "귀인",
+    "출세",
+    "새출발"
+  ],
+  "scores": {
+    "재물": 0,
+    "출세": 19,
+    "연애": 4,
+    "태몽": 5,
+    "새출발": 8,
+    "극복": 3,
+    "귀인": 22,
+    "건강": 0
+  },
+  "classifiedAt": "2026-04-15T02:39:49.251Z",
+  "method": "rule-based-v1"
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "lotus-dream",
+  "category": "plants",
+  "categories": [
+    "출세",
+    "재물",
+    "귀인"
+  ],
+  "scores": {
+    "재물": 26,
+    "출세": 28,
+    "연애": 9,
+    "태몽": 0,
+    "새출발": 5,
+    "극복": 14,
+    "귀인": 17,
+    "건강": 5
+  },
+  "classifiedAt": "2026-04-15T02:39:49.826Z",
+  "method": "rule-based-v1"
+}

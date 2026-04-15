@@ -1,0 +1,21 @@
+{
+  "slug": "wandering-dream",
+  "category": "actions",
+  "categories": [
+    "새출발",
+    "극복",
+    "귀인"
+  ],
+  "scores": {
+    "재물": 0,
+    "출세": 0,
+    "연애": 0,
+    "태몽": 0,
+    "새출발": 21,
+    "극복": 20,
+    "귀인": 13,
+    "건강": 0
+  },
+  "classifiedAt": "2026-04-15T02:39:49.125Z",
+  "method": "rule-based-v1"
+}

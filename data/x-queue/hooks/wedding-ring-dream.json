@@ -1,0 +1,20 @@
+{
+  "slug": "wedding-ring-dream",
+  "category": "marriage",
+  "categories": [
+    "연애",
+    "재물"
+  ],
+  "scores": {
+    "재물": 35,
+    "출세": 10,
+    "연애": 43,
+    "태몽": 0,
+    "새출발": 7,
+    "극복": 3,
+    "귀인": 0,
+    "건강": 0
+  },
+  "classifiedAt": "2026-04-15T02:39:49.642Z",
+  "method": "rule-based-v1"
+}

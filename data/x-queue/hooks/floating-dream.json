@@ -1,0 +1,21 @@
+{
+  "slug": "floating-dream",
+  "category": "actions",
+  "categories": [
+    "출세",
+    "재물",
+    "새출발"
+  ],
+  "scores": {
+    "재물": 15,
+    "출세": 21,
+    "연애": 4,
+    "태몽": 0,
+    "새출발": 14,
+    "극복": 10,
+    "귀인": 3,
+    "건강": 14
+  },
+  "classifiedAt": "2026-04-15T02:39:49.068Z",
+  "method": "rule-based-v1"
+}

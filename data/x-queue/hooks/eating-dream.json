@@ -1,0 +1,21 @@
+{
+  "slug": "eating-dream",
+  "category": "actions",
+  "categories": [
+    "재물",
+    "건강",
+    "출세"
+  ],
+  "scores": {
+    "재물": 36,
+    "출세": 25,
+    "연애": 7,
+    "태몽": 10,
+    "새출발": 0,
+    "극복": 0,
+    "귀인": 6,
+    "건강": 30
+  },
+  "classifiedAt": "2026-04-15T02:39:49.058Z",
+  "method": "rule-based-v1"
+}

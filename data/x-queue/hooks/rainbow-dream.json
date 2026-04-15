@@ -1,0 +1,21 @@
+{
+  "slug": "rainbow-dream",
+  "category": "weather",
+  "categories": [
+    "출세",
+    "연애",
+    "재물"
+  ],
+  "scores": {
+    "재물": 10,
+    "출세": 35,
+    "연애": 14,
+    "태몽": 5,
+    "새출발": 2,
+    "극복": 6,
+    "귀인": 0,
+    "건강": 9
+  },
+  "classifiedAt": "2026-04-15T02:39:49.912Z",
+  "method": "rule-based-v1"
+}

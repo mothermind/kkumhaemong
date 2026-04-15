@@ -1,0 +1,19 @@
+{
+  "slug": "singing-dream",
+  "category": "actions",
+  "categories": [
+    "출세"
+  ],
+  "scores": {
+    "재물": 10,
+    "출세": 49,
+    "연애": 8,
+    "태몽": 0,
+    "새출발": 3,
+    "극복": 2,
+    "귀인": 6,
+    "건강": 2
+  },
+  "classifiedAt": "2026-04-15T02:39:49.109Z",
+  "method": "rule-based-v1"
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "hospital-dream",
+  "category": "places",
+  "categories": [
+    "건강",
+    "새출발",
+    "출세"
+  ],
+  "scores": {
+    "재물": 10,
+    "출세": 17,
+    "연애": 4,
+    "태몽": 0,
+    "새출발": 25,
+    "극복": 6,
+    "귀인": 14,
+    "건강": 30
+  },
+  "classifiedAt": "2026-04-15T02:39:49.748Z",
+  "method": "rule-based-v1"
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "nostalgia-dream",
+  "category": "emotions",
+  "categories": [
+    "출세",
+    "재물",
+    "극복"
+  ],
+  "scores": {
+    "재물": 5,
+    "출세": 10,
+    "연애": 2,
+    "태몽": 0,
+    "새출발": 3,
+    "극복": 5,
+    "귀인": 5,
+    "건강": 0
+  },
+  "classifiedAt": "2026-04-15T02:39:49.575Z",
+  "method": "rule-based-v1"
+}

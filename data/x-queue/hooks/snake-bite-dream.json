@@ -1,0 +1,21 @@
+{
+  "slug": "snake-bite-dream",
+  "category": "animals",
+  "categories": [
+    "재물",
+    "귀인",
+    "태몽"
+  ],
+  "scores": {
+    "재물": 34,
+    "출세": 7,
+    "연애": 8,
+    "태몽": 9,
+    "새출발": 9,
+    "극복": 3,
+    "귀인": 19,
+    "건강": 0
+  },
+  "classifiedAt": "2026-04-15T02:39:49.300Z",
+  "method": "rule-based-v1"
+}

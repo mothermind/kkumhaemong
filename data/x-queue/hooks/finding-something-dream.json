@@ -1,0 +1,21 @@
+{
+  "slug": "finding-something-dream",
+  "category": "actions",
+  "categories": [
+    "재물",
+    "새출발",
+    "귀인"
+  ],
+  "scores": {
+    "재물": 20,
+    "출세": 6,
+    "연애": 4,
+    "태몽": 0,
+    "새출발": 13,
+    "극복": 4,
+    "귀인": 8,
+    "건강": 8
+  },
+  "classifiedAt": "2026-04-15T02:39:49.067Z",
+  "method": "rule-based-v1"
+}

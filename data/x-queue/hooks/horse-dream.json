@@ -1,0 +1,20 @@
+{
+  "slug": "horse-dream",
+  "category": "animals",
+  "categories": [
+    "출세",
+    "재물"
+  ],
+  "scores": {
+    "재물": 30,
+    "출세": 60,
+    "연애": 4,
+    "태몽": 10,
+    "새출발": 3,
+    "극복": 6,
+    "귀인": 0,
+    "건강": 8
+  },
+  "classifiedAt": "2026-04-15T02:39:49.239Z",
+  "method": "rule-based-v1"
+}

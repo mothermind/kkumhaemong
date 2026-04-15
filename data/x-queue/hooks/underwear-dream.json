@@ -1,0 +1,21 @@
+{
+  "slug": "underwear-dream",
+  "category": "clothing",
+  "categories": [
+    "재물",
+    "새출발",
+    "건강"
+  ],
+  "scores": {
+    "재물": 25,
+    "출세": 7,
+    "연애": 4,
+    "태몽": 0,
+    "새출발": 23,
+    "극복": 3,
+    "귀인": 5,
+    "건강": 12
+  },
+  "classifiedAt": "2026-04-15T02:39:49.512Z",
+  "method": "rule-based-v1"
+}

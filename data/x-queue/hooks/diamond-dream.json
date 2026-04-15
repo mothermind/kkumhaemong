@@ -1,0 +1,20 @@
+{
+  "slug": "diamond-dream",
+  "category": "money",
+  "categories": [
+    "출세",
+    "재물"
+  ],
+  "scores": {
+    "재물": 31,
+    "출세": 35,
+    "연애": 3,
+    "태몽": 6,
+    "새출발": 8,
+    "극복": 2,
+    "귀인": 0,
+    "건강": 0
+  },
+  "classifiedAt": "2026-04-15T02:39:49.646Z",
+  "method": "rule-based-v1"
+}

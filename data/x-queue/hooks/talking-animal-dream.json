@@ -1,0 +1,21 @@
+{
+  "slug": "talking-animal-dream",
+  "category": "animals",
+  "categories": [
+    "귀인",
+    "극복",
+    "새출발"
+  ],
+  "scores": {
+    "재물": 0,
+    "출세": 2,
+    "연애": 0,
+    "태몽": 0,
+    "새출발": 6,
+    "극복": 8,
+    "귀인": 21,
+    "건강": 4
+  },
+  "classifiedAt": "2026-04-15T02:39:49.312Z",
+  "method": "rule-based-v1"
+}

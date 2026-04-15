@@ -1,0 +1,21 @@
+{
+  "slug": "treasure-dream",
+  "category": "money",
+  "categories": [
+    "재물",
+    "새출발",
+    "귀인"
+  ],
+  "scores": {
+    "재물": 25,
+    "출세": 13,
+    "연애": 4,
+    "태몽": 3,
+    "새출발": 18,
+    "극복": 0,
+    "귀인": 17,
+    "건강": 0
+  },
+  "classifiedAt": "2026-04-15T02:39:49.654Z",
+  "method": "rule-based-v1"
+}

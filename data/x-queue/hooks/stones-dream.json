@@ -1,0 +1,21 @@
+{
+  "slug": "stones-dream",
+  "category": "nature",
+  "categories": [
+    "재물",
+    "태몽",
+    "건강"
+  ],
+  "scores": {
+    "재물": 34,
+    "출세": 8,
+    "연애": 0,
+    "태몽": 15,
+    "새출발": 8,
+    "극복": 8,
+    "귀인": 0,
+    "건강": 13
+  },
+  "classifiedAt": "2026-04-15T02:39:49.669Z",
+  "method": "rule-based-v1"
+}

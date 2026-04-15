@@ -1,0 +1,21 @@
+{
+  "slug": "otter-dream",
+  "category": "animals",
+  "categories": [
+    "재물",
+    "새출발",
+    "출세"
+  ],
+  "scores": {
+    "재물": 26,
+    "출세": 9,
+    "연애": 0,
+    "태몽": 0,
+    "새출발": 11,
+    "극복": 0,
+    "귀인": 3,
+    "건강": 0
+  },
+  "classifiedAt": "2026-04-15T02:39:49.268Z",
+  "method": "rule-based-v1"
+}

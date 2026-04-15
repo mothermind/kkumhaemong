@@ -22678,5 +22678,77 @@
     "stop_hook_active": false,
     "agent_transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/5621e475-504e-4cd6-b03d-bcc29b963517/subagents/agent-a312c5cf8819d8e2f.jsonl",
     "last_assistant_message": "Perfect! Now I have the complete picture. Let me create a comprehensive report.\n\n## Summary: Broken Image Investigation Report\n\nI've identified the root cause of broken images on kkumhaemong.com. Here are my findings:\n\n### Issue Overview\n**191 content files** contain broken image URLs that reference the old local domain instead of Firebase Storage.\n\n### The Two URL Patterns Found\n\n1. **Correct URLs** (3,110 instances):\n   ```\n   https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/{slug}/{name}.webp\n   ```\n   These are properly migrated and functional.\n\n2. **Broken URLs** (191 instances in 191 files):\n   ```\n   https://kkumhaemong.com/images/dreams/{slug}/hero.png\n   ```\n   These URLs:\n   - Use the old domain (kkumhaemong.com) instead of Firebase Storage\n   - Reference `.png` extension instead of `.webp`\n   - Exist only in the `articleSchema` structured data (JSON-LD) within `seo.structuredData.articleSchema.image` field\n   - Are NOT used for rendering images on the page itself\n\n### Affected Categories (by file count)\n| Category | Broken URLs |\n|----------|-------------|\n| actions | 53 |\n| animals | 25 |\n| body | 13 |\n| weather | 11 |\n| water | 10 |\n| spirits | 10 |\n| colors | 10 |\n| transportation | 8 |\n| pregnancy | 8 |\n| disasters | 8 |\n| death | 7 |\n| celestial | 7 |\n| emotions | 6 |\n| marriage | 5 |\n| clothing | 3 |\n| numbers | 2 |\n| food | 2 |\n| people | 1 |\n| money | 1 |\n| fire | 1 |\n\n### Root Cause\nThe migration script `scripts/migrate-images-to-firebase.mjs` updated the main image references in `content.images.*` but **did NOT update** the schema URLs in `seo.structuredData.articleSchema.image`. \n\nLooking at the script (lines 136-175), it updates:\n- `data.images.hero`\n- `data.images.sections.auspicious`\n- `data.images.sections.inauspicious`\n- `data.seo.ogImage`\n\nBut it skips the nested schema field at `data.seo.structuredData.articleSchema.image`\n\n### Where These Broken URLs Appear\n\nExample from `/Users/llnormll/WorkSpace/my-fortune-site/data/content/emotions/anxiety-dream.json`:\n\n**Line 264** in the articleSchema (JSON-LD structured data):\n```json\n\"articleSchema\": {\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Article\",\n  \"headline\": \"Anxiety Dream Meaning \u2014 Korean Dream Interpretation Complete Guide\",\n  \"description\": \"What does an anxiety dream mean in Korean tradition?...\",\n  \"image\": \"https://kkumhaemong.com/images/dreams/anxiety-dream/hero.png\",\n  ...\n}\n```\n\n### Impact Assessment\n\n**Page rendering**: \u2705 Not affected\n- The page displays images correctly because `DreamSection.tsx` and `DreamHero.tsx` use `content.images.hero` and `content.images.sections.*`, which were correctly migrated to Firebase URLs.\n\n**SEO/Structured Data**: \u26a0\ufe0f Broken links in JSON-LD\n- Google and other search engines reading the Article schema will encounter broken image URLs\n- This can affect rich snippets and image indexing in search results\n- KakaoTalk and other social scrapers pulling OG tags won't be affected (those use `seo.ogImage` which was updated)\n\n**Recommended Fix**:\nBatch update all 191 files to replace:\n- `seo.structuredData.articleSchema.image` \n- From: `https://kkumhaemong.com/images/dreams/{slug}/hero.png`\n- To: `https://storage.googleapis.com/my-fortune-site.firebasestorage.app/images/dreams/{slug}/hero.webp`\n\n### File Paths Affected (All in `/Users/llnormll/WorkSpace/my-fortune-site/data/content/`)\nAcross 24 categories, 191 individual content JSON files. Category paths:\n- `data/content/actions/` (53 files)\n- `data/content/animals/` (25 files)\n- `data/content/body/` (13 files)\n- `data/content/weather/` (11 files)\n- [And 16 more categories...]"
+  },
+  {
+    "session_id": "383f3a67-88a8-497c-b1ce-28fe7565fa2b",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/383f3a67-88a8-497c-b1ce-28fe7565fa2b.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "agent_id": "aa2fd34b4c2e8636a",
+    "agent_type": "",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/383f3a67-88a8-497c-b1ce-28fe7565fa2b/subagents/agent-aa2fd34b4c2e8636a.jsonl",
+    "last_assistant_message": "Goal is to accelerate page indexing for 921 dream articles by posting short-form content on X. I recommended one post per article with hero image, hook line, lucky numbers teaser, and canonical link. Next: sketch KO/EN post template for approval."
+  },
+  {
+    "session_id": "383f3a67-88a8-497c-b1ce-28fe7565fa2b",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/383f3a67-88a8-497c-b1ce-28fe7565fa2b.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "agent_id": "a8f181246fe32273b",
+    "agent_type": "",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/383f3a67-88a8-497c-b1ce-28fe7565fa2b/subagents/agent-a8f181246fe32273b.jsonl",
+    "last_assistant_message": "Goal is generating X cards and post copy for 921 dream articles to accelerate indexing. Smoke test on airplane-crash-dream worked at 4:5 portrait; next action is patching the agent spec with the fixes and running a 5-slug trial."
+  },
+  {
+    "session_id": "383f3a67-88a8-497c-b1ce-28fe7565fa2b",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/383f3a67-88a8-497c-b1ce-28fe7565fa2b.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "agent_id": "a959b8d50055c5137",
+    "agent_type": "",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/383f3a67-88a8-497c-b1ce-28fe7565fa2b/subagents/agent-a959b8d50055c5137.jsonl",
+    "last_assistant_message": "Building an X (Twitter) posting pipeline to accelerate page indexing for the 921 dream articles; the posting script and agent are ready but waiting on X developer credentials. Next: apply for the free X dev account, flip the app to Read+Write, and paste the 4 keys into .env."
+  },
+  {
+    "session_id": "383f3a67-88a8-497c-b1ce-28fe7565fa2b",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/383f3a67-88a8-497c-b1ce-28fe7565fa2b.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "agent_id": "a0385ecbdc4ecc974",
+    "agent_type": "",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/383f3a67-88a8-497c-b1ce-28fe7565fa2b/subagents/agent-a0385ecbdc4ecc974.jsonl",
+    "last_assistant_message": "Goal: post paired KO dream cards to X to accelerate page indexing. Current block: 403 on media upload because the access token was minted before Read+Write. Next: finish the X app setup, regenerate the access token, paste into .env, then rerun npm run x:post."
+  },
+  {
+    "session_id": "383f3a67-88a8-497c-b1ce-28fe7565fa2b",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/383f3a67-88a8-497c-b1ce-28fe7565fa2b.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "agent_id": "a09398f5734706995",
+    "agent_type": "",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/383f3a67-88a8-497c-b1ce-28fe7565fa2b/subagents/agent-a09398f5734706995.jsonl",
+    "last_assistant_message": "Goal: drive page indexing by hand-posting dream article pair-cards to X, using locally rendered cards and a manual queue. Next action: copy the caption from `npm run x:next` and upload airplane-crash-dream and becoming-rich-dream to X."
+  },
+  {
+    "session_id": "383f3a67-88a8-497c-b1ce-28fe7565fa2b",
+    "transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/383f3a67-88a8-497c-b1ce-28fe7565fa2b.jsonl",
+    "cwd": "/Users/llnormll/WorkSpace/my-fortune-site",
+    "permission_mode": "default",
+    "agent_id": "a434a5c98d8e5793e",
+    "agent_type": "",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false,
+    "agent_transcript_path": "/Users/llnormll/.claude/projects/-Users-llnormll-WorkSpace-my-fortune-site/383f3a67-88a8-497c-b1ce-28fe7565fa2b/subagents/agent-a434a5c98d8e5793e.jsonl",
+    "last_assistant_message": "We're preparing X card posts (KO + EN pairs) for manual upload to accelerate page indexing; 4 queue entries are pending with cards rendered and captions ready. Next action: run `npm run x:next` and paste the output into X to post the first pair."
   }
 ]

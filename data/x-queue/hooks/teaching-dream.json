@@ -1,0 +1,21 @@
+{
+  "slug": "teaching-dream",
+  "category": "actions",
+  "categories": [
+    "출세",
+    "재물",
+    "새출발"
+  ],
+  "scores": {
+    "재물": 20,
+    "출세": 26,
+    "연애": 0,
+    "태몽": 0,
+    "새출발": 14,
+    "극복": 6,
+    "귀인": 3,
+    "건강": 0
+  },
+  "classifiedAt": "2026-04-15T02:39:49.118Z",
+  "method": "rule-based-v1"
+}

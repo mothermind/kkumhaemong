@@ -1,0 +1,20 @@
+{
+  "slug": "eagle-dream",
+  "category": "animals",
+  "categories": [
+    "출세",
+    "새출발"
+  ],
+  "scores": {
+    "재물": 0,
+    "출세": 32,
+    "연애": 3,
+    "태몽": 0,
+    "새출발": 12,
+    "극복": 0,
+    "귀인": 0,
+    "건강": 0
+  },
+  "classifiedAt": "2026-04-15T02:39:49.208Z",
+  "method": "rule-based-v1"
+}

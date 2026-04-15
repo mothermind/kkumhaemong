@@ -1,0 +1,21 @@
+{
+  "slug": "goat-dream",
+  "category": "animals",
+  "categories": [
+    "출세",
+    "재물",
+    "귀인"
+  ],
+  "scores": {
+    "재물": 19,
+    "출세": 23,
+    "연애": 0,
+    "태몽": 7,
+    "새출발": 3,
+    "극복": 6,
+    "귀인": 15,
+    "건강": 0
+  },
+  "classifiedAt": "2026-04-15T02:39:49.226Z",
+  "method": "rule-based-v1"
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "sunny-weather-dream",
+  "category": "weather",
+  "categories": [
+    "새출발",
+    "출세",
+    "재물"
+  ],
+  "scores": {
+    "재물": 13,
+    "출세": 23,
+    "연애": 3,
+    "태몽": 0,
+    "새출발": 37,
+    "극복": 8,
+    "귀인": 0,
+    "건강": 5
+  },
+  "classifiedAt": "2026-04-15T02:39:49.914Z",
+  "method": "rule-based-v1"
+}

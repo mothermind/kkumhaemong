@@ -1,0 +1,21 @@
+{
+  "slug": "new-car-dream",
+  "category": "transportation",
+  "categories": [
+    "출세",
+    "새출발",
+    "귀인"
+  ],
+  "scores": {
+    "재물": 5,
+    "출세": 34,
+    "연애": 0,
+    "태몽": 0,
+    "새출발": 23,
+    "극복": 0,
+    "귀인": 13,
+    "건강": 0
+  },
+  "classifiedAt": "2026-04-15T02:39:49.880Z",
+  "method": "rule-based-v1"
+}

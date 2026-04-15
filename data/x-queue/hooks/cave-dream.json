@@ -1,0 +1,20 @@
+{
+  "slug": "cave-dream",
+  "category": "nature",
+  "categories": [
+    "출세",
+    "재물"
+  ],
+  "scores": {
+    "재물": 38,
+    "출세": 58,
+    "연애": 4,
+    "태몽": 3,
+    "새출발": 11,
+    "극복": 5,
+    "귀인": 0,
+    "건강": 9
+  },
+  "classifiedAt": "2026-04-15T02:39:49.659Z",
+  "method": "rule-based-v1"
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "painting-dream",
+  "category": "actions",
+  "categories": [
+    "출세",
+    "귀인",
+    "새출발"
+  ],
+  "scores": {
+    "재물": 0,
+    "출세": 17,
+    "연애": 3,
+    "태몽": 0,
+    "새출발": 5,
+    "극복": 0,
+    "귀인": 15,
+    "건강": 5
+  },
+  "classifiedAt": "2026-04-15T02:39:49.091Z",
+  "method": "rule-based-v1"
+}

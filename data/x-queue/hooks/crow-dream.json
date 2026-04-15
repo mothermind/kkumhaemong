@@ -1,0 +1,21 @@
+{
+  "slug": "crow-dream",
+  "category": "animals",
+  "categories": [
+    "극복",
+    "건강",
+    "새출발"
+  ],
+  "scores": {
+    "재물": 4,
+    "출세": 2,
+    "연애": 4,
+    "태몽": 0,
+    "새출발": 8,
+    "극복": 11,
+    "귀인": 2,
+    "건강": 11
+  },
+  "classifiedAt": "2026-04-15T02:39:49.185Z",
+  "method": "rule-based-v1"
+}

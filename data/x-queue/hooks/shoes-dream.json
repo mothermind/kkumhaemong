@@ -1,0 +1,21 @@
+{
+  "slug": "shoes-dream",
+  "category": "clothing",
+  "categories": [
+    "출세",
+    "재물",
+    "새출발"
+  ],
+  "scores": {
+    "재물": 26,
+    "출세": 33,
+    "연애": 9,
+    "태몽": 0,
+    "새출발": 18,
+    "극복": 4,
+    "귀인": 12,
+    "건강": 3
+  },
+  "classifiedAt": "2026-04-15T02:39:49.511Z",
+  "method": "rule-based-v1"
+}

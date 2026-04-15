@@ -1,0 +1,21 @@
+{
+  "slug": "hot-weather-dream",
+  "category": "weather",
+  "categories": [
+    "새출발",
+    "연애",
+    "극복"
+  ],
+  "scores": {
+    "재물": 5,
+    "출세": 2,
+    "연애": 9,
+    "태몽": 0,
+    "새출발": 12,
+    "극복": 8,
+    "귀인": 7,
+    "건강": 4
+  },
+  "classifiedAt": "2026-04-15T02:39:49.908Z",
+  "method": "rule-based-v1"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "goldfish-dream",
+  "category": "animals",
+  "categories": [
+    "재물",
+    "새출발"
+  ],
+  "scores": {
+    "재물": 49,
+    "출세": 12,
+    "연애": 4,
+    "태몽": 3,
+    "새출발": 22,
+    "극복": 8,
+    "귀인": 2,
+    "건강": 10
+  },
+  "classifiedAt": "2026-04-15T02:39:49.232Z",
+  "method": "rule-based-v1"
+}

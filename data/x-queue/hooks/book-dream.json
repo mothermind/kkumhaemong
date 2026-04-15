@@ -1,0 +1,20 @@
+{
+  "slug": "book-dream",
+  "category": "objects",
+  "categories": [
+    "출세",
+    "재물"
+  ],
+  "scores": {
+    "재물": 30,
+    "출세": 54,
+    "연애": 3,
+    "태몽": 9,
+    "새출발": 5,
+    "극복": 0,
+    "귀인": 0,
+    "건강": 0
+  },
+  "classifiedAt": "2026-04-15T02:39:49.725Z",
+  "method": "rule-based-v1"
+}

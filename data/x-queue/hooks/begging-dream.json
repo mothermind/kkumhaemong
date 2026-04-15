@@ -1,0 +1,21 @@
+{
+  "slug": "begging-dream",
+  "category": "actions",
+  "categories": [
+    "재물",
+    "건강",
+    "연애"
+  ],
+  "scores": {
+    "재물": 36,
+    "출세": 5,
+    "연애": 12,
+    "태몽": 0,
+    "새출발": 7,
+    "극복": 6,
+    "귀인": 0,
+    "건강": 17
+  },
+  "classifiedAt": "2026-04-15T02:39:49.023Z",
+  "method": "rule-based-v1"
+}

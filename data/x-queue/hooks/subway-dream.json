@@ -1,0 +1,21 @@
+{
+  "slug": "subway-dream",
+  "category": "transportation",
+  "categories": [
+    "새출발",
+    "출세",
+    "재물"
+  ],
+  "scores": {
+    "재물": 10,
+    "출세": 14,
+    "연애": 0,
+    "태몽": 0,
+    "새출발": 25,
+    "극복": 3,
+    "귀인": 0,
+    "건강": 5
+  },
+  "classifiedAt": "2026-04-15T02:39:49.884Z",
+  "method": "rule-based-v1"
+}

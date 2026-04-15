@@ -1,0 +1,20 @@
+{
+  "slug": "ship-dream",
+  "category": "transportation",
+  "categories": [
+    "재물",
+    "출세"
+  ],
+  "scores": {
+    "재물": 13,
+    "출세": 8,
+    "연애": 0,
+    "태몽": 0,
+    "새출발": 0,
+    "극복": 3,
+    "귀인": 0,
+    "건강": 0
+  },
+  "classifiedAt": "2026-04-15T02:39:49.882Z",
+  "method": "rule-based-v1"
+}

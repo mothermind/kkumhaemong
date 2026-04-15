@@ -1,0 +1,21 @@
+{
+  "slug": "penguin-dream",
+  "category": "animals",
+  "categories": [
+    "재물",
+    "귀인",
+    "극복"
+  ],
+  "scores": {
+    "재물": 42,
+    "출세": 16,
+    "연애": 2,
+    "태몽": 0,
+    "새출발": 15,
+    "극복": 17,
+    "귀인": 27,
+    "건강": 0
+  },
+  "classifiedAt": "2026-04-15T02:39:49.273Z",
+  "method": "rule-based-v1"
+}

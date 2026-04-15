@@ -1,0 +1,21 @@
+{
+  "slug": "jewelry-dream",
+  "category": "clothing",
+  "categories": [
+    "태몽",
+    "출세",
+    "귀인"
+  ],
+  "scores": {
+    "재물": 15,
+    "출세": 19,
+    "연애": 16,
+    "태몽": 20,
+    "새출발": 0,
+    "극복": 0,
+    "귀인": 17,
+    "건강": 5
+  },
+  "classifiedAt": "2026-04-15T02:39:49.506Z",
+  "method": "rule-based-v1"
+}

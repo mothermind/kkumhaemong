@@ -1,0 +1,21 @@
+{
+  "slug": "weasel-dream",
+  "category": "animals",
+  "categories": [
+    "건강",
+    "극복",
+    "재물"
+  ],
+  "scores": {
+    "재물": 5,
+    "출세": 0,
+    "연애": 0,
+    "태몽": 0,
+    "새출발": 3,
+    "극복": 6,
+    "귀인": 5,
+    "건강": 7
+  },
+  "classifiedAt": "2026-04-15T02:39:49.321Z",
+  "method": "rule-based-v1"
+}

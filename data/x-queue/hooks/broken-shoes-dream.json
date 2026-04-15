@@ -1,0 +1,21 @@
+{
+  "slug": "broken-shoes-dream",
+  "category": "clothing",
+  "categories": [
+    "건강",
+    "새출발",
+    "재물"
+  ],
+  "scores": {
+    "재물": 4,
+    "출세": 0,
+    "연애": 0,
+    "태몽": 0,
+    "새출발": 5,
+    "극복": 3,
+    "귀인": 4,
+    "건강": 15
+  },
+  "classifiedAt": "2026-04-15T02:39:49.503Z",
+  "method": "rule-based-v1"
+}

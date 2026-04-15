@@ -1,0 +1,20 @@
+{
+  "slug": "seal-dream",
+  "category": "animals",
+  "categories": [
+    "재물",
+    "출세"
+  ],
+  "scores": {
+    "재물": 38,
+    "출세": 31,
+    "연애": 0,
+    "태몽": 6,
+    "새출발": 0,
+    "극복": 3,
+    "귀인": 6,
+    "건강": 0
+  },
+  "classifiedAt": "2026-04-15T02:39:49.292Z",
+  "method": "rule-based-v1"
+}

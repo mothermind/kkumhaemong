@@ -6,7 +6,9 @@
     "dev": "next dev",
     "build": "node scripts/build-search-index.mjs && next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "x:next": "node scripts/queue-next.mjs",
+    "x:mark-posted": "node scripts/mark-posted.mjs"
   },
   "dependencies": {
     "@opentelemetry/api": "^1.9.0",

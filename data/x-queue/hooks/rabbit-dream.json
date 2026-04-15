@@ -1,0 +1,20 @@
+{
+  "slug": "rabbit-dream",
+  "category": "animals",
+  "categories": [
+    "재물",
+    "건강"
+  ],
+  "scores": {
+    "재물": 31,
+    "출세": 4,
+    "연애": 3,
+    "태몽": 0,
+    "새출발": 0,
+    "극복": 0,
+    "귀인": 0,
+    "건강": 13
+  },
+  "classifiedAt": "2026-04-15T02:39:49.281Z",
+  "method": "rule-based-v1"
+}

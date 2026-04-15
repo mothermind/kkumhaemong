@@ -1,0 +1,21 @@
+{
+  "slug": "wind-dream",
+  "category": "weather",
+  "categories": [
+    "새출발",
+    "재물",
+    "귀인"
+  ],
+  "scores": {
+    "재물": 23,
+    "출세": 9,
+    "연애": 7,
+    "태몽": 0,
+    "새출발": 37,
+    "극복": 3,
+    "귀인": 12,
+    "건강": 0
+  },
+  "classifiedAt": "2026-04-15T02:39:49.917Z",
+  "method": "rule-based-v1"
+}

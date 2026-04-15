@@ -1,0 +1,21 @@
+{
+  "slug": "jellyfish-dream",
+  "category": "animals",
+  "categories": [
+    "새출발",
+    "재물",
+    "귀인"
+  ],
+  "scores": {
+    "재물": 10,
+    "출세": 0,
+    "연애": 0,
+    "태몽": 0,
+    "새출발": 22,
+    "극복": 9,
+    "귀인": 10,
+    "건강": 6
+  },
+  "classifiedAt": "2026-04-15T02:39:49.241Z",
+  "method": "rule-based-v1"
+}

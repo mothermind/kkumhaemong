@@ -1,0 +1,21 @@
+{
+  "slug": "flower-field-dream",
+  "category": "nature",
+  "categories": [
+    "연애",
+    "출세",
+    "재물"
+  ],
+  "scores": {
+    "재물": 15,
+    "출세": 19,
+    "연애": 28,
+    "태몽": 6,
+    "새출발": 10,
+    "극복": 3,
+    "귀인": 3,
+    "건강": 9
+  },
+  "classifiedAt": "2026-04-15T02:39:49.663Z",
+  "method": "rule-based-v1"
+}

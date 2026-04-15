@@ -1,0 +1,21 @@
+{
+  "slug": "python-dream",
+  "category": "animals",
+  "categories": [
+    "재물",
+    "귀인",
+    "출세"
+  ],
+  "scores": {
+    "재물": 44,
+    "출세": 17,
+    "연애": 8,
+    "태몽": 14,
+    "새출발": 4,
+    "극복": 8,
+    "귀인": 25,
+    "건강": 6
+  },
+  "classifiedAt": "2026-04-15T02:39:49.280Z",
+  "method": "rule-based-v1"
+}

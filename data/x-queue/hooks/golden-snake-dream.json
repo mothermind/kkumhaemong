@@ -1,0 +1,21 @@
+{
+  "slug": "golden-snake-dream",
+  "category": "animals",
+  "categories": [
+    "재물",
+    "출세",
+    "태몽"
+  ],
+  "scores": {
+    "재물": 51,
+    "출세": 34,
+    "연애": 4,
+    "태몽": 14,
+    "새출발": 12,
+    "극복": 6,
+    "귀인": 0,
+    "건강": 0
+  },
+  "classifiedAt": "2026-04-15T02:39:49.229Z",
+  "method": "rule-based-v1"
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "motorcycle-dream",
+  "category": "transportation",
+  "categories": [
+    "귀인",
+    "연애",
+    "건강"
+  ],
+  "scores": {
+    "재물": 0,
+    "출세": 0,
+    "연애": 6,
+    "태몽": 0,
+    "새출발": 5,
+    "극복": 2,
+    "귀인": 18,
+    "건강": 6
+  },
+  "classifiedAt": "2026-04-15T02:39:49.880Z",
+  "method": "rule-based-v1"
+}

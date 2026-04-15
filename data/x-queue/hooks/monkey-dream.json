@@ -1,0 +1,21 @@
+{
+  "slug": "monkey-dream",
+  "category": "animals",
+  "categories": [
+    "출세",
+    "태몽",
+    "극복"
+  ],
+  "scores": {
+    "재물": 4,
+    "출세": 38,
+    "연애": 0,
+    "태몽": 15,
+    "새출발": 4,
+    "극복": 11,
+    "귀인": 0,
+    "건강": 0
+  },
+  "classifiedAt": "2026-04-15T02:39:49.265Z",
+  "method": "rule-based-v1"
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "deer-dream",
+  "category": "animals",
+  "categories": [
+    "출세",
+    "귀인",
+    "재물"
+  ],
+  "scores": {
+    "재물": 10,
+    "출세": 34,
+    "연애": 6,
+    "태몽": 0,
+    "새출발": 3,
+    "극복": 0,
+    "귀인": 14,
+    "건강": 4
+  },
+  "classifiedAt": "2026-04-15T02:39:49.195Z",
+  "method": "rule-based-v1"
+}

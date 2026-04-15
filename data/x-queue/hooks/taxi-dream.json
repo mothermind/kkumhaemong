@@ -1,0 +1,21 @@
+{
+  "slug": "taxi-dream",
+  "category": "transportation",
+  "categories": [
+    "귀인",
+    "출세",
+    "새출발"
+  ],
+  "scores": {
+    "재물": 0,
+    "출세": 7,
+    "연애": 0,
+    "태몽": 0,
+    "새출발": 5,
+    "극복": 0,
+    "귀인": 17,
+    "건강": 0
+  },
+  "classifiedAt": "2026-04-15T02:39:49.884Z",
+  "method": "rule-based-v1"
+}

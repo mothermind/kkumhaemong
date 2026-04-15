@@ -1,0 +1,21 @@
+{
+  "slug": "new-clothes-dream",
+  "category": "clothing",
+  "categories": [
+    "출세",
+    "재물",
+    "새출발"
+  ],
+  "scores": {
+    "재물": 25,
+    "출세": 32,
+    "연애": 8,
+    "태몽": 3,
+    "새출발": 16,
+    "극복": 0,
+    "귀인": 6,
+    "건강": 0
+  },
+  "classifiedAt": "2026-04-15T02:39:49.509Z",
+  "method": "rule-based-v1"
+}

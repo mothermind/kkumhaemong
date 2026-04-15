@@ -1,0 +1,21 @@
+{
+  "slug": "flowers-dream",
+  "category": "plants",
+  "categories": [
+    "출세",
+    "연애",
+    "재물"
+  ],
+  "scores": {
+    "재물": 15,
+    "출세": 22,
+    "연애": 20,
+    "태몽": 0,
+    "새출발": 0,
+    "극복": 8,
+    "귀인": 3,
+    "건강": 0
+  },
+  "classifiedAt": "2026-04-15T02:39:49.822Z",
+  "method": "rule-based-v1"
+}

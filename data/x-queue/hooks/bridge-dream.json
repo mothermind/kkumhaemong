@@ -1,0 +1,21 @@
+{
+  "slug": "bridge-dream",
+  "category": "places",
+  "categories": [
+    "출세",
+    "새출발",
+    "귀인"
+  ],
+  "scores": {
+    "재물": 5,
+    "출세": 21,
+    "연애": 4,
+    "태몽": 0,
+    "새출발": 10,
+    "극복": 0,
+    "귀인": 9,
+    "건강": 0
+  },
+  "classifiedAt": "2026-04-15T02:39:49.743Z",
+  "method": "rule-based-v1"
+}

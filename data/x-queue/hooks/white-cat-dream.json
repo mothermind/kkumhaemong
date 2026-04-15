@@ -1,0 +1,21 @@
+{
+  "slug": "white-cat-dream",
+  "category": "animals",
+  "categories": [
+    "연애",
+    "새출발",
+    "귀인"
+  ],
+  "scores": {
+    "재물": 0,
+    "출세": 0,
+    "연애": 19,
+    "태몽": 0,
+    "새출발": 19,
+    "극복": 0,
+    "귀인": 6,
+    "건강": 3
+  },
+  "classifiedAt": "2026-04-15T02:39:49.323Z",
+  "method": "rule-based-v1"
+}

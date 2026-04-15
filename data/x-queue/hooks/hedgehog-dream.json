@@ -1,0 +1,20 @@
+{
+  "slug": "hedgehog-dream",
+  "category": "animals",
+  "categories": [
+    "귀인",
+    "건강"
+  ],
+  "scores": {
+    "재물": 0,
+    "출세": 0,
+    "연애": 4,
+    "태몽": 0,
+    "새출발": 6,
+    "극복": 0,
+    "귀인": 30,
+    "건강": 9
+  },
+  "classifiedAt": "2026-04-15T02:39:49.237Z",
+  "method": "rule-based-v1"
+}

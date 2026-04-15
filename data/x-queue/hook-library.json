@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "updatedAt": "2026-04-15",
+  "notes": "Aggressive folk-prophecy voice for X post hooks. Patterns and outcomes combine at post time for combinatorial variety. Keep outcome phrases free of named specifics (no '로또 1등', no '3일 내 5억') and free of fabricated stats/testimonials — this stays inside Google AdSense's get-rich-quick/misrepresentation guardrails.",
+  "brandLine": {
+    "ko": "간밤의 꿈, 그 뜻이 궁금하다면?",
+    "en": "Wondering what your dream means?"
+  },
+  "patterns": [
+    "이 꿈을 꿨다면, {O}.",
+    "이 꿈은 확실한 신호입니다. {O}.",
+    "며칠 안에 알게 됩니다. {O}.",
+    "이 꿈을 꾼 분들 사연이 한둘이 아닙니다. {O}.",
+    "이 꿈을 놓치면 안 됩니다. {O}.",
+    "이 꿈은 조상이 보내는 메시지입니다. {O}.",
+    "이 꿈 하나로 인생이 바뀐 사람이 많습니다. {O}.",
+    "이 꿈은 길몽 중에서도 최상급입니다. {O}.",
+    "이 꿈을 꾼 것 자체가 축복입니다. {O}.",
+    "이 꿈은 절대 우연이 아닙니다. {O}."
+  ],
+  "outcomes": {
+    "재물": [
+      "곧 큰돈이 들어옵니다",
+      "통장이 두둑해집니다",
+      "뜻밖의 재물이 쏟아집니다",
+      "재물운이 폭발합니다"
+    ],
+    "출세": [
+      "승진이 확정됩니다",
+      "오랜 노력이 결실을 맺습니다",
+      "시험에 반드시 붙습니다",
+      "크게 이름을 날립니다"
+    ],
+    "연애": [
+      "운명의 상대가 나타납니다",
+      "짝사랑이 이뤄집니다",
+      "끊어졌던 인연이 다시 돌아옵니다",
+      "평생의 짝을 만납니다"
+    ],
+    "태몽": [
+      "귀한 아이가 찾아옵니다",
+      "가문에 경사가 생깁니다",
+      "태몽이 분명합니다",
+      "자손이 번성합니다"
+    ],
+    "새출발": [
+      "인생이 180도 바뀝니다",
+      "막혔던 모든 길이 열립니다",
+      "지긋지긋한 문제가 싹 사라집니다",
+      "새로운 기회가 쏟아집니다"
+    ],
+    "극복": [
+      "큰 고비가 완전히 끝납니다",
+      "위기가 기회로 뒤집힙니다",
+      "오래된 한이 풀립니다",
+      "액운이 모두 물러갑니다"
+    ],
+    "귀인": [
+      "귀인이 나타납니다",
+      "든든한 조력자가 생깁니다",
+      "끊어진 인연이 회복됩니다",
+      "오랜 오해가 완전히 풀립니다"
+    ],
+    "건강": [
+      "오래된 병이 떨어집니다",
+      "근심이 완전히 사라집니다",
+      "몸과 마음이 가벼워집니다",
+      "평안이 찾아옵니다"
+    ]
+  },
+  "enCategories": {
+    "재물": "wealth",
+    "출세": "career",
+    "연애": "love",
+    "태몽": "fertility",
+    "새출발": "new-beginning",
+    "극복": "breakthrough",
+    "귀인": "helper",
+    "건강": "healing"
+  },
+  "enPatterns": [
+    "If you had this dream, {O}.",
+    "This dream is a clear sign. {O}.",
+    "Within days, you'll know. {O}.",
+    "People who've had this dream aren't few. {O}.",
+    "Don't miss this one. {O}.",
+    "A message from the ancestors. {O}.",
+    "Lives have turned on this single dream. {O}.",
+    "Among all auspicious dreams, this is the strongest. {O}.",
+    "A dream like this is pure blessing. {O}.",
+    "This dream is never a coincidence. {O}."
+  ],
+  "enOutcomes": {
+    "wealth": [
+      "money is on its way",
+      "wealth is about to pour in",
+      "your fortunes are about to flip",
+      "a windfall is coming"
+    ],
+    "career": [
+      "a promotion is sealed",
+      "years of effort are about to pay off",
+      "you're about to pass that test",
+      "your name is about to be known"
+    ],
+    "love": [
+      "the one is about to appear",
+      "a long-lost love returns",
+      "a dormant connection is about to reignite",
+      "your lifelong partner is near"
+    ],
+    "fertility": [
+      "a precious child is coming",
+      "your family is about to celebrate",
+      "this is a birth omen, plain and simple",
+      "your bloodline is about to grow"
+    ],
+    "new-beginning": [
+      "your life is about to flip 180 degrees",
+      "every blocked road is opening",
+      "that nagging problem is about to vanish",
+      "new opportunities are about to pour in"
+    ],
+    "breakthrough": [
+      "your toughest chapter is ending",
+      "crisis is about to flip into opportunity",
+      "an old weight is about to lift",
+      "bad luck is walking out the door"
+    ],
+    "helper": [
+      "a powerful ally is about to appear",
+      "someone with real influence is coming into your life",
+      "a broken bond is about to heal",
+      "an old misunderstanding is about to dissolve"
+    ],
+    "healing": [
+      "an old illness is about to fade",
+      "your worries are about to lift",
+      "body and mind are about to feel lighter",
+      "peace is on its way"
+    ]
+  }
+}

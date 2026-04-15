@@ -1,0 +1,21 @@
+{
+  "slug": "waterfall-dream",
+  "category": "water",
+  "categories": [
+    "새출발",
+    "출세",
+    "재물"
+  ],
+  "scores": {
+    "재물": 15,
+    "출세": 23,
+    "연애": 0,
+    "태몽": 0,
+    "새출발": 37,
+    "극복": 4,
+    "귀인": 0,
+    "건강": 3
+  },
+  "classifiedAt": "2026-04-15T02:39:49.900Z",
+  "method": "rule-based-v1"
+}

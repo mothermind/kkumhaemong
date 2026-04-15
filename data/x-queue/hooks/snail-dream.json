@@ -1,0 +1,20 @@
+{
+  "slug": "snail-dream",
+  "category": "animals",
+  "categories": [
+    "재물",
+    "출세"
+  ],
+  "scores": {
+    "재물": 42,
+    "출세": 15,
+    "연애": 4,
+    "태몽": 0,
+    "새출발": 3,
+    "극복": 0,
+    "귀인": 0,
+    "건강": 3
+  },
+  "classifiedAt": "2026-04-15T02:39:49.298Z",
+  "method": "rule-based-v1"
+}

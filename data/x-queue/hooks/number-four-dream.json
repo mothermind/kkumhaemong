@@ -1,0 +1,21 @@
+{
+  "slug": "number-four-dream",
+  "category": "numbers",
+  "categories": [
+    "건강",
+    "새출발",
+    "재물"
+  ],
+  "scores": {
+    "재물": 10,
+    "출세": 6,
+    "연애": 3,
+    "태몽": 0,
+    "새출발": 13,
+    "극복": 7,
+    "귀인": 9,
+    "건강": 23
+  },
+  "classifiedAt": "2026-04-15T02:39:49.674Z",
+  "method": "rule-based-v1"
+}

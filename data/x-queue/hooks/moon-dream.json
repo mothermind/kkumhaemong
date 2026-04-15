@@ -1,0 +1,21 @@
+{
+  "slug": "moon-dream",
+  "category": "celestial",
+  "categories": [
+    "출세",
+    "재물",
+    "연애"
+  ],
+  "scores": {
+    "재물": 30,
+    "출세": 31,
+    "연애": 25,
+    "태몽": 4,
+    "새출발": 0,
+    "극복": 0,
+    "귀인": 0,
+    "건강": 3
+  },
+  "classifiedAt": "2026-04-15T02:39:49.494Z",
+  "method": "rule-based-v1"
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "clam-dream",
+  "category": "animals",
+  "categories": [
+    "재물",
+    "새출발",
+    "연애"
+  ],
+  "scores": {
+    "재물": 20,
+    "출세": 2,
+    "연애": 8,
+    "태몽": 0,
+    "새출발": 9,
+    "극복": 0,
+    "귀인": 8,
+    "건강": 5
+  },
+  "classifiedAt": "2026-04-15T02:39:49.180Z",
+  "method": "rule-based-v1"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "starfish-dream",
+  "category": "animals",
+  "categories": [
+    "재물",
+    "건강"
+  ],
+  "scores": {
+    "재물": 33,
+    "출세": 5,
+    "연애": 0,
+    "태몽": 0,
+    "새출발": 3,
+    "극복": 5,
+    "귀인": 0,
+    "건강": 30
+  },
+  "classifiedAt": "2026-04-15T02:39:49.308Z",
+  "method": "rule-based-v1"
+}

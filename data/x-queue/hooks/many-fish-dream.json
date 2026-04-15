@@ -1,0 +1,21 @@
+{
+  "slug": "many-fish-dream",
+  "category": "animals",
+  "categories": [
+    "재물",
+    "출세",
+    "새출발"
+  ],
+  "scores": {
+    "재물": 42,
+    "출세": 19,
+    "연애": 0,
+    "태몽": 10,
+    "새출발": 17,
+    "극복": 0,
+    "귀인": 3,
+    "건강": 0
+  },
+  "classifiedAt": "2026-04-15T02:39:49.259Z",
+  "method": "rule-based-v1"
+}

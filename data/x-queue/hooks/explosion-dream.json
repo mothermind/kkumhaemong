@@ -1,0 +1,21 @@
+{
+  "slug": "explosion-dream",
+  "category": "fire",
+  "categories": [
+    "출세",
+    "재물",
+    "새출발"
+  ],
+  "scores": {
+    "재물": 30,
+    "출세": 34,
+    "연애": 0,
+    "태몽": 0,
+    "새출발": 26,
+    "극복": 2,
+    "귀인": 0,
+    "건강": 0
+  },
+  "classifiedAt": "2026-04-15T02:39:49.585Z",
+  "method": "rule-based-v1"
+}

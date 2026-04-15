@@ -1,0 +1,20 @@
+{
+  "slug": "mosquito-dream",
+  "category": "insects",
+  "categories": [
+    "재물",
+    "새출발"
+  ],
+  "scores": {
+    "재물": 24,
+    "출세": 2,
+    "연애": 0,
+    "태몽": 0,
+    "새출발": 8,
+    "극복": 2,
+    "귀인": 3,
+    "건강": 0
+  },
+  "classifiedAt": "2026-04-15T02:39:49.623Z",
+  "method": "rule-based-v1"
+}

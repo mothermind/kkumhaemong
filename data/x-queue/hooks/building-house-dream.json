@@ -1,0 +1,21 @@
+{
+  "slug": "building-house-dream",
+  "category": "actions",
+  "categories": [
+    "연애",
+    "재물",
+    "출세"
+  ],
+  "scores": {
+    "재물": 14,
+    "출세": 7,
+    "연애": 20,
+    "태몽": 4,
+    "새출발": 0,
+    "극복": 6,
+    "귀인": 0,
+    "건강": 5
+  },
+  "classifiedAt": "2026-04-15T02:39:49.036Z",
+  "method": "rule-based-v1"
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "spirit-dream",
+  "category": "spirits",
+  "categories": [
+    "출세",
+    "극복",
+    "재물"
+  ],
+  "scores": {
+    "재물": 10,
+    "출세": 28,
+    "연애": 4,
+    "태몽": 0,
+    "새출발": 4,
+    "극복": 12,
+    "귀인": 10,
+    "건강": 8
+  },
+  "classifiedAt": "2026-04-15T02:39:49.869Z",
+  "method": "rule-based-v1"
+}

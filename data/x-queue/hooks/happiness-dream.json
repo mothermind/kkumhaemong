@@ -1,0 +1,21 @@
+{
+  "slug": "happiness-dream",
+  "category": "emotions",
+  "categories": [
+    "재물",
+    "건강",
+    "연애"
+  ],
+  "scores": {
+    "재물": 10,
+    "출세": 0,
+    "연애": 4,
+    "태몽": 0,
+    "새출발": 0,
+    "극복": 3,
+    "귀인": 0,
+    "건강": 9
+  },
+  "classifiedAt": "2026-04-15T02:39:49.571Z",
+  "method": "rule-based-v1"
+}

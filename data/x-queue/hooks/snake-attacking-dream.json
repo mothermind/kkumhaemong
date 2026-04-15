@@ -1,0 +1,21 @@
+{
+  "slug": "snake-attacking-dream",
+  "category": "animals",
+  "categories": [
+    "재물",
+    "출세",
+    "귀인"
+  ],
+  "scores": {
+    "재물": 20,
+    "출세": 16,
+    "연애": 4,
+    "태몽": 5,
+    "새출발": 3,
+    "극복": 3,
+    "귀인": 11,
+    "건강": 9
+  },
+  "classifiedAt": "2026-04-15T02:39:49.299Z",
+  "method": "rule-based-v1"
+}

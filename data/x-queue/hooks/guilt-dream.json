@@ -1,0 +1,21 @@
+{
+  "slug": "guilt-dream",
+  "category": "emotions",
+  "categories": [
+    "건강",
+    "귀인",
+    "새출발"
+  ],
+  "scores": {
+    "재물": 0,
+    "출세": 0,
+    "연애": 0,
+    "태몽": 0,
+    "새출발": 10,
+    "극복": 3,
+    "귀인": 12,
+    "건강": 14
+  },
+  "classifiedAt": "2026-04-15T02:39:49.571Z",
+  "method": "rule-based-v1"
+}

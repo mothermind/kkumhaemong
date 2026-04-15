@@ -1,0 +1,21 @@
+{
+  "slug": "packing-dream",
+  "category": "actions",
+  "categories": [
+    "새출발",
+    "출세",
+    "극복"
+  ],
+  "scores": {
+    "재물": 0,
+    "출세": 10,
+    "연애": 4,
+    "태몽": 0,
+    "새출발": 22,
+    "극복": 8,
+    "귀인": 0,
+    "건강": 5
+  },
+  "classifiedAt": "2026-04-15T02:39:49.089Z",
+  "method": "rule-based-v1"
+}

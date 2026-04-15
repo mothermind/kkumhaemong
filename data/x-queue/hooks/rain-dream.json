@@ -1,0 +1,20 @@
+{
+  "slug": "rain-dream",
+  "category": "water",
+  "categories": [
+    "출세",
+    "재물"
+  ],
+  "scores": {
+    "재물": 39,
+    "출세": 44,
+    "연애": 0,
+    "태몽": 0,
+    "새출발": 6,
+    "극복": 10,
+    "귀인": 0,
+    "건강": 2
+  },
+  "classifiedAt": "2026-04-15T02:39:49.895Z",
+  "method": "rule-based-v1"
+}

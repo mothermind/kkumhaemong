@@ -1,0 +1,21 @@
+{
+  "slug": "teleporting-dream",
+  "category": "actions",
+  "categories": [
+    "새출발",
+    "재물",
+    "건강"
+  ],
+  "scores": {
+    "재물": 10,
+    "출세": 6,
+    "연애": 4,
+    "태몽": 0,
+    "새출발": 28,
+    "극복": 3,
+    "귀인": 0,
+    "건강": 7
+  },
+  "classifiedAt": "2026-04-15T02:39:49.118Z",
+  "method": "rule-based-v1"
+}

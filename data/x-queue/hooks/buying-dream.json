@@ -1,0 +1,21 @@
+{
+  "slug": "buying-dream",
+  "category": "actions",
+  "categories": [
+    "재물",
+    "출세",
+    "새출발"
+  ],
+  "scores": {
+    "재물": 34,
+    "출세": 34,
+    "연애": 8,
+    "태몽": 0,
+    "새출발": 21,
+    "극복": 3,
+    "귀인": 0,
+    "건강": 6
+  },
+  "classifiedAt": "2026-04-15T02:39:49.038Z",
+  "method": "rule-based-v1"
+}

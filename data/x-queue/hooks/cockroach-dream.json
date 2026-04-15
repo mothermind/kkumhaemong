@@ -1,0 +1,21 @@
+{
+  "slug": "cockroach-dream",
+  "category": "insects",
+  "categories": [
+    "재물",
+    "건강",
+    "출세"
+  ],
+  "scores": {
+    "재물": 35,
+    "출세": 13,
+    "연애": 2,
+    "태몽": 0,
+    "새출발": 6,
+    "극복": 6,
+    "귀인": 12,
+    "건강": 19
+  },
+  "classifiedAt": "2026-04-15T02:39:49.618Z",
+  "method": "rule-based-v1"
+}

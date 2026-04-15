@@ -1,0 +1,21 @@
+{
+  "slug": "anger-dream",
+  "category": "emotions",
+  "categories": [
+    "연애",
+    "건강",
+    "귀인"
+  ],
+  "scores": {
+    "재물": 0,
+    "출세": 3,
+    "연애": 9,
+    "태몽": 0,
+    "새출발": 2,
+    "극복": 3,
+    "귀인": 4,
+    "건강": 7
+  },
+  "classifiedAt": "2026-04-15T02:39:49.565Z",
+  "method": "rule-based-v1"
+}

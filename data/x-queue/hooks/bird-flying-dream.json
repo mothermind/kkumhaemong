@@ -1,0 +1,21 @@
+{
+  "slug": "bird-flying-dream",
+  "category": "animals",
+  "categories": [
+    "새출발",
+    "출세",
+    "재물"
+  ],
+  "scores": {
+    "재물": 14,
+    "출세": 18,
+    "연애": 0,
+    "태몽": 6,
+    "새출발": 22,
+    "극복": 8,
+    "귀인": 8,
+    "건강": 4
+  },
+  "classifiedAt": "2026-04-15T02:39:49.144Z",
+  "method": "rule-based-v1"
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "pig-taemong",
+  "category": "pregnancy",
+  "categories": [
+    "재물",
+    "태몽",
+    "출세"
+  ],
+  "scores": {
+    "재물": 32,
+    "출세": 8,
+    "연애": 4,
+    "태몽": 30,
+    "새출발": 0,
+    "극복": 3,
+    "귀인": 0,
+    "건강": 5
+  },
+  "classifiedAt": "2026-04-15T02:39:49.846Z",
+  "method": "rule-based-v1"
+}

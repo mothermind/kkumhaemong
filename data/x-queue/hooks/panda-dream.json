@@ -1,0 +1,21 @@
+{
+  "slug": "panda-dream",
+  "category": "animals",
+  "categories": [
+    "재물",
+    "태몽",
+    "출세"
+  ],
+  "scores": {
+    "재물": 19,
+    "출세": 11,
+    "연애": 8,
+    "태몽": 15,
+    "새출발": 11,
+    "극복": 0,
+    "귀인": 0,
+    "건강": 8
+  },
+  "classifiedAt": "2026-04-15T02:39:49.271Z",
+  "method": "rule-based-v1"
+}

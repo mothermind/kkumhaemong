@@ -1,0 +1,21 @@
+{
+  "slug": "squid-dream",
+  "category": "animals",
+  "categories": [
+    "재물",
+    "출세",
+    "건강"
+  ],
+  "scores": {
+    "재물": 37,
+    "출세": 25,
+    "연애": 0,
+    "태몽": 0,
+    "새출발": 9,
+    "극복": 3,
+    "귀인": 3,
+    "건강": 10
+  },
+  "classifiedAt": "2026-04-15T02:39:49.306Z",
+  "method": "rule-based-v1"
+}

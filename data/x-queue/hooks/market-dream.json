@@ -1,0 +1,21 @@
+{
+  "slug": "market-dream",
+  "category": "places",
+  "categories": [
+    "재물",
+    "새출발",
+    "출세"
+  ],
+  "scores": {
+    "재물": 44,
+    "출세": 14,
+    "연애": 10,
+    "태몽": 3,
+    "새출발": 21,
+    "극복": 0,
+    "귀인": 3,
+    "건강": 0
+  },
+  "classifiedAt": "2026-04-15T02:39:49.751Z",
+  "method": "rule-based-v1"
+}

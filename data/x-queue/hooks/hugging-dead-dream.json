@@ -1,0 +1,21 @@
+{
+  "slug": "hugging-dead-dream",
+  "category": "actions",
+  "categories": [
+    "재물",
+    "건강",
+    "귀인"
+  ],
+  "scores": {
+    "재물": 25,
+    "출세": 5,
+    "연애": 4,
+    "태몽": 0,
+    "새출발": 5,
+    "극복": 2,
+    "귀인": 8,
+    "건강": 13
+  },
+  "classifiedAt": "2026-04-15T02:39:49.079Z",
+  "method": "rule-based-v1"
+}

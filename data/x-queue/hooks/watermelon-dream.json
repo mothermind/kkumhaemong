@@ -1,0 +1,21 @@
+{
+  "slug": "watermelon-dream",
+  "category": "food",
+  "categories": [
+    "재물",
+    "출세",
+    "귀인"
+  ],
+  "scores": {
+    "재물": 52,
+    "출세": 27,
+    "연애": 0,
+    "태몽": 0,
+    "새출발": 14,
+    "극복": 0,
+    "귀인": 15,
+    "건강": 14
+  },
+  "classifiedAt": "2026-04-15T02:39:49.607Z",
+  "method": "rule-based-v1"
+}

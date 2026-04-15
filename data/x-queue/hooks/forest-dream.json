@@ -1,0 +1,20 @@
+{
+  "slug": "forest-dream",
+  "category": "nature",
+  "categories": [
+    "재물",
+    "출세"
+  ],
+  "scores": {
+    "재물": 52,
+    "출세": 21,
+    "연애": 12,
+    "태몽": 0,
+    "새출발": 3,
+    "극복": 2,
+    "귀인": 5,
+    "건강": 5
+  },
+  "classifiedAt": "2026-04-15T02:39:49.664Z",
+  "method": "rule-based-v1"
+}

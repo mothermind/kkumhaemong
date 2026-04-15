@@ -60,3 +60,5 @@ scripts/firebase-service-account.json
 # Local Claude settings override
 .claude/settings.local.json
 pipeline-status.html
+
+public/x-cards/

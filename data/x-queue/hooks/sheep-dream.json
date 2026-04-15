@@ -1,0 +1,21 @@
+{
+  "slug": "sheep-dream",
+  "category": "animals",
+  "categories": [
+    "재물",
+    "새출발",
+    "귀인"
+  ],
+  "scores": {
+    "재물": 30,
+    "출세": 7,
+    "연애": 0,
+    "태몽": 19,
+    "새출발": 29,
+    "극복": 0,
+    "귀인": 20,
+    "건강": 17
+  },
+  "classifiedAt": "2026-04-15T02:39:49.295Z",
+  "method": "rule-based-v1"
+}

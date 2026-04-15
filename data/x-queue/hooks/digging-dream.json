@@ -1,0 +1,21 @@
+{
+  "slug": "digging-dream",
+  "category": "actions",
+  "categories": [
+    "출세",
+    "재물",
+    "새출발"
+  ],
+  "scores": {
+    "재물": 18,
+    "출세": 28,
+    "연애": 0,
+    "태몽": 0,
+    "새출발": 14,
+    "극복": 7,
+    "귀인": 5,
+    "건강": 3
+  },
+  "classifiedAt": "2026-04-15T02:39:49.053Z",
+  "method": "rule-based-v1"
+}

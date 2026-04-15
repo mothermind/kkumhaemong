@@ -1,0 +1,21 @@
+{
+  "slug": "driving-dream",
+  "category": "actions",
+  "categories": [
+    "출세",
+    "귀인",
+    "새출발"
+  ],
+  "scores": {
+    "재물": 0,
+    "출세": 22,
+    "연애": 7,
+    "태몽": 0,
+    "새출발": 12,
+    "극복": 2,
+    "귀인": 15,
+    "건강": 3
+  },
+  "classifiedAt": "2026-04-15T02:39:49.056Z",
+  "method": "rule-based-v1"
+}

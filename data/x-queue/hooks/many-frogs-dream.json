@@ -1,0 +1,21 @@
+{
+  "slug": "many-frogs-dream",
+  "category": "animals",
+  "categories": [
+    "새출발",
+    "재물",
+    "연애"
+  ],
+  "scores": {
+    "재물": 21,
+    "출세": 7,
+    "연애": 8,
+    "태몽": 0,
+    "새출발": 22,
+    "극복": 6,
+    "귀인": 3,
+    "건강": 0
+  },
+  "classifiedAt": "2026-04-15T02:39:49.260Z",
+  "method": "rule-based-v1"
+}

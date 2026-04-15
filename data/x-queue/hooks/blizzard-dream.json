@@ -1,0 +1,21 @@
+{
+  "slug": "blizzard-dream",
+  "category": "weather",
+  "categories": [
+    "새출발",
+    "극복",
+    "출세"
+  ],
+  "scores": {
+    "재물": 0,
+    "출세": 11,
+    "연애": 0,
+    "태몽": 0,
+    "새출발": 32,
+    "극복": 14,
+    "귀인": 3,
+    "건강": 0
+  },
+  "classifiedAt": "2026-04-15T02:39:49.902Z",
+  "method": "rule-based-v1"
+}

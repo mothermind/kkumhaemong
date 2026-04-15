@@ -1,0 +1,19 @@
+{
+  "slug": "love-dream",
+  "category": "emotions",
+  "categories": [
+    "연애"
+  ],
+  "scores": {
+    "재물": 0,
+    "출세": 12,
+    "연애": 55,
+    "태몽": 0,
+    "새출발": 4,
+    "극복": 3,
+    "귀인": 0,
+    "건강": 0
+  },
+  "classifiedAt": "2026-04-15T02:39:49.573Z",
+  "method": "rule-based-v1"
+}

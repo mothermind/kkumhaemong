@@ -1,0 +1,21 @@
+{
+  "slug": "mole-dream",
+  "category": "animals",
+  "categories": [
+    "건강",
+    "출세",
+    "새출발"
+  ],
+  "scores": {
+    "재물": 0,
+    "출세": 7,
+    "연애": 0,
+    "태몽": 0,
+    "새출발": 4,
+    "극복": 0,
+    "귀인": 3,
+    "건강": 14
+  },
+  "classifiedAt": "2026-04-15T02:39:49.264Z",
+  "method": "rule-based-v1"
+}

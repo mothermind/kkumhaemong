@@ -1,0 +1,21 @@
+{
+  "slug": "buffalo-dream",
+  "category": "animals",
+  "categories": [
+    "재물",
+    "건강",
+    "출세"
+  ],
+  "scores": {
+    "재물": 25,
+    "출세": 11,
+    "연애": 0,
+    "태몽": 0,
+    "새출발": 0,
+    "극복": 3,
+    "귀인": 0,
+    "건강": 21
+  },
+  "classifiedAt": "2026-04-15T02:39:49.152Z",
+  "method": "rule-based-v1"
+}

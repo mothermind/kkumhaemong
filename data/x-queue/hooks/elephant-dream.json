@@ -1,0 +1,21 @@
+{
+  "slug": "elephant-dream",
+  "category": "animals",
+  "categories": [
+    "출세",
+    "귀인",
+    "재물"
+  ],
+  "scores": {
+    "재물": 15,
+    "출세": 31,
+    "연애": 0,
+    "태몽": 0,
+    "새출발": 8,
+    "극복": 0,
+    "귀인": 20,
+    "건강": 0
+  },
+  "classifiedAt": "2026-04-15T02:39:49.211Z",
+  "method": "rule-based-v1"
+}

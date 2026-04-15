@@ -1,0 +1,21 @@
+{
+  "slug": "hamster-dream",
+  "category": "animals",
+  "categories": [
+    "재물",
+    "연애",
+    "태몽"
+  ],
+  "scores": {
+    "재물": 44,
+    "출세": 6,
+    "연애": 22,
+    "태몽": 11,
+    "새출발": 11,
+    "극복": 0,
+    "귀인": 2,
+    "건강": 5
+  },
+  "classifiedAt": "2026-04-15T02:39:49.235Z",
+  "method": "rule-based-v1"
+}

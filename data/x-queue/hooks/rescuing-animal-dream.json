@@ -1,0 +1,21 @@
+{
+  "slug": "rescuing-animal-dream",
+  "category": "actions",
+  "categories": [
+    "재물",
+    "귀인",
+    "출세"
+  ],
+  "scores": {
+    "재물": 30,
+    "출세": 9,
+    "연애": 8,
+    "태몽": 0,
+    "새출발": 9,
+    "극복": 0,
+    "귀인": 26,
+    "건강": 4
+  },
+  "classifiedAt": "2026-04-15T02:39:49.101Z",
+  "method": "rule-based-v1"
+}

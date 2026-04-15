@@ -1,0 +1,21 @@
+{
+  "slug": "dog-greeting-dream",
+  "category": "animals",
+  "categories": [
+    "귀인",
+    "재물",
+    "연애"
+  ],
+  "scores": {
+    "재물": 10,
+    "출세": 0,
+    "연애": 8,
+    "태몽": 0,
+    "새출발": 0,
+    "극복": 0,
+    "귀인": 16,
+    "건강": 4
+  },
+  "classifiedAt": "2026-04-15T02:39:49.201Z",
+  "method": "rule-based-v1"
+}

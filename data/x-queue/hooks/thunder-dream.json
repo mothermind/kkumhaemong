@@ -1,0 +1,21 @@
+{
+  "slug": "thunder-dream",
+  "category": "weather",
+  "categories": [
+    "재물",
+    "출세",
+    "태몽"
+  ],
+  "scores": {
+    "재물": 23,
+    "출세": 17,
+    "연애": 0,
+    "태몽": 9,
+    "새출발": 9,
+    "극복": 5,
+    "귀인": 0,
+    "건강": 3
+  },
+  "classifiedAt": "2026-04-15T02:39:49.915Z",
+  "method": "rule-based-v1"
+}
