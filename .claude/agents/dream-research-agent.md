@@ -3,7 +3,7 @@ name: dream-research-agent
 description: Use proactively when research is needed for a Korean dream interpretation (꿈해몽) symbol. This agent takes a single dream symbol as input, researches traditional Korean folk interpretations across multiple sources, gathers bilingual (Korean/English) interpretation data including variations, cultural context, and SEO keywords, and outputs a structured JSON research file.
 tools: WebSearch, WebFetch, Read, Write
 model: sonnet
-color: purple
+color: pink
 ---
 
 # Purpose

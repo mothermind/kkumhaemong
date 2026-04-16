@@ -104,28 +104,14 @@ def main():
                 print("BLOCKED: Dangerous rm command detected and prevented", file=sys.stderr)
                 sys.exit(2)  # Exit code 2 blocks tool call and shows error to Claude
         
-        # Ensure log directory exists
-        log_dir = Path.cwd() / 'logs'
+        project_root = Path(__file__).resolve().parent.parent.parent
+        log_dir = project_root / 'logs'
         log_dir.mkdir(parents=True, exist_ok=True)
-        log_path = log_dir / 'pre_tool_use.json'
-        
-        # Read existing log data or initialize empty list
-        if log_path.exists():
-            with open(log_path, 'r') as f:
-                try:
-                    log_data = json.load(f)
-                except (json.JSONDecodeError, ValueError):
-                    log_data = []
-        else:
-            log_data = []
-        
-        # Append new data
-        log_data.append(input_data)
-        
-        # Write back to file with formatting
-        with open(log_path, 'w') as f:
-            json.dump(log_data, f, indent=2)
-        
+        log_path = log_dir / 'pre_tool_use.jsonl'
+
+        with open(log_path, 'a') as f:
+            f.write(json.dumps(input_data) + '\n')
+
         sys.exit(0)
         
     except json.JSONDecodeError:

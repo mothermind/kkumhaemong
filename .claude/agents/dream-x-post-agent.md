@@ -3,7 +3,7 @@ name: dream-x-post-agent
 description: Use proactively to prepare a dream interpretation article for manual posting to X. Specialist for rendering 4:5 portrait postcard-style card images from existing hero art, producing aggressive folk-prophecy one-liners (KO + EN) from the hook library, and adding a ready-to-paste entry to the manual post queue. Does NOT post to X — the user uploads cards by hand from the X web UI.
 tools: Read, Write, Edit, Bash, Glob
 model: sonnet
-color: blue
+color: pink
 ---
 
 # Purpose

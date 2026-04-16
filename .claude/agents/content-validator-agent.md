@@ -3,7 +3,7 @@ name: content-validator-agent
 description: Use proactively to proofread and validate bilingual (Korean + English) dream interpretation content JSON files. Specialist for checking prose tone, grammar, schema completeness, and SEO field requirements. Edits files in place and produces an audit report of all changes and flags.
 tools: Read, Write, Glob, Grep, Bash
 model: sonnet
-color: cyan
+color: pink
 ---
 
 # Purpose

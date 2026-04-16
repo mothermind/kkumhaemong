@@ -3,7 +3,7 @@ name: dream-image-agent
 description: Generates culturally appropriate dream imagery (hero, auspicious, inauspicious) for Korean dream interpretation articles. Use proactively when creating or updating dream symbol content. Runs in parallel with dream-research-agent as part of the content pipeline.
 tools: Bash, Read, Write, WebFetch
 model: sonnet
-color: purple
+color: pink
 ---
 
 # Purpose

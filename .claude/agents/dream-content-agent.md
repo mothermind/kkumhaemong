@@ -3,7 +3,7 @@ name: dream-content-agent
 description: Use proactively when a dream symbol's research JSON is ready and you need to generate production-ready bilingual (Korean + English) page content optimized for both Naver and Google SEO. Specialist for transforming research data into complete dream interpretation (꿈해몽) page content.
 tools: Read, Write, Bash
 model: sonnet
-color: purple
+color: pink
 ---
 
 # Purpose

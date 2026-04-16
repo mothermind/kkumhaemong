@@ -3,7 +3,7 @@ name: dream-taxonomy-agent
 description: "Use proactively when you need to research, enumerate, and structure the complete taxonomy of Korean dream interpretation (꿈해몽) symbols. Specialist for building comprehensive bilingual (Korean + English) dream category hierarchies with SEO metadata, outputting structured JSON to data/taxonomy/. Delegate to this agent for any task involving dream symbol enumeration, categorization, slug generation, or search volume tiering."
 tools: WebSearch, WebFetch, Write, Read, Bash
 model: opus
-color: purple
+color: pink
 ---
 
 # Purpose

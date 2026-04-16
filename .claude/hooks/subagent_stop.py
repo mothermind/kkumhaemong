@@ -13,23 +13,13 @@ def main():
     try:
         input_data = json.load(sys.stdin)
 
-        log_dir = Path(os.getcwd()) / "logs"
+        project_root = Path(__file__).resolve().parent.parent.parent
+        log_dir = project_root / "logs"
         log_dir.mkdir(parents=True, exist_ok=True)
-        log_path = log_dir / "subagent_stop.json"
+        log_path = log_dir / "subagent_stop.jsonl"
 
-        if log_path.exists():
-            with open(log_path) as f:
-                try:
-                    log_data = json.load(f)
-                except (json.JSONDecodeError, ValueError):
-                    log_data = []
-        else:
-            log_data = []
-
-        log_data.append(input_data)
-
-        with open(log_path, "w") as f:
-            json.dump(log_data, f, indent=2)
+        with open(log_path, "a") as f:
+            f.write(json.dumps(input_data) + "\n")
 
         sys.exit(0)
 
