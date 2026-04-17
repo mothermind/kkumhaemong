@@ -251,7 +251,7 @@ export function SearchBar({ locale, placeholder, placeholderShort, buttonLabel }
               if (results.length > 0 || noResults) setOpen(true);
             }}
             placeholder={placeholderShort}
-            className="w-full bg-white/10 light:bg-black/8 backdrop-blur-xl border border-white/20 light:border-border rounded-full py-5 pl-14 pr-14 text-text-primary placeholder-white/40 light:placeholder-slate-400 focus:outline-none focus:ring-2 focus:ring-gold/50 focus:border-gold transition-all text-sm md:hidden"
+            className="w-full bg-white/10 light:bg-black/8 backdrop-blur-xl border border-white/20 light:border-border rounded-full py-5 pl-14 pr-14 text-text-primary placeholder-white/40 light:placeholder-slate-400 focus:outline-none focus:ring-2 focus:ring-gold/50 focus:border-gold transition-all text-base md:hidden"
             autoComplete="off"
           />
 
