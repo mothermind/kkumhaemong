@@ -116,7 +116,7 @@ const url =
 // 👉 emoji is fine here — plain text in an X caption, not rendered in an image.
 const postText =
   locale === "ko"
-    ? `오늘 이 꿈을 꿨다면 행운번호를 확인해보세요 👉 kkumhaemong.com/ko/꿈해몽/${koreanSlug}`
+    ? `오늘 이 꿈을 꿨다면 행운번호를 확인해보세요 👉 kkumhaemong.com/ko/${KO_SEGMENT}/${encodeURIComponent(koreanSlug)}`
     : `Had this dream? See today's lucky numbers 👉 kkumhaemong.com/en/dream/${slug}`;
 
 // --- hashtags ---
