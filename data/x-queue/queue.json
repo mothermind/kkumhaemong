@@ -26,7 +26,8 @@
       "createdAt": "2026-04-15T03:51:31.525Z",
       "postedAt": "2026-04-15T05:06:57.060Z",
       "tweetId": null,
-      "groupId": "manual-1776229617061"
+      "groupId": "manual-1776229617061",
+      "postText": "오늘 이 꿈을 꿨다면 행운번호를 확인해보세요 👉 kkumhaemong.com/ko/꿈해몽/bihaenggi-churak-kkum"
     },
     {
       "slug": "becoming-rich-dream",
@@ -54,7 +55,8 @@
       "createdAt": "2026-04-15T03:51:31.562Z",
       "postedAt": "2026-04-15T05:06:57.060Z",
       "tweetId": null,
-      "groupId": "manual-1776229617061"
+      "groupId": "manual-1776229617061",
+      "postText": "오늘 이 꿈을 꿨다면 행운번호를 확인해보세요 👉 kkumhaemong.com/ko/꿈해몽/buja-doeneun-kkum"
     },
     {
       "slug": "acne-dream",
@@ -82,7 +84,8 @@
       "createdAt": "2026-04-15T05:01:41.296Z",
       "postedAt": "2026-04-15T05:08:39.192Z",
       "tweetId": null,
-      "groupId": "manual-1776229719192"
+      "groupId": "manual-1776229719192",
+      "postText": "Had this dream? See today's lucky numbers 👉 kkumhaemong.com/en/dream/acne-dream"
     },
     {
       "slug": "afterlife-dream",
@@ -110,7 +113,64 @@
       "createdAt": "2026-04-15T05:01:41.341Z",
       "postedAt": "2026-04-15T05:08:39.192Z",
       "tweetId": null,
-      "groupId": "manual-1776229719192"
+      "groupId": "manual-1776229719192",
+      "postText": "Had this dream? See today's lucky numbers 👉 kkumhaemong.com/en/dream/afterlife-dream"
+    },
+    {
+      "slug": "apple-dream",
+      "category": "food",
+      "locale": "ko",
+      "kicker": "사과꿈",
+      "setup": "이 꿈은 길몽 중에서도 최상급입니다",
+      "oneLiner": "끊어진 인연이 회복됩니다",
+      "hashtags": [
+        "#꿈해몽",
+        "#사과꿈",
+        "#귀인운"
+      ],
+      "postText": "오늘 이 꿈을 꿨다면 행운번호를 확인해보세요 👉 kkumhaemong.com/ko/꿈해몽/sagwa-kkum",
+      "cardPath": "public/x-cards/apple-dream.jpg",
+      "url": "https://www.kkumhaemong.com/ko/%EA%BF%88%ED%95%B4%EB%AA%BD/sagwa-kkum",
+      "categoryKey": "귀인",
+      "hook": {
+        "patternIndex": 7,
+        "category": "귀인",
+        "outcomeIndex": 2
+      },
+      "status": "pending",
+      "variantSeed": 0,
+      "createdAt": "2026-04-20T03:41:56.044Z",
+      "postedAt": null,
+      "tweetId": null,
+      "groupId": null
+    },
+    {
+      "slug": "apple-dream",
+      "category": "food",
+      "locale": "en",
+      "kicker": "Apple Dream",
+      "setup": "Don't miss this one",
+      "oneLiner": "someone with real influence is coming into your life",
+      "hashtags": [
+        "#DreamMeaning",
+        "#AppleDream",
+        "#KoreanDreams"
+      ],
+      "postText": "Had this dream? See today's lucky numbers 👉 kkumhaemong.com/en/dream/apple-dream",
+      "cardPath": "public/x-cards/apple-dream_en.jpg",
+      "url": "https://www.kkumhaemong.com/en/dream/apple-dream",
+      "categoryKey": "귀인",
+      "hook": {
+        "patternIndex": 4,
+        "category": "귀인",
+        "outcomeIndex": 1
+      },
+      "status": "pending",
+      "variantSeed": 0,
+      "createdAt": "2026-04-20T03:41:56.079Z",
+      "postedAt": null,
+      "tweetId": null,
+      "groupId": null
     }
   ]
 }

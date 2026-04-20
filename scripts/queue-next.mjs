@@ -101,6 +101,14 @@ for (const e of batch) {
 }
 console.log();
 
+console.log(`--- post text (paste into X alongside the card) ---`);
+for (const e of batch) {
+  if (e.postText) {
+    console.log(`  [${e.slug}]  ${e.postText}`);
+  }
+}
+console.log();
+
 console.log(`--- caption (copy below, paste into X) ---`);
 console.log(caption);
 console.log();

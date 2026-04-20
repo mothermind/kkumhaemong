@@ -5,8 +5,13 @@
 //
 // Usage:
 //   node scripts/queue-post.mjs <slug> <category> [locale=ko] [variantSeed=0]
+//   npm run x:queue -- <slug> <category> [locale=ko] [variantSeed=0]
+//
+// For the combined render+queue workflow, use:
+//   npm run x:prepare -- <slug> <category> [variantSeed=0]
 
 import fs from "node:fs";
+import path from "node:path";
 import crypto from "node:crypto";
 
 const [, , slug, category, localeArg = "ko", seedArg = "0"] = process.argv;
@@ -56,22 +61,63 @@ const outcomes = outcomeTable[categoryKey];
 const outcome = outcomes[(s >>> 16) % outcomes.length];
 
 const pattern = patterns[s % patterns.length];
-const setup = pattern.split("{O}")[0].trim().replace(/[.,]\s*$/, ".");
-const payoff = outcome + ".";
+const setup = pattern.split("{O}")[0].trim().replace(/[.,]\s*$/, "");
+// No terminal period on payoff — punchier without it (matches render-x-card.mjs)
+const payoff = outcome;
 
 // --- url ---
 // KO and EN use different slug shapes:
-//   KO: /ko/꿈해몽/{koreanSlug}   — romanized Korean (e.g. "bihaenggi-churak-kkum")
-//   EN: /en/dream/{slug}          — english slug (e.g. "airplane-crash-dream")
+//   KO: /ko/꿈해몽/{koreanSlug}   — romanized Korean slug (e.g. "sagwa-kkum")
+//   EN: /en/dream/{slug}          — english slug (e.g. "apple-dream")
 // The 꿈해몽 segment is percent-encoded because X's URL auto-linkifier ignores
 // CJK characters in paths and won't make the link clickable otherwise.
 // Next.js decodes percent-encoding before route matching, so both forms resolve.
+//
+// koreanSlug priority:
+//   1. Taxonomy file lookup (most authoritative — the routing source of truth)
+//   2. content.seo.koreanSlug
+//   3. Fallback to english slug (should never happen)
 const KO_SEGMENT = encodeURIComponent("꿈해몽"); // %EA%BF%88%ED%95%B4%EB%AA%BD
-const koreanSlug = content.seo?.koreanSlug || content.koreanSlug || slug;
+
+function lookupKoreanSlugFromTaxonomy(slugToFind, cat) {
+  // Try the category taxonomy file first, then scan all taxonomy files.
+  const taxonomyDir = path.resolve("data/taxonomy");
+  const candidates = [
+    path.join(taxonomyDir, `${cat}.json`),
+    ...fs.readdirSync(taxonomyDir)
+      .filter((f) => f.endsWith(".json") && f !== `${cat}.json`)
+      .map((f) => path.join(taxonomyDir, f)),
+  ];
+  for (const tfile of candidates) {
+    try {
+      const data = JSON.parse(fs.readFileSync(tfile, "utf8"));
+      const symbols = data.symbols || [];
+      const entry = symbols.find((e) => e.slug === slugToFind);
+      if (entry?.koreanSlug) return entry.koreanSlug;
+    } catch {
+      // skip unreadable files
+    }
+  }
+  return null;
+}
+
+const koreanSlug =
+  lookupKoreanSlugFromTaxonomy(slug, category) ||
+  content.seo?.koreanSlug ||
+  content.koreanSlug ||
+  slug;
 const url =
   locale === "ko"
     ? `https://www.kkumhaemong.com/ko/${KO_SEGMENT}/${koreanSlug}`
     : `https://www.kkumhaemong.com/en/dream/${slug}`;
+
+// --- postText (X caption copy) ---
+// CTA + link that moves OFF the card and INTO the X post caption.
+// 👉 emoji is fine here — plain text in an X caption, not rendered in an image.
+const postText =
+  locale === "ko"
+    ? `오늘 이 꿈을 꿨다면 행운번호를 확인해보세요 👉 kkumhaemong.com/ko/꿈해몽/${koreanSlug}`
+    : `Had this dream? See today's lucky numbers 👉 kkumhaemong.com/en/dream/${slug}`;
 
 // --- hashtags ---
 const HASHTAG_CAT_KO = {
@@ -98,13 +144,12 @@ const hashtags =
     ? ["#꿈해몽", hashtagDream, HASHTAG_CAT_KO[catKo] || "#오늘의운세"]
     : ["#DreamMeaning", hashtagDream, "#KoreanDreams"];
 
-// --- assemble single-post text (used when posting one entry at a time) ---
-const singleText =
-  locale === "ko"
-    ? `${setup}\n${payoff}\n\n${url}\n${hashtags.join(" ")}`
-    : `${setup}\n${payoff}\n\n${url}\n${hashtags.join(" ")}`;
-
 // --- queue entry ---
+// Note: no `text` field — queue-next.mjs is the single source of truth for caption
+// assembly (it injects the brand line, handles paired-post merging, etc.).
+// Storing a pre-assembled `text` here was causing silent divergence between what
+// was stored and what was actually printed. Structured fields are the source of truth.
+// `postText` is the CTA + link line that Ayden pastes directly into X alongside the card.
 const entry = {
   slug,
   category,
@@ -112,8 +157,8 @@ const entry = {
   kicker,
   setup,
   oneLiner: payoff,
-  text: singleText,
   hashtags,
+  postText,
   cardPath:
     locale === "en"
       ? `public/x-cards/${slug}_en.jpg`

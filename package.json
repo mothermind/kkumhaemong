@@ -7,8 +7,11 @@
     "build": "node scripts/build-search-index.mjs && next build",
     "start": "next start",
     "lint": "eslint",
+    "x:render": "node scripts/render-x-card.mjs",
+    "x:queue": "node scripts/queue-post.mjs",
     "x:next": "node scripts/queue-next.mjs",
-    "x:mark-posted": "node scripts/mark-posted.mjs"
+    "x:mark-posted": "node scripts/mark-posted.mjs",
+    "x:prepare": "npm run x:render -- $1 $2 $3 && npm run x:render -- $1 $2 $3 en && npm run x:queue -- $1 $2 ko $3 && npm run x:queue -- $1 $2 en $3"
   },
   "dependencies": {
     "@opentelemetry/api": "^1.9.0",
