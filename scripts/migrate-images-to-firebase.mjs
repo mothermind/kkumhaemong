@@ -28,6 +28,7 @@ const SERVICE_ACCOUNT_PATH = join(__dirname, "firebase-service-account.json");
 const PUBLIC_BASE_URL = `https://storage.googleapis.com/${BUCKET_NAME}`;
 
 const DRY_RUN = process.argv.includes("--dry-run");
+const FORCE = process.argv.includes("--force");
 const SINGLE_SLUG = process.argv.includes("--slug")
   ? process.argv[process.argv.indexOf("--slug") + 1]
   : null;
@@ -87,10 +88,14 @@ async function processSlug(slug) {
 
   for (const name of IMAGE_NAMES) {
     const pngPath = join(slugDir, `${name}.png`);
+    const nativeWebpPath = join(slugDir, `${name}.webp`);
     const storagePath = `images/dreams/${slug}/${name}.webp`;
 
-    if (!existsSync(pngPath)) {
-      console.log(`  ⚠️  Missing: ${name}.png — skipping`);
+    const hasPng = existsSync(pngPath);
+    const hasNativeWebp = existsSync(nativeWebpPath);
+
+    if (!hasPng && !hasNativeWebp) {
+      console.log(`  ⚠️  Missing: ${name}.png / ${name}.webp — skipping`);
       continue;
     }
 
@@ -98,18 +103,34 @@ async function processSlug(slug) {
       // Check if already in bucket
       const file = bucket.file(storagePath);
       const [exists] = await file.exists();
-      if (exists) {
+      if (exists && !FORCE) {
         console.log(`  ✓ Already exists: ${storagePath}`);
         skipped++;
         continue;
       }
 
-      // Convert PNG → WebP
-      const webpPath = await convertToWebP(pngPath);
+      let uploadPath;
+      let label;
+
+      if (hasPng) {
+        // Convert PNG → WebP then upload
+        uploadPath = await convertToWebP(pngPath);
+        const originalSize = (await stat(pngPath)).size;
+        const webpSize = (await stat(uploadPath)).size;
+        const savings = (((originalSize - webpSize) / originalSize) * 100).toFixed(1);
+        label = `${name}.png → ${name}.webp (${(originalSize / 1024).toFixed(0)}KB → ${(webpSize / 1024).toFixed(0)}KB, -${savings}%)`;
+      } else {
+        // Re-encode native WebP through sharp to standardize quality/size
+        const originalSize = (await stat(nativeWebpPath)).size;
+        uploadPath = await convertToWebP(nativeWebpPath);
+        const webpSize = (await stat(uploadPath)).size;
+        const savings = (((originalSize - webpSize) / originalSize) * 100).toFixed(1);
+        label = `${name}.webp → re-encoded WebP (${(originalSize / 1024).toFixed(0)}KB → ${(webpSize / 1024).toFixed(0)}KB, -${savings}%)`;
+      }
 
       // Upload
       if (!DRY_RUN) {
-        const [uploadedFile] = await bucket.upload(webpPath, {
+        const [uploadedFile] = await bucket.upload(uploadPath, {
           destination: storagePath,
           metadata: {
             contentType: "image/webp",
@@ -119,12 +140,7 @@ async function processSlug(slug) {
         await uploadedFile.makePublic();
       }
 
-      const originalSize = (await stat(pngPath)).size;
-      const webpSize = (await stat(webpPath)).size;
-      const savings = (((originalSize - webpSize) / originalSize) * 100).toFixed(1);
-      console.log(
-        `  ✅ ${name}.png → ${name}.webp (${(originalSize / 1024).toFixed(0)}KB → ${(webpSize / 1024).toFixed(0)}KB, -${savings}%)`
-      );
+      console.log(`  ✅ ${label}`);
       uploaded++;
     } catch (err) {
       console.error(`  ❌ Failed ${name}: ${err.message}`);
@@ -196,6 +212,7 @@ console.log(`🚀 Firebase Storage Image Migration`);
 console.log(`   Bucket: ${BUCKET_NAME}`);
 console.log(`   Quality: WebP ${WEBP_QUALITY}`);
 if (DRY_RUN) console.log(`   Mode: DRY RUN (no uploads)`);
+if (FORCE) console.log(`   Mode: FORCE (overwrite existing)`);
 if (SINGLE_SLUG) console.log(`   Slug: ${SINGLE_SLUG} only`);
 console.log("");
 
