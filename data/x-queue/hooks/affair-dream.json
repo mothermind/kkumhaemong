@@ -16,5 +16,14 @@
     "건강": 0
   },
   "classifiedAt": "2026-04-15T02:39:49.628Z",
-  "method": "rule-based-v1"
+  "method": "rule-based-v1",
+  "canonicalCategory": "출세",
+  "canonicalFramingNote": "Reverse-dream (역몽): partner cheats in dream → honor/reputation rises in reality. Use 출세 outcome '크게 이름을 날립니다' rather than 연애 framing.",
+  "outcomeOverride": {
+    "ko": {
+      "출세": 3
+    }
+  },
+  "reviewedBy": "kkumhaemong-card-validator-agent",
+  "reviewedAt": "2026-04-22T00:00:00.000Z"
 }

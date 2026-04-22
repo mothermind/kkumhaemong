@@ -17,5 +17,12 @@
     "건강": 5
   },
   "classifiedAt": "2026-04-15T02:39:49.301Z",
-  "method": "rule-based-v1"
+  "method": "rule-based-v1",
+  "outcomeOverride": {
+    "en": {
+      "wealth": 3
+    }
+  },
+  "reviewedBy": "kkumhaemong-card-validator-agent",
+  "reviewedAt": "2026-04-22T00:00:00.000Z"
 }

@@ -55,6 +55,62 @@
       "postedAt": "2026-04-20T13:39:30.946Z",
       "tweetId": "2046222227184791804",
       "groupId": "tweet-2046222227184791804"
+    },
+    {
+      "slug": "affair-dream",
+      "category": "marriage",
+      "locale": "ko",
+      "kicker": "바람피우는 꿈",
+      "setup": "이 꿈은 길몽 중에서도 최상급입니다",
+      "oneLiner": "크게 이름을 날립니다",
+      "hashtags": [
+        "#꿈해몽",
+        "#바람피우는꿈",
+        "#출세운"
+      ],
+      "postText": "오늘 이 꿈을 꿨다면 행운번호를 확인해보세요 👉 kkumhaemong.com/ko/%EA%BF%88%ED%95%B4%EB%AA%BD/baram-piuneun-kkum",
+      "cardPath": "public/x-cards/posted/affair-dream.jpg",
+      "url": "https://www.kkumhaemong.com/ko/%EA%BF%88%ED%95%B4%EB%AA%BD/baram-piuneun-kkum",
+      "categoryKey": "출세",
+      "hook": {
+        "patternIndex": 7,
+        "category": "출세",
+        "outcomeIndex": 3
+      },
+      "status": "posted",
+      "variantSeed": 0,
+      "createdAt": "2026-04-22T03:03:56.768Z",
+      "postedAt": "2026-04-22T03:06:10.152Z",
+      "tweetId": "2046787616352374929",
+      "groupId": "tweet-2046787616352374929"
+    },
+    {
+      "slug": "snake-dream",
+      "category": "animals",
+      "locale": "en",
+      "kicker": "Snake Dream",
+      "setup": "Among all auspicious dreams, this is the strongest",
+      "oneLiner": "a windfall is coming",
+      "hashtags": [
+        "#DreamMeaning",
+        "#SnakeDream",
+        "#KoreanDreams"
+      ],
+      "postText": "Had this dream? See today's lucky numbers 👉 kkumhaemong.com/en/dream/snake-dream",
+      "cardPath": "public/x-cards/posted/snake-dream_en.jpg",
+      "url": "https://www.kkumhaemong.com/en/dream/snake-dream",
+      "categoryKey": "재물",
+      "hook": {
+        "patternIndex": 7,
+        "category": "재물",
+        "outcomeIndex": 2
+      },
+      "status": "posted",
+      "variantSeed": 0,
+      "createdAt": "2026-04-22T03:04:02.394Z",
+      "postedAt": "2026-04-22T03:07:11.975Z",
+      "tweetId": "2046787875816259980",
+      "groupId": "tweet-2046787875816259980"
     }
   ]
 }
