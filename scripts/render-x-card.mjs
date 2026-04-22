@@ -107,11 +107,14 @@ function deriveTitleEn(englishSlug) {
 const cardTitle = locale === "ko" ? deriveTitleKo(content.ko.title) : deriveTitleEn(slug);
 
 // --- deterministic hook pick ---
+// Seed excludes locale so KO and EN pick the SAME category for any given slug,
+// preserving cross-language semantic alignment. Outcome phrase + pattern still
+// vary per locale via the outcomes/enOutcomes + pattern lookups below.
 function seed32(str) {
   const buf = crypto.createHash("md5").update(str).digest();
   return buf.readUInt32BE(0);
 }
-const s = seed32(`${slug}${locale}${variantSeed}`);
+const s = seed32(`${slug}${variantSeed}`);
 
 const patterns = locale === "ko" ? library.patterns : library.enPatterns;
 const cats = classified.categories;
