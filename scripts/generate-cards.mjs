@@ -234,6 +234,44 @@ for (const c of candidates) {
     console.error(`  queue FAILED for ${slug} [${LOCALE}]`);
     failLog.push({ slug, locale: LOCALE, stage: "queue", error: String(err.message || err) });
     failed++;
+    console.log();
+    continue;
+  }
+
+  // Step 3: fast-gate validation — marks blocked cards, never stops generation
+  const validateCmd = `node ${path.join(PROJECT_ROOT, "scripts/validate-card.mjs")} --slug ${slug} --locale ${LOCALE}`;
+  try {
+    execSync(validateCmd, { cwd: PROJECT_ROOT, stdio: "inherit" });
+    console.log(`  validation: ok/warn — card ready for posting`);
+  } catch {
+    // Exit code 1 = block severity — mark the queue entry
+    console.warn(`  validation: BLOCK — marking card as blocked in queue`);
+    const latestQueue = JSON.parse(fs.readFileSync(QUEUE_PATH, "utf8"));
+    const entryIdx = latestQueue.entries.findIndex(
+      (e) => e.slug === slug && e.locale === LOCALE && e.status === "pending"
+    );
+    if (entryIdx >= 0) {
+      latestQueue.entries[entryIdx].validationStatus = "blocked";
+      // Find the most recent validation report for this card
+      const validationDir = path.join(PROJECT_ROOT, "data/x-queue/validation");
+      let latestReport = null;
+      if (fs.existsSync(validationDir)) {
+        const reports = fs.readdirSync(validationDir)
+          .filter((f) => f.startsWith(`${slug}-${LOCALE}-script-`) && f.endsWith(".json"))
+          .sort()
+          .reverse();
+        if (reports.length > 0) {
+          latestReport = path.join("data/x-queue/validation", reports[0]);
+        }
+      }
+      if (latestReport) {
+        latestQueue.entries[entryIdx].validationReport = latestReport;
+      }
+      const tmp = QUEUE_PATH + ".tmp";
+      fs.writeFileSync(tmp, JSON.stringify(latestQueue, null, 2) + "\n");
+      fs.renameSync(tmp, QUEUE_PATH);
+      console.warn(`  queue entry marked validationStatus=blocked`);
+    }
   }
   console.log();
 }

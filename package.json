@@ -14,7 +14,9 @@
     "x:prepare": "npm run x:render -- $1 $2 $3 && npm run x:render -- $1 $2 $3 en && npm run x:queue -- $1 $2 ko $3 && npm run x:queue -- $1 $2 en $3",
     "x:gen": "node scripts/generate-cards.mjs",
     "x:status": "node scripts/x-status.mjs",
-    "x:post": "node scripts/post-to-x.mjs"
+    "x:post": "node scripts/post-to-x.mjs",
+    "x:validate": "node scripts/validate-card.mjs --all-pending",
+    "x:audit": "node scripts/audit-card.mjs"
   },
   "dependencies": {
     "@opentelemetry/api": "^1.9.0",

@@ -16,6 +16,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
+import { execSync } from "node:child_process";
 // Load .env manually (no dotenv dep in prod deps — parse it ourselves)
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const PROJECT_ROOT = path.resolve(__dirname, "..");
@@ -56,6 +57,37 @@ if (!fs.existsSync(QUEUE_PATH)) {
   process.exit(1);
 }
 
+// --- validation helpers ---
+const VALIDATION_DIR = path.join(PROJECT_ROOT, "data/x-queue/validation");
+const VALIDATE_SCRIPT = path.join(PROJECT_ROOT, "scripts/validate-card.mjs");
+
+function findLatestValidationReport(slug, locale) {
+  if (!fs.existsSync(VALIDATION_DIR)) return null;
+  const reports = fs.readdirSync(VALIDATION_DIR)
+    .filter((f) => f.startsWith(`${slug}-${locale}-script-`) && f.endsWith(".json"))
+    .sort()
+    .reverse();
+  if (reports.length === 0) return null;
+  try {
+    return JSON.parse(fs.readFileSync(path.join(VALIDATION_DIR, reports[0]), "utf8"));
+  } catch {
+    return null;
+  }
+}
+
+// Run validation inline; returns the report object or null on fatal error.
+function runValidationInline(slug, locale) {
+  try {
+    execSync(
+      `node ${VALIDATE_SCRIPT} --slug ${slug} --locale ${locale}`,
+      { cwd: PROJECT_ROOT, stdio: "inherit" }
+    );
+  } catch {
+    // exit code 1 = block — continue and read the report
+  }
+  return findLatestValidationReport(slug, locale);
+}
+
 const queue = JSON.parse(fs.readFileSync(QUEUE_PATH, "utf8"));
 const candidates = queue.entries
   .filter((e) => e.status === "pending")
@@ -92,6 +124,7 @@ if (LIVE) {
 // --- post ---
 let postedCount = 0;
 let errorCount = 0;
+let skippedBlocked = 0;
 
 const POSTED_DIR = path.join(PROJECT_ROOT, "public/x-cards/posted");
 
@@ -117,6 +150,41 @@ for (let i = 0; i < candidates.length; i++) {
   console.log(`[${i + 1}/${candidates.length}] ${slug} (${locale})`);
   console.log(`  card:     ${cardPath}`);
   console.log(`  postText: ${postText}`);
+
+  // --- validation gate ---
+  // Check if the queue entry is already marked blocked from generate-cards
+  if (entry.validationStatus === "blocked") {
+    const reportRef = entry.validationReport || "see data/x-queue/validation/";
+    console.warn(`  SKIP: card marked validationStatus=blocked — report: ${reportRef}`);
+    skippedBlocked++;
+    console.log();
+    continue;
+  }
+
+  // Find latest validation report or run inline if none exists
+  let report = findLatestValidationReport(slug, locale);
+  if (!report) {
+    console.log("  no validation report found — running inline validation...");
+    report = runValidationInline(slug, locale);
+  }
+
+  if (report) {
+    if (report.severity === "block") {
+      console.warn(`  SKIP: validation severity=block — ${[...report.checks.design.errors, ...report.checks.content.errors, ...report.checks.pipeline.errors].join("; ")}`);
+      skippedBlocked++;
+      console.log();
+      continue;
+    }
+    if (report.severity === "warn") {
+      console.warn(`  WARN: validation has warnings — proceeding to post`);
+      const allWarnings = [...report.checks.design.warnings, ...report.checks.content.warnings, ...report.checks.pipeline.warnings];
+      for (const w of allWarnings) {
+        console.warn(`    - ${w}`);
+      }
+    }
+  } else {
+    console.warn("  WARN: could not run validation — proceeding without report");
+  }
 
   if (!LIVE) {
     console.log("  (dry-run — no API call)\n");
@@ -207,6 +275,9 @@ for (let i = 0; i < candidates.length; i++) {
 const TWEET_COST = 0.01;
 console.log(`--- summary ---`);
 console.log(`Posted ${postedCount} tweet(s).${postedCount > 0 ? ` API cost: ~$${(postedCount * TWEET_COST).toFixed(2)} (${postedCount} × $${TWEET_COST} tweet create)` : ""}`);
+if (skippedBlocked > 0) {
+  console.log(`Blocked by validation: ${skippedBlocked} (fix issues then re-run x:validate)`);
+}
 if (errorCount > 0) {
   console.log(`Errors: ${errorCount} (entries kept as pending — retry when ready)`);
 }

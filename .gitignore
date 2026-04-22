@@ -62,3 +62,7 @@ scripts/firebase-service-account.json
 pipeline-status.html
 
 public/x-cards/
+
+# X card pipeline runtime artifacts — regenerable, not committed
+data/x-queue/validation/*.json
+data/x-queue/audits/*.json
