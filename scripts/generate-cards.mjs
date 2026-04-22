@@ -47,7 +47,14 @@ const queue = fs.existsSync(QUEUE_PATH)
   ? JSON.parse(fs.readFileSync(QUEUE_PATH, "utf8"))
   : { entries: [] };
 
-const inQueue = new Set(queue.entries.map((e) => `${e.slug}::${e.locale}`));
+const postedSlugs = new Set(
+  queue.entries.filter((e) => e.status === "posted").map((e) => e.slug)
+);
+const inQueueSameLocale = new Set(
+  queue.entries
+    .filter((e) => e.status !== "posted")
+    .map((e) => `${e.slug}::${e.locale}`)
+);
 
 // --- load hook corpus — these are the candidate slugs ---
 const HOOKS_DIR = path.join(PROJECT_ROOT, "data/x-queue/hooks");
@@ -107,8 +114,13 @@ for (const slug of slugsToProcess) {
     continue;
   }
 
-  // Already in queue check
-  if (inQueue.has(`${slug}::${LOCALE}`)) {
+  // Already in queue check — posted slugs are gated cross-locale (one dream = one post);
+  // pending entries are locale-scoped (a pending KO doesn't block an EN in the same run).
+  if (postedSlugs.has(slug)) {
+    skipped.queued++;
+    continue;
+  }
+  if (inQueueSameLocale.has(`${slug}::${LOCALE}`)) {
     skipped.queued++;
     continue;
   }

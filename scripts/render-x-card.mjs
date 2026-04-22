@@ -224,10 +224,14 @@ for (const candidateFont of [80, 72, 64]) {
 const TITLE_FONT = titleFontSize;
 
 // --- Move 2: gold rule dimensions ---
-// Rule width: full estimated title pixel width (same estimator as auto-shrink).
+// Rule width: space-aware estimated title pixel width.
+// Space characters are weighted at 0.30× — CJK/Latin glyphs occupy their full
+// TITLE_CHAR_W ratio, but inter-word spaces are much narrower.
 // Measured at the final font size post-shrink, left-aligned with the title.
-const estimatedTitlePx = cardTitle.length * TITLE_FONT * TITLE_CHAR_W;
-const RULE_W = Math.round(estimatedTitlePx);
+const nonSpaceChars = cardTitle.replace(/\s+/g, "").length;
+const spaceCount = cardTitle.length - nonSpaceChars;
+const SPACE_W = 0.30;
+const RULE_W = Math.round((nonSpaceChars * TITLE_CHAR_W + spaceCount * SPACE_W) * TITLE_FONT);
 
 // --- main-kicker auto-shrink ladder: 140 → 120 → 100 → 84px ---
 const MAIN_KICKER_CHAR_W = locale === "ko" ? 0.95 : 0.60;
