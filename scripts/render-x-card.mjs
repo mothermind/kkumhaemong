@@ -118,11 +118,22 @@ const s = seed32(`${slug}${variantSeed}`);
 
 const patterns = locale === "ko" ? library.patterns : library.enPatterns;
 const cats = classified.categories;
-const catKo = cats[(s >>> 8) % cats.length];
+// canonicalCategory override: if hooks.json has a reviewedBy canonicalCategory, honour it.
+// It must be a valid KO category key present in library.outcomes.
+const catKo = classified.canonicalCategory && library.outcomes[classified.canonicalCategory]
+  ? classified.canonicalCategory
+  : cats[(s >>> 8) % cats.length];
 const categoryKey = locale === "ko" ? catKo : library.enCategories[catKo];
 const outcomeTable = locale === "ko" ? library.outcomes : library.enOutcomes;
 const outcomes = outcomeTable[categoryKey];
-const outcome = outcomes[(s >>> 16) % outcomes.length];
+// outcomeOverride: hooks.json may pin a specific index for a locale+category pair.
+// e.g. { "en": { "wealth": 3 } } forces index 3 in the EN wealth pool.
+const outcomeOverride = classified.outcomeOverride;
+const pinnedIndex = outcomeOverride?.[locale]?.[categoryKey];
+const outcomeIndex = (pinnedIndex !== undefined && pinnedIndex >= 0 && pinnedIndex < outcomes.length)
+  ? pinnedIndex
+  : (s >>> 16) % outcomes.length;
+const outcome = outcomes[outcomeIndex];
 
 const pattern = patterns[s % patterns.length];
 const subKicker = pattern.split("{O}")[0].trim().replace(/[.,]\s*$/, "");

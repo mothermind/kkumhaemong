@@ -46,8 +46,8 @@ const CARDS_POSTED_DIR = path.join(PROJECT_ROOT, "public/x-cards/posted");
 const VALIDATION_DIR = path.join(PROJECT_ROOT, "data/x-queue/validation");
 
 // --- constants ---
-const EXPECTED_WIDTH = 960;
-const EXPECTED_HEIGHT = 1200;
+const EXPECTED_WIDTH = 1080;
+const EXPECTED_HEIGHT = 1350;
 const MIN_FILE_SIZE = 50 * 1024;   // 50 KB
 const MAX_FILE_SIZE = 2 * 1024 * 1024; // 2 MB
 const FONT_WARN_PX = 84;
