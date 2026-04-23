@@ -17,5 +17,9 @@
     "건강": 9
   },
   "classifiedAt": "2026-04-15T02:39:49.870Z",
-  "method": "rule-based-v1"
+  "method": "rule-based-v1",
+  "canonicalCategory": "출세",
+  "canonicalFramingNote": "비행기 꿈의 정의적 의미는 비상(飛上) — 출세·신분상승·합격·승진이며, 이는 hooks.json 최고점(21)과 content 섹션 배치 모두에서 확인된다. 건강(9점)은 secondary에 불과하다.",
+  "reviewedBy": "kkumhaemong-card-validator-agent",
+  "reviewedAt": "2026-04-23T00:00:00Z"
 }

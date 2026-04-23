@@ -32,6 +32,10 @@ const CATEGORY_FILTER = getArg("--category");
 const SLUG_OVERRIDE = getArg("--slug");
 const TIER_FILTER = getArg("--tier");
 const DRY_RUN = hasFlag("--dry-run");
+// --regen: when combined with --slug, bypass the already-in-queue check so a pending
+// entry is replaced (e.g. after a canonicalCategory override is applied to hooks.json).
+// Has no effect without --slug (would silently skip posted entries as usual).
+const REGEN = hasFlag("--regen");
 
 if (!["ko", "en"].includes(LOCALE)) {
   console.error(`invalid locale: ${LOCALE} (must be ko or en)`);
@@ -116,11 +120,14 @@ for (const slug of slugsToProcess) {
 
   // Already in queue check — posted slugs are gated cross-locale (one dream = one post);
   // pending entries are locale-scoped (a pending KO doesn't block an EN in the same run).
+  // --regen bypasses the pending check (not the posted check) when a --slug override is given,
+  // so a canonicalCategory change in hooks.json can be applied to an already-queued entry.
   if (postedSlugs.has(slug)) {
     skipped.queued++;
     continue;
   }
-  if (inQueueSameLocale.has(`${slug}::${LOCALE}`)) {
+  const isRegenTarget = REGEN && SLUG_OVERRIDE === slug;
+  if (!isRegenTarget && inQueueSameLocale.has(`${slug}::${LOCALE}`)) {
     skipped.queued++;
     continue;
   }

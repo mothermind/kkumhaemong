@@ -111,6 +111,62 @@
       "postedAt": "2026-04-22T03:07:11.975Z",
       "tweetId": "2046787875816259980",
       "groupId": "tweet-2046787875816259980"
+    },
+    {
+      "slug": "airplane-dream",
+      "category": "transportation",
+      "locale": "ko",
+      "kicker": "비행기 꿈",
+      "setup": "이 꿈을 놓치면 안 됩니다",
+      "oneLiner": "시험에 반드시 붙습니다",
+      "hashtags": [
+        "#꿈해몽",
+        "#비행기꿈",
+        "#출세운"
+      ],
+      "postText": "오늘 이 꿈을 꿨다면 행운번호를 확인해보세요 👉 kkumhaemong.com/ko/%EA%BF%88%ED%95%B4%EB%AA%BD/bihaenggi-kkum",
+      "cardPath": "public/x-cards/posted/airplane-dream.jpg",
+      "url": "https://www.kkumhaemong.com/ko/%EA%BF%88%ED%95%B4%EB%AA%BD/bihaenggi-kkum",
+      "categoryKey": "출세",
+      "hook": {
+        "patternIndex": 4,
+        "category": "출세",
+        "outcomeIndex": 2
+      },
+      "status": "posted",
+      "variantSeed": 0,
+      "createdAt": "2026-04-23T01:04:15.803Z",
+      "postedAt": "2026-04-23T01:07:09.417Z",
+      "tweetId": "2047120054010175956",
+      "groupId": "tweet-2047120054010175956"
+    },
+    {
+      "slug": "all-teeth-falling-dream",
+      "category": "body",
+      "locale": "ko",
+      "kicker": "이빨이 다 빠지는 꿈",
+      "setup": "이 꿈은 조상이 보내는 메시지입니다",
+      "oneLiner": "지긋지긋한 문제가 싹 사라집니다",
+      "hashtags": [
+        "#꿈해몽",
+        "#이빨이다빠지는꿈",
+        "#새출발"
+      ],
+      "postText": "오늘 이 꿈을 꿨다면 행운번호를 확인해보세요 👉 kkumhaemong.com/ko/%EA%BF%88%ED%95%B4%EB%AA%BD/ippal-da-ppajineun-kkum",
+      "cardPath": "public/x-cards/posted/all-teeth-falling-dream.jpg",
+      "url": "https://www.kkumhaemong.com/ko/%EA%BF%88%ED%95%B4%EB%AA%BD/ippal-da-ppajineun-kkum",
+      "categoryKey": "새출발",
+      "hook": {
+        "patternIndex": 5,
+        "category": "새출발",
+        "outcomeIndex": 2
+      },
+      "status": "posted",
+      "variantSeed": 0,
+      "createdAt": "2026-04-23T01:00:58.812Z",
+      "postedAt": "2026-04-23T01:06:23.093Z",
+      "tweetId": "2047119859587461139",
+      "groupId": "tweet-2047119859587461139"
     }
   ]
 }
