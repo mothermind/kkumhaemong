@@ -21,17 +21,30 @@ type Props = {
   params: Promise<{ locale: string; slug: string }>;
 };
 
+const BASE_URL = "https://www.kkumhaemong.com";
+
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale, slug } = await params;
   const content = await getContent(slug, locale as Locale);
   if (!content) return {};
   const { seo } = content;
+
+  // Construct canonical URLs from the www base + locale slugs.
+  // Stored seo.hreflang values point to apex (kkumhaemong.com) — do NOT use them.
+  const koPath = `/ko/꿈해몽/${seo.koreanSlug}`;
+  const enPath = `/en/dream/${seo.slug}`;
+  const canonical = locale === "ko" ? `${BASE_URL}${koPath}` : `${BASE_URL}${enPath}`;
+
   return {
     title: locale === "ko" ? content.ko.title : content.en.title,
     description: locale === "ko" ? content.ko.metaDescription : content.en.metaDescription,
     alternates: {
-      canonical: seo.hreflang[locale as Locale],
-      languages: { ko: seo.hreflang.ko, en: seo.hreflang.en },
+      canonical,
+      languages: {
+        ko: `${BASE_URL}${koPath}`,
+        en: `${BASE_URL}${enPath}`,
+        "x-default": `${BASE_URL}${enPath}`,
+      },
     },
     openGraph: {
       title: seo.ogTitle[locale as Locale],
