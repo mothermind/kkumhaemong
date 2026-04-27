@@ -139,6 +139,16 @@ body {
   to   { opacity: 1; transform: translateY(0); }
 }
 
+@keyframes slideUp {
+  from { opacity: 0; transform: translateY(100%); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(-8px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
 .hero-gradient {
   background: linear-gradient(to bottom, rgba(13, 21, 37, 0.4), rgba(13, 21, 37, 0.9));
 }

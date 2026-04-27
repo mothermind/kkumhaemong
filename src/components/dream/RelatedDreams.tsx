@@ -14,7 +14,7 @@ export async function RelatedDreams({ heading, slugs, locale }: Props) {
 
   const related = await Promise.all(
     slugs.slice(0, 6).map(async (slug) => {
-      const content = await getContent(slug, locale);
+      const content = await getContent(slug, "en");
       if (!content) return null;
       const c = locale === "ko" ? content.ko : content.en;
       return {
