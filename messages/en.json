@@ -49,6 +49,7 @@
   },
   "language": {
     "toggle": "한국어",
-    "current": "English"
+    "current": "English",
+    "label": "Language"
   }
 }

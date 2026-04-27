@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { getTranslations } from "next-intl/server";
 import { getContent } from "@/lib/content";
+import { LocaleSlugUpdater } from "@/components/layout/LocaleSlugContext";
 import { DreamHero } from "@/components/dream/DreamHero";
 import { DreamSection } from "@/components/dream/DreamSection";
 import { DreamVariations } from "@/components/dream/DreamVariations";
@@ -101,6 +102,7 @@ export default async function DreamPage({ params }: Props) {
 
   return (
     <>
+      <LocaleSlugUpdater ko={content.seo.koreanSlug} en={content.seo.slug} />
       <ReadingProgress />
       <ViewTracker slug={content.seo.slug} />
 

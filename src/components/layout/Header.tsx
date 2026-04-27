@@ -7,10 +7,12 @@ import { Link, usePathname } from "@/i18n/navigation";
 import type { Locale } from "@/i18n/routing";
 import { ThemeToggle } from "./ThemeToggle";
 import { SearchModal } from "./SearchModal";
+import { useLocaleSlug } from "./LocaleSlugContext";
 
 export function Header({ locale }: { locale: Locale }) {
   const t = useTranslations("nav");
   const tHome = useTranslations("home");
+  const tLang = useTranslations("language");
   const [menuOpen, setMenuOpen] = useState(false);
   const [searchOpen, setSearchOpen] = useState(false);
   const searchTriggerRef = useRef<HTMLButtonElement>(null);
@@ -73,7 +75,9 @@ export function Header({ locale }: { locale: Locale }) {
               </svg>
             </button>
 
-            <LanguageToggle locale={locale} />
+            <span className="hidden md:flex">
+              <LanguageToggle locale={locale} />
+            </span>
             <ThemeToggle />
 
             {/* Hamburger — mobile only */}
@@ -105,6 +109,12 @@ export function Header({ locale }: { locale: Locale }) {
             >
               {t("explore")}
             </Link>
+
+            {/* Language section — mobile only; desktop has it in the header */}
+            <div className="mt-3 pt-3 border-t border-border/40">
+              <p className="text-xs text-text-secondary opacity-60 mb-2">{tLang("label")}</p>
+              <LanguageToggle locale={locale} size="lg" />
+            </div>
           </div>
         )}
       </header>
@@ -121,45 +131,43 @@ export function Header({ locale }: { locale: Locale }) {
   );
 }
 
-function LanguageToggle({ locale }: { locale: Locale }) {
+function LanguageToggle({ locale, size = "sm" }: { locale: Locale; size?: "sm" | "lg" }) {
+  const t = useTranslations("language");
   const pathname = usePathname();
   const params = useParams();
+  const localeSlug = useLocaleSlug();
+
+  const targetLocale: Locale = locale === "ko" ? "en" : "ko";
 
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
   let href: any = pathname;
-  if (params.slug) {
-    href = { pathname: "/dream/[slug]", params: { slug: params.slug } };
+
+  if (localeSlug) {
+    // Dream page: store is hydrated — use the correct per-locale slug
+    const targetSlug = targetLocale === "ko" ? localeSlug.ko : localeSlug.en;
+    href = { pathname: "/dream/[slug]", params: { slug: targetSlug } };
+  } else if (params.slug) {
+    // Dream page: store not yet hydrated (SSR or pre-hydration).
+    // We can't build the cross-locale deep-link without both slugs, so fall
+    // back to the homepage. The store hydrates within ~100ms; post-hydration
+    // the toggle re-renders with the correct deep-link.
+    href = "/";
   } else if (params.category) {
-    href = { pathname: "/category/[category]", params: { category: params.category } };
+    href = { pathname: "/explore/[category]", params: { category: params.category } };
   }
 
-  const isKo = locale === "ko";
+  const textSize = size === "lg" ? "text-sm" : "text-xs";
+  const paddingSize = size === "lg" ? "px-4 py-2" : "px-3 py-1.5";
 
   return (
-    <div className="flex items-center gap-0 rounded-full border border-border overflow-hidden text-xs font-semibold">
-      <Link
-        href={isKo ? pathname : href}
-        locale="ko"
-        className={`px-2.5 py-1.5 transition-colors ${
-          isKo
-            ? "bg-gold text-midnight"
-            : "text-text-secondary opacity-50 hover:opacity-75"
-        }`}
-      >
-        KO
-      </Link>
-      <span className="text-border select-none">|</span>
-      <Link
-        href={isKo ? href : pathname}
-        locale="en"
-        className={`px-2.5 py-1.5 transition-colors ${
-          !isKo
-            ? "bg-gold text-midnight"
-            : "text-text-secondary opacity-50 hover:opacity-75"
-        }`}
-      >
-        EN
-      </Link>
-    </div>
+    <Link
+      href={href}
+      locale={targetLocale}
+      className={`rounded-full border border-border ${paddingSize} ${textSize} text-text-secondary transition-colors hover:border-gold hover:text-gold`}
+    >
+      <span className="opacity-60">{t("current")}</span>
+      <span className="mx-1 opacity-30">·</span>
+      <span>{t("toggle")}</span>
+    </Link>
   );
 }

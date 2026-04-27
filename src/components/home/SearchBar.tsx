@@ -19,6 +19,7 @@ type Props = {
   placeholder: string;
   placeholderShort: string;
   buttonLabel: string;
+  onQueryChange?: (query: string) => void;
 };
 
 const BADGE_STYLES = {
@@ -108,7 +109,7 @@ function highlightMatch(title: string, query: string, locale: Locale) {
   });
 }
 
-export function SearchBar({ locale, placeholder, placeholderShort, buttonLabel }: Props) {
+export function SearchBar({ locale, placeholder, placeholderShort, buttonLabel, onQueryChange }: Props) {
   const [query, setQuery] = useState("");
   const [results, setResults] = useState<IndexEntry[]>([]);
   const [activeIdx, setActiveIdx] = useState(-1);
@@ -186,6 +187,7 @@ export function SearchBar({ locale, placeholder, placeholderShort, buttonLabel }
   function handleChange(e: React.ChangeEvent<HTMLInputElement>) {
     const val = e.target.value;
     setQuery(val);
+    onQueryChange?.(val);
     if (val.trim()) loadIndex();
   }
 
@@ -221,7 +223,7 @@ export function SearchBar({ locale, placeholder, placeholderShort, buttonLabel }
         <div className="relative">
           {/* Search icon (left) */}
           <svg
-            className="absolute left-5 top-1/2 -translate-y-1/2 h-5 w-5 text-white/40 light:text-slate-400 pointer-events-none"
+            className="absolute left-4 top-1/2 -translate-y-1/2 h-5 w-5 text-white/40 light:text-slate-400 pointer-events-none"
             fill="none"
             stroke="currentColor"
             viewBox="0 0 24 24"
@@ -239,7 +241,7 @@ export function SearchBar({ locale, placeholder, placeholderShort, buttonLabel }
               if (results.length > 0 || noResults) setOpen(true);
             }}
             placeholder={placeholder}
-            className="w-full bg-white/10 light:bg-black/8 backdrop-blur-xl border border-white/20 light:border-border rounded-full py-5 pl-14 pr-14 text-text-primary placeholder-white/40 light:placeholder-slate-400 focus:outline-none focus:ring-2 focus:ring-gold/50 focus:border-gold transition-all text-base hidden md:block"
+            className="w-full bg-white/10 light:bg-black/8 backdrop-blur-xl border border-white/20 light:border-border rounded-full py-5 pl-12 pr-14 text-text-primary placeholder-white/40 light:placeholder-slate-400 focus:outline-none focus:ring-2 focus:ring-gold/50 focus:border-gold transition-all text-base hidden md:block"
             autoComplete="off"
           />
           <input
@@ -251,7 +253,7 @@ export function SearchBar({ locale, placeholder, placeholderShort, buttonLabel }
               if (results.length > 0 || noResults) setOpen(true);
             }}
             placeholder={placeholderShort}
-            className="w-full bg-white/10 light:bg-black/8 backdrop-blur-xl border border-white/20 light:border-border rounded-full py-5 pl-14 pr-14 text-text-primary placeholder-white/40 light:placeholder-slate-400 focus:outline-none focus:ring-2 focus:ring-gold/50 focus:border-gold transition-all text-base md:hidden"
+            className="w-full bg-white/10 light:bg-black/8 backdrop-blur-xl border border-white/20 light:border-border rounded-full py-5 pl-12 pr-14 text-text-primary placeholder-white/40 light:placeholder-slate-400 focus:outline-none focus:ring-2 focus:ring-gold/50 focus:border-gold transition-all text-base md:hidden"
             autoComplete="off"
           />
 
@@ -353,9 +355,9 @@ export function SearchBar({ locale, placeholder, placeholderShort, buttonLabel }
             </ul>
           )}
 
-          {/* Keyboard hint */}
+          {/* Keyboard hint — desktop only (no physical keyboard on mobile) */}
           {results.length > 0 && (
-            <div className="px-5 py-2 border-t border-border text-[11px] text-text-subtle flex items-center gap-3">
+            <div className="px-5 py-2 border-t border-border text-[11px] text-text-subtle hidden md:flex items-center gap-3">
               <span className="flex items-center gap-1">
                 <kbd className="px-1.5 py-0.5 rounded bg-white/8 light:bg-black/8 font-mono text-[10px]">↑↓</kbd>
                 {locale === "ko" ? "이동" : "navigate"}
