@@ -42,6 +42,7 @@ next-env.d.ts
 
 # Firebase service account key
 scripts/firebase-service-account.json
+scripts/firebase-service-account-0427.json
 
 # Dream images — stored in Firebase Storage, not git
 /public/images/dreams/
@@ -51,6 +52,7 @@ scripts/firebase-service-account.json
 
 # Runtime hook logs
 /logs
+public/logs/
 
 # Pipeline artifacts — regenerable, not needed for app
 /data/images/
@@ -66,3 +68,6 @@ public/x-cards/
 # X card pipeline runtime artifacts — regenerable, not committed
 data/x-queue/validation/*.json
 data/x-queue/audits/*.json
+
+# Analytics data
+analytics/

@@ -167,6 +167,62 @@
       "postedAt": "2026-04-23T01:06:23.093Z",
       "tweetId": "2047119859587461139",
       "groupId": "tweet-2047119859587461139"
+    },
+    {
+      "slug": "flying-dream",
+      "category": "actions",
+      "locale": "en",
+      "kicker": "Flying Dream",
+      "setup": "Lives have turned on this single dream",
+      "oneLiner": "you're about to pass that test",
+      "hashtags": [
+        "#DreamMeaning",
+        "#FlyingDream",
+        "#KoreanDreams"
+      ],
+      "postText": "Had this dream? See today's lucky numbers 👉 kkumhaemong.com/en/dream/flying-dream",
+      "cardPath": "public/x-cards/posted/flying-dream_en.jpg",
+      "url": "https://www.kkumhaemong.com/en/dream/flying-dream",
+      "categoryKey": "출세",
+      "hook": {
+        "patternIndex": 6,
+        "category": "출세",
+        "outcomeIndex": 2
+      },
+      "status": "posted",
+      "variantSeed": 0,
+      "createdAt": "2026-04-26T01:21:06.997Z",
+      "postedAt": "2026-04-26T01:25:28.041Z",
+      "tweetId": "2048211834017329175",
+      "groupId": "tweet-2048211834017329175"
+    },
+    {
+      "slug": "pig-dream",
+      "category": "animals",
+      "locale": "en",
+      "kicker": "Pig Dream",
+      "setup": "If you had this dream",
+      "oneLiner": "money is on its way",
+      "hashtags": [
+        "#DreamMeaning",
+        "#PigDream",
+        "#KoreanDreams"
+      ],
+      "postText": "Had this dream? See today's lucky numbers 👉 kkumhaemong.com/en/dream/pig-dream",
+      "cardPath": "public/x-cards/posted/pig-dream_en.jpg",
+      "url": "https://www.kkumhaemong.com/en/dream/pig-dream",
+      "categoryKey": "재물",
+      "hook": {
+        "patternIndex": 0,
+        "category": "재물",
+        "outcomeIndex": 0
+      },
+      "status": "posted",
+      "variantSeed": 0,
+      "createdAt": "2026-04-26T01:23:41.452Z",
+      "postedAt": "2026-04-26T01:26:14.481Z",
+      "tweetId": "2048212028691746861",
+      "groupId": "tweet-2048212028691746861"
     }
   ]
 }

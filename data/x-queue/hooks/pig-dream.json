@@ -17,5 +17,9 @@
     "건강": 5
   },
   "classifiedAt": "2026-04-15T02:39:49.276Z",
-  "method": "rule-based-v1"
+  "method": "rule-based-v1",
+  "canonicalCategory": "재물",
+  "canonicalFramingNote": "Pig dream is Korea's canonical wealth omen — h1, intro, primary sections, cultural context, FAQs, and meta description all foreground 재물. Romance is a single secondary mention. Validator flagged the EN card as wrong-angle (rendered 연애 'the one is about to appear' instead of wealth).",
+  "reviewedBy": "kkumhaemong-card-validator-agent",
+  "reviewedAt": "2026-04-26T01:23:33Z"
 }
