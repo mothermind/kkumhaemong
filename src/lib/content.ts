@@ -123,6 +123,22 @@ export async function getAvailableContentSlugs(): Promise<string[]> {
   }
 }
 
+// Memoized set of slugs that exist in Firestore — populated on first call.
+let _contentSlugCache: Set<string> | null = null;
+
+async function getContentSlugSet(): Promise<Set<string>> {
+  if (_contentSlugCache) return _contentSlugCache;
+  const slugs = await getAvailableContentSlugs();
+  _contentSlugCache = new Set(slugs);
+  return _contentSlugCache;
+}
+
+/** Returns true if the english slug has a corresponding Firestore document. */
+export async function hasContent(slug: string): Promise<boolean> {
+  const set = await getContentSlugSet();
+  return set.has(slug);
+}
+
 export async function getContentPreviews(slugs?: string[]): Promise<ContentPreview[]> {
   try {
     const db = getFirestore();
@@ -187,13 +203,15 @@ export async function getContent(
   }
 }
 
-// Korean pages use koreanSlug in the URL — resolve to english slug for Firestore lookup
+// Korean pages use koreanSlug in the URL — resolve to english slug for Firestore lookup.
+// The validator skips taxonomy entries whose english slug has no Firestore content,
+// allowing duplicate koreanSlug entries to fall through to the real article.
 async function resolveToEnglishSlug(
   slug: string,
   locale: Locale
 ): Promise<string | null> {
   if (locale === "en") return slug;
 
-  const symbol = await getSymbolBySlug(slug, "ko");
+  const symbol = await getSymbolBySlug(slug, "ko", async (s) => hasContent(s.slug));
   return symbol?.slug ?? null;
 }

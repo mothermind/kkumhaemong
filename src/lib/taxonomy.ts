@@ -91,7 +91,11 @@ export async function getAllSlugs(): Promise<
 
 export async function getSymbolBySlug(
   slug: string,
-  locale: "ko" | "en"
+  locale: "ko" | "en",
+  // Optional content-existence guard for the "ko" branch only.
+  // When provided, a koreanSlug match is skipped if the validator resolves false,
+  // allowing iteration to continue to the next duplicate entry.
+  validator?: (symbol: TaxonomySymbol) => Promise<boolean>
 ): Promise<TaxonomySymbol | null> {
   const meta = await getTaxonomyMeta();
   if (!meta) return null;
@@ -99,10 +103,19 @@ export async function getSymbolBySlug(
   for (const cat of meta.categories) {
     const data = await getTaxonomyCategory(cat.id);
     if (!data) continue;
-    const match = data.symbols.find((s) =>
-      locale === "ko" ? s.koreanSlug === slug : s.slug === slug
-    );
-    if (match) return match;
+
+    if (locale === "ko" && validator) {
+      for (const s of data.symbols) {
+        if (s.koreanSlug !== slug) continue;
+        const valid = await validator(s);
+        if (valid) return s;
+      }
+    } else {
+      const match = data.symbols.find((s) =>
+        locale === "ko" ? s.koreanSlug === slug : s.slug === slug
+      );
+      if (match) return match;
+    }
   }
 
   return null;

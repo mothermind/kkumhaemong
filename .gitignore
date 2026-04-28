@@ -44,6 +44,9 @@ next-env.d.ts
 scripts/firebase-service-account.json
 scripts/firebase-service-account-0427.json
 
+# Script backup dumps — for rollback safety, not for git
+scripts/_backup-*.json
+
 # Dream images — stored in Firebase Storage, not git
 /public/images/dreams/
 
