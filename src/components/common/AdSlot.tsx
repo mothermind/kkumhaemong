@@ -90,6 +90,13 @@ export function AdSlot({ slot, locale }: Props) {
             the primary network from `networks[0]` here (e.g. <AdFitUnit /> or
             <AdSenseUnit />), with the second entry as fill. Keep this whole
             branch behind `adsEnabled` — no script tags outside this gate.
+
+            Consent contract (src/lib/consent.ts): before loading any network
+            script here, gate on `getConsent() === "granted"`. Visitors who
+            have not yet decided (getConsent() === null) or who declined
+            should not trigger a network ad-script fetch. See the site-wide
+            cookie-consent banner (CookieConsent.tsx) for how the choice is
+            captured and persisted (localStorage key "ad-consent", no cookie).
           */}
           {locale === "ko" ? "광고 준비 중" : "Ad space reserved"}
         </span>
