@@ -43,9 +43,9 @@
     "browseAll": "Browse All"
   },
   "footer": {
-    "description": "Your guide to Korean dream interpretation",
-    "copyright": "© {year} Kkumhaemong. All rights reserved.",
-    "disclaimer": "Dream interpretations are for reference only and do not constitute real-world advice."
+    "tagline": "Korean Dream Interpretation Encyclopedia",
+    "copyright": "© {year} kkumhaemong.com",
+    "privacyPolicy": "Privacy Policy"
   },
   "language": {
     "toggle": "한국어",

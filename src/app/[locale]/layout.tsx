@@ -57,7 +57,7 @@ export default async function LocaleLayout({
         <NextIntlClientProvider messages={messages}>
           <Header locale={locale as Locale} />
           <main className="flex-1 pt-20 bg-midnight light:bg-[#f5f0e8]">{children}</main>
-          <Footer locale={locale as Locale} />
+          <Footer />
           <CookieConsent locale={locale as Locale} />
         </NextIntlClientProvider>
         <Analytics />
