@@ -34,6 +34,16 @@ export function Footer({ locale }: { locale: Locale }) {
             </h4>
             <ul className="text-sm text-text-muted space-y-4">
               <li>
+                <Link href="/about" className="hover:text-text-primary transition-colors">
+                  {locale === "ko" ? "사이트 소개" : "About"}
+                </Link>
+              </li>
+              <li>
+                <Link href="/contact" className="hover:text-text-primary transition-colors">
+                  {locale === "ko" ? "문의하기" : "Contact"}
+                </Link>
+              </li>
+              <li>
                 <Link href="/privacy-policy" className="hover:text-text-primary transition-colors">
                   {locale === "ko" ? "개인정보처리방침" : "Privacy Policy"}
                 </Link>

@@ -25,6 +25,14 @@ export const routing = defineRouting({
       ko: "/개인정보처리방침",
       en: "/privacy-policy",
     },
+    "/about": {
+      ko: "/소개",
+      en: "/about",
+    },
+    "/contact": {
+      ko: "/문의",
+      en: "/contact",
+    },
   },
 });
 
