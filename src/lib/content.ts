@@ -123,19 +123,37 @@ export async function getAvailableContentSlugs(): Promise<string[]> {
   }
 }
 
-// Memoized set of slugs that exist in Firestore — populated on first call.
+// Memoized set of slugs that exist in Firestore — populated on first successful call.
+// Fix for ba0baa8 regression: only cache a non-empty result. An empty list (Firestore
+// error or transient failure) must NOT be memoized — doing so poisons the cache for
+// the function instance's lifetime and makes hasContent() return false for every slug,
+// causing every KO page to 404.
 let _contentSlugCache: Set<string> | null = null;
 
 async function getContentSlugSet(): Promise<Set<string>> {
   if (_contentSlugCache) return _contentSlugCache;
   const slugs = await getAvailableContentSlugs();
-  _contentSlugCache = new Set(slugs);
-  return _contentSlugCache;
+  // Only memoize when we got real data. An empty result means Firestore was
+  // unavailable — return a transient set so the next request retries.
+  if (slugs.length > 0) {
+    _contentSlugCache = new Set(slugs);
+    return _contentSlugCache;
+  }
+  return new Set();
 }
 
-/** Returns true if the english slug has a corresponding Firestore document. */
+/**
+ * Returns true if the english slug has a corresponding Firestore document.
+ *
+ * Fails open: when the slug list cannot be fetched (Firestore error → empty list),
+ * returns true so KO slug resolution lets the request proceed. A genuine phantom
+ * slug will still 404 downstream when getContent() fetches the doc and finds nothing.
+ * "Cannot verify" must not be treated the same as "confirmed absent".
+ */
 export async function hasContent(slug: string): Promise<boolean> {
   const set = await getContentSlugSet();
+  // Empty set means we could not verify — fail open (treat as present).
+  if (set.size === 0) return true;
   return set.has(slug);
 }
 
