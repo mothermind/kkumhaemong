@@ -13,6 +13,7 @@ import { TableOfContents } from "@/components/dream/TableOfContents";
 import { ReadingProgress } from "@/components/dream/ReadingProgress";
 import { ViewTracker } from "@/components/dream/ViewTracker";
 import { LuckyNumbers } from "@/components/dream/LuckyNumbers";
+import { AdSlot } from "@/components/common/AdSlot";
 import type { Locale } from "@/i18n/routing";
 
 export const revalidate = 86400; // revalidate cached pages every 24h
@@ -125,6 +126,11 @@ export default async function DreamPage({ params }: Props) {
         {/* Divider */}
         <div className="my-0" />
 
+        {/* In-content #1 — after intro, before the 길몽 section. Renders eagerly. */}
+        <div className="my-8">
+          <AdSlot slot="in-content-1" locale={locale} />
+        </div>
+
         <TableOfContents items={tocItems} locale={locale} />
 
         {(() => {
@@ -147,6 +153,16 @@ export default async function DreamPage({ params }: Props) {
             );
           });
         })()}
+
+        {/*
+          In-content #2 — between the 흉몽 section and Lucky Numbers. Sits
+          directly above the reveal button for guaranteed viewability at the
+          highest-engagement moment (see ads-strategy.md amendment #3).
+          Lazy-rendered via IntersectionObserver.
+        */}
+        <div className="my-8">
+          <AdSlot slot="in-content-2" locale={locale} />
+        </div>
 
         <LuckyNumbers slug={content.seo.slug} locale={locale} />
 
@@ -181,6 +197,11 @@ export default async function DreamPage({ params }: Props) {
             <MarkdownBody className="italic [&_p]:text-text-muted">{c.conclusion}</MarkdownBody>
           </section>
         )}
+
+        {/* End-of-content — before Related Dreams. Lazy-rendered via IntersectionObserver. */}
+        <div className="my-8">
+          <AdSlot slot="end" locale={locale} />
+        </div>
 
         <RelatedDreams
           heading={t("relatedDreams")}
