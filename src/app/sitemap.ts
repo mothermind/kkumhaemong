@@ -4,6 +4,11 @@ import { getAvailableContentSlugs } from "@/lib/content";
 
 const BASE_URL = "https://www.kkumhaemong.com";
 
+// Without this, the sitemap route is statically frozen at the edge between
+// deploys and can serve a stale/stub list for months. Matches the ISR
+// interval already used on dream/category/explore pages.
+export const revalidate = 86400;
+
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const entries: MetadataRoute.Sitemap = [];
 
