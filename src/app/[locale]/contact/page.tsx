@@ -4,7 +4,7 @@ import { Link } from "@/i18n/navigation";
 type Props = { params: Promise<{ locale: string }> };
 
 const BASE_URL = "https://www.kkumhaemong.com";
-const CONTACT_EMAIL = "account@kbeautyworldwide.com";
+const CONTACT_EMAIL = "jinju.askme@gmail.com";
 
 // Light scraper-obfuscation: numeric HTML entities decode fine in every
 // browser and remain a real, clickable mailto link, but defeat naive
