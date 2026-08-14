@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useMemo } from "react";
+import { track } from "@/lib/track";
 
 type Props = {
   slug: string;
@@ -122,7 +123,10 @@ export function LuckyNumbers({ slug, locale }: Props) {
           </div>
         ) : (
           <button
-            onClick={() => setRevealed(true)}
+            onClick={() => {
+              setRevealed(true);
+              track({ type: "lucky_reveal", slug, locale });
+            }}
             className="inline-block px-8 py-3 border border-border text-text-primary text-sm tracking-widest hover:bg-text-primary hover:text-bg transition-all duration-300"
           >
             {locale === "ko" ? "행운의 숫자 뽑기" : "REVEAL LUCKY NUMBERS"}

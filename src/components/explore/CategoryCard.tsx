@@ -3,6 +3,7 @@
 import { useState } from "react";
 import { Link } from "@/i18n/navigation";
 import type { Locale } from "@/i18n/routing";
+import { track } from "@/lib/track";
 
 type Props = {
   categoryId: string;
@@ -20,7 +21,10 @@ export function CategoryCard({ categoryId, icon, name, count, countLabel, locale
     <Link
       href={{ pathname: "/explore/[category]", params: { category: categoryId } }}
       locale={locale}
-      onClick={() => setLoading(true)}
+      onClick={() => {
+        setLoading(true);
+        track({ type: "explore_nav", slug: categoryId, locale });
+      }}
       className={`group flex flex-col gap-3 rounded-xl border border-border bg-surface/20 light:bg-black/[0.03] px-4 py-5 transition-all hover:border-gold/30 hover:bg-surface/40 light:hover:bg-black/[0.06] ${
         loading ? "opacity-60 scale-[0.97]" : ""
       }`}

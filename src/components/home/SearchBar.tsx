@@ -3,6 +3,7 @@
 import { useState, useRef, useEffect, useCallback } from "react";
 import { useRouter } from "@/i18n/navigation";
 import type { Locale } from "@/i18n/routing";
+import { track } from "@/lib/track";
 
 type IndexEntry = {
   slug: string;
@@ -177,6 +178,10 @@ export function SearchBar({ locale, placeholder, placeholderShort, buttonLabel, 
     setQuery(title);
     setOpen(false);
 
+    // entry.slug is always the canonical english slug — safe for aggregation
+    // regardless of which locale's route (koreanSlug vs slug) is navigated to.
+    track({ type: "search_result_click", slug: entry.slug, locale });
+
     const slug = locale === "ko" ? entry.koreanSlug : entry.slug;
     // Brief pause so the user sees the selected title in the input
     setTimeout(() => {
@@ -211,6 +216,7 @@ export function SearchBar({ locale, placeholder, placeholderShort, buttonLabel, 
 
   function handleSubmit(e: React.FormEvent) {
     e.preventDefault();
+    if (query.trim()) track({ type: "search_submit", locale });
     if (results[0]) navigate(results[activeIdx >= 0 ? activeIdx : 0]);
   }
 

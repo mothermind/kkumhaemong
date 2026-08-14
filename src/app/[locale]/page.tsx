@@ -6,6 +6,7 @@ import type { Locale } from "@/i18n/routing";
 import { getContentPreviews, getTopDreamsByViews } from "@/lib/content";
 import { DreamCard } from "@/components/dream/DreamCard";
 import { SearchBar } from "@/components/home/SearchBar";
+import { CategoryChip } from "@/components/home/CategoryChip";
 
 type Props = { params: Promise<{ locale: string }> };
 
@@ -130,14 +131,12 @@ export default async function HomePage({ params }: Props) {
           {/* Category chips */}
           <div className="flex flex-wrap justify-center gap-3 text-sm">
             {CATEGORY_CHIPS.map((chip) => (
-              <Link
+              <CategoryChip
                 key={chip.slug}
-                href={{ pathname: "/explore/[category]", params: { category: chip.slug } }}
+                categoryId={chip.slug}
+                label={locale === "ko" ? chip.ko : chip.en}
                 locale={locale as Locale}
-                className="px-6 py-2 rounded-full border border-border bg-surface/30 light:bg-white/20 light:text-white light:border-white/30 hover:bg-gold hover:text-midnight transition-all"
-              >
-                {locale === "ko" ? chip.ko : chip.en}
-              </Link>
+              />
             ))}
           </div>
         </div>

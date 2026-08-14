@@ -1,6 +1,5 @@
-import Image from "next/image";
-import { Link } from "@/i18n/navigation";
 import { getContent } from "@/lib/content";
+import { RelatedDreamLink } from "@/components/dream/RelatedDreamLink";
 import type { Locale } from "@/i18n/routing";
 
 type Props = {
@@ -18,7 +17,11 @@ export async function RelatedDreams({ heading, slugs, locale }: Props) {
       if (!content) return null;
       const c = locale === "ko" ? content.ko : content.en;
       return {
+        // Locale-specific slug used for the route.
         slug: locale === "ko" ? content.seo.koreanSlug : content.seo.slug,
+        // Canonical english slug — used for tracking so aggregation keys survive
+        // sanitization (Korean characters get stripped by /[^a-zA-Z0-9_-]/g).
+        trackSlug: content.seo.slug,
         title: c.h1,
         hero: content.images?.hero,
       };
@@ -27,6 +30,7 @@ export async function RelatedDreams({ heading, slugs, locale }: Props) {
 
   const valid = related.filter(Boolean) as Array<{
     slug: string;
+    trackSlug: string;
     title: string;
     hero?: string;
   }>;
@@ -43,29 +47,14 @@ export async function RelatedDreams({ heading, slugs, locale }: Props) {
       </h2>
       <div className="grid grid-cols-2 gap-3 sm:grid-cols-3">
         {valid.map((item) => (
-          <Link
+          <RelatedDreamLink
             key={item.slug}
-            href={{
-              pathname: "/dream/[slug]",
-              params: { slug: item.slug },
-            }}
-            className="group rounded-xl border border-border bg-surface/20 light:bg-black/[0.03] p-3 transition-all hover:border-gold/30 hover:bg-surface/40 light:hover:bg-black/[0.06]"
-          >
-            {item.hero && (
-              <div className="relative mb-3 h-20 w-full overflow-hidden rounded-lg bg-white/10">
-                <Image
-                  src={item.hero}
-                  alt={item.title}
-                  fill
-                  className="object-cover opacity-90 group-hover:opacity-100 transition-opacity"
-                  sizes="(max-width: 640px) 50vw, 33vw"
-                />
-              </div>
-            )}
-            <p className="text-sm font-medium text-text-muted leading-snug transition-colors group-hover:text-gold">
-              {item.title}
-            </p>
-          </Link>
+            href={item.slug}
+            title={item.title}
+            hero={item.hero}
+            trackSlug={item.trackSlug}
+            locale={locale}
+          />
         ))}
       </div>
     </section>
