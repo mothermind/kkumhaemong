@@ -9,6 +9,7 @@ import "../globals.css";
 import { Header } from "@/components/layout/Header";
 import { Footer } from "@/components/layout/Footer";
 import { CookieConsent } from "@/components/layout/CookieConsent";
+import { AdSenseLoader } from "@/components/common/AdSenseLoader";
 
 const nanumMyeongjo = Nanum_Myeongjo({
   weight: ["400", "700", "800"],
@@ -59,6 +60,7 @@ export default async function LocaleLayout({
           <main className="flex-1 pt-20 bg-midnight light:bg-[#f5f0e8]">{children}</main>
           <Footer />
           <CookieConsent locale={locale as Locale} />
+          <AdSenseLoader />
         </NextIntlClientProvider>
         <Analytics />
       </body>
