@@ -8,6 +8,22 @@ type ConsentRecord = {
 const STORAGE_KEY = "ad-consent";
 const REPROMPT_AFTER_MS = 180 * 24 * 60 * 60 * 1000; // 180 days
 
+// In-tab pub/sub so consent-gated components (AdSense loader + slots) can
+// react the moment the visitor clicks the cookie banner, without a reload.
+// The banner and the ad components are separate client components that
+// don't share React state, so this is the bridge between them.
+const listeners = new Set<() => void>();
+
+/** Subscribe to consent changes made via `setConsent()`. Returns an unsubscribe fn. */
+export function subscribeConsent(listener: () => void): () => void {
+  listeners.add(listener);
+  return () => listeners.delete(listener);
+}
+
+function notifyConsentChange(): void {
+  for (const listener of listeners) listener();
+}
+
 function readRecord(): ConsentRecord | null {
   if (typeof window === "undefined") return null;
   try {
@@ -41,6 +57,7 @@ export function setConsent(value: ConsentValue): void {
     // localStorage unavailable (private mode / quota) — banner simply
     // re-prompts next visit; not fatal.
   }
+  notifyConsentChange();
 }
 
 /**
