@@ -76,6 +76,20 @@ const ADFIT_UNIT: Record<AdSlotName, string | undefined> = {
   end: process.env.NEXT_PUBLIC_ADFIT_UNIT_END,
 };
 
+// Shared with src/app/[locale]/dream/[slug]/page.tsx, which SSRs the
+// `ba.min.js` <script> tag itself (see ADFIT_SCRIPT_ID below) — this constant
+// is the single source of truth for "is any AdFit unit configured" so the
+// server component's gate never drifts from this component's own.
+export const ADFIT_CONFIGURED = Boolean(
+  ADFIT_UNIT["in-content-1"] || ADFIT_UNIT["in-content-2"] || ADFIT_UNIT.end
+);
+
+// Shared id: the client-side loader below checks for this id before
+// appending its own <script>, so whichever one lands first (SSR'd markup on
+// /ko/ article pages, or this runtime fallback elsewhere) the other is a
+// no-op — ba.min.js is still only ever requested once per page.
+export const ADFIT_SCRIPT_ID = "kakao-adfit-script";
+
 const ADSENSE_CLIENT = process.env.NEXT_PUBLIC_ADSENSE_CLIENT;
 
 const ADSENSE_SLOT: Record<AdSlotName, string | undefined> = {
@@ -102,9 +116,12 @@ let adfitScriptRequested = false;
 function ensureAdFitScript() {
   if (adfitScriptRequested || typeof document === "undefined") return;
   adfitScriptRequested = true;
-  if (document.getElementById("kakao-adfit-script")) return;
+  // Already present when the server rendered it inline (see
+  // /ko/ dream/[slug]/page.tsx) — this runtime path only creates the tag as
+  // a fallback for slots/pages that don't SSR it.
+  if (document.getElementById(ADFIT_SCRIPT_ID)) return;
   const script = document.createElement("script");
-  script.id = "kakao-adfit-script";
+  script.id = ADFIT_SCRIPT_ID;
   script.async = true;
   script.src = "//t1.kakaocdn.net/kas/static/ba.min.js";
   document.body.appendChild(script);

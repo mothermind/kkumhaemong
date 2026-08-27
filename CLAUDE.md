@@ -362,7 +362,7 @@ Validates and proofreads existing content; syncs only changed docs to Firestore.
 
 ## Ads
 
-`src/components/common/AdSlot.tsx` renders three fixed-size in-content units per dream article (`in-content-1`, `in-content-2`, `end` — placed in `src/app/[locale]/dream/[slug]/page.tsx` only). `src/components/common/AdSenseLoader.tsx` mounts the AdSense site-wide loader script from the locale layout. Master switch: `NEXT_PUBLIC_ADS_ENABLED` — unset/false means every ad component renders null and the site is visually unchanged.
+`src/components/common/AdSlot.tsx` renders three fixed-size in-content units per dream article (`in-content-1`, `in-content-2`, `end` — placed in `src/app/[locale]/dream/[slug]/page.tsx` only). `src/components/common/AdSenseLoader.tsx` mounts the AdSense site-wide loader script from the locale layout. The AdFit loader (`ba.min.js`) is SSR'd as a literal `<script>` tag directly in `dream/[slug]/page.tsx` on `/ko/` article pages (gated on `ADFIT_CONFIGURED` + ads-enabled) — AdFit's media review fetches raw HTML without executing JS, so the loader must be present in the initial response, not injected after mount; `AdSlot.tsx`'s own client-side `ensureAdFitScript()` checks for the same script id first and is a no-op when the SSR copy is already there, so `ba.min.js` is still only ever requested once per page. Master switch: `NEXT_PUBLIC_ADS_ENABLED` — unset/false means every ad component renders null and the site is visually unchanged.
 
 ### Networks
 

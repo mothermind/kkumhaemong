@@ -13,7 +13,7 @@ import { TableOfContents } from "@/components/dream/TableOfContents";
 import { ReadingProgress } from "@/components/dream/ReadingProgress";
 import { ViewTracker } from "@/components/dream/ViewTracker";
 import { LuckyNumbers } from "@/components/dream/LuckyNumbers";
-import { AdSlot } from "@/components/common/AdSlot";
+import { AdSlot, ADFIT_CONFIGURED, ADFIT_SCRIPT_ID } from "@/components/common/AdSlot";
 import type { Locale } from "@/i18n/routing";
 
 export const revalidate = 86400; // revalidate cached pages every 24h
@@ -101,8 +101,19 @@ export default async function DreamPage({ params }: Props) {
     { id: faqId, label: t("faq") },
   ];
 
+  // AdFit is /ko/-only (see AD_NETWORK_ORDER in AdSlot.tsx) and its media
+  // review fetches HTML without executing JS — SSR the loader script here so
+  // review tooling sees it without a client-side mount. AdSlot's own
+  // ensureAdFitScript() checks for ADFIT_SCRIPT_ID before appending its own
+  // copy, so this never double-loads ba.min.js.
+  const adsEnabled = process.env.NEXT_PUBLIC_ADS_ENABLED === "true";
+  const shouldRenderAdFitScript = locale === "ko" && adsEnabled && ADFIT_CONFIGURED;
+
   return (
     <>
+      {shouldRenderAdFitScript && (
+        <script id={ADFIT_SCRIPT_ID} async src="//t1.kakaocdn.net/kas/static/ba.min.js" />
+      )}
       <LocaleSlugUpdater ko={content.seo.koreanSlug} en={content.seo.slug} />
       <ReadingProgress />
       <ViewTracker slug={content.seo.slug} />
