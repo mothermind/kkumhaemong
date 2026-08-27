@@ -366,10 +366,12 @@ Validates and proofreads existing content; syncs only changed docs to Firestore.
 
 ### Networks
 
-| Network | Locale | Sizes | Consent gate |
+| Network | Locale | Sizes (in-content-1 / in-content-2 / end) | Consent gate |
 |---|---|---|---|
-| Kakao AdFit | `/ko/` primary | 320×100 / 300×250 / 320×100 (fixed banner — AdFit web has no responsive/native unit) | **No.** See rationale below. |
-| Google AdSense | `/en/` only, and `/ko/` fallback on AdFit no-fill | same fixed sizes, reused for the in-article unit | Yes — gated on `getConsent() === "granted"` from `src/lib/consent.ts` |
+| Kakao AdFit | `/ko/` primary | 320×100 / 300×250 / **250×250** (fixed banner — AdFit web has no responsive/native unit) | **No.** See rationale below. |
+| Google AdSense | `/en/` only, and `/ko/` fallback on AdFit no-fill | 320×100 / 300×250 / **320×100** | Yes — gated on `getConsent() === "granted"` from `src/lib/consent.ts` |
+
+The `end` slot is the one place the two networks now diverge: AdFit allows only one unit per size per 매체 (media/site), and 320×100 was already taken by `in-content-1`, so `end` moved to 250×250 on the AdFit side. AdSense has no such restriction and keeps `end` at 320×100. `ADFIT_SIZE` / `ADSENSE_SIZE` in `AdSlot.tsx` are the two source-of-truth maps — when AdFit falls back to AdSense on a no-fill (see waterfall below), the injected AdSense `<ins>` is still sized to `ADFIT_SIZE` (it renders into the box AdFit already claimed), not `ADSENSE_SIZE`.
 
 `AD_NETWORK_ORDER` in `AdSlot.tsx` is the single swap point for the planned revenue A/B (`ko: [adfit, adsense]`, `en: [adsense]`).
 

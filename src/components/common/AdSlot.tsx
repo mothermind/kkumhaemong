@@ -46,9 +46,21 @@ const NETWORK_REQUIRES_CONSENT: Record<Network, boolean> = {
 };
 
 // Fixed banner sizes — AdFit web has no responsive/native unit, fixed sizes
-// only (160x600, 250x250, 300x250, 320x100, 320x50, 728x90). Reused for the
-// AdSense in-article units too so both networks fill the identical box.
-const SLOT_SIZE: Record<AdSlotName, { width: number; height: number }> = {
+// only (160x600, 250x250, 300x250, 320x100, 320x50, 728x90). AdFit also
+// allows only one unit per size per 매체 (media/site), so `end` had to move
+// off 320x100 (already used by in-content-1) to 250x250.
+const ADFIT_SIZE: Record<AdSlotName, { width: number; height: number }> = {
+  "in-content-1": { width: 320, height: 100 },
+  "in-content-2": { width: 300, height: 250 },
+  end: { width: 250, height: 250 },
+};
+
+// AdSense in-article sizes. Matches ADFIT_SIZE for in-content-1/2, but `end`
+// intentionally differs (320x100, unchanged) — AdSense has no one-unit-
+// per-size restriction, so there was no reason to move it. This means the
+// two networks now render different box dimensions for the same `end` slot
+// depending on which one is active for a given locale/request.
+const ADSENSE_SIZE: Record<AdSlotName, { width: number; height: number }> = {
   "in-content-1": { width: 320, height: 100 },
   "in-content-2": { width: 300, height: 250 },
   end: { width: 320, height: 100 },
@@ -116,7 +128,8 @@ export function AdSlot({ slot, locale }: Props) {
   const consent = useSyncExternalStore(subscribeConsent, getConsent, () => null);
 
   const networks = AD_NETWORK_ORDER[locale] ?? AD_NETWORK_ORDER.en;
-  const { width, height } = SLOT_SIZE[slot];
+  const adfitSize = ADFIT_SIZE[slot];
+  const adsenseSize = ADSENSE_SIZE[slot];
 
   const adfitConfigured = Boolean(ADFIT_UNIT[slot]);
   const adsenseConfigured = Boolean(ADSENSE_CLIENT && ADSENSE_SLOT[slot]);
@@ -188,11 +201,14 @@ export function AdSlot({ slot, locale }: Props) {
     const globalWindow = window as unknown as Record<string, (elm: HTMLElement) => void>;
     globalWindow[onFailName] = (elm: HTMLElement) => {
       if (!canFallbackToAdsense || !ADSENSE_CLIENT || !ADSENSE_SLOT[slot]) return;
+      // Sized to adfitSize, not adsenseSize — this injects into the box
+      // AdFit already reserved/rendered, so it must match that box's
+      // dimensions (matters for `end`, where the two networks now differ).
       const ins = document.createElement("ins");
       ins.className = "adsbygoogle";
       ins.style.display = "inline-block";
-      ins.style.width = `${width}px`;
-      ins.style.height = `${height}px`;
+      ins.style.width = `${adfitSize.width}px`;
+      ins.style.height = `${adfitSize.height}px`;
       ins.setAttribute("data-ad-client", ADSENSE_CLIENT);
       ins.setAttribute("data-ad-slot", ADSENSE_SLOT[slot]!);
       elm.appendChild(ins);
@@ -202,7 +218,7 @@ export function AdSlot({ slot, locale }: Props) {
     return () => {
       delete globalWindow[onFailName];
     };
-  }, [adsEnabled, primary, canFallbackToAdsense, slot, onFailName, width, height]);
+  }, [adsEnabled, primary, canFallbackToAdsense, slot, onFailName, adfitSize.width, adfitSize.height]);
 
   // Label visibility for the AdFit branch: before approval (ADFIT_RESERVE_SPACE
   // unset) we don't want a "광고" label sitting over empty space, so only show
@@ -238,6 +254,10 @@ export function AdSlot({ slot, locale }: Props) {
 
   const showLabel = primary === "adsense" || ADFIT_RESERVE_SPACE || adfitFilled;
   const reserveBox = primary === "adsense" || ADFIT_RESERVE_SPACE;
+  // Whichever network is actually rendering governs the reserved box's own
+  // height — matters for `end`, where AdFit (250x250) and AdSense (320x100)
+  // now differ.
+  const activeSize = primary === "adsense" ? adsenseSize : adfitSize;
 
   return (
     <div
@@ -245,7 +265,7 @@ export function AdSlot({ slot, locale }: Props) {
       data-ad-slot={slot}
       data-ad-network={primary}
       className="w-full flex flex-col items-center justify-center gap-1"
-      style={reserveBox ? { minHeight: height } : undefined}
+      style={reserveBox ? { minHeight: activeSize.height } : undefined}
     >
       {showLabel && (
         <span className="text-[10px] font-bold uppercase tracking-widest text-text-subtle">
@@ -256,16 +276,16 @@ export function AdSlot({ slot, locale }: Props) {
         <ins
           ref={insRef}
           className="kakao_ad_area"
-          style={{ display: "none", width, height }}
+          style={{ display: "none", width: adfitSize.width, height: adfitSize.height }}
           data-ad-unit={ADFIT_UNIT[slot]}
-          data-ad-width={String(width)}
-          data-ad-height={String(height)}
+          data-ad-width={String(adfitSize.width)}
+          data-ad-height={String(adfitSize.height)}
           data-ad-onfail={onFailName}
         />
       ) : (
         <ins
           className="adsbygoogle"
-          style={{ display: "inline-block", width, height }}
+          style={{ display: "inline-block", width: adsenseSize.width, height: adsenseSize.height }}
           data-ad-client={ADSENSE_CLIENT}
           data-ad-slot={ADSENSE_SLOT[slot]}
         />
