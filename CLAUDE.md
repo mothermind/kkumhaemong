@@ -360,6 +360,40 @@ Validates and proofreads existing content; syncs only changed docs to Firestore.
 
 ---
 
+## Ads
+
+`src/components/common/AdSlot.tsx` renders three fixed-size in-content units per dream article (`in-content-1`, `in-content-2`, `end` — placed in `src/app/[locale]/dream/[slug]/page.tsx` only). `src/components/common/AdSenseLoader.tsx` mounts the AdSense site-wide loader script from the locale layout. Master switch: `NEXT_PUBLIC_ADS_ENABLED` — unset/false means every ad component renders null and the site is visually unchanged.
+
+### Networks
+
+| Network | Locale | Sizes | Consent gate |
+|---|---|---|---|
+| Kakao AdFit | `/ko/` primary | 320×100 / 300×250 / 320×100 (fixed banner — AdFit web has no responsive/native unit) | **No.** See rationale below. |
+| Google AdSense | `/en/` only, and `/ko/` fallback on AdFit no-fill | same fixed sizes, reused for the in-article unit | Yes — gated on `getConsent() === "granted"` from `src/lib/consent.ts` |
+
+`AD_NETWORK_ORDER` in `AdSlot.tsx` is the single swap point for the planned revenue A/B (`ko: [adfit, adsense]`, `en: [adsense]`).
+
+### Why AdFit is not consent-gated
+
+AdFit media review (매체 심사) only runs once the ad snippet is live on the site — Kakao's reviewer never interacts with the cookie banner, so gating AdFit behind consent would leave the reviewer looking at nothing and fail review again (status as of 2026-08-19: 심사 보류, "설치 이후 심사 진행 가능"). AdFit therefore installs unconditionally once `NEXT_PUBLIC_ADS_ENABLED=true` and a unit id env var is set. This is consistent with KR PIPA, which is notice-based for this kind of non-cookie ad snippet — the cookie banner itself satisfies notice. AdSense stays consent-gated (GDPR-relevant, `/en/` international audience). The per-network gate lives in `NETWORK_REQUIRES_CONSENT` in `AdSlot.tsx` — revisit once AdFit clears review.
+
+### AdFit → AdSense waterfall
+
+AdFit's Web SDK supports a documented NO-AD callback (`data-ad-onfail`, see the [AdFit Web SDK guide](https://github.com/adfit/adfit-web-sdk)) that fires when a request fails or has no fill, receiving the `<ins>` element as its argument. `AdSlot.tsx` registers a per-slot global callback (`__adfitOnFail_{slot}`) that injects an AdSense `<ins>` into the same box and pushes it to `adsbygoogle` — this is Kakao's own documented pattern for chaining to an external network. The fallback only fires if AdSense is configured *and* consent is granted at that moment.
+
+### Two-phase CLS strategy for AdFit
+
+- **Phase 1 (pre-approval, default)** — `NEXT_PUBLIC_ADFIT_RESERVE_SPACE` unset/false. The ad box collapses to the `<ins>`'s own natural size (zero) until an ad fills, matching AdFit's own `display:none`-then-reveal snippet behavior. A permanently reserved empty box would be dead whitespace on the live site while under review.
+- **Phase 2 (post-approval)** — flip `NEXT_PUBLIC_ADFIT_RESERVE_SPACE=true`. The wrapper reserves the exact pixel box up front for CLS protection.
+
+AdSense units always reserve their fixed box (not gated by this flag) — no live-review constraint applies to them the same way.
+
+### Env vars
+
+See `.env.sample` for the full list and inline comments: `NEXT_PUBLIC_ADS_ENABLED`, `NEXT_PUBLIC_ADFIT_UNIT_IN_CONTENT_1/2/END`, `NEXT_PUBLIC_ADFIT_RESERVE_SPACE`, `NEXT_PUBLIC_ADSENSE_CLIENT`, `NEXT_PUBLIC_ADSENSE_SLOT_IN_CONTENT_1/2/END`. A slot with no unit id configured renders nothing — never a broken placeholder box.
+
+---
+
 ## Hooks (`.claude/settings.json`)
 
 | Hook | Script | Purpose |
